@@ -24,7 +24,7 @@
 	prayer('PrTemp/septuagesima/50.php');
 	space();
 
-	ordref(0,6,0);
+	ordref(0,6.1,0);
 
 	hour('T');
 	lc('1cor13_1.php');

@@ -27,7 +27,6 @@ Surréxit, ac Paráclito,
 In sempitérna sǽcula. Amen.
 
 ¶ <sr>Tempore Ascensionis:</s>
-
 Jesu tibi sit glória,
 Qui victor in cælum redis,
 Cum Patre, et almo Spíritu,

@@ -47,9 +47,12 @@ function feria($d, $class=3, $size=2) {
 		'IV classis', 23 => 'II or III class');
 	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.', 'IV cl.');
 	head($dayL[$d], $dayE[$d], $size, $h1, $h2);
-	if($class<0) {
+	if($class==-2) {
 		$class = -$class;
 		head('Quatuor Temporum','Ember Day',4);
+	} elseif($class==-1) {
+		$class = -$class;
+		head('Hebdomadæ Sanctæ','Holy Week',4);
 	}
 	head($clnameL[$class],$clnameE[$class], 5);
 }
@@ -125,7 +128,9 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 		hidden($head1,1);
 	if($head2)
 		hidden($head2);
-
+	
+	$size = 1;
+	if($class==4) $size = '1NI';
 	head($nameL,$nameE,1);
 	if(is_array($descr)) {
 		if($L) head($clnameL[$class] .' - '. $descr[0], '', 4);

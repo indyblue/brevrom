@@ -24,7 +24,7 @@
 	prayer('PrTemp/lent/30.php');
 	space();
 
-	ordref(0,6,0);
+	ordref(0,6.1,0);
 	hour('T');
 	lc('eph5_1-2.php');
 	brS('PrTemp/ipse_liberavit_me_de_laqueo_venantium.php');

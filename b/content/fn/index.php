@@ -33,7 +33,8 @@ $_GET['matins'] = 1;
 //$url = $_GET['url'];
 //require 'content/'.$url;
 
-require '../3PropT/01_advent/index.php';
+require '../5PropS/03-7dolours.php';
+// require '../3PropT/01_advent/index.php';
 //	lc('cant6_8.php');
 
 /*

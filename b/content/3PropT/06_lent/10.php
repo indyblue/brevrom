@@ -24,7 +24,7 @@
 	prayer('PrTemp/lent/10.php');
 	space();
 
-	ordref(0,6,0);
+	ordref(0,6.1,0);
 	rubp('Ad Primam, ad absolutionem capituli lectio brevis <snr>Quǽrite Dóminum</s>, de tempore Quadragesimæ.', 'At Prime, at the end of the hour the brief lesson <snr>Seek ye the Lord</s>, of the season of Lent.');
 	space();
 

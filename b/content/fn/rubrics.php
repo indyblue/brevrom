@@ -162,6 +162,7 @@ function csref($cs=0, $ps=2, $opt=2) {
 //       4.1 - little hours pss & ant of Sunday 
 //       5 - little hours pss of Sunday, ant from Lauds
 //       6 - little hours feast
+//       6.1 - little hours sunday, prime ps 53 etc.
 // $opt: 1 - All from ordinary
 //       2 - All else from ordinary
 //       3 - little hours from ordinary
@@ -249,6 +250,10 @@ $ordE = array(
 			$Lps = 'Ad Horas minores, psalmi de dominica; sed ad Primam, loco psalmi 117 <snr>Confitémini</s>, dicitur ps. 53 <snr>Deus, in nómine</s>. Quod observatur in omnibus Officiis in quibus ponitur rubrica: ' . $Lps;
 			$Eps = 'At the Little Hours, psalms of Sunday; but at Prime, in place of psalm 117 <snr>Give praise</s>, is said ps. 53 <snr>Save me</s>. Which is observed in all Offices in which appears the following rubric: ' . $Eps;
 		}
+		$lh = 'LH';
+	} elseif($ps==6.1) {
+		$Lps = 'Ad Horas minores, psalmi de dominica, ad Primam tamen pss. 53, 118i et 118ii; Antiphonæ 1, 2, 3 &amp; 5 e Laudibus. ';
+		$Eps = 'At the little Hours, psalms of Sunday, but at Prime, pss. 53, 118i and 118ii. Antiphons 1, 2, 3 &amp; 5 of Lauds, respectively. ';
 		$lh = 'LH';
 	}
 

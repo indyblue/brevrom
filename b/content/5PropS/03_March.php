@@ -40,7 +40,7 @@ feast_saint(327,3,'S. Joannis Damasceni','St. John Damascene','CD');
 
 feast_saint(328,3,'S. Joannis de Capistrano','St. John Capistran','C');
 
-require '03-7dolours.php';
+feast_saint(array('Feria VI post Dominicam I Passionis',	'Friday after the 1st Sunday of Passiontide'), 0,'Septem Dolorum B. Mariæ Virg.','The Seven Dolours of the B.V.M.','B','prSanct/03-7dolours.php',0,array('prSanct/ora_pro_nobis_virgo_dolorosissima.php', 'prSanct/03-7dolours.php'));
 
 ?>
 

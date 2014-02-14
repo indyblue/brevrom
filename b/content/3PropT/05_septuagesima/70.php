@@ -28,7 +28,7 @@
 	ant('PrTemp/septuagesima/70b.php','B');
 	space();
 
-	ordref(0,6,0);
+	ordref(0,6.1,0);
 	space();
 
 	hour('P');

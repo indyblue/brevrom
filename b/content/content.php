@@ -90,9 +90,9 @@ $_GET['matins'] = 1;
 // require 'z_psalms.php';
 
 
-// Monastic Stuff
+// Little Office Stuff
 // ************************************************************
-//*
+/*
 require '0Intro/101_aperi.php';
 require '0Intro/105_sacrosancte.php';
 require '0Intro/110_collect.php';
@@ -155,7 +155,7 @@ echo bklist(0);
 
 
 // ************************************************************
-/*
+//*
 $_GET['old'] = 0;
 $_GET['matins'] = 0;
 $_GET['long'] = 1;
@@ -168,14 +168,14 @@ require '1Ordinary/index.php';
 
 $_GET['long'] = 1;
 require '2Psalter/index.php';
-$_GET['long'] = 0;
+$_GET['long'] = 1;
 
 require '5PropS/index.php';
 // $_GET['matins'] = 1;
 require '6ComS/index.php';
 require '6ComS/677_BVMp.php';
 require '6ComS/690_OfficeDead.php';
-// require '7App/index.php';
+require '7App/index.php';
 // */
 
 // require '998_indices.php';

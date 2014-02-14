@@ -7,6 +7,7 @@
 	rubp('Ordinarium temporis Quadragesimæ incipit a dominica prima Quadragesimæ.', 'The Ordinary of the Lenten Season begins at the first Sunday	of Lent.');
 	hour('L');
 	lc('is58_1.php');
+	head('De hymno et versu','The hymn and verse',3);
 	hymn('o_sol_salutis_intimis.php',0);
 	vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php');
 	space();
@@ -31,6 +32,7 @@
 
 	hour('V');
 	lc('joel2_17.php');
+	head('De hymno et versu','The hymn and verse',3);
 	hymn('audi_benigne_conditor.php',0);
 	vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php');
 

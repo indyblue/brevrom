@@ -1,0 +1,1 @@
+We beseech thee, O Lord, mercifully to pour thy grace into our hearts; that, curbing our sinful nature by voluntary self-denial, we may rather suffer here than incur condemnation to eternal torments hereafter. Through our Lord.
