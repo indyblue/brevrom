@@ -1,5 +1,6 @@
 <?php
 	space();
+	bookmark('OrAdvent');
 	head('Tempore Adventus','Advent Season',1,'Ordinary','Advent');
 	rubp('','All is said as shown here, except that which is otherwise specified in the Proper of Seasons');
 	hour('L');

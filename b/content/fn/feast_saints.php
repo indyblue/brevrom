@@ -281,9 +281,9 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		$cs = 'csHW';
 		if($pl && $mart) {
 			$Lvr = 'gloria_et_honore_coronasti_eum_domine.php';
-			$Lant = 'istarum_est_enim_regnum_caelorum.php';
+			$Lant = 'istorum_est_enim_regnum_caelorum.php';
 			$Vvr = 'gloria_et_honore_coronasti_eum_domine.php';
-			$Vant = 'istarum_est_enim_regnum_caelorum.php';
+			$Vant = 'istorum_est_enim_regnum_caelorum.php';
 		} else {
 			$Lvr = 'diffusa_est_gratia_in_labiis_tuis.php';
 			$Lant = 'date_ei_de_fructu_manuum_suarum.php';

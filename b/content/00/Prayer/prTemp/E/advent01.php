@@ -1,0 +1,1 @@
+Show forth thy power, we beseech thee, O Lord, and come: that by thy protection we may deserve to be rescued from the imminent perils of our sins, and that, freed by thee, we may be saved. Who livest.

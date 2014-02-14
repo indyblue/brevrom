@@ -69,14 +69,14 @@ function vrS($file, $option=0, $option2=0) {
 				$PTL = '... allelúja.';
 				$PTE = '... alleluia.';
 			} elseif($option==3) {
-				$PTL = ', <sr>ut supra.</s>';
-				$PTE = ', <sr>as above.</s>';
+				$PTL = '<sr>, ut supra.</s>';
+				$PTE = '<sr>, as above.</s>';
 			}
 
 			echo "   <tr><td:A1>\n".
-				'    <p:BodyL>'. $preL .'<s:VR>V. </s>'. $L0[0] . $PTL ."</p>\n".
+				'    <p:BodyL>'. $preL .'<s:VR>V. </s>'. trimP($L0[0]) . $PTL ."</p>\n".
 				"   </td><td:B1>\n".
-				'    <p:BodyE>'. $preE .'<s:VR>V. </s>'. $E0[0] . $PTE ."</p>\n".
+				'    <p:BodyE>'. $preE .'<s:VR>V. </s>'. trimP($E0[0]) . $PTE ."</p>\n".
 				"   </td></tr>\n";
 		} else {
 			$L1 = str_replace($subst,'',$L1) . $PTL;

@@ -22,7 +22,7 @@
 	space();
 
 	csref('csApPT',2,22);
-	csref('csAp',0,32);
+	csref('csAp',0,42);
 
 	hour('V'); 
 	rubrics('head/PT.php');

@@ -59,7 +59,7 @@ function rubp($Ltxt, $Etxt, $par=0, $sm=0) {
 //       4 - sext/none from common
 //       +10 - ...except as follows
 //       +20 - P.T. ...
-//       +30 - Extra. T.P. ...
+//       +40 - Extra. T.P. ...
 function csref($cs=0, $ps=2, $opt=2) {
 	$csE = array(
 	0 => '',
@@ -108,20 +108,19 @@ function csref($cs=0, $ps=2, $opt=2) {
 	}
 
 	$ptL = ''; $ptE = '';
-	if($opt>30) {
-		$opt -= 30;
+	$L2 = '.'; $E2 = '.';
+	if($opt>40) {
+		$opt -= 40;
 		$ptL = 'Extra tempus paschale, ';
 		$ptE = 'Outside Paschaltide, ';
-	} elseif($opt>20) {
+	} if($opt>20) {
 		$opt -= 20;
 		$ptL = 'Tempore paschali, ';
 		$ptE = 'In Paschaltide, ';
-	} elseif($opt>10) {
+	} if($opt>10) {
 		$opt -= 10;
 		$L2 = ', præter sequentia.';
 		$E2 = ', except the following.';
-	} else {
-		$L2 = '.'; $E2 = '.';
 	}
 
 	if($opt==1) {
@@ -150,5 +149,145 @@ function csref($cs=0, $ps=2, $opt=2) {
 	rubp(
 		$Lps . $ptL . $L1 . $csL[$cs] . $pgref . $L2, 
 		$Eps . $ptE . $E1 . $csE[$cs] . $pgref . $E2);
+}
+
+// reference to ordinary
+// $ord - bookmark for common of saints
+//       (if 0, only psalm text inserted)
+// $ps:  0 - [nothing]
+//       1 - ferial psalms/antiphons
+//       2 - Sunday psalms/antiphons
+//       3 - Sunday psalms
+//       4 - little hours feria
+//       5 - little hours Sunday
+//       6 - little hours feast
+// $opt: 1 - All from ordinary
+//       2 - All else from ordinary
+//       3 - little hours from ordinary
+//       4 - sext/none from ordinary
+//       +10 - ...except as follows
+// 		+20 - In ferial office,...
+//       +40 - P.T. ...
+//       +80 - Extra. T.P. ...
+function ordref($ord=0, $ps=0, $opt=11) {
+$ordL = array(
+	0 => '',
+	'OrOrdinary' => 'Divini Officii',
+	'OrMatins' => 'ad Matutinum',
+	'OrLauds' => 'ad Laudes',
+	'OrPrime' => 'ad Primam',
+	'OrTerce' => 'ad Tertiam',
+	'OrSext' => 'ad Sextam',
+	'OrNone' => 'ad Nonam',
+	'OrVespers' => 'ad Vesperas',
+	'OrCompline' => 'ad Completorium',
+	'OrAdvent' => 'Adventus',
+	'OrChristmas' => 'Nativitatis',
+	'OrEpiphany' => 'Epiphaniæ',
+	'OrSeptuagesima' => 'Septuagesimæ',
+	'OrLent' => 'Quadragesimæ',
+	'OrPassion' => 'Passionis',
+	'OrEaster' => 'Paschatis',
+	'OrAscension' => 'Ascensionis',
+	'OrPerAnnum' => 'per Annum',
+);
+
+$ordE = array(
+	0 => '',
+	'OrOrdinary' => 'of the Divine Office',
+	'OrMatins' => 'of Matins',
+	'OrLauds' => 'of Lauds',
+	'OrPrime' => 'of Prime',
+	'OrTerce' => 'of Terce',
+	'OrSext' => 'of Sext',
+	'OrNone' => 'of None',
+	'OrVespers' => 'of Vespers',
+	'OrCompline' => 'of Compline',
+	'OrAdvent' => 'of Advent',
+	'OrChristmas' => 'of Nativitytide',
+	'OrEpiphany' => 'of Epiphanytide',
+	'OrSeptuagesima' => 'of Septuagesima',
+	'OrLent' => 'of Lent',
+	'OrPassion' => 'of Passiontide',
+	'OrEaster' => 'of Eastertide',
+	'OrAscension' => 'of Ascensiontide',
+	'OrPerAnnum' => 'Throughout the Year',
+);
+
+	if(!array_key_exists($ord,$ordE))
+	trigger_error('all_from refers to unknown bookmark: ' 
+	. bkref($ord) . '.', E_USER_ERROR);
+
+	$Lps = ''; $Eps = ''; $lh='';
+	if($ps==1) {
+		$Lps = 'Ant. et psalmi de feria currenti. ';
+		$Eps = 'Ant. and psalms of the current feria. ';
+	} elseif($ps==2) {
+		$Lps = 'Ant. et psalmi de dominica. ';
+		$Eps = 'Ant. and psalms of Sunday. ';
+	} elseif($ps==3) {
+		$Lps = 'Psalmi de dominica. ';
+		$Eps = 'Psalms of Sunday. ';
+	} elseif($ps==4) {
+		$Lps = 'Ad Horas minores, ant. et psalmi de feria currenti. ';
+		$Eps = 'At the little Hours, ant. and psalms of the current feria. ';
+		$lh = 'LH';
+	} elseif($ps==5) {
+		$Lps = 'Ad Horas minores, psalmi de dominica; Antiphonæ 1, 2, 3 &amp; 5 e Laudibus. ';
+		$Eps = 'At the little Hours, psalms of Sunday. Antiphons 1, 2, 3 &amp; 5 of Lauds, respectively. ';
+		$lh = 'LH';
+	} elseif($ps==6) {
+		$Lps = 'Ad Horas minores, psalmi de dominica, ad Primam tamen ut in festis; Antiphonæ 1, 2, 3 &amp; 5 e Laudibus. ';
+		$Eps = 'At the little Hours, psalms of Sunday, but at Prime as in feasts. Antiphons 1, 2, 3 &amp; 5 of Lauds, respectively. ';
+		$lh = 'LH';
 	}
+
+	$L2 = '.'; $E2 = '.';
+	$ptL = ''; $ptE = '';
+	if($opt>80) {
+		$opt -= 30;
+		$ptL = 'Extra tempus paschale, ';
+		$ptE = 'Outside Paschaltide, ';
+	} if($opt>40) {
+		$opt -= 40;
+		$ptL = 'Tempore paschali, ';
+		$ptE = 'In Paschaltide, ';
+	} if($opt>20) {
+		$opt -= 20;
+		$ptL = 'In Officio feriali, ';
+		$ptE = 'In the ferial Office, ';
+	} if($opt>10) {
+		$opt -= 10;
+		$L2 = ', præter sequentia.';
+		$E2 = ', except the following.';
+	}
+
+	$L1 = ''; $E1 = '';
+	if($opt==1) {
+		$L1 = 'Omnia de Ordinarium ';
+		$E1 = 'All from the Orindary ';
+	} elseif($opt==2) {
+		$L1 = 'Reliqua Ordinarium ';
+		$E1 = 'All else from the Ordinary ';
+	} elseif($opt==3) {
+		$L1 = 'Ad Horas minores ut in Ordinarium ';
+		$E1 = 'Little Hours as in the Ordinary  ';
+		$lh = 'LH';
+	} elseif($opt==4) {
+		$L1 = 'Ad Sextam &amp; Nonam ut in Ordinarium ';
+		$E1 = 'Sext &amp; None as in the Ordinary  ';
+		$lh = 'S';
+	}
+	$pgref = ', <snr>p. '. bkref($ord . $lh) .'</s>';
+
+	if($ord===0) {
+		$L1 = ''; $E1 = '';
+		$L2 = ''; $E2 = '';
+		$pgref = '';
+	}
+
+	rubp(
+		$Lps . $ptL . $L1 . $ordL[$ord] . $pgref . $L2, 
+		$Eps . $ptE . $E1 . $ordE[$ord] . $pgref . $E2);
+}
 

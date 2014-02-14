@@ -2,6 +2,7 @@
 	space('PgH');
 	img('00_ordinary.tif',100);
 	space();
+	bookmark('OrOrdinary');
 	head('Ordinarium Divini Officii','Ordinary of the Divine Office',0);
 	space();
 	space('PgB');

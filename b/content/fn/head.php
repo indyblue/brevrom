@@ -26,6 +26,28 @@ function hour($h, $size=2) {
 	head($hourL[$h], $hourE[$h], $size, $h1, $h2);
 }
 
+function feria($d, $class=3, $size=2) {
+	$h1 = 0;
+	$h2 = 0;
+	$dayL = array(2 => 'Feria Secunda',
+		3 => 'Feria Tertia', 
+		4 => 'Feria Quarta', 
+		5 => 'Feria Quinta', 
+		6 => 'Feria Sexta', 
+		7 => 'Sabbato');
+	$dayE = array(2 => 'Monday',
+		3 => 'Tuesday', 
+		4 => 'Wednesday', 
+		5 => 'Thursday', 
+		6 => 'Friday', 
+		7 => 'Saturday');
+	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis');
+	$clnameE = array('Commemoration', 'I class', 'II class', 'III class');
+	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.');
+	head($dayL[$d], $dayE[$d], $size, $h1, $h2);
+	head($clnameL[$class],$clnameE[$class], 5);
+}
+
 function head_sect($date, $class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 	//put latin switch in local variable
 	$L = $_GET['L'];
@@ -102,7 +124,8 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 				.' — '. $clname[$class] .' '. $descr[1], 4);
 	}
 	else
-		head('', $clnameL[$class] .' — '. $clnameE[$class], 4);
+		if($L) head($clnameL[$class],'', 4);
+		else head('', $clnameE[$class], 4);
 
 }
 

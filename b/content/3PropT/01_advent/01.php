@@ -1,260 +1,118 @@
 <?php 
 	space();
-	hidden('',1);
 	hidden('Advent I',2);
 	head_temp(1,'Dominica I Adventus', 'First Sunday of Advent');
 
 	hour('1V');
+	rubrics('ps/antLauds.php');
+	rubrics('ps/SaV.php');
+	lc('rom13_11.php');
+	hymn('creator_alme_siderum.php',1);
+	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
+	ant('PrTemp/advent01m1.php','M');
+	space();
 
-?>
-   <p:Head2>Collect</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>ÉXCITA, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who livest.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>ad I Vésperas</p>
-<?php rubrics('ps/SaV.php'); ?>
-   <p:Rubric>Antiphons as in Lauds.</p>
-<?php lc('rom13_11.php'); ?>
-   <p:Rubric>Hymn as in Ordinary of Advent.</p>
-   <p:Head3>Magnificat</p>
-   <p:RubricHidden><t>Is 30:27</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Ecce nomen Dómini * venit de longínquo, et cláritas ejus replet orbem terrárum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Behold the name of the Lord * cometh from afar, and the whole earth is full of his glory.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>ad Laudes</p>
-<?php 
+	hour('L');
 	ant('prTemp/advent01.php','20000');
 	rubrics('ps/SuL1.php'); 
 	ant('prTemp/advent01.php','02222');	
+	lc('rom13_11.php');
+	hymn('en_clara_vox_redarguit.php',1);
+	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
+	ant('PrTemp/advent01b.php','M');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/advent01.php');
+	space();
+
+	ordref(0,5,0);
+
+	hour('P');
+	PrV('qui_venturus_es_in_mundum.php',1);
+	rubp('et ad absolutionem capituli lectio brevis ut infra, quæ dicitur cotidie toto tempore Adventus, etiam in festis.', 'and at the end of the hour the brief lesson as below; these are said every day for the entire season of Advent, even on feasts.');
+	lc('is33_2.php',0,3);
+	space();
+
+	hour('T');
+	lc('rom13_11.php');
+	brS('PrTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php');
+	vrS('PrTemp/timebunt_gentes_nomen_tuum_domine.php');
+	space();
+
+	hour('S');
+	lc('rom13_12.php');
+	brS('PrTemp/ostende_nobis_domine_misericordiam_tuam.php');
+	vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php');
+	space();
+
+	hour('N');
+	lc('rom13_13-14.php');
+	brS('PrTemp/super_te_jerusalem_orietur_dominus.php');
+	vrS('PrTemp/veni_domine_et_noli_tardare.php');
+	space();
+
+	hour('2V');
+	rubrics('ps/antLauds.php');
+	rubrics('ps/SuV.php');
+	lc('rom13_11.php');
+	hymn('creator_alme_siderum.php',1);
+	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
+	ant('PrTemp/advent01m2.php','M');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/advent01.php');
+	space();
+	
+	ordref('OrAdvent',0,31);
+	feria(2);
+	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',0,'L');
+	ant('PrTemp/advent01f2b.php','B');
+	rubp('Oratio <snr>Excita</s>, ut supra.','Prayer <snr>Show forth</s>, as above.');
+	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',0,'V');
+	ant('PrTemp/advent01f2m.php','M');
+	space();
+
+	feria(3);
+	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('PrTemp/advent01f3b.php','B');
+	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	ant('PrTemp/advent01f3m.php','M');
+	space();
+
+	feria(4);
+	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('PrTemp/advent01f4b.php','B');
+	rubp('Et dicuntur preces.', 'And the preces are said.');
+	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	ant('PrTemp/advent01f4m.php','M');
+	rubp('Et dicuntur preces.', 'And the preces are said.');
+	space();
+
+	feria(5);
+	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('PrTemp/advent01f5b.php','B');
+	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	ant('PrTemp/advent01f5m.php','M');
+	space();
+
+	feria(6);
+	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('PrTemp/advent01f6b.php','B');
+	rubp('Et dicuntur preces.', 'And the preces are said.');
+	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	ant('PrTemp/advent01f6m.php','M');
+	rubp('Et dicuntur preces.', 'And the preces are said.');
+	space();
+
+	feria(7);
+	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('PrTemp/advent01f7b.php','B');
+	space();
+
+	space();
+	space('Line');
+	space('Line');
+	space('Line');
+	space();
 ?>
-<?php lc('rom13_11.php'); ?>
-   <p:Rubric>Hymn as in Ordinary of Advent.</p>
-   <p:Head3>Benedictus</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Spíritus Sanctus * in te descéndet, María: ne tímeas, habébis in útero Fílium Dei, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>The Holy Ghost * shall come upon thee, O Mary: fear not, thou shalt bear in thy womb the Son of God, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>ad Primam</p>
-   <p:Rubric>Ant 1 from Lauds is used.</p>
-   <p:BodySm/>
-   <p:Head2>ad Tértiam</p>
-   <p:Rubric>Ant 2 from Lauds is used.</p>
-<?php lc('rom13_11.php'); ?>
-   <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
-   <p:BodySm/>
-   <p:Head2>ad Sextam</p>
-   <p:Rubric>Ant 3 from Lauds is used.</p>
-<?php lc('rom13_12.php'); ?>
-   <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
-   <p:BodySm/>
-   <p:Head2>ad Nonam</p>
-   <p:Rubric>Ant 5 from Lauds is used.</p>
-<?php lc('rom13_13-14.php'); ?>
-   <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
-   <p:BodySm/>
-   <p:Head2>ad II Vésperas</p>
-<?php rubrics('ps/SuV.php'); ?>
-   <p:Rubric>Antiphons as in Lauds.</p>
-<?php lc('rom13_11.php'); ?>
-   <p:Rubric>Hymn as in Ordinary of Advent.</p>
-   <p:Head3>Magnificat</p>
-   <p:RubricHidden><t>Lk 1:30</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Ne tímeas, María, * invenísti enim grátiam apud Dóminum: ecce concípies, et páries fílium, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Fear not, Mary, * for thou hast found grace with the Lord: behold, thou shalt conceive in thy womb, and shalt bring forth a son, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>Collect</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>ÉXCITA, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who livest.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>Feria Secunda</p>
-   <p:Head3>III classis</p>
-   <p:Head3>Benedictus</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Ángelus Dómini * nuntiávit Maríæ, et concépit de Spíritu Sancto, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>The Angel of the Lord * declared unto Mary, and she conceived by the Holy Spirit, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Magnificat</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Leva, Jerúsalem, * óculos tuos, et vide poténtiam regis: ecce Salvátor venit sólvere te a vínculo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Lift up , O Jerusalem, * thine eyes, and see that the king is mighty. Behold thy Saviour shall come and loose thee from thy chains.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>Feria Tertia</p>
-   <p:Head3>III classis</p>
-   <p:Head3>Benedictus</p>
-   <p:RubricHidden><t>Mt 1:18</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Ántequam convenírent, * invénta est María habens in útero de Spíritu Sancto, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Before they came together, * Mary was found with child, of the Holy Ghost, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Magnificat</p>
-   <p:RubricHidden><t>Is 55:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Quǽrite Dóminum, * dum inveníri potest: invocáte eum, dum prope est, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Seek ye the Lord, * while he may be found: call upon him, while he is near, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>Feria Quarta</p>
-   <p:Head3>III classis</p>
-   <p:Rubric>Preces are said at Lauds and Vespers.</p>
-   <p:Head3>Benedictus</p>
-   <p:RubricHidden><t>Is 2:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>De Sion * exíbit lex, et verbum Dómini de Jerúsalem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>The law shall come forth * from Sion, and the word of the Lord from Jerusalem.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Magnificat</p>
-   <p:RubricHidden><t>Lk 3:16</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Véniet * fórtior me post me, cujus non sum dignus sólvere corrígiam calceamentórum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>There shall come * after me one mightier than I, the lachet of whose shoes I am not worthy to loose.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>Feria Quinta</p>
-   <p:Head3>III classis</p>
-   <p:Head3>Benedictus</p>
-   <p:RubricHidden><t>Lk 1:28,42</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Benedícta * tu in muliéribus, et benedíctus fructus ventris tui.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Blessed art thou * among women, and blessed is the fruit of thy womb.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Magnificat</p>
-   <p:RubricHidden><t>Is 8:17</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Exspectábo * Dóminum Salvatórem meum, et præstolábor eum dum prope est, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>I will wait * for the Lord my Saviour, and I will look for him while he is near, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>Feria Sexta</p>
-   <p:Head3>III classis</p>
-   <p:Rubric>Preces are said at Lauds and Vespers.</p>
-   <p:Head3>Benedictus</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Ecce véniet * Deus et homo de domo David sedére in throno, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Behold he that is both God and man * shall come of the house of David and sit upon the throne, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Magnificat</p>
-   <p:RubricHidden><t>Os 11:1</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Ex Ægýpto * vocávi Fílium meum: véniet, ut salvet pópulum suum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Out of Egypt * have I called my Son: he shall come to save his people.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:Head2>Sabbato</p>
-   <p:Head3>III classis</p>
-   <p:Head3>Benedictus</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Sion, noli timére, * ecce Deus tuus véniet, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Fear not Sion, * behold, thy God cometh, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-<?php img(); ?>
-   <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
 <?php hidden('Advent',1); ?>
