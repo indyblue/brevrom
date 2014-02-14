@@ -17,7 +17,7 @@ function hour($h, $size=2) {
 		'S' => 'at Sext', 'N' => 'at None', 
 		'V' => 'at Vespers', '1V' => 'at I Vespers',
 		'2V' => 'at II Vespers', 'C' => 'at Compline',
-		'H' => 'at the Little Hourss');
+		'H' => 'at the Little Hours');
 	if($size=='O') {
 		$size = 1;
 		$h1 = 'Ordinary';
