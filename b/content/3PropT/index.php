@@ -15,7 +15,7 @@ require '04_post_epiphany/index.php';
 require '05_septuagesima/index.php';
 require '06_lent/index.php';
 require '07_passiontide/index.php';
-require '08_easter.php';
+require '08_easter/index.php';
 require '09_ascension.php';
 require '10_post_ascension.php';
 
