@@ -105,7 +105,7 @@ function vrS($file, $option=0, $option2=0) {
 //   1 - Ad Primam, in resp. br.
 //   2 - In resp. br.
 //   array($L,$E) - prefix text
-function PrV($file, $option=1) {
+function PrV($file, $option=1, $posttxt=0) {
 	$dir = $_GET['root'] . "/00/VR/prime/";
 
 	$pieces = file_load($dir.$file);
@@ -116,22 +116,32 @@ function PrV($file, $option=1) {
 	$preL = '';
 	$preE = '';
 	if($option==1) {
-		$preL = '<sr>Ad Primam, in resp. br.</s> ';
-		$preE = '<sr>At Prime, in the br. resp.</s> ';
+		$preL = 'Ad Primam, in resp. br. ';
+		$preE = 'At Prime, in the br. resp. ';
 	} elseif($option==2) {
-		$preL = '<sr>In resp. br.</s> ';
-		$preE = '<sr>In the br. resp.</s> ';
+		$preL = 'In resp. br. ';
+		$preE = 'In the br. resp. ';
 	} elseif(is_array($option)) {
-		$preL = '<sr>'. $option[0] .'</s> ';
-		$preE = '<sr>'. $option[1] .'</s> ';
+		$preL = $option[0];
+		$preE = $option[1];
 	}
+	$Lpost = ''; $Epost = '';
+	if(is_array($posttxt)) {
+		$Lpost = $posttxt[0];
+		$Epost = $posttxt[1];
+	}
+
 	$V = '<s:VR>V. </s>';
 
+	rubp($preL . $V .'<snr>'. $pieces[0] .'</s>'. $Lpost, 
+		$preE . $V .'<snr>'. $pieces[1] .'</s>'. $Epost);
+/*
 	echo "  <table><tr><td:A1>\n".
-		'   <p:BodyL>'. $preL . $V . $pieces[0] ."</p>\n".
+		'   <p:BodyL>'. $preL . $V . $pieces[0] . $Lpost ."</p>\n".
 		"  </td><td:B1>\n".
-		'   <p:BodyE>'. $preE . $V . $pieces[1] ."</p>\n".
+		'   <p:BodyE>'. $preE . $V . $pieces[1] . $Epost ."</p>\n".
 		"  </td></tr></table>\n";
+*/
 }
 
 ?>

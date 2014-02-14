@@ -33,6 +33,10 @@ $_GET['matins'] = 1;
 //$url = $_GET['url'];
 //require 'content/'.$url;
 
+require '../3PropT/01_advent/index.php';
+//	lc('cant6_8.php');
+
+/*
 feast_saint(712,3,'S. Joannis Gualberti','St. John Gualbert','a',array('csConfessorAbbot.php','Joánnis','John'),
 	'feast_saint(712,-1,"Ss. Naboris et Felicis","Ss. Nabor and Felix","M+");');
 

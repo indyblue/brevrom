@@ -116,7 +116,7 @@ echo '<html><head>
 	span.SmCaps {font-variant:small-caps}
 	span.Super {font-size:58%; vertical-align:top}
 	span.DropCap {font-weight:bold; color:red}
-	span.VR {color:red}
+	span.VR {color:red; font-style:normal;}
 	span.NH {}
 	span.L {font-style:italic}
 
@@ -170,6 +170,7 @@ $regex=array(
 	'/<\/s>/',
 	'/<table([^:>]*)>/',
 	'/<td:([^\/>]*)/',
+	'/<t2>/',
 	'/<t>/',
 	'/<br\/*>/',
 	'/\bÁ/', '/\bÉ/', '/\bÍ/', '/\bÓ/', '/\bÚ/', '/\bÝ/', '/\bǼ/',
@@ -192,6 +193,7 @@ $repl=array(
 	'</span>',
 	'<table>',
 	'<td class="\1"',
+	'<span style="float:right;">',
 	'&nbsp;',
 	'<br/>',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',

@@ -30,8 +30,8 @@
 	ordref(0,6,0);
 
 	hour('P');
-	PrV('qui_natus_es_de_maria_virgine.php',1);
-	rubp('et ad absolutionem capituli lectio brevis ut infra, quæ dicitur cotidie usque ad diem 5 januarii inclusive, juxta rubricas.', 'and at the end of the hour the brief lesson as below; these are said every day until January 5 inclusive, according to the rubrics.');
+	PrV('qui_natus_es_de_maria_virgine.php',2,
+		array(', et ad absolutionem capituli lectio brevis ut infra, quæ dicitur cotidie usque ad diem 5 januarii inclusive, juxta rubricas.', ', and at the end of the hour the brief lesson as below; these are said every day until January 5 inclusive, according to the rubrics.'));
 	lc('hebr1_11-12.php',0,3);
 	space();
 

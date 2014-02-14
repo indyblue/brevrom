@@ -46,7 +46,7 @@ require 'fn/0list.php';
 //     'L8' for Lulu 8.5 x 11
 //     'A4' for 1/4 of A4
 //
-$_GET['Style'] = 'L5';
+$_GET['Style'] = '7';
 
 // 
 // these are only used if 'Style' is not a valid preset
@@ -84,17 +84,21 @@ $_GET['weekly'] = 0;
 $_GET['matins'] = 1;
 
 
+// ************************************************************
 // space('PgB');
 // require 'z_hymns.php';
 // require 'z_psalms.php';
 
-/*
+
+// Monastic Stuff
+// ************************************************************
+//*
 require '0Intro/101_aperi.php';
 require '0Intro/105_sacrosancte.php';
 require '0Intro/110_collect.php';
 space('PgB');
 $_GET['old'] = 1;
-//require '6ComS/677_BVMp.php';
+require '6ComS/677_BVMp.php';
 /*
 $_GET['matins'] = 0;
 require '6ComS/690_OfficeDead.php';
@@ -102,7 +106,9 @@ require '7App/index.php';
 require '7App/7_dolours.php';
 // */
 
+
 // Monastic Stuff
+// ************************************************************
 /*
 $_GET['Style'] = 'custom';
 $_GET['PgW'] = 8.5;
@@ -115,6 +121,8 @@ space('Pg');
 require '2MonPsalter/6friday_sext.php';
 // */
 
+
+// ************************************************************
 /*
 $_GET['Style'] = 'A4';
 space('PgH');
@@ -122,6 +130,8 @@ require '7App/7_dolours.php';
 // require '7App/zzz_st_joseph.php';
 // */
 
+
+// ************************************************************
 /*
 bklist('test');
 $_GET['long'] = 1;
@@ -143,11 +153,13 @@ echo bklist(0);
 // require '3PropT\01_advent\index.php';
 // */
 
+
+// ************************************************************
+/*
 $_GET['old'] = 0;
 $_GET['matins'] = 0;
 $_GET['long'] = 1;
 
-//*
 require '100_intro.php';
 require '110_toc.php';
 require '150_calendar.php';

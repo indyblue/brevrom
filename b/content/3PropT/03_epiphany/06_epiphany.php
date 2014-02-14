@@ -34,8 +34,8 @@
 	ordref(0,6,0);
 
 	hour('P');
-	PrV('qui_apparuisti_hodie.php',1);
-	rubp('et ad absolutionem capituli lectio brevis ut infra, quæ dicitur usque ad diem 13 januarii inclusive, juxta rubricas.', 'and at the end of the hour the brief lesson as below; these are said until January 13 inclusive, according to the rubrics.');
+	PrV('qui_apparuisti_hodie.php',2,
+		array(', et ad absolutionem capituli lectio brevis ut infra, quæ dicitur usque ad diem 13 januarii inclusive, juxta rubricas.', ', and at the end of the hour the brief lesson as below; these are said until January 13 inclusive, according to the rubrics.'));
 	lc('is60_6.php',0,3);
 	space();
 
