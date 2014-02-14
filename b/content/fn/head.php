@@ -57,7 +57,8 @@ function feria($d, $class=3, $size=2) {
 		$class -= 40;
 		if($d==4 || $d==6 || $d==7)
 			head('Quatuor Temporum Pentecostes','Ember Day of Pentecost',4);
-		head('Infra Octavam Pentecostes', 'In the Octave of Pentecost',4);
+		else
+			head('Infra Octavam Pentecostes', 'In the Octave of Pentecost',4);
 	} elseif($class>30) {
 		$class -= 30;
 		head('Infra Octavam Paschæ', 'In the Octave of Easter',4);

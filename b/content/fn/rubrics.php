@@ -160,6 +160,7 @@ function csref($cs=0, $ps=2, $opt=2) {
 //       3 - Sunday psalms
 //       4 - little hours feria
 //       4.1 - little hours pss & ant of Sunday 
+//       4.2 - little hours pss of Sunday, ant alleluia 
 //       5 - little hours pss of Sunday, ant from Lauds
 //       6 - little hours feast
 //       6.1 - little hours sunday, prime ps 53 etc.
@@ -237,6 +238,10 @@ $ordE = array(
 	} elseif($ps==4.1) {
 		$Lps = 'Ad Horas minores, ant. et psalmi de dominica. ';
 		$Eps = 'At the little Hours, ant. and psalms of Sunday. ';
+		$lh = 'LH';
+	} elseif($ps==4.2) {
+		$Lps = 'Ad Horas minores, ant. <snr>Allelúja</s> cum psalmi de dominica. ';
+		$Eps = 'At the little Hours, ant. <snr>Alleluia</s>, with the psalms of Sunday. ';
 		$lh = 'LH';
 	} elseif($ps==5) {
 		$Lps = 'Ad Horas minores, psalmi de dominica; Antiphonæ 1, 2, 3 &amp; 5 e Laudibus. ';

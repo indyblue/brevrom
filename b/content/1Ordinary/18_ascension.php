@@ -1,39 +1,42 @@
 <?php
+	space();
 	bookmark('OrAscension');
-/*
 	head('Tempore Ascensionis', 'Season of Ascensiontide',1,'Ordinary','Ascension');
 	hour('L');
-	lc('acts1_11.php');
+	lc('acts1_1-2.php');
 	head('De hymno et versu','The hymn and verse',3);
-	hymn('aurora_caelum_purpurat.php',0);
-	vrS('PrTemp/in_resurrectione_tua_christe.php',1);
+	hymn('salutis_humanae_sator.php',0);
+	vrS('PrTemp/dominus_in_caelo.php',1);
+	rubp('In Officio feriali, dicitur cotidie sequens:', 'In the ferial Office, the following is said:');
+	ant('prTemp/ascension/04b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('prTemp/ascension/0101.php');
+	prayer('prTemp/ascension/04.php');
 	space();
 
 	hour('T');
-	lc('rom6_9-10.php');
-	brS('PrTemp/surrexit_dominus_de_sepulcro.php',1);
-	vrS('PrTemp/surrexit_dominus_vere.php',1);
+	lc('acts1_1-2.php');
+	brS('PrTemp/ascendit_deus_in_jubilatione.php',1);
+	vrS('PrTemp/ascendens_christus_in_altum.php',1);
 	space();
 
 	hour('S');
-	lc('1cor15_20-22.php');
-	brS('PrTemp/surrexit_dominus_vere.php',1);
-	vrS('PrTemp/gavisi_sunt_discipuli.php',1);
+	lc('acts1_4-5.php');
+	brS('PrTemp/ascendens_christus_in_altum.php',1);
+	vrS('PrTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1);
 	space();
 
 	hour('N');
-	lc('1pet3_18.php');
-	brS('PrTemp/gavisi_sunt_discipuli.php',1);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
+	lc('acts1_11.php');
+	brS('PrTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1);
+	vrS('PrTemp/dominus_in_caelo.php',1);
 	space();
 
 	hour('V');
-	lc('rom6_9-10.php');
-	head('De hymno et versu','The hymn and verse',3);
-	hymn('ad_regias_agni_dapes.php',0);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
+	lc('acts1_1-2.php');
+	hymn('salutis_humanae_sator.php',1);
+	vrS('PrTemp/ascendit_deus_in_jubilatione.php',1);
+	rubp('In Officio feriali, dicitur cotidie sequens:', 'In the ferial Office, the following is said:');
+	ant('prTemp/ascension/04m2.php','M');
 
-*/
+
 ?>

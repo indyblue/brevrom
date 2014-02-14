@@ -1,10 +1,4 @@
-<?php img(); ?>
    <p:Body/>
-   <p:Head0>Tempus Per Annum</p>
-   <p:Body/>
-   <p:Body/>
-<?php img('separator3.png',100); ?>
-   <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Trinity Sunday',2); ?>
    <p:Head1>in Festo Sanctissimæ Trinitatis</p>
