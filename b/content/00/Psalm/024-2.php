@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DULCIS':'"BodyLIndent">Dulcis') ?> et rectus Dóminus: * propter hoc legem dabit delinquéntibus in via.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>DULCIS':'BodyLIndent>Dulcis') ?> et rectus Dóminus: * propter hoc legem dabit delinquéntibus in via.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>THE LORD':'"BodyEIndent">The Lord') ?> is sweet and righteous: * therefore he will give a law to sinners in the way.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>THE':'BodyEIndent>The') ?> Lord is sweet and righteous: * therefore he will give a law to sinners in the way.</p>
      </td>
     </tr>
     <tr>

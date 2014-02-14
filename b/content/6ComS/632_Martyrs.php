@@ -24,7 +24,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php rubrics('cs/1Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV116.php'); ?>
-<?php rubrics('asIn.php','csMmVlc','II Vespers','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csMmVlc','II Vespers','Little Chapter &amp; Hymn <snr>Sanctórum méritis ínclita gáudia</s>'); ?>
 <?php vrS('laetamini_in_domino_et_exultate_justi.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('istorum_est_enim_regnum_caelorum.php'); ?>

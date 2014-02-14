@@ -6,7 +6,7 @@
 <?php ant('prSanct/0908.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('prSanct/0908.php','02222'); ?>
-<?php rubrics('asIn.php','csBVMLlc','Common of B.V.M.','Little Chapter &amp; Hymn','O Gloriósa vírginum'); ?>
+<?php rubrics('asIn.php','csBVMLlc','Common of B.V.M.','Little Chapter &amp; Hymn <snr>O Gloriósa vírginum</s>'); ?>
 <?php vrS('prSanct/nativitas_est_hodie_sanctae_mariae_virginis.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('prSanct/0908b.php'); ?>
@@ -29,7 +29,7 @@
 <?php rubrics('head/Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
-<?php rubrics('asIn.php','csBVMVlc','Common of B.V.M.','Little Chapter &amp; Hymn','Ave, maris stella'); ?>
+<?php rubrics('asIn.php','csBVMVlc','Common of B.V.M.','Little Chapter &amp; Hymn <snr>Ave, maris stella</s>'); ?>
 <?php vrS('prSanct/nativitas_est_hodie_sanctae_mariae_virginis.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/0908m2.php'); ?>

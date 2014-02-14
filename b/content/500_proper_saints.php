@@ -6,7 +6,9 @@ echo ($_GET['L']==1?'Proprium Sanctorum':'Proper of Saints')
 ?></p>
    <p:Spacer/>
 <?php 
+require '5PropS/00_11_November.php';
 require '5PropS/599_temp.php'; 
+require '5PropS/08_August.php';
 require '5PropS/09_September.php';
 require '5PropS/10_October.php';
 require '5PropS/11_November.php';

@@ -77,7 +77,7 @@
       <p:BodyLIndent>Illústra fáciem tuam super servum tuum, salvum me fac in misericórdia tua: * Dómine, non confúndar, quóniam invocávi te.</p>
      </td>
      <td:B1>
-      <p:BodyEIndent>Make thy face to shine upon thy servant; save me in thy mercy. Let me not be confounded, * O Lord, for I have called upon thee.</p>
+      <p:BodyEIndent>Make thy face to shine upon thy servant; save me in thy mercy. * Let me not be confounded, O Lord, for I have called upon thee.</p>
      </td>
     </tr>
     <tr>

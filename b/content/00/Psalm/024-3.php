@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>OCULI':'"BodyLIndent">Óculi') ?> mei semper ad Dóminum: * quóniam ipse evéllet de láqueo pedes meos.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>OCULI':'BodyLIndent>Oculi') ?> mei semper ad Dóminum: * quóniam ipse evéllet de láqueo pedes meos.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>MY EYES':'"BodyEIndent">My eyes') ?> are ever towards the Lord: * for he shall pluck my feet out of the snare.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>MY EYES':'BodyEIndent>My eyes') ?> are ever towards the Lord: * for he shall pluck my feet out of the snare.</p>
      </td>
     </tr>
     <tr>

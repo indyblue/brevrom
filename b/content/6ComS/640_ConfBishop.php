@@ -21,7 +21,7 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php rubrics('cs/1Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV116.php'); ?>
-<?php rubrics('asIn.php','csCBVlc','II Vespers','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csCBVlc','II Vespers','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>'); ?>
 <?php vrS('amavit_eum_dominus_et_ornavit_eum.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('sacerdos_et_pontifex_et_virtutum_optifex.php'); ?>

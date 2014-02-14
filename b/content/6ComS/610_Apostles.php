@@ -15,7 +15,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php rubrics('cs/1Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV116.php'); ?>
-<?php rubrics('asIn.php','csApLlc','Lauds','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csApLlc','Lauds','Little Chapter &amp; Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>
 <?php vrS('in_omnem_terram_exivit_sonus_eorum.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('tradent_enim_vos_in_conciliis.php'); ?>
@@ -82,7 +82,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php ant('csApL.php','00001'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('eph2_19.php'); ?>
-<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Lauds','Hymn'); ?>
+<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Lauds','Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>
 <?php vrS('annuntiaverunt_opera_dei.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('estote_fortes_in_bello.php'); ?>

@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONFITÉBOR':'"BodyLIndent">Confitébor') ?> tibi quia terribíliter magnificátus es: * mirabília ópera tua, et ánima mea cognóscit nimis.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>CONFITÉBOR':'BodyLIndent>Confitébor') ?> tibi quia terribíliter magnificátus es: * mirabília ópera tua, et ánima mea cognóscit nimis.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>I WILL':'"BodyEIndent">I will') ?> praise thee, for thou art fearfully magnified: * wonderful are thy works, and my soul knoweth right well.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>I WILL':'BodyEIndent>I will') ?> praise thee, for thou art fearfully magnified: * wonderful are thy works, and my soul knoweth right well.</p>
      </td>
     </tr>
     <tr>

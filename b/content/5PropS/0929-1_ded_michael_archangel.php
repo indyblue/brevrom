@@ -5,7 +5,7 @@
 <?php rubrics('head/1Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV116.php'); ?>
-<?php rubrics('asIn.php','ps0929Vlc','II Vespers','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','ps0929Vlc','II Vespers','Little Chapter &amp; Hymn <snr>Te, splendor et virtus Patris</s>'); ?>
 <?php vrS('prSanct/stetit_angelus_juxta_aram_templi.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/0929m1.php'); ?>

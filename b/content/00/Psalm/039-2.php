@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ANNUNTIÁVI':'"BodyLIndent">Annuntiávi') ?> justítiam tuam in ecclésia magna, * ecce, lábia mea non prohibébo: Dómine, tu scisti.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>ANNUNTIÁVI':'BodyLIndent>Annuntiávi') ?> justítiam tuam in ecclésia magna, * ecce, lábia mea non prohibébo: Dómine, tu scisti.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>I HAVE':'"BodyEIndent">I have') ?> declared thy justice in a great church, * lo, I will not restrain my lips: O Lord, thou knowest it.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>I HAVE':'BodyEIndent>I have') ?> declared thy justice in a great church, * lo, I will not restrain my lips: O Lord, thou knowest it.</p>
      </td>
     </tr>
     <tr>

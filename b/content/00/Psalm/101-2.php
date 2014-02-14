@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>TU EXSÚRGENS':'"BodyLIndent">Tu exsúrgens') ?> miseréberis Sion: * quia tempus miseréndi ejus, quia venit tempus.</p>
+		<p:<?php echo ($part==0?'BodyLDrop>TU':'BodyLIndent>Tu') ?> exsúrgens miseréberis Sion: * quia tempus miseréndi ejus, quia venit tempus.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>THOU':'"BodyEIndent">Thou') ?> shalt arise and have mercy on Sion: * for it is time to have mercy on it, for the time is come.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>THOU':'BodyEIndent>Thou') ?> shalt arise and have mercy on Sion: * for it is time to have mercy on it, for the time is come.</p>
      </td>
     </tr>
     <tr>

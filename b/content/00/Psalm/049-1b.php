@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>AUDI':'"BodyLIndent">Audi') ?>, pópulus meus, et loquar: Israël, et testificábor tibi: * Deus, Deus tuus ego sum.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>AUDI':'BodyLIndent>Audi') ?>, pópulus meus, et loquar: Israël, et testificábor tibi: * Deus, Deus tuus ego sum.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>HEAR':'"BodyEIndent">Hear') ?>, O my people, and I will speak: O Israel, and I will testify to thee: * I am God, thy God.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>HEAR':'BodyEIndent>Hear') ?>, O my people, and I will speak: O Israel, and I will testify to thee: * I am God, thy God.</p>
      </td>
     </tr>
     <tr>

@@ -66,12 +66,12 @@
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV115.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('col1_12.php'); ?>
+<?php lc('apoc7_2.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
 <?php hymn('placare_christe_servulis.php'); ?>
 <?php vrS('prSanct/exultabunt_sancti_in_gloria.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/10CTKm2.php'); ?>
+<?php ant('prSanct/1101m2.php'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1101.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

@@ -1,4 +1,3 @@
-   <p:P181/>
    <p:Body/>
 <?php img('separator3.tif',933,170,100); ?>
    <p:RubricH/>
@@ -205,7 +204,7 @@ echo ($_GET['L']==1?'Festa Septembris':'Feasts of September')
 
 <?php img(); ?>
 	<p:BodySm/>
-<?php headSt('Sept. 30',3,'Sancti Hieronymi','Saint Jerome','Priest, Conf, Doctor'); ?>
+<?php headSt('Sept. 30',3,'Sancti Hieronymi','Saint Jerome','Priest, Conf., Doctor'); ?>
 <?php rubrics('ps/Feria.php'); ?>
 <?php rubrics('prSanct/all_else.php','csC'); ?>
 <?php prayer('prSanct/0930.php'); ?>

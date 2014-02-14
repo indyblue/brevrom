@@ -17,7 +17,7 @@ echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication o
 <?php rubrics('cs/1Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV147.php'); ?>
-<?php rubrics('asIn.php','csChurchVlc','II Vespers','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csChurchVlc','II Vespers','Little Chapter &amp; Hymn <snr>Cæléstis urbs Jerúsalem</s>'); ?>
 <?php vrS('haec_est_domus_domini_firmiter_aedificata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('sanctificavit_dominus_tabernaculum_suum.php'); ?>

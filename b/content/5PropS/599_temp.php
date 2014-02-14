@@ -1,27 +1,3 @@
-   <p:P181/>
-   <p:Body/>
-<?php img('separator3.tif',933,170,100); ?>
-   <p:RubricH/>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Novembris':'Feasts of November') 
-?></p>
-   <p:BodySm/>
-<?php img(); ?>
-   <p:BodySm/>
-   <p:Hidden1>Nov. 29 - St. Saturninus</p>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Sancti Saturnini':'Saint Saturninus') 
-?></p>
-   <p:Head2>Martyr - Commem. - Nov. 29</p>
-<?php ant('qui_odit_animam_suam_in_hoc_mundo.php'); ?>
-   <p:BodySm/>
-<?php vrS('justus_ut_palma_florebit.php'); ?>
-   <p:BodySm/>
-<?php prayer('prSanct/1129.php'); ?>
-   <p:BodySm/>
-
-<?php require '1130-2_andrew.php'; ?>
-
 	<p:Body/>
 <?php img('separator3.tif',933,170,100); ?>
    <p:RubricH/>

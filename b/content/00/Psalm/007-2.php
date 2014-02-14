@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>JUSTUM':'"BodyLIndent">Justum') ?> adjutórium meum a Dómino, * qui salvos facit rectos corde.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>JUSTUM':'BodyLIndent>Justum') ?> adjutórium meum a Dómino, * qui salvos facit rectos corde.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>JUST':'"BodyEIndent">Just') ?> is my help from the Lord: * who saveth the upright of heart.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>JUST':'BodyEIndent>Just') ?> is my help from the Lord: * who saveth the upright of heart.</p>
      </td>
     </tr>
     <tr>

@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXÁUDI':'"BodyLIndent">Exáudi') ?>, Dómine, vocem meam, qua clamávi ad te: * miserére mei, et exáudi me.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>EXÁUDI':'BodyLIndent>Exáudi') ?>, Dómine, vocem meam, qua clamávi ad te: * miserére mei, et exáudi me.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>HEAR':'"BodyEIndent">Hear') ?>, O Lord, my voice, with which I have cried to thee: * have mercy on me and hear me.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>HEAR':'BodyEIndent>Hear') ?>, O Lord, my voice, with which I have cried to thee: * have mercy on me and hear me.</p>
      </td>
     </tr>
     <tr>

@@ -21,7 +21,7 @@ echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
 <?php rubrics('cs/1Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
-<?php rubrics('asIn.php','csVVlc','II Vespers','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csVVlc','II Vespers','Little Chapter &amp; Hymn <snr>Jesu, coróna Vírginum</s>'); ?>
 <?php vrS('specie_tua_et_pulcritudine_tua.php'); ?>
 	<p:RubricH>For several Virgin Martyrs:</p>
 <?php vrS('adducentur_regi_virgines_post_eam.php'); ?>

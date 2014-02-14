@@ -19,7 +19,7 @@ echo ($_GET['L']==1?'Commune non Virginum':'Common of Holy Women')
 <?php rubrics('cs/1Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
-<?php rubrics('asIn.php','csHWVlc','II Vespers','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csHWVlc','II Vespers','Little Chapter &amp; Hymn <snr>Fortem viríli péctore</s>'); ?>
 <?php vrS('specie_tua_et_pulcritudine_tua.php'); ?>
    <p:RubricH>For several Martyrs not Virgins:</p>
 <?php vrS('gloria_et_honore_coronasti_eum_domine.php'); ?>

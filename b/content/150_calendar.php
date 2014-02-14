@@ -3165,7 +3165,7 @@
    <p:BodyEIndent>e) at the blessing at the end of Prime and Compline;</p>
    <p:BodyEIndent>f) at the verse <s:T4>Divinum auxilium </s>(&quot;May the divine assistance&quot;) at the end of the Divine Office.</p>
    <p:BodyEIndent><s:T10>264. </s>They make the sign of the cross on their mouth at the beginning of Matins, at the words <s:T4>Domine, labia mea aperies </s>(&quot;O Lord, open thou my lips.&quot;).</p>
-   <p:BodyEIndent><s:T10>265. </s>They make the sign of the cross on their breast at the words <s:T4>Converte nos </s>(&quot;Convet us&quot;) at Compline.</p>
+   <p:BodyEIndent><s:T10>265. </s>They make the sign of the cross on their breast at the words <s:T4>Converte nos </s>(&quot;Convert us&quot;) at Compline.</p>
    <p:BodyEIndent><s:T10>266. </s>All stand:</p>
    <p:BodyEIndent>a) at the beginning of each Hour, until the first verse of the psalm has been begun;</p>
    <p:BodyEIndent>b) while the hymns and gospel canticles are said;</p>

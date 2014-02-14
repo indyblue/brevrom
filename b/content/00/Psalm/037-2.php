@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>AMÍCI':'"BodyLIndent">Amíci') ?> mei, et próximi mei * advérsum me appropinquavérunt, et stetérunt.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>AMÍCI':'BodyLIndent>Amíci') ?> mei, et próximi mei * advérsum me appropinquavérunt, et stetérunt.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>MY FRIENDS':'"BodyEIndent">My friends') ?> and my neighbours * have drawn near, and stood against me.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>MY':'BodyEIndent>My') ?> friends and my neighbours * have drawn near, and stood against me.</p>
      </td>
     </tr>
     <tr>

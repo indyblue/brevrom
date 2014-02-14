@@ -39,7 +39,7 @@
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_12.php'); ?>
-<?php rubrics('asIn.php','csBVMVlc','Common of B.V.M.','Hymn','Ave, maris stella'); ?>
+<?php rubrics('asIn.php','csBVMVlc','Common of B.V.M.','Hymn <snr>Ave, maris stella</s>'); ?>
 <?php vrS('benedicta_tu_in_mulieribus.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/1011m2.php'); ?>

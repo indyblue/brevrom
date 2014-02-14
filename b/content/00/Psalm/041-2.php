@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>AD MEÍPSUM':'"BodyLIndent">Ad meípsum') ?> ánima mea conturbáta est: * proptérea memor ero tui de terra Jordánis, et Hermóniim a monte módico.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>AD':'BodyLIndent>Ad') ?> meípsum ánima mea conturbáta est: * proptérea memor ero tui de terra Jordánis, et Hermóniim a monte módico.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>MY SOUL':'"BodyEIndent">My soul') ?> is troubled within myself: * therefore will I remember thee from the land of Jordan and Hermoniim, from the little hill.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>MY':'BodyEIndent>My') ?> soul is troubled within myself: * therefore will I remember thee from the land of Jordan and Hermoniim, from the little hill.</p>
      </td>
     </tr>
     <tr>

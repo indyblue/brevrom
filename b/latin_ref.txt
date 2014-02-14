@@ -28,3 +28,5 @@ Future: action that is going to take place
 Gerund: verbal noun, active
 Gerundive: verbal adj., active
 
+Moods:
+Indicative: expresses an assertion, denial, or question

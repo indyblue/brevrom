@@ -1,7 +1,7 @@
-<?php img('Saints/1101_all_saints.tif',1363,605,100); ?>
+<?php img(); ?>
 	<p:RubricH/>
-<?php headSt('Nov. 1',1,'in Festo Omnium Sanctorum','Feast of All Saints'); ?>
-   <p:Rubric>The Commemoration of all the Faithful departed excludes all occuring feasts and also all transferred feasts of any rite. If it should fall on a Sunday, it is celebrated with the same priveleges on the following Monday; any other feast being transferred or omitted, according to the rubrics.</p>
+<?php headSt('Nov. 2',1,'in Commem. Omnium Fidelium Defunctorum','the Commem. of all the Faithful Departed'); ?>
+   <p:Rubric>This feast excludes all occuring feasts and also all transferred feasts of any rite. If it should fall on a Sunday, it is celebrated with the same priveleges on the following Monday; any other feast being transferred or omitted, according to the rubrics.</p>
 <?php rubrics('asIn.php','offDef','Office of the Dead, except those parts given as proper.','All'); ?> 
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('offDef/offDef.php'); ?>

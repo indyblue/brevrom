@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>RESPÓNDIT':'"BodyLIndent">Respóndit') ?> ei in via virtútis suæ: * Paucitátem diérum meórum núntia mihi.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>RESPÓNDIT':'BodyLIndent>Respóndit') ?> ei in via virtútis suæ: * Paucitátem diérum meórum núntia mihi.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>HE ANSWERED':'"BodyEIndent">He answered') ?> him in the way of his strength: * Declare unto me the fewness of my days.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>HE ANSWERED':'BodyEIndent>He answered') ?> him in the way of his strength: * Declare unto me the fewness of my days.</p>
      </td>
     </tr>
     <tr>

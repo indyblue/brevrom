@@ -5,7 +5,7 @@
 <?php ant('prSanct/1111.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('prSanct/1111.php','02222'); ?>
-<?php rubrics('asIn.php','csCBLlc','Lauds of the Common of Confessor Bishops','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csCBLlc','Lauds of the Common of Confessor Bishops','Little Chapter &amp; Hymn <snr>Jesu, Redémptor ómnium</s>'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('prSanct/1111b.php'); ?>
@@ -26,7 +26,7 @@
 <?php rubrics('head/Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV131.php'); ?>
-<?php rubrics('asIn.php','csCBVlc','II Vespers of the Common of Confessor Bishops','Little Chapter &amp; Hymn'); ?>
+<?php rubrics('asIn.php','csCBVlc','II Vespers of the Common of Confessor Bishops','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/1111m.php'); ?>

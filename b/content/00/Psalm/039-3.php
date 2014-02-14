@@ -4,10 +4,10 @@
 <?php endif; ?>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONFUNDÁNTUR':'"BodyLIndent">Confundántur') ?> et revereántur simul, qui quærunt ánimam meam, * ut áuferant eam.</p>
+      <p:<?php echo ($part==0?'BodyLDrop>CONFUNDÁNTUR':'BodyLIndent>Confundántur') ?> et revereántur simul, qui quærunt ánimam meam, * ut áuferant eam.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>LET THEM':'"BodyEIndent">Let them') ?> be confounded and ashamed together, that seek after my soul * to take it away.</p>
+      <p:<?php echo ($part==0?'BodyEDrop>LET THEM':'BodyEIndent>Let them') ?> be confounded and ashamed together, that seek after my soul * to take it away.</p>
      </td>
     </tr>
     <tr>

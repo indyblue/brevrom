@@ -20,18 +20,18 @@ $E2 = trim($pieces[5]);
    <table>
     <tr>
      <td:A1>
-	  <p:BodyL><?php echo $L11 . ' ' . $L12 ?></p>
+	  <p:BodyLIndent><?php echo $L11 . ' ' . $L12 ?></p>
      </td>
      <td:B1>
-	  <p:BodyE><?php echo $E11 . ' ' . $E12 ?></p>
+	  <p:BodyEIndent><?php echo $E11 . ' ' . $E12 ?></p>
      </td>
     </tr>
     <tr>
      <td:A1>
-	  <p:BodyL><?php echo $L2 ?></p>
+	  <p:BodyLIndent><?php echo $L2 ?></p>
      </td>
      <td:B1>
-	  <p:BodyE><?php echo $E2 ?></p>
+	  <p:BodyEIndent><?php echo $E2 ?></p>
      </td>
     </tr>
    </table>
