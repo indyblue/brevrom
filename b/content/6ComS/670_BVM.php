@@ -31,7 +31,7 @@
 	space();
 
 	bookmark('csBVMLH');
-	rubrics('head/LittleHours.php');
+	hour('H');
 	rubrics('cs/LittleHours.php');
 	PrV('qui_natus_es_de_maria_virgine.php');
 	space();

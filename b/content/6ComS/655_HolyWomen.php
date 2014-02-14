@@ -50,7 +50,7 @@
 
 	space();
 	bookmark('csHWLH');
-	rubrics('head/LittleHours.php');
+	hour('H');
 	rubrics('cs/LittleHours.php');
 
 	space();

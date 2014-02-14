@@ -42,7 +42,7 @@
 
 	space();
 	bookmark('csCBLH');
-	rubrics('head/LittleHours.php');
+	hour('H');
 	rubrics('cs/LittleHours.php');
 
 	space();

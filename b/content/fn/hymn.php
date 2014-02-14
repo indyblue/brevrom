@@ -41,7 +41,7 @@ function hymn($file, $byref=-1) {
 	else {
 		if($byref==0) {
 			$bk = substr($file,0,strlen($file)-4);
-			echo bookmark($bk) . '\n';
+			echo bookmark($bk) . "\n";
 		}
 		//Check for preliminary comment line:
 		$txtL = trim($Lpieces[1]);

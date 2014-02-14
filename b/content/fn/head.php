@@ -10,12 +10,14 @@ function hour($h, $size=2) {
 		'P' => 'ad Primam', 'T' => 'ad Tértiam', 
 		'S' => 'ad Sextam', 'N' => 'ad Nonam', 
 		'V' => 'ad Vésperas', '1V' => 'ad I Vésperas',
-		'2V' => 'ad II Vésperas', 'C' => 'ad Completórium');
+		'2V' => 'ad II Vésperas', 'C' => 'ad Completórium',
+		'H' => 'ad Horas');
 	$hourE = array('M' => 'at Matins', 'L' => 'at Lauds', 
 		'P' => 'at Prime', 'T' => 'at Terce', 
 		'S' => 'at Sext', 'N' => 'at None', 
 		'V' => 'at Vespers', '1V' => 'at I Vespers',
-		'2V' => 'at II Vespers', 'C' => 'at Compline');
+		'2V' => 'at II Vespers', 'C' => 'at Compline',
+		'H' => 'at the Little Hourss');
 	if($size=='O') {
 		$size = 1;
 		$h1 = 'Ordinary';
