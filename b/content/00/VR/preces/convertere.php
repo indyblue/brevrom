@@ -1,2 +1,2 @@
-Convértere, Dómine, aliquántulum.
-Et deprecáre super servos tuos.
+Convértere, Dómine, úsquequo?
+Et deprecábilis esto super servos tuos.

@@ -52,14 +52,22 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		}
 	} elseif($opt=='h' || $opt=='H') {
 		if($file2) {
-			$dir2 = $_GET['root'] . "/00/Hymn/L/";
-			$pieces = file_load($dir2.$file2);
-			$ref2 = 'and hymn, <snr>'. trimP($pieces[3]) . '</s>, ';
-		} else $ref2 = 'and hymn ';
+			$dir2 = $_GET['root'] . "/00/Hymn/";
+			$pieces = file_load($dir2.'L/'.$file2);
+			$ref2L = 'et hymnus, <snr>'. trimP($pieces[3]) . '</s>, ';
+			$pieces = file_load($dir2.'E/'.$file2);
+			$ref2E = 'and hymn, <snr>'. trimP($pieces[3]) . '</s>, ';
+		} else {
+			$ref2L = 'et hymnus ';
+			$ref2E = 'and hymn ';
+		}
 	} elseif($opt=='br' || $opt=='BR') {
 		$dir2 = $_GET['root'] . "/00/VR/";
 		$pieces = file_load($dir2.$file2);
-		$ref2 = 'and br. resp., <snr>'. 
+		$ref2L = 'et resp. br., <snr>'. 
+			start_phrase($pieces[1],15) . '</s>, ';
+		$pieces = file_load($dir2.E($file2));
+		$ref2E = 'and br. resp., <snr>'. 
 			start_phrase($pieces[1],15) . '</s>, ';
 	} else {
 		$conclL = '';
@@ -68,8 +76,9 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 
 
 	if($byref) {
-		echo "   <p:Rubric>Capit.: <snr>". start_phrase($txtL,15) 
-			."</s>, (". $cv ."), ". $ref2 ."<snr>p. ". bkref($byref) . "</s></p>\n";
+		$bkref = '<snr>p. '. bkref($byref) . '</s>';
+		rubp('Capit <snr>'. start_phrase($txtL,15) . '</s>, ('. $cv .'), '. $ref2L . $bkref,
+			'Little Chapt. <snr>'. start_phrase($txtE,15) . '</s>, ('. $cv .'), '. $ref2E . $bkref);
 	} else {
 		echo "  <p:RubricHSm>". $title ."<t>". $cv ."</p>\n".
 			"  <table> <tr> <td:A1>\n".

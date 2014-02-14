@@ -45,7 +45,7 @@ feast_saint(428,3,'S. Pauli a Cruce','St. Paul of the Cross','C');
 
 feast_saint(429,3,'Sancti Petri','Saint Peter','Me');
 
-feast_saint(430,3,'S. Catharinæ Senensis','St. Catharine of Siena','V');
+feast_saint(430,3,'S. Catharinæ Senensis','St. Catharine of Siena','Vs');
 
 ?>
 

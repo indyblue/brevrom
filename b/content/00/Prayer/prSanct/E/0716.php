@@ -1,0 +1,1 @@
+O God, who hast honoured the Carmelite Order with the special title of the Order of the most blessed ever-Virgin Mary, thy Mother; mercifully grant that, as we this day celebrate her commemoration with a solemn office, so we may be defended by her protection, and be found worthy to attain to everlasting joys. Who livest.

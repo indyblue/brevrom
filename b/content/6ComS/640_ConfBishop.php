@@ -28,7 +28,7 @@
 	bookmark('csCBLlc');
 	lc('ecclus44_16.php');
 	rubrics('head/HymnVerse.php');
-	hymn('jesu_redemptor_omnium_perpes.php');
+	hymn('jesu_redemptor_omnium_perpes.php',0);
 	vrS('justum_deduxit_dominus_per_vias_rectas.php',2);
 	ant('euge_serve_bone_et_fidelis.php','B',2);
 	rubrics('head/Prayer.php',1);

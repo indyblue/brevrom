@@ -28,7 +28,7 @@
 	reading('vr/kyrie.php',0);
 	vr('pater_silent_vr.php');
 	vrS('preces/ego_dixi.php');
-	vrS('preces/convertere.php');
+	vrS('preces/convertere2.php');
 	vrS('preces/fiat_misericordia.php');
 	vrS('preces/sacerdotes.php');
 	vrS('Ord/ab_occultis_meis_munda_me_domine.php');

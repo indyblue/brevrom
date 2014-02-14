@@ -32,9 +32,11 @@ function hymn($file, $byref=-1) {
 	
 	if($byref==1) {
 		$Lfl = trimP($Lpieces[3]);
+		$Efl = trimP($Epieces[3]);
 		$bk = substr($file,0,strlen($file)-4);
-		echo '<p:Rubric>Hymn <snr>' . $Lfl . '</s>, <snr>p. ' . 
-			bkref($bk) . "</s></p>\n";
+		$bkref = ', p. '. bkref($bk) .'</s>';
+		rubp('Hymnus <snr>'. $Lfl . $bkref,
+			'Hymn <snr>'. $Efl . $bkref);
 	}
 	else {
 		if($byref==0) {

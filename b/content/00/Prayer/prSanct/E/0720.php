@@ -1,0 +1,1 @@
+O God, the father of mercies, who wast pleased that blessed Jerome should be a helper and father to the fatherless; grant, by his merits and intercession, that we may faithfully preserve the spirit of adoption, whereby we are called, and are, thy sons. Through our Lord.

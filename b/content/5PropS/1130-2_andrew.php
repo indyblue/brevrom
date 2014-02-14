@@ -3,6 +3,7 @@
 	img();
 	space();
 	feast_saint(1130,12,'Sancti Andreæ','Saint Andrew','A');
+
 	hour('L');
 	ant('prSanct/1130L.php','20000');
 	rubrics('ps/SuL1.php');
@@ -15,9 +16,8 @@
 	prayer('prSanct/1130.php');
 	rubrics('prSanct/comm_feria.php');
 	space();
-	rubrics('ps/LittleHoursFeria.php');
-	space();
-
+	
+	csref();
 	hour('T');
 	lc('rom10_10.php');
 	brS('in_omnem_terram_exivit_sonus_eorum.php');

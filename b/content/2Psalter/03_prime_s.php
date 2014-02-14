@@ -5,20 +5,16 @@
 	brS('Ord/christe_fili_dei_vivi_miserere_nobis.php');
 	vrS('Ord/exsurge_christe_adjuva_nos.php');
 	rubp('Tempore Passionis omittitur <snr>Glória Patri</s>.','In Passiontide omit the <snr>Glória Patri</s>.');
-	rubp('','Advent Season, and on Christmas Eve');
-	PrV('qui_venturus_es_in_mundum.php',1);
-	rubp('','In the Christmas Season, Feasts of BVM, and Saturday Office of BVM');
-	PrV('qui_natus_es_de_maria_virgine.php',1);
-	rubp('','In the Epiphany Season');
-	PrV('qui_apparuisti_hodie.php',1);
+	PrV('qui_venturus_es_in_mundum.php',array('Tempore Adventus:','Advent Season:'));
+	PrV('qui_natus_es_de_maria_virgine.php',array('Tempore Nativitatis:','Christmas Season:'));
+	PrV('qui_apparuisti_hodie.php',array('Tempore Epiphaniæ','Epiphany Season:'));
 
 	rubrics('head/PT.php');
 	brS('Ord/christe_fili_dei_vivi_miserere_nobis_PT.php',1);
 	vrS('Ord/exsurge_christe_adjuva_nos.php',1);
-	rubp('','In Ascensiontide');
-	PrV('qui_scandis_super_sidera.php',1);
-	rubp('','In the Octave of Pentecost:');
-	PrV('qui_sedes_ad_dexteram_patris.php',1);
+	PrV('qui_scandis_super_sidera.php',array('Tempore Ascensionis:','Ascension Season:'));
+	PrV('qui_sedes_ad_dexteram_patris.php',array('Infra octavam Pentecostes:','In the octave of Pentecost:'));
+
 	space();
 	vr('dv_de_short2.php');
 	vr('oremus.php');
@@ -26,13 +22,11 @@
 	vr('dv_de_short2.php');
 	vrS('benedicamus_domino.php');
 
-	head('De lectione Martyrologii','The reading of the Martyrology',3);
+	head('De lectione Martyrologii','The reading of the Martyrology',4);
 	vrS('Ord/pretiosa_in_conspectu_domini.php');
 	prayer('Ord/prime02.php',1);
 	
-	vrS('Ord/deus_in_adjutorium_meum_intende.php');
-	rubp('Et dicitur ter; ultimo additur:',
-		'Which is said thrice, then followed by:');
+	vrS('Ord/deus_in_adjutorium_meum_intende_ter.php');
 	vrS('Ord/gloria_patri.php');
 	vrS('Ord/kyrie_eleison.php');
 	vr('pater_silent_vr.php');
@@ -41,7 +35,7 @@
 	vr('oremus.php');
 	prayer('Ord/prime03.php',1);
 
-	head('Lectio brevis','Brief lesson',3);
+	head('Lectio brevis','Brief lesson',4);
 	vr('jube_domine.php');
 	vr('bened_dies_et.php');
 	lc('is33_2.php',0,2,'In Advent:');

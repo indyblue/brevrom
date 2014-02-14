@@ -1,8 +1,7 @@
 <?php
 
-	space(); 
 	img();
-	space('RubricH'); 
+	space(); 
 	feast_saint(810,12,'Sancti Laurentii','Saint Laurence','M');
 
 	hour('L');
@@ -17,7 +16,7 @@
 	prayer('prSanct/0810.php');
 
 	space();
-	rubrics('ps/LittleHoursFeria.php');
+	csref();
 
 	hour('T');
 	lc('2cor9_6.php');

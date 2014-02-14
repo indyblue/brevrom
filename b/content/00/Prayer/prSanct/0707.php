@@ -1,0 +1,1 @@
+Omnípotens sempitérne Deus, qui Slavóniæ gentes per beátos Confessóres tuos atque Pontífices Cyríllum et Methódium ad agnitiónem tui nóminis veníre tribuísti: præsta; ut, quorum festivitáte gloriámur, eórum consórtio copulémur. Per Dóminum.

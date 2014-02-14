@@ -9,8 +9,7 @@
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
 	lc('is7_14-15.php');
-	rubrics('asIn.php','ave_maris_stella',
-		'Common of BVM','Hymn <snr>Ave, maris stella</s>');
+	hymn('ave_maris_stella.php',1);
 	vrS('prSanct/ave_maria_gratia_plena.php',2); 
 	ant('prSanct/0325m1.php','M',2); 
 	rubrics('prSanct/comm_lent.php');
@@ -22,8 +21,7 @@
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0325L.php','02222'); 
 	lc('is7_14-15.php');
-	rubrics('asIn.php','o_gloriosa_virginum',
-		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
+	hymn('o_gloriosa_virginum.php',1);
 	vrS('prSanct/ave_maria_gratia_plena.php',2);
 	ant('prSanct/0325b.php','B',2);
 	rubrics('head/Prayer.php'); 
@@ -31,6 +29,7 @@
 	rubrics('prSanct/comm_lent.php');
 
 	space();
+	csref(0,3);
 	rubrics('ps/LittleHoursFeast.php');
 	PrV('qui_natus_es_de_maria_virgine.php'); 
 
@@ -68,8 +67,7 @@
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
 	lc('is7_14-15.php');
-	rubrics('asIn.php','ave_maris_stella',
-		'Common of BVM','Hymn <snr>Ave, maris stella</s>');
+	hymn('ave_maris_stella.php',1);
 	vrS('prSanct/ave_maria_gratia_plena.php',2);
 	ant('prSanct/0325m2.php','M',2);
 	rubrics('head/Prayer.php'); 

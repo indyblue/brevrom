@@ -1,6 +1,7 @@
-<?php img(); ?>
-	<p:BodySm/>
-<?php headSt('Sept. 21',2,'Sancti Matthæi','Saint Matthew','Apostle'); ?>
-<?php rubrics('prSanct/all_from.php','csAp'); ?>
-<?php prayer('prSanct/0921.php'); ?>
-<p:Rubric>If this feast occurs on one of the Ember days, <snr>p. <?php echo bkref('SeptEmber'); ?></s>, commemoration is made of the Ember day at Lauds and Vespers.</p>
+<?php
+
+img();
+space();
+feast_saint(921,2,'Sancti Matthæi','Saint Matthew','A',0,"rubp('Et, in Quatuor Temporibus, fit com. feriæ in Laudes et in Vesperis.','And, if it is an Ember day, <snr>p. ' . bkref('SeptEmber') .'</s>, commem. of the feria is made at Lauds and Vespers.');");
+
+?>

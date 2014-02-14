@@ -8,23 +8,21 @@
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0205L.php','02222'); 
 	lc('ecclus51_1.php'); 
-	rubrics('asIn.php','jesu_corona_virginum',
-		'Common of Virgins','Hymn <snr>Jesu, coróna Vírginum</s>');
+	hymn('jesu_corona_virginum.php',1);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
 	ant('prSanct/0205b.php','B'); 
 	rubrics('head/Prayer.php'); 
 	prayer('csVirginMartyr1.php','Ágathæ','Agatha'); 
 
 	space();
-	rubrics('prSanct/horas_from.php','csHWLH',3,', with the readings for a Martyr (<snr>Ecclus. 51</s>)');
+	csref('csHW',2,2);
 
 	space();
 	hour('V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV147.php'); 
 	lc('ecclus51_1.php'); 
-	rubrics('asIn.php','jesu_corona_virginum',
-		'Common of Virgins','Hymn <snr>Jesu, coróna Vírginum</s>');
+	hymn('jesu_corona_virginum.php',1);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
 	ant('prSanct/0205m.php','M'); 
 	rubrics('prSanct/ComplineFeria.php'); 

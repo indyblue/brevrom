@@ -1,58 +1,57 @@
-<?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
-	<p:RubricH/>
-<?php headSt('Sept. 15',2,'Septem Dolorum B. Mariæ Virg.','The Seven Sorrows of the B.V.M.'); ?>
-<?php hour('L'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/0915L.php','20000'); ?>
-<?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/0915L.php','02222'); ?>
-<?php lc('lam2_13.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('summae_deus_clementiae.php'); ?>
-<?php vrS('prSanct/maria_virgo_per_virtutem_tot_dolorum.php'); ?>
-<?php ant('prSanct/0915b.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/0915.php'); ?>
-	<p:BodySm/>
-   <p:RubricH>Commemoration is made of St. Nicomedes, Martyr:</p>
-<?php ant('qui_odit_animam_suam_in_hoc_mundo.php'); ?>
-<?php vrS('justus_ut_palma_florebit.php'); ?>
-<?php rubrics('oremus.php'); ?>
-<?php prayer('prSanct/0915c.php'); ?>
-   <p:BodySm/>
+<?php 
 
-<?php rubrics('ps/LittleHoursFeria.php'); ?>
-<?php PrV('qui_passus_es_propter_nostram_salutem.php'); ?>
-	<p:BodySm/>
+img('Saints/0908_nativity_of_bvm.tif',100);
+space();
+headSt(915,2,'Septem Dolorum B. Mariæ Virg.','The Seven Sorrows of the B.V.M.');
 
-<?php hour('T'); ?>
-<?php lc('lam2_13.php'); ?>
-<?php brS('prSanct/o_vos_omnes_qui_transitis_per_viam.php'); ?>
-<?php vrS('prSanct/defecerunt_prae_lacrimis_oculi_mei.php'); ?>
-   <p:BodySm/>
+hour('L');
+ant('prSanct/0915L.php','20000');
+rubrics('ps/SuL1.php');
+ant('prSanct/0915L.php','02222');
+lc('lam2_13.php');
+rubrics('head/HymnVerse.php');
+hymn('summae_deus_clementiae.php');
+vrS('prSanct/maria_virgo_per_virtutem_tot_dolorum.php');
+ant('prSanct/0915b.php','B');
+rubrics('head/Prayer.php');
+prayer('prSanct/0915.php');
+feast_saint(915,-1,'S. Nicomedis','St. Nicomedes','M');
+space();
 
-<?php hour('S'); ?>
-<?php lc('lam1_2.php'); ?>
-<?php brS('prSanct/defecerunt_prae_lacrimis_oculi_mei.php'); ?>
-<?php vrS('prSanct/fasciculus_myrrhae_dilectus_meus_mihi.php'); ?>
-   <p:BodySm/>
+csref();
+PrV('qui_passus_es_propter_nostram_salutem.php');
+hour('T');
+lc('lam2_13.php');
+brS('prSanct/o_vos_omnes_qui_transitis_per_viam.php');
+vrS('prSanct/defecerunt_prae_lacrimis_oculi_mei.php');
+space();
 
-<?php hour('N'); ?>
-<?php lc('lam2_18.php'); ?>
-<?php brS('prSanct/fasciculus_myrrhae_dilectus_meus_mihi.php'); ?>
-<?php vrS('prSanct/anima_mea_liquefacta_est.php'); ?>
-	<p:BodySm/>
+hour('S');
+lc('lam1_2.php');
+brS('prSanct/defecerunt_prae_lacrimis_oculi_mei.php');
+vrS('prSanct/fasciculus_myrrhae_dilectus_meus_mihi.php');
+space();
 
-<?php hour('V'); ?>
-<?php rubrics('ps/antLauds.php'); ?>
-<?php rubrics('ps/ComBVM.php'); ?>
-<?php lc('lam2_13.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('jam_toto_subitus_vesper_eat_polo.php'); ?>
-<?php vrS('prSanct/regina_martyrum_ora_pro_nobis.php'); ?>
-<?php ant('prSanct/0915m2.php','M'); ?>
-<?php rubrics('prSanct/if1Vespers.php'); ?>
-<?php ant('prSanct/0915m1.php','M'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/0915.php'); ?>
-<?php rubrics('prSanct/ComplineSun.php'); ?>
+hour('N');
+lc('lam2_18.php');
+brS('prSanct/fasciculus_myrrhae_dilectus_meus_mihi.php');
+vrS('prSanct/anima_mea_liquefacta_est.php');
+space();
+
+hour('V');
+rubrics('ps/antLauds.php');
+rubrics('ps/ComBVM.php');
+lc('lam2_13.php');
+rubrics('head/HymnVerse.php');
+hymn('jam_toto_subitus_vesper_eat_polo.php');
+vrS('prSanct/regina_martyrum_ora_pro_nobis.php');
+ant('prSanct/0915m2.php','M');
+space('Line');
+rubrics('prSanct/if1Vespers.php');
+ant('prSanct/0915m1.php','M');
+space('Line');
+rubrics('head/Prayer.php');
+prayer('prSanct/0915.php');
+rubrics('prSanct/ComplineSun.php');
+
+?>

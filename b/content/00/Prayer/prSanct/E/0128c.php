@@ -1,0 +1,1 @@
+O God, who dost gladden us with the yearly solemnity of blessed Agnes thy Virgin and Martyr; mercifully grant that as we venerate her in her festival, so we may follow her in the example of her holy life. Through our Lord.

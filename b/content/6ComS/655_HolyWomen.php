@@ -35,7 +35,6 @@
 	rubrics('head/HymnVerse.php');
 	hymn('fortem_virili_pectore.php');
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
-	rubrics('head/Benedictus.php',2);
 	ant('date_ei_de_fructu_manuum_suarum.php','B',2);
 
 	rubrics('head/Prayer.php',1);

@@ -14,4 +14,4 @@
 23~“<l>Quam abscondisti.</s>” An expression that shows that this treasure is hidden from the wicked, who do not fear God.
 25~Thou wilt make them enjoy in secret Thy sensible presence, as happens to certain privileged souls. In this secret place they are sure not to be troubled by men of the world, or by human passions.
 28~“<l>In excessu mentis meæ.</s>” According to the Hebrew: <l>In stupore meo</s>—In the excess of my tribulation, which held me stupefied.
-30~“<l>Veritatem requiret.</s>” According to the Hebrew: <l>Sinceros itueturn</s>—He protects the sincere. The sense of the verse is: All you that serve the Lord, love him; for he will test your innocence, and he will know well how to defend those that love him, as he knows how to punish the proud with terrible torments.
+30~“<l>Veritatem requiret.</s>” According to the Hebrew: <l>Sinceros tuetur</s>—He protects the sincere. The sense of the verse is: All you that serve the Lord, love him; for he will test your innocence, and he will know well how to defend those that love him, as he knows how to punish the proud with terrible torments.

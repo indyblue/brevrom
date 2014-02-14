@@ -8,8 +8,7 @@
 	rubrics('ps/SuV116.php');
 	lc('col3_14.php');
 	rubrics('head/HymnVerse.php');
-	rubrics('asIn.php','te_joseph_celebrent_agmina_caelitum',
-		'','Hymn <snr>Te, Joseph, célebrent ágmina cǽlitum</s>');
+	hymn('te_joseph_celebrent_agmina_caelitum.php',1);
 	vrS('prSanct/solemnitas_est_hodie_sancti_joseph.php',1);
 	ant('prSanct/0501m1.php','M');
 	rubrics('prSanct/ComplineSun.php');
@@ -28,7 +27,7 @@
 	prayer('prSanct/0501.php');
 
 	space();
-	rubrics('ps/LittleHoursFeast.php');
+	csref(0,3);
 
 	hour('T');
 	lc('col3_14.php');
@@ -52,8 +51,7 @@
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
 	lc('col3_14.php');
-	rubrics('asIn.php','te_joseph_celebrent_agmina_caelitum',
-		'','Hymn <snr>Te, Joseph, célebrent ágmina cǽlitum</s>');
+	hymn('te_joseph_celebrent_agmina_caelitum.php',1);
 	vrS('prSanct/ora_pro_nobis_sancte_joseph.php',1);
 	ant('prSanct/0501m2.php','M');
 	rubrics('head/Prayer.php');

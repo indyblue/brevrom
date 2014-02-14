@@ -1,107 +1,98 @@
-<?php img(); ?>
-	<p:RubricH/>
-<?php headSt('Nov. 2',1,'in Commem. Omnium Fidelium Defunctorum','the Commem. of all the Faithful Departed'); ?>
-   <p:Rubric>This feast excludes all occuring feasts and also all transferred feasts of any rite. If it should fall on a Sunday, it is celebrated with the same priveleges on the following Monday; any other feast being transferred or omitted, according to the rubrics.</p>
-<?php rubrics('asIn.php','offDef','Office of the Dead, except those parts given as proper.','All'); ?> 
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('offDef/offDef.php'); ?>
+<?php
 
-<?php hour('L'); ?>
-<?php rubrics('asIn.php','offDefL','Office of the Dead.','Lauds'); ?> 
-	<p:BodySm/>
+	img();
+	space('RubricH');
+	headSt(1102,1,'in Commem. Omnium Fidelium Defunctorum','the Commem. of all the Faithful Departed');
+	
+	rubp('<snr>¶</s> Commemoratio omnium Fidelium defunctorum excludit tum festa occurrentia, tum festa transferenda cujusvis ritus. Si tamen inciderit in dominicam, iisdem cum juribus, in seq. feria secunda celebratur, translato, vel penitus omisso, juxta rubricas, quolibet alio festa.','<snr>¶</s> This feast excludes all occuring feasts and also all transferred feasts of any rite. If it should fall on a Sunday, it is celebrated with the same priveleges on the following Monday; any other feast being transferred or omitted, according to the rubrics.');
+	rubp('Omnia dicuntur ut in communi Officio Defunctorum, circa finem Breviarii <snr>p. '. bkref('offDef') .'</s>, præter ea quæ hic habentur propria.','All as in the Office of the Dead, <snr>p. '. bkref('offDef') .'</s>, except those parts given as proper.');
+	rubrics('head/Prayer.php');
+	prayer('offDef/offDef.php');
 
-<?php hour('P'); ?>
-	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
-<?php psalm('087.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('027.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('031.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-	<p:BodySm/>
-	<p:RubricH>Then the following are said kneeling:</p>
-<?php vr('pater_silent_vr.php'); ?>
-<?php vrS('a_porta_inferi_sing.php') ?>
-<?php vrS('requiescant_in_pace_sing.php') ?>
-<?php vrS('domine_exaudi_orationem_meam.php') ?>
-<p:RubricH>When a Priest or Deacon presides in choir or in community, the following is said:</p>
-<?php vrS('dominus_vobiscum.php'); ?>
-<?php rubrics('oremus.php'); ?>
-<?php prayer('offDef/prime1.php'); ?>
-<p:RubricH>Next, in choir, the Martyrology is read. Before the announcement of the day, the announcement of All Soul's Day is said:</p>
-   <table> <tr> <td:A1>
-<p:BodyLDrop>HAC die Commemorátio ómnium Fidélium Defunctórum; in qua commúnis pia Mater Ecclésia, postquam univérsos fílios suos jam in cælo lætántes cóngruis stúduit celebráre præcóniis, mox et omnes adhuc in Purgatório geméntes válidis apud Dóminum et Sponsum Christum sátagit suffrágiis adjuváre, ut quam cítius váleant ad societátem supernórum cívium perveníre.</p>
-     </td> <td:B1>
-<p:BodyEDrop>THE Commemoration of All the Faithful Departed, in which our loving and holy Mother Church, having endeavoured to extol with due praises her children already rejoicing in heaven, now strives to assist, by earnest supplications to Christ her Lord and Spouse, those who still suffer the pains of purgatory, that they may speedily attain unto fellowship with the heavenly citizens.</p>
-     </td> </tr> </table>
-<p:RubricH>Next, after the Martyrology or if it is omitted, is said:</p>
-<?php vrS('in_memoria_aeterna_erunt_justi.php'); ?>
-<?php rubrics('oremus.php'); ?>
-<?php prayer('offDef/prime2.php'); ?>
-<?php vrS('requiem_aeternam.php'); ?>
-<?php vrS('requiescant_in_pace.php') ?>
-	<p:BodySm/>
+	hour('P');
+	rubp('Absolute incipitur a psalmis sequentibus.','The hour begins immediately with the first Psalm (without Antiphon):');
+	psalm('087.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('027.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('031.php');
+	vrS('requiem_aeternam.php',6);
+	space();
+	rubp('Expletis psalmis, dicitur flexis genibus','After the psalms, the following are said kneeling:');
+	vr('pater_silent_vr.php');
+	vrS('a_porta_inferi_sing.php');
+	vrS('requiescant_in_pace_sing.php');
+	vrS('domine_exaudi_orationem_meam.php');
+	vrS('dominus_vobiscum_non.php');
+	rubrics('oremus.php');
+	prayer('offDef/prime1.php');
 
-<?php hour('T'); ?>
-	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
-<?php psalm('037-1.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('037-2.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('055.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php rubrics('offDef/1102_preces_concl.php'); ?>
-   <p:BodySm/>
+	rubp('Deinde in choro legitur Martyrologium, ut ibi suo loco notatur.','Next, in choir, the Martyrology is read, as noted its own place.');
+	rubp('Deinde, etiam extra chorum, licet omissa fuerit lectio Martyrologii, subjungitur:','Next, even out of choir, although the Martyrology may have been omitted, is said:');
+	vrS('in_memoria_aeterna_erunt_justi.php');
+	rubrics('oremus.php');
+	prayer('offDef/prime2.php');
+	vrS('requiem_aeternam.php');
+	vrS('requiescant_in_pace.php');
+	space();
 
-<?php hour('S'); ?>
-	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
-<?php psalm('069.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('084.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('085.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php rubrics('offDef/1102_preces_concl.php'); ?>
-   <p:BodySm/>
+	hour('T');
+	rubp('Absolute incipitur a psalmis sequentibus.','The hour begins immediately with the first Psalm (without Antiphon):');
+	psalm('037-1.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('037-2.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('055.php');
+	vrS('requiem_aeternam.php',6);
+	rubrics('offDef/1102_preces_concl.php');
+	space();
 
-<?php hour('N'); ?>
-	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
-<?php psalm('101-1.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('101-2.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('101-3.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php rubrics('offDef/1102_preces_concl.php'); ?>
-   <p:BodySm/>
+	hour('S');
+	rubp('Absolute incipitur a psalmis sequentibus.','The hour begins immediately with the first Psalm (without Antiphon):');
+	psalm('069.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('084.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('085.php');
+	vrS('requiem_aeternam.php',6);
+	rubrics('offDef/1102_preces_concl.php');
+	space();
 
-<?php hour('V'); ?>
-<?php rubrics('asIn.php','offDefV','Office of the Dead.','Vespers'); ?> 
+	hour('N');
+	rubp('Absolute incipitur a psalmis sequentibus.','The hour begins immediately with the first Psalm (without Antiphon):');
+	psalm('101-1.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('101-2.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('101-3.php');
+	vrS('requiem_aeternam.php',6);
+	rubrics('offDef/1102_preces_concl.php');
+	space();
 
-<?php hour('C'); ?>
-	<p:RubricH>The hour begins with the <snr>Confiteor, Misereatur, and Indulgentiam</s>, immediately followed by the first Psalm (without Antiphon):</p>
-<?php psalm('122.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('141.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-<?php psalm('142.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
-	<p:RubricH>This is followed by the Gospel canticle, without Antiphon:</p>
-<?php canticle('simeon.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
+	hour('C');
+	rubp('Non dicitur <snr>Jube, domne</s>, nec lectio brevis, neque versus <snr>Adjutórium nostrum</s>, neque oratio dominica; sed, facta confessione et absolutione, statim sine antiphona incipitur a psalmis sequentibus.','<snr>Jube, domne</s> is not said, nor the brief lesson, nor the verse <snr>Adjutórium nostrum</s>, nor the Lord’s prayer: but, after the confession and absolution, the following psalms are begun immediately without antiphon.');
+	rubp('Ubi vero, juxta rubricas, Completorium dicitur tamquam ultima diei precatio, in qua fit examen conscientiæ, tunc, si recitatur in choro vel in communi, moderator chori vel communitatis, signo dato, indicat esse examen conscientiæ; quo absoluto, dicitur <snr>Confíteor, Misereátur, Indulgéntiam.</s>','When, according to the rubrics, Compline is said as the final prayer of the day and the examination of conscience is made, then, if said in choir or community, the leader of the choir or community gives a sign to indicate the beginning of the examination of conscience; when finished, the <snr>Confíteor, Misereátur, Indulgéntiam</s> are said.');
+	psalm('122.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('141.php');
+	vrS('requiem_aeternam.php',6);
+	psalm('142.php');
+	vrS('requiem_aeternam.php',6);
+	rubp('Expletis psalmis, statim subjungitur.','After the psalms, the following is said immediately.');
+	canticle('simeon.php');
+	vrS('requiem_aeternam.php',6);
 
-<?php rubrics('head/Preces.php'); ?>
-	<p:RubricH>Then the following are said kneeling:</p>
-<?php vr('pater_silent_vr.php'); ?>
-<?php vrS('a_porta_inferi_sing.php') ?>
-<?php vrS('requiescant_in_pace_sing.php') ?>
-<?php vrS('domine_exaudi_orationem_meam.php') ?>
-<p:RubricH>When a Priest or Deacon presides in choir or in community, the following is said:</p>
-<?php vrS('dominus_vobiscum.php'); ?>
-<?php rubrics('oremus.php'); ?>
-<?php prayer('offDef/compline.php'); ?>
-<?php vrS('requiem_aeternam.php'); ?>
-<?php vrS('requiescant_in_pace.php'); ?>
-	<p:RubricH>The hour of Compline is thus concluded, without the usual Marian Antiphon.</p>
-   <p:BodySm/>
-
+	rubrics('head/Preces.php');
+	rubp('Deinde dicitur flexis genibus','Then the following are said kneeling:');
+	vr('pater_silent_vr.php');
+	vrS('a_porta_inferi_sing.php');
+	vrS('requiescant_in_pace_sing.php');
+	vrS('domine_exaudi_orationem_meam.php');
+	vrS('dominus_vobiscum_non.php');
+	rubrics('oremus.php');
+	prayer('offDef/compline.php');
+	vrS('requiem_aeternam.php');
+	vrS('requiescant_in_pace.php');
+	rubp('Et ita absolvitur Completorium, nequi aliud adjungitur.','The hour of Compline is thus concluded, and nothing else is added.');
+	space();
+?>

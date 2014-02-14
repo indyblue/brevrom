@@ -4,16 +4,14 @@
 	headSt(202,2,'in Purificatione B. Mariæ Virg.',
 		'Purification of the B.V.M.');
 	rubp('Festum B. Mariæ Virg. habetur tamquam festum Domini.', 'This feast of the B.V.M. is observed as a feast of our Lord.');
-	rubrics('prSanct/all_from.php','csBVM');
 
 	hour('1V'); 
-	rubrics('prSanct/Sun1Vespers.php'); 
-	rubrics('asIn.php','pt0101L',
-		'Lauds of Jan. 1, the Feast of the Circumcision', 'Antiphons'); 
+	rubrics('prSanct/if1cl_sun_1Vespers.php');
+	rubp('Ant. ut in die 1 januarii, <snr>p. '. bkref('pt0101L') .'</s>.',
+		'Ant. as on 1 January, <snr>p. '. bkref('pt0101L') .'</s>.');
 	rubrics('ps/ComBVM.php'); 
 	lc('malach3_1.php'); 
-	rubrics('asIn.php','ave_maris_stella',
-		'Common of BVM','Hymn <snr>Ave, maris stella</s>');
+	hymn('ave_maris_stella.php',1);
 	vrS('prSanct/responsum_accepit_simeon_a_spiritu_sancto.php'); 
 	ant('prSanct/0202m1.php','M'); 
 	rubrics('prSanct/ComplineSun.php'); 
@@ -24,15 +22,14 @@
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0202L.php','02222'); 
 	lc('malach3_1.php'); 
-	rubrics('asIn.php','o_gloriosa_virginum',
-		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
+	hymn('o_gloriosa_virginum.php',1);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
 	ant('prSanct/0202b.php','B'); 
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0202.php'); 
 
 	space();
-	rubrics('ps/LittleHoursFeria.php');
+	csref();
 	PrV('qui_natus_es_de_maria_virgine.php'); 
 	rubp('Quando hoc festum occurrit in dominicis in Septuagesima, aut Sexagesima, aut Quinquagesima, ad horas sumuntur ant. de Laudibus, pss. vero de dominica, retentis tamen ad primam pss. 117, 118 i, 118 ii.', 'When this feast occurs on the Sunday of Septuagesima, Sexagesima or Quinquagesima, at the little hours the ant. are selected from Lauds, and the psalms from Sunday; retaining at Prime pss. 117, 118 i, 118 ii.');
 
@@ -58,8 +55,7 @@
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
 	lc('malach3_1.php'); 
-	rubrics('asIn.php','o_gloriosa_virginum',
-		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
+	hymn('ave_maris_stella.php',1);
 	vrS('prSanct/responsum_accepit_simeon_a_spiritu_sancto.php'); 
 	ant('prSanct/0202m2.php','M'); 
 	rubrics('head/Prayer.php'); 

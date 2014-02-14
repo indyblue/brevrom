@@ -1,25 +1,29 @@
-<?php img(); ?>
-   <p:BodySm/>
-<?php headSt('Oct. 20',3,'S. Joannis Cantii','St. John Cantius','Confessor'); ?>
-<?php hour('L'); ?>
-<?php rubrics('ps/Feria.php'); ?>
-<?php lc('ecclus31_8.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('te_deprecante_corporum.php'); ?>
-<?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
-<?php ant('euge_serve_bone_et_fidelis.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/1020.php'); ?>
-	<p:BodySm/>
+<?php
 
-<?php rubrics('prSanct/horas_from.php','csCLH',3,''); ?>
-   <p:BodySm/>
+	img();
+	space();
+	feast_saint(1020,13,'S. Joannis Cantii','St. John Cantius','C');
+	csref(0,1);
 
-<?php hour('V'); ?>
-<?php rubrics('ps/Feria.php'); ?>
-<?php lc('ecclus31_8.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('gentis_polonae_gloria.php'); ?>
-<?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
-<?php ant('hic_vir_despiciens_mundum_et_terrena_triumphans.php','M'); ?>
-<?php rubrics('prSanct/ComplineFeria.php'); ?>
+	hour('L');
+	lc('ecclus31_8.php');
+	rubrics('head/HymnVerse.php');
+	hymn('te_deprecante_corporum.php');
+	vrS('justum_deduxit_dominus_per_vias_rectas.php');
+	ant('euge_serve_bone_et_fidelis.php','B');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/1020.php');
+	space();
+
+	csref('csC',0,3);
+	space();
+
+	hour('V');
+	lc('ecclus31_8.php');
+	rubrics('head/HymnVerse.php');
+	hymn('gentis_polonae_gloria.php');
+	vrS('justum_deduxit_dominus_per_vias_rectas.php');
+	ant('hic_vir_despiciens_mundum_et_terrena_triumphans.php','M');
+	rubrics('prSanct/ComplineFeria.php');
+
+?>

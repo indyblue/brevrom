@@ -17,8 +17,10 @@ function first_word($sline,$minlen=2,$retarr=0) {
 	} else 
 			$split[0] .= ' '. $split[1];
 
-	if($retarr)
+	if($retarr>0)
 		return array($split[0],$split[2]);
+	elseif($retarr<0)
+		return $split[0];
 	else
 		return mb_strtoupper($split[0]) . ' ' . $split[2];
 	//	return '<s:AllCaps>' . $split[0] . '</s> ' . $split[2];
@@ -39,7 +41,7 @@ function start_phrase($sline,$minlen=10,$retarr=0) {
 }
 
 function trimP($string) {
-	return trim($string,' \t.,;:!?');
+	return trim($string," \t.,;:!?");
 }
 
 ?>

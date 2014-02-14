@@ -14,7 +14,7 @@
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0626.php'); 
 
-	rubrics('prSanct/horas_from.php','csMmLH',3,'');
+	csref('csMm',2,2);
 
 	space();
 	hour('V'); 

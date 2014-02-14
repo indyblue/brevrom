@@ -20,7 +20,7 @@
 	prayer('csVirgin1.php','Petroníllæ','Petronilla'); 
 
 	space();
-	rubrics('ps/LittleHoursFeria.php');
+	csref();
 	PrV('qui_natus_es_de_maria_virgine.php');
 
 	hour('T');

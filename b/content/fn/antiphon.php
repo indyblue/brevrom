@@ -8,6 +8,7 @@
 // # - for number but no astrisk
 // 2 - for both astrisk & number
 // M - Ad Magnif.Ant. + astrisk
+// m - Ad Magnif [short], ut supra.
 // B - Ad Bened.Ant. + astrisk
 // N - adds appropriate "Nocturn" before antiphon
 // P - P.T. Ant. + astrisk
@@ -54,6 +55,7 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 		$subst = array(' *','*','‡');
 		$ant = '';
 		$ante = '';
+		$short = 0;
 
 		//if Alleluias are to be added, check to make sure
 		//that there aren't already alleluia's in this ant.
@@ -81,6 +83,8 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 				$ast=1; $ant='<sr>Ad Bened.Ant.</s> '; $ante = '<sr>Benedictus Ant.</s> ';
 			} elseif($inc=='M') {
 				$ast=1; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
+			} elseif($inc=='m') {
+				$short=1; $ast=0; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
 			} elseif($inc=='P') {
 				$ast=1; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
 			} elseif($inc=='p') {
@@ -114,6 +118,11 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 			if(!$ast) {
 				$L = str_replace($subst,'',$L);
 				$E = str_replace($subst,'',$E);
+			}
+			if($short) {
+				echo $L;
+				$L = first_word($L,8,-1) . ', <sr>ut supra.</s>';
+				$E = first_word($E,8,-1) . ', <sr>as above.</s>';
 			}
 			if(strlen($nameL)>0) {
 				if(strlen($nameE)==0)

@@ -130,7 +130,7 @@ if($weekly) rubp('','Full Psalter:
 	vr('jube_domine.php');
 	reading('bvm/per_virginem_matrem.php',0,10);
 	lc('luke1_34-38.php',0,'L3');
-	rm('BVMp/mra2.php',0,0);
+	rm('BVMp/mra3.php',0,0);
 	space();
 
 ?>

@@ -18,7 +18,7 @@
 	feast_saint(702,-1,"Ss. Processi et Martiniani",
 		"Ss. Processus and Martinian","M+");
 
-	rubrics('prSanct/horas_from.php','csBVMLH',2,'');
+	csref('csBVM',2,2);
 	PrV('qui_natus_es_de_maria_virgine.php');
 
 	space();

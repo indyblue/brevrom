@@ -50,23 +50,34 @@ function convert_date($date) {
 	return array($Ldate,$Edate);
 }
 function bookmark($link='') {
-	echo '
-<p:BkHidden><text:bookmark text:name="' . $link . '"/></p>
-';
+	echo "<p:BkHidden><text:bookmark text:name=\"" . $link . "\"/></p>\n";
+}
+
+function bklist($bk=0) {
+	if(!array_key_exists('list',$_GET))
+		$_GET['list'] = '';
+	if($bk===0) return $_GET['list'];
+	elseif($bk===1) return strlen($_GET['list']);
+	else
+		$_GET['list'] .= "<p:BkHidden><text:bookmark text:name=\"" . 
+			$bk . "\"/>". $bk ."</p>\n";
 }
 
 // regex search to check for bkref not in echo
 // \v(echo.*)@<!bkref\(
 function bkref($link='') {
+	if(bklist(1)>0) bklist($link);
 	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">1</text:bookmark-ref>';
 }
 
+/*
 function PrV($file, $option=0) {
 	$dir = $_GET['root'] . "/00/VR/prime/";
 	if($option==0)
 		rubrics('ord/prime_brv.php');
 		require $dir.'0Versicle.php';
 }
+ */
 
 /*
 function hymn($file, $option=0) {

@@ -22,14 +22,15 @@ feast_saint(312,3,'Sancti Gregorii I','Saint Gregory I','PCD');
 
 feast_saint(317,3,'Sancti Patricii','Saint Patrick','EC');
 
-feast_saint(318,3,'S. Cyrilli, Ep. Hierosolymitani','St. Cyril, Bishop of Jerusalem','-ECD');
+feast_saint(318,3,'S. Cyrilli, Ep. Hierosolymitani','St. Cyril, Bishop of Jerusalem','-ECDs');
 
 require '0319-1_joseph_spouse_bvm.php';
 
 feast_saint(321,3,'Sancti Benedicti','Saint Benedict','a',
 	array('csConfessorAbbot.php','Benedícti','Benedict'));
 
-require '0324-3_gabriel.php';
+feast_saint(324,3,'Sancti Gabrielis',
+	'Saint Gabriel','Rs',0,0,array(0,1,0,0));
 
 require '0325-1_annunciation_bvm.php';
 

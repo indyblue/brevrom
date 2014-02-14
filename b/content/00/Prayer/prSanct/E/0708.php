@@ -1,0 +1,1 @@
+O most merciful God, who, among other rare gifts, didst adorn the blessed Queen Elizabeth with a singular grace for quelling the rage of war; grant through her intercession that, after enjoying in this mortal life the peace for which we humbly beg, we may attain unto eternal joys. Through our Lord.

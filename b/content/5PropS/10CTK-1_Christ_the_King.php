@@ -1,68 +1,60 @@
-<?php img('01_sunday_vespers.tif',100); ?>
-	<p:RubricH/>
-<?php headSt('Last Sunday in October',1,'D.N. Jesu Christi Regis','Christ the King'); ?>
+<?php
 
-<?php hour('1V'); ?>
-   <p:RubricH>All as in II Vespers except:</p>
-<?php vrS('prSanct/data_est_mihi_omnis_potestas.php'); ?>
-<?php ant('prSanct/10CTKm1.php','M'); ?>
-<?php rubrics('prSanct/ComplineSun.php'); ?>
-	<p:BodySm/>
+	img('01_sunday_vespers.tif',100);
+	space('RubricH');
+	headSt('Last Sunday in October',1,'D.N. Jesu Christi Regis','Christ the King');
 
-<?php hour('L'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/10CTKL.php','20000'); ?>
-<?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/10CTKL.php','02222'); ?>
-<?php lc('col1_12.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('vexilla_christus_inclyta.php'); ?>
-<?php vrS('prSanct/multiplicabitur_ejus_imperium.php'); ?>
-<?php ant('prSanct/10CTKb.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/10CTK.php'); ?>
-	<p:BodySm/>
+	hour('1V');
+	rubrics('prSanct/all2Vespers.php');
+	vrS('prSanct/data_est_mihi_omnis_potestas.php');
+	ant('prSanct/10CTKm1.php','M');
+	rubrics('prSanct/ComplineSun.php');
+	space();
 
-<?php rubrics('ps/LittleHoursFeast.php'); ?>
-	<p:BodySm/>
+	hour('L');
+	ant('prSanct/10CTKL.php','20000');
+	rubrics('ps/SuL1.php');
+	ant('prSanct/10CTKL.php','02222');
+	lc('col1_12.php');
+	rubrics('head/HymnVerse.php');
+	hymn('vexilla_christus_inclyta.php');
+	vrS('prSanct/multiplicabitur_ejus_imperium.php');
+	ant('prSanct/10CTKb.php','B');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/10CTK.php');
+	space();
 
-<?php hour('P'); ?>
-<?php ant('prSanct/10CTKL.php','*0000'); ?>
-<?php PrV('qui_primatum_in_omnibus_tenes.php'); ?>
-	<p:BodySm/>
+	csref(0,3);
+	PrV('qui_primatum_in_omnibus_tenes.php');
 
-<?php hour('T'); ?>
-<?php ant('prSanct/10CTKL.php','0*000'); ?>
-<?php lc('col1_12.php'); ?>
-<?php brS('prSanct/data_est_mihi_omnis_potestas.php'); ?>
-<?php vrS('prSanct/afferte_domino_familiae_populorum.php'); ?>
-   <p:BodySm/>
+	hour('T');
+	lc('col1_12.php');
+	brS('prSanct/data_est_mihi_omnis_potestas.php');
+	vrS('prSanct/afferte_domino_familiae_populorum.php');
+	space();
 
-<?php hour('S'); ?>
-<?php ant('prSanct/10CTKL.php','00*00'); ?>
-<?php lc('col1_16.php'); ?>
-<?php brS('prSanct/afferte_domino_familiae_populorum.php'); ?>
-<?php vrS('prSanct/adorabunt_eum_omnes_reges_terrae.php'); ?>
-   <p:BodySm/>
+	hour('S');
+	lc('col1_16.php');
+	brS('prSanct/afferte_domino_familiae_populorum.php');
+	vrS('prSanct/adorabunt_eum_omnes_reges_terrae.php');
+	space();
 
-<?php hour('N'); ?>
-<?php ant('prSanct/10CTKL.php','0000*'); ?>
-<?php lc('col1_19.php'); ?>
-<?php brS('prSanct/adorabunt_eum_omnes_reges_terrae.php'); ?>
-<?php vrS('prSanct/multiplicabitur_ejus_imperium.php'); ?>
-   <p:BodySm/>
+	hour('N');
+	lc('col1_19.php');
+	brS('prSanct/adorabunt_eum_omnes_reges_terrae.php');
+	vrS('prSanct/multiplicabitur_ejus_imperium.php');
+	space();
 
-<?php hour('2V'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/10CTKV.php','20000'); ?>
-<?php rubrics('ps/SuV116.php'); ?>
-<?php ant('prSanct/10CTKV.php','02222'); ?>
-<?php lc('col1_12.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('te_saeculorum_principem.php'); ?>
-<?php vrS('prSanct/multiplicabitur_ejus_imperium.php'); ?>
-<?php ant('prSanct/10CTKm2.php','M'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/10CTK.php'); ?>
-<?php rubrics('prSanct/ComplineSun.php'); ?>
-
+	hour('2V');
+	ant('prSanct/10CTKV.php','20000');
+	rubrics('ps/SuV116.php');
+	ant('prSanct/10CTKV.php','02222');
+	lc('col1_12.php');
+	rubrics('head/HymnVerse.php');
+	hymn('te_saeculorum_principem.php');
+	vrS('prSanct/multiplicabitur_ejus_imperium.php');
+	ant('prSanct/10CTKm2.php','M');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/10CTK.php');
+	rubrics('prSanct/ComplineSun.php');
+?>

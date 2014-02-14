@@ -3,12 +3,9 @@
 	img(); 
 	feast_saint(222,12,'Cathedræ S. Petri',
 		'Chair of St. Peter','A');
-	rubrics('prSanct/all_from.php','csCB');
+	csref('csCB',0,11);
 
 	hour('L');
-	rubrics('asIn.php','csCBL',
-		'Common of Confessor Bishop', 
-		'Psalms, Antiphons &amp; Little Chapter'); 
 	rubrics('head/HymnVerse.php');
 	hymn('beate_pastor_petre_clemens_accipe.php');
 	vrS('prSanct/exaltent_eum_in_ecclesia_plebis.php'); 
@@ -20,13 +17,10 @@
 	rubrics('prSanct/comm_lent.php'); 
 
 	space();
-	rubrics('ps/LittleHoursFeria.php');
+	csref('csCB');
 
 	space();
 	hour('V'); 
-	rubrics('asIn.php','csCBV',
-		'Common of Confessor Bishop', 
-		'Psalms, Antiphons &amp; Little Chapter'); 
 	rubrics('head/HymnVerse.php');
 	hymn('quodcumque_in_orbe_nexibus_revinxeris.php');
 	vrS('prSanct/elegit_te_dominus_sacerdotem_sibi.php'); 

@@ -1,0 +1,1 @@
+O God, who didst invigorate blessed Vincent with the strength of an apostle, that he might preach the Gospel to the poor and advance the honour of the ecclesiastical order; grant, we beseech thee, that, as we venerate the merits of his charity, so we may be instructed by the example of his virtues. Through our Lord.

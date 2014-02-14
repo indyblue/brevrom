@@ -1,23 +1,22 @@
 <?php
 	img();
 	space();
-	feast_saint(0125,13,'in Conversione S. Pauli','The Conversion of St. Paul','A');
+	feast_saint(125,13,'in Conversione S. Pauli','The Conversion of St. Paul','A');
 	hour('L');
 	ant('prSanct/0125L.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('prSanct/0125L.php','02222');
 	lc('acts9_1-2.php');
 	hymn('exsultet_orbis_gaudiis.php',1);
-	vrS('tu_es_vas_electionis_sancte_paule_apostole.php');
+	vrS('prSanct/tu_es_vas_electionis_sancte_paule_apostole.php');
 	ant('prSanct/0125b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0125.php');
-	rubp('Et fit com. S. Petri Ap. per orationem sub unica conclusione:', 'Commem. is made of St. Peter, Ap., by prayer, under a single conclusion:');
+	rubrics('prSanct/comm_peter_paul.php',1); 
 	prayer('prSanct/0125c.php');
 	space();
 
-	space();
-	rubrics('ps/LittleHoursFeria.php');
+	csref();
 
 	hour('T'); 
 	lc('acts9_1-2.php');
@@ -38,10 +37,11 @@
 
 	hour('V');
 	rubrics('ps/antLauds.php');
-	rubrics('ps/ComBVM.php');
+	rubrics('ps/ComAp.php');
 	lc('acts9_1-2.php');
+	rubrics('head/HymnVerse.php');
 	hymn('egregie_doctor_paule_mores_instrue.php');
-	vrS('tu_es_vas_electionis_sancte_paule_apostole.php');
+	vrS('prSanct/tu_es_vas_electionis_sancte_paule_apostole.php');
 	ant('prSanct/0125m.php','M');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0125.php');

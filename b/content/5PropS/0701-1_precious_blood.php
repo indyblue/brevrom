@@ -29,7 +29,7 @@
 	prayer('prSanct/0701.php');
 
 	space();
-	rubrics('ps/LittleHoursFeast.php');
+	csref(0,3);
 
 	hour('T'); 
 	lc('hebr9_11-12.php');

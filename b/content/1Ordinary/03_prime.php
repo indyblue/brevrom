@@ -32,12 +32,9 @@
 	brS('Ord/christe_fili_dei_vivi_miserere_nobis.php',0,10);
 	vrS('Ord/exsurge_christe_adjuva_nos.php');
 	space();
-	rubp('','Advent Season, and on Christmas Eve');
-	PrV('qui_venturus_es_in_mundum.php',1);
-	rubp('','In the Christmas Season, Feasts of BVM, and Saturday Office of BVM');
-	PrV('qui_natus_es_de_maria_virgine.php',1);
-	rubp('','In the Epiphany Season');
-	PrV('qui_apparuisti_hodie.php',1);
+	PrV('qui_venturus_es_in_mundum.php',array('Tempore Adventus:','Advent Season:'));
+	PrV('qui_natus_es_de_maria_virgine.php',array('Tempore Nativitatis:','Christmas Season:'));
+	PrV('qui_apparuisti_hodie.php',array('Tempore Epiphaniæ','Epiphany Season:'));
 
 	space();
 	rubp('Tempore Passionis, in Officio dominicali et feriali, omittitur in responsorio brevi <snr>Glória Patri</s>, et hujus loco repetitur responsorium, ut sequitur:', 'In Passiontide, in the Sunday and ferial office, omit the <snr>Glória Patri</s> in the brief response, and in its place the response is repeated as follows:');
@@ -49,10 +46,8 @@
 	brS('Ord/christe_fili_dei_vivi_miserere_nobis_PT.php',1,10);
 	vrS('Ord/exsurge_christe_adjuva_nos.php',1);
 	space();
-	rubp('','In Ascensiontide');
-	PrV('qui_scandis_super_sidera.php',1);
-	rubp('','In the Octave of Pentecost:');
-	PrV('qui_sedes_ad_dexteram_patris.php',1);
+	PrV('qui_scandis_super_sidera.php',array('Tempore Ascensionis:','Ascension Season:'));
+	PrV('qui_sedes_ad_dexteram_patris.php',array('Infra octavam Pentecostes:','In the octave of Pentecost:'));
 	space();
 	rubp('<snr>¶</s> Hoc modo dicuntur semper responsoria brevia, etiam ad Tertiam, Sextam, Nonam et Completorium.', '<snr>¶</s> This method of recitation is used in all brief responses, likewise at Terce, Sext, None and Compline.');
 
@@ -74,9 +69,7 @@
 	
 	head('De Officio Capituli','The Office of the Chapter',2);
 	rubp('<snr>26</s> Expleta lectione Martyrologii cum versu et oratione subsequenti, Prima sic prosequitur:', '<snr>26</s> After the reading of the Martyrology with the subsequent verse and prayer, Prime continues as follows:');
-	vrS('Ord/deus_in_adjutorium_meum_intende.php');
-	rubp('Et dicitur ter; ultimo additur:',
-		'Which is said thrice, then followed by:');
+	vrS('Ord/deus_in_adjutorium_meum_intende_ter.php');
 	vrS('Ord/gloria_patri.php');
 	vrS('Ord/kyrie_eleison.php');
 	vr('pater_silent_vr.php');

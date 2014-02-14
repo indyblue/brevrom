@@ -28,7 +28,7 @@
 	prayer('prSanct/0629.php');
 
 	space();
-	rubrics('ps/LittleHoursFeast.php');
+	csref(0,3);
 
 	hour('T'); 
 	lc('acts12_1-3.php');

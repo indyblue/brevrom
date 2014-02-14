@@ -7,22 +7,20 @@
 	ant('prSanct/0511L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0511L.php','02222'); 
-	rubrics('asIn.php','csApPTLlc','Common of Ap. (P.T.)',
-		'Little Chapter &amp; Hymn <snr>Paschále mundo gáudium</s>');
+	lc('wis5_1.php','csApPTLlc','h','paschale_mundo_gaudium.php');
 	vrS('pretiosa_in_conspectu_domini.php',1); 
 	ant('prSanct/0511b.php','B'); 
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0511.php'); 
 
 	space();
-	rubrics('prSanct/horas_from.php','csApPTLH',2,'');
+	csref('csApPT',2,2);
 
 	space();
 	hour('V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComAp.php'); 
-	rubrics('asIn.php','csApPTVlc','Common of Ap. (P.T.)',
-		'Little Chapter &amp; Hymn <snr>Tristes erant Apóstoli</s>');
+	lc('wis5_1.php','csApPTVlc','h','tristes_erant_apostoli.php');
 	vrS('pretiosa_in_conspectu_domini.php',1); 
 	ant('prSanct/0511m2.php','M'); 
 	space('Line');

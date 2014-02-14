@@ -1,0 +1,1 @@
+O God, who didst adorn holy Camillus with a special grace of charity for the relief of souls in their last agony; we beseech thee, by his merits, so to pour into our hearts the spirit of thy love, that at the hour of our death we may overcome the enemy, and be counted worthy to obtain a heavenly crown. Through our Lord.

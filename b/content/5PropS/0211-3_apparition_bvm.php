@@ -2,9 +2,7 @@
 	space();
 	img('Saints/0908_nativity_of_bvm.tif',100);
 	headSt(211,3,'in Apparitione B. Mariæ Virg. Immac.',
-		'Apparition of the Bl. Virg. Mary Immaculate','Lourdes');
-	rubrics('prSanct/all_from.php','csBVM');
-
+		'Apparition of the Bl. Virgin Mary Immac.','at Lourdes');
 	hour('L');
 	ant('prSanct/0211L.php','20000');
 	rubrics('ps/SuL1.php');
@@ -18,7 +16,7 @@
 	prayer('prSanct/0211.php');
 
 	space();
-	rubrics('ps/LittleHoursFeria.php');
+	csref();
 	PrV('qui_natus_es_de_maria_virgine.php');
 
 	hour('T');
@@ -49,6 +47,6 @@
 	ant('prSanct/0211m.php','M');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0211.php');
-	rubrics('prSanct/ComplineSun.php');
+	rubrics('prSanct/ComplineFeria.php'); 
 
 ?>

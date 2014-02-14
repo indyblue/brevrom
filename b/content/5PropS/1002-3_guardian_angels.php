@@ -1,44 +1,51 @@
-<?php img(); ?>
-	<p:BodySm/>
-<?php headSt('Oct. 2',3,'Ss. Angelorum Custodum','The Holy Guardian Angels'); ?>
-<?php hour('L'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1002L.php','20000'); ?>
-<?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1002L.php','02222'); ?>
-<?php lc('exod23_20.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('aeterne_rector_siderum.php'); ?>
-<?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
-<?php ant('prSanct/1002b.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/1002.php'); ?>
-	<p:BodySm/>
-<?php rubrics('ps/LittleHoursFeria.php'); ?>
-	<p:BodySm/>
-<?php hour('T'); ?>
-<?php lc('exod23_20.php'); ?>
-<?php brS('prSanct/stetit_angelus_juxta_aram_templi.php'); ?>
-<?php vrS('prSanct/ascendit_fumus_aromatum_in_conspectu_domini.php'); ?>
-   <p:BodySm/>
-<?php hour('S'); ?>
-<?php lc('exod23_21.php'); ?>
-<?php brS('prSanct/ascendit_fumus_aromatum_in_conspectu_domini.php'); ?>
-<?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
-   <p:BodySm/>
-<?php hour('N'); ?>
-<?php lc('exod23_22.php'); ?>
-<?php brS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
-<?php vrS('prSanct/adorate_deum_omnes_angeli_ejus.php'); ?>
-   <p:BodySm/>
-<?php hour('V'); ?>
-<?php rubrics('ps/antLauds.php'); ?>
-<?php rubrics('ps/SuV137.php'); ?>
-<?php lc('exod23_20.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('custodes_hominum_psallimus_angelos.php'); ?>
-<?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
-<?php ant('prSanct/1002m2.php','M'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/1002.php'); ?>
-<?php rubrics('prSanct/ComplineFeria.php'); ?>
+<?php
+
+	img();
+	space();
+	headSt(1002,3,'Ss. Angelorum Custodum','The Holy Guardian Angels');
+
+	hour('L');
+	ant('prSanct/1002L.php','20000');
+	rubrics('ps/SuL1.php');
+	ant('prSanct/1002L.php','02222');
+	lc('exod23_20.php');
+	rubrics('head/HymnVerse.php');
+	hymn('aeterne_rector_siderum.php');
+	vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php');
+	ant('prSanct/1002b.php','B');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/1002.php');
+	space();
+
+	csref();
+	hour('T');
+	lc('exod23_20.php');
+	brS('prSanct/stetit_angelus_juxta_aram_templi.php');
+	vrS('prSanct/ascendit_fumus_aromatum_in_conspectu_domini.php');
+	space();
+
+	hour('S');
+	lc('exod23_21.php');
+	brS('prSanct/ascendit_fumus_aromatum_in_conspectu_domini.php');
+	vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php');
+	space();
+
+	hour('N');
+	lc('exod23_22.php');
+	brS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php');
+	vrS('prSanct/adorate_deum_omnes_angeli_ejus.php');
+	space();
+
+	hour('V');
+	rubrics('ps/antLauds.php');
+	rubrics('ps/SuV137.php');
+	lc('exod23_20.php');
+	rubrics('head/HymnVerse.php');
+	hymn('custodes_hominum_psallimus_angelos.php');
+	vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php');
+	ant('prSanct/1002m2.php','M');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/1002.php');
+	rubrics('prSanct/ComplineFeria.php');
+?>
+

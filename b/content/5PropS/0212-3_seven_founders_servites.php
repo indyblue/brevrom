@@ -3,7 +3,7 @@
 	img(); 
 	feast_saint(212,13,'Ss. Septem Fundatorum Ordinis Servorum B.M.V.',
 		'The Seven Holy Founders of the Order of Servites','C+');
-	rubrics('ps/Feria.php');
+	csref(0,1);
 
 	hour('L'); 
 	lc('1pet4_13.php'); 
@@ -15,14 +15,12 @@
 	prayer('prSanct/0212.php'); 
 
 	space();
-	rubrics('ps/LittleHoursFeria.php');
 	hour('T');
 	lc('1pet4_13.php'); 
 	brS('amavit_eum_dominus_et_ornavit_eum.php');
 	vrS('os_justi_meditabitur_sapientiam.php');
 
-	space();
-	rubrics('prSanct/sext_none_from.php','csCS');
+	csref('csC',0,4);
 
 	space();
 	hour('V'); 

@@ -3,8 +3,10 @@
 - hides long form for next term
 + plural (doesn't show)
 H Holy Woman (doesn't show)
+B Bl. Virg. Mary (doesn't show)
 ^ church (doesn't show)
 e Eastertide/P.T. (doesn't show)
+s vespers of the following...
 
 A (Ap.)
 G (Evang.)
@@ -20,6 +22,9 @@ V (Virgin)
 W (Viduæ)(Widow)
 K (Regis)(King)
 Q (Reginæ)(Queen)
+U (Ducis)(Duke)
+I (Imperatoris)(Emperor)
+R (Archangeli) (Archangel)
 
 ------------------------------
 Ash Wed Date Range: 2/4 - 3/10
@@ -71,18 +76,22 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 }
 function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0, $ant=0) {
 
+	$long = $_GET['long'];
+
 	// arrays defining types/classifications: (case sensitive)
 	$Lcl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Papæ', 
 		'E' => 'Ep.', 'C' => 'Conf.', 'p' => 'Presbyt.', 'd' => 'Diaconi',
 		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virgin', 
-		'W' => 'Viduæ', 'K' => 'Regis', 'Q' => 'Reginæ');
+		'W' => 'Viduæ', 'K' => 'Regis', 'Q' => 'Reginæ', 
+		'I' => 'Imperatoris', 'U' => 'Ducis', 'R' => 'Archangeli');
 	$Ecl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Pope', 
 		'E' => 'Bp.', 'C' => 'Conf.', 'p' => 'Priest', 'd' => 'Deacon', 
 		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virgin', 
-		'W' => 'Widow', 'K' => 'King', 'Q' => 'Queen');
+		'W' => 'Widow', 'K' => 'King', 'Q' => 'Queen', 
+		'I' => 'Emperor', 'U' => 'Duke', 'R' => 'Archangel');
 
-	//this switch has to be set before the date calculations
-	$pt = 0;
+	//has to be set before the date calculations
+	$pt = 0; $lent = 0; $advent = 0;
 
 	// break up and format the date
 	if(is_array($date)) {
@@ -93,11 +102,22 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		$Ldate = $tdate[0];
 		$Edate = $tdate[1];
 
+		// advent commem. range
+		if(1130 <= $date && $date <= 1223)
+			$advent = 1;
+
+		// lent option range
+		if(208 <= $date && $date <= 309)
+			$lent = -1;
+		// lent commem. range
+		if(310 <= $date && $date <= 329)
+			$lent = 1;
+
 		//PT date calculations
 		//first check is for lenten/paschaltide optional range
 		//($pt=-1): PT propers should be listed,
 		//but with the proper ant & v/r for a lenten commem.
-		if(329 <= $date && $date <= 417)
+		if(330 <= $date && $date <= 417)
 			$pt = -1;
 
 		//this range consists of the dates which are always PT
@@ -110,10 +130,6 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		elseif(518 <= $date && $date <= 611)
 			$pt = 2;
 
-		// advent commem. range
-		$advent = 0;
-		if(1130 <= $date && $date <= 1223)
-			$advent = 1;
 	} else {
 		$Ldate = $date;
 		$Edate = $date;
@@ -121,14 +137,18 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	// echo $date;
 	// if no prayer has already been inserted, 
 	// construct prayer name from date
-	if(!$prayer) 
+	if($prayer===0) {
 		if($class<0)
 			$prayer = sprintf("prSanct/%04sc.php",$date);
 		else
 			$prayer = sprintf("prSanct/%04s.php",$date);
+	}
 	
 	// find appropriate common
-	$pl=0; $fem=0; $mart=0; $doct=0; $LantP='';
+	$cs=0; $csP=0;
+	$pl=0; $fem=0; $mart=0; $doct=0; $vseq=0; 
+	$Lant=''; $Lvr=''; $LantP=''; $LvrP='';
+	$Vant=''; $Vvr=''; $VantP=''; $VvrP='';
 	if(strpos($type,'+')!==false) $pl = 1;
 	//this only changes the value of $pt if it is still
 	//set to 0; the date method above is preferable,
@@ -145,23 +165,32 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	if(strpos($type,'M')!==false) $mart = 1;
 	if(strpos($type,'a')!==false) $abb = 1;
 	if(strpos($type,'D')!==false) $doct = 1;
+	if(strpos($type,'s')!==false) $vseq = 1;
 	
 	if(ereg('[AG]',$type)!==false) {
 		if($pt==2 || $pt==-1) {
 			$csP = 'csApPT';
 			$LvrP = 'pretiosa_in_conspectu_domini.php';
 			$LantP = 'filiae_jerusalem_venite_et_videte_martyres.php';
+			$VvrP = 'pretiosa_in_conspectu_domini.php';
+			$VantP = 'sancti_et_justi_in_domino_gaudete.php';
 			$cs = 'csAp';
 			$Lvr = 'annuntiaverunt_opera_dei.php';
 			$Lant = 'vos_qui_reliquistis_omnia.php';
+			$Vvr = 'annuntiaverunt_opera_dei.php';
+			$Vant = 'estote_fortes_in_bello.php';
 		} elseif($pt) {
 			$cs = 'csApPT';
 			$Lvr = 'pretiosa_in_conspectu_domini.php';
 			$Lant = 'filiae_jerusalem_venite_et_videte_martyres.php';
+			$Vvr = 'pretiosa_in_conspectu_domini.php';
+			$Vant = 'sancti_et_justi_in_domino_gaudete.php';
 		} else {
 			$cs = 'csAp';
 			$Lvr = 'annuntiaverunt_opera_dei.php';
 			$Lant = 'vos_qui_reliquistis_omnia.php';
+			$Vvr = 'annuntiaverunt_opera_dei.php';
+			$Vant = 'estote_fortes_in_bello.php';
 		}
 	}
 	elseif(strpos($type,'M')!==false && !$fem) {
@@ -169,39 +198,61 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			$csP = 'csApPT';
 			$LvrP = 'pretiosa_in_conspectu_domini.php';
 			$LantP = 'filiae_jerusalem_venite_et_videte_martyres.php';
+			$VvrP = 'pretiosa_in_conspectu_domini.php';
+			$VantP = 'sancti_et_justi_in_domino_gaudete.php';
 		}	
 		if($pt==1) {
 			$cs = 'csApPT';
 			$Lvr = 'pretiosa_in_conspectu_domini.php';
 			$Lant = 'filiae_jerusalem_venite_et_videte_martyres.php';
+			$Vvr = 'pretiosa_in_conspectu_domini.php';
+			$Vant = 'sancti_et_justi_in_domino_gaudete.php';
 		} elseif($pl) {
 			$cs = 'csMm';
 			$Lvr = 'exultabunt_sancti_in_gloria.php';
 			$Lant = 'vestri_capilli_capitis_omnes_numerati_sunt.php';
+			$Vvr = 'exultabunt_sancti_in_gloria.php';
+			$Vant = 'gaudent_in_caelis_animae_sanctorum.php';
 		} else {
 			$cs = 'csM';
 			$Lvr = 'justus_ut_palma_florebit.php';
 			$Lant = 'qui_odit_animam_suam_in_hoc_mundo.php';
+			$Vvr = 'justus_ut_palma_florebit.php';
+			$Vant = 'qui_vult_venire_post_me_abneget_semetipsum.php';
 		}
 	}
 	elseif(ereg('[EP]',$type)!==false) {
 		$cs = 'csCB';
 		$Lvr = 'justum_deduxit_dominus_per_vias_rectas.php';
 		$Lant = 'euge_serve_bone_et_fidelis.php';
+		$Vvr = 'justum_deduxit_dominus_per_vias_rectas.php';
+		$Vant = 'amavit_eum_dominus_et_ornavit_eum.php';
+		if(ereg('[P]',$type)!==false && !$pl)
+			$Vant = 'dum_esset_summus_pontifex.php';
+		if($doct)
+			$Vant = 'csConfessorDoctorAnt.php';
 	}
 	elseif(ereg('[aC]',$type)!==false) {
 		$cs = 'csC';
 		$Lvr = 'justum_deduxit_dominus_per_vias_rectas.php';
 		$Lant = 'euge_serve_bone_et_fidelis-tui.php';
+		$Vvr = 'justum_deduxit_dominus_per_vias_rectas.php';
+		$Vant = 'hic_vir_despiciens_mundum_et_terrena_triumphans.php';
+		if($doct)
+			$Vant = 'csConfessorDoctorAnt.php';
 	}
 	elseif(strpos($type,'V')!==false) {
 		$cs = 'csV';
 		if($pl && $mart) {
 			$Lvr = 'adducentur_regi_virgines_post_eam.php';
 			$Lant = 'prudentes_virgines_aptate_vestras_lampades.php';
+			$Vvr = 'adducentur_regi_virgines_post_eam.php';
+			$Vant = 'prudentes_virgines_aptate_vestras_lampades.php';
 		} else {
 			$Lvr = 'diffusa_est_gratia_in_labiis_tuis.php';
 			$Lant = 'simile_est_regnum_caelorum_homini_negotiatori.php';
+			$Vvr = 'diffusa_est_gratia_in_labiis_tuis.php';
+			$Vant = 'veni_sponsa_christi_accipe_coronam.php';
 		}
 	}
 	elseif($fem) {
@@ -209,22 +260,52 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		if($pl && $mart) {
 			$Lvr = 'gloria_et_honore_coronasti_eum_domine.php';
 			$Lant = 'istorum_est_enim_regnum_caelorum.php';
+			$Vvr = 'gloria_et_honore_coronasti_eum_domine.php';
+			$Vant = 'istorum_est_enim_regnum_caelorum.php';
 		} else {
 			$Lvr = 'diffusa_est_gratia_in_labiis_tuis.php';
 			$Lant = 'date_ei_de_fructu_manuum_suarum.php';
+			$Vvr = 'diffusa_est_gratia_in_labiis_tuis.php';
+			$Vant = 'manum_suam_aperuit_inopi.php';
 		}
 	}
 	elseif(strpos($type,'^')!==false) {
 		$cs = 'csChurch';
 		$Lvr = 'haec_est_domus_domini_firmiter_aedificata.php';
 		$Lant = 'zachaee_festinans_descende.php';
+		$Vvr = 'domum_tuam_domine_decet_sanctitudo.php';
+		$Vant = 'o_quam_metuendus_est_locus_iste.php';
+	} elseif(strpos($type,'B')!==false) {
+		$cs = 'csBVM';
+		$Lvr = 'diffusa_est_gratia_in_labiis_tuis.php';
+		$Lant = 'beata_es_maria_quae_credidisti.php';
+		$Vvr = 'dignare_me_laudare_te_virgo_sacrata.php';
+		$Vant = 'beatam_me_dicent_omnes_generationes.php';
+	} elseif(strpos($type,'R')!==false) {
+		$Lvr = 'prSanct/stetit_angelus_juxta_aram_templi.php';
+		$Vvr = 'prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php';
 	}
 	else trigger_error('Problem parsing type string for '. $Edate
 	  	.' ('. $nameE .'): '. $type, E_USER_ERROR);
 
-	if(is_string($ant) && strlen($ant)>0) 
-		$Lant = $ant;
-	
+	$custL=0; $custV=0;
+	if(is_string($ant) && strlen($ant)>0) {
+		$Lant = $ant; $custL = 1; }
+	if(is_array($ant) && !$doct) {
+		if(count($ant)>=1 && strpos($ant[0],'.php')>0) {
+			$Lvr = $ant[0]; $custL = 1; }
+		if(count($ant)>=2 && strpos($ant[1],'.php')>0) { 
+			$Lant = $ant[1]; $custL = 1; }
+		elseif(count($ant)>=2 && $ant[1]===1) { 
+			$Lant = sprintf("prSanct/%04sb.php",$date); $custL = 1; }
+		if(count($ant)>=3 && strpos($ant[2],'.php')>0) {
+					$Vvr = $ant[2]; $custV = 1; }
+		if(count($ant)>=4 && strpos($ant[3],'.php')>0) {
+				$Vant = $ant[3]; $custV = 1; }
+		elseif(count($ant)>=4 && $ant[3]===1) { 
+			$Vant = sprintf("prSanct/%04sm.php",$date); $custV = 1; }
+	}
+
 	// construct long form type
 	$Ltype = ''; $Etype = '';
 	for($i=0;$i<strlen($type);$i++) {
@@ -252,42 +333,110 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		// write heading
 		headSt(array($Ldate,$Edate), $class, $nameL, $nameE, $Etype);
 	
-		// if it's a 3rd class feast, add this line
-		if($class==3)
-			rubrics('ps/Feria.php');
-	
+		// if it's a 3rd class feast, set flag to include 
+		// "ferial psalm" indication in common reference
+		if($class==3) $psF = 1;
+		else $psF = 0;
+		// if it's a 3rd class feast, say "all else"
+		$csOpt = $psF+1;
+		// if there is a prayer, add "...except as follows"
+		if($prayer) $csOpt += 10;
+
 		// Add line naming the common:
 		// Commune vide p. / Common see p.
-		rubrics('prSanct/all_else.php',$cs,$pt);
+		if($class>0 && $lent!=1)
+			csref($cs, $psF, $csOpt);
 	
+		// lauds v/r & ant
+		if($class==0 || $lent==1) {
+			if($pta==2 && strlen($LantP)>0) {
+				rubrics('head/PT.php');
+				ant($LantP,1,1);
+				vrS($LvrP,1);
+				rubrics('head/PTnot.php');
+				ant($Lant,1);
+				vrS($Lvr);
+			} else {
+				if($lent==1 && $class>0) rubp('Tempore quadrageimali fit com. in Laudibus tantum.',
+								'In Lent commmem. is made in Lauds only.');
+				if($custL) ant($Lant,'*',$pta);
+				else ant($Lant,1,$pta);
+				vrS($Lvr,$pta);
+			}
+			rubrics('oremus.php');
+		} elseif(($long || $custL) && $class>0) {
+			if($pta==2 && strlen($LantP)>0) {
+				rubrics('head/PT.php');
+				vrS($LvrP,1,'L');
+				ant($LantP,'B',1);
+				rubrics('head/PTnot.php');
+				vrS($Lvr,0,'L');
+				ant($Lant,'B');
+			} else {			
+				vrS($Lvr,$pta,'L');
+				ant($Lant,'B',$pta);
+			}
+			rubrics('head/Prayer.php');
+		}
+
 		// prayer
 		if(is_array($prayer)) {
 			if(count($prayer)<3)
 				trigger_error('Problem with prayer for '. $Edate
 					.' ('. $nameE .') ', E_USER_ERROR);
 			prayer($prayer[0],$prayer[1],$prayer[2]);
-		} else
+		} elseif(is_string($prayer))
 			prayer($prayer);
-		if($advent)
+		if($advent && $class>0)
 			rubp('Et fit com. feriæ in Laudibus et in Vesperis',' And a commem. is made of the feria at Lauds and Vespers.');
+		if($lent && $class==2)
+			rubp('Et, tempore quadragesimali, fit com. feriæ in Laudibus et in Vesperis.', 'And, if in Lent, commem. is made of the feria at Lauds and Vespers.');
 		if($commem) 
 			eval($commem);
-		if(is_array($ant)) {
-			if(count($ant)<2)
-				trigger_error('Problem with antiphon for '. $Edate
-					.' ('. $nameE .') ', E_USER_ERROR);
-			if($doct) {
-				space('Spacer');
-				ant('csConfessorDoctorAnt.php','M',$pta,$ant[0],$ant[1]);
+
+		// if vespers is of the following, print note 
+		// and supress printing of v/r & ant for vespers.
+		if($vseq)
+			rubp('Vesperæ de sequenti.','Vespers of the following.');
+		else {
+			// vespers v/r & ant
+			// if long form or custom vespers...
+			// and it's not a commem...
+			// and it's not a 3rd class feast in lent...
+			// and it's not a doctor (handled differently, below)
+			if(($long || $custV) && $class>0 && !($lent==1 && $class==3) && !$doct) {
+				if($pta==2 && strlen($VantP)>0) {
+					rubrics('head/PT.php');
+					vrS($VvrP,1,'V');
+					ant($VantP,'M',1);
+					rubrics('head/PTnot.php');
+					vrS($Vvr,0,'V');
+					ant($Vant,'M');
+				} else {
+					if($Lvr===$Vvr) vrS($Vvr,3,'V');
+					else vrS($Vvr,$pta,'V');
+					if($Lant===$Vant) ant($Vant,'m');
+					else ant($Vant,'M',$pta);
+				}
+			} elseif($doct && is_array($ant)) {
+				if(count($ant)<2)
+					trigger_error('Problem with antiphon for '. $Edate
+						.' ('. $nameE .') ', E_USER_ERROR);
+				if($doct) {
+					if($Lvr===$Vvr) vrS($Vvr,3,'V');
+					else vrS($Vvr,$pta,'V');
+					ant($Vant,'M',$pta,$ant[0],$ant[1]);
+				}
 			}
+			if(0<$class && $class<=2) rubrics('prSanct/ComplineSun.php');
 		}
 	} else {
 		// this is the brief form of commemoration used if the above is negative.
 		// it will automatically insert the default V/R and Antiphon of Lauds 
 		// from the correct common.
-		echo '
-  <p:RubricH>Commemoration is made of '. $nameE .', '. $Etype .':</p>
-';
+		rubp('Et fit com. '. $nameL .', '. $Ltype .':',
+			'Commem. is made of '. $nameE .', '. $Etype .':');
+
 		if($pta==2 && strlen($LantP)>0) {
 			rubrics('head/PT.php');
 			ant($LantP,1,1);

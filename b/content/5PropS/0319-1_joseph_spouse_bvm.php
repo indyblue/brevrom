@@ -9,8 +9,7 @@
 	ant('prSanct/0319V1.php','02222');
 	lc('prov28_20_27_18.php');
 	rubrics('head/HymnVerse.php');
-	bookmark('te_joseph_celebrent_agmina_caelitum');
-	hymn('te_joseph_celebrent_agmina_caelitum.php');
+	hymn('te_joseph_celebrent_agmina_caelitum.php',0);
 	vrS('prSanct/constituit_eum_dominum_domus_suae.php');
 	ant('prSanct/0319m1.php','M');
 	rubrics('prSanct/comm_lent.php');
@@ -31,7 +30,7 @@
 	rubrics('prSanct/comm_lent.php');
 
 	space();
-	rubrics('ps/LittleHoursFeast.php');
+	csref(0,3);
 
 	hour('T');
 	lc('prov28_20_27_18.php');
@@ -67,8 +66,7 @@
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
 	lc('prov28_20_27_18.php');
-	rubrics('asIn.php','te_joseph_celebrent_agmina_caelitum',
-		'I Vespers','Hymn <snr>Te, Joseph, célebrent ágmina cǽlitum</s>');
+	hymn('te_joseph_celebrent_agmina_caelitum.php',1);
 	vrS('prSanct/gloria_et_divitiae_in_domo_ejus.php');
 	ant('prSanct/0202m2.php','M');
 	rubrics('head/Prayer.php');

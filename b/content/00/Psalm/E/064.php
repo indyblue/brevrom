@@ -3,7 +3,7 @@ A hymn, O God, becometh thee in Sion: *‡ and a vow shall be paid to thee in Je
 O hear my prayer: * all flesh shall come to thee.
 The words of the wicked have prevailed over us: * and thou wilt pardon our transgressions.
 Blessed is he whom thou hast chosen and taken to thee: * he shall dwell in thy courts.
-We shall be filled with the good things of thy house; holy is thy temple, * wonderful in justice.
+We shall be filled with the good things of thy house; * holy is thy temple, wonderful in justice.
 Hear us, O God our saviour, * who art the hope of all the ends of the earth, and in the sea afar off.
 Thou who preparest the mountains by thy strength, being girded with power: * who troublest the depth of the sea, the noise of its waves.
 The Gentiles shall be troubled, and they that dwell in the uttermost borders shall be afraid at thy signs: * thou shalt make the outgoings of the morning and of the evening to be joyful.

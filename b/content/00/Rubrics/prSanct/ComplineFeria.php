@@ -1,1 +1,4 @@
-   <p:Rubric>Compline of the feria is said.</p>
+<?php
+	rubp('Complet. de feria.',
+		'Compline of the day.');
+?>

@@ -23,8 +23,7 @@
 	bookmark('csBVMLlc');
 	lc('ecclus24_14.php');
 	rubrics('head/HymnVerse.php');
-	bookmark('o_gloriosa_virginum');
-	hymn('o_gloriosa_virginum.php');
+	hymn('o_gloriosa_virginum.php',0);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
 	ant('beata_es_maria_quae_credidisti.php','B',2);
 	rubrics('head/Prayer.php',1);

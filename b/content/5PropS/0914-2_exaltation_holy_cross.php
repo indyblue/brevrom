@@ -1,47 +1,55 @@
-<?php img(); ?>
-	<p:BodySm/>
-<?php headSt('Sept. 14',2,'in Exaltatione Sanctæ Crucis','Exaltation of the Holy Cross'); ?>
-<?php hour('1V'); ?>
-<?php rubrics('prSanct/Sun1Vespers.php'); ?>
-<?php rubrics('prSanct/all2Vespers.php'); ?>
-<?php ant('prSanct/0914m1.php','M'); ?>
-	<p:BodySm/>
-<?php hour('L'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/0914L.php','20000'); ?>
-<?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/0914L.php','02222'); ?>
-<?php lc('phil2_5.php'); ?>
-<?php rubrics('asIn.php','lustra_sex_qui_jam_peregit','Ordinary of Passiontide','Hymn <snr>Lustra sex qui jam perégit</s>'); ?>
-<?php vrS('prSanct/adoramus_te_christe_et_benedicimus_tibi.php'); ?>
-<?php ant('prSanct/0914b.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/0914.php'); ?>
-	<p:BodySm/>
-<?php rubrics('ps/LittleHoursFeria.php'); ?>
-	<p:BodySm/>
-<?php hour('T'); ?>
-<?php lc('phil2_5.php'); ?>
-<?php brS('prSanct/hoc_signum_crucis_erit_in_caelo.php'); ?>
-<?php vrS('prSanct/adoramus_te_christe_et_benedicimus_tibi.php'); ?>
-   <p:BodySm/>
-<?php hour('S'); ?>
-<?php lc('gal6_14.php'); ?>
-<?php brS('prSanct/adoramus_te_christe_et_benedicimus_tibi.php'); ?>
-<?php vrS('prSanct/omnis_terra_adoret_te_et_psallat_tibi.php'); ?>
-   <p:BodySm/>
-<?php hour('N'); ?>
-<?php lc('phil2_8.php'); ?>
-<?php brS('prSanct/omnis_terra_adoret_te_et_psallat_tibi.php'); ?>
-<?php vrS('prSanct/hoc_signum_crucis_erit_in_caelo.php'); ?>
-   <p:BodySm/>
-<?php hour('2V'); ?>
-<?php rubrics('ps/antLauds.php'); ?>
-<?php rubrics('ps/SuV116.php'); ?>
-<?php lc('phil2_5.php'); ?>
-<?php rubrics('asIn.php','vexilla_regis_prodeunt','Ordinary of Passiontide','Hymn <snr>Vexílla Regis pródeunt</s>'); ?>
-<?php vrS('prSanct/hoc_signum_crucis_erit_in_caelo.php'); ?>
-<?php ant('prSanct/0914m2.php','M'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/0914.php'); ?>
-<?php rubrics('prSanct/ComplineSun.php'); ?>
+<?php 
+img();
+space();
+
+headSt(914,2,'in Exaltatione Sanctæ Crucis','Exaltation of the Holy Cross');
+
+hour('1V');
+rubrics('prSanct/Sun1Vespers.php');
+rubrics('prSanct/all2Vespers.php');
+ant('prSanct/0914m1.php','M');
+space();
+
+hour('L');
+ant('prSanct/0914L.php','20000');
+rubrics('ps/SuL1.php');
+ant('prSanct/0914L.php','02222');
+lc('phil2_5.php');
+hymn('lustra_sex_qui_jam_peregit.php',1);
+vrS('prSanct/adoramus_te_christe_et_benedicimus_tibi.php');
+ant('prSanct/0914b.php','B');
+rubrics('head/Prayer.php');
+prayer('prSanct/0914.php');
+space();
+
+csref();
+hour('T');
+lc('phil2_5.php');
+brS('prSanct/hoc_signum_crucis_erit_in_caelo.php');
+vrS('prSanct/adoramus_te_christe_et_benedicimus_tibi.php');
+space();
+
+hour('S');
+lc('gal6_14.php');
+brS('prSanct/adoramus_te_christe_et_benedicimus_tibi.php'); 
+vrS('prSanct/omnis_terra_adoret_te_et_psallat_tibi.php');
+space();
+
+hour('N');
+lc('phil2_8.php');
+brS('prSanct/omnis_terra_adoret_te_et_psallat_tibi.php');
+vrS('prSanct/hoc_signum_crucis_erit_in_caelo.php');
+space();
+
+hour('2V');
+rubrics('ps/antLauds.php');
+rubrics('ps/SuV116.php');
+lc('phil2_5.php');
+hymn('vexilla_regis_prodeunt.php',1);
+vrS('prSanct/hoc_signum_crucis_erit_in_caelo.php');
+ant('prSanct/0914m2.php','M');
+rubrics('head/Prayer.php');
+prayer('prSanct/0914.php');
+rubrics('prSanct/ComplineSun.php');
+
+?>

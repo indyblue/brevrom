@@ -3,7 +3,7 @@ Te decet hymnus, Deus, in Sion: *‡ et tibi reddétur votum in Jerúsalem.
 Exáudi oratiónem meam: * ad te omnis caro véniet.
 Verba iniquórum prævaluérunt super nos: * et impietátibus nostris tu propitiáberis.
 Beátus, quem elegísti, et assumpsísti: * inhabitábit in átriis tuis.
-Replébimur in bonis domus tuæ: sanctum est templum tuum, * mirábile in æquitáte.
+Replébimur in bonis domus tuæ: * sanctum est templum tuum, mirábile in æquitáte.
 Exáudi nos, Deus, salutáris noster, * spes ómnium fínium terræ, et in mari longe.
 Prǽparans montes in virtúte tua, accínctus poténtia: * qui contúrbas profúndum maris sonum flúctuum ejus.
 Turbabúntur gentes, et timébunt qui hábitant términos a signis tuis: * éxitus matutíni, et véspere delectábis.

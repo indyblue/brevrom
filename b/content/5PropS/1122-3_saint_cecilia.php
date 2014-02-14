@@ -2,6 +2,7 @@
 	img();
 	space();
 	feast_saint(1122,13,'Sanctæ Cæciliæ','Saint Cecilia','VM');
+
 	hour('L');
 	ant('prSanct/1122L.php','20000');
 	rubrics('ps/SuL1.php');
@@ -13,7 +14,7 @@
 	prayer('prSanct/1122.php');
 	space();
 
-	rubrics('prSanct/horas_from.php','csVLH',3,'');
+	csref('csV',2,2);
 	space();
 
 	hour('V');

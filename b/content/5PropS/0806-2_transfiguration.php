@@ -30,7 +30,7 @@
 		"Ss. Sixtus II, Pope, Felicissimus and Agapitus","M+");
 
 	space();
-	rubrics('ps/LittleHoursFeria.php'); 
+	csref();
 	PrV('qui_apparuisti_hodie.php'); 
 
 	hour('T'); 

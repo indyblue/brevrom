@@ -282,8 +282,7 @@ require '12_nativity.php';
     </tr>
    </table>
    <p:Head3>Hymn</p>
-<?php bookmark('lustra_sex_qui_jam_peregit'); ?>
-<?php hymn('lustra_sex_qui_jam_peregit.php'); ?>
+<?php hymn('lustra_sex_qui_jam_peregit.php',0); ?>
 <?php vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
@@ -358,9 +357,8 @@ require '12_nativity.php';
      </td>
     </tr>
    </table>
-<?php bookmark('vexilla_regis_prodeunt'); ?>
 	<p:Head3>Hymn</p>
-<?php hymn('vexilla_regis_prodeunt.php'); ?>
+<?php hymn('vexilla_regis_prodeunt.php',0); ?>
 <?php vrS('PrTemp/eripe_me_domine_ab_homine_malo.php'); ?>
    <p:BodySm/>
 <?php img(); ?>

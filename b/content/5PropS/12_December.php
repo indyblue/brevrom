@@ -16,8 +16,7 @@ feast_saint(1205,0,'Sancti Sabbæ','Saint Sabbas','a',array('csConfessorAbbot.ph
 
 feast_saint(1206,3,'Sancti Nicolai','Saint Nicholas','EC');
 
-feast_saint(1207,3,'Sancti Ambrosii','Saint Ambrose','ECD',array('csConfessorDoctor.php','Ambrósium','Ambrose'));
-rubp('Vesperæ de seq., com. feriæ.','Vespers of the following, commem. of the feria.');
+feast_saint(1207,3,'Sancti Ambrosii','Saint Ambrose','ECDs',array('csConfessorDoctor.php','Ambrósium','Ambrose'));
 
 require '1208-1_imm_conc_bvm.php';
 
@@ -28,8 +27,6 @@ feast_saint(1211,3,'Sancti Damasi I','Saint Damasus','PC',array('csPope1.php','D
 require '1213-3_saint_lucy.php';
 
 feast_saint(1216,3,'Sancti Eusebii','Saint Eusebius','EM',array('csMartyrBishop2.php','Eusébii','Eusebius'));
-
-feast_saint(1221,2,'Sancti Eusebii','Saint Eusebius','EM',array('csMartyrBishop2.php','Eusébii','Eusebius'));
 
 require '1221-2_thomas.php';
 ?>

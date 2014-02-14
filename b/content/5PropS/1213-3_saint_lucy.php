@@ -14,7 +14,7 @@
 	rubrics('prSanct/comm_feria.php');
 	space();
 
-	rubrics('prSanct/horas_from.php','csVLH',3,'');
+	csref('csV',2,2);
 	space();
 
 	hour('V');

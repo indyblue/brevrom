@@ -15,11 +15,11 @@
 	ant('prSanct/0125b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0630.php');
-	rubp('Et fit com. S. Petri Ap. per orationem sub unica conclusione:', 'Commem. is made of St. Peter, Ap., by prayer, under a single conclusion:');
+	rubrics('prSanct/comm_peter_paul.php',1); 
 	prayer('prSanct/0125c.php');
 
 	space();
-	rubrics('ps/LittleHoursFeria.php');
+	csref();
 
 	hour('T'); 
 	lc('2tim4_7-8.php');

@@ -1,7 +1,8 @@
 <?php
 	img();
 	space();
-	feast_saint(0121,13,'Sanctæ Agnetis','Saint Agnes','VM');
+	feast_saint(121,13,'Sanctæ Agnetis','Saint Agnes','VM');
+
 	hour('L');
 	ant('prSanct/0121L.php','20000');
 	rubrics('ps/SuL1.php');
@@ -14,7 +15,7 @@
 	prayer('prSanct/0121.php');
 	space();
 
-	rubrics('ps/LittleHoursFeria.php');
+	csref();
 
 	hour('T');
 	lc('ecclus51_1.php');
