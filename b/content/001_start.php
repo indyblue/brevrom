@@ -12,7 +12,7 @@
    <style:table-properties style:page-number="0" table:align="margins"/>
   </style:style>
   <style:style style:name="TableParallel.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="92*"/>
+  <style:table-column-properties style:rel-column-width="<?php echo $_GET['col_ratio'] ?>*"/>
   </style:style>
   <style:style style:name="TableParallel.B" style:family="table-column">
    <style:table-column-properties style:rel-column-width="100*"/>

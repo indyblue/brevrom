@@ -1,3 +1,9 @@
+%s/\(<table:table-cell table:style-name="TableParallel.A1\_.\{-}<\/table:table-cell>\)\(\_.\{-}\)\(.*<table:table-cell table:style-name="TableParallel.B1\_.\{-}<\/table:table-cell>\)/\3\2\1/ig
+
+
+----- old stuff! -----
+
+
 %s/\(<td:A1\_.\{-}<\/td>\)\(\_.\{-}\)\(.*<td:B1\_.\{-}<\/td>\)/\3\2\1/ig
 
 %s/\(<table:table-cell table:style-name="TableParallel.A1\_.\{-}<\/table:table-cell>\)\(\_.\{-}\)\(.*<table:table-cell table:style-name="TableParallel.B1\_.\{-}<\/table:table-cell>\)/\3\2\1/ig

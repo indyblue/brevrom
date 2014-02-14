@@ -1,4 +1,9 @@
 <?php
+// column ratio is latin width,
+// relative to 100
+// 92 is optimal for equal font size
+// 160 is optimal for 'ds' setting
+$_GET['col_ratio'] = 162;
 require '001_start.php';
 /*
 !!!!!!BACKUP BEFORE USING!!!!!!!!
@@ -43,7 +48,7 @@ $_GET['L'] = 1;
 //     'L4' for Lulu 4.25 x 6.875
 //     'L5' for Lulu 5.5 x 8.5
 //     'L6' for Lulu 6 x 9
-$_GET['Style'] = '';
+$_GET['Style'] = 'ds';
 
 //Switch to determine size of headings:
 // 0 = smaller headings (used in propers)
@@ -78,6 +83,7 @@ $_GET['O'] = 0;
 
 
 require '100_intro.php';
+// require '110_toc.php';
 require '150_calendar.php';
 require '3PropT/index.php';
 $_GET['O'] = 1;
@@ -89,7 +95,7 @@ require '5PropS/index.php';
 require '6ComS/index.php';
 
 require '7App/index.php';
-require '998_indices.php';
+// require '998_indices.php';
 
 
 require '999_end.php';

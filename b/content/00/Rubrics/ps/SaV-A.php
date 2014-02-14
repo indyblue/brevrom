@@ -1,1 +1,1 @@
-<p:Rubric>Psalms as in Saturday Vespers, <snr>p. <?php bkref('PsSaV'); ?></s>, with Alleluia antiphon.</p>
+<p:Rubric>Psalms as in Saturday Vespers, <snr>p. <?php echo bkref('PsSaV'); ?></s>, with Alleluia antiphon.</p>

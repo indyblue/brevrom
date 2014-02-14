@@ -11,6 +11,9 @@ function bookmark($link='') {
 <p:BkHidden><text:bookmark text:name="' . $link . '"/></p>
 ';
 }
+
+// regex search to check for bkref not in echo
+// \v(echo.*)@<!bkref\(
 function bkref($link='') {
 	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">1</text:bookmark-ref>';
 }
