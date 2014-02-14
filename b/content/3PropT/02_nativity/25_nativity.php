@@ -31,8 +31,7 @@
 
 	hour('P');
 	PrV('qui_natus_es_de_maria_virgine.php',2,
-		array(', et ad absolutionem capituli lectio brevis ut infra, quæ dicitur cotidie usque ad diem 5 januarii inclusive, juxta rubricas.', ', and at the end of the hour the brief lesson as below; these are said every day until January 5 inclusive, according to the rubrics.'));
-	lc('hebr1_11-12.php',0,3);
+		array(', et ad absolutionem capituli lectio brevis <snr>Ipsi períbunt</s>, quæ dicitur cotidie usque ad diem 5 januarii inclusive, juxta rubricas.', ', and at the end of the hour the brief lesson <snr>They shall perish</s>, which are said every day until January 5 inclusive, according to the rubrics.'));
 	space();
 
 	rubp('Tertia dicitur hora sua, qua finita, celebratur tertia Missa de die Nativitatis.', 'Terce is said at its usual hour; when it is finished, the third Mass of Christmas is celebrated.');

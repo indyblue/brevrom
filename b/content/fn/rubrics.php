@@ -159,8 +159,8 @@ function csref($cs=0, $ps=2, $opt=2) {
 //       2 - Sunday psalms/antiphons
 //       3 - Sunday psalms
 //       4 - little hours feria
-//       4.1 - little hours feria
-//       5 - little hours Sunday
+//       4.1 - little hours pss & ant of Sunday 
+//       5 - little hours pss of Sunday, ant from Lauds
 //       6 - little hours feast
 // $opt: 1 - All from ordinary
 //       2 - All else from ordinary

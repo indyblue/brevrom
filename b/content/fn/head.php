@@ -42,10 +42,10 @@ function feria($d, $class=3, $size=2) {
 		6 => 'Friday', 
 		7 => 'Saturday');
 	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis',
-		23 => 'II vel III classis');
+		'IV classis', 23 => 'II vel III classis');
 	$clnameE = array('Commemoration', 'I class', 'II class', 'III class',
-		23 => 'II or III class');
-	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.');
+		'IV classis', 23 => 'II or III class');
+	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.', 'IV cl.');
 	head($dayL[$d], $dayE[$d], $size, $h1, $h2);
 	if($class<0) {
 		$class = -$class;

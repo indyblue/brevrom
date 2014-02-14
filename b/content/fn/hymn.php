@@ -87,7 +87,7 @@ function hymn($file, $byref=-1, $posttxt=0) {
 		<?php
 						}
 					} else {
-						echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . '<t>Trans. ' . trim($Epieces[0]) . '</s></p>';
+						echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . '<t2>Trans. ' . trim($Epieces[0]) . '</s></p>';
 		
 					}
 				}

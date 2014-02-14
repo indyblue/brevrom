@@ -12,7 +12,7 @@ require '01_advent/index.php';
 require '02_nativity/index.php';
 require '03_epiphany/index.php';
 require '04_post_epiphany/index.php';
-require '05_septuagesima.php';
+require '05_septuagesima/index.php';
 require '06_lent.php';
 require '07_passiontide.php';
 require '08_easter.php';
