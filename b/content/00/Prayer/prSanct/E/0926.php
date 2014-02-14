@@ -1,0 +1,1 @@
+May the continual protection of the blessed Martyrs Cyprian and Justina defend us, O Lord; for thou ceasest not to look mercifully on those to whom thou grantest the help of thy Saints. Through our Lord.

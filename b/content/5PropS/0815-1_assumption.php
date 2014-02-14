@@ -11,7 +11,7 @@
 <?php hymn('caelestis_aulae_nuntius.php'); ?>
 <?php vrS('prSanct/regina_sacratissimi_rosarii_ora_pro_nobis.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1007m1.php'); ?>
+<?php ant('prSanct/1007m1.php','M'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>
    <p:BodySm/>
 
@@ -26,7 +26,7 @@
 <?php hymn('jam_morte_victor_obruta.php'); ?>
 <?php vrS('prSanct/elegit_eam_deus_et_praeelegit_eam_et.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/1007b.php'); ?>
+<?php ant('prSanct/1007b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1007.php'); ?>
 	<p:BodySm/>
@@ -77,7 +77,7 @@
 <?php hymn('te_gestientem_gaudiis.php'); ?>
 <?php vrS('prSanct/regina_sacratissimi_rosarii_ora_pro_nobis.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1007m2.php'); ?>
+<?php ant('prSanct/1007m2.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1007.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

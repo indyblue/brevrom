@@ -136,7 +136,7 @@ echo ($_GET['L']==1?'Festa Novembris':'Feasts of November')
 <?php rubrics('prSanct/all_else.php','csBVM'); ?>
 <?php prayer('prSanct/1121.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1121m.php'); ?>
+<?php ant('prSanct/1121m.php','M'); ?>
    <p:BodySm/>
 
 <?php require '1122-3_saint_cecilia.php'; ?>

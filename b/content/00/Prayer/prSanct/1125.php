@@ -1,3 +1,1 @@
-
-DEUS, qui dedísti legem Móysi in summitáte montis Sínai, et in eódem loco per sanctos Angelos tuos corpus beátæ Catharínæ Vírginis et Mártyris tuæ mirabíliter collocásti: præsta, quæsumus; ut, ejus méritis et intercessióne, ad montem, qui Christus est, perveníre valeámus: Qui tecum vivit.
-O GOD, who from the top of mount Sinai gavest the law to Moses, and didst thither miraculously convey by thy holy Angels the body of blessed Catharine thy Virgin and Martyr; grant, we beseech thee, that, by virtue of her merits and intercession, we may be enabled to attain unto that mount which is Christ. Who liveth.
+Deus, qui dedísti legem Móysi in summitáte montis Sínai, et in eódem loco per sanctos Angelos tuos corpus beátæ Catharínæ Vírginis et Mártyris tuæ mirabíliter collocásti: præsta, quæsumus; ut, ejus méritis et intercessióne, ad montem, qui Christus est, perveníre valeámus: Qui tecum vivit.

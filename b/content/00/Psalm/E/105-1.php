@@ -1,3 +1,4 @@
+Psalmus 105 i. Confitémini Dómino
 Give glory to the Lord, for he is good: * for his mercy endureth for ever.
 Who shall declare the powers of the Lord? * who shall set forth all his praises?
 Blessed are they that keep judgment, * and do justice at all times.

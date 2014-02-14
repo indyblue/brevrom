@@ -12,7 +12,7 @@
 <?php hymn('te_mater_alma_numinis.php'); ?>
 <?php vrS('prSanct/germinavit_radix_jesse_orta_est_stella_jacob.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/1011b.php'); ?>
+<?php ant('prSanct/1011b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php /* PRAYER SAME AS ANNUNCIATION, MAR. 25 */ ?>
 <?php prayer('prSanct/0325.php'); ?>
@@ -42,7 +42,7 @@
 <?php rubrics('asIn.php','csBVMVlc','Common of B.V.M.','Hymn <snr>Ave, maris stella</s>'); ?>
 <?php vrS('benedicta_tu_in_mulieribus.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1011m2.php'); ?>
+<?php ant('prSanct/1011m2.php','M'); ?>
 <?php rubrics('prSanct/if1Vespers.php'); ?>
-<?php ant('prSanct/1011m1.php'); ?>
+<?php ant('prSanct/1011m1.php','M'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

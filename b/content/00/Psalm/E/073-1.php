@@ -1,3 +1,4 @@
+Psalmus 73 i. Ut quid Deus
 O God, why hast thou cast us off unto the end: * why is thy wrath enkindled against the sheep of thy pasture?
 Remember thy congregation, * which thou hast possessed from the beginning.
 The sceptre of thy inheritance which thou hast redeemed: * mount Sion in which thou hast dwelt.

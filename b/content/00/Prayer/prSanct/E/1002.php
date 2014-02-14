@@ -1,0 +1,1 @@
+O God, who, in thy unspeakable providence, vouchsafest to send thine Angels to keep guard over us; grant unto thy suppliants that we may be continually defended by their protection, and rejoice eternally in their society. Through our Lord.

@@ -1,3 +1,4 @@
+Psalmus 17 i. Díligam te, Dómine
 I will love thee, O Lord, my strength: * The Lord is my firmament, my refuge, and my deliverer.
 My God is my helper, * and in him will I put my trust.
 My protector, and the horn of my salvation, * and my support.

@@ -1,0 +1,1 @@
+O blessed Mary, * Mother of God, ever Virgin, temple of the Lord, sanctuary of the Holy Ghost, thou alone without previous example hast been pleasing to our Lord Jesus Christ; pray for the people, mediate for the clergy, intercede for all women vowed to God.

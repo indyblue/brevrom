@@ -1,3 +1,1 @@
-  Laverty
-DEUS, qui beátum Joánnem Confessórem tuum, ad fidem in géntibus propagándam mirabíliter excitáre dignátus es, ac per eum in erudiéndis fidélibus novam in Ecclésia tua famíliam congregásti: da nobis fámulis tuis; ita ejus institútis profícere, ut præmia consequámur ætérna. Per Dóminum.
-O GOD, who for the propagation of the faith among the nations wast pleased in a wondrous manner to raise up blessed John, thy Confessor, and through him didst in thy Church gather together a new family for the instruction of the faithful: grant to us thy servants, that we may so profit by his teaching, as to attain everlasting rewards. Through our Lord.
+Deus, qui beátum Joánnem Confessórem tuum, ad fidem in géntibus propagándam mirabíliter excitáre dignátus es, ac per eum in erudiéndis fidélibus novam in Ecclésia tua famíliam congregásti: da nobis fámulis tuis; ita ejus institútis profícere, ut præmia consequámur ætérna. Per Dóminum.

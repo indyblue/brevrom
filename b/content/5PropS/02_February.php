@@ -296,7 +296,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui in Ecclésia tua, nova semper instáuras exémpla virtútum : da pópulo tuo beáti Andreæ Confessóris tui atque Pontíficis ita sequi vestígia ; ut assequátur et præmia. <text:s/>Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui in Ecclésia tua, nova semper instáuras exémpla virtútum : da pópulo tuo beáti Andréæ Confessóris tui atque Pontíficis ita sequi vestígia ; ut assequátur et præmia. <text:s/>Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who dost continually raise up in thy Church new examples of virtue, grant unto thy people so to follow in the footsteps of thy blessed Bishop and Confessor Andrew that they may also attain unto a like reward. Through our Lord.</p>
@@ -424,7 +424,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>LAUDÁBIT usque ad mortem ánima mea Dóminum, quóniam eruis sustinéntes te, et líberas eos de manu angustiæ, Dómine, Deus noster.</p>
+      <p:BodyLDrop>LAUDÁBIT usque ad mortem ánima mea Dóminum, quóniam eruis sustinéntes te, et líberas eos de manu angústiæ, Dómine, Deus noster.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>

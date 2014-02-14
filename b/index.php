@@ -24,6 +24,7 @@ fclose($fh);
 $regex=array(
 	'/<sr>/',
 	'/<snr>/',
+	'/<sb>/',
 	'/<p:([^\/>]*)/',
 	'/<\/p>/',
 	'/<s:([^\/>]*)/',
@@ -33,11 +34,13 @@ $regex=array(
 	'/<tr>/',
 	'/<\/tr>/',
 	'/<td:([^\/>]*)/',
-	'/<\/td>/'
+	'/<\/td>/',
+	'/<t>/'
 );
 $repl=array(
 	'<s:Rubric>',
 	'<s:NonRubric>',
+	'<s:Bold>',
 	'<text:p text:style-name="\1"',
 	'</text:p>',
 	'<text:span text:style-name="\1"',
@@ -49,7 +52,8 @@ $repl=array(
 	'<table:table-row>',
 	'</table:table-row>',
 	'<table:table-cell table:style-name="TableParallel.\1" office:value-type="string"',
-	'</table:table-cell>'
+	'</table:table-cell>',
+	'<text:tab/>'
 );
 
 $txtContent = preg_replace($regex,$repl,$txtContent);
@@ -65,6 +69,8 @@ if($_GET['Style']=='7')
 	$zip->addFile("./OOo/styles_7.xml","styles.xml");
 elseif($_GET['Style']=='L4')
 	$zip->addFile("./OOo/styles_Lulu4x6.xml","styles.xml");
+elseif($_GET['Style']=='L5')
+	$zip->addFile("./OOo/styles_Lulu5x8.xml","styles.xml");
 elseif($_GET['Style']=='L6')
 	$i = $zip->addFile("./OOo/styles_Lulu6x9.xml","styles.xml");
 else
@@ -76,9 +82,14 @@ $zip->addFile("./OOo/Object 1/content.xml","Object 1/content.xml");
 $zip->addFile("./OOo/Object 1/settings.xml","Object 1/settings.xml");
 $zip->addFile("./OOo/Object 1/styles.xml","Object 1/styles.xml");
 
+$zip->addFile("./OOo/Object 2/content.xml","Object 2/content.xml");
+$zip->addFile("./OOo/Object 2/settings.xml","Object 2/settings.xml");
+$zip->addFile("./OOo/Object 2/styles.xml","Object 2/styles.xml");
+
 echo $_GET['Style'];
 echo $i;
 
+// echo (int)'';
 //echo "numfiles: " . $zip->numFiles . "\n";
 //echo "status:" . $zip->status . "\n";
 $zip->close();

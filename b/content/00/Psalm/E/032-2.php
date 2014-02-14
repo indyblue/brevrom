@@ -1,3 +1,4 @@
+Psalmus 32 ii. Beáta gens
 Blessed is the nation whose God is the Lord: * the people whom he hath chosen for his inheritance.
 The Lord hath looked from heaven: * he hath beheld all the sons of men.
 From his habitation which he hath prepared, * he hath looked upon all that dwell on the earth.

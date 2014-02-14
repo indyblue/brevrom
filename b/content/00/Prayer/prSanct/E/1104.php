@@ -1,0 +1,1 @@
+Guard, we beseech thee, O Lord, thy Church by the continual protection of blessed Charles thy Confessor and Bishop, and as his pastoral zeal rendered him glorious, so may we, by his intercession, ever grow in fervour of love for thee. Through our Lord.

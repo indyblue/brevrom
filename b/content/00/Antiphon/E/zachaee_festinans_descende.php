@@ -1,0 +1,1 @@
+Zacchaeus, * make haste and come down; for this day I must abide in thy house: and he made haste and came down, and received him with joy into his house. This day is salvation come from God to this house, alleluia.

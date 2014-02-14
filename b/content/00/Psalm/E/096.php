@@ -1,3 +1,4 @@
+Psalmus 96. Dóminus regnávit
 The Lord hath reigned, let the earth rejoice: *‡ let many islands be glad.
 Clouds and darkness are round about him: * justice and judgment are the establishment of his throne.
 A fire shall go before him, * and shall burn his enemies round about.

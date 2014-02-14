@@ -1,3 +1,4 @@
+Psalmus 134. Laudáte nomen Dómini
 Praise ye the name of the Lord: * O you his servants, praise the Lord:
 You that stand in the house of the Lord, * in the courts of the house of our God.
 Praise ye the Lord, for the Lord is good: * sing ye to his name, for it is sweet.

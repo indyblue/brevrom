@@ -16,7 +16,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
    <p:RubricH>Except the following:</p>
 <?php vrS('dignare_me_laudare_te_virgo_sacrata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('sancta_maria_succurre_miseris.php'); ?>
+<?php ant('sancta_maria_succurre_miseris.php','M'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 
@@ -32,7 +32,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php hymn('o_gloriosa_virginum.php'); ?>
 <?php vrS('diffusa_est_gratia_in_labiis_tuis.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('beata_es_maria_quae_credidisti.php'); ?>
+<?php ant('beata_es_maria_quae_credidisti.php','B'); ?>
    <p:BodySm/>
 
 <?php bookmark('csBVMLH'); ?>
@@ -92,6 +92,5 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php hymn('ave_maris_stella.php'); ?>
 <?php vrS('dignare_me_laudare_te_virgo_sacrata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('beatam_me_dicent_omnes_generationes.php'); ?>
+<?php ant('beatam_me_dicent_omnes_generationes.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>
-

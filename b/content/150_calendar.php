@@ -1,4 +1,9 @@
    <p:P1/>
+   <p:Head1NI>Table of Movable Feasts</p>
+	<text:p text:style-name="Head1NI"><draw:frame draw:style-name="fr10" draw:name="Object2" text:anchor-type="as-char" svg:y="-3.5799in" svg:width="4.6701in" style:rel-width="100%" svg:height="7.1201in" style:rel-height="scale" draw:z-index="5"><draw:object xlink:href="./Object 2" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/><draw:image xlink:href="./ObjectReplacements/Object 2" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame></text:p>
+
+	<p:P1/>
    <p:Head1NI>Calendar</p>
    <p:Rubric>Abbreviations used:</p>
    <table>

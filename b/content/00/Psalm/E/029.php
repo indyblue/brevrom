@@ -1,3 +1,4 @@
+Psalmus 29. Exaltábo te, Dómine
 I will extol thee, O Lord, for thou hast upheld me: *‡ and hast not made my enemies to rejoice over me.
 O Lord my God, I have cried to thee, * and thou hast healed me.
 Thou hast brought forth, O Lord, my soul from hell: * thou hast saved me from them that go down into the pit.

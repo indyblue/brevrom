@@ -1,3 +1,4 @@
+Psalmus 36 i. Noli æmulári
 Be not emulous of evildoers; * nor envy them that work iniquity.
 For they shall shortly wither away as grass, * and as the green herbs shall quickly fall.
 Trust in the Lord, and do good, * and dwell in the land, and thou shalt be fed with its riches.

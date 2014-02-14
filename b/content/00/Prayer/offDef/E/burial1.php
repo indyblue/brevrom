@@ -1,0 +1,1 @@
+Absolve, we beseech thee, O Lord, the soul of thy <sr>(</s>servant <sr>N. or</s> handmaid <sr>N.)</s>, that, being dead to this world, he/she may live to thee; and whatever sins he/she has committed through human frailty, do thou wipe away by the pardon of thy merciful goodness. Through our Lord.

@@ -1,3 +1,4 @@
+Psalmus 72 ii. Ídeo convertétur
 Therefore will my people return here * and full days shall be found in them.
 And they said: How doth God know? * and is there knowledge in the most High?
 Behold these are sinners; and yet abounding in the world * they have obtained riches.

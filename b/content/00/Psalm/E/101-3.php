@@ -1,3 +1,5 @@
+Psalmus 101 iii. Respóndit ei in via
+He answered him in the way of his strength: * Declare unto me the fewness of my days.
 Call me not away in the midst of my days: * thy years are unto generation and generation.
 In the beginning, O Lord, thou foundedst the earth: * and the heavens are the works of thy hands.
 They shall perish but thou remainest: * and all of them shall grow old like a garment:

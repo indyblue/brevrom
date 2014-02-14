@@ -1,0 +1,1 @@
+When the blessed Andrew * had come to the place where the cross was prepared, he cried out and said: O good cross, long desired, and now made ready for my longing soul! with great confidence and joy I come unto thee; do thou then with gladness receive me, the disciple of him who hung upon thee.

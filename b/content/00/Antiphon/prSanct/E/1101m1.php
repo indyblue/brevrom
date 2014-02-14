@@ -1,0 +1,1 @@
+Ye Angels, * Archangels, Thrones and Dominations, Principalities and Powers, Virtues of the heavens, Cherubim and Seraphim, Patriarchs and Prophets, holy Doctors of the law, Apostles, all ye Martyrs of Christ, holy Confessors, Virgins of the Lord, Anchorets, and all ye Saints, make intercession for us.

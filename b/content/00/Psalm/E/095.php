@@ -1,3 +1,4 @@
+Psalmus 95. Cantáte Dómino
 Sing ye to the Lord a new canticle: * sing to the Lord, all the earth.
 Sing ye to the Lord and bless his name: * shew forth his salvation from day to day.
 Declare his glory among the Gentiles: * his wonders among all people.

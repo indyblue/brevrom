@@ -1,0 +1,1 @@
+O God, who year by year restorest to us the day of the consecration of this holy temple, and dost ever bring us again in safety to thy holy mysteries; graciously hear the prayers of thy people, and grant that whosoever enters this temple to implore thy blessings, may rejoice in that he has obtained all his petitions. Through our Lord.

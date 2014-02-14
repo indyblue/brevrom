@@ -1,0 +1,1 @@
+Incline, O Lord, thine ear unto the prayers whereby we humbly beseech thee to show mercy unto the soul of thy servant <sr>N.</s>, which it has pleased thee to call out of this world; grant unto him a place of light and peace, and fellowship with thy Saints. Through our Lord.

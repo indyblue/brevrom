@@ -1,0 +1,1 @@
+O God, who by thy blessed Apostles Simon and Jude, hast granted us to come to the knowledge of thy name; give us both to celebrate their everlasting glory by our growth in grace, and by our celebration to advance in the same. Through our Lord.

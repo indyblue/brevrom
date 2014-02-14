@@ -1,3 +1,4 @@
+Psalmus 2. Quare fremuérunt gentes
 Why have the Gentiles raged, * and the people devised vain things?
 The kings of the earth stood up, and the princes met together, * against the Lord and against his Christ.
 Let us break their bonds asunder: * and let us cast away their yoke from us.

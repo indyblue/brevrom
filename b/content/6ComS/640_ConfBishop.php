@@ -24,9 +24,9 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php rubrics('asIn.php','csCBVlc','II Vespers','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>'); ?>
 <?php vrS('amavit_eum_dominus_et_ornavit_eum.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('sacerdos_et_pontifex_et_virtutum_optifex.php'); ?>
+<?php ant('sacerdos_et_pontifex_et_virtutum_optifex.php','M'); ?>
    <p:RubricH>For a Doctor:</p>
-<?php antN('csConfessorDoctorAnt.php'); ?>
+<?php ant('csConfessorDoctorAnt.php'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 
@@ -42,7 +42,7 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php hymn('jesu_redemptor_omnium_perpes.php'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('euge_serve_bone_et_fidelis.php'); ?>
+<?php ant('euge_serve_bone_et_fidelis.php','B'); ?>
    <p:BodySm/>
 <?php bookmark('csCBLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
@@ -79,9 +79,9 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php hymn('iste_confessor_domini_colentes.php'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('amavit_eum_dominus_et_ornavit_eum.php'); ?>
+<?php ant('amavit_eum_dominus_et_ornavit_eum.php','M'); ?>
    <p:RubricH>For a Pope:</p>
-<?php ant('dum_esset_summus_pontifex.php'); ?>
+<?php ant('dum_esset_summus_pontifex.php','M'); ?>
    <p:RubricH>For a Doctor:</p>
-<?php antN('csConfessorDoctorAnt.php'); ?>
+<?php ant('csConfessorDoctorAnt.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>

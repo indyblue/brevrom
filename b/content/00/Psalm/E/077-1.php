@@ -1,3 +1,4 @@
+Psalmus 77 i. Atténdite, pópule
 Attend, O my people, to my law: * incline your ears to the words of my mouth.
 I will open my mouth in parables: * I will utter propositions from the beginning.
 How great things have we heard and known, * and our fathers have told us.

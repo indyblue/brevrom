@@ -1,0 +1,1 @@
+Vouchsafe, O Lord, a fruitful gladness to our prayers, that we may imitate the constancy in faith of the holy Martyrs Euphemia, Lucy, and Geminian, the anniversary of whose martyrdom we devoutly commemorate. Through our Lord.

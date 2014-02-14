@@ -1,0 +1,1 @@
+Grant unto us, we beseech thee, O Lord our God, to venerate with unceasing devotion the glorious triumphs of <sr>P.</s> thy holy Martyrs; that, whereas we cannot duly celebrate their praises, we may at least honour them with humble service. Through our Lord.

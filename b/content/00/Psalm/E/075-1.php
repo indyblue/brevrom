@@ -1,3 +1,4 @@
+Psalmus 75 i. Notus in Judæa
 In Judea God is known: * his name is great in Israel.
 And his place is in peace: * and his abode in Sion:
 There hath he broken the powers of bows, * the shield, the sword, and the battle.

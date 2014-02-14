@@ -1,0 +1,1 @@
+May blessed <sr>N.</s> thy Virgin and Martyr, we beseech thee, O Lord, implore for us forgiveness; inasmuch as she was ever pleasing unto thee, both by the merit of her chastity and the confession of thy power. Through our Lord.

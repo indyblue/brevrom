@@ -1,3 +1,4 @@
+Psalmus 83 i. Quam dilécta
 How lovely are thy tabernacles, O Lord of hosts! * my soul longeth and fainteth for the courts of the Lord.
 My heart and my flesh * have rejoiced in the living God.
 For the sparrow hath found herself a house, * and the turtle a nest for herself where she may lay her young ones:

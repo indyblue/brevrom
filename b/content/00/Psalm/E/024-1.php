@@ -1,3 +1,4 @@
+Psalmus 24 i. Ad te Dómine
 To thee, O Lord, have I lifted up my soul: * In thee, O my God, I put my trust; let me not be ashamed.
 Neither let my enemies laugh at me: * for none of them that wait on thee shall be confounded.
 Let all them be confounded that act unjust things * without cause.

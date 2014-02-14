@@ -8,7 +8,7 @@
    <p:Rubric>Little Chapter &amp; Hymn as in II Vespers.</p>
 <?php vrS('prSanct/laetamini_in_domino_et_exultate_justi.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1101m1.php'); ?>
+<?php ant('prSanct/1101m1.php','M'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>
 	<p:BodySm/>
 
@@ -23,7 +23,7 @@
 <?php hymn('salutis_aeternae_dator.php'); ?>
 <?php vrS('prSanct/exultabunt_sancti_in_gloria.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/1101b.php'); ?>
+<?php ant('prSanct/1101b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1101.php'); ?>
 	<p:BodySm/>
@@ -71,7 +71,7 @@
 <?php hymn('placare_christe_servulis.php'); ?>
 <?php vrS('prSanct/exultabunt_sancti_in_gloria.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1101m2.php'); ?>
+<?php ant('prSanct/1101m2.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1101.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

@@ -1,3 +1,1 @@
-  Laverty
-DEUS, qui beátum Joánnem, Confessórem tuum, ad cultum Sacrórum Córdium Jesu et Maríæ rite promovéndum, mirabíliter inflammásti, et per eum novas in Ecclésia tua famílias congregáre voluísti: præsta, quæsumus; ut cujus pia mérita venerámur, virtútum quoque instruámur exémplis. Per eúmdem Dóminum.
-O GOD, who didst wondrously inflame blessed John, thy Confessor, to promote the public worship of the Sacred Hearts of Jesus and Mary, and through him didst will to found a new religious families in thy Church: grant, we beseech thee, that we who venerate his merits may also be taught by the example of his virtues. Through the same.
+Deus, qui beátum Joánnem, Confessórem tuum, ad cultum Sacrórum Córdium Jesu et Maríæ rite promovéndum, mirabíliter inflammásti, et per eum novas in Ecclésia tua famílias congregáre voluísti: præsta, quæsumus; ut cujus pia mérita venerámur, virtútum quoque instruámur exémplis. Per eúmdem Dóminum.

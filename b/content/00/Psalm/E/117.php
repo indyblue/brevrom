@@ -1,3 +1,4 @@
+Psalmus 117. Confitémini Dómino
 Give praise to the Lord, for he is good: * for his mercy endureth for ever.
 Let Israel now say, that he is good: * that his mercy endureth for ever.
 Let the house of Aaron now say, * that his mercy endureth for ever.

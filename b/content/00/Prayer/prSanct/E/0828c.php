@@ -1,0 +1,1 @@
+O God, who didst strengthen blessed Hermes thy Martyr with the virtue of constancy in suffering; grant that, following his example, we may be able, for thy love, to despise the prosperity  of this world, and not to fear its adversity. Through our Lord.

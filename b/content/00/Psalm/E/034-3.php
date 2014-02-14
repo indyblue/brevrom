@@ -1,3 +1,4 @@
+Psalmus 34 iii. Confitébor tibi
 I will give thanks to thee in a great church; * I will praise thee in a strong people.
 Let not them that are my enemies wrongfully rejoice over me: * who have hated me without cause, and wink with the eyes.
 For they spoke indeed peaceably to me; * and speaking in the anger of the earth they devised guile.

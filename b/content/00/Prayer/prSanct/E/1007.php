@@ -1,0 +1,1 @@
+O God, whose only-begotten Son, by his life, death, and resurrection, hath purchased for us the rewards of eternal life; grant, we beseech thee, that, meditating upon these mysteries of the most holy Rosary of the blessed Virgin Mary, we may both imitate what they contain, and obtain what they promise. Through the same.

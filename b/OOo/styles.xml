@@ -125,7 +125,6 @@
    <style:text-properties fo:text-transform="uppercase" fo:font-weight="bold"/>
   </style:style>
 
-
   <style:style style:name="Spacer" style:family="paragraph" style:parent-style-name="Body" style:master-page-name="">
    <style:text-properties fo:font-size="2pt"/>
   </style:style>
@@ -147,6 +146,12 @@
   </style:style>
   <style:style style:name="NonRubric" style:family="text" style:parent-style-name="Rubric">
    <style:text-properties fo:color="#000000" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Bold" style:family="text">
+   <style:text-properties fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="BoldR" style:family="text">
+   <style:text-properties fo:color="#ff0000" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="AllCaps" style:family="text">
    <style:text-properties fo:text-transform="uppercase"/>

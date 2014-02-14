@@ -1,0 +1,1 @@
+O God, who in blessed Philip hast given us an eminent example of humility; grant unto thy servants, in imitation of him, to despise the prosperity of the world, and ever to seek after the rewards of heaven. Through our Lord.

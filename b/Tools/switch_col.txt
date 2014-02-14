@@ -1,0 +1,10 @@
+%s/\(<td:A1\_.\{-}<\/td>\)\(\_.\{-}\)\(.*<td:B1\_.\{-}<\/td>\)/\3\2\1/ig
+
+%s/\(<table:table-cell table:style-name="TableParallel.A1\_.\{-}<\/table:table-cell>\)\(\_.\{-}\)\(.*<table:table-cell table:style-name="TableParallel.B1\_.\{-}<\/table:table-cell>\)/\3\2\1/ig
+<table:table-cell table:style-name="TableParallel.A1
+<table:table-cell table:style-name="TableParallel.B1
+
+%s/\(<table:table-column table:style-name="TableParallel.A"\/>\)\(.*\n.*\)\(<table:table-column table:style-name="TableParallel.B"\/>\)/\3\2\1/ig
+    <table:table-column table:style-name="TableParallel.A"/>
+	 <table:table-column table:style-name="TableParallel.B"/>
+

@@ -1,0 +1,1 @@
+O God, who wast pleased that thy Word, at the message of an Angel, should take flesh in the womb of the blessed Virgin Mary; grant to us thy suppliants, that we who believe her to be truly the Mother of God may be helped by her intercession with thee. Through the same.

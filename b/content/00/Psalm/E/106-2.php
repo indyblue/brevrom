@@ -1,3 +1,4 @@
+Psalmus 106 ii. Confiteántur Dómino
 Let the mercies of the Lord give glory to him, * and his wonderful works to the children of men.
 Because he hath broken gates of brass, * and burst the iron bars.
 He took them out of the way of their iniquity: * for they were brought low for their injustices.

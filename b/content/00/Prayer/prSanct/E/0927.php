@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that we who celebrate the festival of thy blessed Martyrs Cosmas and Damian may, through their intercession, be delivered from all the dangers that threaten us. Through our Lord.

@@ -1,0 +1,1 @@
+O God, who dost gladden us with the yearly solemnity of blessed Cecilia thy Virgin and Martyr; grant that, as we honour her with devotion, we may also follow her in the example of her holy life. Through our Lord.

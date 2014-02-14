@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that thy faithful people, who rejoice in the Name of the most holy Virgin Mary, may, by her loving intercession, be delivered from all evils here on earth, and deserve to attain unto the everlasting joys of heaven. Through our Lord.

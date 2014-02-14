@@ -1,0 +1,1 @@
+O God, who dost gladden us by the yearly solemnity of blessed <sr>N.</s> thy Martyr and Bishop; mercifully grant that, as we celebrate his festival, we may also rejoice in his protection. Through our Lord.

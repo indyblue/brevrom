@@ -12,7 +12,7 @@
 <?php hymn('summae_deus_clementiae.php'); ?>
 <?php vrS('prSanct/maria_virgo_per_virtutem_tot_dolorum.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/0915b.php'); ?>
+<?php ant('prSanct/0915b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0915.php'); ?>
 	<p:BodySm/>
@@ -61,9 +61,9 @@
 <?php hymn('jam_toto_subitus_vesper_eat_polo.php'); ?>
 <?php vrS('prSanct/regina_martyrum_ora_pro_nobis.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/0915m2.php'); ?>
+<?php ant('prSanct/0915m2.php','M'); ?>
 <?php rubrics('prSanct/if1Vespers.php'); ?>
-<?php ant('prSanct/0915m1.php'); ?>
+<?php ant('prSanct/0915m1.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0915.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

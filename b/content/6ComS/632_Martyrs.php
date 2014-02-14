@@ -27,7 +27,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php rubrics('asIn.php','csMmVlc','II Vespers','Little Chapter &amp; Hymn <snr>Sanctórum méritis ínclita gáudia</s>'); ?>
 <?php vrS('laetamini_in_domino_et_exultate_justi.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('istorum_est_enim_regnum_caelorum.php'); ?>
+<?php ant('istorum_est_enim_regnum_caelorum.php','M'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
@@ -42,7 +42,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php hymn('rex_gloriose_martyrum.php'); ?>
 <?php vrS('exultabunt_sancti_in_gloria.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('vestri_capilli_capitis_omnes_numerati_sunt.php'); ?>
+<?php ant('vestri_capilli_capitis_omnes_numerati_sunt.php','B'); ?>
 	<p:BodySm/>
 <?php bookmark('csMmLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
@@ -79,5 +79,5 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php hymn('sanctorum_meritis_inclyta_gaudia.php'); ?>
 <?php vrS('exultabunt_sancti_in_gloria.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('gaudent_in_caelis_animae_sanctorum.php'); ?>
+<?php ant('gaudent_in_caelis_animae_sanctorum.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>

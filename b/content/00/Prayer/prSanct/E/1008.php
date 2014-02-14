@@ -1,0 +1,1 @@
+O Lord our God, who by thy only-begotten Son didst disclose the secrets of heaven to blessed Bridget; grant, through her pious intercession, that we thy servants may rejoice exceedingly in the revelation of thy everlasting glory. Through the same.

@@ -1,0 +1,1 @@
+O God, who hast translated blessed Louis thy Confessor from an earthly kingdom to the glory of a heavenly throne, we beseech thee, by his merits and intercession, to make us co-heirs with the King of kings, Jesus Christ thy Son. Who liveth.

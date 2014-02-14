@@ -1,3 +1,4 @@
+Psalmus 102 i. Bénedic, ánima mea
 Bless the Lord, O my soul: * and let all that is within me bless his holy name.
 Bless the Lord, O my soul, * and never forget all he hath done for thee.
 Who forgiveth all thy iniquities: * who healeth all thy diseases.

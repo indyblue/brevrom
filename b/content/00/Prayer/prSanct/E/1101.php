@@ -1,0 +1,1 @@
+O almighty and eternal God, who givest us to venerate in one solemnity the merits of all thy Saints; we beseech thee that, as our intercessors are multiplied, thou wouldst bestow upon us the desired abundance of thy mercy. Through our Lord.

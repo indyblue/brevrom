@@ -1,3 +1,4 @@
+Psalmus 89. Dómine, refúgium
 Lord, thou hast been our refuge *‡ from generation to generation.
 Before the mountains were made, or the earth and the world was formed; * from eternity and to eternity thou art God.
 Turn not man away to be brought low: * and thou hast said: Be converted, O ye sons of men.

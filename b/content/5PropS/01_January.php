@@ -536,7 +536,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Damásci, præpósitus * gentis Aretæ regis vóluit me comprehéndere: a frátribus per murum demíssus sum in sporta, et sic evási manus ejus in nómine Dómini.</p>
+      <p:BodyL><s:Rubric>Ant 4. </s>Damásci, præpósitus * gentis Arétæ regis vóluit me comprehéndere: a frátribus per murum demíssus sum in sporta, et sic evási manus ejus in nómine Dómini.</p>
      </td>
      <td:B1>
       <p:BodyE><s:Rubric>Ant 4. </s>At Damascus, the governor of the nation, * under Aretas the king, would have apprehended me; but I was let down the wall in a basked by the brethren, and so escaped his hands, in the name of the Lord.</p>
@@ -701,9 +701,6 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <p:BodySm/>
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics284" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame></text:h>
-	<p:Spacer/>
-   <p:BodySm/>
-   <p:Head1>Festa Januarii</p>
    <p:BodySm/>
    <p:Body/>
      <p:Hidden1>Jan 28 - St.Peter Nolasco</p>
@@ -714,7 +711,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui in tuæ caritátis exémplum, ad fidélium redemptiónem sanctum Petrum Ecclésiam tuam nova prole fœcundare divínitus docuísti: ipsíus nobis intercessióne concéde; a peccáti servitúte solútis, in cælésti pátria perpétua libertáte gaudére: Qui vivis.</p>
+      <p:BodyLDrop>DEUS, qui in tuæ caritátis exémplum, ad fidélium redemptiónem sanctum Petrum Ecclésiam tuam nova prole fœcundáre divínitus docuísti: ipsíus nobis intercessióne concéde; a peccáti servitúte solútis, in cælésti pátria perpétua libertáte gaudére: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, by whose inspiration the holy Peter increased the family of thy Church with a new order for the redemption of the faithful, following therein the example of thine own divine charity; mercifully grant, that, by the power of his intercession, we may be loosed from the bonds of sin, and enjoy everlasting freedom in our heavenly country. Who livest.</p>
@@ -863,7 +860,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui sanctum Joánnem Confessórem tuum adolescéntium patrem et magístrum excitásti, ac per eum, auxiliatríce Vírgine María, novas in Ecclésia tua famílias floréscere voluísti: concéde, quæsumus; ut eodem caritátis igne succénsi, ánimas quærere, tibíque soli servíre valeámus. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui sanctum Joánnem Confessórem tuum adolescéntium patrem et magístrum excitásti, ac per eum, auxiliatríce Vírgine María, novas in Ecclésia tua famílias floréscere voluísti: concéde, quæsumus; ut eódem caritátis igne succénsi, ánimas quærere, tibíque soli servíre valeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, Thou hast raised up Saint John, thy Confessor, to be a father and teacher of youth, and hast willed that through him, with the help of the Virgin Mary, new families should flourish in thy Church; grant, we beseech thee, that inflamed by the same fire of love, we may labour to seek souls and serve thee alone. Through our Lord.</p>

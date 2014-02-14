@@ -1,3 +1,4 @@
+Psalmus 92. Dóminus regnávit
 The Lord hath reigned, he is clothed with beauty: * the Lord is clothed with strength, and hath girded himself.
 For he hath established the world * which shall not be moved.
 Thy throne is prepared from of old: * thou art from everlasting.

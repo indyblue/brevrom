@@ -7,6 +7,10 @@
  <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="Object 1/styles.xml"/>
  <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="Object 1/settings.xml"/>
  <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.spreadsheet" manifest:full-path="Object 1/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="Object 2/content.xml"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="Object 2/styles.xml"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="Object 2/settings.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.spreadsheet" manifest:full-path="Object 2/"/>
  <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="meta.xml"/>
  <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="settings.xml"/>
 </manifest:manifest>

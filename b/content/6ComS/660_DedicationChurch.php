@@ -20,7 +20,7 @@ echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication o
 <?php rubrics('asIn.php','csChurchVlc','II Vespers','Little Chapter &amp; Hymn <snr>Cæléstis urbs Jerúsalem</s>'); ?>
 <?php vrS('haec_est_domus_domini_firmiter_aedificata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('sanctificavit_dominus_tabernaculum_suum.php'); ?>
+<?php ant('sanctificavit_dominus_tabernaculum_suum.php','M'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
@@ -34,7 +34,7 @@ echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication o
 <?php hymn('alto_ex_olympi_vertice.php'); ?>
 <?php vrS('haec_est_domus_domini_firmiter_aedificata.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('zachaee_festinans_descende.php'); ?>
+<?php ant('zachaee_festinans_descende.php','B'); ?>
    <p:BodySm/>
 <?php bookmark('csChurchLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
@@ -71,5 +71,5 @@ echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication o
 <?php hymn('caelestis_urbs_jerusalem.php'); ?>
 <?php vrS('domum_tuam_domine_decet_sanctitudo.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('o_quam_metuendus_est_locus_iste.php'); ?>
+<?php ant('o_quam_metuendus_est_locus_iste.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>

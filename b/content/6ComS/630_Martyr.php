@@ -29,7 +29,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php rubrics('asIn.php','csMVlc','II Vespers','Little Chapter &amp; Hymn <snr>Deus, tuórum mílitum</s>'); ?>
 <?php vrS('gloria_et_honore_coronasti_eum_domine.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('iste_sanctus_pro_lege_dei_sui.php'); ?>
+<?php ant('iste_sanctus_pro_lege_dei_sui.php','M'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
@@ -45,7 +45,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php hymn('invicte_martyr_unicum.php'); ?>
 <?php vrS('justus_ut_palma_florebit.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('qui_odit_animam_suam_in_hoc_mundo.php'); ?>
+<?php ant('qui_odit_animam_suam_in_hoc_mundo.php','B'); ?>
 	<p:BodySm/>
 <?php bookmark('csMLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
@@ -83,6 +83,6 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php hymn('deus_tuorum_militum.php'); ?>
 <?php vrS('justus_ut_palma_florebit.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('qui_vult_venire_post_me_abneget_semetipsum.php'); ?>
+<?php ant('qui_vult_venire_post_me_abneget_semetipsum.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>
 

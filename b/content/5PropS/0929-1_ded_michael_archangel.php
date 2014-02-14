@@ -8,7 +8,7 @@
 <?php rubrics('asIn.php','ps0929Vlc','II Vespers','Little Chapter &amp; Hymn <snr>Te, splendor et virtus Patris</s>'); ?>
 <?php vrS('prSanct/stetit_angelus_juxta_aram_templi.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/0929m1.php'); ?>
+<?php ant('prSanct/0929m1.php','M'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>
 	<p:BodySm/>
 
@@ -23,7 +23,7 @@
 <?php hymn('christe_sanctorum_decus_angelorum.php'); ?>
 <?php vrS('prSanct/stetit_angelus_juxta_aram_templi.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/0929b.php'); ?>
+<?php ant('prSanct/0929b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0929.php'); ?>
 	<p:BodySm/>
@@ -61,7 +61,7 @@
 <?php hymn('te_splendor_et_virtus_patris.php'); ?>
 <?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/0929m2.php'); ?>
+<?php ant('prSanct/0929m2.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0929.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

@@ -1,3 +1,4 @@
+Psalmus 13. Dixit insípiens
 The fool hath said in his heart: * There is no God.
 They are corrupt, and are become abominable in their ways: * there is none that doth good, no not one.
 The Lord hath looked down from heaven upon the children of men, * to see if there be any that understand and seek God.

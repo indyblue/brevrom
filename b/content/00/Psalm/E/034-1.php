@@ -1,3 +1,4 @@
+Psalmus 34 i. Júdica, Dómine
 Judge thou, O Lord, them that wrong me: * overthrow them that fight against me.
 Take hold of arms and shield: * and rise up to help me.
 Bring out the sword, and shut up the way against them that persecute me: * say to my soul: I am thy salvation.

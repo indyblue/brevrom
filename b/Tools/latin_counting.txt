@@ -1,0 +1,23 @@
+01 prima
+02 secunda
+03 tertia
+04 quarta
+05 quinta
+06 sexta
+07 septima
+08 octava
+09 nona
+10 decima
+11 undecima
+12 duodecima
+13 tertia decima
+14 quarta decima
+15 quinta decima
+16 sexta decima
+17 septima decima
+18 octava decima
+19 nona decima
+20 vicensima
+21 una et vicensima
+22 duæ et vicensima
+23 

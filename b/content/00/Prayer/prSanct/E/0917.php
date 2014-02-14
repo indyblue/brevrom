@@ -1,0 +1,1 @@
+O Lord Jesus Christ, who, when the world was growing cold, in order to inflame our hearts with the fire of thy love, didst renew in the body of the blessed Francis the sacred marks of thy Passion; mercifully grant that, by his merits and prayers, we may ever bear our cross, and bring forth worthy fruits of penance. Who livest.

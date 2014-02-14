@@ -24,9 +24,9 @@ echo ($_GET['L']==1?'Commune non Virginum':'Common of Holy Women')
    <p:RubricH>For several Martyrs not Virgins:</p>
 <?php vrS('gloria_et_honore_coronasti_eum_domine.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('simile_est_regnum_caelorum_homini_negotiatori.php'); ?>
+<?php ant('simile_est_regnum_caelorum_homini_negotiatori.php','M'); ?>
    <p:RubricH>For several Martyrs not Virgins:</p>
-<?php ant('istorum_est_enim_regnum_caelorum.php'); ?>
+<?php ant('istorum_est_enim_regnum_caelorum.php','M'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
@@ -39,9 +39,9 @@ echo ($_GET['L']==1?'Commune non Virginum':'Common of Holy Women')
    <p:RubricH>For several Martyrs not Virgins:</p>
 <?php vrS('gloria_et_honore_coronasti_eum_domine.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('date_ei_de_fructu_manuum_suarum.php'); ?>
+<?php ant('date_ei_de_fructu_manuum_suarum.php','B'); ?>
    <p:RubricH>For several Martyrs not Virgins:</p>
-<?php ant('istorum_est_enim_regnum_caelorum.php'); ?>
+<?php ant('istorum_est_enim_regnum_caelorum.php','B'); ?>
    <p:BodySm/>
 <?php bookmark('csHWLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
@@ -84,8 +84,8 @@ echo ($_GET['L']==1?'Commune non Virginum':'Common of Holy Women')
    <p:RubricH>For several Martyrs not Virgins:</p>
 <?php vrS('gloria_et_honore_coronasti_eum_domine.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('manum_suam_aperuit_inopi.php'); ?>
+<?php ant('manum_suam_aperuit_inopi.php','M'); ?>
    <p:RubricH>For several Holy Women Martyrs:</p>
-<?php ant('istorum_est_enim_regnum_caelorum.php'); ?>
+<?php ant('istorum_est_enim_regnum_caelorum.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>
 

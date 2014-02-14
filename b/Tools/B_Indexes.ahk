@@ -3,15 +3,15 @@
 ;--------------------------------------------------------------------------------
 ;  Remove "Psalmus " from indices with find/replace
 ;--------------------------------------------------------------------------------
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Sleep, 100
 Send, ^f
 WinWait, Find & Replace, 
 IfWinNotActive, Find & Replace, , WinActivate, Find & Replace, 
 WinWaitActive, Find & Replace, 
-Send, Psalmus{SPACE}{ALTDOWN}l{ALTUP}
+Send, Ps{SPACE}{ALTDOWN}l{ALTUP}
 Sleep, 300
 Send, {enter}{altdown}S{altup} i. {tab}.01 i. {altdown}l{altup}
 sleep, 300
@@ -40,9 +40,9 @@ Send, {enter}{esc}
 ;--------------------------------------------------------------------------------
 ;  Go to first index
 ;--------------------------------------------------------------------------------
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Sleep, 100
 Send, ^{HOME}{UP}^{HOME}{UP}^{HOME}{DOWN}{HOME}
 
@@ -56,9 +56,9 @@ WinWait, Sort,
 IfWinNotActive, Sort, , WinActivate, Sort, 
 WinWaitActive, Sort, 
 Send, {TAB}1{TAB}a{TAB}{TAB}{SPACE}{TAB}2{TAB}n
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Sleep, 100
 Send, ^x
 Run C:\Program Files\Vim\vim71\gvim.exe
@@ -75,9 +75,9 @@ Sleep, 100
 Send, ^x
 Sleep, 100
 Send, {Esc}:q{!}{Enter}
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Send, ^v{BACKSPACE}
 Sleep, 100
 
@@ -90,9 +90,9 @@ WinWait, Sort,
 IfWinNotActive, Sort, , WinActivate, Sort, 
 WinWaitActive, Sort, 
 Send, {TAB}1{TAB}n{TAB}{TAB}{TAB}2{TAB}n{ENTER}
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Sleep, 100
 Send, ^x
 Run C:\Program Files\Vim\vim71\gvim.exe
@@ -111,9 +111,9 @@ Sleep, 100
 Send, ^x
 Sleep, 100
 Send, {Esc}:q{!}{Enter}
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Send, ^v{BACKSPACE}
 Sleep, 100
 
@@ -133,9 +133,9 @@ Sleep, 100
 Send, ^x
 Sleep, 100
 Send, {Esc}:q{!}{Enter}
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Send, ^v{BACKSPACE}{BACKSPACE}
 
 Send, {SHIFT DOWN}{CTRLDOWN}{HOME}{CTRLUP}{DOWN}{HOME}{SHIFT UP}
@@ -157,9 +157,9 @@ WinWait, Sort,
 IfWinNotActive, Sort, , WinActivate, Sort, 
 WinWaitActive, Sort, 
 Send, {TAB}1{TAB}a{TAB}{TAB}{TAB}2{TAB}n{ENTER}
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Sleep, 100
 Send, ^x
 Run C:\Program Files\Vim\vim71\gvim.exe
@@ -175,9 +175,9 @@ Sleep, 100
 Send, ^x
 Sleep, 100
 Send, {Esc}:q{!}{Enter}
-WinWait, b - Open, 
-IfWinNotActive, b - Open, , WinActivate, b - Open, 
-WinWaitActive, b - Open, 
+WinWait, b.odt, 
+IfWinNotActive, b.odt, , WinActivate, b.odt, 
+WinWaitActive, b.odt, 
 Send, ^v{BACKSPACE}
 Sleep, 100
 

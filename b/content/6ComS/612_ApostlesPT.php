@@ -21,7 +21,7 @@ echo ($_GET['L']==1?'Tempore Paschali':'in Paschaltide')
 <?php rubrics('asIn.php','csApPTVlc','II Vespers','Little Chapter &amp; Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>
 <?php vrS('sancti_et_justi_in_domino_gaudete.php',1); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('lux_perpetua_lucebit_sanctis_tuis_domine.php'); ?>
+<?php ant('lux_perpetua_lucebit_sanctis_tuis_domine.php','M'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
@@ -38,7 +38,7 @@ echo ($_GET['L']==1?'Tempore Paschali':'in Paschaltide')
 <?php hymn('paschale_mundo_gaudium.php'); ?>
 <?php vrS('pretiosa_in_conspectu_domini.php',1); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('filiae_jerusalem_venite_et_videte_martyres.php'); ?>
+<?php ant('filiae_jerusalem_venite_et_videte_martyres.php','B'); ?>
 	<p:BodySm/>
 <?php bookmark('csApPTLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
@@ -79,6 +79,6 @@ echo ($_GET['L']==1?'Tempore Paschali':'in Paschaltide')
 <?php hymn('tristes_erant_apostoli.php'); ?>
 <?php vrS('pretiosa_in_conspectu_domini.php',1); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('sancti_et_justi_in_domino_gaudete.php'); ?>
+<?php ant('sancti_et_justi_in_domino_gaudete.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>
 

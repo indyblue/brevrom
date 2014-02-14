@@ -1,3 +1,4 @@
+Psalmus 148. Laudáte Dóminum
 Praise ye the Lord from the heavens: * praise ye him in the high places.
 Praise ye him, all his angels: * praise ye him, all his hosts.
 Praise ye him, O sun and moon: * praise him, all ye stars and light.

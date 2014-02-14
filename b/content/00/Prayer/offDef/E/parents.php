@@ -1,0 +1,1 @@
+O God, who hast commanded us to honour our father and mother, in thy mercy have compassion on the souls of my <sr>(</s>father and mother<sr>, or</s> father<sr>, or</s> mother<sr>)</s>; forgive them/him/her their sins, and grant unto me to see them/him/her again in the joy of eternal bliss. Through our Lord.

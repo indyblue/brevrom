@@ -1,3 +1,4 @@
+Psalmus 51. Quid gloriáris
 Why dost thou glory in malice, * thou that art mighty in iniquity?
 All the day long thy tongue hath devised injustice: * as a sharp razor, thou hast wrought deceit.
 Thou hast loved malice more than goodness: * and iniquity rather than to speak righteousness.

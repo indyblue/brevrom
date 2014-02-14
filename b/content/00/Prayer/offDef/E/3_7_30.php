@@ -1,0 +1,1 @@
+Vouchsafe, we beseech thee, O Lord, to the soul of thy <sr>(</s>servant <sr>N. or</s> handmaid <sr>N.)</s>, the third <sr>(or</s> seventh, <sr>or</s> thirtieth<sr>)</s> day of whose burial we are commemorating, fellowship with thy Saints and with thine elect; and henceforth for ever pour forth upon it the dew of thy mercy. Through our Lord.

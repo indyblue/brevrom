@@ -143,7 +143,7 @@
    <p:Head2>ad Primam</p>
    <p:Rubric>Ant 1 from Lauds is used.</p>
    <p:Rubric>Psalms as on feasts. After the last psalm, but before the antiphon is repeated, the Athanasian Creed is said:</p>
-<?php canticle('athanasian.php'); ?>
+<?php reading('athanasian.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Rubric>Ant 2 from Lauds is used.</p>

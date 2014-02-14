@@ -12,7 +12,7 @@
 <?php hymn('placare_christe_servulis_raphael.php'); ?>
 <?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/1024b.php'); ?>
+<?php ant('prSanct/1024b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1024.php'); ?>
 	<p:BodySm/>
@@ -54,7 +54,7 @@
 <?php hymn('christe_sanctorum_decus_angelorum_raphael.php'); ?>
 <?php vrS('prSanct/stetit_angelus_juxta_aram_templi.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1024m.php'); ?>
+<?php ant('prSanct/1024m.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1024.php'); ?>
 <?php rubrics('prSanct/ComplineFeria.php'); ?>

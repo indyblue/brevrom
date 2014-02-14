@@ -1,0 +1,1 @@
+O God, who, through the merits of blessed Francis, dost enrich thy Church by the progeny of a new offspring; grant unto us that, by imitating him, we may despise earthly things, and ever rejoice in the participation of heavenly gifts. Through our Lord.

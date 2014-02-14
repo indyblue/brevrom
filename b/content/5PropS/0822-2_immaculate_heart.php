@@ -5,7 +5,7 @@
 <?php rubrics('head/Lauds.php'); ?>
 <?php vrS('diffusa_est_gratia_in_labiis_tuis.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/0822b.php'); ?>
+<?php ant('prSanct/0822b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0822.php'); ?>
 	<p:BodySm/>
@@ -19,4 +19,4 @@
 <?php rubrics('head/Vespers.php'); ?>
 <?php vrS('dignare_me_laudare_te_virgo_sacrata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/0822m.php'); ?>
+<?php ant('prSanct/0822m.php','M'); ?>

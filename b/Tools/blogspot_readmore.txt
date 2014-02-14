@@ -1,0 +1,14 @@
+<style>
+<b:if cond='data:blog.pageType == &quot;item&quot;'> 
+   span.fullpost {display:inline;}
+<b:else/>
+   span.fullpost {display:none;} 
+</b:if>
+<b:if cond='data:blog.pageType == &quot;item&quot;'> 
+   span.readmore {display:none;}
+<b:else/>
+   span.readmore {display:inline;} 
+</b:if>
+
+</style>
+<span class=readmore><a href=''>Read more!</a></span><span class="fullpost"></span>

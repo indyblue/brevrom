@@ -42,7 +42,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','012000000'); ?>
-<?php psalm('007.php'); ?>
+<?php psalm(7); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','001000000'); ?>
@@ -50,15 +50,15 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php lc('job7_16-21.php','Lesson i',0); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
-<?php mr('offDef1.php') ?>
+<?php brS('offDef1.php',2,1,1) ?>
    <p:BodySm/>
 
 <?php lc('job10_1-7.php','Lesson ii',0); ?>
-<?php mr('offDef2.php') ?>
+<?php brS('offDef2.php',2,1,1) ?>
    <p:BodySm/>
 
 <?php lc('job10_8-12.php','Lesson iii',0); ?>
-<?php mr('offDef3.php',1) ?>
+<?php brs('offDef3.php',0,1,1) ?>
 <?php rubrics('offDef/m1noctLauds.php'); ?>
    <p:BodySm/>
 
@@ -71,11 +71,11 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000120000'); ?>
-<?php psalm('024.php'); ?>
+<?php psalm(24); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000012000'); ?>
-<?php psalm('026.php'); ?>
+<?php psalm(26); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000001000'); ?>
@@ -83,15 +83,15 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php lc('job13_22-28.php','Lesson iv',0); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
-<?php mr('offDef4.php') ?>
+<?php brS('offDef4.php',2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job14_1-6.php','Lesson v',0); ?>
-<?php mr('offDef5.php') ?>
+<?php brS('offDef5.php',2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job14_13-16.php','Lesson vi',0); ?>
-<?php mr('offDef6.php',1) ?>
+<?php brS('offDef6.php',0,1,1) ?>
 <?php rubrics('offDef/m1noctLauds.php'); ?>
    <p:BodySm/>
 
@@ -100,7 +100,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:Head3>(Wednesday and Saturday)</p>
 <?php bookmark('offDefMn3'); ?>
 <?php ant('offDefMatins.php','000000200'); ?>
-<?php psalm('039.php'); ?>
+<?php psalm(39); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000120'); ?>
@@ -108,7 +108,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000012'); ?>
-<?php psalm('041.php'); ?>
+<?php psalm(41); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000001'); ?>
@@ -118,20 +118,20 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php lc('job17_1-3_11-15.php','Lesson vii',0); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
-<?php mr('offDef7.php') ?>
+<?php brS('offDef7.php',2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job19_20-27.php','Lesson viii',0); ?>
-<?php mr('offDef8.php') ?>
+<?php brS('offDef8.php',2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job10_18-22.php','Lesson ix',0); ?>
    <p:BodySm/>
 <p:RubricH>The following Respond is said when the Third Nocturn only is said:</p>
-<?php mr('offDef9n1.php',1) ?>
+<?php brS('offDef9n1.php',0,1,1) ?>
    <p:BodySm/>
    <p:RubricH>The following Respond is said when all three Nocturns have been said:</p>
-<?php mr('offDef9n3.php',3) ?>
+<?php brS('offDef9n3.php',0,1,1) ?>
    <p:BodySm/>
 
 	<p:Rubric>If Lauds is not said at all, the Preces are said, as at Lauds <snr>p. <?php bkref('offDefLpr'); ?></s></p>
@@ -169,7 +169,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php vrS('audivi_vocem_de_caelo_dicentem_mihi.php'); ?>
 
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('offDefb.php'); ?>
+<?php ant('offDefb.php','B'); ?>
 <p:RubricH>The <snr>Benedictus</s> is then said <snr>(p. <?php bkref('Benedictus'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
 <?php vrS('requiem_aeternam.php',2); ?>
 <p:Rubric>The antiphon is then repeated.</p>
@@ -280,7 +280,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php vrS('audivi_vocem_de_caelo_dicentem_mihi.php'); ?>
 
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('offDefm.php'); ?>
+<?php ant('offDefm.php','M'); ?>
 <p:RubricH>The <snr>Magnificat</s> is then said <snr>(p. <?php bkref('Magnificat'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
 <?php vrS('requiem_aeternam.php',2); ?>
 <p:Rubric>The antiphon is then repeated.</p>

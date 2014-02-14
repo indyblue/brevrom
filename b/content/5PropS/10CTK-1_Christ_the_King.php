@@ -6,7 +6,7 @@
    <p:RubricH>All as in II Vespers except:</p>
 <?php vrS('prSanct/data_est_mihi_omnis_potestas.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/10CTKm1.php'); ?>
+<?php ant('prSanct/10CTKm1.php','M'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>
 	<p:BodySm/>
 
@@ -21,7 +21,7 @@
 <?php hymn('vexilla_christus_inclyta.php'); ?>
 <?php vrS('prSanct/multiplicabitur_ejus_imperium.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/10CTKb.php'); ?>
+<?php ant('prSanct/10CTKb.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/10CTK.php'); ?>
 	<p:BodySm/>
@@ -72,7 +72,7 @@
 <?php hymn('te_saeculorum_principem.php'); ?>
 <?php vrS('prSanct/multiplicabitur_ejus_imperium.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/10CTKm2.php'); ?>
+<?php ant('prSanct/10CTKm2.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/10CTK.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

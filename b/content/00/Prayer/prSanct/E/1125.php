@@ -1,0 +1,1 @@
+O God, who from the top of mount Sinai gavest the law to Moses, and didst thither miraculously convey by thy holy Angels the body of blessed Catharine thy Virgin and Martyr; grant, we beseech thee, that, by virtue of her merits and intercession, we may be enabled to attain unto that mount which is Christ. Who liveth.

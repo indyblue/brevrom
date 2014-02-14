@@ -1,0 +1,1 @@
+In merciful forgiveness, O Lord, look down upon the souls of all thy servants and handmaids, for whom we humbly entreat thy majesty: that, by our prayers of pious suppliation, they may be counted worthy to enter thine everlasting rest. Through our Lord.

@@ -1,3 +1,4 @@
+Psalmus 27. Ad te, Dómine
 Unto thee will I cry, O Lord: O my God, be not thou silent to me: * lest if thou be silent to me, I become like them that go down into the pit.
 Hear, O Lord, the voice of my supplication, when I pray to thee; * when I lift up my hands to thy holy temple.
 Draw me not away together with the wicked; * and with the workers of iniquity destroy me not:

@@ -1,3 +1,4 @@
+Psalmus 74. Confitébimur tibi
 We will praise thee, O God: * we will praise, and we will call upon thy name.
 We will relate thy wondrous works: * when I shall take a time, I will judge justices.
 The earth is melted, and all that dwell therein: * I have established the pillars thereof.

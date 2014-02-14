@@ -1,3 +1,4 @@
+Psalmus 67 iii. Vidérunt ingréssus
 They have seen thy goings, O God, * the goings of my God: of my king who is in his sanctuary.
 Princes went before joined with singers, * in the midst of young damsels playing on timbrels.
 In the churches bless ye God the Lord, * from the fountains of Israel.

@@ -1,3 +1,4 @@
+Psalmus 77 vi. Audivit Deus
 God heard, and despised them, * and he reduced Israel exceedingly as it were to nothing.
 And he put away the tabernacle of Silo, * his tabernacle where he dwelt among men.
 And he delivered their strength into captivity: * and their beauty into the hands of the enemy.

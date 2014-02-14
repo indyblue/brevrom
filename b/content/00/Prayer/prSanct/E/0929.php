@@ -1,0 +1,1 @@
+O God, who in a wondrous order disposest the ministry of Angels and of men; mercifully grant that our lives upon earth may be protected by those same blessed spirits who ever stand ministering to thee in heaven. Through our Lord.

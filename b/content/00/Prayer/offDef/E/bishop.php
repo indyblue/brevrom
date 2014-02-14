@@ -1,0 +1,1 @@
+O God, who wast pleased to raise thy <sr>(</s>servant <sr>N. or</s> servants <sr>N.</s> and <sr>N.)</s> to the dignity of the episcopate; vouchsafe, we beseech thee, to admit him to fellowship with thy bishops for evermore. Through our Lord.

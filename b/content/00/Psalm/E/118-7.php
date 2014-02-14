@@ -1,3 +1,4 @@
+Psalmus 118 vii. Quómodo diléxi
 ~Mem
 O how have I loved thy law, O Lord! * it is my meditation all the day.
 Through thy commandment, thou hast made me wiser than my enemies: * for it is ever with me.

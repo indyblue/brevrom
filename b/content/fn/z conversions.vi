@@ -1,0 +1,12 @@
+ar *.php | set nomore
+
+argdo 1,3d |w
+argdo 4,$d |w
+
+argdo 1s/\v(.*)\n(.*)/\1 * \2/ |w
+
+argdo %s/\s*\*\s*$// |w
+argdo %s/<s:Rubric>/<sr>/g |w
+
+vim/\%3l/*.php
+vim/\* [^a-z]/*.php

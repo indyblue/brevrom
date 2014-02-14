@@ -26,7 +26,7 @@ echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
 	<p:RubricH>For several Virgin Martyrs:</p>
 <?php vrS('adducentur_regi_virgines_post_eam.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('veni_sponsa_christi_accipe_coronam.php'); ?>
+<?php ant('veni_sponsa_christi_accipe_coronam.php','M'); ?>
    <p:RubricH>For several Virgin Martyrs:</p>
 <?php ant('prudentes_virgines_aptate_vestras_lampades.php'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
@@ -41,9 +41,9 @@ echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
    <p:RubricH>For several Virgin Martyrs:</p>
 <?php vrS('adducentur_regi_virgines_post_eam.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('simile_est_regnum_caelorum_homini_negotiatori.php'); ?>
+<?php ant('simile_est_regnum_caelorum_homini_negotiatori.php','B'); ?>
    <p:RubricH>For several Virgin Martyrs:</p>
-<?php ant('prudentes_virgines_aptate_vestras_lampades.php'); ?>
+<?php ant('prudentes_virgines_aptate_vestras_lampades.php','B'); ?>
    <p:BodySm/>
 
 <?php bookmark('csVLH'); ?>
@@ -88,8 +88,8 @@ echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
    <p:RubricH>For several Virgin Martyrs:</p>
 <?php vrS('adducentur_regi_virgines_post_eam.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('veni_sponsa_christi_accipe_coronam.php'); ?>
+<?php ant('veni_sponsa_christi_accipe_coronam.php','M'); ?>
    <p:RubricH>For several Virgin Martyrs:</p>
-<?php ant('prudentes_virgines_aptate_vestras_lampades.php'); ?>
+<?php ant('prudentes_virgines_aptate_vestras_lampades.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>
 

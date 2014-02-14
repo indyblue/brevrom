@@ -1,0 +1,16 @@
+ar *.php | set nomore
+argdo g/<?php if ($part==0): ?>\|<?php endif; ?>/d |w
+argdo %s/<?php.\{-}\(\k*Drop\)>\(\%(\k\|\s\)*\)'[^>]*>[^>]*>/\1>\2/ | w
+argdo %s/<?php echo ($cross==1?'‡':'') ?>/‡/ig |w
+argdo g/\v(table\>|tr\>|td(:|\>))/d | w
+argdo %s/^\s*//ig |w
+
+argdo g/BodyL/d |w
+argdo %s/<\/*p[^>]*>//ig |w
+
+
+vim/[A-Z]\{2,}/*.php
+
+ggjlvwu:wn
+
+\%2l^[^A-Z]

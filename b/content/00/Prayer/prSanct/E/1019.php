@@ -1,0 +1,1 @@
+O God, who didst vouchsafe to adorn thy blessed Confessor Peter with the gifts of admirable penance and sublime contemplation; grant, we beseech thee, that, through the help of his merits, we may mortify the flesh, and thus attain more easily unto heavenly things. Through our Lord.

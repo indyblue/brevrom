@@ -1,0 +1,3 @@
+
+DEUS, qui per gloriosíssimam Fílii tui Matrem, ad liberándos Christi fidéles a potestáte paganórum nova Ecclésiam tuam prole amplificáre dignátus es: præsta, quæsumus; ut, quam pie venerámur tanti óperis institutrícem, ejus páriter méritis et intercessióne, a peccátis ómnibus et captivitáte dæmonis líberemur. Per eúmdem Dóminum.
+O GOD, who, for the deliverance of Christ’s faithful people from the hands of the infidels, wast pleased, through the most glorious Mother of thy Son, to enrich thy Church with a fresh progeny; grant, we beseech thee, that as we venerate in her the foundress of so great a work, so by her merits and intercession we may be delivered from all our sins, and from the bondage of the devil. Through the same.

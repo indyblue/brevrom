@@ -1,3 +1,4 @@
+Psalmus 144 i. Exaltábo te
 I will extol thee, O God my king: * and I will bless thy name for ever; yea, for ever and ever.
 Every day will I bless thee: * and I will praise thy name for ever; yea, for ever and ever.
 Great is the Lord, and greatly to be praised: * and of his greatness there is no end.

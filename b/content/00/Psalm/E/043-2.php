@@ -1,3 +1,4 @@
+Psalmus 43 ii. Nunc autem repulísti
 But now thou hast cast us off, and put us to shame: * and thou, O God, wilt not go out with our armies.
 Thou hast made us turn our back to our enemies: * and they that hated us plundered for themselves.
 Thou hast given us up like sheep to be eaten: * thou hast scattered us among the nations.

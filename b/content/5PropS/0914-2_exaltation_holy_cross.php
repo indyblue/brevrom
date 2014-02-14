@@ -5,7 +5,7 @@
 <?php rubrics('prSanct/Sun1Vespers.php'); ?>
 <?php rubrics('prSanct/all2Vespers.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/0914m1.php'); ?>
+<?php ant('prSanct/0914m1.php','M'); ?>
 	<p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
@@ -17,7 +17,7 @@
 <?php rubrics('asIn.php','lustra_sex_qui_jam_peregit','Ordinary of Passiontide','Hymn <snr>Lustra sex qui jam perégit</s>'); ?>
 <?php vrS('prSanct/adoramus_te_christe_et_benedicimus_tibi.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/0914b.php'); ?>
+<?php ant('prSanct/0914b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0914.php'); ?>
 	<p:BodySm/>
@@ -53,7 +53,7 @@
 <?php rubrics('asIn.php','vexilla_regis_prodeunt','Ordinary of Passiontide','Hymn <snr>Vexílla Regis pródeunt</s>'); ?>
 <?php vrS('prSanct/hoc_signum_crucis_erit_in_caelo.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/0914m2.php'); ?>
+<?php ant('prSanct/0914m2.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0914.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

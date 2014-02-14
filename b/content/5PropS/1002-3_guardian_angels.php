@@ -12,7 +12,7 @@
 <?php hymn('aeterne_rector_siderum.php'); ?>
 <?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/1002b.php'); ?>
+<?php ant('prSanct/1002b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1002.php'); ?>
 	<p:BodySm/>
@@ -49,7 +49,7 @@
 <?php hymn('custodes_hominum_psallimus_angelos.php'); ?>
 <?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1002m2.php'); ?>
+<?php ant('prSanct/1002m2.php','M'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1002.php'); ?>
 <?php rubrics('prSanct/ComplineFeria.php'); ?>

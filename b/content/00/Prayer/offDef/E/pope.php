@@ -1,0 +1,1 @@
+O God, who, in thine unspeakable providence wast pleased to number among the supreme pontiffs thy servant <sr>N.</s>; grant, we beseech thee, that he who on earth was vicar of thine only-begotten Son, may for evermore have place among the holy bishops who in heaven reign with thee. Through the same.

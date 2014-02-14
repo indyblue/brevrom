@@ -148,6 +148,12 @@
   <style:style style:name="NonRubric" style:family="text" style:parent-style-name="Rubric">
    <style:text-properties fo:color="#000000" fo:font-style="normal" fo:font-weight="normal"/>
   </style:style>
+  <style:style style:name="Bold" style:family="text">
+   <style:text-properties fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="BoldR" style:family="text">
+   <style:text-properties fo:color="#ff0000" fo:font-weight="bold"/>
+  </style:style>
   <style:style style:name="AllCaps" style:family="text">
    <style:text-properties fo:text-transform="uppercase"/>
   </style:style>

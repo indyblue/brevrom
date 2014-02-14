@@ -1,0 +1,1 @@
+Grant us, we beseech thee, O Lord, faithfully to keep the feast of the holy Martyrs Tryphon, Respicius, and Nympha, and by virtue of their intercession, may we experience the gifts of thy protection. Through our Lord.

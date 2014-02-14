@@ -171,13 +171,13 @@
       <p:P159/>
       <p:P169>INCLUDES PSALTER FOR<text:line-break/>HOUR OF MATINS</p>
       <p:P159/>
-      <p:P161>Gallican Latin Psalter of St. Jerome<text:line-break/>Douay-Rheims English Psalter</p>
+		<p:P161>Gallican Latin Psalter of St. Jerome
+      <text:line-break/>Douay-Rheims (Challenor) English Psalter</p>
       <p:P159/>
-      <p:P201>Compiled and Edited by</p>
-      <p:P201>David Siefker</p>
-      <p:P159/>
-      <p:P201>Special Assistance<text:line-break/>Father Daniel Horgan<text:line-break/>Paul Gilbert</p>
-      <p:P201>Members of the FishEaters’ Forum</p>
+      <p:P201>English text of prayers primarily from</p>
+      <p:P201>"The Day Hours of the Church" (1921)</p>
+      <p:P201>Compiled and Translated by</p>
+      <p:P201>The Benedictine Nuns of Stanbrook Abbey</p>
       <p:P159/>
       <p:P159>This volume was published on</p>
       <p:P159><draw:frame draw:style-name="fr10" draw:name="Object1" text:anchor-type="as-char" svg:width="2.3902in" svg:height="0.178in" draw:z-index="43"><draw:object xlink:href="./Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/><draw:image xlink:href="./ObjectReplacements/Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>

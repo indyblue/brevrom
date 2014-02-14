@@ -23,7 +23,7 @@ echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 <?php rubrics('asIn.php','csCVlc','II Vespers','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>'); ?>
 <?php vrS('amavit_eum_dominus_et_ornavit_eum.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('similabo_eum_viro_sapienti.php'); ?>
+<?php ant('similabo_eum_viro_sapienti.php','M'); ?>
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 
@@ -38,7 +38,7 @@ echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 <?php hymn('jesu_corona_celsior.php'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('euge_serve_bone_et_fidelis.php'); ?>
+<?php ant('euge_serve_bone_et_fidelis.php','B'); ?>
    <p:BodySm/>
 
 <?php bookmark('csCLH'); ?>
@@ -80,7 +80,7 @@ echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 <?php hymn('iste_confessor_domini_colentes.php'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('hic_vir_despiciens_mundum_et_terrena_triumphans.php'); ?>
+<?php ant('hic_vir_despiciens_mundum_et_terrena_triumphans.php','M'); ?>
    <p:RubricH>For a Doctor:</p>
-<?php antN('csConfessorDoctorAnt.php'); ?>
+<?php ant('csConfessorDoctorAnt.php','M'); ?>
 <?php rubrics('cs/Compline.php'); ?>

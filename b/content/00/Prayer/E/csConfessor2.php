@@ -1,0 +1,1 @@
+Give ear, O Lord, unto our supplications, which we offer to thee on the solemnity of blessed <sr>N.</s> thy Confessor, that, as we put no trust in our own merits, we may be aided by the prayers of him who was well-pleasing unto thee. Through our Lord.

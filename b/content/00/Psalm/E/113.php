@@ -1,3 +1,4 @@
+Psalmus 113. In éxitu Israël
 When Israel went out of Egypt, * the house of Jacob from a barbarous people:
 Judea was made his sanctuary, * Israel his dominion.
 The sea saw and fled: * Jordan was turned back.

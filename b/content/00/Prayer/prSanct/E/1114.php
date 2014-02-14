@@ -1,0 +1,1 @@
+Stir up in thy Church, we beseech thee, O Lord, that Spirit which so filled blessed Josaphat thy Confessor and Bishop that he laid down his life for his flock; that by his intercession we, being likewise animated and strengthened by that same Spirit, may not fear to lay down our lives for our brethren. Through our Lord...in the unity of the same Holy Spirit.

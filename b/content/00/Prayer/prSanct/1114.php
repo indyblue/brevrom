@@ -1,3 +1,1 @@
-
-EXCITA, quæsumus, Dómine, in Ecclésia tua Spíritum, quo replétus beátus Jósaphat Martyr et Póntifex tuus ánimam suam pro óvibus pósuit: ut, eo intercedénte, nos quoque eódem Spíritu moti ac roboráti, ánimam nostram pro frátribus pónere non vereámur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.
-STIR up in thy Church, we beseech thee, O Lord, that Spirit which so filled blessed Josaphat thy Confessor and Bishop that he laid down his life for his flock; that by his intercession we, being likewise animated and strengthened by that same Spirit, may not fear to lay down our lives for our brethren. Through our Lord...in the unity of the same Holy Spirit.
+Excita, quæsumus, Dómine, in Ecclésia tua Spíritum, quo replétus beátus Jósaphat Martyr et Póntifex tuus ánimam suam pro óvibus pósuit: ut, eo intercedénte, nos quoque eódem Spíritu moti ac roboráti, ánimam nostram pro frátribus pónere non vereámur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.

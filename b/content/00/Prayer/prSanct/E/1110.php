@@ -1,0 +1,1 @@
+O God, who didst dispose the heart of blessed Andrew thy Confessor, by the arduous vow of daily advancing in virtue, to ascend by wonderful steps to thee; grant, by his merits and intercession, that we, seeking ever that which is more perfect, may happily attain to the summit of thy glory. Through our Lord.

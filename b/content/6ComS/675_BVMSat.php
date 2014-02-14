@@ -18,19 +18,19 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ in Sabbato':'Office of the B.V.M. on
    <p:BodySm/>
    <p:RubricH>From the Saturday after the Octave of the Nativity of our Lord to the Saturday before the Purification, inclusive:</p>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('mirabile_mysterium_delcaratur_hodie.php'); ?>
+<?php ant('mirabile_mysterium_delcaratur_hodie.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('csBVMSat1.php'); ?>
    <p:BodySm/>
    <p:RubricH>From the Saturday after the Purification to the Saturday before Quinquagesima Sunday, and from the Saturday after the feast of the Trinity until the Saturday before the first Sunday of Advent, inclusive:</p>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('beata_dei_genitrix_maria_virgo_perpetua.php'); ?>
+<?php ant('beata_dei_genitrix_maria_virgo_perpetua.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('csBVMSat2.php'); ?>
    <p:BodySm/>
    <p:RubricH>From the Saturday after the Low Sunday (the Sunday after Easter) to the Saturday after the Ascension, inclusive:</p>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('regina_caeli_laetare_alleluia.php'); ?>
+<?php ant('regina_caeli_laetare_alleluia.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
    <p:Rubric>Prayer <s:NonRubric>Concéde nos</s>, as above.</p>
    <p:BodySm/>
