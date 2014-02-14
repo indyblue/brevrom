@@ -1,0 +1,1 @@
+When a very great multitude * was with Jesus, and they having nothing to eat, he, calling his disciples unto him, said to them: I have compassion on the multitude, for behold now they have been with me three days, having nothing to eat, alleluia.

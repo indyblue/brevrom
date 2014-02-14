@@ -1,0 +1,1 @@
+Omnípotens sempitérne Deus, qui abundántia pietátis tuæ, et mérita súpplicum excédis et vota: effúnde super nos misericórdiam tuam; ut dimíttas quæ consciéntia métuit, et adjícias quod orátio non præsúmit. Per Dóminum.

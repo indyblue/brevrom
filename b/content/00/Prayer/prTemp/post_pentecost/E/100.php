@@ -1,0 +1,1 @@
+O God, who dost manifest thine almighty power above all in showing pardon and pity: bountifully bestow upon us thy mercy; that we, running forward to the attainment of thy promises, may be made partakers of thy heavenly joys. Through our Lord.

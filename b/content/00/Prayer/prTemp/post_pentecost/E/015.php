@@ -1,0 +1,1 @@
+O God, who in this wonderful sacrament hast left us a memorial of thy passion: grant us, we beseech thee, so to reverence the sacred mysteries of thy body and blood, that we may continually find in our souls the fruit of thy redemption. Who livest.

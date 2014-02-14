@@ -1,0 +1,1 @@
+O God of hosts, to whom belongeth all that is perfect: implant in our hearts the love of thy name, and grant us an increase of religion; that thou mayst nourish in us what is good, and by thy solicitous kindness, mayst preserve in us what thou hast nourished. Through our Lord.

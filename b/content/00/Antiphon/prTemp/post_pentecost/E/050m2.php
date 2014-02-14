@@ -1,0 +1,1 @@
+If thou bringest * thy offering to the altar, and there rememberest that thy brother hath aught against thee, leave there thine offering before the altar, and go first to be reconciled to thy brother, and then come and offer thy gift, alleluia.

@@ -1,0 +1,1 @@
+When the Lord drew near, * Jerusalem, seeing the city he wept over it, saying: If thou also hadst known, that the days shall come upon thee, and thy enemies shall cast a trench about thee, and compass thee round, and straiten thee on every side, and beat thee flat to the ground: because thou hast not known the time of thy visitation, alleluia.

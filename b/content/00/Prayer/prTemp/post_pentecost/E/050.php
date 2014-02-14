@@ -1,0 +1,1 @@
+O God, who hast prepared for those that love thee such good things as the eye of man cannot see; pour into our hearts the tenderness of thy charity, that, loving thee in all and above all, we may obtain thy promises, which exceed all that we can desire. Through our Lord.
