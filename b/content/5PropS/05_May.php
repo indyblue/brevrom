@@ -1,11 +1,9 @@
 <?php 
-	space();
-	img('separator3.tif',100); ?>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Maii':'Feasts of May') 
-?></p>
 
-<?php
+space();
+img('separator3.tif',100);
+head('Festa Maii', 'Feasts of May',1);
+
 
 require '0501-1_joseph_worker.php';
 

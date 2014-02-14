@@ -1,9 +1,10 @@
-	<p:Body/>
-<?php img('separator3.tif',100); ?>
-   <p:RubricH/>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Decembris':'Feasts of December') 
-?></p>
+<?php 
+
+space();
+img('separator3.tif',100);
+head('Festa Decembris', 'Feasts of December',1);
+?>
+
    <p:BodySm/>
 <?php img(); ?>
    <p:BodySm/>
@@ -182,7 +183,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
 <?php img('Saints/1208_immaculate_conception.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Dec 8 - Immaculate Conception of the B.V.M.</p>
-   <p:Head1>in Conceptione Immaculata B.M.V.</p>
+   <p:Head1NI>in Conceptione Immaculata B.M.V.</p>
    <p:Head2>I classis - Dec. 8</p>
    <table>
     <tr>
@@ -760,7 +761,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
 <?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 21 - St. Thomas</p>
-   <p:Head1>Sancti Thomae, Ap.</p>
+   <p:Head1NI>Sancti Thomae, Ap.</p>
    <p:Head2>II classis - Dec. 21</p>
    <table>
     <tr>

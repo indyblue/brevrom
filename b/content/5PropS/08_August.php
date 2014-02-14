@@ -1,10 +1,11 @@
-   <p:Body/>
-<?php img('separator3.tif',100); ?>
-   <p:RubricH/>
-	<p:Head1><?php 
-echo ($_GET['L']==1?'Festa Augusti':'Feasts of August') 
-?></p>
-   <p:BodySm/>
+<?php 
+
+space();
+img('separator3.tif',100);
+head('Festa Augusti', 'Feasts of August',1);
+?>
+
+	<p:BodySm/>
 
 <?php require '0815-1_assumption.php'; ?>
    <p:BodySm/>

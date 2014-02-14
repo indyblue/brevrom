@@ -1,8 +1,9 @@
-	<?php img('separator3.tif',100); ?>
-   <p:RubricH/>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Januarii':'Feasts of January') 
-?></p>
+<?php 
+
+space();
+img('separator3.tif',100);
+head('Festa Januarii', 'Feasts of January',1);
+?>
    <p:BodySm/>
 <?php img(); ?>
    <p:BodySm/>

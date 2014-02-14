@@ -15,6 +15,7 @@ require '02_February.php';
 require '03_March.php';
 require '04_April.php';
 require '05_May.php';
+require '06_June.php';
 
 require '07_July.php';
 

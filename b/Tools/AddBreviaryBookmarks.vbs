@@ -9,14 +9,18 @@ Option Explicit
 '* pdfmark.ps file location may need to be adjusted! **
 '******************************************************
 '******************************************************
-Const pdfmark = "Z:\www\b\Tools\pdfmark.ps"
 
 
 
 Const AppTitle = "PDFCreator - AddBookmarks"
 Const ForReading = 1, ForAppending = 8
 
-Dim objArgs, fname, fso, f, fmarks, contents, pages, i
+Dim objArgs, fname, fso, f, fmarks, contents, pages, i, pdfmark
+
+pdfmark = InputBox("Enter file name for bookmarks",AppTitle,"Z:\www\b\Tools\pdfmark.ps")
+if len(pdfmark) = 0 then
+	WScript.Quit
+End If
 
 Set objArgs = WScript.Arguments
 

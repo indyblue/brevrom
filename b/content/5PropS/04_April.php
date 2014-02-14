@@ -1,11 +1,9 @@
 <?php 
-	space();
-	img('separator3.tif',100); ?>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Aprilis':'Feasts of April') 
-?></p>
 
-<?php
+space();
+img('separator3.tif',100);
+head('Festa Aprilis', 'Feasts of April',1);
+
 
 feast_saint(402,3,'S. Francisci de Paula','St. Francis of Paula','C');
 

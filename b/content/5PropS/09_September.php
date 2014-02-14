@@ -1,10 +1,11 @@
-   <p:Body/>
-<?php img('separator3.tif',100); ?>
-   <p:RubricH/>
-	<p:Head1><?php 
-echo ($_GET['L']==1?'Festa Septembris':'Feasts of September') 
-?></p>
-   <p:BodySm/>
+<?php 
+
+space();
+img('separator3.tif',100);
+head('Festa Septembris', 'Feasts of September',1);
+?>
+
+	<p:BodySm/>
 
 <?php img(); ?>
    <p:BodySm/>

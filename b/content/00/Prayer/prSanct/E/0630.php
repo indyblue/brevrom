@@ -1,1 +1,1 @@
-O God, who, by the preaching of the blessed Apostle Paul, didst teach the multitude of the gentiles; grant, we beseech thee, that as we celebrate his festival, we may also experience the benefit of his patronage. Through our Lord.
+O God, who, by the preaching of the blessed Apostle Paul, didst teach the multitude of the gentiles; grant, we beseech thee, that as we celebrate his festival, we may also experience the benefit of his patronage. <sr>(</s>Through our Lord.<sr>)</s>

@@ -25,9 +25,8 @@
 	ant('csApL.php','02222');
 	bookmark('csApLlc');
 	lc('eph2_19.php');
-	bookmark('exsultet_orbis_gaudiis');
 	rubrics('head/HymnVerse.php');
-	hymn('exsultet_orbis_gaudiis.php');
+	hymn('exsultet_orbis_gaudiis.php',0);
 	vrS('annuntiaverunt_opera_dei.php');
 	ant('vos_qui_reliquistis_omnia.php','B');
 

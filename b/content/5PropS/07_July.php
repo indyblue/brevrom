@@ -1,6 +1,9 @@
-<?php img(); ?>
-   <p:BodySm/>
-   <p:Head1>Festa Julii</p>
+<?php 
+
+space();
+img('separator3.tif',100);
+head('Festa Julii', 'Feasts of July',1);
+?>
    <p:BodySm/>
    <p:Body/>
      <p:Hidden1>July 7 - Ss. Cyril and Methodius</p>

@@ -1,9 +1,10 @@
-<?php img('separator3.tif',100); ?>
-   <p:RubricH/>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Novembris':'Feasts of November') 
-?></p>
-   <p:BodySm/>
+<?php 
+
+space();
+img('separator3.tif',100);
+head('Festa Novembris', 'Feasts of November',1);
+?>
+
 
 <?php img(); ?>
    <p:BodySm/>

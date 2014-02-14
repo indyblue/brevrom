@@ -1,16 +1,8 @@
 <?php 
-	space();
-	img('separator3.tif',100); ?>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Februarii':'Feasts of February') 
-?></p>
 
-<?php
-/*
-feast_saint(930,3,'Sancti Hieronymi','Saint Jerome','pCD');
-feast_saint(1009,3,'S. Joannis Leonardi','St. John Leonard','C',0,
-	'feast_saint(1009,-1,"","St. Dionysius, Bp., Rusticus and Eleutherius","M+");');
- */
+space();
+img('separator3.tif',100);
+head('Festa Februarii', 'Feasts of February',1);
 
 feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
 	array('csMartyrBishop1.php','Ignátii','Ignatius'));

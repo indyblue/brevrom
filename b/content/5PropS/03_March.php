@@ -1,11 +1,8 @@
 <?php 
-	space();
-	img('separator3.tif',100); ?>
-	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Martii':'Feasts of March') 
-?></p>
 
-<?php
+space();
+img('separator3.tif',100);
+head('Festa Martii', 'Feasts of March',1);
 
 feast_saint(304,3,'Sancti Casimiri','Saint Casimir','C');
 
