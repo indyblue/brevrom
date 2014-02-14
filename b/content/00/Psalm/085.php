@@ -1,4 +1,4 @@
-Ps 85. Inclína, Dómine
+Psalmus 85
 Inclína, Dómine, aurem tuam, et exáudi me: * quóniam inops, et pauper sum ego.
 Custódi ánimam meam, quóniam sanctus sum: * salvum fac servum tuum, Deus meus, sperántem in te.
 Miserére mei, Dómine, quóniam ad te clamávi tota die: * lætífica ánimam servi tui, quóniam ad te, Dómine, ánimam meam levávi.

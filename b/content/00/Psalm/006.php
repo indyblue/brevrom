@@ -1,4 +1,4 @@
-Ps 6. Dómine, ne in furóre
+Psalmus 6
 Dómine, ne in furóre tuo árguas me, * neque in ira tua corrípias me.
 Miserére mei, Dómine, quóniam infírmus sum: * sana me, Dómine, quóniam conturbáta sunt ossa mea.
 Et ánima mea turbáta est valde: * sed tu, Dómine, úsquequo?

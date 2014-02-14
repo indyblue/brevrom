@@ -1,4 +1,4 @@
-Psalmus 118 v. Bonitátem fecísti
+Psalm 118 v
 ~Teth
 Thou hast done well with thy servant, O Lord, * according to thy word.
 Teach me goodness and discipline and knowledge; * for I have believed thy commandments.

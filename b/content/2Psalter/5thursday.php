@@ -148,6 +148,7 @@
 	psalm(136);
 	space(2);
 	ant('Psalter/5Thu/6V.php','00012');
+	bookmark('ps137');
 	psalm(137);
 	space(2);
 	ant('Psalter/5Thu/6V.php','00001');

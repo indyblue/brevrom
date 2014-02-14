@@ -1,4 +1,4 @@
-Ps 118 v. Bonitátem fecísti
+Psalmus 118 v
 ~Teth
 Bonitátem fecísti cum servo tuo, Dómine, * secúndum verbum tuum.
 Bonitátem, et disciplínam, et sciéntiam doce me: * quia mandátis tuis crédidi.

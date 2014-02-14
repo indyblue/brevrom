@@ -1,4 +1,4 @@
-Psalmus 55. Miserére mei, Deus
+Psalm 55
 Have mercy on me, O God, for man hath trodden me under foot; * all the day long he hath afflicted me fighting against me.
 My enemies have trodden on me all the day long; * for they are many that make war against me.
 From the height of the day I shall fear: * but I will trust in thee.

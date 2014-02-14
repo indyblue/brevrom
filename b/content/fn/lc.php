@@ -11,7 +11,7 @@
 // 0 - printed normally
 // 'bookmark' - prints detailed reference to 'bookmark'.
 function lc($file, $byref=0, $opt=1, $file2='') {
-	$dir = "/www/b/content/00/LittleChapter/";
+	$dir = $_GET['root'] . "/00/LittleChapter/";
 
 	$pieces = file_load($dir.$file);
 	
@@ -54,11 +54,11 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		}
 	}		
 	elseif($opt=='h' || $opt=='H') {
-		$dir2 = "/www/b/content/00/Hymn/L/";
+		$dir2 = $_GET['root'] . "/00/Hymn/L/";
 		$pieces = file_load($dir2.$file2);
 		$ref2 = 'and hymn, <snr>'. trimP($pieces[3]) . '</s>, ';
 	} elseif($opt=='br' || $opt=='BR') {
-		$dir2 = "/www/b/content/00/VR/";
+		$dir2 = $_GET['root'] . "/00/VR/";
 		$pieces = file_load($dir2.$file2);
 		$ref2 = 'and br. resp., <snr>'. 
 			start_phrase($pieces[1],15) . '</s>, ';

@@ -1,4 +1,4 @@
-Psalmus 22. Dóminus regit me
+Psalm 22
 The Lord ruleth me: and I shall want nothing. * He hath set me in a place of pasture.
 He hath brought me up, on the water of refreshment: * he hath converted my soul.
 He hath led me on the paths of justice, * for his own name’s sake.

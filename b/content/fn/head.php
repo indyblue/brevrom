@@ -78,10 +78,19 @@ function head_sect($date, $class, $nameL, $nameE, $descr='', $head1=0, $head2=0)
 
 
 function head($L, $E, $size=3, $h1=0, $h2=0) {
+	$Llang = $_GET['L'];
 	$par=0;
 	if($size<0 || $_GET['par']) {
 		$par=1;
-		$size = abs($size);
+		if(!is_string($size))
+			$size = abs($size);
+	}
+	if(strlen($L)==0) {
+		$par = 0;
+		$Llang = 0;
+	} elseif(strlen($E)==0) {
+		$par = 0;
+		$Llang = 1;
 	}
 
 	if($h1) {
@@ -95,14 +104,13 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 		hidden($h2,2);
 	}
 	if(!$par) {
-		echo '  <text:p text:style-name="Head'. $size .'">' . ($_GET['L']==1?$L:$E) ."</p>\n";
+		echo '  <text:p text:style-name="Head'. $size .'">' . ($Llang==1?$L:$E) ."</p>\n";
 		if($size<2) 
-			echo '  <text:p text:style-name="Head5">' . ($_GET['L']==1?$E:$L) ."</p>\n";
+			echo '  <text:p text:style-name="Head5">' . ($Llang==1?$E:$L) ."</p>\n";
 	} 	elseif($size<2) { 
-		echo '  <text:p text:style-name="Head'. $size .'">' . ($_GET['L']==1?$L:$E) ."</p>\n".
-			'  <text:p text:style-name="Head5">' . ($_GET['L']==1?$E:$L) ."</p>\n";
+		echo '  <text:p text:style-name="Head'. $size .'">' . ($Llang==1?$L:$E) ."</p>\n".
+			'  <text:p text:style-name="Head5">' . ($Llang==1?$E:$L) ."</p>\n";
 	} 	else { 
-		$size = abs($size);
 		echo "\n  <tableH><tr><td:A1>\n".
 			'   <p:Head'. $size .'>'. $L ."</p>\n".
 			"   </td><td:B2>\n".

@@ -1,4 +1,4 @@
-Psalmus 118 vi. Defécit ánima mea
+Psalm 118 vi
 ~Caph
 My soul hath fainted after thy salvation: * and in thy word I have very much hoped.
 My eyes have failed for thy word, * saying: When wilt thou comfort me?

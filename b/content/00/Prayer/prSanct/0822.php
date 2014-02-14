@@ -1,1 +1,1 @@
-Omnípotens sempitérne Deus, qui in Corde beátæ Maríæ Vírginis dignum Spíritus Sancti habitáculum præparásti: concéde propítius; ut ejúsdem immaculáti Cordis festivitátem devóta mente recoléntes, secúndum Cor tuum vívere valeámus. Per Dóminum... in unitáte ejúsdem Spíritus Sancti.
+Omnípotens sempitérne Deus, qui in Corde beátæ Maríæ Vírginis dignum Spíritus Sancti habitáculum præparásti: concéde propítius; ut ejúsdem immaculáti Cordis festivitátem devóta mente recoléntes, secúndum Cor tuum vívere valeámus. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.

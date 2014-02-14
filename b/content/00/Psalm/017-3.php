@@ -1,4 +1,4 @@
-Ps 17 iii. Et dedísti mihi
+Psalmus 17 iii
 Et dedísti mihi protectiónem salútis tuæ: * et déxtera tua suscépit me:
 Et disciplína tua corréxit me in finem: * et disciplína tua ipsa me docébit.
 Dilatásti gressus meos subtus me: * et non sunt infirmáta vestígia mea:

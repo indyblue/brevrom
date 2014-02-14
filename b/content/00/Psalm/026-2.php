@@ -1,4 +1,4 @@
-Ps 26 ii. Exáudi, Dómine
+Psalmus 26 ii
 Exáudi, Dómine, vocem meam, qua clamávi ad te: * miserére mei, et exáudi me.
 Tibi dixit cor meum, exquisívit te fácies mea: * fáciem tuam, Dómine, requíram.
 Ne avértas fáciem tuam a me: * ne declínes in ira a servo tuo.

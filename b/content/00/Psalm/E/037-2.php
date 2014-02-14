@@ -1,4 +1,4 @@
-Psalmus 37 ii. Amíci mei
+Psalm 37 ii
 My friends and my neighbours * have drawn near, and stood against me.
 And they that were near me stood afar off: * and they that sought my soul used violence.
 And they that sought evils to me spoke vain things, * and studied deceits all the day long.

@@ -1,4 +1,4 @@
-Psalmus 72 i. Quam bonus Israël
+Psalm 72 i
 How good is God to Israel, * to them that are of a right heart!‡
 But my feet were almost moved; * my steps had wellnigh slipped.
 Because I had a zeal on occasion of the wicked, * seeing the prosperity of sinners.

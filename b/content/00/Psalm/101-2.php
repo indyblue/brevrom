@@ -1,4 +1,4 @@
-Ps 101 ii. Tu exsúrgens
+Psalmus 101 ii
 Tu exsúrgens miseréberis Sion: * quia tempus miseréndi ejus, quia venit tempus.
 Quóniam placuérunt servis tuis lápides ejus: * et terræ ejus miserebúntur.
 Et timébunt gentes nomen tuum, Dómine, * et omnes reges terræ glóriam tuam.

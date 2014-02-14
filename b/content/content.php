@@ -1,4 +1,7 @@
 <?php
+// get and store base path information:
+$_GET['root'] = dirname(__FILE__);
+
 // column ratio is latin width,
 // relative to 100
 // 92 is optimal for equal font size
@@ -82,14 +85,19 @@ $_GET['long'] = 1;
 // require '2Psalter/index.php';
 // require '2Psalter/index_OLD.php';
 
-// require '6ComS/690_OfficeDead.php';
- space('PgB');
- require '6ComS/677_BVMp.php';
- space('PgB');
- require '7App/3_BVM.php';
 
-// space('PgB');
-// ant('csApV.php','22222');
+space('PgB');
+// require '0Intro/101_aperi.php';
+// require '0Intro/105_sacrosancte.php';
+// require '0Intro/110_collect.php';
+
+// require '6ComS/690_OfficeDead.php';
+
+// require '6ComS/677_BVMp.php';
+// hidden('',1);
+// require '7App/3_BVM.php';
+
+// require '7App/index.php';
 
 // require 'z_hymns.php';
 // require 'z_psalms.php';
@@ -103,7 +111,7 @@ $_GET['long'] = 1;
 // 
 // require '5PropS/index.php';
 // require '6ComS/index.php';
-// require '7App/index.php';
+require '7App/index.php';
 
 
 // require '998_indices.php';

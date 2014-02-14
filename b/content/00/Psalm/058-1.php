@@ -1,4 +1,4 @@
-Ps 58 i. Éripe me de inimícis
+Psalmus 58 i
 Éripe me de inimícis meis, Deus meus: * et ab insurgéntibus in me líbera me.
 Éripe me de operántibus iniquitátem: * et de viris sánguinum salva me.
 Quia ecce cepérunt ánimam meam: * irruérunt in me fortes.

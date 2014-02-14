@@ -1,4 +1,4 @@
-Ps 8. Dómine, Dóminus noster
+Psalmus 8
 Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!
 Quóniam eleváta est magnificéntia tua, * super cælos.
 Ex ore infántium et lacténtium perfecísti laudem propter inimícos tuos, * ut déstruas inimícum et ultórem.

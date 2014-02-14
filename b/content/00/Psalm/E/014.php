@@ -1,4 +1,4 @@
-Psalmus 14. Dómine, quis habitábit
+Psalm 14
 Lord, who shall dwell in thy tabernacle? * or who shall rest in thy holy hill?
 He that walketh without blemish, * and worketh justice:
 He that speaketh truth in his heart, * who hath not used deceit in his tongue:

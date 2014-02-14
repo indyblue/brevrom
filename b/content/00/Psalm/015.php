@@ -1,4 +1,4 @@
-Ps 15. Consérva me, Dómine
+Psalmus 15
 Consérva me, Dómine, quóniam sperávi in te. * Dixi Dómino: Deus meus es tu, quóniam bonórum meórum non eges.
 Sanctis, qui sunt in terra ejus, * mirificávit omnes voluntátes meas in eis.
 Multiplicátæ sunt infirmitátes eórum: * póstea acceleravérunt.

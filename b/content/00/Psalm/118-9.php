@@ -1,4 +1,4 @@
-Ps 118 ix. Mirabília
+Psalmus 118 ix
 ~Phe
 Mirabília testimónia tua: * ídeo scrutáta est ea ánima mea.
 Declarátio sermónum tuórum illúminat: * et intelléctum dat párvulis.

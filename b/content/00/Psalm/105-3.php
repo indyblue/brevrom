@@ -1,4 +1,4 @@
-Ps 105 iii. Et irritavérunt eum
+Psalmus 105 iii
 Et irritavérunt eum ad Aquas contradictiónis: * et vexátus est Móyses propter eos: quia exacerbavérunt spíritum ejus.
 Et distínxit in lábiis suis: * non disperdidérunt Gentes, quas dixit Dóminus illis.
 Et commísti sunt inter Gentes, et didicérunt ópera eórum: et serviérunt sculptílibus eórum: * et factum est illis in scándalum.

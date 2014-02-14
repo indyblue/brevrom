@@ -1,4 +1,4 @@
-Psalmus 93 ii. Beátus homo
+Psalm 93 ii
 Blessed is the man whom thou shalt instruct, O Lord: * and shalt teach him out of thy law.
 That thou mayst give him rest from the evil days: * till a pit be dug for the wicked.
 For the Lord will not cast off his people: * neither will he forsake his own inheritance.

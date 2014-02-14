@@ -1,4 +1,4 @@
-Psalmus 61. Nonne Deo
+Psalm 61
 Shall not my soul be subject to God? * for from him is my salvation.
 For he is my God and my saviour: * he is my protector, I shall be moved no more.
 How long do you rush in upon a man? * you all kill, as if you were thrusting down a leaning wall, and a tottering fence.

@@ -1,4 +1,4 @@
-Psalmus 44 ii. Audi fília
+Psalm 44 ii
 Hearken, O daughter, and see, and incline thy ear: * and forget thy people and thy father’s house.
 And the king shall greatly desire thy beauty; * for he is the Lord thy God, and him they shall adore.
 And the daughters of Tyre with gifts, * yea, all the rich among the people, shall entreat thy countenance.

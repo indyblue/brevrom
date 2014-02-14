@@ -1,4 +1,4 @@
-Ps 67 i. Exsúrgat Deus
+Psalmus 67 i
 Exsúrgat Deus, et dissipéntur inimíci ejus, *‡ et fúgiant qui odérunt eum, a fácie ejus.
 Sicut déficit fumus, defíciant: * sicut fluit cera a fácie ignis, sic péreant peccatóres a fácie Dei.
 Et justi epuléntur, et exsúltent in conspéctu Dei: * delecténtur in lætítia.

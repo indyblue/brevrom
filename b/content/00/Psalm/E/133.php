@@ -1,4 +1,4 @@
-Psalmus 133. Ecce nunc
+Psalm 133
 Behold now bless ye the Lord, * all ye servants of the Lord:
 Who stand in the house of the Lord, * in the courts of the house of our God.
 In the nights lift up your hands to the holy places, * and bless ye the Lord.

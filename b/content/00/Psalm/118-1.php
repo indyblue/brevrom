@@ -1,4 +1,4 @@
-Ps 118 i. Beáti immaculáti
+Psalmus 118 i
 ~Aleph
 Beáti immaculáti in via: * qui ámbulant in lege Dómini.
 Beáti, qui scrutántur testimónia ejus: * in toto corde exquírunt eum.

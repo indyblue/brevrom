@@ -15,23 +15,19 @@
 	hymn('o_gloriosa_virginum.php');
 	vrS('benedicta_tu_in_mulieribus.php',2);
 	space('Line');
-	rubp('A sabbato post octavam Nativitatis Domini usque ad sabbatum ante Purificationem inclusive:',
-		'From the Saturday after the octave of the Nativity of our Lord to the Saturday before the Purification (2 Feb.) inclusive:');
+	rubp('A sabbato post octavam Nativitatis Domini usque ad sabbatum ante Purificationem inclusive:', 'From the Saturday after the octave of the Nativity of our Lord to the Saturday before the Purification (2 Feb.) inclusive:');
 	ant('mirabile_mysterium_delcaratur_hodie.php','B');
 	rubrics('head/Prayer.php');
 	prayer('csBVMSat1.php');
 	space('Line');
-	rubp('A sabbato post Purificationem usque ad sabbatum ante Quinquagesimam inclusive, et a sabbato post festum Sanctissimum Trinitatis usque ad sabbatum ante Nativitatis Domini, inclusive:',
-		'From the Saturday after the Purification to the Saturday before Quinquagesima Sunday, and from the Saturday after the feast of the Most Holy Trinity until the Saturday before the first Sunday of Advent, inclusive:');
+	rubp('A sabbato post Purificationem usque ad sabbatum ante Quinquagesimam inclusive, et a sabbato post festum Sanctissimum Trinitatis usque ad sabbatum ante Nativitatis Domini, inclusive:', 'From the Saturday after the Purification to the Saturday before Quinquagesima Sunday, and from the Saturday after the feast of the Most Holy Trinity until the Saturday before the first Sunday of Advent, inclusive:');
 	ant('beata_dei_genitrix_maria_virgo_perpetua.php','B');
 	rubrics('head/Prayer.php');
 	prayer('csBVMSat2.php');
 	space('Line');
-	rubp('A sabbato post dominicam in albis usque ad sabbatum post Ascensionem inclusive:',
-		'From the Saturday after the first Sunday after Easter to the Saturday after the Ascension, inclusive:');
+	rubp('A sabbato post dominicam in albis usque ad sabbatum post Ascensionem inclusive:', 'From the Saturday after the first Sunday after Easter to the Saturday after the Ascension, inclusive:');
 	ant('regina_caeli_laetare_alleluia.php','B',1);
-	rubp('Oratio, <snr>Concéde nos</s>, ut supra.',
-		'Prayer <snr>Concéde nos</s>, as above.');
+	rubp('Oratio, <snr>Concéde nos</s>, ut supra.', 'Prayer <snr>Concéde nos</s>, as above.');
 	space('Line');
 	space();
 	PrV('qui_natus_es_de_maria_virgine.php');
@@ -48,7 +44,7 @@
 
 	space();
 	hour('S');
-	lc('ecclus24_15.php');
+	lc('ecclus24_15-16.php');
 	rubrics('head/PTnot.php');
 	brS('adjuvabit_eam_deus_vultu_suo.php');
 	vrS('elegit_eam_deus_et_praeelegit_eam.php');
@@ -66,8 +62,7 @@
 	brS('elegit_eam_deus_et_praeelegit_eam.php',1);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',0,1);
 	space();
-	rubp('Post Nonam terminatur Officium sanctæ Mariæ in sabbato.',
-		'The Saturday Office of the B.V.M. ends after None.');
+	rubp('Post Nonam terminatur Officium sanctæ Mariæ in sabbato.', 'The Saturday Office of the B.V.M. ends after None.');
 	space();
 	img();
 

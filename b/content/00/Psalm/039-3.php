@@ -1,4 +1,4 @@
-Ps 39 iii. Confundántur et revereántur
+Psalmus 39 iii
 Confundántur et revereántur simul, qui quærunt ánimam meam, * ut áuferant eam.
 Convertántur retrórsum, et revereántur, * qui volunt mihi mala.
 Ferant conféstim confusiónem suam, * qui dicunt mihi: Éuge, éuge.

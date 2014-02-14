@@ -4,7 +4,7 @@
 <?php rubrics('asIn.php','csApLCLauds','Lauds','Little Chapter'); ?> 
 */
 function rubrics($file, $link='', $location='I Vespers', $content='Psalms and antiphons') {
-	$dir = "/www/b/content/00/Rubrics/";
+	$dir = $_GET['root'] . "/00/Rubrics/";
 		require $dir.$file;
 }
 

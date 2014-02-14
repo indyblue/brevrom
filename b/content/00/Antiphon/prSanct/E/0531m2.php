@@ -1,3 +1,3 @@
-O Blessed Mother, * and Virgin Mary undefiled, glorious Queen of the world, intercede for us with the Lord.
+O Blessed Mother, * and Virgin Mary undefiled, O glorious Queen of the world, plead for us before the Lord.
 
-> Ed.
+> 1904 Benziger Little Office

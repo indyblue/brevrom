@@ -1,4 +1,4 @@
-Ps 113. In éxitu Israël
+Psalmus 113
 In éxitu Israël de Ægýpto, * domus Jacob de pópulo bárbaro:
 Facta est Judǽa sanctificátio ejus, * Israël potéstas ejus.
 Mare vidit, et fugit: * Jordánis convérsus est retrórsum.

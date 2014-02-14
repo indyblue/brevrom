@@ -1,4 +1,4 @@
-Ps 24 i. Ad te Dómine
+Psalmus 24 i
 Ad te, Dómine, levávi ánimam meam: * Deus meus, in te confído, non erubéscam.
 Neque irrídeant me inimíci mei: * étenim univérsi, qui sústinent te, non confundéntur.
 Confundántur omnes iníqua agéntes * supervácue.

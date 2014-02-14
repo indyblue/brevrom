@@ -1,4 +1,4 @@
-Psalmus 98. Dóminus regnávit
+Psalm 98
 The Lord hath reigned, let the people be angry: * he that sitteth on the cherubims: let the earth be moved.
 The Lord is great in Sion, * and high above all people.
 Let them give praise to thy great name: for it is terrible and holy: * and the king’s honour loveth judgment.

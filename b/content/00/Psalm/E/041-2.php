@@ -1,4 +1,4 @@
-Psalmus 41 ii. Ad meípsum
+Psalm 41 ii
 My soul is troubled within myself: * therefore will I remember thee from the land of Jordan and Hermoniim, from the little hill.
 Deep calleth on deep, * at the noise of thy flood-gates.
 All thy heights and thy billows * have passed over me.

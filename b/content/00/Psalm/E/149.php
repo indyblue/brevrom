@@ -1,4 +1,4 @@
-Psalmus 149. Cantáte Dómino
+Psalm 149
 Sing ye to the Lord a new canticle: * let his praise be in the church of the saints.
 Let Israel rejoice in him that made him: * and let the children of Sion be joyful in their king.
 Let them praise his name in choir: * let them sing to him with the timbrel and the psaltery.

@@ -1,4 +1,4 @@
-Psalmus 38. Dixi, Custódiam
+Psalm 38
 I said: I will take heed to my ways: * that I sin not with my tongue.
 I have set guard to my mouth, * when the sinner stood against me.
 I was dumb, and was humbled, and kept silence from good things: * and my sorrow was renewed.

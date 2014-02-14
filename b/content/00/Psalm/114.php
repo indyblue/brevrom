@@ -1,4 +1,4 @@
-Ps 114. Diléxi, quóniam
+Psalmus 114
 Diléxi, quóniam exáudiet Dóminus * vocem oratiónis meæ.
 Quia inclinávit aurem suam mihi: * et in diébus meis invocábo.
 Circumdedérunt me dolóres mortis: * et perícula inférni invenérunt me.

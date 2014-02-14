@@ -1,4 +1,4 @@
-Ps 43 ii. Nunc autem repulísti
+Psalmus 43 ii
 Nunc autem repulísti et confudísti nos: * et non egrediéris, Deus, in virtútibus nostris.
 Avertísti nos retrórsum post inimícos nostros: * et qui odérunt nos, diripiébant sibi.
 Dedísti nos tamquam oves escárum: * et in géntibus dispersísti nos.

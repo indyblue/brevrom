@@ -1,4 +1,4 @@
-Psalmus 135 i. Confitémini
+Psalm 135 i
 Praise the Lord, for he is good: * for his mercy endureth for ever.
 Praise ye the God of gods: * for his mercy endureth for ever.
 Praise ye the Lord of lords: * for his mercy endureth for ever.

@@ -5,7 +5,7 @@
 // 1 - reference to hymn inserted
 // -1 - hymn inserted in full, no bookmark.
 function hymn($file, $byref=-1) {
-	$dir = "/www/b/content/00/Hymn/";
+	$dir = $_GET['root'] . "/00/Hymn/";
 
 
 	mb_internal_encoding("UTF-8");

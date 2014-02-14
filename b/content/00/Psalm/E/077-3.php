@@ -1,4 +1,4 @@
-Psalmus 77 iii. Et apposuérunt
+Psalm 77 iii
 And they added yet more sin against him: * they provoked the most High to wrath in the place without water.
 And they tempted God in their hearts, * by asking meat for their desires.
 And they spoke ill of God: * they said: Can God furnish a table in the wilderness?

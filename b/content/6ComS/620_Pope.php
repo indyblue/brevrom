@@ -6,8 +6,7 @@
 	head('Commune Unius aut Plurium Summorum Pontificum',
 		'Common of One or Many Supreme Pontiffs',1,
 		'Common of Saints','Pope(s)');
-	rubp('Omnia de Communi unius aut plur Martyrum vel Confessoris Pontificis, juxta qualitatem festi, præter sequentia:',
-		'All from the Common of one or many Martyrs, or Bishop Confessors, according to the character of the feast, except as follows:');
+	rubp('Omnia de Communi unius aut plur. Martyrum vel Confessoris Pontificis, juxta qualitatem festi, præter sequentia:', 'All from the Common of one or many Martyrs, or Bishop Confessors, according to the character of the feast, except as follows:');
 	prayer('csPope1r.php');
 	head('Pro pluribus Summis Pontificibus',
 		'For several Supreme Pontiffs',-4);

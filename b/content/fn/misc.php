@@ -2,6 +2,7 @@
 
 function space($type='BodySm') {
 	if($type=='Line') $type='P191';
+	elseif($type=='Pg') $type='P1';
 	elseif($type=='PgB') $type='P181';
 	elseif($type=='PgH') $type='P182';
 	elseif($type=='PgH1') $type='P180';
@@ -61,7 +62,7 @@ function bkref($link='') {
 }
 
 function PrV($file, $option=0) {
-	$dir = "/www/b/content/00/VR/prime/";
+	$dir = $_GET['root'] . "/00/VR/prime/";
 	if($option==0)
 		rubrics('ord/prime_brv.php');
 		require $dir.'0Versicle.php';
@@ -69,14 +70,14 @@ function PrV($file, $option=0) {
 
 /*
 function hymn($file, $option=0) {
-	$dir = "/www/b/content/00/Hymn/";
+	$dir = $_GET['root'] . "/00/Hymn/";
 //	echo '<p:Head0/>';
 	require $dir.'0Hymn.php';
 //	echo '<p:BodySm/>';
 }
 
 function lc($file, $text='', $r=1) {
-	$dir = "/www/b/content/00/LittleChapter/";
+	$dir = $_GET['root'] . "/00/LittleChapter/";
 	require $dir.'0LittleChapter.php';
 }
  */

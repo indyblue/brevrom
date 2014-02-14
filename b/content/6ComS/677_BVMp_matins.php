@@ -13,14 +13,10 @@
 	hymn('quem_terra_pontus_sidera.php');
 	space();
 	if($long==0) {
-		rubp('Antiphonæ et Psalmi ut in Communi Festorum beatæ Mariæ Virginis, scilicet:',
-			'Antiphons and Psalms as in the Common of Feasts of the Bl. Virg. Mary, given:',1);
-		rubp('Dominica, Feria II et V: De I Nocturno <snr>['.bkref('csBVMMn1').']</s>.',
-			'Sunday, Monday, and Thursday: from I Nocturn <snr>['.bkref('csBVMMn1').']</s>.',1);
-		rubp('Feria III et VI: De II Nocturno <snr>['.bkref('csBVMMn2').']</s>.',
-			'Tuesday and Friday: from II Nocturn <snr>['.bkref('csBVMMn2').']</s>.',1);
-		rubp('Feria IV et Sabbato: De III Nocturno <snr>['.bkref('csBVMMn3').']</s>.',
-			'Wednesday and Saturday: from III Nocturn <snr>['.bkref('csBVMMn3').']</s>.',1);
+		rubp('Antiphonæ et Psalmi ut in Communi Festorum beatæ Mariæ Virginis, scilicet:', 'Antiphons and Psalms as in the Common of Feasts of the Bl. Virg. Mary, given:',1);
+		rubp('Dominica, Feria II et V: De I Nocturno <snr>['.bkref('csBVMMn1').']</s>.', 'Sunday, Monday, and Thursday: from I Nocturn <snr>['.bkref('csBVMMn1').']</s>.',1);
+		rubp('Feria III et VI: De II Nocturno <snr>['.bkref('csBVMMn2').']</s>.', 'Tuesday and Friday: from II Nocturn <snr>['.bkref('csBVMMn2').']</s>.',1);
+		rubp('Feria IV et Sabbato: De III Nocturno <snr>['.bkref('csBVMMn3').']</s>.', 'Wednesday and Saturday: from III Nocturn <snr>['.bkref('csBVMMn3').']</s>.',1);
 	} else {
 		head('Dominica, Feria II et V:',
 			'Sunday, Monday, and Thursday:',-4);
@@ -60,7 +56,7 @@
 		space('Spacer');
 		ant('opBVMm.php','000000012');
 		bvm_head(2,1);
-		ant('opBVMm.php','0000000002');
+		ant('opBVMm.php','000000000*');
 		psalm(97);
 		space('Spacer');
 		ant('opBVMm.php','000000001');
@@ -73,7 +69,7 @@
 	vr('pater_silent_vr.php');
 
 	space();
-	bvm_head(4);
+	bvm_head(13);
 	head('Absolutio.','The Absolution',-3);
 	reading('bvm/precibus.php',0,10);
 	vr('jube_domine.php');
@@ -84,7 +80,7 @@
 
 	vr('jube_domine.php');
 	reading('bvm/ipsa_virgo.php',0,10);
-	lc('ecclus24_15.php',0,'L2');
+	lc('ecclus24_15-16.php',0,'L2');
 	rm('BVMp/mr2.php',0,3);
 	space();
 
@@ -92,17 +88,14 @@
 	reading('bvm/per_virginem_matrem.php',0,10);
 	lc('ecclus24_17-20.php',0,'L3');
 	space();
-	rubp('Sequens Responsorium omittitur quando dicitur <snr>Te Deum</s>.',
-		'When the <snr>Te Deum</s> is said, the following Responsory is omitted.',1);
+	rubp('Sequens Responsorium omittitur quando dicitur <snr>Te Deum</s>.', 'When the <snr>Te Deum</s> is said, the following Responsory is omitted.',1);
 	rm('BVMp/mr3.php',0,0);
 	space();
 	if($long==0) {
-		rubp('Hymnus <snr>Te Deum ['.bkref('tedeum').']</s> dic. a Nativ. Domini usque ad Septuag., et a Dom. Resurrectionis usque ad Advent., et quando dicitur, omittitur III Responsorium, et in II Responsorio dicitur <snr>Glória Patri</s>, ut dictum est supra: in Adventu autem et a Septuag. usque ad Pascha non dic. nisi in Festis B. Mariæ.',
-			'The Hymn, <snr>Te Deum (p. '.bkref('tedeum').')</s>, is said from Christmas until Septuagesima, and from Easter Sunday until Advent. When it is said, the third Responsory is omitted, and the <snr>Glória Patri</s> is said in the second Responsory, as noted above. In Advent and from Septuagesima until Easter it is not said except on feasts of the Bl. Virgin Mary.',1);
+		rubp('Hymnus <snr>Te Deum ['.bkref('tedeum').']</s> dic. a Nativ. Domini usque ad Septuag., et a Dom. Resurrectionis usque ad Advent., et quando dicitur, omittitur III Responsorium, et in II Responsorio dicitur <snr>Glória Patri</s>, ut dictum est supra: in Adventu autem et a Septuag. usque ad Pascha non dic. nisi in Festis B. Mariæ.', 'The Hymn, <snr>Te Deum (p. '.bkref('tedeum').')</s>, is said from Christmas until Septuagesima, and from Easter Sunday until Advent. When it is said, the third Responsory is omitted, and the <snr>Glória Patri</s> is said in the second Responsory, as noted above. In Advent and from Septuagesima until Easter it is not said except on feasts of the Bl. Virgin Mary.',1);
 
 	} else {
-		rubp('Sequens Hymnus <snr>Te Deum</s> dic. a Nativ. Domini usque ad Septuag., et a Dom. Resurrectionis usque ad Advent., et quando dicitur, omittitur III Responsorium, et in II Responsorio dicitur <snr>Glória Patri</s>, ut dictum est supra: in Adventu autem et a Septuag. usque ad Pascha non dic. nisi in Festis B. Mariæ.',
-			'The following Hymn, <snr>Te Deum</s>, is said from Christmas until Septuagesima, and from Easter Sunday until Advent. When it is said, the third Responsory is omitted, and the <snr>Glória Patri</s> is said in the second Responsory, as noted above. In Advent and from Septuagesima until Easter it is not said except on feasts of the Bl. Virgin Mary.',1);
+		rubp('Sequens Hymnus <snr>Te Deum</s> dic. a Nativ. Domini usque ad Septuag., et a Dom. Resurrectionis usque ad Advent., et quando dicitur, omittitur III Responsorium, et in II Responsorio dicitur <snr>Glória Patri</s>, ut dictum est supra: in Adventu autem et a Septuag. usque ad Pascha non dic. nisi in Festis B. Mariæ.', 'The following Hymn, <snr>Te Deum</s>, is said from Christmas until Septuagesima, and from Easter Sunday until Advent. When it is said, the third Responsory is omitted, and the <snr>Glória Patri</s> is said in the second Responsory, as noted above. In Advent and from Septuagesima until Easter it is not said except on feasts of the Bl. Virgin Mary.',1);
 		reading('tedeum.php');
 	}
 	space();

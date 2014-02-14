@@ -1,4 +1,4 @@
-Psalmus 105 ii. Et irritavérunt Moysen
+Psalm 105 ii
 And they provoked Moses in the camp, * Aaron the holy one of the Lord.
 The earth opened and swallowed up Dathan: * and covered the congregation of Abiron.
 And a fire was kindled in their congregation: * the flame burned the wicked.

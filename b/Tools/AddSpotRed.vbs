@@ -27,6 +27,11 @@ If objArgs.Count = 0 Then
  WScript.Quit
 End If
 
+i = MsgBox("Do you want to attempt spot color substitution?", 1, AppTitle)
+if i = 2 then
+	WScript.Quit
+end if
+
 fname = objArgs(0)
 tfname = fname & ".vbt"
 
@@ -57,12 +62,12 @@ Do While not fr.AtEndOfStream
 		if j=0 OR j<=k then _
 			j = instrrev(pscontents, ";", i)
 
-'		This was supposed to find 1bpp images and set the 
-'		color space accordingly...but it doesn't seem to work.
+		'This was supposed to find 1bpp images and set the 
+		'color space accordingly...but it doesn't seem to work.
 '		k = mid(pscontents,j+1, i-j-1)
 '		img = split(k," ")
 '		if img(3)=1 then 
-'			repl = " /DeviceGray dup setcolorspace /colspABC exch def 0 5 scol "
+'			repl = " /DeviceGray dup setcolorspace /colspABC exch def 1 1 scol "
 '		else
 '			repl = " /DeviceRGB dup setcolorspace /colspABC exch def "
 '		end if
@@ -75,5 +80,7 @@ Loop
 fr.close
 fw.close
 msgbox fname & crlf & "Time to complete: " & (timer() - tstart)
+fso.copyFile fname, "e:\www\pdf\z1.ps"
+fso.copyFile tfname, "e:\www\pdf\z0.ps"
 fso.DeleteFile tfname
 

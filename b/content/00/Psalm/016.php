@@ -1,4 +1,4 @@
-Ps 16. Exáudi, Dómine
+Psalmus 16
 Exáudi, Dómine, justítiam meam: * inténde deprecatiónem meam.
 Áuribus pércipe oratiónem meam, * non in lábiis dolósis.
 De vultu tuo judícium meum pródeat: * óculi tui vídeant æquitátes.

@@ -1,4 +1,4 @@
-Ps 84. Benedixísti
+Psalmus 84
 Benedixísti, Dómine, terram tuam: * avertísti captivitátem Jacob.
 Remisísti iniquitátem plebis tuæ: * operuísti ómnia peccáta eórum.
 Mitigásti omnem iram tuam: * avertísti ab ira indignatiónis tuæ.

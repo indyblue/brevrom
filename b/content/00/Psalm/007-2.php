@@ -1,4 +1,4 @@
-Ps 7 ii. Justum adjutórium
+Psalmus 7 ii
 Justum adjutórium meum a Dómino, * qui salvos facit rectos corde.
 Deus judex justus, fortis, et pátiens: * numquid iráscitur per síngulos dies?
 Nisi convérsi fuéritis, gládium suum vibrábit: * arcum suum teténdit, et parávit illum.

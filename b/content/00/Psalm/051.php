@@ -1,4 +1,4 @@
-Ps 51. Quid gloriáris
+Psalmus 51
 Quid gloriáris in malítia, * qui potens es in iniquitáte?
 Tota die injustítiam cogitávit lingua tua: * sicut novácula acúta fecísti dolum.
 Dilexísti malítiam super benignitátem: * iniquitátem magis quam loqui æquitátem.

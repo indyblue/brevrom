@@ -1,0 +1,23 @@
+type *.php ord\*.php prsanct\*.php prtemp\*.php > das.txt
+type e\*.php ord\e\*.php prsanct\e\*.php prtemp\e\*.php > dasE.txt
+
+vim/<sr>/*.php ord\*.php prsanct\*.php prtemp\*.php app\*.php
+%s/\v^.*\. (.*\.)\w$/
+[:.] [^:.]*[.]$
+
+%s/\v^.*(Per Dóminum.*)$/\1/
+%s/\v^.*(Per eúmdem D.*)$/\1/
+%s/\v^.*(Qui vivis.*)$/\1/
+%s/\v^.*(Qui tecum vivit.*)$/\1/
+%s/\v^.*(Per Christum D.*)$/\1/
+%s/\v^.*(Per eúmdem Christum.*)$/\1/
+
+%s/\v^.*(Through our Lord.*)$/\1/
+%s/\v^.*(Through the same.*)$/\1/
+%s/\v^.*(Who liveth.*)$/\1/
+%s/\v^.*(Who livest.*)$/\1/
+%s/\v^.*(.*)$/\1/
+%s/\v^.*(.*)$/\1/
+%s/\v^.*(.*)$/\1/
+%s/\v^.*(.*)$/\1/
+

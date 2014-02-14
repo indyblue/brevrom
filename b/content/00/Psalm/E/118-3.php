@@ -1,4 +1,4 @@
-Psalmus 118 iii. Legem pone
+Psalm 118 iii
 ~He
 Set before me for a law the way of thy justifications, O Lord: * and I will always seek after it.
 Give me understanding, and I will search thy law; * and I will keep it with my whole heart.

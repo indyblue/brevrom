@@ -72,8 +72,7 @@
 	psalm(63);
 	space(2);
 	multiant(7,1,'00120');
-	rubp('','On Holy Saturday, Cant. Ezechiæ (<snr>Ego dixi</s>), <snr>p. '. 
-		bkref('cant_ezechiel') .'</s> is said in place of the following.');
+	rubp('','On Holy Saturday, Cant. Ezechiæ (<snr>Ego dixi</s>), <snr>p. '.  bkref('cant_ezechiel') .'</s> is said in place of the following.');
 	canticle('moses32.php');
 	space(2);
 	multiant(7,1,'00012');

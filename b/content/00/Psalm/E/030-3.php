@@ -1,4 +1,4 @@
-Psalmus 30 iii. Quam magna
+Psalm 30 iii
 O how great is the multitude of thy sweetness, O Lord, * which thou hast hidden for them that fear thee!
 Which thou hast wrought for them that hope in thee, * in the sight of the sons of men.
 Thou shalt hide them in the secret of thy face, * from the disturbance of men.

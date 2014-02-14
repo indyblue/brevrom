@@ -1,4 +1,4 @@
-Ps 144 iii. Fidélis Dóminus
+Psalmus 144 iii
 Fidélis Dóminus in ómnibus verbis suis: * et sanctus in ómnibus opéribus suis.‡
 Allevat Dóminus omnes qui córruunt: * et érigit omnes elísos.
 Óculi ómnium in te sperant, Dómine: * et tu das escam illórum in témpore opportúno.

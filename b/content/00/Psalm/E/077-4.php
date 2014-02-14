@@ -1,4 +1,4 @@
-Psalmus 77 iv. In ómnibus
+Psalm 77 iv
 In all these things they sinned still: * and they believed not for his wondrous works.
 And their days were consumed in vanity, * and their years in haste.
 When he slew them, then they sought him: * and they returned, and came to him early in the morning.

@@ -1,4 +1,4 @@
-Psalmus 68 iii. Ego sum pauper
+Psalm 68 iii
 But I am poor and sorrowful: * thy salvation, O God, hath set me up.
 I will praise the name of God with a canticle: * and I will magnify him with praise.
 And it shall please God better than a young calf, * that bringeth forth horns and hoofs.

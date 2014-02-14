@@ -1,4 +1,4 @@
-Ps 36 ii. Mélius est módicus
+Psalmus 36 ii
 Mélius est módicum justo, * super divítias peccatórum multas.
 Quóniam bráchia peccatórum conteréntur: * confírmat autem justos Dóminus.
 Novit Dóminus dies immaculatórum: * et heréditas eórum in ætérnum erit.

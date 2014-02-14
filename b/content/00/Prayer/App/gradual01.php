@@ -1,0 +1,1 @@
+Absólve, quǽsumus, Dómine, ánimas famulórum famularúmque tuárum et ómnium fidélium defunctórum, ab omni vínculo delictórum: ut in resurrectiónis glória inter Sanctos et Eléctos tuos resuscitáti respírent. Per Christum Dóminum nostrum.

@@ -1,4 +1,4 @@
-Psalmus 118 x. Clamávi in toto corde meo
+Psalm 118 x
 ~Coph
 I cried with my whole heart, hear me, O Lord: * I will seek thy justifications.
 I cried unto thee, save me: * that I may keep thy commandments.

@@ -7,11 +7,11 @@
 //6 - no V/R. 
 
 function vr($file, $option=0) {
-	$dir = "/www/b/content/00/VR/long/";
+	$dir = $_GET['root'] . "/00/VR/long/";
 		require $dir.$file;
 }
 function vrS($file, $option=0, $short=0) {
-	$dir = "/www/b/content/00/VR/";
+	$dir = $_GET['root'] . "/00/VR/";
 
 	$Lpieces = file_load($dir.$file);
 	$Epieces = file_load($dir.E($file));

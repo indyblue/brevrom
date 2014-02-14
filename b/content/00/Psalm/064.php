@@ -1,4 +1,4 @@
-Ps 64. Te decet hymnus
+Psalmus 64
 Te decet hymnus, Deus, in Sion: *‡ et tibi reddétur votum in Jerúsalem.
 Exáudi oratiónem meam: * ad te omnis caro véniet.
 Verba iniquórum prævaluérunt super nos: * et impietátibus nostris tu propitiáberis.

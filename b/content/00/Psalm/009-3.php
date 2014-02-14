@@ -1,4 +1,4 @@
-Ps 9 iii. Ut quid, Dómine
+Psalmus 9 iii
 Ut quid, Dómine, recessísti longe, *‡ déspicis in opportunitátibus, in tribulatióne?
 Dum supérbit ímpius, incénditur pauper: * comprehendúntur in consíliis quibus cógitant.
 Quóniam laudátur peccátor in desidériis ánimæ suæ: * et iníquus benedícitur.

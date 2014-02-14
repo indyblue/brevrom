@@ -1,4 +1,4 @@
-Psalmus 83 ii. Dómine, Deus virtútum
+Psalm 83 ii
 O Lord God of hosts, hear my prayer: * give ear, O God of Jacob.
 Behold, O God our protector: * and look on the face of thy Christ.
 For better is one day in thy courts * above thousands.

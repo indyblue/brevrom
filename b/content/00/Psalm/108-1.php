@@ -1,4 +1,4 @@
-Ps 108 i. Deus, laudem
+Psalmus 108 i
 Deus, laudem meam ne tacúeris: * quia os peccatóris, et os dolósi super me apértum est.
 Locúti sunt advérsum me lingua dolósa, et sermónibus ódii circumdedérunt me: * et expugnavérunt me gratis.
 Pro eo ut me dilígerent, detrahébant mihi: * ego autem orábam.

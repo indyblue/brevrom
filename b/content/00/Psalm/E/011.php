@@ -1,4 +1,4 @@
-Psalmus 11. Salvum me fac
+Psalm 11
 Save me, O Lord, for there is now no saint: * truths are decayed from among the children of men.
 They have spoken vain things every one to his neighbor: * with deceitful lips, and with a double heart have they spoken.
 May the Lord destroy all deceitful lips, * and the tongue that speaketh proud things.

@@ -1,4 +1,4 @@
-Psalmus 46. Omnes Gentes
+Psalm 46
 O clap your hands, all ye nations: * shout unto God with the voice of joy,
 For the Lord is high, terrible: * a great king over all the earth.
 He hath subdued the people under us; * and the nations under our feet.

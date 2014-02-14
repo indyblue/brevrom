@@ -15,8 +15,7 @@
 	ant('prSanct/0630b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0630.php');
-	rubp('Et fit com. S. Petri Ap. per orationem sub unica conclusione:',
-		'Commem. is made of St. Peter, Ap., by prayer, under a single conclusion:');
+	rubp('Et fit com. S. Petri Ap. per orationem sub unica conclusione:', 'Commem. is made of St. Peter, Ap., by prayer, under a single conclusion:');
 	prayer('prSanct/0222.php');
 
 	space();

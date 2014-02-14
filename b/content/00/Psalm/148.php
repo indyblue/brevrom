@@ -1,4 +1,4 @@
-Ps 148. Laudáte Dóminum
+Psalmus 148
 Laudáte Dóminum de cælis: * laudáte eum in excélsis.
 Laudáte eum, omnes Ángeli ejus: * laudáte eum, omnes virtútes ejus.
 Laudáte eum, sol et luna: * laudáte eum, omnes stellæ et lumen.

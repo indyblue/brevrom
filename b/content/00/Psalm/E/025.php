@@ -1,4 +1,4 @@
-Psalmus 25. Júdica me, Dómine
+Psalm 25
 Judge me, O Lord, for I have walked in my innocence: * and I have put my trust in the Lord, and shall not be weakened.
 Prove me, O Lord, and try me; * burn my reins and my heart.
 For thy mercy is before my eyes; * and I am well pleased with thy truth.

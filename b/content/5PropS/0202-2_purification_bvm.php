@@ -3,8 +3,7 @@
 	img('Saints/0908_nativity_of_bvm.tif',100); 
 	headSt(202,2,'in Purificatione B. Mariæ Virg.',
 		'Purification of the B.V.M.');
-	rubp('Festum B. Mariæ Virg. habetur tamquam festum Domini.',
-		'This feast of the B.V.M. is observed as a feast of our Lord.');
+	rubp('Festum B. Mariæ Virg. habetur tamquam festum Domini.', 'This feast of the B.V.M. is observed as a feast of our Lord.');
 	rubrics('prSanct/all_from.php','csBVM');
 
 	hour('1V'); 
@@ -38,8 +37,7 @@
 	space();
 	rubrics('ps/LittleHoursFeria.php');
 	PrV('qui_natus_es_de_maria_virgine.php'); 
-	rubp('Quando hoc festum occurrit in dominicis in Septuagesima, aut Sexagesima, aut Quinquagesima, ad horas sumuntur ant. de Laudibus, pss. vero de dominica, retentis tamen ad primam pss. 117, 118 i, 118 ii.',
-		'When this feast occurs on the Sunday of Septuagesima, Sexagesima or Quinquagesima, at the little hours the ant. are selected from Lauds, and the psalms from Sunday; retaining at Prime pss. 117, 118 i, 118 ii.');
+	rubp('Quando hoc festum occurrit in dominicis in Septuagesima, aut Sexagesima, aut Quinquagesima, ad horas sumuntur ant. de Laudibus, pss. vero de dominica, retentis tamen ad primam pss. 117, 118 i, 118 ii.', 'When this feast occurs on the Sunday of Septuagesima, Sexagesima or Quinquagesima, at the little hours the ant. are selected from Lauds, and the psalms from Sunday; retaining at Prime pss. 117, 118 i, 118 ii.');
 
 	hour('T'); 
 	rubrics('head/LittleChapter.php'); 

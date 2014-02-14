@@ -1,4 +1,4 @@
-Psalmus 63. Exáudi, Deus
+Psalm 63
 Hear, O God, my prayer, when I make supplication to thee: * deliver my soul from the fear of the enemy.
 Thou hast protected me from the assembly of the malignant; * from the multitude of the workers of iniquity.
 For they have whetted their tongues like a sword; * they have bent their bow a bitter thing, to shoot in secret the undefiled.

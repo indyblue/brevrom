@@ -1,4 +1,4 @@
-Ps 65 ii. Introíbo in domum
+Psalmus 65 ii
 Introíbo in domum tuam in holocáustis: * reddam tibi vota mea, quæ distinxérunt lábia mea.
 Et locútum est os meum, * in tribulatióne mea.
 Holocáusta medulláta ófferam tibi cum incénso aríetum: * ófferam tibi boves cum hircis.

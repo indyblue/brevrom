@@ -1,4 +1,4 @@
-Ps 39 ii. Annuntiávi justítiam tuam
+Psalmus 39 ii
 Annuntiávi justítiam tuam in ecclésia magna, * ecce, lábia mea non prohibébo: Dómine, tu scisti.
 Justítiam tuam non abscóndi in corde meo: * veritátem tuam et salutáre tuum dixi.
 Non abscóndi misericórdiam tuam et veritátem tuam * a concílio multo.

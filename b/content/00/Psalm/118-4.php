@@ -1,4 +1,4 @@
-Ps 118 iv. Memor esto verbi tui
+Psalmus 118 iv
 ~Zain
 Memor esto verbi tui servo tuo, * in quo mihi spem dedísti.
 Hæc me consoláta est in humilitáte mea: * quia elóquium tuum vivificávit me.

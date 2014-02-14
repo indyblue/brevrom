@@ -2,14 +2,14 @@
 mb_internal_encoding("UTF-8");
 
 function canticle($num, $part=0, $cross=0) {
-	psalm($num, $part, $cross, "/www/b/content/00/Canticle/",'Cant');
+	psalm($num, $part, $cross, $_GET['root'] . "/00/Canticle/",'Cant');
 }
 
 function reading($num, $part=0, $cross=0) {
-	psalm($num, $part, $cross, "/www/b/content/00/Canticle/",'');
+	psalm($num, $part, $cross, $_GET['root'] . "/00/Canticle/",'');
 }
 
-function psref($num, $parts=0, $dir = "/www/b/content/00/Psalm/") {
+function psref($num, $parts=0, $dir = $_GET['root'] . "/00/Psalm/") {
 
 	$fname = sprintf("%03s",$num) . ($parts>0?'-1':'') . '.php';
 	$Lpieces = file_load($dir.$fname);
@@ -23,7 +23,7 @@ function psref($num, $parts=0, $dir = "/www/b/content/00/Psalm/") {
 
 }
 	
-function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index='Ps', $comm=1) {
+function psalm($num, $part=0, $cross=0, $dir = $_GET['root'] . "/00/Psalm/",$index='Ps', $comm=1) {
 
 	// scan latin directory, filter return for matches
 	$ls = scandir($dir);
@@ -187,7 +187,7 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 // OLD FUNCTION
 /*
 function psalm($file, $part=0, $cross=0) {
-	$dir = "/www/b/content/00/Psalm/old/";
+	$dir = $_GET['root'] . "/00/Psalm/old/";
 		require $dir.$file;
 }
  */

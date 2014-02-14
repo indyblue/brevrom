@@ -1,4 +1,4 @@
-Psalmus 146. Laudáte Dóminum
+Psalm 146
 Praise ye the Lord, because psalm is good: * to our God be joyful and comely praise.
 The Lord buildeth up Jerusalem: * he will gather together the dispersed of Israel.
 Who healeth the broken of heart, * and bindeth up their bruises.

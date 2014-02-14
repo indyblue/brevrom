@@ -1,4 +1,4 @@
-Ps 49 i. Deus deórum
+Psalmus 49 i
 Deus deórum, Dóminus locútus est: *‡ et vocávit terram,
 A solis ortu usque ad occásum: * ex Sion spécies decóris ejus.
 Deus maniféste véniet: * Deus noster et non silébit.

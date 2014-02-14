@@ -6,6 +6,5 @@ if($link == 2) {
 	$nameL = 'Petri';
 	$nameE = 'Peter';
 }
-rubp('Et fit com. S. '. $nameL .' Ap. per orationem sub unica conclusione:',
-	'And comm. is made of St. '. $nameE .' Ap., both prayers under a single conclusion:');
+rubp('Et fit com. S. '. $nameL .' Ap. per orationem sub unica conclusione:', 'And comm. is made of St. '. $nameE .' Ap., both prayers under a single conclusion:');
 ?>

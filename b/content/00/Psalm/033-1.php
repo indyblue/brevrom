@@ -1,4 +1,4 @@
-Ps 33 i. Benedícam Dóminum
+Psalmus 33 i
 Benedícam Dóminum in omni témpore: * semper laus ejus in ore meo.
 In Dómino laudábitur ánima mea: * áudiant mansuéti, et læténtur.
 Magnificáte Dóminum mecum: * et exaltémus nomen ejus in idípsum.

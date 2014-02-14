@@ -1,4 +1,4 @@
-Psalmus 26 ii. Exáudi, Dómine
+Psalm 26 ii
 Hear, O Lord, my voice, with which I have cried to thee: * have mercy on me and hear me.
 My heart hath said to thee: My face hath sought thee: * thy face, O Lord, will I still seek.
 Turn not away thy face from me; * decline not in thy wrath from thy servant.

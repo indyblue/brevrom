@@ -1,4 +1,4 @@
-Psalmus 106 i. Confitémini Dómino
+Psalm 106 i
 Give glory to the Lord, for he is good: * for his mercy endureth for ever.
 Let them say so that have been redeemed by the Lord, whom he hath redeemed from the hand of the enemy: * and gathered out of the countries.
 From the rising and the setting of the sun, * from the north and from the sea.

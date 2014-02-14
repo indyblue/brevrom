@@ -1,4 +1,4 @@
-Ps 44 ii. Audi fília
+Psalmus 44 ii
 Audi, fília, et vide, et inclína aurem tuam: * et oblivíscere pópulum tuum, et domum patris tui.
 Et concupíscet Rex decórem tuum: * quóniam ipse est Dóminus Deus tuus, et adorábunt eum.
 Et fíliæ Tyri in munéribus * vultum tuum deprecabúntur: omnes dívites plebis.

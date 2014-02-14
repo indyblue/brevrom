@@ -1,0 +1,2 @@
+O almighty and eternal God, who hast dominion over the living and the dead, and art merciful to all, whom thou knowest will be thine by faith and good works: we humbly beseech thee that they, for whom we have purposed to offer our prayers, whether the present world still retains them in the flesh, or the next world hath already received them divested of their bodies, may by the clemency of thine own goodness, and the intercession of thy Saints, obtain pardon and full remission of their sins. Through our Lord.
+> Keating 1806 Missal

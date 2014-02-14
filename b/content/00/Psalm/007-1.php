@@ -1,4 +1,4 @@
-Ps 7 i. Dómine, Deus meus
+Psalmus 7 i
 Dómine, Deus meus, in te sperávi: * salvum me fac ex ómnibus persequéntibus me, et líbera me.
 Nequándo rápiat ut leo ánimam meam, * dum non est qui rédimat, neque qui salvum fáciat.
 Dómine, Deus meus, si feci istud, * si est iníquitas in mánibus meis:

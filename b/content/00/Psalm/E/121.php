@@ -1,4 +1,4 @@
-Psalmus 121. Lætátus sum
+Psalm 121
 I rejoiced at the things that were said to me: *‡ We shall go into the house of the Lord.
 Our feet were standing * in thy courts, O Jerusalem.
 Jerusalem, which is built as a city, * which is compact together.

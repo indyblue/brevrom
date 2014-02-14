@@ -1,0 +1,1 @@
+O God, who didst vouchsafe to choose for thy habitation the virginal womb of blessed Mary; grant, we beseech thee, that, strengthened by her protection, we may joyfully come to the celebration of her commemoration. Who livest.

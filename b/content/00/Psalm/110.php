@@ -1,4 +1,4 @@
-Ps 110. Confitébor
+Psalmus 110
 Confitébor tibi, Dómine, in toto corde meo: * in consílio justórum, et congregatióne.
 Magna ópera Dómini: * exquisíta in omnes voluntátes ejus.
 Conféssio et magnificéntia opus ejus: * et justítia ejus manet in sǽculum sǽculi.

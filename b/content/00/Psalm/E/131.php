@@ -1,4 +1,4 @@
-Psalmus 131. Meménto, Dómine
+Psalm 131
 O Lord, remember David, * and all his meekness.
 How he swore to the Lord, * he vowed a vow to the God of Jacob:
 If I shall enter into the tabernacle of my house: * if I shall go up into the bed wherein I lie:

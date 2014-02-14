@@ -1,4 +1,4 @@
-Psalmus 30 i. In te, Dómine, sperávi
+Psalm 30 i
 In thee, O Lord, have I hoped, let me never be confounded: * deliver me in thy justice.
 Bow down thy ear to me: * make haste to deliver me.
 Be thou unto me a God, a protector, and a house of refuge, * to save me.

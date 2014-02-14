@@ -1,4 +1,4 @@
-Psalmus 76 i. Voce mea
+Psalm 76 i
 I cried to the Lord with my voice; * to God with my voice, and he gave ear to me.
 In the day of my trouble I sought God, with my hands lifted up to him in the night, * and I was not deceived.
 My soul refused to be comforted: * I remembered God, and was delighted, and was exercised, and my spirit swooned away.

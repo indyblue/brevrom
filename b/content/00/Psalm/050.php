@@ -1,4 +1,4 @@
-Ps 50. Miserére
+Psalmus 50
 Miserére mei, Deus, * secúndum magnam misericórdiam tuam.‡
 Et secúndum multitúdinem miseratiónum tuárum, * dele iniquitátem meam.
 Ámplius lava me ab iniquitáte mea: * et a peccáto meo munda me.

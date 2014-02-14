@@ -1,4 +1,4 @@
-Psalmus 43 i. Deus áuribus
+Psalm 43 i
 We have heard, O God, with our ears: * our fathers have declared to us,
 The work thou hast wrought in their days, * and in the days of old.
 Thy hand destroyed the Gentiles, and thou plantedst them: * thou didst afflict the people and cast them out.

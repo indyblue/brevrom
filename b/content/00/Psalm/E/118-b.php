@@ -1,4 +1,4 @@
-Psalmus 118 xi. Príncipes persecúti sunt
+Psalm 118 xi
 ~Sin
 Princes have persecuted me without cause: * and my heart hath been in awe of thy words.
 I will rejoice at thy words, * as one that hath found great spoil.

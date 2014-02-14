@@ -1,0 +1,1 @@
+Omnípotens sempitérne Deus, miserére fámulo tuo Pontífici nostro <sr>N.</s>, et dírige eum secúndum tuam cleméntiam in viam salútis ætérnæ: ut, te donánte, tibi plácita cúpiat, et tota virtúte perfíciat.

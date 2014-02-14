@@ -1,4 +1,4 @@
-Psalmus 36 ii. Mélius est módicus
+Psalm 36 ii
 Better is a little to the just, * than the great riches of the wicked.
 For the arms of the wicked shall be broken in pieces; * but the Lord strengtheneth the just.
 The Lord knoweth the days of the undefiled; * and their inheritance shall be for ever.

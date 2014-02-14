@@ -1,4 +1,4 @@
-Ps 79 i. Qui regis Israël
+Psalmus 79 i
 Qui regis Israël, inténde: * qui dedúcis velut ovem Joseph.
 Qui sedes super Chérubim, * manifestáre coram Éphraim, Bénjamin, et Manásse.
 Éxcita poténtiam tuam, et veni, * ut salvos fácias nos.

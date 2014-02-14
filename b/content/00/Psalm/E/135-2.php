@@ -1,4 +1,4 @@
-Psalmus 135 ii. Qui percússit Ægýptum
+Psalm 135 ii
 Who smote Egypt with their firstborn: * for his mercy endureth for ever.
 Who brought out Israel from among them: * for his mercy endureth for ever.
 With a mighty hand and with a stretched out arm: * for his mercy endureth for ever.

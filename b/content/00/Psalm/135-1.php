@@ -1,4 +1,4 @@
-Ps 135 i. Confitémini
+Psalmus 135 i
 Confitémini Dómino quóniam bonus: * quóniam in ætérnum misericórdia ejus.
 Confitémini Deo deórum: * quóniam in ætérnum misericórdia ejus.
 Confitémini Dómino dominórum: * quóniam in ætérnum misericórdia ejus.

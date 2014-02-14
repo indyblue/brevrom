@@ -1,4 +1,4 @@
-Ps 36 iii. Os justi meditábitur
+Psalmus 36 iii
 Os justi meditábitur sapiéntiam, * et lingua ejus loquétur judícium.
 Lex Dei ejus in corde ipsíus, * et non supplantabúntur gressus ejus.
 Consíderat peccátor justum: * et quærit mortificáre eum.

@@ -1,4 +1,4 @@
-Psalmus 17 iii. Et dedísti mihi
+Psalm 17 iii
 And thou hast given me the protection of thy salvation: * and thy right hand hath held me up:
 And thy discipline hath corrected me unto the end: * and thy discipline, the same shall teach me.
 Thou hast enlarged my steps under me; * and my feet are not weakened.

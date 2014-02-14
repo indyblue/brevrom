@@ -1,4 +1,4 @@
-Ps 25. Júdica me, Dómine
+Psalmus 25
 Júdica me, Dómine, quóniam ego in innocéntia mea ingréssus sum: * et in Dómino sperans non infirmábor.
 Proba me, Dómine, et tenta me: * ure renes meos et cor meum.
 Quóniam misericórdia tua ante óculos meos est: * et complácui in veritáte tua.

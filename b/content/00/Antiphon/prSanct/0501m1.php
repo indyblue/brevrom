@@ -1,1 +1,1 @@
-Christus Dominus * fabri fílius putári dignátus est, allelúja.
+Christus Dóminus * fabri fílius putári dignátus est, allelúja.

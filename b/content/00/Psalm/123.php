@@ -1,4 +1,4 @@
-Ps 123. Nisi quia Dóminus
+Psalmus 123
 Nisi quia Dóminus erat in nobis, dicat nunc Israël: * nisi quia Dóminus erat in nobis,
 Cum exsúrgerent hómines in nos, * forte vivos deglutíssent nos:
 Cum irascerétur furor eórum in nos, * fórsitan aqua absorbuísset nos.

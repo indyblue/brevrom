@@ -1,4 +1,4 @@
-Ps 119. Ad Dóminum
+Psalmus 119
 Ad Dóminum cum tribulárer clamávi: * et exaudívit me.
 Dómine, líbera ánimam meam a lábiis iníquis, * et a lingua dolósa.
 Quid detur tibi, aut quid apponátur tibi * ad linguam dolósam?

@@ -8,7 +8,7 @@ echo ($_GET['L']==1?'Proprium de Tempore':'Proper of Seasons')
    <p:P181/>
    <p:Body/>
 <?php 
-$dir = '/www/b/content/3PropT';
+$dir = $_GET['root'] . '/3PropT';
 // require $dir .'\01_advent.php';
 require $dir .'\02_nativity.php';
 require $dir .'\03_epiphany.php';

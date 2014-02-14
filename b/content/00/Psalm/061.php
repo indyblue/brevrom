@@ -1,4 +1,4 @@
-Ps 61. Nonne Deo
+Psalmus 61
 Nonne Deo subjécta erit ánima mea? * ab ipso enim salutáre meum.
 Nam et ipse Deus meus, et salutáris meus: * suscéptor meus, non movébor ámplius.
 Quoúsque irrúitis in hóminem? * interfícitis univérsi vos: tamquam paríeti inclináto et macériæ depúlsæ?

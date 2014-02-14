@@ -1,4 +1,4 @@
-Ps 23. Dómini est terra
+Psalmus 23
 Dómini est terra, et plenitúdo ejus: * orbis terrárum, et univérsi qui hábitant in eo.
 Quia ipse super mária fundávit eum: * et super flúmina præparávit eum.
 Quis ascéndet in montem Dómini? * aut quis stabit in loco sancto ejus?

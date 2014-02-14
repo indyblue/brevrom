@@ -4,10 +4,10 @@ V.Genovesi, SJ (1950)
 Solis, o Virgo, rádiis amícta,
 Bis caput senis redimíta stellis,
 Luna cui præbet pédibus scabéllum
-Inclita fulges.
+Ínclita fulges.
 
 Mortis, inférni domitríxque noxæ,
-Assides Christo studiósa nostri,
+Ássides Christo studiósa nostri,
 Teque regínam célebrat poténtem
 Terra polúsque.
 
@@ -16,10 +16,10 @@ Créditæ quondam tibi dirus anguis;
 Mater, huc clemens ades, et malígni
 Cóntere collum.
 
-Asseclas diæ fídei tuére,
+Ásseclas diæ fídei tuére,
 Tránsfugas adduc ad ovíle sacrum,
 Quas diu gentes tegit umbra mortis
-Undique coge.
+Úndique coge.
 
 Sóntibus mitis véniam precáre,
 Adjuva flentes, ínopes et ægros,

@@ -1,4 +1,4 @@
-Psalmus 65 i. Jubiláte Deo
+Psalm 65 i
 Shout with joy to God, all the earth, sing ye a psalm to his name; * give glory to his praise.
 Say unto God, How terrible are thy works, O Lord! * in the multitude of thy strength thy enemies shall lie to thee.
 Let all the earth adore thee, * and sing to thee: let it sing a psalm to thy name.

@@ -1,4 +1,4 @@
-Psalmus 3. Dómine quid multiplicáti
+Psalm 3
 Why, O Lord, are they multiplied that afflict me? * many are they who rise up against me.
 Many say to my soul: * There is no salvation for him in his God.
 But thou, O Lord, art my protector, * my glory, and the lifter up of my head.

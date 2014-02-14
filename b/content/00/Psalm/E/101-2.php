@@ -1,4 +1,4 @@
-Psalmus 101 ii. Tu exsúrgens
+Psalm 101 ii
 Thou shalt arise and have mercy on Sion: * for it is time to have mercy on it, for the time is come.
 For the stones thereof have pleased thy servants: * and they shall have pity on the earth thereof.
 All the Gentiles shall fear thy name, O Lord, * and all the kings of the earth thy glory.

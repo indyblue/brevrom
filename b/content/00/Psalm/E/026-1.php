@@ -1,4 +1,4 @@
-Psalmus 26 i. Dóminus illuminátio mea
+Psalm 26 i
 The Lord is my light and my salvation, * whom shall I fear?
 The Lord is the protector of my life: * of whom shall I be afraid?
 Whilst the wicked draw near against me, * to eat my flesh.

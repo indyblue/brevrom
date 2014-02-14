@@ -1,4 +1,4 @@
-Psalmus 108 i. Deus, laudem
+Psalm 108 i
 O God, be not thou silent in my praise: * for the mouth of the wicked and the mouth of the deceitful man is opened against me.
 They have spoken against me with deceitful tongues; and they have compassed me about with words of hatred; * and have fought against me without cause.
 Instead of making me a return of love, they detracted me: * but I gave myself to prayer.

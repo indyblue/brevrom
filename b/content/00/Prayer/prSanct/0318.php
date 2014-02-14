@@ -1,1 +1,1 @@
-Da nobis, quǽsumus, omnípotens Deus, beáto Cyrillo Pontífice intercedénte: te solum verum Deum, et quem misísti Jesum Christum ita cognóscere; ut inter oves, quæ vocem ejus áudiunt, perpétuo connumerári mereámur. Per eúmdem Dóminum.
+Da nobis, quǽsumus, omnípotens Deus, beáto Cyríllo Pontífice intercedénte: te solum verum Deum, et quem misísti Jesum Christum ita cognóscere; ut inter oves, quæ vocem ejus áudiunt, perpétuo connumerári mereámur. Per eúmdem Dóminum.

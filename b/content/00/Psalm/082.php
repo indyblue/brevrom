@@ -1,4 +1,4 @@
-Ps 82. Deus, quis símilis
+Psalmus 82
 Deus, quis símilis erit tibi? * Ne táceas, neque compescáris, Deus.
 Quóniam ecce inimíci tui sonuérunt: * et qui odérunt te extulérunt caput.
 Super pópulum tuum malignavérunt consílium: * et cogitavérunt advérsus sanctos tuos.

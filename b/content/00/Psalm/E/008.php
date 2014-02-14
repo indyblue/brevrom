@@ -1,4 +1,4 @@
-Psalmus 8. Dómine, Dóminus noster
+Psalm 8
 O Lord, our Lord, * how admirable is thy name in the whole earth!
 For thy magnificence is elevated * above the heavens.
 Out of the mouth of infants and of sucklings thou hast perfected praise, because of thy enemies, * that thou mayst destroy the enemy and the avenger.

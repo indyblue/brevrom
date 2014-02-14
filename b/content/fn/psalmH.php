@@ -1,6 +1,6 @@
 <?php
 mb_internal_encoding("UTF-8");
-require '/www/b/content/fn/0list.php';
+require $_GET['root'] . '/fn/0list.php';
 
 
 $ps = $_GET['ps'];
@@ -19,10 +19,10 @@ else
 	$drop=0;
 
 if(strpos($ps,'.php')!==false) {
-	$dir = "/www/b/content/00/Canticle/";
+	$dir = $_GET['root'] . "/00/Canticle/";
 	$type = 'Cant';
 } else {
-	$dir = "/www/b/content/00/Psalm/";
+	$dir = $_GET['root'] . "/00/Psalm/";
 	$type = 'Ps';
 }
 

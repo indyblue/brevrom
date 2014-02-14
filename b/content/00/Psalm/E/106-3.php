@@ -1,4 +1,4 @@
-Psalmus 106 iii. Confiteántur Dómino
+Psalm 106 iii
 Let the mercies of the Lord give glory to him, * and his wonderful works to the children of men.
 And let them exalt him in the church of the people: * and praise him in the chair of the ancients.
 He hath turned rivers into a wilderness: * and the sources of waters into dry ground:

@@ -1,4 +1,4 @@
-Ps 41 ii. Ad meípsum
+Psalmus 41 ii
 Ad meípsum ánima mea conturbáta est: * proptérea memor ero tui de terra Jordánis, et Hermóniim a monte módico.
 Abýssus abýssum ínvocat, * in voce cataractárum tuárum.
 Ómnia excélsa tua, et fluctus tui * super me transiérunt.

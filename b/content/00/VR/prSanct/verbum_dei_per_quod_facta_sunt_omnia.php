@@ -1,2 +1,2 @@
 Verbum Dei, per quod facta sunt ómnia.
-Dignatus est operári mánibus suis.
+Dignátus est operári mánibus suis.

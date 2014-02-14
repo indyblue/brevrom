@@ -1,4 +1,4 @@
-Psalmus 79 i. Qui regis Israël
+Psalm 79 i
 Give ear, O thou that rulest Israel: * thou that leadest Joseph like a sheep.
 Thou that sittest upon the cherubims, * shine forth before Ephraim, Benjamin, and Manasses.
 Stir up thy might, and come * to save us.

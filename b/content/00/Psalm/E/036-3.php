@@ -1,4 +1,4 @@
-Psalmus 36 iii. Os justi meditábitur
+Psalm 36 iii
 The mouth of the just shall meditate wisdom: * and his tongue shall speak judgment.
 The law of his God is in his heart, * and his steps shall not be supplanted.
 The wicked watcheth the just man, * and seeketh to put him to death.

@@ -1,4 +1,4 @@
-Ps 30 i. In te, Dómine, sperávi
+Psalmus 30 i
 In te, Dómine, sperávi non confúndar in ætérnum: * in justítia tua líbera me.
 Inclína ad me aurem tuam, * accélera ut éruas me.
 Esto mihi in Deum protectórem, et in domum refúgii: * ut salvum me fácias.

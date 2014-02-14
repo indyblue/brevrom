@@ -1,4 +1,4 @@
-Ps 45. Deus noster refúgium
+Psalmus 45
 Deus noster refúgium, et virtus: * adjútor in tribulatiónibus, quæ invenérunt nos nimis.
 Proptérea non timébimus dum turbábitur terra: * et transferéntur montes in cor maris.
 Sonuérunt, et turbátæ sunt aquæ eórum: * conturbáti sunt montes in fortitúdine ejus.

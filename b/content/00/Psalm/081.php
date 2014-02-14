@@ -1,4 +1,4 @@
-Ps 81. Deus stetit
+Psalmus 81
 Deus stetit in synagóga deórum: * in médio autem deos dijúdicat.
 Úsquequo judicátis iniquitátem: * et fácies peccatórum súmitis?
 Judicáte egéno, et pupíllo: * húmilem, et páuperem justificáte.

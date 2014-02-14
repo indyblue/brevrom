@@ -1,4 +1,4 @@
-Psalmus 52. Dixit insípiens
+Psalm 52
 The fool said in his heart: * There is no God.
 They are corrupted, and become abominable in iniquities: * there is none that doth good.
 God looked down from heaven on the children of men: * to see if there were any that did understand, or did seek God.

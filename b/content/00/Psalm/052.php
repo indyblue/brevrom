@@ -1,4 +1,4 @@
-Ps 52. Dixit insípiens
+Psalmus 52
 Dixit insípiens in corde suo: * Non est Deus.
 Corrúpti sunt, et abominábiles facti sunt in iniquitátibus: * non est qui fáciat bonum.
 Deus de cælo prospéxit super fílios hóminum: * ut vídeat si est intélligens, aut requírens Deum.

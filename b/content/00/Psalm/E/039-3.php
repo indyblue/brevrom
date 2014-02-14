@@ -1,4 +1,4 @@
-Psalmus 39 iii. Confundántur et revereántur
+Psalm 39 iii
 Let them be confounded and ashamed together, that seek after my soul * to take it away.
 Let them be turned backward and be ashamed * that desire evils to me.
 Let them immediately bear their confusion, * that say to me: ‘T is well, ‘t is well.

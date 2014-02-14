@@ -1,4 +1,4 @@
-Ps 34 iii. Confitébor tibi
+Psalmus 34 iii
 Confitébor tibi in ecclésia magna, * in pópulo gravi laudábo te.
 Non supergáudeant mihi qui adversántur mihi iníque: * qui odérunt me gratis et ánnuunt óculis.
 Quóniam mihi quidem pacífice loquebántur: * et in iracúndia terræ loquéntes, dolos cogitábant.

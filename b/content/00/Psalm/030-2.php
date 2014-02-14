@@ -1,4 +1,4 @@
-Ps 30 ii. Miserére, Dómine
+Psalmus 30 ii
 Miserére mei, Dómine, quóniam tríbulor: * conturbátus est in ira óculus meus, ánima mea, et venter meus:
 Quóniam defécit in dolóre vita mea: * et anni mei in gemítibus.
 Infirmáta est in paupertáte virtus mea: * et ossa mea conturbáta sunt.

@@ -1,4 +1,4 @@
-Ps 54 ii. Ego autem ad Deum
+Psalmus 54 ii
 Ego autem ad Deum clamávi: * et Dóminus salvábit me.
 Véspere, et mane, et merídie narrábo et annuntiábo: * et exáudiet vocem meam.
 Rédimet in pace ánimam meam ab his, qui appropínquant mihi: * quóniam inter multos erant mecum.

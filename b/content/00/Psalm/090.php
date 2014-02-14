@@ -1,4 +1,4 @@
-Ps 90. Qui hábitat
+Psalmus 90
 Qui hábitat in adjutório Altíssimi, * in protectióne Dei cæli commorábitur.
 Dicet Dómino: Suscéptor meus es tu, et refúgium meum: * Deus meus sperábo in eum.
 Quóniam ipse liberávit me de láqueo venántium, * et a verbo áspero.

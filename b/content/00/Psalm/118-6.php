@@ -1,4 +1,4 @@
-Ps 118 vi. Defécit ánima mea
+Psalmus 118 vi
 ~Caph
 Defécit in salutáre tuum ánima mea: * et in verbum tuum supersperávi.
 Defecérunt óculi mei in elóquium tuum, * dicéntes: Quando consoláberis me?

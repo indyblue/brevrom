@@ -1,4 +1,4 @@
-Psalmus 111. Beátus vir
+Psalm 111
 Blessed is the man that feareth the Lord: * he shall delight exceedingly in his commandments.
 His seed shall be mighty upon earth: * the generation of the righteous shall be blessed.
 Glory and wealth shall be in his house: * and his justice remaineth for ever and ever.

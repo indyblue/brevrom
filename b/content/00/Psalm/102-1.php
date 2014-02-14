@@ -1,4 +1,4 @@
-Ps 102 i. Bénedic, ánima mea
+Psalmus 102 i
 Bénedic, ánima mea, Dómino: * et ómnia, quæ intra me sunt, nómini sancto ejus.
 Bénedic, ánima mea, Dómino: * et noli oblivísci omnes retributiónes ejus.
 Qui propitiátur ómnibus iniquitátibus tuis: * qui sanat omnes infirmitátes tuas.

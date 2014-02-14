@@ -1,4 +1,4 @@
-Psalmus 21 iii. Qui timétis Dóminum
+Psalm 21 iii
 Ye that fear the Lord, praise him: * all ye the seed of Jacob, glorify him.
 Let all the seed of Israel fear him: * because he hath not slighted nor despised the supplication of the poor man.
 Neither hath he turned away his face from me: * and when I cried to him he heard me.

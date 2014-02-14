@@ -1,4 +1,4 @@
-Psalmus 40. Beátus qui intélligit
+Psalm 40
 Blessed is he that understandeth concerning the needy and the poor: * the Lord will deliver him in the evil day.
 The Lord preserve him and give him life, and make him blessed upon the earth: * and deliver him not up to the will of his enemies.
 The Lord help him on his bed of sorrow: * thou hast turned all his couch in his sickness.

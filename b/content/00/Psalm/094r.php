@@ -1,4 +1,4 @@
-Ps 94. Veníte, exsultémus Dómino
+Psalmus 94
 <sr>Dicitur conveniens Invitatorium, quod ante Psalmum bis integrum recitatur.</s>
 Veníte, exsultémus Dómino, jubilémus Deo, salutári nostro: præoccupémus fáciem ejus in confessióne, et in psalmis jubilémus ei.
 <sr>Repetitur integrum Invitatorium.</s>

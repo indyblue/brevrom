@@ -1,7 +1,7 @@
 <?php
 
 function img($fname='separator4.tif', $pct='33') {
-	$dir = "/www/b/Images/";
+	$dir = $_GET['root'] . "/../Images/";
 	$tmp = getimagesize($dir . $fname);
 	if($tmp[0]==0)
 		trigger_error('File '. $fname .' does not appear to be an image. Width returned 0.', E_USER_ERROR);

@@ -1,4 +1,4 @@
-Psalmus 104 i. Confitémini Dómino
+Psalm 104 i
 Give glory to the Lord, and call upon his name: * declare his deeds among the Gentiles.
 Sing to him, yea sing praises to him: * relate all his wondrous works.
 Glory ye in his holy name: * let the heart of them rejoice that seek the Lord.

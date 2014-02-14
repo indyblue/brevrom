@@ -20,7 +20,7 @@
 //2 - '(P.T. Alleluia)' added
 
 function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
-	$dir = "/www/b/content/00/Antiphon/";
+	$dir = $_GET['root'] . "/00/Antiphon/";
 
 	$Lpieces = file_load($dir.$file);
 	$Epieces = file_load($dir.E($file));

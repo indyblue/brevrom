@@ -1,4 +1,4 @@
-Psalmus 18 i. Cæli enárrant
+Psalm 18 i
 The heavens shew forth the glory of God, * and the firmament declareth the work of his hands.
 Day to day uttereth speech, * and night to night sheweth knowledge.
 There are no speeches nor languages, * where their voices are not heard.

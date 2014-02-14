@@ -1,4 +1,4 @@
-Psalmus 37 i. Dómine, ne in furóre
+Psalm 37 i
 Rebuke me not, O Lord, in thy indignation; * nor chastise me in thy wrath.
 For thy arrows are fastened in me: * and thy hand hath been strong upon me.
 There is no health in my flesh, because of thy wrath: * there is no peace for my bones, because of my sins.

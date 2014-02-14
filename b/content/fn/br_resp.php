@@ -6,7 +6,7 @@
 // 10 - standard (or PT) long notation
 // 11 - long notation, no Gloria
 function brS($file,$PT=0,$style=0,$requiem=0) {
-	$dir = "/www/b/content/00/VR/";
+	$dir = $_GET['root'] . "/00/VR/";
 
 	$Lpieces = file_load($dir.$file);
 	$Epieces = file_load($dir.E($file));
@@ -108,7 +108,7 @@ function brS($file,$PT=0,$style=0,$requiem=0) {
 }
 
 function rm($file,$PT=0,$short=0,$requiem=0) {
-	$dir = "/www/b/content/00/VR/";
+	$dir = $_GET['root'] . "/00/VR/";
 
 	$Lpieces = file_load($dir.$file);
 	$Epieces = file_load($dir.E($file));
@@ -194,8 +194,7 @@ function rm($file,$PT=0,$short=0,$requiem=0) {
 
 	if($short==3) {
 		// special case for Little Office of BVM:
-		rubp('Quando dicitur <snr>Te Deum</s>, assumitur in fine hujus Responsorii:',
-			'When the <snr>Te Deum</s> is said, at the end of the Responsory is added:');
+		rubp('Quando dicitur <snr>Te Deum</s>, assumitur in fine hujus Responsorii:', 'When the <snr>Te Deum</s> is said, at the end of the Responsory is added:');
 		echo '   <table>
    <tr><td:A1>
 <p:BodyL>'. $vr1 . $Lgl .' '. style_first_letter(trimP($L1[2]),'s:BoldR') .'.</p>
@@ -210,20 +209,20 @@ function rm($file,$PT=0,$short=0,$requiem=0) {
 function br_divide($pieces,$PT) {
 	$first = first_word($pieces[0],4,1);
 	$second = first_word($pieces[1],4,1);
+	// PT = 1: no astrisk is needed...the split is at the Alleluia's
 	if(!$PT) {
 		$ret = array_map('trim',explode('*',$first[1]));
 		if(count($ret)<2)
 			trigger_error('BrResp error, the line "'. $pieces[0] .'" does not have an astrisk.', E_USER_ERROR);
 	
 		array_unshift($ret,$first[0]);
-		$ret[2] = style_first_letter($ret[2],1);
+		for($i=2;$i<count($ret);$i++) {
+			$ret[$i] = style_first_letter($ret[$i],1);
+		}
 		// mb_substr(mb_strtoupper($ret[2]),0,1) . mb_substr($ret[2],1);
 	} else
 		$ret = array($first[0],$first[1],'');
 
-	for($i=0;$i<count($ret);$i++) {
-		$ret[$i] = style_first_letter($ret[$i],1);
-	}
 	
 	if($first[0] == $second[0]) {
 		$split = mb_split('\s',$ret[1],2);

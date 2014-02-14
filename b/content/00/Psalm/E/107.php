@@ -1,4 +1,4 @@
-Psalmus 107. Parátum cor meum
+Psalm 107
 My heart is ready, O God, my heart is ready: * I will sing, and will give praise, with my glory.
 Arise, my glory; arise, psaltery and harp: * I will arise in the morning early.
 I will praise thee, O Lord, among the people: * and I will sing unto thee among the nations.

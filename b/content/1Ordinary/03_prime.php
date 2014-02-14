@@ -2,8 +2,7 @@
 	img();
 	bookmark('orPrime');
 	hour('P','O');
-	rubp('<snr>19</s> Prima absolute incipitur versu:',
-		'<snr>19</s> Prime always begins with this verse:');
+	rubp('<snr>19</s> Prima absolute incipitur versu:', '<snr>19</s> Prime always begins with this verse:');
 	vr('deus_in_adjutorium.php');
 
 	rubp('<snr>20</s> De hymno','<snr>20</s> The hymn',1);
@@ -12,25 +11,22 @@
 	head('De antiphona et psalmis','The antiphon and psalms',2);
 	rubp('<snr>21</s> Expleto hymno, conveniens dicitur antiphona, prouti Officium occurrens requirit; et sub unica antiphona dicuntur tres psalmi.',
 		'<snr>21</s> After the hymn, say the proper antiphon, according to the Office of the day; and under this one antiphon recite all three psalms.');
-	rubp('','The Psalms and Antiphon, unless proper, are given in the Psalter:
-Sunday (<snr>p. '. bkref('psDP') .'</s>) 
-Monday (<snr>'. bkref('ps2P') .'</s>) 
-Tuesday (<snr>'. bkref('ps3P') .'</s>) 
-Wednesday (<snr>'. bkref('ps4P') .'</s>) 
-Thursday (<snr>'. bkref('ps5P') .'</s>) 
-Friday (<snr>'. bkref('ps6P') .'</s>) 
-Saturday (<snr>'. bkref('psSP') .'</s>).');
+	rubp('','The Psalms and Antiphon, unless proper, are given in the Psalter: 
+		Sunday (<snr>p. '. bkref('psDP') .'</s>) 
+		Monday (<snr>'. bkref('ps2P') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3P') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4P') .'</s>) 
+		Thursday (<snr>'. bkref('ps5P') .'</s>) 
+		Friday (<snr>'. bkref('ps6P') .'</s>) 
+		Saturday (<snr>'. bkref('psSP') .'</s>).');
 
 	head('De capitulo et responorio brevi','The little chapter and brief response',2);
-	rubp('<snr>22</s> Repetita post ultimum psalmum antiphona, semper dicitur sequens:',
-		'<snr>22</s> After the antiphon is repeated after the last psalm, always say the following:');
+	rubp('<snr>22</s> Repetita post ultimum psalmum antiphona, semper dicitur sequens:', '<snr>22</s> After the antiphon is repeated after the last psalm, always say the following:');
 	bookmark('1tim1_17');
 	lc('1tim1_17.php');
 
-	rubp('<snr>23</s> Deinde subjungitur responsorium breve, ut sequitur.',
-		'<snr>23</s> Then the brief response is added, as follows.');
-	rubp('Versus tamen <snr>Qui sedes ad déxteram Patris</s> mutatur in iis Officiis et anni temporibus, pro quibus proprius assignatur.',
-		'The verse <snr>Qui sedes ad déxteram Patris</s> changes according to the Office and season, as specified in the propers.');
+	rubp('<snr>23</s> Deinde subjungitur responsorium breve, ut sequitur.', '<snr>23</s> Then the brief response is added, as follows.');
+	rubp('Versus tamen <snr>Qui sedes ad déxteram Patris</s> mutatur in iis Officiis et anni temporibus, pro quibus proprius assignatur.', 'The verse <snr>Qui sedes ad déxteram Patris</s> changes according to the Office and season, as specified in the propers.');
 
 	rubrics('head/PTnot.php');
 	brS('Ord/christe_fili_dei_vivi_miserere_nobis.php',0,10);
@@ -44,8 +40,7 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	PrV('qui_apparuisti_hodie.php',1);
 
 	space();
-	rubp('Tempore Passionis, in Officio dominicali et feriali, omittitur in responsorio brevi <snr>Glória Patri</s>, et hujus loco repetitur responsorium, ut sequitur:',
-		'In Passiontide, in the Sunday and ferial office, omit the <snr>Glória Patri</s> in the brief response, and in its place the response is repeated as follows:');
+	rubp('Tempore Passionis, in Officio dominicali et feriali, omittitur in responsorio brevi <snr>Glória Patri</s>, et hujus loco repetitur responsorium, ut sequitur:', 'In Passiontide, in the Sunday and ferial office, omit the <snr>Glória Patri</s> in the brief response, and in its place the response is repeated as follows:');
 	brS('Ord/christe_fili_dei_vivi_miserere_nobis.php',0,11);
 	vrS('Ord/exsurge_christe_adjuva_nos.php');
 
@@ -59,12 +54,10 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	rubp('','In the Octave of Pentecost:');
 	PrV('qui_sedes_ad_dexteram_patris.php',1);
 	space();
-	rubp('<snr>¶</s> Hoc modo dicuntur semper responsoria brevia, etiam ad Tertiam, Sextam, Nonam et Completorium.',
-		'<snr>¶</s> This method of recitation is used in all brief responses, likewise at Terce, Sext, None and Compline.');
+	rubp('<snr>¶</s> Hoc modo dicuntur semper responsoria brevia, etiam ad Tertiam, Sextam, Nonam et Completorium.', '<snr>¶</s> This method of recitation is used in all brief responses, likewise at Terce, Sext, None and Compline.');
 
 	head('De oratione','The Collect',2);
-	rubp('<snr>24</s> Post responsorium breve cum suo versu statim dicitur:',
-		'<snr>24</s> After the brief response the following is said immediately:');
+	rubp('<snr>24</s> Post responsorium breve cum suo versu statim dicitur:', '<snr>24</s> After the brief response the following is said immediately:');
 	vr('dv_de.php');
 	vr('oremus.php');
 	prayer('Ord/prime01.php',1);
@@ -73,17 +66,14 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	vrS('benedicamus_domino.php');
 
 	head('De lectione Martyrologii','The reading of the Martyrology',2);
-	rubp('<snr>25</s> Deinde, in choro, legitur Martyrologium, quod convenienter fit etiam extra chorum.',
-		'<snr>25</s> Then, in choir, the Martyrology is read, and also when convenient out of choir.');
+	rubp('<snr>25</s> Deinde, in choro, legitur Martyrologium, quod convenienter fit etiam extra chorum.', '<snr>25</s> Then, in choir, the Martyrology is read, and also when convenient out of choir.');
 	rubp('Postea hebdomadarius dicit:','Then the Officiant says:');
 	vrS('Ord/pretiosa_in_conspectu_domini.php');
-	rubp('Et absolute, sine <snr>Orémus</s>:',
-		'And then, without <snr>Orémus</s>, is said:',1);
+	rubp('Et absolute, sine <snr>Orémus</s>:', 'And then, without <snr>Orémus</s>, is said:',1);
 	prayer('Ord/prime02.php',1);
 	
 	head('De Officio Capituli','The Office of the Chapter',2);
-	rubp('<snr>26</s> Expleta lectione Martrologii cum versu et oratione subsequenti, Prima sic prosequitur:',
-		'<snr>26</s> After the reading of the Martyrology with the subsequent verse and prayer, Prime continues as follows:');
+	rubp('<snr>26</s> Expleta lectione Martyrologii cum versu et oratione subsequenti, Prima sic prosequitur:', '<snr>26</s> After the reading of the Martyrology with the subsequent verse and prayer, Prime continues as follows:');
 	vrS('Ord/deus_in_adjutorium_meum_intende.php');
 	rubp('Et dicitur ter; ultimo additur:',
 		'Which is said thrice, then followed by:');
@@ -96,8 +86,7 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	prayer('Ord/prime03.php',1);
 
 	head('De lectione brevi','The brief lesson',2);
-	rubp('<snr>27</s> Deinde dicitur lectio brevis, ad absolutionem Capituli, juxta diversitatem temporum.',
-		'<snr>27</s> Then is said the brief lesson, at the end of the Chapter, according to the season.');
+	rubp('<snr>27</s> Deinde dicitur lectio brevis, ad absolutionem Capituli, juxta diversitatem temporum.', '<snr>27</s> Then is said the brief lesson, at the end of the Chapter, according to the season.');
 	rubp('Præmittitur:','First is said:');
 	vr('jube_domine.php');
 	rubp('','<snr>¶</s> In recitation alone, or when a Priest or Deacon is not present, <snr>Dómine</s> is said in place of <snr>domne</s>.');
@@ -113,8 +102,7 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	lc('2thess3_5.php',0,3,'All other times:');
 
 	head('De conclusione Primæ','The conclusion of Prime',2);
-	rubp('<snr>28</s> Ac deinde subditur:',
-		'<snr>28</s> And then is said:');
+	rubp('<snr>28</s> Ac deinde subditur:', '<snr>28</s> And then is said:');
 	vrS('Ord/adjutorium+nostrum_in_nomine_domini.php');
 	vrS('Ord/benedicite.php');
 	vr('prime_bened.php');

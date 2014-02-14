@@ -1,4 +1,4 @@
-Psalmus 110. Confitébor
+Psalm 110
 I will praise thee, O Lord, with my whole heart; * in the council of the just, and in the congregation.
 Great are the works of the Lord: * sought out according to all his wills.
 His work is praise and magnificence: * and his justice continueth for ever and ever.

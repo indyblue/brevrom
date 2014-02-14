@@ -1,4 +1,4 @@
-Psalmus 77 ii. Fílii Ephrem
+Psalm 77 ii
 The sons of Ephraim who bend and shoot with the bow: * they have turned back in the day of battle.
 They kept not the covenant of God: * and in his law they would not walk.
 And they forgot his benefits, * and his wonders that he had shewn them.

@@ -1,4 +1,4 @@
-Ps 34 ii. Surgéntes testes iníqui
+Psalmus 34 ii
 Surgéntes testes iníqui, * quæ ignorábam interrogábant me.
 Retribuébant mihi mala pro bonis: * sterilitátem ánimæ meæ.
 Ego autem cum mihi molésti essent, * induébar cilício.

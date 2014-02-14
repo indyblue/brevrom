@@ -1,4 +1,4 @@
-Psalmus 9 i. Confitébor tibi
+Psalm 9 i
 I will give praise to thee, O Lord, with my whole heart: * I will relate all thy wonders.
 I will be glad and rejoice in thee: * I will sing to thy name, O thou most high.
 When my enemy shall be turned back: * they shall be weakened and perish before thy face.

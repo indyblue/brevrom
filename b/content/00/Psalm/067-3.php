@@ -1,4 +1,4 @@
-Ps 67 iii. Vidérunt ingréssus
+Psalmus 67 iii
 Vidérunt ingréssus tuos, Deus: * ingréssus Dei mei: regis mei qui est in sancto.
 Prævenérunt príncipes conjúncti psalléntibus: * in médio juvenculárum tympanistriárum.
 In ecclésiis benedícite Deo Dómino, * de fóntibus Israël.

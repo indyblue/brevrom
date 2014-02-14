@@ -7,7 +7,7 @@ Nobis refert Venántius
 Lucis beátæ múnera.
 
 Nam críminum calíginem
-Stygisque noctem dépulit,
+Stygísque noctem dépulit,
 Veróque cives lúmine
 Divinitátis ímbuit.
 

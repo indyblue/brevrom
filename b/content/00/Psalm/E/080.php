@@ -1,4 +1,4 @@
-Psalmus 80. Exsultáte Deo
+Psalm 80
 Rejoice to God our helper: * sing aloud to the God of Jacob.
 Take a psalm, and bring hither the timbrel: * the pleasant psaltery with the harp.
 Blow up the trumpet on the new moon, * on the noted day of your solemnity.

@@ -1,4 +1,4 @@
-Ps 138 i. Dómine, probásti
+Psalmus 138 i
 Dómine, probásti me, et cognovísti me: *‡ tu cognovísti sessiónem meam, et resurrectiónem meam.
 Intellexísti cogitatiónes meas de longe: * sémitam meam, et funículum meum investigásti.
 Et omnes vias meas prævidísti: * quia non est sermo in lingua mea.

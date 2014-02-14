@@ -1,4 +1,4 @@
-Ps 11. Salvum me fac
+Psalmus 11
 Salvum me fac, Dómine, quóniam defécit sanctus: * quóniam diminútæ sunt veritátes a fíliis hóminum.
 Vana locúti sunt unusquísque ad próximum suum: * lábia dolósa, in corde et corde locúti sunt.
 Dispérdat Dóminus univérsa lábia dolósa, * et linguam magníloquam.

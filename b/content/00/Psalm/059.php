@@ -1,4 +1,4 @@
-Ps 59. Deus, repulísti nos
+Psalmus 59
 Deus, repulísti nos, et destruxísti nos: * irátus es, et misértus es nobis.
 Commovísti terram, et conturbásti eam: * sana contritiónes ejus, quia commóta est.
 Ostendísti pópulo tuo dura: * potásti nos vino compunctiónis.

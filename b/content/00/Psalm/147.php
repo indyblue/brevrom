@@ -1,4 +1,4 @@
-Ps 147. Lauda, Jerúsalem
+Psalmus 147
 Lauda, Jerúsalem, Dóminum: *‡ lauda Deum tuum, Sion.
 Quóniam confortávit seras portárum tuárum: * benedíxit fíliis tuis in te.
 Qui pósuit fines tuos pacem: * et ádipe fruménti sátiat te.

@@ -1,4 +1,4 @@
-Psalmus 39 i. Exspéctans exspectávi
+Psalm 39 i
 With expectation I have waited for the Lord, * and he was attentive to me.
 And he heard my prayers, * and brought me out of the pit of misery and the mire of dregs.
 And he set my feet upon a rock, * and directed my steps.

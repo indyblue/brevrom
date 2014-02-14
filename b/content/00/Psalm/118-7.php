@@ -1,4 +1,4 @@
-Ps 118 vii. Quómodo diléxi
+Psalmus 118 vii
 ~Mem
 Quómodo diléxi legem tuam, Dómine? * tota die meditátio mea est.
 Super inimícos meos prudéntem me fecísti mandáto tuo: * quia in ætérnum mihi est.

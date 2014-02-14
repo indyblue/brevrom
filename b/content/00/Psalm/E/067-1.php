@@ -1,4 +1,4 @@
-Psalmus 67 i. Exsúrgat Deus
+Psalm 67 i
 Let God arise, and let his enemies be scattered: *‡ and let them that hate him flee from before his face.
 As smoke vanisheth, so let them vanish away: * as wax melteth before the fire, so let the wicked perish at the presence of God.
 And let the just feast, and rejoice before God: * and be delighted with gladness.

@@ -1,4 +1,4 @@
-Ps 118 iii. Legem pone
+Psalmus 118 iii
 ~He
 Legem pone mihi, Dómine, viam justificatiónum tuárum: * et exquíram eam semper.
 Da mihi intelléctum, et scrutábor legem tuam: * et custódiam illam in toto corde meo.

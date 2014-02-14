@@ -1,4 +1,4 @@
-Ps 120. Levávi óculos
+Psalmus 120
 Levávi óculos meos in montes, * unde véniet auxílium mihi.
 Auxílium meum a Dómino, * qui fecit cælum et terram.
 Non det in commotiónem pedem tuum: * neque dormítet qui custódit te.

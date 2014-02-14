@@ -1,4 +1,4 @@
-Ps 34 i. Júdica, Dómine
+Psalmus 34 i
 Júdica, Dómine, nocéntes me, * expúgna impugnántes me.
 Apprehénde arma et scutum: * et exsúrge in adjutórium mihi.
 Effúnde frámeam, et conclúde advérsus eos, qui persequúntur me: * dic ánimæ meæ: Salus tua ego sum.

@@ -1,6 +1,6 @@
 <?php
 function prayer($file, $nameL='', $nameE='') {
-	$dir = "/www/b/content/00/Prayer/";
+	$dir = $_GET['root'] . "/00/Prayer/";
 
 	$Lpieces = file_load($dir.$file);
 	$Epieces = file_load($dir.E($file));
@@ -11,6 +11,30 @@ function prayer($file, $nameL='', $nameE='') {
 	$amen = '';
 	if($nameL===1) {
 		$nameL = '';
+		$amen = '<t> <s:VR>R.</s> Amen.';
+	} elseif($nameL===2) {
+		$nameL = '';
+/*
+		$ejusdem = '';
+		$ArrayLS = Array(
+			'/Per Dóminum\.\.\.in unitáte ejúsdem Spíritus Sancti\./',
+			'/Per Dóminum\./',
+			'/Per eúmdem Dóminum\./',
+			'/Qui tecum vivit\./',
+			'/Qui vivis\./');
+		$ArrayLL = Array(
+			'Per Dóminum nostrum, Jesum Christum, Fílium tuum, qui tecum vivit et regnat, in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum.',
+			'Per Dóminum nostrum, Jesum Christum, Fílium tuum, qui tecum vivit et regnat, in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.',
+			'Per eúmdem Dóminum nostrum, Jesum Christum, Fílium tuum, qui tecum vivit et regnat, in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.',
+			'Qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus per ómnia sǽcula sæculórum.',
+			'Qui vivis et regnas cum Deo Patre, in unitáte Spíritus Sancti Deus, per ómnia sǽcula sæculórum.');
+		$L = preg_replace($regex,$repl,$txtContent);
+		// Through our Lord.
+		// Through our Lord...in the unity of the same Holy Spirit.
+		// Through the same.
+		// Who livest.
+		// Who liveth.
+*/
 		$amen = '<t> <s:VR>R.</s> Amen.';
 	}
 

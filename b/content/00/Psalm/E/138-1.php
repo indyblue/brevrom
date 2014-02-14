@@ -1,4 +1,4 @@
-Psalmus 138 i. Dómine, probásti
+Psalm 138 i
 Lord, thou hast proved me, and known me: *‡ thou hast known my sitting down, and my rising up.
 Thou hast understood my thoughts afar off: * my path and my line thou hast searched out.
 And thou hast foreseen all my ways: * for there is no speech in my tongue.

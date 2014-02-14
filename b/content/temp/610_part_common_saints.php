@@ -6,7 +6,7 @@ echo ($_GET['L']==1?'Commune Sanctorum':'Common of Saints')
 ?></p>
    <p:Spacer/>
 <?php
-$dir = '/www/b/content/6ComS';
+$dir = $_GET['root'] . '/6ComS';
 
 require $dir .'/610_Apostles.php';
 require $dir .'/612_ApostlesPT.php';

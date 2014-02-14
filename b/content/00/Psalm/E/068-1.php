@@ -1,4 +1,4 @@
-Psalmus 68 i. Salvum me fac
+Psalm 68 i
 Save me, O God: * for the waters are come in even unto my soul.‡
 I stick fast in the mire of the deep: * and there is no sure standing. 
 I am come into the depth of the sea: * and a tempest hath overwhelmed me. 

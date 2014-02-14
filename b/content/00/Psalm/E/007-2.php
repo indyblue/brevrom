@@ -1,4 +1,4 @@
-Psalmus 7 ii. Justum adjutórium
+Psalm 7 ii
 Just is my help from the Lord, * who saveth the upright of heart.
 God is a just judge, strong and patient: * is he angry every day?
 Except you will be converted, he will brandish his sword: * he hath bent his bow, and made it ready.

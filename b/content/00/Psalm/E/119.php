@@ -1,4 +1,4 @@
-Psalmus 119. Ad Dóminum
+Psalm 119
 In my trouble I cried to the Lord: * and he heard me.
 O Lord, deliver my soul from wicked lips, * and a deceitful tongue.
 What shall be given to thee, or what shall be added to thee, * to a deceitful tongue?

@@ -1,4 +1,4 @@
-Psalmus 118 viii. Iníquos ódio hábui
+Psalm 118 viii
 ~Samech
 I have hated the unjust: * and have loved thy law.
 Thou art my helper and my protector: * and in thy word I have greatly hoped.

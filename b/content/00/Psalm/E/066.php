@@ -1,4 +1,4 @@
-Psalmus 66. Deus, misereátur nostri
+Psalm 66
 May God have mercy on us, and bless us: *‡ may he cause the light of his countenance to shine upon us, and may he have mercy on us.
 That we may know thy way upon earth: * thy salvation in all nations.
 Let people confess to thee, O God: * let all people give praise to thee.

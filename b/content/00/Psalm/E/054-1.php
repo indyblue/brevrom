@@ -1,4 +1,4 @@
-Psalmus 54 i. Exáudi, Deus
+Psalm 54 i
 Hear, O God, my prayer, and despise not my supplication: * be attentive to me and hear me.
 I am grieved in my exercise; * and am troubled, at the voice of the enemy, and at the tribulation of the sinner.
 For they have cast iniquities upon me; * and in wrath they were troublesome to me.

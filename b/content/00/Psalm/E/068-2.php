@@ -1,4 +1,4 @@
-Psalmus 68 ii. In multitúdine
+Psalm 68 ii
 In the multitude of thy mercy hear me, * in the truth of thy salvation.
 Draw me out of the mire, that I may not stick fast: * deliver me from them that hate me, and out of the deep waters.
 Let not the tempest of water drown me, nor the deep swallow me up: * and let not the pit shut her mouth upon me.

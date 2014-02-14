@@ -1,4 +1,4 @@
-Ps 9 i. Confitébor tibi
+Psalmus 9 i
 Confitébor tibi, Dómine, in toto corde meo: * narrábo ómnia mirabília tua.
 Lætábor et exsultábo in te: * psallam nómini tuo, Altíssime.
 In converténdo inimícum meum retrórsum: * infirmabúntur, et períbunt a fácie tua.

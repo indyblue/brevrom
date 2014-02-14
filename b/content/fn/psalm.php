@@ -2,25 +2,34 @@
 mb_internal_encoding("UTF-8");
 
 function canticle($num, $part=0, $cross=0) {
-	psalm($num, $part, $cross, "/www/b/content/00/Canticle/",'Cant');
+	psalm($num, $part, $cross, $_GET['root'] . "/00/Canticle/",'2Cant');
 }
 
 function reading($num, $drop=1, $style2=1) {
-	psalm($num, 0, 0, "/www/b/content/00/Canticle/",'',0,$drop,$style2);
+	psalm($num, 0, 0, $_GET['root'] . "/00/Canticle/",2,0,$drop,$style2);
 }
 
-function psref($num, $parts=0, $dir = "/www/b/content/00/Psalm/") {
+function psref($num, $parts=0, $dir = false) {
+	if(!$dir) $dir = $_GET['root'] . "/00/Psalm/";
 
 	$fname = sprintf("%03s",$num) . ($parts>0?'-1':'') . '.php';
 	$Lpieces = file_load($dir.$fname);
 
-	$pt = '';
-	if($parts==2) $pt = ' (Parts i &amp; ii)';
-	if($parts==3) $pt = ' (Parts i, ii &amp; iii)';
+	$ptL = '';
+	$ptE = '';
+	if($parts==2) {
+		$ptL = ' (Pars i &amp; ii)';
+		$ptE = ' (Parts i &amp; ii)';
+	} elseif($parts==3) {
+		$ptL = ' (Pars i, ii &amp; iii)';
+		$ptE = ' (Parts i, ii &amp; iii)';
+	}
 
 	$title = str_replace(' i.','.',$Lpieces[0]);
-	head('',$title .', p. ' . bkref('Ps' . $num) . $pt,2);
-
+	rubp(
+		$title .', p. ' . bkref('Ps' . $num) . $ptL,
+		$title .', p. ' . bkref('Ps' . $num) . $ptE,1);
+	space('Spacer');
 }
 
 // $comm
@@ -33,7 +42,8 @@ function psref($num, $parts=0, $dir = "/www/b/content/00/Psalm/") {
 //   1 - bolded first letter
 //   2 - indent
 //   10 = plain with V/R recognition
-function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index='Ps', $comm=0, $drop=1, $style2=1) {
+function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $drop=1, $style2=1) {
+	if(!$dir) $dir = $_GET['root'] . "/00/Psalm/";
 	
 	if($comm==0 && isset($_GET['comm']) && $_GET['comm']>0) $comm=$_GET['comm'];
 
@@ -132,9 +142,12 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 	// this actually starts generating the xml text,
 	// beginning with the header.
 	if(strlen($Lpieces[0])>0) {
-		if($part==0) 
-			$Lpieces[0] = str_replace(' i.','.',$Lpieces[0]);
-		echo '<p:Head2'. $index .'>'. $Lpieces[0] . "</p>\n";
+		if($part==0) {
+			$Lpieces[0] = str_replace(' i','',$Lpieces[0]);
+			$Epieces[0] = str_replace(' i','',$Epieces[0]);
+		}
+		head($Lpieces[0],$Epieces[0],$index);
+		//echo '<p:Head2'. $index .'>'. $Lpieces[0] . "</p>\n";
 	}
 
 	// if this is the first (or only) part of the psalm
@@ -229,7 +242,7 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 // OLD FUNCTION
 /*
 function psalm($file, $part=0, $cross=0) {
-	$dir = "/www/b/content/00/Psalm/old/";
+	$dir = $_GET['root'] . "/00/Psalm/old/";
 		require $dir.$file;
 }
  */

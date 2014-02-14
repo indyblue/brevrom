@@ -124,7 +124,7 @@
 
 	bookmark('csBVMS');
 	hour('S');
-	lc('ecclus24_15.php');
+	lc('ecclus24_15-16.php');
 	rubrics('head/PTnot.php');
 	brS('adjuvabit_eam_deus_vultu_suo.php');
 	vrS('elegit_eam_deus_et_praeelegit_eam.php');

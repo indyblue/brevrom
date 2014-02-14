@@ -1,4 +1,4 @@
-Psalmus 70 i. In te, Dómine, sperávi
+Psalm 70 i
 In thee, O Lord, I have hoped, let me never be put to confusion: * deliver me in thy justice, and rescue me.
 Incline thy ear unto me, * and save me.
 Be thou unto me a God, a protector, and a place of strength: * that thou mayst make me safe.

@@ -1,4 +1,4 @@
-Psalmus 35. Dixit injústus
+Psalm 35
 The unjust hath said within himself, that he would sin: * there is no fear of God before his eyes.
 For in his sight he hath done deceitfully, * that his iniquity may be found unto hatred.
 The words of his mouth are iniquity and guile: * he would not understand that he might do well.

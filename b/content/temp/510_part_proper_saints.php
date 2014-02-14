@@ -6,7 +6,7 @@ echo ($_GET['L']==1?'Proprium Sanctorum':'Proper of Saints')
 ?></p>
    <p:P181/>
 <?php 
-$dir = '/www/b/content/5PropS';
+$dir = $_GET['root'] . '/5PropS';
 
 // require $dir .'/00_11_November.php';
 // require $dir .'/00_12_December.php';

@@ -1,4 +1,4 @@
-Psalmus 65 ii. Introíbo in domum
+Psalm 65 ii
 I will go into thy house with burnt offerings: * I will pay thee my vows, which my lips have uttered,
 And my mouth hath spoken, * when I was in trouble.
 I will offer up to thee holocausts full of marrow, with burnt offerings of rams: * I will offer to thee bullocks with goats.

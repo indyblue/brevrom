@@ -11,18 +11,15 @@
 
 	rubp('Dicitur in choro in die depositionis et aliis diebus pro temporis opportunitate et ecclesiarum consuetudine: Matutinum cum Laudibus post Laudes diei; Vesperæ post Vesperas diei, immediate post versum <snr>Benedicámus Dómino,</s> et <snr>Deo grátias</s>.',
 		'This Office is said in choir on the day of burial and at other times when convenient and according to custom. Matins and Lauds are said after Lauds of the day, and Vespers after Vespers of the day, immediately after the versicle: <snr>Benedicámus Dómino,</s> and <snr>Deo grátias</s>.',1);
-	rubp('In fine vero omnium psalmorum semper dicitur:',
-		'At the end of all the psalms, in place of the <snr>Glória Patri</s>, there is always said:',1);
+	rubp('In fine vero omnium psalmorum semper dicitur:', 'At the end of all the psalms, in place of the <snr>Glória Patri</s>, there is always said:',1);
 	reading('vr/requiem_aeternam.php',0);
-	rubp('Etiam si pro uno tantum fiat Officium.',
-		'Said in the plural, even when the Office is recited for one only.',1);
+	rubp('Etiam si pro uno tantum fiat Officium.', 'Said in the plural, even when the Office is recited for one only.',1);
 	space();
 
 	hour('M');
 	hidden('Matins',2);
 	bookmark('offDefM');
-	rubp('',
-		'Matins begins immediatly with the invitatory.');
+	rubp('', 'Matins begins immediately with the invitatory.');
 	ant('regem_cui_omnia_vivunt_venite_adoremus.php','I');
 	if($long==0) {
 		rubrics('asIn.php','Ps94','Ordinary of Matins','The invitatory is said with Psalm 94,'); 
@@ -183,8 +180,7 @@
 	hour('L');
 	hidden('Lauds',2);
 	bookmark('offDefL');
-	rubp('Absolute incipiuntur ab',
-		'Begins at once with',1);
+	rubp('Absolute incipiuntur ab', 'Begins at once with',1);
 	ant('offDefL.php','20000');
 	psalm('050.php');
 	reading('vr/requiem_aeternam.php',0);
@@ -249,20 +245,15 @@
 	head('Pro defuncto Episcopo','For a deceased Bishop',-4);
 	prayer('offDef/bishop.php');
 	space();
-	rubp('Pro Episcopo Cardinali defuncto dicatur: <snr>fámulum tuum</s> N. <snr>Epíscopum Cardinálem pontificáli fecísti dignitáte...</s>',
-		'For a deceased Cardinal Bishop say instead: <snr>thy servant Cardinal Bishop</s> N. <snr>to the dignity...</s>)',1);
+	rubp('Pro Episcopo Cardinali defuncto dicatur: <snr>fámulum tuum</s> N. <snr>Epíscopum Cardinálem pontificáli fecísti dignitáte...</s>', 'For a deceased Cardinal Bishop say instead: <snr>thy servant Cardinal Bishop</s> N. <snr>to the dignity...</s>)',1);
 	space();
-	rubp('Pro Presbytero Cardinali defuncto dicatur: <snr>fámulum tuum</s> N. <snr>Presbýterum Cardinálem pontificáli fecísti dignitáte...</s>',
-		'For a deceased Cardinal Priest say instead: <snr>thy servant Cardinal Priest</s> N. <snr>to the dignity...</s>)',1);
+	rubp('Pro Presbytero Cardinali defuncto dicatur: <snr>fámulum tuum</s> N. <snr>Presbýterum Cardinálem pontificáli fecísti dignitáte...</s>', 'For a deceased Cardinal Priest say instead: <snr>thy servant Cardinal Priest</s> N. <snr>to the dignity...</s>)',1);
 	space();
-	rubp('Pro Presbytero Cardinali, qui episcopali dignitate auctus non fuerit: <snr>fámulum tuum</s> N. <snr>Presbýterum Cardinálem sacerdotáli fecísti dignitáte...</s>',
-		'For a deceased Cardinal Priest, who has not been raised to the dignity of the episcopate: <snr>thy servant Cardinal Priest</s> N. <snr>to the dignity of the priesthood;...</s>)',1);
+	rubp('Pro Presbytero Cardinali, qui episcopali dignitate auctus non fuerit: <snr>fámulum tuum</s> N. <snr>Presbýterum Cardinálem sacerdotáli fecísti dignitáte...</s>', 'For a deceased Cardinal Priest, who has not been raised to the dignity of the episcopate: <snr>thy servant Cardinal Priest</s> N. <snr>to the dignity of the priesthood;...</s>)',1);
 	space();
-	rubp('Pro Diacono Cardinali: <snr>fámulum tuum</s> N. <snr>Diáconum Cardinálem sacerdotáli fecísti dignitáte...</s>',
-		'For a deceased Cardinal Deacon: <snr>thy servant Cardinal Priest</s> N. <snr>to the dignity of the priesthood;...</s>)',1);
+	rubp('Pro Diacono Cardinali: <snr>fámulum tuum</s> N. <snr>Diáconum Cardinálem sacerdotáli fecísti dignitáte...</s>', 'For a deceased Cardinal Deacon: <snr>thy servant Cardinal Priest</s> N. <snr>to the dignity of the priesthood;...</s>)',1);
 	space();
-	rubp('Pro defuncto Sacerdote: <snr>fámulum tuum</s> N. <snr>sacerdotáli fecísti dignitáte...</s>',
-		'For a deceased Priest: <snr>thy servant</s> N. <snr>to the dignity of the priesthood;...</s>)',1);
+	rubp('Pro defuncto Sacerdote: <snr>fámulum tuum</s> N. <snr>sacerdotáli fecísti dignitáte...</s>', 'For a deceased Priest: <snr>thy servant</s> N. <snr>to the dignity of the priesthood;...</s>)',1);
 	space();
 
 	head('Item alia oratio','Or',-4);
@@ -285,14 +276,11 @@
 	head('Pro patre et matre','For father and mother',-4);
 	prayer('offDef/parents2.php');
 	space();
-	rubp('Si Officium fit pro pluribus, dicatur: <snr>animábus paréntum nostrórum</s>, et ubi dícitur <snr>meque</s>, dicátur <snr>nosque</s>.',
-		'If the Office is for several parents, say: <snr>the souls of our parents</s>, and in place of <snr>me</s>, say <snr>us</s>.',1);
+	rubp('Si Officium fit pro pluribus, dicatur: <snr>animábus paréntum nostrórum</s>, et ubi dícitur <snr>meque</s>, dicátur <snr>nosque</s>.', 'If the Office is for several parents, say: <snr>the souls of our parents</s>, and in place of <snr>me</s>, say <snr>us</s>.',1);
 	space();
-	rubp('Si pro patre tantum, say: <snr>ánimæ patris mei</s>, vel <snr>nostri</s>.',
-		'If for a father only, say: <snr>the soul of my father</s>, or <snr>our father</s>.',1);
+	rubp('Si pro patre tantum, dicatur: <snr>ánimæ patris mei</s>, vel <snr>nostri</s>.', 'If for a father only, say: <snr>the soul of my father</s>, or <snr>our father</s>.',1);
 	space();
-	rubp('Si pro matre tantum, say: <snr>ánimæ matris meæ</s>, vel <snr>nostræ</s>.',
-		'If for a mother only, say: <snr>the soul of my mother</s>, or <snr>our mother</s>.',1);
+	rubp('Si pro matre tantum, dicatur: <snr>ánimæ matris meæ</s>, vel <snr>nostræ</s>.', 'If for a mother only, say: <snr>the soul of my mother</s>, or <snr>our mother</s>.',1);
 	space();
 
 	head('In Officio pro defunctis in genere',
@@ -303,8 +291,7 @@
 	hour('V');
 	hidden('Vespers',2);
 	bookmark('offDefV');
-	rubp('Absolute incipiuntur ab',
-		'Begins at once with',1);
+	rubp('Absolute incipiuntur ab', 'Begins at once with',1);
 	ant('offDefV.php','20000');
 	psalm('114.php');
 	reading('vr/requiem_aeternam.php',0);

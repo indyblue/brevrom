@@ -1,4 +1,4 @@
-Ps 135 ii. Qui percússit Ægýptum
+Psalmus 135 ii
 Qui percússit Ægýptum cum primogénitis eórum: * quóniam in ætérnum misericórdia ejus.
 Qui edúxit Israël de médio eórum: * quóniam in ætérnum misericórdia ejus.
 In manu poténti, et bráchio excélso: * quóniam in ætérnum misericórdia ejus.

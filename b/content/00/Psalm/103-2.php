@@ -1,4 +1,4 @@
-Ps 103 ii. Rigans montes
+Psalmus 103 ii
 Rigans montes de superióribus suis: * de fructu óperum tuórum satiábitur terra:
 Prodúcens fœnum juméntis, * et herbam servitúti hóminum:
 Ut edúcas panem de terra: * et vinum lætíficet cor hóminis:

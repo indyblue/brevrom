@@ -1,4 +1,4 @@
-Ps 138 ii. Confitébor tibi
+Psalmus 138 ii
 Confitébor tibi quia terribíliter magnificátus es: * mirabília ópera tua, et ánima mea cognóscit nimis.
 Non est occultátum os meum a te, quod fecísti in occúlto: * et substántia mea in inferióribus terræ.
 Imperféctum meum vidérunt óculi tui, et in libro tuo omnes scribéntur: * dies formabúntur, et nemo in eis.

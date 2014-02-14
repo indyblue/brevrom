@@ -1,6 +1,6 @@
 <?php
 function hymn2($file, $option=0) {
-	$dir = "/www/b/content/00/Hymn/";
+	$dir = $_GET['root'] . "/00/Hymn/";
 echo '<p:Head2>Hymn</p>';
 	require $dir.'0Hymn.php';
 echo '<p:BodySm/>';

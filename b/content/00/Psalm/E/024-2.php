@@ -1,4 +1,4 @@
-Psalmus 24 ii. Dulcis et rectus
+Psalm 24 ii
 The Lord is sweet and righteous: * therefore he will give a law to sinners in the way.
 He will guide the mild in judgment: * he will teach the meek his ways.
 All the ways of the Lord are mercy and truth, * to them that seek after his covenant and his testimonies.

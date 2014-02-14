@@ -1,4 +1,4 @@
-Ps 53. Deus, in nómine
+Psalmus 53
 Deus, in nómine tuo salvum me fac: * et in virtúte tua júdica me.
 Deus, exáudi oratiónem meam: * áuribus pércipe verba oris mei.
 Quóniam aliéni insurrexérunt advérsum me, et fortes quæsiérunt ánimam meam: * et non proposuérunt Deum ante conspéctum suum.

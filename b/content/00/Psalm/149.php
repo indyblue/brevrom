@@ -1,4 +1,4 @@
-Ps 149. Cantáte Dómino
+Psalmus 149
 Cantáte Dómino cánticum novum: * laus ejus in ecclésia sanctórum.
 Lætétur Israël in eo, qui fecit eum: * et fílii Sion exsúltent in rege suo.
 Laudent nomen ejus in choro: * in týmpano, et psaltério psallant ei:

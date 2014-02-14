@@ -1,4 +1,4 @@
-Ps 111. Beátus vir
+Psalmus 111
 Beátus vir, qui timet Dóminum: * in mandátis ejus volet nimis.
 Potens in terra erit semen ejus: * generátio rectórum benedicétur.
 Glória, et divítiæ in domo ejus: * et justítia ejus manet in sǽculum sǽculi.

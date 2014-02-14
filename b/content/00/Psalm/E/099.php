@@ -1,4 +1,4 @@
-Psalmus 99. Jubiláte
+Psalm 99
 Sing joyfully to God, all the earth: * serve ye the Lord with gladness.
 Come in before his presence * with exceeding great joy.
 Know ye that the Lord he is God: * he made us, and not we ourselves.

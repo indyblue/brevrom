@@ -1,4 +1,4 @@
-Psalmus 75 ii. Tu terríbilis es
+Psalm 75 ii
 Thou art terrible, and who shall resist thee? * from that time thy wrath.
 Thou hast caused judgment to be heard from heaven: * the earth trembled and was still,
 When God arose in judgment, * to save all the meek of the earth.

@@ -1,4 +1,4 @@
-Psalmus 118 ix. Mirabília
+Psalm 118 ix
 ~Phe
 Thy testimonies are wonderful: * therefore my soul hath sought them.
 The declaration of thy words giveth light: * and giveth understanding to little ones.

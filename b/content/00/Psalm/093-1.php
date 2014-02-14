@@ -1,4 +1,4 @@
-Ps 93 i. Deus ultiónum Dóminus
+Psalmus 93 i
 Deus ultiónum Dóminus: * Deus ultiónum líbere egit.
 Exaltáre, qui júdicas terram: * redde retributiónem supérbis.
 Úsquequo peccatóres, Dómine, * úsquequo peccatóres gloriabúntur:

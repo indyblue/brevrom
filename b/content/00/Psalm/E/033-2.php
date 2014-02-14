@@ -1,4 +1,4 @@
-Psalmus 33 ii. Veníte, fílii
+Psalm 33 ii
 Come, children, hearken to me: * I will teach you the fear of the Lord.
 Who is the man that desireth life: * who loveth to see good days?
 Keep thy tongue from evil, * and thy lips from speaking guile.

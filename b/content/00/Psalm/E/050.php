@@ -1,4 +1,4 @@
-Psalmus 50. Miserére
+Psalm 50
 Have mercy on me, O God, * according to thy great mercy.‡
 And according to the multitude of thy tender mercies * blot out my iniquity.
 Wash me yet more from my iniquity, * and cleanse me from my sin.

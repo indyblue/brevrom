@@ -1,4 +1,4 @@
-Ps 57. Si vere útique
+Psalmus 57
 Si vere útique justítiam loquímini: * recta judicáte, fílii hóminum.
 Étenim in corde iniquitátes operámini: * in terra injustítias manus vestræ concínnant.
 Alienáti sunt peccatóres a vulva, erravérunt ab útero: * locúti sunt falsa.

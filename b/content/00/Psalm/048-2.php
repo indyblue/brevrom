@@ -1,4 +1,4 @@
-Ps 48 ii. Hæc via illórum
+Psalmus 48 ii
 Hæc via illórum scándalum ipsis: * et póstea in ore suo complacébunt.
 Sicut oves in inférno pósiti sunt: * mors depáscet eos.
 Et dominabúntur eórum justi in matutíno: * et auxílium eórum veteráscet in inférno a glória eórum.

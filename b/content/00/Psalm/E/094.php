@@ -1,4 +1,4 @@
-Psalmus 94. Veníte, exsultémus Dómino
+Psalm 94
 <sr>The proper Invitatory is said, which is recited twice in its entirety before the Psalm.</s>
 Come let us praise the Lord with joy, let us joyfully sing to God our Saviour: let us come before his presence with thanksgiving, and make a joyful noise to him with psalms.
 <sr>Entire Invitatory is repeated.</s>

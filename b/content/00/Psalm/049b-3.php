@@ -1,4 +1,4 @@
-Ps 49 iii. Peccatóri autem
+Psalmus 49 iii
 Peccatóri autem dixit Deus: * Quare tu enárras justítias meas, et assúmis testaméntum meum per os tuum?
 Tu vero odísti disciplínam: * et projecísti sermónes meos retrórsum:
 Si vidébas furem, currébas cum eo: * et cum adúlteris portiónem tuam ponébas.

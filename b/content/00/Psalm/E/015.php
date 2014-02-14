@@ -1,4 +1,4 @@
-Psalmus 15. Consérva me, Dómine
+Psalm 15
 Preserve me, O Lord, for I have put my trust in thee. * I have said to the Lord: Thou art my God, for thou hast no need of my goods.
 To the saints, who are in his land, * he hath made wonderful all my desires in them.
 Their infirmities were multiplied: * afterwards they made haste.

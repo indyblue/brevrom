@@ -1,4 +1,4 @@
-Psalmus 118 iv. Memor esto verbi tui
+Psalm 118 iv
 ~Zain
 Be thou mindful of thy word to thy servant, * in which thou hast given me hope.
 This hath comforted me in my humiliation: * because thy word hath enlivened me.

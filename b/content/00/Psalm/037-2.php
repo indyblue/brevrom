@@ -1,4 +1,4 @@
-Ps 37 ii. Amíci mei
+Psalmus 37 ii
 Amíci mei, et próximi mei * advérsum me appropinquavérunt, et stetérunt.
 Et qui juxta me erant, de longe stetérunt: * et vim faciébant qui quærébant ánimam meam.
 Et qui inquirébant mala mihi, locúti sunt vanitátes: * et dolos tota die meditabántur.

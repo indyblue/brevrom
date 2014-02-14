@@ -1,4 +1,4 @@
-Ps 44 i. Eructávit cor meum
+Psalmus 44 i
 Eructávit cor meum verbum bonum: * dico ego ópera mea Regi.
 Lingua mea cálamus scribæ: * velóciter scribéntis.
 Speciósus forma præ fíliis hóminum, diffúsa est grátia in lábiis tuis: * proptérea benedíxit te Deus in ætérnum.

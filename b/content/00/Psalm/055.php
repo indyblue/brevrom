@@ -1,4 +1,4 @@
-Ps 55. Miserére mei, Deus
+Psalmus 55
 Miserére mei, Deus, quóniam conculcávit me homo: * tota die impúgnans tribulávit me.
 Conculcavérunt me inimíci mei tota die: * quóniam multi bellántes advérsum me.
 Ab altitúdine diéi timébo: * ego vero in te sperábo.
