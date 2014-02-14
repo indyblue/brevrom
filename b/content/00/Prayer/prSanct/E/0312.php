@@ -1,0 +1,1 @@
+O God, who hast conferred on the soul of thy servant Gregory the reward of eternal bliss; mercifully grant that we, who are weighed down by the burden of our sins, may be relieved by his intercession with thee. Through our Lord.

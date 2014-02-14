@@ -39,7 +39,7 @@ $regex=array(
 	'/<t>/',
 	'/Deus/', '/tibi/', '/tuam/', '/tuum/', 
 	'/meam/', '/meus/', '/meum/', '/mihi/',
-	'/cœtui/', '/fœdera/', '/fœdere/', '/fœderis/', '/fœtidum/',
+	'/cœtui/', '/cœtibus/', '/fœdera/', '/fœdere/', '/fœderis/', '/fœtidum/',
 	'/\bÁ/', '/\bÉ/', '/\bÍ/', '/\bÓ/', '/\bÚ/', '/\bÝ/', '/\bǼ/',
 	'/ǽ/', '/œ/'
 );
@@ -63,7 +63,7 @@ $repl=array(
 	'<text:tab/>',
 	'De­us', 'ti­bi', 'tu­am', 'tu­um', 
 	'me­am', 'me­us', 'me­um', 'mi­hi',
-	'cötui', 'födera', 'födere', 'föderis', 'fötidum',
+	'cötui', 'cötibus', 'födera', 'födere', 'föderis', 'fötidum',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',
 	'ä', 'ô'
 );

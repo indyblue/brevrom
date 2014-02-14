@@ -1,0 +1,1 @@
+Give us, we beseech thee, almighty God, through the intercession of blessed Cyril thy Bishop, so to know thee, the only true God, and Jesus Christ, whom thou hast sent, that we may deserve ever to be numbered among the sheep that hear his voice. Through the same.

@@ -5,7 +5,7 @@ In the midst of the years thou shalt make it known: * when thou art angry, thou 
 God will come from the south, * and the holy one from mount Pharan:
 His glory covered the heavens, * and the earth is full of his praise.
 His brightness shall be as the light: * horns are in his hands:
-There is his strength hid: * Death shall go before his face.
+There is his strength hid: * death shall go before his face.
 And the devil shall go forth before his feet. * He stood and measured the earth.
 He beheld, and melted the nations: * and the ancient mountains were crushed to pieces.
 The hills of the world were bowed down * by the journeys of his eternity.

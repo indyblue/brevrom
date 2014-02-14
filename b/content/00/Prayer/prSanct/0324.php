@@ -1,0 +1,1 @@
+Deus, qui inter céteros Ángelos, ad annuntiándum Incarnatiónis tuæ mystérium, Gabriélem Archángelum elegísti: concéde propítius; ut qui festum ejus celebrámus in terris, ipsíus patrocínium sentiámus in cælis. Qui vivis.

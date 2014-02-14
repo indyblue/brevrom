@@ -10,5 +10,5 @@ Rebuke the wild beasts of the reeds, the congregation of bulls with the kine of 
 Scatter thou the nations that delight in wars: ambassadors shall come out of Egypt: * Ethiopia shall soon stretch out her hands to God.
 Sing to God, ye kingdoms of the earth: * sing ye to the Lord:
 Sing ye to God, who mounteth above the heaven of heavens, * to the east.
-Behold he will give to his voice the voice of power: * give ye glory to God for Israel, * his magnificence, and his power is in the clouds.
+Behold he will give to his voice the voice of power: give ye glory to God for Israel, * his magnificence, and his power is in the clouds.
 God is wonderful in his saints: the God of Israel is he who will give power and strength to his people; * blessed be God.

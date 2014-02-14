@@ -9,6 +9,6 @@ As we have heard, so have we seen, in the city of the Lord of hosts, in the city
 We have received thy mercy, O God, * in the midst of thy temple.
 According to thy name, O God, so also is thy praise unto the ends of the earth: * thy right hand is full of justice.
 Let mount Sion rejoice, and the daughters of Juda be glad; * because of thy judgments, O Lord.
-Surround Sion, and encompass * her: tell ye in her towers.
+Surround Sion, and encompass her: * tell ye in her towers.
 Set your hearts on her strength; and distribute her houses, * that ye may relate it in another generation.
 For this is God, our God unto eternity, and for ever and ever: * he shall rule us for evermore.

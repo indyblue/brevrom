@@ -27,6 +27,68 @@ function brS($file,$PT=0,$short=0,$requiem=0,$matins=0) {
 		$vr1 = '<s:VR>R. </s>';
 		$vr2 = '<s:VR>V. </s>';
 	} else {
+		$vr1 = '<s:VR>R. br. </s>';
+		$vr2 = '<s:VR>V. </s>';
+	}
+	$L1 = br_divide($Lpieces,$PT);
+	$L2 = $Lpieces[1];
+	$E1 = br_divide($Epieces,$PT);
+	$E2 = $Epieces[1];
+	if($PT) {
+		$L1[2] = 'Allelúja, Allelúja.';
+		$E1[2] = 'Alleluia, Alleluia.';
+	}
+	$L13 = '';
+	$E13 = '';
+	if(count($L1)==4 && count($E1==4)) {
+		$L13 = ' * '. $L1[3];
+		$E13 = ' * '. $E1[3];
+	}
+	echo '   <table><tr><td:A1>
+<p:BodyL>'. $vr1 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .' '. 
+	style_first_letter($L1[0],'s:BoldRC') .'. '. 
+	$vr2 . $L2 .' '. 
+	style_first_letter($L1[2],'s:BoldRC') .' '.
+	($short==0?style_first_letter($Lgl,'s:BoldRC') .' ':'') . 
+	style_first_letter($L1[0],'s:BoldRC') .'.</p>
+   </td><td:B1>
+<p:BodyE>'. $vr1 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .' '. 
+	style_first_letter($E1[0],'s:BoldRC') .'. '. 
+	$vr2 . $E2 .' '. 
+	style_first_letter($E1[2],'s:BoldRC') .' '.
+	($short==0?style_first_letter($Egl,'s:BoldRC') .' ':'') . 
+	style_first_letter($E1[0],'s:BoldRC') .'.</p>
+   </td></tr>
+   </table>
+';
+}
+
+function rm($file,$PT=0,$short=0,$requiem=0,$matins=1) {
+	$dir = "/www/b/content/00/VR/";
+
+	$Lpieces = file_load($dir.$file);
+	$Epieces = file_load($dir.E($file));
+	
+	$iLfile = (int)(count($Lpieces));
+	$iEfile = (int)(count($Epieces));
+	if($iLfile<2 || $iEfile<$iLfile)
+		trigger_error('VR line count problem (' . $file . '). Latin: ' . $iLfile . ', English: ' . $iEfile, E_USER_ERROR);
+
+	if($requiem) {
+		$Lre = file_load($dir.'requiem_aeternam.php');
+		$Ere = file_load($dir.'E/requiem_aeternam.php');
+		$Lgl = str_replace(array(' * ','.'),array(' ',': '),$Lre[0]) .
+			str_replace(' * ',' ',$Lre[1]);
+		$Egl = str_replace(array(' * ','.'),array(' ',': '),$Ere[0]) .
+			str_replace(' * ',' ',$Ere[1]);
+	} else {
+		$Lgl = 'Glória Patri.';
+		$Egl = 'Glory be.';
+	}
+	if($matins) {
+		$vr1 = '<s:VR>R. </s>';
+		$vr2 = '<s:VR>V. </s>';
+	} else {
 		$vr1 = '<s:VR>V. </s>';
 		$vr2 = '<s:VR>R. </s>';
 	}
@@ -100,5 +162,9 @@ function br_divide($pieces,$PT) {
 		$ret[1] = ' '. $ret[1];
 	return $ret;
 }
+
+
+
+
 ?>
 

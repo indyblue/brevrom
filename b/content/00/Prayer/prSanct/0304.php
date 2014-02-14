@@ -1,0 +1,1 @@
+Deus, qui inter regáles delícias et mundi illécebras, sanctum Casimírum virtúte constántiæ roborásti: quǽsumus; ut ejus intercessióne fidéles tui terréna despíciant, et ad cæléstia semper aspírent. Per Dóminum.

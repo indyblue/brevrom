@@ -1,0 +1,1 @@
+Grant us, we beseech thee, O almighty God, to follow the teaching and example of blessed Peter thy Confessor and Bishop, that by the contempt of earthly things we may attain unto joys eternal. Through our Lord.

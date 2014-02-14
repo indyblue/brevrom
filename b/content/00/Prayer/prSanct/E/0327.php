@@ -1,0 +1,1 @@
+O almighty and eternal God, who, that the rightfulness of the veneration of holy images might be maintained, didst endow blessed John with a heavenly doctrine and an admirable spirit of fortitude: grant that, by his intercession, and following his example, we may imitate the virtues of the Saints whose images we venerate, and so experience their patronage. Through our Lord.

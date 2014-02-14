@@ -1,0 +1,1 @@
+O God, who didst enable blessed John, all on fire with thy love, to walk unhurt amidst the flames, and through him didst enrich thy Church with a new offspring; grant, we beseech thee, that, by virtue of his merits pleading for us, we may be healed of our vices, and obtain the aids we need for eternal salvation. Through our Lord.

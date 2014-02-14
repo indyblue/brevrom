@@ -18,7 +18,7 @@ echo ($text==''?'"RubricHSm">':'"RubricH">'.$text) . '<t>' . $cv;
    <table>
     <tr>
      <td:A1>
-	  <p:BodyLDrop><?php echo $txtL; ?></p>
+	  <p:BodyLDrop><?php echo caps_first_word($txtL); ?></p>
 <?php 
 if($r==1) 
 	echo '<p:BodyL><s:VR>R. </s>Deo grátias.</p>
@@ -26,7 +26,7 @@ if($r==1)
 ?>
      </td>
      <td:B1>
-		<p:BodyEDrop><?php echo $txtE; ?></p>
+		<p:BodyEDrop><?php echo caps_first_word($txtE); ?></p>
 <?php 
 if($r==1) 
 	echo '      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>

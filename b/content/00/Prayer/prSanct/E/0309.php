@@ -1,0 +1,1 @@
+O God, who, among other gifts of thy grace, didst honour blessed Frances, thy handmaid, with the familiar presence of an Angel; grant, we beseech thee, that, by the help of her intercession, we may merit to be admitted into the society of the Angels. Through our Lord.

@@ -1,13 +1,14 @@
 <?php
 
 //$option:
+// 1 - Alleluia.
 // 2 - no V/R. 
 
 function vr($file, $option=0) {
 	$dir = "/www/b/content/00/VR/long/";
 		require $dir.$file;
 }
-function vrS($file, $option=0) {
+function vrS($file, $option=0, $short=0) {
 	$dir = "/www/b/content/00/VR/";
 
 	$Lpieces = file_load($dir.$file);
@@ -29,7 +30,7 @@ function vrS($file, $option=0) {
 		$subst = array(' *','*');
 
 		if($option==2)
-		echo '   <tr><td:A1>
+			echo '   <tr><td:A1>
     <p:BodyL>'. style_first_letter($L1,'sb') .'</p>
    </td><td:B1>
     <p:BodyE>'. style_first_letter($E1,'sb') .'</p>
@@ -40,9 +41,20 @@ function vrS($file, $option=0) {
     <p:BodyE>'. style_first_letter($E2,'sb') .'</p>
    </td></tr>
 ';
-		else {
-			$L1 = str_replace($subst,'',$L1);
-			$E1 = str_replace($subst,'',$E1);
+		elseif($short==1) {
+			$L0 = first_word($L1,4,1);
+			$E0 = first_word($E1,4,1);
+			echo '   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>'. $L0[0] .'... allelúja.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>'. $E0[0] .'... allelúja.</p>
+   </td></tr>
+';
+		} else {
+			$L1 = str_replace($subst,'',$L1) .' Allelúja.';
+			$E1 = str_replace($subst,'',$E1) .' Alleluia.';
+			$L2 .= ' Allelúja.';
+			$E2 .= ' Alleluia.';
 			echo '   <tr><td:A1>
     <p:BodyL><s:VR>V. </s>'. $L1 .' <s:VR>R. </s>'. $L2 .'</p>
    </td><td:B1>

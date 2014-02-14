@@ -1,0 +1,1 @@
+O God, who didst vouchsafe to send the blessed Patrick, thy Confessor and Bishop, to declare thy glory to the nations; grant, through his merits and intercession, that what thou commandest us to do we may, by thy mercy, be able to accomplish. Through our Lord.

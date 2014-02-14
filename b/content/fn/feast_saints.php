@@ -1,5 +1,6 @@
 <?php 
 /*
+- hides long form for next term
 + plural (doesn't show)
 H Holy Woman (doesn't show)
 ^ church (doesn't show)
@@ -22,26 +23,29 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 	if($class==2) $clname = 'II class';
 	if($class==3) $clname = 'III class';
 	if($class==0) $clname = 'Commem.';
+	
+	if(is_array($date)) {
+		$Ldate = $date[0];
+		$Edate = $date[1];
+	} elseif($date>100) {
+		$date = convert_date($date);
+		$Ldate = $date[0];
+		$Edate = $date[1];
+	} else {
+		$Ldate = $date;
+		$Edate = $date;
+	}
 
 	echo '
   <p:Hidden1>' . $date . ' - ' .$nameE .'</p>
   <text:p text:style-name="Head1' . 
   ($class==1||$class==2?'':'NI') . '">' . ($_GET['L']==1?$nameL:$nameE) .'</p>
-  <text:p text:style-name="Head4">' . ($_GET['L']==1?$nameE:$nameL) .'</p>
-  <p:Head2>'. $descr . ($descr?' - ':'') . $clname . ' - ' . $date .'</p>
+  <text:p text:style-name="Head5">' . ($_GET['L']==1?$nameE:$nameL) .'</p>
+  <p:Head2>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Ldate:$Edate) .'</p>
 ';
 
 }
-function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0) {
-	// arrays defining month text to be used in dates
-	$Lm = array('', 'Januarii', 'Februarii', 'Martii', 'Aprilis', 'Maii', 'Juni', 
-		'Julii', 'Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');		
-	$Lms = array('', 'Jan.', 'Feb.', 'Mar.', 'Apr.', 'Maii', 'Juni', 
-		'Jul.', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.');		
-	$Em = array('', 'January', 'February', 'March', 'April',	'May', 'June', 
-		'July', 'August', 'September', 'October', 'November', 'December');		
-	$Ems = array('', 'Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 
-		'Jul.', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.');		
+function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0, $ant=0) {
 
 	// arrays defining types/classifications: (case sensitive)
 	$Lcl = array( 'A' => 'Ap.', 'M' => 'Mart.', 'P' => 'Papæ', 'E' => 'Ep.',
@@ -52,11 +56,18 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 		'V' => 'Virgin', 'W' => 'Widow', 'K' => 'King', 'Q' => 'Queen');
 
 	// break up and format the date
-	$month = (int)($date/100);
-	$day = $date - $month*100;
-	$Ldate = $Lms[$month] . ' ' . $day;
-	$Edate = $Ems[$month] . ' ' . $day;
-	echo $date;
+	if(is_array($date)) {
+		$Ldate = $date[0];
+		$Edate = $date[1];
+	} elseif($date>100) {
+		$tdate = convert_date($date);
+		$Ldate = $tdate[0];
+		$Edate = $tdate[1];
+	} else {
+		$Ldate = $date;
+		$Edate = $date;
+	}
+	// echo $date;
 	// if no prayer has already been inserted, 
 	// construct prayer name from date
 	if(!$prayer) 
@@ -133,6 +144,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 	$Ltype = ''; $Etype = '';
 	for($i=0;$i<strlen($type);$i++) {
 		$tmp = substr($type,$i,1);
+		if($tmp=='-') $i++;
 		if(strlen($Lcl[$tmp])) {
 			$Ltype .= (strlen($Ltype)?', ':'') . $Lcl[$tmp];
 			$Etype .= (strlen($Etype)?', ':'') . $Ecl[$tmp];
@@ -144,8 +156,8 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 	// commemoration which concurs with another feast
 	// The character 'H' signifies header only
 	// Otherwise if positive, print everything as normal
-	if($class==='H') {
-		headSt($Edate, $class, $nameL, $nameE, $Etype);
+	if($class>10) {
+		headSt($Edate, $class-10, $nameL, $nameE, $Etype);
 	} elseif($class>=0) {
 		// add image... (the only image that can be added
 		// automatically is the default separator)
@@ -173,6 +185,15 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 			prayer($prayer);
 		if($commem) 
 			eval($commem);
+		if(is_array($ant)) {
+			if(count($ant)<2)
+				trigger_error('Problem with antiphon for '. $Edate
+					.' ('. $nameE .') ', E_USER_ERROR);
+			if($doct) {
+				space('Spacer');
+				ant('csConfessorDoctorAnt.php','M',$ant[0],$ant[1]);
+			}
+		}
 	} else {
 		// this is the brief form of commemoration used if the above is negative.
 		// it will automatically insert the default V/R and Antiphon of Lauds 
@@ -193,4 +214,28 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 	}		
 }
 
+function convert_date($date) {
+	// arrays defining month text to be used in dates
+	$Lm = array('', 'Januarii', 'Februarii', 'Martii', 'Aprilis', 'Maii', 'Juni', 
+		'Julii', 'Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');		
+	$Lms = array('', 'Jan.', 'Feb.', 'Mar.', 'Apr.', 'Maii', 'Juni', 
+		'Jul.', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.');		
+	$Em = array('', 'January', 'February', 'March', 'April',	'May', 'June', 
+		'July', 'August', 'September', 'October', 'November', 'December');		
+	$Ems = array('', 'Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 
+		'Jul.', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.');		
+
+	$month = (int)($date/100);
+	$day = $date - $month*100;
+
+	if($month>0 && $day>0) {
+		$Ldate = $Lms[$month] . ' ' . $day;
+		$Edate = $Ems[$month] . ' ' . $day;
+		if($month==2 && $day>23) {
+			$Ldate .= ' ('. ($day+1) .' in anno bissextili)';
+			$Edate .= ' ('. ($day+1) .' in leap year)';
+		}
+	} 
+	return array($Ldate,$Edate);
+}
 ?>

@@ -47,9 +47,9 @@ function ant($file, $incs='*', $nameL='', $nameE='') {
 			} elseif($inc==2) {
 				$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
 			} elseif($inc=='B') {
-				$ast=1; $ant='<sr>Ad Bened.Ant.</s> '; $ante = '<sr>Ant.At Bened.</s> ';
+				$ast=1; $ant='<sr>Ad Bened.Ant.</s> '; $ante = '<sr>Benedictus Ant.</s> ';
 			} elseif($inc=='M') {
-				$ast=1; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Ant.At Magnif.</s> ';
+				$ast=1; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
 			}
 			if(!$ast) {
 				$L = str_replace($subst,'',$L);

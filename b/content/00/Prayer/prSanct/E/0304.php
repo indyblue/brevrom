@@ -1,0 +1,1 @@
+O God, who, amidst the delights of royalty and the blandishments of the world, didst strengthen the holy Casimir with the virtue of constancy; grant, we beseech thee, that, by his intercession, thy faithful people may despise earthly things, and may ever aspire after those that are heavenly. Through our Lord.

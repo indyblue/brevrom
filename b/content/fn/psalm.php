@@ -85,7 +85,7 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 		// headings to be included.
 		elseif(strpos($Lpieces[$i],'~')!==false) 
 			echo ($table?'</table>':'') .'
-<p:Head4>'. str_replace('~','',$Lpieces[$i]) .'</p>
+<p:Head5>'. str_replace('~','',$Lpieces[$i]) .'</p>
 '. ($table?'<table>':'') .'
 ';
 		else {

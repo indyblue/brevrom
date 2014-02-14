@@ -1,0 +1,1 @@
+Deus qui beátam Francíscam fámulam tuam, inter cétera grátiæ tuæ dona, familiári Ángeli consuetúdine decorásti: concéde, quǽsumus; ut intercessiónis ejus auxílio Angelórum consórtium cónsequi mereámur. Per Dóminum.

@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img(); 
-	feast_saint(212,'H','Ss. Septem Fundatorum Ordinis Servorum B.M.V.',
+	feast_saint(212,13,'Ss. Septem Fundatorum Ordinis Servorum B.M.V.',
 		'The Seven Holy Founders of the Order of Servites','C+');
 	rubrics('ps/Feria.php');
 

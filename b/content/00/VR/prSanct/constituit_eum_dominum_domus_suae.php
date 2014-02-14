@@ -1,0 +1,2 @@
+Constítuit eum * dóminum domus suæ.
+Et príncipem omnis possessiónis suæ.

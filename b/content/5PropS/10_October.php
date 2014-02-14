@@ -64,7 +64,7 @@ echo ($_GET['L']==1?'Festa Octobris':'Feasts of October')
 <?php ant('vestri_capilli_capitis_omnes_numerati_sunt.php'); ?>
 <?php vrS('exultabunt_sancti_in_gloria.php'); ?>
 <?php rubrics('oremus.php'); ?>
-<?php prayer('prSanct/1008c_e.php'); ?>
+<?php prayer('prSanct/1008c.php'); ?>
    <p:BodySm/>
 
 <?php

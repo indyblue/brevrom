@@ -1,0 +1,1 @@
+O God, who wast pleased to shed lustre on thy Church by the merits and preaching of blessed Vincent thy Confessor; grant that we thy servants may both be instructed by his example, and by his patronage be delivered from all adversity. Through our Lord.

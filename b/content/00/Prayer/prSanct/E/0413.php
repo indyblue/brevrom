@@ -1,0 +1,1 @@
+O God, who didst teach blessed Hermenegild thy Martyr to discard an earthly realm for the glory of the heavenly kingdom; grant unto us, we beseech thee, by his example, to despise all that is transitory, and follow after things eternal. Through our Lord.

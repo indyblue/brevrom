@@ -1,4 +1,4 @@
-Elpis (wife of Boethius) 
+Elpis (wife of Boethius)
 
 
 Beáte pastor, Petre, clemens áccipe

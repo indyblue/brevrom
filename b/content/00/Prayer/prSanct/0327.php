@@ -1,0 +1,1 @@
+Omnípotens sempitérne Deus, qui ad cultum sacrárum imáginum asseréndum, beátum Joánnem cælésti doctrína et admirábili spíritus fortitúdine imbuísti: concéde nobis ejus intercessióne et exémplo; ut, quorum cólimus imágines, virtútes imitémur et patrocínia sentiámus. Per Dóminum.

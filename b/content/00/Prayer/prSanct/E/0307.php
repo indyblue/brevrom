@@ -1,0 +1,1 @@
+O God, who glorifiest thy Church by the admirable learning of blessed Thomas, and makest it fruitful by his holy labours; grant to us, we beseech thee, both to understand what he taught and to fulfil by imitation what he practised. Through our Lord.

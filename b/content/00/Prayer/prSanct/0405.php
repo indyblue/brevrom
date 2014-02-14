@@ -1,0 +1,1 @@
+Deus, qui Ecclésiam tuam beáti Vincéntii Confessóris tui méritis et prædicatióne illustráre dignátus es: concéde nobis fámulis tuis; ut et ipsíus instruámur exémplis, et ab ómnibus, ejus patrocínio, líberemur advérsis. Per Dóminum.

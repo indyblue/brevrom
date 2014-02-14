@@ -129,7 +129,10 @@
   <style:style style:name="Head3L" style:family="paragraph" style:parent-style-name="Head3">
      <style:text-properties text:display="true"/>
   </style:style>
-  <style:style style:name="Head4" style:family="paragraph" style:parent-style-name="RubricHSm">
+  <style:style style:name="Head4" style:family="paragraph" style:parent-style-name="RubricH">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="Head5" style:family="paragraph" style:parent-style-name="RubricHSm">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
 
@@ -166,6 +169,9 @@
   </style:style>
   <style:style style:name="BoldR" style:family="text">
    <style:text-properties fo:color="#ff0000" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="BoldRC" style:family="text">
+   <style:text-properties fo:color="#ff0000" fo:font-weight="bold" fo:text-transform="uppercase"/>
   </style:style>
   <style:style style:name="AllCaps" style:family="text">
    <style:text-properties fo:text-transform="uppercase"/>

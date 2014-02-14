@@ -6,7 +6,7 @@ Laborávi clamans, raucæ factæ sunt fauces meæ: * defecérunt óculi mei, dum
 Multiplicáti sunt super capíllos cápitis mei, * qui odérunt me gratis.
 Confortáti sunt qui persecúti sunt me inimíci mei injúste: * quæ non rápui, tunc exsolvébam.
 Deus, tu scis insipiéntiam meam: * et delícta mea a te non sunt abscóndita.
-Non erubéscant in me qui exspéctant te, Dómine, * Dómine virtútum
+Non erubéscant in me qui exspéctant te, Dómine, * Dómine virtútum.
 Non confundántur super me * qui quærunt te, Deus Israël.
 Quóniam propter te sustínui oppróbrium: * opéruit confúsio fáciem meam.
 Extráneus factus sum frátribus meis, * et peregrínus fíliis matris meæ.

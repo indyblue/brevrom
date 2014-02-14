@@ -12,4 +12,3 @@ Tibíque laudes concinámus inclytas,
 Ætérne Nate; sit, supérne Spíritus,
 Honor tibi decúsque: sancta júgiter
 Laudétur omne Trínitas per sǽculum. Amen.
-

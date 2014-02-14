@@ -14,7 +14,7 @@ He gives Himself, the Bread from Heaven.
 Himself in either kind He gave;
 He gave his Flesh, He gave his Blood;
 Of flesh and blood all men are made;
-And He of man would be the Food. 
+And He of man would be the Food.
 
 At birth our brother He became;
 At meat Himself as food He gives;

@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img(); 
-	feast_saint(222,'H','Cathedræ S. Petri',
+	feast_saint(222,12,'Cathedræ S. Petri',
 		'Chair of St. Peter','A');
 	rubrics('prSanct/all_from.php','csCB');
 
@@ -30,10 +30,14 @@
 		'Common of Confessor Bishop', 
 		'Psalms, Antiphons &amp; Little Chapter'); 
 	rubrics('head/HymnVerse.php');
-	hymn('.php');
-	vrS('prSanct/.php'); 
-	rubrics('head/Magnificat.php'); 
-	ant('prSanct/0222m.php','M'); 
+	hymn('quodcumque_in_orbe_nexibus_revinxeris.php');
+	vrS('prSanct/elegit_te_dominus_sacerdotem_sibi.php'); 
+	ant('prSanct/0222m2.php','M'); 
+	space('Line');
+	rubrics('prSanct/if1Vespers.php');
+	vrS('prSanct/tu_es_petrus.php'); 
+	ant('prSanct/0222m1.php','M'); 
+	space('Line');
 	rubrics('prSanct/ComplineSun.php'); 
 
 ?>

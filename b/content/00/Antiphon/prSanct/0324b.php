@@ -1,0 +1,1 @@
+Gábriel Ángelus * descéndit ad Zacharíam, et ait illi: Uxor tua páriet tibi fílium, et vocábis nomen ejus Joánnem, et multi in nativitáte ejus gaudébunt: ipse enim præíbit ante fáciem Dómini paráre vias ejus.

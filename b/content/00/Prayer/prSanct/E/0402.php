@@ -1,0 +1,1 @@
+O God, who art the exaltation of the lowly, and who hast raised blessed Francis thy Confessor to the glory of the Saints; grant, we beseech thee, that, through his merits and by following his example, we may happily attain unto the rewards promised to the humble. Through our Lord.

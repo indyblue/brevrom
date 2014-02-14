@@ -7,7 +7,7 @@ And turn not away thy face from thy servant: * for I am in trouble, hear me spee
 Attend to my soul, and deliver it: * save me because of my enemies.
 Thou knowest my reproach, and my confusion, * and my shame.
 In thy sight are all they that afflict me; * my heart hath expected reproach and misery.
-And I looked for one that would grieve together with me, * but there was none: and for one that would comfort me, and I found none.
+And I looked for one that would grieve together with me, but there was none: * and for one that would comfort me, and I found none.
 And they gave me gall for my food, * and in my thirst they gave me vinegar to drink.
 Let their table become as a snare before them, * and a recompense, and a stumblingblock.
 Let their eyes be darkened that they see not; * and their back bend thou down always.
