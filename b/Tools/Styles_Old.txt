@@ -1,0 +1,47 @@
+Rubric
+Light Red + Italic
+Non Rubric
+Black + Not Italic + normal
+DropCap
+Cloister Black + light
+VR
+Light Red + Times VR
+Default
+Table Contents
+don't count lines
+
+Rubric
+DropCap
+SectHead
+Body
+MajorHead
+MinorHead
+Spacer
+MajorHeadNI
+PsHead
+Hymn
+BodySm
+PageHeader
+HymnEn
+VolumeHead
+BodyLrgCaps
+CantHead
+Hymn1
+Hidden1
+Hidden2
+RubricH
+RubricHSm
+
+Body
+Width: 10.8cm, Fixed height: 17.15cm + From top 0.64cm, From bottom 0.64cm + Header + Footer + White,
+Transparent + Shadow: Black, Not Transparent, 0.0cm, No Shadow + Text direction left-to-right (horizontal) +
+Page Description: Arabic, PortraitLeft + Body + Not register-true
+Intro
+Width: 10.8cm, Fixed height: 17.15cm + From top 0.64cm, From bottom 0.64cm + Header + No footer + White,
+Transparent + Shadow: Black, Not Transparent, 0.0cm, No Shadow + Text direction left-to-right (horizontal) +
+Page Description: Lowercase Roman, PortraitLeft + Intro + Not register-true
+Header Page
+Width: 10.8cm, Fixed height: 17.15cm + From top 0.64cm, From bottom 0.64cm + No header + No footer +
+White, Transparent + Shadow: Black, Not Transparent, 0.0cm, No Shadow + Text direction left-to-right
+(horizontal) + Page Description: Arabic, PortraitRight + Header Page + Not register-true
+

@@ -1,0 +1,1 @@
+   <text:p text:style-name="Rubric">Psalms and antiphons as on Holy Saturday, <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsPrHolySat"/></text:span>, except the first antiphon as given above.</text:p>

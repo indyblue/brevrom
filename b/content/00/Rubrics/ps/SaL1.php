@@ -1,0 +1,1 @@
+   <text:p text:style-name="Rubric">Psalms and antiphons as in Saturday Lauds I, <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSaL1"/></text:span></text:p>

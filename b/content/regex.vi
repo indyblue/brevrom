@@ -1,0 +1,49 @@
+---- Change headings to links ----
+%s/^.*Head3.*Psalms.*$/<?php rubrics('head\/Psalms.php'); ?>/
+%s/^.*Head3.*Little Chapter.*$/<?php rubrics('head\/LittleChapter.php'); ?>/
+%s/^.*Head3.*Hymn.*$/<?php rubrics('head\/HymnVerse.php'); ?>/
+%s/^.*Head3.*Brief.*$/<?php rubrics('head\/BriefRespond.php'); ?>/
+%s/^.*Head3.*Collect.*$/<?php rubrics('head\/Prayer.php'); ?>/
+%s/^.*Head3.*Benedictus.*$/<?php rubrics('head\/Benedictus.php'); ?>/
+%s/^.*Head3.*Magnificat.*$/<?php rubrics('head\/Magnificat.php'); ?>/
+
+%s/^.*Head2.*Collect.*$/<?php rubrics('head\/Prayer.php',1); ?>/
+
+---- Change table style name ----
+%s/style-name="Table\d*/style-name="TableParallel
+
+---- Change style names ----
+%s/\(TableParallel.B1.*\n.*style-name="\)Body"/\1BodyE"
+%s/\(TableParallel.B1.*\n.*\n.*\n.*style-name="\)Body"/\1BodyE"
+%s/\(TableParallel.A1.*\n.*style-name="\)Body"/\1BodyL"
+%s/\(TableParallel.A1.*\n.*\n.*style-name="\)Body"/\1BodyL"
+
+%s/\(TableParallel.B1.*\n.*style-name="\)DropCap"/\1BodyEDrop"
+%s/\(TableParallel.A1.*\n.*style-name="\)DropCap"/\1BodyLDrop"
+
+%s/VolumeHead/Head0/ 
+%s/MajorHead/Head1/ | %s/MinorHead/Head2/ | %s/SectHead/Head3/
+
+---- Break single line english hymn stanzas up into multiple lines
+%s/\(.*<text:p.*"HymnEn">\)\(.*\) \/ \(.*\) \/ \(.*\) \/ \(.*\)\(<\/text:p>\n\)/\1\2\6\1\3\6\1\4\6\1\5\6
+
+---- Change style names for hymns ----
+%s/Hymn1/HymnL1/ | %s/HymnEn/HymnE/ | %s/"Hymn"/"HymnL"/
+
+---- Make first letter of each stanza bold red ----
+%s/\(.*<table:table-cell.*\n.*"Hymn.*">\)\(\w\)/\1<text:span text:style-name="HymnR">\2<\/text:span>/
+
+---- Put spacer row in between stanzas ----
+%s/\(.*<table:table-row>\n.*<table:table-cell.*\n\)\(\%(.*"HymnL.*\n\)\{1,6}\)\(.*<\/table:table-cell>\n.*<table:table-cell.*\n\)\(\%(.*"HymnE.*\n\)\{1,5}\)\(.*"\)HymnE\("\/>\n\)\(.*<\/table:table-cell>\n.*<\/table:table-row>\n\)/\1\2\3\4\7\1\5HymnS\6\3\5HymnS\6\7
+
+---- Break hymns up into tables with one row per line ----
+%s/\(.*<table:table-row>\n.*<table:table-cell.*\n\)\(.*"HymnL.*\n\)\(\%(.*"HymnL.*\n\)\{1,5}\)\(.*<\/table:table-cell>\n.*<table:table-cell.*\n\)\(.*"HymnE.*\n\)\(\%(.*"HymnE.*\n\)\{1,5}\)\(.*<\/table:table-cell>\n.*<\/table:table-row>\n\)/\1\2\4\5\7\1\3\4\6\7/
+
+---- Get rid of bogus lists ----
+%s/\%(.*text:list.*\n\)\+\(\%(.*text:h.*\n\)\+\)\%(.*text:list.*\n\)\+/\1
+
+---- Checking Rubric/VR options for Antiphons and Versicles ----
+s/\v\>(V\. |R\. )([^<])/><text:span text:style-name="VR">\1<\/text:span>\2/
+s/\v\>(Ant\. |Ant \d\. )([^<])/><text:span text:style-name="Rubric">\1<\/text:span>\2/
+
+

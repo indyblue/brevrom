@@ -1,0 +1,1 @@
+   <text:p text:style-name="Rubric">Psalms as in Common of Blessed Virgin Mary, <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsComBVM"/></text:span></text:p>

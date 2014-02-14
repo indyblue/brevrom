@@ -1,0 +1,1 @@
+   <text:p text:style-name="Rubric">Psalms as in Sunday Vespers, <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSuV"/></text:span>, but in the last place Ps. 131, <text:span text:style-name="NonRubric">Memento Domine, p. <text:bookmark-ref text:reference-format="page" text:ref-name="Ps131"/></text:span>.</text:p>
