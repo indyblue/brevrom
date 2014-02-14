@@ -22,6 +22,7 @@
 	ant('PrTemp/post_pentecost/m09w30.php','M');
 	space();
 
+	bookmark('SeptEmber');
 	feria(4,12);
 	rubrics('ps/FeriaL2.php',4);
 	vrS('Ord/repleti_sumus_mane_misericordia_tua.php');

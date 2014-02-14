@@ -1,0 +1,1 @@
+Absolve, we beseech thee, O Lord, thy people from their offences: that through thy bountiful goodness, we may be freed from those bonds of sin which through our frailty we have contracted. Through our Lord.

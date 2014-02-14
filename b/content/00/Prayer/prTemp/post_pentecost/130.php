@@ -1,0 +1,1 @@
+Omnípotens sempitérne Deus, da nobis fídei, spei, et caritátis augméntum: et, ut mereámur ássequi quod promíttis, fac nos amáre quod prǽcipis. Per Dóminum.

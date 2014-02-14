@@ -1,0 +1,1 @@
+What think ye * of Christ? Whose son is he? They all say unto him: The Son of David. Jesus saith to them: How, then doth David in spirit call him Lord, saying: The Lord said to my Lord, Sit on my right hand?

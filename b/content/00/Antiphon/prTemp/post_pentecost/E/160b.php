@@ -1,0 +1,1 @@
+When Jesus went * into the house of one of the chief of the Pharisees on the sabbath day to eat bread, behold there was a certain man before him that had the dropsy: but he taking him, healed him, and sent him away.

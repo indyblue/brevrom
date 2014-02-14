@@ -1,0 +1,1 @@
+Stir up, we beseech thee, O Lord, the wills of thy people; that, seeking more earnestly after the fruit of divine grace, they may more abundantly receive the healing gifts of thy mercy. Through our Lord.

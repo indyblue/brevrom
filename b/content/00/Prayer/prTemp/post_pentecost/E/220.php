@@ -1,0 +1,1 @@
+O God, our refuge and strength, who art the author of all goodness, hear, we beseech thee, the devout prayers of thy Church; and grant that what we ask with faith we may effectually obtain. Through our Lord.
