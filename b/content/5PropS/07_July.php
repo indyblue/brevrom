@@ -34,7 +34,7 @@ feast_saint(717,0,'Sancti Alexii','Saint Alexius','C',array('csConfessor1.php','
 feast_saint(718,3,'S. Camilli de Lellis','St. Camillus of Lellis','C',0,
 	'feast_saint(718,-1,"Ss. Symphorosæ et septem filiorum ejus","Ss. Symphorosa and her seven sons","M+",array("csMartyrs1.php","Symphorósæ et filiórum ejus","Symphorosa and her sons"));');
 
-feast_saint(719,0,'S. Vincentii a Paulo','St. Vincent de Paul','C');
+feast_saint(719,3,'S. Vincentii a Paulo','St. Vincent de Paul','C');
 
 feast_saint(720,3,'S. Hieronymi Æmiliani','St. Jerome Æmilian','C',0,
 	'feast_saint(720,-1,"S. Margaritæ","St. Margaret","VM",array("csVirginMartyr2.php","Margaríta","Margaret"));');
@@ -53,14 +53,16 @@ feast_saint(723,3,'Sancti Apollinaris','Saint Apollinaris','EM',0,
 feast_saint(724,0,'Sanctæ Christinæ','Saint Christina','VM',
 	array('csVirginMartyr2.php','Christína','Christina'));
 
-require '0725-2_james.php';
+feast_saint(725,2,'Sancti Jacobi','Saint James','A',0,
+	'feast_saint(725,-1,"Sancti Christophori","Saint Christopher","M",
+		array("csMartyr1.php","Christóphori","Christopher"));');
 
-require '0726-2_anne.php';
+feast_saint(726,2,'Sanctæ Annæ <br><r>Matris B. Mariæ Virg</s>','Saint Anne <br><r>Mother of the Bl. Virg. Mary','H');
 
 feast_saint(727,0,'Sancti Pantaleonis','Saint Pantaleon','M',
 	array('csMartyr2.php','Pantaleóne','Pantaleon'));
 
-feast_saint(728,3,'Ss. Nazarii et Celsi, Mm., Victoris I, Papæ et M., ac Innocentii I, Papæ et Conf.','Ss. Nazarius and Chelsus, Mm., Victor I, Pope and M., Innocent I, Pope and Conf.','M+');
+feast_saint(728,3,'Ss. Nazarii et Celsi, [M] Victoris I, [PM] ac Innocentii I, [PC]','Ss. Nazarius and Chelsus, [M] Victor I, [PM] Innocent I, [PC]','-M+');
 
 feast_saint(729,3,'Sanctæ Marthæ','Saint Martha','V',
 	array('csVirgin1.php','Marthæ','Martha'),

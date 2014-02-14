@@ -29,11 +29,12 @@ require '0914-2_exaltation_holy_cross.php';
 require '0915-2_seven_sorrows_BVM.php';
 
 feast_saint(916,3,'Ss. Cornelii [P], et Cypriani [E]','Ss. Cornelius [P], and Cyprian [E]','M+',0,
-	"feast_saint(916,-1,'Ss. Euphemiæ [V], Luciæ et Geminiani','Ss. Euphemia [V], Lucy and Geminianus','M+');");
+	"feast_saint(916,-1,'Ss. Euphemiæ [V], Luciæ et Geminiani','Ss. Euphemia [V], Lucy and Geminianus','M+',0,0,array('laetamini_in_domino_et_exultate_justi.php','istorum_est_enim_regnum_caelorum.php'));");
 
 feast_saint(917,0,'Impressionis Sacror. Stigmatum S. Francisci','The Imprinting of the Stigmata of St. Francis','-C');
 
-feast_saint(918,3,'S. Josephi de Cupertino','St. Joseph of Cupertino','C');
+feast_saint(918,3,'S. Josephi de Cupertino','St. Joseph of Cupertino','C',
+	0,0,array(0,1,0,1));
 
 feast_saint(919,3,'Ss. Januarii [E], et Sociorum','St. Januarius [E], and his Companions','M+',array('csMartyrs2.php','Januárii et Sociórum','Januarius and his companions'));
 
@@ -43,7 +44,7 @@ require '0921-2_matthew.php';
 
 feast_saint(922,3,'S. Thomæ de Villanova','St. Thomas of Villanova','EC',0,
 	"rubp('Deinde, extra Quatuor Tempora:','Then, if it is not an Ember day:');
-feast_saint(922,-1,'Ss. Mauritii et Soc.','Ss. Maurice and companions','M+');");
+feast_saint(922,-1,'Ss. Mauritii et Soc.','Ss. Maurice and companions','M+');",array(0,1,0,1));
 
 feast_saint(923,3,'Sancti Lini','Saint Linus','PM',array('csPope1m.php','Linum','Linus'),
 	"rubp('Deinde, extra Quatuor Tempora:','Then, if it is not an Ember day:');
@@ -51,7 +52,7 @@ feast_saint(923,-1,'S. Theclæ','St. Thecla','VM');");
 
 feast_saint(924,0,'Beatæ Mariæ Virg. a Mercede','Our Lady of Ransom','B');
 
-feast_saint(926,0,'Ss. Cypriani et Justinæ, V.','Ss. Cyprian and Justina, V.','M+');
+feast_saint(926,0,'Ss. Cypriani et Justinæ [V]','Ss. Cyprian and Justina [V]','M+');
 
 feast_saint(927,3,'Ss. Cosmæ et Damiani','Ss. Cosmas and Damian','M+');
 

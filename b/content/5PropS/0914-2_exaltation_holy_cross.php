@@ -5,7 +5,7 @@ space();
 headSt(914,2,'in Exaltatione Sanctæ Crucis','Exaltation of the Holy Cross');
 
 hour('1V');
-rubrics('prSanct/Sun1Vespers.php');
+rubrics('prSanct/if1cl_sun_1Vespers.php');
 rubrics('prSanct/all2Vespers.php');
 ant('prSanct/0914m1.php','M');
 space();

@@ -10,8 +10,8 @@
 	lc('jdt13_22-23.php');
 	rubrics('head/HymnVerse.php');
 	hymn('o_prima_virgo_prodita.php');
-	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php',2); 
-	ant('prSanct/0815m1.php','M',2); 
+	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php'); 
+	ant('prSanct/0815m1.php','M'); 
 	rubrics('prSanct/ComplineSun.php'); 
 
 	space();
@@ -22,15 +22,15 @@
 	lc('jdt13_22-23.php');
 	rubrics('head/HymnVerse.php');
 	hymn('solis_o_virgo_radiis_amicta.php');
-	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php',2);
-	ant('prSanct/0815b.php','B',2);
+	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php');
+	ant('prSanct/0815b.php','B');
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0815.php'); 
-	rubrics('prSanct/comm_lent.php');
 
 	space();
 	csref(0,3);
 	PrV('qui_natus_es_de_maria_virgine.php'); 
+	space();
 
 	hour('T'); 
 	lc('jdt13_22-23.php');
@@ -55,11 +55,10 @@
 	rubrics('ps/ComBVM.php'); 
 	lc('jdt13_22-23.php');
 	hymn('ave_maris_stella.php',1);
-	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php',2);
-	ant('prSanct/0815m2.php','M',2);
+	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php');
+	ant('prSanct/0815m2.php','M');
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0815.php'); 
-	rubrics('prSanct/comm_lent.php');
 	rubrics('prSanct/ComplineSun.php'); 
 
 ?>

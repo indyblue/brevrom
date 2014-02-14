@@ -14,7 +14,6 @@
 	space();
 
 	hour('L');
-	rubrics('head/Psalms.php');
 	ant('prSanct/0929L.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('prSanct/0929L.php','02222');

@@ -347,7 +347,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			return "<r>".constr_type($matches[0],1)."</s>";'),$nameL);
 	$nameE = preg_replace_callback('/\[[^\]]*\]/',
 		create_function('$matches','
-			return "<r>".constr_type($matches[0],1)."</s>";'),$nameE);
+			return "<r>".constr_type($matches[0],2)."</s>";'),$nameE);
 /*
 	$nameE = preg_replace_callback('/\[[^\]]*\]/',
 		create_function('$matches','
@@ -506,26 +506,29 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			if($use_pr_ref) {
 				preg_match('/BodyLDrop>([^<]*)</',$prayer,$prL);
 				preg_match('/BodyLDrop>([^<]*)</',$commem,$prC);
-				$prL = explode(' ',$prL[1]);
-				$prC = explode(' ',$prC[1]);
-				for($i=1;$i<count($prL);$i++) {
-					if($prL[0]!=$prC[0] & strlen($prL[0])>4) break;
-					$prL[0] .= ' '. $prL[$i];
-					$prC[0] .= ' '. $prC[$i];
+				//trigger_error($prL[1]);
+				if(count($prL)>1 && count($prC)>1) {
+					$prL = explode(' ',$prL[1]);
+					$prC = explode(' ',$prC[1]);
+					for($i=1;$i<count($prL);$i++) {
+						if($prL[0]!=$prC[0] & strlen($prL[0])>4) break;
+						$prL[0] .= ' '. $prL[$i];
+						$prC[0] .= ' '. $prC[$i];
+					}
+					$prL = substr($pr_ret[0],0,strlen(trimP($prL[0])));
+	
+					preg_match('/BodyEDrop>([^<]*)</',$prayer,$prE);
+					preg_match('/BodyEDrop>([^<]*)</',$commem,$prC);
+					$prE = explode(' ',$prE[1]);
+					$prC = explode(' ',$prC[1]);
+					for($i=1;$i<count($prE);$i++) {
+						if($prE[0]!=$prC[0] & strlen($prE[0])>4) break;
+						$prE[0] .= ' '. $prE[$i];
+						$prC[0] .= ' '. $prC[$i];
+					}
+					$prE = substr($pr_ret[1],0,strlen(trimP($prE[0])));
+					rubp('Oratio <snr>'.$prL.'</s>, ut supra.','Prayer <snr>'.$prE.'</s>, as above.');
 				}
-				$prL = substr($pr_ret[0],0,strlen(trimP($prL[0])));
-
-				preg_match('/BodyEDrop>([^<]*)</',$prayer,$prE);
-				preg_match('/BodyEDrop>([^<]*)</',$commem,$prC);
-				$prE = explode(' ',$prE[1]);
-				$prC = explode(' ',$prC[1]);
-				for($i=1;$i<count($prE);$i++) {
-					if($prE[0]!=$prC[0] & strlen($prE[0])>4) break;
-					$prE[0] .= ' '. $prE[$i];
-					$prC[0] .= ' '. $prC[$i];
-				}
-				$prE = substr($pr_ret[1],0,strlen(trimP($prE[0])));
-				rubp('Oratio <snr>'.$prL.'</s>, ut supra.','Prayer <snr>'.$prE.'</s>, as above.');
 			}
 
 			if(0<$class && $class<=2) rubrics('prSanct/ComplineSun.php');

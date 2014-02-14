@@ -20,6 +20,8 @@ space();
 
 csref();
 PrV('qui_passus_es_propter_nostram_salutem.php');
+space();
+
 hour('T');
 lc('lam2_13.php');
 brS('prSanct/o_vos_omnes_qui_transitis_per_viam.php');

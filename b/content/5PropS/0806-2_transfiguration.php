@@ -7,7 +7,7 @@
 		'The Transfiguration of our Lord Jesus Christ');
 
 	hour('1V');
-	rubrics('prSanct/Sun1Vespers.php'); 
+	rubrics('prSanct/if1cl_sun_1Vespers.php'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
 	lc('phil3_20-21.php','ps0806Vlc','h','quicumque_christum_quaeritis.php');

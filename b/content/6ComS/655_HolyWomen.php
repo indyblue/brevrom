@@ -19,7 +19,7 @@
 	space('Line');
 	head('Si fuerint plures Martyres non Virgines','If there are several Martyrs not Virgins',-4);
 	vrS('gloria_et_honore_coronasti_eum_domine.php',2);
-	ant('istarum_est_enim_regnum_caelorum.php','M',2);
+	ant('istorum_est_enim_regnum_caelorum.php','M',2);
   	space('Line');
 	rubrics('cs/1Compline.php');
 
@@ -45,7 +45,7 @@
 	space('Line');
 	head('Si fuerint plures Martyres non Virgines','If there are several Martyrs not Virgins',-4);
 	vrS('gloria_et_honore_coronasti_eum_domine.php',2);
-	ant('istarum_est_enim_regnum_caelorum.php','B',2);
+	ant('istorum_est_enim_regnum_caelorum.php','B',2);
 	prayer('csHolyWomenMartyrs1.php');
 
 	space();
@@ -108,7 +108,7 @@
 	space('Line');
 	head('Si fuerint plures Martyres non Virgines','If there are several Martyrs not Virgins',-4);
 	vrS('gloria_et_honore_coronasti_eum_domine.php',2);
-	ant('istarum_est_enim_regnum_caelorum.php','M',2);
+	ant('istorum_est_enim_regnum_caelorum.php','M',2);
 	space('Line');
 	rubrics('cs/Compline.php');
 

@@ -13,7 +13,7 @@ vrS('justus_ut_palma_florebit.php');
 ant('prSanct/0829b.php','B');
 rubrics('head/Prayer.php');
 prayer('prSanct/0829.php');
-feast_saint(829,-1,'S. Sabinæ','St. Sabina','M',array('csHolyWomanMartyr1.php','Sabínæ','Sabina'));
+feast_saint(829,-1,'S. Sabinæ','St. Sabina','M',array('csHolyWomanMartyr1.php','Sabínæ','Sabina'),0,array('diffusa_est_gratia_in_labiis_tuis.php','date_ei_de_fructu_manuum_suarum.php'));
 space();
 
 csref('csM',2,2);

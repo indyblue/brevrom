@@ -123,7 +123,6 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 				$E = str_replace($subst,'',$E);
 			}
 			if($short) {
-				echo $L;
 				$L = first_word($L,8,-1) . ', <sr>ut supra.</s>';
 				$E = first_word($E,8,-1) . ', <sr>as above.</s>';
 			}

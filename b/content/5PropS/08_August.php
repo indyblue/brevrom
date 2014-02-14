@@ -15,7 +15,7 @@ feast_saint(802,3,'S. Alfonsi Mariæ de Ligorio',
 
 feast_saint(804,3,'Sancti Dominici','Saint Dominic','C');
 
-require '0805-3_mary_of_the_snows.php';
+feast_saint(805,3,'in Dedicatione S. Mariæ ad Nives','The Dedication of St. Mary of the Snows','B','csBVM1.php');
 
 require '0806-2_transfiguration.php';
 
@@ -41,7 +41,9 @@ require '0814-2_vigil_assumption_bvm.php';
 
 require '0815-1_assumption.php';
 
-require '0816-2_joachim.php';
+feast_saint(816,2,'S. Joachim, <br><r>Patris B. Mariæ Virg.</s>','St. Joachim, <br><r>Father of the Bl. Virg. Mary</s>','C',0,0,
+	array('prSanct/potens_in_terra_erit_semen_ejus.php','prSanct/0816b.php',
+		'prSanct/potens_in_terra_erit_semen_ejus.php','prSanct/0816b.php'));
 
 feast_saint(817,3,'Sancti Hyacinthi','Saint Hyacinth','C',array('csConfessor1.php','Hyacínthi','Hyacinth'));
 
@@ -53,11 +55,12 @@ feast_saint(820,3,'Sancti Bernardi','Saint Bernard','aD',array('csConfessorDocto
 
 feast_saint(821,3,'S. Joannæ Franciscæ Frémiot de Chantal','St. Jane Frances Frémiot de Chantal','W');
 
-require '0822-2_immaculate_heart.php';
-
+feast_saint(822,2,'Immaculati Cordis B. Mariæ Virg.','Immaculate Heart of the Bl. Virg. Mary','B',0,
+	"feast_saint(822,-1,'Ss. Timothei, Hippolyti et Symphoriani','Ss. Timothy, Hyppolytus and Symphorian','M+');",
+	array(0,1,0,1));
 feast_saint(823,3,'S. Philippi Benitii','St. Philip Benizi','C');
 
-require '0824-2_bartholomew.php';
+feast_saint(824,2,'Sancti Bartholomæi','Saint Bartholomew','A');
 
 feast_saint(825,3,'Sancti Ludovici','Saint Louis','KC');
 
