@@ -1,0 +1,19 @@
+0~This psalm describes the second coming of Jesus Christ, which will be public and full of majesty, in contrast with his first coming, which was humble and hidden.
+1~The God of gods, the true God, the Sovereign Master of all created powers, has cited before his tribunal all men of the earth to give an account of their lives.
+2~He will make his voice heard from one extremity of the earth to the other; and he shall come down from the heavenly Sion, adorned with his glory and majesty.
+3~Our God shall come in sight of the whole world, and make himself known as the great God that he is; and then he shall no longer be silent, as he has been in the past, seeing the sins of the wicked, while seeming not to notice the injury that he received.
+4~The fire at his presence will burn with greater force, reducing the world to ashes, according to the words of St. Peter: <l>Terra autem, et quæ in ipsa sunt opera, exurentur</s>—The earth and the works which are in it shall be burnt up (2 Peter 3:10). And around him there shall be a great and universal tempest, which shall throw everything into confusion on earth, in the sea, and in the air.
+5~He will then call heaven and earth, that is, all the angels and all men, to be present at the judgment that he will make of his people, by separating the elect from the reprobate.
+6~Angels of heaven, gather around the Sovereign Judge his saints, that is, the elect; who besides sacrifices, that is, besides external worship, have kept his covenant by obeying his law.
+7~“<l>Deus judex est.</s>” The judge is God; he cannot err.
+8~Here the prophet makes Jesus Christ speak and say: Listen, my people, to what I shall say to thee; listen, Israel, that is, all the true faithful, to what I shall declare to thee, through my inspirations and by my ministers; thou shouldst believe me, for I am thy God, the true God, who knows all things, and who loves thee.
+9~My people, I will not reproach thee for the sacrifices that thou hast neglected to offer to me; for those that thou hast offered me suffice me, and they are ever before my eyes.
+12~I well know that all the birds are mine, and that which gives richness and beauty to the fields is mine.
+15~If thou wouldst please me, offer to me, thy God, a sacrifice of praise, which comes not only from the lips, but from a heart that loves me, and fulfil the promises that thou hast made to me.
+16~“<l>Honorificabis me.</s>” Thou shalt honor me by returning me thanks.
+17~We read in St. Jerome’s translation: <l>Quid tibi est cum narratione præceptorum meorum, et ut assumas pactum meum in ore tuo?</s> The verse may, therefore, be thus explained: The Lord says to the sinner: Of what use is it to talk of my precepts, when thou dost not observe them, and of my covenant, when thou art wanting to it on thy part?
+18~“<l>Disciplinam.</s>” That is, my teaching.
+21~“<l>Ponebas scandalum.</s>” St. Jerome’s translation is: <l>Fabricabaris opprobrium.</s> The sense of the verse is: Sitting in company with others, thou hast spoken ill of thy neighbor; thou hast sought to take away the good name of thy own brother; this thou hast done, and I have been silent.
+22~Didst thou think, O wicked man! that I was like to thee? and that I should take no account of thy offences against me? but the time will come when I shall bring up against thee thy wicked life, and I will take care that thy crimes may ever be before thy eyes, that their very hideousness may ever be thy torment.
+23~“<l>Nequando rapiat.</s>” That so you may avoid being made one day the prey of the devil.
+24~Remember that the sacrifice of praise, that is, a good life, is the only sacrifice that honors me; and this is the way by which I give thee to understand that thou wilt obtain salvation, which consists in the enjoyment of the sight of God, and in loving him for all eternity.

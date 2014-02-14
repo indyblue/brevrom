@@ -1,0 +1,9 @@
+0~The psalmist implores the Lord to protect him from his enemies; he also prays God to preserve him from such faults as may render his prayers useless.
+2~May my prayer ascend to Thee as the smoke of innocence rises in Thy sight; and when I lift my hands to Thee to implore Thy help may this be acceptable to Thee as the sacrifice that is offered to Thee at evening time.
+3~That is: Permit not that any inconsiderate word escape me that could cause Thee displeasure.
+4,5~And if even through weakness I should offend Thee, suffer me not to speak maliciously by seeking to excuse my sins. This is what wicked men do; but I do not wish to have part with them, nor share in the disorders that are their chief delight.
+6~That is: I prefer the charitable corrections and reproaches of the just to the flatteries of the wicked.
+7~This verse is very obscure; according to St. John Chrysostom it is thus explained: I will not only have no communication with the wicked, but moreover my prayer to God is that he will not allow me to find delight in those things that please them; they will perish along with their judges, that is, their chiefs who lead them on to evil; these indeed have already perished by striking against the rock which has caused their wreck.
+8~This verse is also very obscure; it is thus explained: I hope nevertheless that they will hear my words; for they are such as will have power to make them repent, and as the hardened earth yields to the spade and is broken up, so their obstinacy will be broken and yield to my persuasions.
+9~Our bones have been scattered, that is, our strength is weakened, so that we find ourselves as it were on the brink of the grave; but, O Lord, my eyes turn to Thee; in Thee have I put my hopes, give me not up to death.
+11~The wicked ones shall be caught in the snares that they laid for me; for myself, I hope to be in a special manner protected by Thee until I am out of danger.

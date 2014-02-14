@@ -54,7 +54,7 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 	elseif($opt=='h' || $opt=='H') {
 		$dir2 = "/www/b/content/00/Hymn/L/";
 		$pieces = file_load($dir2.$file2);
-		$ref2 = 'and hymn, <snr>'. trimP($pieces[4]) . '</s>, ';
+		$ref2 = 'and hymn, <snr>'. trimP($pieces[3]) . '</s>, ';
 	} elseif($opt=='br' || $opt=='BR') {
 		$dir2 = "/www/b/content/00/VR/";
 		$pieces = file_load($dir2.$file2);

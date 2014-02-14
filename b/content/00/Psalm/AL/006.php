@@ -1,0 +1,8 @@
+0~According to the most probable opinion of the learned, this psalm, taken in the literal sense, properly refers to the penitence of David. Hence it is, conclusively, the prayer of the sinner who fears the blows of the divine justice, and who strives to become reconciled with his God. It is the first of the Penitential Psalms.
+1~This verse signifies: O Lord, punish me if Thou wilt, but not in Thy anger; that is to say: Chastise me as a father and not as a judge. Not to be punished here on earth after I have offended Thee would be to me the greatest punishment. I beg Thee, then, to punish me here below, in order that I may amend, and may avoid eternal death. (See what is said on this point in Ps. 2:5.)
+2~“<l>Infirmus sum; sana me, Domine, quoniam conturbata sunt ossa mea</s>” Have pity on me, O Lord! I am full of infirmities; heal me by strengthening me with Thy grace; for my very bones are troubled, that is, are trembling with weakness.
+3~That is to say: My soul also is troubled, and much more so than my body; how long wilt Thou delay to come to my assistance?
+4~“<l>Eripe animam meam.</s>” Deliver my soul from the many miseries and perils that surround it. “<l>Salvum me fac propter misericordiam tuam</s>” Save me through Thy pure mercy; for I deserve nothing but punishment and hell itself.
+5~“<l>In morte.</s>” In eternal death.
+7~I have conceived great indignation against myself when considering the deformity of my sins, and when seeing myself growing old in the midst of my enemies, which are my vices and my bad habits.
+8~“<l>Qui operamini iniquitatem.</s>” Perverse enemies, who would also pervert me.

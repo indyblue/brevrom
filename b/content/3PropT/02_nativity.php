@@ -155,10 +155,12 @@
    <p:Rubric>Brief Respond as in Ordinary of Christmas</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:Rubric>Little Chapter and Brief Respond as in Ordinary of Christmas.</p>
+<?php lc('hebr1_10.php'); ?>
+   <p:Rubric>Brief Respond as in Ordinary of Christmas.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:Rubric>Little Chapter and Brief Respond as in Ordinary of Christmas</p>
+<?php lc('hebr1_11-12.php'); ?>
+   <p:Rubric>Brief Respond as in Ordinary of Christmas</p>
    <p:BodySm/>
 	<p:Head2>ad II Vésperas</p>
 <?php bookmark('PsPrNativity'); ?>
@@ -636,20 +638,7 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Ecclus 15:1-2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>QUI timet Deum, fáciet bona: et qui cóntinens est justítiæ, apprehéndet illam, et obviábit illi quasi mater honorificáta.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>HE that feareth God, will do good: and he that possesseth justice, shall lay hold on her, And she will meet him as an honourable mother.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('ecclus15_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>as in Common of Apostles, with the following response:</p>
 <?php 
@@ -695,46 +684,20 @@
 	<p:BodySm/>
    <p:Rubric>At the Little Hours, antiphons and psalms of the occuring feria.</p>
    <p:Head2>ad Tértiam</p>
-   <p:Rubric>Little Chapter as in Lauds</p>
+<?php lc('ecclus15_1-2.php'); ?>
    <p:Rubric>Brief Respond as in Common of Apostles.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Ecclus 15:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>CIBÁVIT illum pane vitæ et intelléctus, et aqua sapiéntiæ salutáris potávit illum Dóminus, Deus noster.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>HE nourished him with the bread of life and of understanding, and the Lord our God gave him the water of saving knowledge to drink.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('ecclus15_3.php'); ?>
    <p:Rubric>Brief Respond as in Common of Apostles.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Ecclus 15:5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>IN médio Ecclésiæ apéruit os ejus, et implévit illum Dóminus spíritu sapiéntiæ et intelléctus, et stolam glóriæ índuit eum.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>In the midst of the Church he opened his mouth, and the Lord filled him with the spirit of wisdom and understanding, and clothed him with a robe of glory.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('ecclus15_5.php'); ?>
    <p:Rubric>Brief Respond as in Common of Apostles.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/PrNativity.php'); ?>
-   <p:Rubric>Little Chapter as in Lauds</p>
+<?php lc('ecclus15_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>as in Common of Apostles, with the following response:</p>
 <?php 
@@ -1162,10 +1125,10 @@
    <p:Head2>ad Laudes</p>
 <?php bookmark('pt0101L'); ?>
 	<p:Head3>Psalms with Antiphons</p>
-<?php ant('prTemp/0101.php','20000'); ?>
+<?php ant('prTemp/0101L.php','20000'); ?>
 
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prTemp/0101.php','02222'); ?>
+<?php ant('prTemp/0101L.php','02222'); ?>
    <p:Rubric>Little Chapter, Hymn and Benedictus as in Ordinary of Christmas.</p>
    <p:BodySm/>
    <p:BodySm/>

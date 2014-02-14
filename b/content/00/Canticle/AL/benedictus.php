@@ -1,0 +1,8 @@
+0~In this canticle we hear the prophet Zachary praising and thanking the Messias who comes to save mankind: he then shows his own son, St. John the Baptist, chosen to be the precursor of our Lord Jesus Christ.
+2~“<l>Cornu salutis.</s>” The strength that saves, that is, the Saviour.
+8~“<l>In sanctitate et justitia coram ipso.</s>” That is to say: Not merely with external worship, but also with piety and interior justice, which renders us likewise interiorly just in the sight of God.
+9~Thou shalt be the prophet of the Lord; for before he manifests himself on earth, thou shalt go forth to prepare souls to follow his teaching.
+11~“<l>Per viscera misericordiæ.</s>” That is: Through the immense and tender pity. “<l>Oriens.</s>” The word Oriens is not the participle of the verb <l>Orior,</s> but according to the Hebrew and the Greek text, is a noun substantive, which, as explained by St. Jerome, St. Cyril, and others cited by Tirinus in his comments on <si>Zachary,</s> 3:8, denotes the eternal Word begotten by God. Hence the following is the antiphon which the Church sings on the 21st of December in addressing our divine Saviour: 
+<l>O Oriens, Splendor lucis æternæ, et Sol justitiæ! veni, et illumina 
+sedentes in tenebris et umbra mortis</s>—O Orient, Splendor of eternal light, and Sun of justice, come and enlighten those who sit in darkness and the shadow of death.
+12~“<l>Qui in tenebris et in umbra mortis sedent.</s>” That is: Those that are deprived of the grace of God, a privation which is the shadow of the eternal death. “<l>In viam pacis.</s>” In the path that conducts to eternal beatitude.

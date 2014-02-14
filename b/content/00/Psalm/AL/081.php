@@ -1,0 +1,8 @@
+0~It is God whom the prophet makes speak in this psalm; he reproaches the princes and the judges of the earth for their evil administration of justice, and places before them the moment of death, when they themselves will have to be judged. The last verse shows us Jesus Christ coming to judge all men at the end of the world.
+1~“<l>Deorum.</s>” According to the Chaldee: <l>Judicum.</s> “<l>Deos dijudicat.</s>” He weighs the judgments that they render.
+2~Here God is speaking to the judges. “<l>Facies peccatorum sumitis?</s>” Bellarmine says that <l>Sumere faciem alicujus in judicio,</s> is to judge, not according to the rule that justice demands, but according to the pleasure of him whom the judge wishes to favor. But Mattei says that <l>Sumere faciem peccatorum,</s> according to the proper sense of the Hebrew expression, signifies: <l>Erigere faciem peccatorum,</s> and says he, when judges favor the wicked, they cause the wicked to hold up their head; that is, their pride.
+4~“<l>De manu peccatoris.</s>” From the hands of the sinner who is more powerful and would oppress them.
+5~The wicked judges do not understand these maxims; they walk in the dark, and they put all the world in confusion by their unjust practices.
+6~O judges! I have set you up as gods of the earth, by giving you a share of my own power; by virtue of this authority that you have received from the Most High, you are his sons.
+7~But take note that you are men, and as men you have all to die, and one day each one of you will fall from his post, as the princes who went before you have fallen.
+8~“<l>Hereditabis in omnibus gentibus.</s>” Thy reign shall extend over all the nations as Thy heritage, and at the last day all these must submit to Thy justice and power.

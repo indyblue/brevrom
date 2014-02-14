@@ -545,7 +545,7 @@ Saturday (</s><?php echo bkref('psSP'); ?><sr>)</s></p>
    </table>
    <p:BodySm/>
 	<p:RubricH>After the brief Lesson is said:</p>
-<?php vrS('Ord/adjutorium_nostrum_in_nomine_domini.php'); ?>
+<?php vrS('Ord/adjutorium+nostrum_in_nomine_domini.php'); ?>
 <?php vrS('Ord/benedicite.php'); ?>
 	<table>
 	 <tr>
@@ -761,7 +761,7 @@ Saturday (</s><?php echo bkref('psSV'); ?><sr>)</s></p>
      </td>
     </tr>
    </table>
-<?php vrS('Ord/adjutorium_nostrum_in_nomine_domini.php'); ?>
+<?php vrS('Ord/adjutorium+nostrum_in_nomine_domini.php'); ?>
    <table>
     <tr>
      <td:A1>

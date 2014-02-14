@@ -1,0 +1,93 @@
+--- verse number check ---
+vim/^\d*,\d*,[^~]*\~/*.php
+
+--- Latin/English checks ---
+// delete latin tags, change <si> tags to []'s
+%s/<l>/</ig | %s/<si>/<</ig | %s/<\/s>/>/ig  | %s/<<\([^>]*\)>/[\1]/ig | %s/<[^>]*>//ig
+
+// delete parens
+%s/([^)]*)//ig
+// delete Italian verse
+%s/Signor.*liberi.//
+
+
+// delete all but latin tags
+%s/<l>/</ig | %s/<si>/<</ig | %s/<\/s>/>/ig  | %s/<<[^>]*>//ig | %s/<[^>]*>/\r\0\r/ig
+g!/</d
+
+// process whitaker's latin output
+g!/UNKNOWN/d
+%s/^\(\k*\)\(\s*\)=.*/\1\2 vim\/\\c\1\/*.php/ig
+
+
+--- check Parenthases, quotes ---
+%s/([^)]*)/\r\0\r/ig
+g!/(/d
+
+%s/([^)]*)//ig
+%s/“[^"“”]*”//ig
+
+--- word list ---
+%s/\v<\k*>/\r\0\r/ig
+g!/\k/d
+g/\d/d
+sort
+%s/\v^(.*)$\n(\1\n)+/+ \1\r/ig
+
+
+
+--- other stuff? ---
+%s/\v^(.*)$\n(\1\n)+//ig
+
+g/\v^(.*)$\n(\1\n)/j
+g/\v^(<.*>).*$\n(\1>)/j
+
+g/\c[áéíóúýǽ]/d
+
+deletes latin words of 2 or less syllables
+g/\v\c<[^aeëiouyæœáéíóúýǽ]{-}((au|[qg]u[aeëiouyæœáéíóúýǽ]|[aeëiouyæœáéíóúýǽ])[^aeëiouyæœáéíóúýǽ]{-}){,2}>/d
+
+
+--- Accent Check ---
+\v\c<[^aeiouyæœ]{-}((au|[qg]u[aeiouyæœ]|[aeiouyæœ])[^aeiouyæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
+
+--- accent drop & spaces ---
+%s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | %s/\W\{1,}/_/eig | %s/_$//eig | noh
+
+--- accent drop ---
+%s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | noh
+
+
+
+%s/<text:bookmark-ref.*ref>/\r\0\r/g | g!/bookmark-ref/d | %s/<text:bookmark-ref.*name="\([^"]*\)".*ref>/<p:BkHidden><text:bookmark text:name="\1"\/><\/p>/
+
+--- find double/triple consonants ---
+%s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0\r\2,\0\r\3,\0/ig
+%s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0\r\2,\0/ig
+%s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0/ig
+g!/,/d
+
+%s/\v^\k*([b-df-hj-np-tv-xz]{3})\k*([b-df-hj-np-tv-xz]{3})\k*$/\1,\0\r\2,\0/ig
+%s/\v^\k*([b-df-hj-np-tv-xz]{3})\k*$/\1,\0/ig
+g!/,/d
+
+%s/æ/ae/ig | %s/œ/oe/ig
+%s/ae/æ/ig
+/\<[A-ZÆ]*\>
+
+
+%s/<[^>]*\/>/\r\0\r/ig
+g!/<[^>]*\/>/d
+
+vim/annua/*.php *\*.php *\*\*.php *\*\*\*.php *\*\*\*\*.php *\*\*\*\*\*.php
+
+/* accent on œ */
+cœtui
+fœdera
+fœdere
+fœderis
+fœtidum
+
+/* find œ's */
+set nomore | ar *.htm *\*.htm *\*\*.htm *\*\*\*.htm | call setreg('a',"")
+argdo g//y A

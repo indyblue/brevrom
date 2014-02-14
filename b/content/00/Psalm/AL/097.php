@@ -1,0 +1,8 @@
+0~The prophet thanks God for having delivered his people from captivity; he at the same time foretells in a figurative sense the coming of Jesus Christ and the Redemption of mankind.
+1~“<l>Quia mirabilia fecit.</s>” For the marvels that he has wrought in behalf of his servants.
+2~This verse may well be applied to Jesus Christ. “<l>Sibi.</s>” Bellarmine says that this word, according to the Hebrew, is to be understood as if it were <l>Ipsa;</s> which gives this meaning: It is his own right hand that has saved the world. But St. Augustine refers the pronoun <l>Sibi</s> to Jesus Christ, as to the end proposed, thus: Christ has saved men for himself, that is, for his own glory. “<l>Et brachium sanctum ejus.</s>” And all has been the work of his own holy arm.
+3~“<l>Salutare suum.</s>” The salvation that he has provided for the world. “<l>Revelavit justitiam suam.</s>” He has by means of his apostles manifested his justice, that is, his fidelity in the accomplishment of the promised Redemption.
+4~God is said to remember when he fulfils a promise that he has made; now he had promised the people of Israel to come to save mankind; and he remembered his mercy and his fidelity by accomplishing this promise.
+7~“<l>Voce psalmi.</s>” That is, as explained by Bellarmine, Menochius, and Lallemant: <l>Sonitu psalterii</s>—With the sound of the psaltery. “<l>Ductilibus.</s>” Menochius thus explains them: <l>Mettalicis, ex laminibus malleo ductis</s>—Long, straight, metal trumpets shaped and attuned by the hammer.
+9~“<l>Plaudent manu.</s>” As one does to praise any one. “<l>Judicare.</s>” To govern by excellent laws.
+10~“<l>In æquitate.</s>” According to the Hebrew, as Bellarmine remarks: <l>In rectitudine</s>—Rectitude, or righteousness.

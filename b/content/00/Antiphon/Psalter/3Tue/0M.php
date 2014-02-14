@@ -1,5 +1,5 @@
 Expúgna, Dómine, * impugnántes me.
-Restítue ánimam meam * a malefáctis eórum, Dómine. 
+Restítue ánimam meam * a malefáctis eórum, Dómine.
 Exsúrge, Dómine, * et inténde judício meo.
 Noli æmulári * in eo, qui prosperátur, et facit iniquitátem.
 Bráchia peccatórum * conteréntur: confírmat autem justos Dóminus.

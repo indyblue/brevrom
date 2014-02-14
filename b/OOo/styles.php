@@ -78,7 +78,7 @@ Spacer			2
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="BodyESm" style:class="extra">
-   <style:paragraph-properties fo:margin-left="0.1in" fo:margin-right="0in" fo:text-indent="-0.1in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.1in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
   </style:style>
   <style:style style:name="BodyLSm" style:family="paragraph" style:parent-style-name="BodyESm">
    <style:text-properties fo:language="la" fo:country="VA"/>
@@ -200,6 +200,9 @@ Spacer			2
   <style:style style:name="NonRubric" style:family="text" style:parent-style-name="Rubric">
    <style:text-properties fo:color="#000000" fo:font-style="normal" fo:font-weight="normal"/>
   </style:style>
+  <style:style style:name="Italic" style:family="text">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
   <style:style style:name="Bold" style:family="text">
    <style:text-properties fo:font-weight="bold"/>
   </style:style>
@@ -215,6 +218,9 @@ Spacer			2
   <style:style style:name="SmCaps" style:family="text">
    <style:text-properties fo:font-variant="small-caps"/>
   </style:style>
+  <style:style style:name="Super" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
   <style:style style:name="DropCap" style:family="text">
    <style:text-properties style:font-name="Old London" fo:font-weight="250"/>
   </style:style>
@@ -222,7 +228,7 @@ Spacer			2
    <style:text-properties fo:color="#ff0000" style:font-name="Times VR"/>
   </style:style>
   <style:style style:name="L" style:family="text">
-   <style:text-properties fo:language="la" fo:country="VA"/>
+   <style:text-properties fo:language="la" fo:country="VA" fo:font-style="italic"/>
   </style:style>
 
 

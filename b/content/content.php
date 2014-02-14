@@ -46,7 +46,7 @@ $_GET['L'] = 0;
 //     'L5' for Lulu 5.5 x 8.5
 //     'L8' for Lulu 8.5 x 11
 //
-$_GET['Style'] = 'L5';
+$_GET['Style'] = '7';
 
 // 
 // these are only used if 'Style' is not a valid preset
@@ -70,18 +70,19 @@ $_GET['O'] = 0;
 // require '2Psalter/index.php';
 // require '2Psalter/index_OLD.php';
 
+space('PgB');
+require 'psalms.php';
 
-
-require '100_intro.php';
-require '110_toc.php';
-require '150_calendar.php';
-require '3PropT/index.php';
-require '1Ordinary/index.php';
-require '2Psalter/index.php';
-
-require '5PropS/index.php';
-require '6ComS/index.php';
-require '7App/index.php';
+// require '100_intro.php';
+// require '110_toc.php';
+// require '150_calendar.php';
+// require '3PropT/index.php';
+// require '1Ordinary/index.php';
+// require '2Psalter/index.php';
+// 
+// require '5PropS/index.php';
+// require '6ComS/index.php';
+// require '7App/index.php';
 
 
 // require '998_indices.php';

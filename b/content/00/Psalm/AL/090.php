@@ -1,0 +1,13 @@
+0~The psalmist here exhorts those that have put all their hope in God to fear no danger. This psalm is somewhat in the form of a dialogue; for the psalmist, the just man, and God himself speak successively.
+1~He that lives in the confidence of the help of God shall be assured of his protection.
+3~“<l>Venantium.</s>” That is: Of enemies who sought to make me their prey. “<l>A verbo aspero.</s>” Some interpret this of every calamity; Bellarmine, with others, understands it of the condemnation of the reprobate, that is, of the sentence of eternal death.
+4~If thou trustest in the Lord, he will cover thee with his shoulders, that is, with his wings, and under the wings of his protection thou mayest hope to be sheltered from every danger.
+5,6~“<l>Veritas ejus.</s>” The faithfulness of his promises. “<l>A timore nocturno.</s>” Of the secret plots of thy enemies. “<l>A sagitta volante in die,</s>” Of arrows that shall be shot at thee unexpectedly during the day, that is, sudden and unforeseen dangers. “<l>A negotio perambulante in tenebris.</s>” All hurtful things brought about by unknown causes. “<l>Ab incursu et dæmonio meridiano.</s>” Of any assault of the devil, made with open attack in the middle of the day. In a word, as St. Augustine says, if God protects thee, thou wilt not have to fear any evil planned against thee, by day or by night, in public or in private, whether on the part of men or of demons.
+7~Thou shalt see thy enemies fall around thee in great number, and they will not be able to hurt thee.
+8~With thy eyes thou shalt see the protection of God over thee, and the vengeance that he will take of thy unjust persecutors.
+9~And whereas thou hast trusted in the Lord, saying: O Lord, thou art my hope; thou hast procured for thyself a most high refuge, that is, one most safe, wherein thou hast nothing to fear.
+10~Know that here no evil shall happen to thee, and no scourge shall come nigh thy dwelling.
+11,12~For the Lord has commended thee to his angels, that they may guard thee in all thy ways: if even thou art in some perilous road, they will bear thee up in their hands, so that thy feet may not chance to stumble against any stone of scandal, that is, any dangerous occasion of sin.
+13~That is: Thou wilt have nothing to fear from evil encounters. In a spiritual sense, by the asp is understood the demon who inspires despair; by the basilisk, the demon who inspires presumption; by the lion, pride; and by the dragon, attachment to earthly goods.
+14~“<l>Cognovit.</s>” He has known and invoked.
+16~I will give him a long life, and will make him enjoy the health and salvation that I shall bestow upon him in this life, and eternal salvation which I reserve for him in the next.

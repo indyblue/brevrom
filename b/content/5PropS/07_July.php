@@ -1,7 +1,7 @@
 <?php 
 
 space();
-img('separator3.tif',100);
+img();
 head('Festa Julii', 'Feasts of July',1);
 
 require '0701-1_precious_blood.php';

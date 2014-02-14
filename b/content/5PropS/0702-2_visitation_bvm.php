@@ -2,7 +2,7 @@
 
 	space(); 
 	img();
-	headst('702',12,'in Visitatione B. Mariæ Virg.',
+	headst('702',2,'in Visitatione B. Mariæ Virg.',
 		'The Visitation of the Bl. Virgin Mary');
 	rubrics('prSanct/all_from.php','csBVM');
 
@@ -17,6 +17,9 @@
 	prayer('prSanct/0702.php');
 	feast_saint(702,-1,"Ss. Processi et Martiniani",
 		"Ss. Processus and Martinian","M+");
+
+	rubrics('prSanct/horas_from.php','csBVMLH',2);
+	PrV('qui_natus_es_de_maria_virgine.php');
 
 	space();
 	hour('V');

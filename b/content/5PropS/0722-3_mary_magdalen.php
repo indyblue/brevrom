@@ -2,8 +2,8 @@
 
 	space(); 
 	img();
-	headst('722',13,'in Visitatione B. Mariæ Virg.',
-		'The Visitation of the Bl. Virgin Mary');
+	headst('722',3,'S. Mariæ Magdalenæ',
+		'St. Mary Magdalene','Penitent');
 	rubrics('ps/Feria.php');
 	rubrics('prSanct/all_else.php','csHW');
 

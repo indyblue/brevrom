@@ -1,0 +1,6 @@
+0~Pursued by calumny, David implores the help of God, and proclaims his hope of seeing this persecution turn to the ruin of his enemies and to the advantage of the just. In the mystical sense this psalm applies to the Passion of Jesus Christ.
+6~“<l>Iniquitates.</s>” According to Bossuet: <l>Vias nocendi</s>—Their ways of injuring. The sense of the verse is: They have studied the ways of doing injury; but in this research they have found themselves foiled. This applies to the testimony brought forward against Jesus Christ.
+7~Bossuet well explains this verse: When the wicked man cannot find fault with the just on the score of his actions, he tries to give a wrong interpretation to the secret thoughts of his heart; but God, who defends the innocent, will be exalted by punishing the wicked.
+8~As the arrows discharged by children inflict only slight wounds, so the plots and calumnies of the wicked will have no effect; and therefore the arrows discharged by their tongues have become powerless to injure the objects of their calumny, and have fallen back upon themselves. This is according to the translation of St. Jerome: <l>Et corruent in semetipsos plagis suis.</s>
+9~Those that have seen their chastisement were seized with surprise; and every one will henceforth fear to follow them.
+10~In this all have recognized the hand of God, and have published it abroad.

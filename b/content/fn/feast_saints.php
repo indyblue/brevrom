@@ -22,6 +22,7 @@ K (Regis)(King)
 Q (Reginæ)(Queen)
 
 ------------------------------
+Ash Wed Date Range: 2/4 - 3/10
 Easter Date Range: 3/22 - 4/25
 
 --- Optional P.T. ranges ---
@@ -38,10 +39,12 @@ Easter Date Range: 3/22 - 4/25
 
 function headSt($date, $class, $nameL, $nameE, $descr='') {
 	if($class==1) $clname = 'I class';
-	if($class==2) $clname = 'II class';
-	if($class==3) $clname = 'III class';
-	if($class==0) $clname = 'Commem.';
-	
+	elseif($class==2) $clname = 'II class';
+	elseif($class==3) $clname = 'III class';
+	elseif($class==0) $clname = 'Commem.';
+	else trigger_error('Invalid class for '. $date
+	  	.' ('. $nameE .')', E_USER_ERROR);
+
 	if(is_array($date)) {
 		$Ldate = $date[0];
 		$Edate = $date[1];

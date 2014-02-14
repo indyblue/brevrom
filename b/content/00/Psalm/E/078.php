@@ -7,7 +7,7 @@ How long, O Lord, wilt thou be angry for ever: * shall thy zeal be kindled like 
 Pour out thy wrath upon the nations that have not known thee: * and upon the kingdoms that have not called upon thy name.
 Because they have devoured Jacob; * and have laid waste his place.
 Remember not our former iniquities: let thy mercies speedily prevent us, * for we are become exceeding poor.
-Help us, O God, our saviour: and for the glory of thy name, O Lord, deliver us: * and forgive us our sins for thy name&apos;s sake:
+Help us, O God, our saviour: and for the glory of thy name, O Lord, deliver us: * and forgive us our sins for thy name’s sake:
 Lest they should say among the Gentiles: Where is their God? * And let him be made known among the nations before our eyes,
 By the revenging the blood of thy servants, which hath been shed: * let the sighing of the prisoners come in before thee.
 According to the greatness of thy arm, * take possession of the children of them that have been put to death.

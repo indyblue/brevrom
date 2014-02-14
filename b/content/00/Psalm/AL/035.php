@@ -1,0 +1,14 @@
+0~The psalmist here shows how great, on the one hand, is the malice of sinners, and, on the other hand, how great is the mercy of God set forth to convert them. It also at the same time makes known with what goodness our Lord treats the just.
+1~The wicked man has said in his heart, or has resolved (as is explained by Bellarmine and Mattei), to sin freely; and he acts thus because he has no longer the fear of God before his eyes.
+2~This is a very difficult verse. St. Augustine explains it thus: <l>In odio, persequente iniquitate sua, dolose egit coram Deo</s>—Out of hatred, pursuing his path of crime, he acts deceitfully before God; words that are applicable to sacrilegious confessions. The Rabbinists explain the Hebrew text thus: The wicked man sins, flattering himself that God does not see and does not abhor his iniquity. But Mattei believes that some words are wanting in the Hebrew text; his opinion is that the psalmist is not speaking here of deceitful hypocrites, but of obstinate sinners; and he explains the verse in this manner: The sinner acts perversely before the eyes of God, so that his iniquity may draw down the divine hatred upon himself. Such is also the explanation given by Bellarmine and Bossuet.
+3~“<l>Noluit intelligere ut bene ageret.</s>” He does not wish to understand what is good, so as not to be obliged to practise it.
+4~On his bed he premeditates to do evil, and he gives himself to every wicked means; for, far from hating evil, he loves it.
+5~That is to say: Thy mercy and Thy fidelity to Thy promises are immense and infinite.
+6~Thy justice is as great as a mountain, and as a divine mountain that is high beyond our sight; and Thy judgments are to us abysses very obscure and impenetrable.
+7~“<l>Homines et jumenta salvabis.</s>” Bellarmine explains this passage by saying that God wishes to save not only good men, but also those who, by following their sensual appetites, make themselves like brute beasts.
+8~“<l>In tegmine alarum tuarum.</s>” That is to say: Relying on Thy protection and Thy Providence.
+9~Thou wilt make them participate in the infinite joy that Thou Thyself dost experience.
+10~“<l>In lumine tuo, videbimus lumen.</s>” Illumined by Thy divine light, we shall see Thyself who art the Light by essence.
+11~“<l>Justitiam tuam.</s>” The just reward that Thou hast prepared for each one according to his deserts.
+12~St. Augustine thus explains this verse: O Lord! suffer not that pride set its foot on me, or gain dominion over me, nor that the hand of the sinner, that is, of the devil or of any of his followers, detach me from Thy service.
+13~“<l>Ibi.</s>” There, in pride. “<l>Expulsi sunt, nec potuerunt stare.</s>” They have been driven out of heaven, and it is precisely on account of their pride that they were not able to remain there.

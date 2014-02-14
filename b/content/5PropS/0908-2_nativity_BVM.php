@@ -20,9 +20,8 @@
 <?php prayer('csMartyr1.php','Adriáni','Adrian'); ?>
    <p:BodySm/>
 
-<?php rubrics('ps/Feria.php','At the Little Hours, '); ?>
+<?php rubrics('prSanct/horas_from.php','csBVMLH',2); ?>
 <?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
-<?php rubrics('prSanct/horas_from.php','csBVMLH'); ?>
    <p:BodySm/>
 
 <?php hour('V'); ?>

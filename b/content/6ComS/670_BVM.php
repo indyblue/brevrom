@@ -50,7 +50,7 @@
 	vrS('elegit_eam_deus_et_praeelegit_eam.php',0,1);
 	space();
 
-	hour('S');
+	hour('N');
 	lc('ecclus24_19.php');
 	rubrics('head/PTnot.php');
 	brS('elegit_eam_deus_et_praeelegit_eam.php');

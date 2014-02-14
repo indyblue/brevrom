@@ -1,0 +1,1 @@
+Great * is the mystery of our inheritance: the womb of her that knew not man is become the temple of God: by taking flesh of her he was not defiled; all nations shall come and say: Glory be to thee, O Lord.
