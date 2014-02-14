@@ -11,6 +11,7 @@
 
 	// ************************************************************
 	hidden('<s:Visible>Lauds</s>',2);
+	bookmark('csBVMpL');
 	hour('L');
 	vr('deus_in_adjutorium.php');
 	space();
@@ -18,11 +19,11 @@
 	$ant = 'prSanct/0815L.php';
 	ant($ant,'20000');
 	psalm(92);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'12000');
 	psalm(99);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'01200');
 	psalm(62);
@@ -30,7 +31,7 @@
 		rubp('Hic non dicitur <snr>Glória Patri</s>.','Here is not said the <snr>Glory be</s>.');
 		psalm(66);
 	}
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'00120');
 	canticle('threechildren.php');
@@ -43,7 +44,7 @@
 		rubp('Hic non dicitur <snr>Glória Patri</s>.','Here is not said the <snr>Glory be</s>.');
 		psalm(150);
 	}
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'00001');
 	space();	
@@ -61,7 +62,7 @@
 		rubp('Canticum <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>', 'The Canticle <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>',1);
 	} else {
 		canticle('benedictus.php');
-		reading('vr/gloria_patri-a.php',0);
+		if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 		space();
 
 		ant('beata_dei_genitrix_maria_virgo_perpetua.php','1');
@@ -81,7 +82,7 @@
 		vrS('laetamini_in_domino_et_exultate_justi.php');
 		vr('oremus.php');
 		prayer('BVMp_c1.php');
-		prayer('BVMp_c2.php',1);
+		prayer('BVMp_c2.php');
 		space();
 	}
 
@@ -102,13 +103,13 @@
 
 	ant($ant,'*0000');
 	psalm(53);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(84);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(116);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'10000');
 	space();
@@ -147,13 +148,13 @@
 
 	ant($ant,'0*000');
 	psalm(119);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(120);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(121);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'01000');
 	space();
@@ -192,13 +193,13 @@
 
 	ant($ant,'00*00');
 	psalm(122);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(123);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(124);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'00100');
 	space();
@@ -237,13 +238,13 @@
 
 	ant($ant,'0000*');
 	psalm(125);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(126);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(127);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'00001');
 	space();
@@ -274,23 +275,23 @@
 	$ant = 'csBVML.php';
 	ant($ant,'20000');
 	psalm(109);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'12000');
 	psalm(112);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'01200');
 	psalm(121);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'00120');
 	psalm(126);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'00012');
 	psalm(147);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	ant($ant,'00001');
 	space();	
@@ -307,7 +308,7 @@
 		rubp('Canticum <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>', 'The Canticle <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>',1);
 	} else {
 		canticle('magnificat.php');
-		reading('vr/gloria_patri-a.php',0);
+		if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 		space();
 
 		ant('opBVMVm.php','1');
@@ -327,7 +328,7 @@
 		vrS('laetamini_in_domino_et_exultate_justi.php');
 		vr('oremus.php');
 		prayer('BVMp_c1.php');
-		prayer('BVMp_c2.php',1);
+		prayer('BVMp_c2.php');
 		space();
 	}
 
@@ -345,13 +346,13 @@
 	space();
 
 	psalm(128);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(129);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	psalm(130);
-	reading('vr/gloria_patri-a.php',0);
+	if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 	space('Spacer');
 	space();
 
@@ -372,7 +373,7 @@
 		rubp('Canticum <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>', 'The Canticle <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>',1);
 	} else {
 		canticle('simeon.php');
-		reading('vr/gloria_patri-a.php',0);
+		if(!$abbrev) reading('vr/gloria_patri-a.php',0);
 		space();
 
 		ant('sub_tuum_praesidium.php','1');

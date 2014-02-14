@@ -92,7 +92,7 @@ function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $dr
 	// this creates a dynamic "callback" function
 	// to remove the ‡ character from lines
 	$callback = create_function('$args',
-		'return mb_ereg_replace("‡","",$args);');
+		'return preg_replace("/‡/u","",$args);');
 	// if there are more parts of the psalm that need
 	// to be loaded, this iterates through them. for every
 	// section which is loaded, ‡ characters are eliminated,

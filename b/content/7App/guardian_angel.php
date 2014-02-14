@@ -6,6 +6,6 @@
 	prayer('App/angele_dei.php');
 	vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php');
 	vr('oremus.php');
-	prayer('PrSanct/1002.php');
+	prayer('prSanct/1002.php');
 
 ?>

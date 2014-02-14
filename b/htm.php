@@ -1,5 +1,8 @@
 <?php 
+mb_internal_encoding('UTF-8');
 $_GET['htm'] = 1;
+$_GET['old'] = 1;
+$_GET['abbrev'] = 1;
 $_GET['L'] = 0;
 $_GET['par'] = 1;
 $_GET['long'] = 1;
@@ -142,7 +145,8 @@ $regex=array(
 	'/<t2>([^<]*)/',
 	'/<t>/',
 	'/<br\/*>/',
-	'/\bÁ/', '/\bÉ/', '/\bÍ/', '/\bÓ/', '/\bÚ/', '/\bÝ/', '/\bǼ/',
+	'/(?<!\pL)Á/u', '/(?<!\pL)É/u', '/(?<!\pL)Í/u', 
+	'/(?<!\pL)Ó/u', '/(?<!\pL)Ú/u', '/(?<!\pL)Ý/u', '/(?<!\pL)Ǽ/u'
 );
 $repl=array(
 	'<img src="/b/\2 width=\1%>',
@@ -168,7 +172,7 @@ $repl=array(
 	'<span style="float:right;">\1</span>',
 	'&nbsp;',
 	'<br/>',
-	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',
+	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
 );
 
 //'/<p:BodyLDrop>([^<]*)<t><br\/>(.*)

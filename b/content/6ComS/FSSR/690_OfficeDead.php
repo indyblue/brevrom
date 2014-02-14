@@ -2,6 +2,7 @@
 	$long = $_GET['long'];
 	$matins = $_GET['matins'];
 	$old = $_GET['old'];
+	$htm = $_GET['htm'];
 
 	space();
 	img('sanctus.png',100);
@@ -23,6 +24,8 @@ if($matins) {
 	hour('M');
 	bookmark('offDefM');
 	rubp('Absolute incipitur ab Invitatorio.', 'Matins begins immediately with the invitatory.');
+	ant('regem_cui_omnia_vivunt_venite_adoremus.php','I');
+	ant('regem_cui_omnia_vivunt_venite_adoremus.php','R');
 	psalm('94ri.php');
 	space();
 
@@ -210,6 +213,13 @@ if($matins) {
 	bookmark('offDefLpr');
 	rubp('Preces infrascriptæ dicuntur flexis genibus:','The following prayers are said kneeling:');
 	vr('pater_silent_vr.php');
+	
+if($old==1) {
+	rubp('<snr>¶</s> Sequens Ps. <snr>De profúndis,</s> non dicitur in die obitus seu despositionis defuncti.','<snr>¶</s> The following Ps. <snr>Out of the depths,</s> is not said on the day of death or burial.');
+	psalm(129);
+	reading('vr/requiem_aeternam.php',0);
+	space('Spacer');
+}
 
 	bookmark('offDefPreces');
 	vrS('a_porta_inferi_sing.php');
@@ -233,7 +243,7 @@ if($matins) {
 		vrS('requiescant_in_pace.php');
 		space();
 
-/*
+if($htm==1) {
 	space();
 	hidden('Collects',2);
 	head('De orationes','The Collects',-2);
@@ -270,7 +280,7 @@ if($matins) {
 	space();
 
 	head('Item alia oratio','Or',-4);
-	prayer('offDef/Priest2.php');
+	prayer('offDef/priest2.php');
 	space();
 
 	head('Pro uno defuncto','For a deceased man',-4);
@@ -310,7 +320,7 @@ if($matins) {
 	vrS('requiem_aeternam.php');
 	vrS('requiescant_in_pace.php');
 	space();
- */
+}
 
 	hidden('Vespers',2);
 	hour('V');
