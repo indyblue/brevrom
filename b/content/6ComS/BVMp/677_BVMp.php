@@ -15,6 +15,7 @@
 		'Little Office BVM');
 	
 	space();
+	hidden('Rubrics',2);
 	bvm_head(1);
 	rubp('Quod dicitur a Matutino diei 3 februarii usque ad Nonam Sabbati sancti inclusive, præterquam in festo Annuntiationis; et a Vesperis sabbati post octavam Pentecostes usque ad Nonam sabbati ante dominicam I Adventus inclusive.', 'Which is said from Matins of February 3 until None of Holy Saturday inclusive, except in the feast of the Annuntiation; and from Saturday Vespers after the octave of Pentecost until Saturday None before the first Sunday of Advent inclusive.');
 	bvm_head(2);

@@ -79,7 +79,17 @@ echo '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	span.HymnR {font-size:'.$HymnR.'pt;}
 	div.h2 {display:'.($v?'auto':'none').';}
 	</STYLE>
+	<script type="text/javascript" src="jquery-1.7.2.min.js"></script>
 	<script type="text/javascript">
+		$(document).ready(function() {
+			$(document).on("click","a",function(e) {
+				var $this = $(this);
+				var $target = $( this.href.replace(/.*(#.*)/,"$1") );
+				if($target.length && !$target.is(":visible")) {
+					$target.parents().show();
+				}
+			});
+		});
 		function h10(id) {
 			div2 = document.getElementById(id).style;
 			if(div2!=null) {
@@ -111,6 +121,8 @@ echo '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 $regex=array(
 	'/<draw:frame.*rel-width="(\d*)%".*href="\.\.\/([^"]*").*<\/draw:frame>/',
 	'/<text:note.*text:label="([^"]*)".*<p:Footnote>(.*)<\/p>.*<\/text:note>/',
+	'/<text:bookmark-ref[^>]*text:ref-name="([^"]*)"[^>]*>/',
+	'/<\/text:bookmark-ref>/',
 	'/<text:bookmark.*text:name="([^"]*)"\/>/',
 	'/<l>/',
 	'/<r>/',
@@ -135,7 +147,9 @@ $regex=array(
 $repl=array(
 	'<img src="/b/\2 width=\1%>',
 	'</td></tr><tr><td colspan=2><span style="font-size:100%;color:red">\1\2</span>',
-	'<a name="\1"/>',
+	'<a href="#\1">',
+	'</a>',
+	'<a class="anchor" id="\1" name="\1"></a>',
 	'<s:L>',
 	'<s:Red>',
 	'<s:Rubric>',

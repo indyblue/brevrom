@@ -198,7 +198,11 @@ Spacer			2
 
   <style:style style:name="IndexCaps" style:family="paragraph" style:parent-style-name="Body" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.04in" fo:margin-bottom="0.04in"/>
-   <style:text-properties fo:text-transform="uppercase" fo:font-weight="bold"/>
+   <style:text-properties fo:text-transform="uppercase" fo:font-weight="bold" text:display="false"/>
+  </style:style>
+
+  <style:style style:name="IndexBody" style:family="paragraph" style:parent-style-name="Body" style:master-page-name="">
+   <style:text-properties fo:font-weight="bold" text:display="false"/>
   </style:style>
 
   <style:style style:name="Spacer" style:family="paragraph" style:parent-style-name="Body" style:master-page-name="">
@@ -266,6 +270,9 @@ Spacer			2
   </style:style>
   <style:style style:name="L" style:family="text">
    <style:text-properties fo:language="la" fo:country="VA" fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="Visible" style:family="text">
+   <style:text-properties text:display="false"/>
   </style:style>
 
 

@@ -55,6 +55,9 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		if(strpos($opt,'d')===false) {
 			$conclL = ' Tu autem Dómine, miserére nobis.'. $conclL;
 			$conclE = ' But thou, O Lord, have mercy upon us.'. $conclE;
+		} else {
+			$conclL = '';
+			$conclE = '';
 		}
 	} elseif($opt=='h' || $opt=='H') {
 		if($file2) {

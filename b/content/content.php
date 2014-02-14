@@ -164,11 +164,56 @@ echo bklist(0);
 // require '3PropT\01_advent\index.php';
 // */
 
+// ************************************************************
+// * F.SS.R. Associate Member Manual
+// ************************************************************
+//*
+// A4 = 8.3 x 11.7
+$_GET['Style'] = 'cust';
+$_GET['PgW'] = 5.85;
+$_GET['PgH'] = 8.3;
+$_GET['PgMar'] = .25;
+$_GET['PgGMar'] = .25;
+$_GET['BodyFont'] = 10;
+
+ $_GET['Style'] = '7';
+bklist('test');
+
+$_GET['long'] = 1;
+$_GET['matins'] = 1;
+$_GET['old'] = 0;
+$_GET['prayer_ending'] = 1;
+
+
+// require '6ComS/FSSR/110_toc.php';
+// space('Pg');
+
+space('P182');
+include('6ComS/FSSR/cover.php');
+
+space('PgB');
+include('6ComS/FSSR/prayers.php');
+space();
+require '0Intro/101_aperi.php';
+require '0Intro/105_sacrosancte.php';
+require '0Intro/106_o_clementissime.php';
+
+include('6ComS/FSSR/bvm/index.php');
+
+space();
+
+include('6ComS/FSSR/690_OfficeDead.php');
+
+space();
+
+include('6ComS/FSSR/rule.php');
+
+// */
 
 // ************************************************************
 // * test
 // ************************************************************
-//*
+/*
 $_GET['Style'] = 'cust';
 $_GET['PgW'] = 4.25;
 $_GET['PgH'] = 5.5;
@@ -183,7 +228,9 @@ $_GET['matins'] = 1;
 $_GET['long'] = 0;
 
 space('PgB');
-require '7App/pro_eligendo.php';
+require '7App/index.php';
+
+//require '7App/pro_eligendo.php';
 
 /*
 require '100_intro.php';

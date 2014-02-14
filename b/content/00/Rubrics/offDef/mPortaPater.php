@@ -1,10 +1,7 @@
-<p:BodySm/>
-<?php vrS('a_porta_inferi.php'); ?>
-   <table> <tr> <td:A1>
-      <p:Rubric><snr>Pater noster</s>, totum secréto.</p>
-     </td> <td:B1>
-      <p:Rubric><snr>Our Father</s>, said throughout silently.</p>
-	  </td> </tr> </table>
-	<p:BodySm/>
-   <p:Rubric>The lessons are begun without Absolution, Blessing or title.</p>
-
+<?php 
+space();
+vrS('a_porta_inferi.php');
+rubp('<snr>Pater noster</s>, totum secreto.', '<snr>Our Father</s>, said silently throughout.');
+space();
+rubp('Lectiones leguntur sine Absolutione, Benedictionibus et Titulo.', 'The lessons are read without Absolution, Blessing and Title.');
+?>

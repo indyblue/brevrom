@@ -13,13 +13,54 @@ ob_start(); // start buffer
 include ("content/content.php");
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
+
+if(isset($_GET['x']) && $_GET['x']==='1') {
+	ob_start(); // start buffer
+	readfile('b.xml');
+	$txtContent = ob_get_contents(); // assign buffer contents to variable
+	ob_end_clean(); // end buffer and remove buffer contents
+}
+
 //echo $txtContent;
 //$txtContent = file_get_contents("content/content.xml");
+if(isset($_GET['x']) && $_GET['x']==='1') {
+	$temp = "
+			<table> <tr> <td:A1>
+      <p:BodyLDrop>APERI, Domine, os meum ad benedicendum nomen sanctum tuum: munda quoque cor meum ab omnibus vanis, perversis et alienis cogitationibus; intellectum illumina, affectum inflamma, ut digne, attente ac devote hoc Officium recitare valeam, et exaudiri merear ante conspectum divinae Majestatis tuae. Per Christum, Dominum nostrum. </p>
+      <p:BodyL><s:VR>R. </s>Amen.</p>
+     </td> <td:B1>
+      <p:BodyEDrop>OPEN my mouth, O Lord, that I may bless thy holy name. Cleanse my heart from all vain, evil and wandering thoughts; enlighten my understanding, enkindle my affections, that I may worthily recite this Office with attention and devotion, and may worthily be heard before the presence of thy Divine Majesty. Through Christ our Lord. </p>
+      <p:BodyE><s:VR>R. </s>Amen.</p>
+     </td> </tr> <tr> <td:A1>
+      <p:BodyLIndent>Domine, in unione illius divinae intentionis, qua ipse in terris laudes Deo persolvisti, has tibi Horas <sr>(vel </s>hanc tibi Horam<sr>)</s> persolvo.</p>
+     </td> <td:B1>
+      <p:BodyEIndent>O Lord, in union with that Divine Intention wherewith thou didst thyself praise God, while as thou wast on earth, I offer these Hours <sr>(or </s>this Hour<sr>)</s> unto thee.</p>
+		</td> </tr> </table>
 
-$fh = fopen("b.xml", 'w');
-fwrite($fh, $txtContent);
-fclose($fh);
+		";
+	echo 'x=1 found';
+	$regex=array(
+		'/<\/{0,1}table([^:>]*)>/',
+		'/<tr>.*?<td:A[0-9]>(.*?)<\/td>.*?<td:B[0-9]>(.*?)<\/td>.*?<\/tr>/s'
+	);
+	$repl=array(
+		'',
+		'\1'
+	);
 
+	$txtContent = preg_replace($regex,$repl,$txtContent);
+	$temp2 = preg_replace($regex,$repl,$temp);
+	$temp2 = preg_replace(array('/</','/>/'),array('&lt;','&gt;'),$temp2);
+	//echo "<br><pre>$temp2</pre><br><br>";
+	$fh = fopen("b_lo.xml", 'w');
+	fwrite($fh, $txtContent);
+	fclose($fh);
+	//exit;
+} else {
+	$fh = fopen("b.xml", 'w');
+	fwrite($fh, $txtContent);
+	fclose($fh);
+}
 
 $regex=array(
 	'/<l>/',
@@ -35,6 +76,8 @@ $regex=array(
 	'/<\/p>/',
 	'/<s:([^\/>]*)/',
 	'/<\/s>/',
+	'/<sec:([^\/>]*)/',
+	'/<\/sec>/',
 	'/<table([^:>]*)>/',
 	'/<\/table>/',
 	'/<tr>/',
@@ -65,6 +108,8 @@ $repl=array(
 	'</text:p>',
 	'<text:span text:style-name="\1"',
 	'</text:span>',
+	'<text:section text:style-name="\1" text:name="Section1"',
+	'</text:section>',
 	'<table:table table:name="Table2399" table:style-name="TableParallel\1">
     <table:table-column table:style-name="TableParallel.A"/>
 	 <table:table-column table:style-name="TableParallel.B"/>',
@@ -142,13 +187,16 @@ $zip->addFile("./OOo/Object 2/content.xml","Object 2/content.xml");
 $zip->addFile("./OOo/Object 2/settings.xml","Object 2/settings.xml");
 $zip->addFile("./OOo/Object 2/styles.xml","Object 2/styles.xml");
 
-echo "Style type: " . $_GET['Style'];
-echo "\n<pre>";
-echo "<br><br>All bookmark references that do not have anchors!<br>";
-print_r(bklist(-1));
-echo "<br><br>All anchors not referenced<br>";
-print_r(bklist(-2));
-echo "</pre>";
+if(isset($_GET['x']) && $_GET['x']==='1') {
+} else {
+	echo "Style type: " . $_GET['Style'];
+	echo "\n<pre>";
+	echo "<br><br>All bookmark references that do not have anchors!<br>";
+	print_r(bklist(-1));
+	echo "<br><br>All anchors not referenced<br>";
+	print_r(bklist(-2));
+	echo "</pre>";
+}
 
 // echo $i;
 

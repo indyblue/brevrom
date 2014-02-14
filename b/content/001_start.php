@@ -232,8 +232,8 @@
 
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
-    <style:columns fo:column-count="2" fo:column-gap="0.05in">
-     <style:column-sep style:width="0.0008in" style:color="#000000" style:height="100%"/>
+    <style:columns fo:column-count="2" fo:column-gap="0.10in">
+     <style:column-sep style:width="0.001in" style:color="#000000" style:height="100%"/>
      <style:column style:rel-width="4986*" fo:start-indent="0in" fo:end-indent="0.1in"/>
      <style:column style:rel-width="4986*" fo:start-indent="0.1in" fo:end-indent="0in"/>
     </style:columns>

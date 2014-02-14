@@ -77,8 +77,13 @@ function hymn($file, $byref=-1, $posttxt=0) {
 						if (substr($Lpieces[$i+1],0,1)!='>')
 							echo '<tr><td:A1><p:HymnS/></td><td:B1><p:HymnS/></td></tr>';
 					} else {
-						echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . 
-							'<t2>Trans. ' . trim($Epieces[0]) . '</s></p>';
+						echo '<tr><td:A1>'
+							.'<p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . '</s></p>'
+							. '</td><td:B1>'
+							. '<p:BodySm><sr>Trans. ' . trim($Epieces[0]) . '</s></p>'
+							. '</td></tr></table>';
+						//echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . 
+						//	'<t2>Trans. ' . trim($Epieces[0]) . '</s></p>';
 					}
 				}
 				$new = 1;

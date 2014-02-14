@@ -15,6 +15,10 @@ g/^$/d | %s/\n\(<text:[ph]\)\@!//ig
 %s/.*P181.*/\0\r<text:section text:style-name="Sect1" text:name="Section1">/
 
 
+--- prep for automatic b.xml script ----
+<\/\{0,1}table>
+<tr>\_.\{-}<td:A[0-9]>\(\_.\{-}\)<\/td>\_.\{-}<td:B[0-9]>\(\_.\{-}\)<\/td>\_.\{-}<\/td>\_.\{-}<\/tr>
+
 --- Latin Lines only ---
 g!/BodyL\|HymnL/d 
 g/BodyL><sr><snr>/d

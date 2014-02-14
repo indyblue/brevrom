@@ -1,0 +1,1 @@
+Deus ómnium fidélium pastor et rector, famulum tuum <sr>N.</s> quem pastórem Ecclésiæ tuæ præésse voluísti, propítius réspice: da ei, quǽsumus, verbo et exémplo, quibus præest, profícere; ut ad vitam, una cum grege sibi crédito, perféniat sempitérnam. Per Dóminum.

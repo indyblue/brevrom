@@ -11,11 +11,13 @@
 // M - Ad Magnif.Ant. + astrisk
 // m - Ad Magnif [short], ut supra.
 // B - Ad Bened.Ant. + astrisk
+// C - Ad Nunc dimittis + astrisk
 // N - adds appropriate "Nocturn" before antiphon
 // P - P.T. Ant. + astrisk
 // p - P.T. Ant., no astrisk
 // e - Extra T.P. Ant., no astrisk
 // I - Invit.
+// R - Repetit.
 
 //PT option
 //0 - nothing added
@@ -90,6 +92,8 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 				$ast=1; $ant='<sr>Ad Bened.Ant.</s> '; $ante = '<sr>Benedictus Ant.</s> ';
 			} elseif($inc=='M') {
 				$ast=1; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
+			} elseif($inc=='C') {
+				$ast=1; $ant='<sr>Ad Nunc dimittis Ant.</s> '; $ante = '<sr>Nunc dimittis Ant.</s> ';
 			} elseif($inc=='m') {
 				$short=1; $ast=0; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
 			} elseif($inc=='P') {
@@ -100,6 +104,8 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 				$ast=0; $ant='<sr>Extra T.P. Ant.</s> '; $ante = '<sr>Outside P.T. Ant.</s> ';
 			} elseif($inc=='I') {
 				$ast=1; $ant='<sr>Invit.</s> '; $ante = '<sr>Invit.</s> ';
+			} elseif($inc=='R') {
+				$ast=1; $ant='<sr>Repetit.</s> '; $ante = '<sr>Repeat.</s> ';
 			} elseif($inc=='N') {
 				if($table==1) {
 					echo "   </table>\n";
