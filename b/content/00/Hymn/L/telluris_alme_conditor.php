@@ -9,7 +9,7 @@ Terram dedísti immóbilem.
 Ut germen aptum próferens,
 Fulvis decóra flóribus,
 Fœcúnda fructu sísteret,
-Pastúmque grátum rédderet.
+Pastúmque gratum rédderet.
 
 Méntis perústæ vúlnera
 Munda viróre grátiæ:

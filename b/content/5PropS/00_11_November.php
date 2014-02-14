@@ -1,5 +1,3 @@
-   <p:P181/>
-   <p:Body/>
 <?php img('separator3.tif',933,170,100); ?>
    <p:RubricH/>
 	<p:Head1NI><?php 

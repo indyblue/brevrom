@@ -82,7 +82,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Sehon, regem Amorrhæórum, et Og, regem Bassan, * et ómnia regna Chánaan.</p>
+      <p:BodyLIndent>Sehon, regem Amorrhæórum, et Og, regem Basan, * et ómnia regna Chánaan.</p>
      </td>
      <td:B1>
       <p:BodyEIndent>Sehon king of the Amorrhites, and Og king of Basan, * and all the kingdoms of Chanaan.</p>

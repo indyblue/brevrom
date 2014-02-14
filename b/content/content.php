@@ -159,7 +159,8 @@ $_GET['O'] = 0;
 // require '6ComS/690_OfficeDead.php';
 
 // echo '   <p:P182/>';
- require '510_part_proper_saints.php';
+// require '210_part_proper_seasons.php';
+// require '510_part_proper_saints.php';
 // require '610_part_common_saints.php';
 
 //hymn('vexilla_regis_prodeunt.php');
@@ -168,21 +169,21 @@ $_GET['O'] = 0;
 // echo '   <p:Head1NI/>';
 
 
-// require '100_intro.php';
-// echo '   <text:section text:style-name="Sect1" text:name="Section1" text:protected="true">';
-// require '150_calendar.php';
-// require '200_proper_seasons.php';
-// $_GET['O'] = 1;
-// require '300_ordinary.php';
-// require '400_psalter.php';
-// $_GET['O'] = 0;
-// 
-// require '500_proper_saints.php';
-// require '6ComS/600_common_saints.php';
-// 
-// require '700_appendix.php';
-// echo '   </text:section>';
-// require '998_indices.php';
+require '100_intro.php';
+echo '   <text:section text:style-name="Sect1" text:name="Section1" text:protected="true">';
+require '150_calendar.php';
+require '200_proper_seasons.php';
+$_GET['O'] = 1;
+require '300_ordinary.php';
+require '400_psalter.php';
+$_GET['O'] = 0;
+
+require '500_proper_saints.php';
+require '6ComS/600_common_saints.php';
+
+require '700_appendix.php';
+echo '   </text:section>';
+require '998_indices.php';
 
 require '999_end.php';
 ?>

@@ -1,0 +1,21 @@
+:g!/BodyL\|HymnL/d
+:%s/<[^>]*>//ig
+:%s/\v(<\k*>)/\r\1\r/ig
+:g!/\k/d
+ggvGgu
+:sort
+:%s/\v(<\k*>\n)\1*/\1/ig
+
+:%s/á/a/ig
+:%s/é/e/ig
+:%s/í/i/ig
+:%s/ó/o/ig
+:%s/ú/u/ig
+:%s/ý/y/ig
+
+:%s/ë/e/ig
+:%s/Ë/E/ig
+:%s/æ/ae/ig
+:%s/œ/oe/ig
+
+/\v^(\k*) - \1

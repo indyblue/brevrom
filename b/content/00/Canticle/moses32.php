@@ -38,7 +38,7 @@
       <p:BodyLIndent>Deus fidélis, et absque ulla iniquitáte, justus et rectus. * Peccavérunt ei, non fílii ejus in sórdibus:</p>
      </td>
      <td:B1>
-      <p:BodyEIndent>God is faithful and without any iniquity, he is just and right. * They have sinned against him, and are nose of his children in their filth: </p>
+      <p:BodyEIndent>God is faithful and without any iniquity, he is just and right. * They have sinned against him, and are none of his children in their filth: </p>
      </td>
     </tr>
     <tr>
