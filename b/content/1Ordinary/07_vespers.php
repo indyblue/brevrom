@@ -29,12 +29,12 @@ Saturday (<snr>'. bkref('psSV') .'</s>).');
 	canticle('magnificat.php');
 
 	head('De precibus','The Preces, or Prayers',2);
-	rubp('<snr>51</s> Quando, juxta rubricas (n. 260), preces sunt dicendæ post repetitam antiphonam ad <snr>Benedíctus</s>, dicitur, flexis genibus. (<snr>p. '. bkref('preces') .'</s>)',
-		'<snr>51</s> When, according to the rubrics (n. 260), the preces are to be said, after the antiphon at the <snr>Benedíctus</s> is repeated , say the Preces, while kneeling. (<snr>p. '. bkref('preces') .'</s>)');
+	rubp('<snr>51</s> Quando, juxta rubricas (n. 260), preces sunt dicendæ post repetitam antiphonam ad <snr>Magníficat</s>, dicitur, flexis genibus. (<snr>p. '. bkref('preces') .'</s>)',
+		'<snr>51</s> When, according to the rubrics (n. 260), the preces are to be said, after the antiphon at the <snr>Magníficat</s> is repeated , say the Preces, while kneeling. (<snr>p. '. bkref('preces') .'</s>)');
 
 	head('De oratione','The Collect',2);
 	rubp('<snr>52</s> Expleto cantico et repetita antiphona, si preces non fuerint recitandæ, statim dicitur:',
-		'<snr>52</s> After the <snr>Benedíctus</s> and the antiphon is repeated, if the preces are not to be recited, the following is said immediately:');
+		'<snr>52</s> After the <snr>Magníficat</s> and the antiphon is repeated, if the preces are not to be recited, the following is said immediately:');
 	vr('dv_de_LV.php');
 	vr('oremus.php');
 	rubp('Et dicitur oratio conveniens.','And recite the prayer of the day.');

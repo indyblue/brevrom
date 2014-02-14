@@ -106,7 +106,7 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 <text:line-break/>ecclesiastical approbation under Can. 826.</p>
       <p:P159/>
 		<p:P161>Gallican Latin Psalter of St. Jerome
-      <text:line-break/>Douay-Rheims (Challenor) English Psalter</p>
+      <text:line-break/>Douay-Rheims (Challoner) English Psalter</p>
       <p:P159/>
       <p:P201>English text of prayers from</p>
       <p:P201>"The Day Hours of the Church" (1921)</p>

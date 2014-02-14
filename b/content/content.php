@@ -78,15 +78,15 @@ $_GET['comm'] = 1;
 // require 'z_psalms.php';
 
 require '100_intro.php';
-require '110_toc.php';
-require '150_calendar.php';
-require '3PropT/index.php';
-require '1Ordinary/index.php';
-require '2Psalter/index.php';
-
-require '5PropS/index.php';
-require '6ComS/index.php';
-require '7App/index.php';
+// require '110_toc.php';
+// require '150_calendar.php';
+// require '3PropT/index.php';
+// require '1Ordinary/index.php';
+// require '2Psalter/index.php';
+// 
+// require '5PropS/index.php';
+// require '6ComS/index.php';
+// require '7App/index.php';
 
 
 // require '998_indices.php';
