@@ -8,7 +8,9 @@
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
-  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+	<style:text-properties style:font-name="TimesLatin"/>
+  </style:style>
 
   <style:style style:name="Body" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" fo:background-color="transparent" style:shadow="none">

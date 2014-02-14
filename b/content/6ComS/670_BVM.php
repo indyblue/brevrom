@@ -29,6 +29,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_14.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
+<?php bookmark('o_gloriosa_virginum'); ?>
 <?php hymn('o_gloriosa_virginum.php'); ?>
 <?php vrS('diffusa_est_gratia_in_labiis_tuis.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>

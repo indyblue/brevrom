@@ -1,0 +1,1 @@
+O God, who dost continually raise up in thy Church new examples of virtue, grant unto thy people so to follow in the footsteps of thy blessed Bishop and Confessor Andrew that they may also attain unto a like reward. Through our Lord.

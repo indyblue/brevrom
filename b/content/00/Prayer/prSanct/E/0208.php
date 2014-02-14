@@ -1,0 +1,1 @@
+O God, who by a vision from heaven didst vouchsafe through Saint John to establish the order of the most holy Trinity for the ransom of captives from the power of the Saracens; mercifully grant, we beseech thee, that through his merits and intercession we may, by thy grace, be delivered from all captivity of soul and body. Through our Lord.

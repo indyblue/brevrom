@@ -79,3 +79,5 @@
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/1007.php'); 
 	rubrics('prSanct/ComplineSun.php'); 
+
+?>

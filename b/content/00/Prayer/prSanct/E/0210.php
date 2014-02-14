@@ -1,0 +1,1 @@
+O God, who, in order to make manifest the path of innocence, didst cause the soul of thy blessed Virgin Scholastica to enter heaven in the form of a dove; grant us, by the aid of her merits and prayers, so to live innocently that we may be found worthy to attain unto the joys of eternal life. Through our Lord.

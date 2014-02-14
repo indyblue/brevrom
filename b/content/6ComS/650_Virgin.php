@@ -83,6 +83,7 @@ echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('2cor10_17.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
+<?php bookmark('jesu_corona_virginum'); ?>
 <?php hymn('jesu_corona_virginum.php'); ?>
 <?php vrS('diffusa_est_gratia_in_labiis_tuis.php'); ?>
    <p:RubricH>For several Virgin Martyrs:</p>

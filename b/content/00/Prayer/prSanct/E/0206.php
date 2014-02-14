@@ -1,0 +1,1 @@
+O God, who didst adorn blessed Titus, thy Confessor and Bishop, with the virtues of an Apostle; grant by his merits and intercession that, living holily and justly in this world, we may be found worthy to reach our heavenly country. Through our Lord.

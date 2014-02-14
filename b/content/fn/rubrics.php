@@ -16,11 +16,19 @@ function rubf($fname, $link='') {
 }
 
 function rubp($Ltxt, $Etxt) {
-	echo '   <table>
+	if(strlen($Ltxt)==0) echo '
+<p:BodyE><sr>'. $Etxt .'</s></p>
+';
+	elseif(strlen($Etxt)==0) echo '
+<p:BodyL><sr>'. $Ltxt .'</s></p>
+';
+	else echo '
+  <table>
    <tr><td:A1>
-    <p:BodyL><sr>'. $Ltxt .'</s></p>
-   </td></tr><tr><td:B1>
-    <p:BodyE><sr>'. $Etxt .'</s></p>
-   </td></tr></table>';
+   <p:BodyL><sr>'. $Ltxt .'</s></p>
+   </td><td:B1>
+   <p:BodyE><sr>'. $Etxt .'</s></p>
+  </td></tr></table>
+';
 }
 

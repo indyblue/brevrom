@@ -1,0 +1,1 @@
+O Almighty and eternal God, we suppliants beseech thy majesty that, as thine only-begotten Son was this day presented in the temple in the substance of our flesh, so thou wouldst grant us to be presented, purified in mind and heart, to thee. Through the same.

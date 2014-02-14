@@ -10,6 +10,10 @@ g/\c[áéíóúýǽ]/d
 deletes latin words of 2 or less syllables
 g/\v\c<[^aeiouæœ]{-}((au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>/d
 
+\v\c<[^aeiouæœ]{-}((au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
+
+%s/<text:bookmark-ref.*ref>/\r\0\r/g | g!/bookmark-ref/d | %s/<text:bookmark-ref.*name="\([^"]*\)".*ref>/<p:BkHidden><text:bookmark text:name="\1"\/><\/p>/
+
 
 %s/æ/ae/ig | %s/œ/oe/ig
 %s/ae/æ/ig

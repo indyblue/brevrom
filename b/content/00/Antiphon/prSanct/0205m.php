@@ -1,0 +1,1 @@
+Stans beáta Ágatha * in médio cárceris, expánsis mánibus orábat ad Dóminum: Dómine Jesu Christe, magíster bone, grátias tibi ago, qui me fecísti víncere torménta carníficum: jube me, Dómine, ad tuam immarcescíbilem glóriam felíciter perveníre.

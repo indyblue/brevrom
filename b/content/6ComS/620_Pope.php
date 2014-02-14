@@ -7,7 +7,7 @@
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Unius aut Plurium Summorum Pontificum':'Common of One or Many Supreme Pontiffs') 
 ?></p>
-   <p:Rubric>All as in the Common of one or several Martyrs, <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="csMm"/></s>, or of a Confessor Bishop, <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="csCB"/></s> except for the following:</p>
+   <p:Rubric>All as in the Common of one or several Martyrs, <snr>p. <?php echo bkref('csMm'); ?></s>, or of a Confessor Bishop, <snr>p. <?php echo bkref('csCB'); ?></s> except for the following:</p>
 <?php prayer('csPope1r.php') ?>
    <p:RubricH>Or in the plural:</p>
 <?php prayer('csPope2r.php') ?>

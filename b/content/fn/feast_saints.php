@@ -29,7 +29,6 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
   ($class==1||$class==2?'':'NI') . '">' . ($_GET['L']==1?$nameL:$nameE) .'</p>
   <text:p text:style-name="Head4">' . ($_GET['L']==1?$nameE:$nameL) .'</p>
   <p:Head2>'. $descr . ($descr?' - ':'') . $clname . ' - ' . $date .'</p>
-  <p:BodySm/>
 ';
 
 }
@@ -95,7 +94,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 		$Lvr = 'justum_deduxit_dominus_per_vias_rectas.php';
 		$Lant = 'euge_serve_bone_et_fidelis.php';
 	}
-	elseif(strpos($type,'C')!==false) {
+	elseif(ereg('[aC]',$type)!==false) {
 		$cs = 'csC';
 		$Lvr = 'justum_deduxit_dominus_per_vias_rectas.php';
 		$Lant = 'euge_serve_bone_et_fidelis-tui.php';
@@ -142,13 +141,15 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 
 	// a negative class value signifies that this is a 
 	// commemoration which concurs with another feast
-	// if positive, then print everything as normal
-	// otherwise, use brief form of commemoration
-	if($class>0) {
+	// The character 'H' signifies header only
+	// Otherwise if positive, print everything as normal
+	if($class==='H') {
+		headSt($Edate, $class, $nameL, $nameE, $Etype);
+	} elseif($class>=0) {
 		// add image... (the only image that can be added
 		// automatically is the default separator)
+		space();
 		img();
-		echo '<p:BodySm/>';
 	
 		// write heading
 		headSt($Edate, $class, $nameL, $nameE, $Etype);

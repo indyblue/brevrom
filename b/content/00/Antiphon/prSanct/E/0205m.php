@@ -1,0 +1,1 @@
+The blessed Agatha, standing * in the prison, with outstretched hands, prayed unto the Lord: O Lord Jesus Christ, good Master, I give thanks unto thee who hast enabled me to overcome the tortures of the executioners: bid me now, O Lord, come happily unto thine unfading glory.

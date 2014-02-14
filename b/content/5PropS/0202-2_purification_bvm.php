@@ -1,8 +1,7 @@
 <?php 
 	space();
 	img('Saints/0908_nativity_of_bvm.tif',100); 
-	space('RubricH');
-	headSt('Oct. 7',2,'in Purificatione B. Mariæ Virg.',
+	headSt('Feb. 2',2,'in Purificatione B. Mariæ Virg.',
 		'Purification of the B.V.M.');
 	rubp('Festum B. Mariæ Virg. habetur tamquam festum Domini.',
 		'This feast of the B.V.M. is observed as a feast of our Lord.');
@@ -17,71 +16,69 @@
 	lc('malach3_1.php'); 
 	rubrics('asIn.php','ave_maris_stella',
 		'Common of BVM','Hymn <snr>Ave, maris stella</s>');
-	vrS('prSanct/responsum_accepit_simeon_a_spiritu_sancto.php.php'); 
+	vrS('prSanct/responsum_accepit_simeon_a_spiritu_sancto.php'); 
 	rubrics('head/Magnificat.php'); 
 	ant('prSanct/0202m1.php','M'); 
 	rubrics('prSanct/ComplineSun.php'); 
 	
-// ----- work in progress -----
 	space();
 	rubrics('head/Lauds.php'); 
-	rubrics('head/Psalms.php'); 
-	ant('prSanct/1007L.php','20000'); 
+	ant('prSanct/0202L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
-	ant('prSanct/1007L.php','02222'); 
+	ant('prSanct/0202L.php','02222'); 
 	rubrics('head/LittleChapter.php'); 
-	lc('ecclus24_25.php'); 
-	rubrics('head/HymnVerse.php'); 
-	hymn('jam_morte_victor_obruta.php'); 
-	vrS('prSanct/elegit_eam_deus_et_praeelegit_eam_et.php'); 
+	lc('malach3_1.php'); 
+	rubrics('asIn.php','o_gloriosa_virginum',
+		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
+	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
 	rubrics('head/Benedictus.php'); 
-	ant('prSanct/1007b.php','B'); 
+	ant('prSanct/0202b.php','B'); 
 	rubrics('head/Prayer.php'); 
-	prayer('prSanct/1007.php'); 
-	feast_saint(1007,-1,'S. Marci','St. Mark','PC',
-		array('csPope1.php','Marcum','Mark')); 
+	prayer('prSanct/0202.php'); 
 
 	space();
 	rubrics('head/LittleHours.php'); 
 	rubrics('ps/Feria.php'); 
 	PrV('qui_natus_es_de_maria_virgine.php'); 
+	rubp('Quando hoc festum occurrit in dominicis in Septuagesima, aut Sexagesima, aut Quinquagesima, ad horas sumuntur ant. de Laudibus, pss. vero de dominica, retentis tamen ad primam pss. 117, 118 i, 118 ii.',
+		'When this feast occurs on the Sunday of Septuagesima, Sexagesima or Quinquagesima, at the little hours the ant. are selected from Lauds, and the psalms from Sunday; retaining at Prime pss. 117, 118 i, 118 ii.');
 
 	rubrics('head/Terce.php'); 
 	rubrics('head/LittleChapter.php'); 
-	lc('ecclus24_25.php'); 
+	lc('malach3_1.php'); 
 	rubrics('head/BriefRespond.php'); 
-	brS('prSanct/sancta_dei_genitrix_semper_virgo_maria.php'); 
-	vrS('prSanct/post_partum_virgo_inviolata_permansisti.php'); 
+	brS('specie_tua_et_pulcritudine_tua.php'); 
+	vrS('adjuvabit_eam_deus_vultu_suo.php'); 
 	
 	space();
 	rubrics('head/Sext.php'); 
 	rubrics('head/LittleChapter.php'); 
-	lc('ecclus39_19.php'); 
+	lc('malach3_1-2.php'); 
 	rubrics('head/BriefRespond.php'); 
-	brS('prSanct/post_partum_virgo_inviolata_permansisti.php'); 
-	vrS('prSanct/speciosa_facta_es_et_suavis.php'); 
+	brS('adjuvabit_eam_deus_vultu_suo.php'); 
+	vrS('elegit_eam_deus_et_praeelegit_eam.php'); 
 
 	space();
 	rubrics('head/None.php'); 
 	rubrics('head/LittleChapter.php'); 
-	lc('ecclus24_17.php'); 
+	lc('malach3_4.php'); 
 	rubrics('head/BriefRespond.php'); 
-	brS('prSanct/speciosa_facta_es_et_suavis.php'); 
-	vrS('prSanct/elegit_eam_deus_et_praeelegit_eam_et.php'); 
+	brS('elegit_eam_deus_et_praeelegit_eam.php'); 
+	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
 
 	space();
 	rubrics('head/2Vespers.php'); 
-	rubrics('head/Psalms.php'); 
-	ant('prSanct/1007V.php','20000'); 
+	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
-	ant('prSanct/1007V.php','02222'); 
 	rubrics('head/LittleChapter.php'); 
-	lc('ecclus24_25.php'); 
-	rubrics('head/HymnVerse.php'); 
-	hymn('te_gestientem_gaudiis.php'); 
-	vrS('prSanct/regina_sacratissimi_rosarii_ora_pro_nobis.php'); 
+	lc('malach3_1.php'); 
+	rubrics('asIn.php','o_gloriosa_virginum',
+		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
+	vrS('prSanct/responsum_accepit_simeon_a_spiritu_sancto.php'); 
 	rubrics('head/Magnificat.php'); 
-	ant('prSanct/1007m2.php','M'); 
+	ant('prSanct/0202m2.php','M'); 
 	rubrics('head/Prayer.php'); 
-	prayer('prSanct/1007.php'); 
+	prayer('prSanct/0202.php'); 
 	rubrics('prSanct/ComplineSun.php'); 
+
+?>

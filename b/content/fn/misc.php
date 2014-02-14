@@ -12,7 +12,7 @@ function bookmark($link='') {
 ';
 }
 function bkref($link='') {
-	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '"/>';
+	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">1</text:bookmark-ref>';
 }
 function PrV($file, $option=0) {
 	$dir = "/www/b/content/00/VR/prime/";
