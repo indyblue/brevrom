@@ -1,6 +1,6 @@
 <?php
-	img();
 	space();
+	// img();
 	feast_saint(708,13,'Sanctæ Elisabeth','Saint Elizabeth','QW');
 	csref(0,1);
 

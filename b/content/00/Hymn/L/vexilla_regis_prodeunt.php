@@ -27,7 +27,6 @@ Statéra facta córporis,
 Tulítque prædam tártari.
 
 <sr>Sequens stropha dicitur flexis genibus:</s>
-
 O Crux, ave, spes única,
 Hoc Passiónis témpore
 Piis adáuge grátiam,

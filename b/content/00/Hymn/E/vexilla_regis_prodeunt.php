@@ -26,8 +26,7 @@ The wealth that did the world restore;
 The beam that did that Body weigh
 Which raised up Hell’s expected prey.
 
-<sr>During this stanza all kneel:</s>
-
+<sr>The following strophe is said kneeling:</s>
 Hail Cross, of hopes the most sublime!
 Now, in the mournful Passion time;
 Grant to the just increase of grace,

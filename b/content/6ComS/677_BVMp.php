@@ -10,9 +10,20 @@
 	head('Officium parvum B. Mariæ Virginis',
 		'Little Office of the Bl. Virgin Mary',1,
 		'Little Office BVM');
+	
+	space();
+	bvm_head(1);
+	rubp('Quod dicitur a Matutino diei 3 februarii usque ad Nonam Sabbati sancti inclusive, præterquam in festo Annuntiationis; et a Vesperis sabbati post octavam Pentecostes usque ad Nonam sabbati ante dominicam I Adventus inclusive.', 'Which is said from Matins of February 3 until None of Holy Saturday inclusive, except in the feast of the Annuntiation; and from Saturday Vespers after the octave of Pentecost until Saturday None before the first Sunday of Advent inclusive.');
+	bvm_head(2);
+	rubp('Quod dicitur a I Vesperis dominicæ I Adventus usque ad Nonam vigiliæ Nativitatis Domini inclusive, et in festo Annuntiationis.', 'Which is said from I Vespers of the first Sunday of Advent until None of the vigil of the Nativity of the Lord inclusive, and on the feast of the Annuntiation.');
+	bvm_head(3);
+	rubp('Quod dicitur a Vesperis diei 24 decembris usque ad Completorium diei 2 februarii inclusive.', 'Which is said from Vespers on December 24 until Compline on February 2 inclusive.');
+	bvm_head(4);
+	rubp('Quod dicitur a Matutino dominicæ Resurrectionis usque ad Nonam sabbati Quatuor Temporum Pentecostes inclusive.', 'Which is said from Matins of the Sunday of the Resurrection until None of Ember Saturday of Pentecost inclusive.');
+	space();
 
 	hidden('Matins',2);
-	require '677_BVMp_matins.php';
+	if($_GET['matins']) require '677_BVMp_matins.php';
 
 	// ************************************************************
 	hidden('Lauds',2);
@@ -71,7 +82,7 @@ if($weekly) rubp('','Full Psalter:
 
 	bvm_head(1);
 	ant('beata_dei_genitrix_maria_virgo_perpetua.php','B');
-	rubrics('head/PT.php');
+	bvm_head(4);
 	ant('regina_caeli_laetare_alleluia.php','B',1,'','',1);
 	bvm_head(2);
 	ant('spiritus_sanctus_in_te_descendet.php','B',0,'','',1);
@@ -86,7 +97,7 @@ if($weekly) rubp('','Full Psalter:
 
 		bvm_head(1);
 		ant('beata_dei_genitrix_maria_virgo_perpetua.php','1');
-		rubrics('head/PT.php');
+		bvm_head(4);
 		ant('regina_caeli_laetare_alleluia.php','1',1,'','',1);
 		bvm_head(2);
 		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
@@ -405,12 +416,12 @@ if($weekly) rubp('','Full Psalter:
 
 	bvm_head(1);
 	ant('opBVMVm.php','M');
-	rubrics('head/PT.php');
+	bvm_head(4);
 	ant('regina_caeli_laetare_alleluia.php','M',1,'','',1);
 	bvm_head(2);
 	ant('spiritus_sanctus_in_te_descendet.php','M',0,'','',1);
 	bvm_head(3);
-	ant('prTemp/0101m2.php','M',0,'','',1);
+	ant('prTemp/nativity/0101m2.php','M',0,'','',1);
 	if($long==0) {
 		rubp('Canticum <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>', 'The Canticle <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>',1);
 	} else {
@@ -420,12 +431,12 @@ if($weekly) rubp('','Full Psalter:
 
 		bvm_head(1);
 		ant('opBVMVm.php','1');
-		rubrics('head/PT.php');
+		bvm_head(4);
 		ant('regina_caeli_laetare_alleluia.php','1',1,'','',1);
 		bvm_head(2);
 		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
 		bvm_head(3);
-		ant('prTemp/0101m2.php','1',0,'','',1);
+		ant('prTemp/nativity/0101m2.php','1',0,'','',1);
 	}
 	space();	
 	if($old==1) {
@@ -507,12 +518,12 @@ if($weekly) rubp('','Full Psalter:
 
 	bvm_head(1);
 	ant('sub_tuum_praesidium.php','*');
-	rubrics('head/PT.php');
+	bvm_head(4);
 	ant('regina_caeli_laetare_alleluia.php','*',1,'','',1);
 	bvm_head(2);
 	ant('spiritus_sanctus_in_te_descendet.php','*',0,'','',1);
 	bvm_head(3);
-	ant('prTemp/0101m2.php','*',0,'','',1);
+	ant('prTemp/nativity/0101m2.php','*',0,'','',1);
 	if($long==0) {
 		rubp('Canticum <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>', 'The Canticle <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>',1);
 	} else {
@@ -522,12 +533,12 @@ if($weekly) rubp('','Full Psalter:
 
 		bvm_head(1);
 		ant('sub_tuum_praesidium.php','1');
-		rubrics('head/PT.php');
+		bvm_head(4);
 		ant('regina_caeli_laetare_alleluia.php','1',1,'','',1);
 		bvm_head(2);
 		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
 		bvm_head(3);
-		ant('prTemp/0101m2.php','1',0,'','',1);
+		ant('prTemp/nativity/0101m2.php','1',0,'','',1);
 	}
 	space();	
 
@@ -614,6 +625,9 @@ function bvm_head($season=1, $option=0) {
 	elseif($season==2) $fn('II. In Adventu.','II. In Advent.',$size,$option);
 	elseif($season==3) $fn('III. Post Adventum.',
 		'III. From Christmas to 2 Feb.',$size,$option);
+	elseif($season==4) $fn('IV. Tempore Paschali.',
+		'IV. Easter Season.',$size,$option);
+
 	elseif($season==12) $fn('I,II. Extra Adventum et In Adventu.',
 		'I,II. From 3 Feb. until Christmas.',$size,$option);
 	elseif($season==13) $fn('I,III. Extra et Post Adventum.',
@@ -633,7 +647,7 @@ function bvm_multiant($part, $vespers=0, $option=1) {
 	ant('prSanct/0325L.php',$part,0,'','',1);
 	if($option==1) {
 		bvm_head(3,1);
-		ant('prTemp/0101L.php',$part,0,'','',1);
+		ant('prTemp/nativity/0101L.php',$part,0,'','',1);
 	}
 	space('Line');
 }

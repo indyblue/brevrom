@@ -1,8 +1,8 @@
    <p:RubricHidden><t>Ps 69:2</p>
    <table> <tr> <td:A1>
-      <p:BodyL><s:VR>V. </s>Deus † in adjutórium meum inténde. <s:VR>R. </s>Dómine ad adjuvándum me festína.</p>
+      <p:BodyL><s:VR>V. </s>Deus in adjutórium meum inténde. <s:VR>R. </s>Dómine ad adjuvándum me festína.</p>
      </td> <td:B1>
-      <p:BodyE><s:VR>V. </s>O God, † come to my assistance. <s:VR>R. </s>O Lord, make haste to help me.</p>
+      <p:BodyE><s:VR>V. </s>O God, come to my assistance. <s:VR>R. </s>O Lord, make haste to help me.</p>
      </td> </tr> <tr> <td:A1>
       <p:BodyL><s:BoldR>G</s>lória Patri, et Fílio, * et Spirítui Sancto. <s:BoldR>S</s>icut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.</p>
      </td> <td:B1>

@@ -1,0 +1,1 @@
+For it is written: * I will strike the shepherd, and the sheep of the flock shall be dispersed: but after I shall be risen again, I will go before you into Galilee: there you shall see me, saith the Lord.

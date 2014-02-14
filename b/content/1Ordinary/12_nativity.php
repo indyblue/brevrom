@@ -7,14 +7,14 @@
 	head('De hymno et versu','The hymn and verse',3);
 	hymn('a_solis_ortus_cardine.php',0);
 	vrS('PrTemp/verbum_caro_factum_est.php');
-	ant('PrTemp/0101b.php','B');
+	ant('PrTemp/nativity/0101b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('prTemp/0101.php');
+	prayer('prTemp/nativity/0101.php');
 
 	space();
 	hour('P');
 	rubp('In omni Officio tam de Tempore quam de Sanctis, in responsorio brevi dicitur cotidie, nisi proprius habeatur, sequens:', 'In all Offices, of the Season and of Saints, unless a proper verse is specified, in the brief response the following is said daily:');
-	PrV('qui_natus_es_de_maria_virgine.php',1);
+	PrV('qui_natus_es_de_maria_virgine.php',0);
 	rubp('In omni Officio, tam de tempore quam de Sanctis, dicitur cotidie sequens:', 'In all Offices, of the Season and of Saints, the following is said daily:');
 	lc('hebr1_11-12.php',0,3);
 
@@ -40,9 +40,9 @@
 	hour('V');
 	lc('tit2_11-12.php');
 	head('De hymno et versu','The hymn and verse',3);
-	hymn('jesu_redemptor_omnium_quem.php');
+	hymn('jesu_redemptor_omnium_quem.php',0);
 	vrS('PrTemp/notum_fecit_dominus.php',1);
-	ant('PrTemp/0101m2.php','M');
+	ant('PrTemp/nativity/0101m2.php','M');
 	rubp('Oratio ut supra ad Laudes','Prayer as above at Lauds');
 
 ?>

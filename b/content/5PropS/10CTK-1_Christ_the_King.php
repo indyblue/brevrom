@@ -1,7 +1,8 @@
 <?php
 
+	space();
+	bookmark('10CTK');
 	img('01_sunday_vespers.png',100);
-	space('RubricH');
 	headSt('Last Sunday in October',1,'D.N. Jesu Christi Regis','Christ the King');
 
 	hour('1V');

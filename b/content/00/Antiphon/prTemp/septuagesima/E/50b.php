@@ -1,0 +1,1 @@
+Behold, we go up * to Jerusalem, and all things that are written concerning the Son of man shall be accomplished: for he shall be delivered unto the gentiles, and shall be mocked and spat upon; and they shall scourge him and put him to death, and on the third day he shall rise again.

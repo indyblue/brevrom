@@ -1,0 +1,1 @@
+O God, who by the self-abasement of thy Son hast raised up a fallen world, grant to thy faithful people perpetual joy; and as thou hast delivered them from the danger of eternal death, so do thou give unto them the fruition of everlasting happiness. Through the same.

@@ -1,7 +1,7 @@
 <?php
 
-	img();
 	space();
+	// img();
 	feast_saint(1123,13,'Sancti Clementis I','Saint Clement I','PM');
 
 	hour('L');

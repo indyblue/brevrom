@@ -2,7 +2,6 @@
 
 	space(); 
 	img('Saints/0806_transfiguration.png',100);
-	space('RubricH'); 
 	headst('806',2,'in Transfiguratione D.N.J.C.',
 		'The Transfiguration of our Lord Jesus Christ');
 

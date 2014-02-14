@@ -1,0 +1,1 @@
+We beseech thee, O Lord, let the healing of thy mercy come to the aid of the weakness of our nature: that whatsoever has been decayed by reason of its frailty, may by thy loving-kindness be restored. Through our Lord.

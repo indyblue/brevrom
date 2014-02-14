@@ -2,6 +2,7 @@
 
 space();
 img();
+space();
 head('Festa Julii', 'Feasts of July',1);
 
 require '0701-1_precious_blood.php';

@@ -11,13 +11,13 @@ function hour($h, $size=2) {
 		'S' => 'ad Sextam', 'N' => 'ad Nonam', 
 		'V' => 'ad Vésperas', '1V' => 'ad I Vésperas',
 		'2V' => 'ad II Vésperas', 'C' => 'ad Completórium',
-		'H' => 'ad Horas');
+		'H' => 'ad Horas', 'pL' => 'pro Laudibus');
 	$hourE = array('M' => 'at Matins', 'L' => 'at Lauds', 
 		'P' => 'at Prime', 'T' => 'at Terce', 
 		'S' => 'at Sext', 'N' => 'at None', 
 		'V' => 'at Vespers', '1V' => 'at I Vespers',
 		'2V' => 'at II Vespers', 'C' => 'at Compline',
-		'H' => 'at the Little Hourss');
+		'H' => 'at the Little Hours', 'pL' => 'in place of Lauds');
 	if($size=='O') {
 		$size = 1;
 		$h1 = 'Ordinary';
@@ -34,23 +34,43 @@ function feria($d, $class=3, $size=2) {
 		4 => 'Feria Quarta', 
 		5 => 'Feria Quinta', 
 		6 => 'Feria Sexta', 
-		7 => 'Sabbato');
+		7 => 'Sabbato',
+		'7a' => 'Sabbato in Albis');
 	$dayE = array(2 => 'Monday',
 		3 => 'Tuesday', 
 		4 => 'Wednesday', 
 		5 => 'Thursday', 
 		6 => 'Friday', 
-		7 => 'Saturday');
+		7 => 'Saturday',
+		'7a' => 'White Saturday');
 	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis',
-		23 => 'II vel III classis');
+		'IV classis', 23 => 'II vel III classis');
 	$clnameE = array('Commemoration', 'I class', 'II class', 'III class',
-		23 => 'II or III class');
-	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.');
+		'IV classis', 23 => 'II or III class');
+	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.', 'IV cl.');
 	head($dayL[$d], $dayE[$d], $size, $h1, $h2);
-	if($class<0) {
-		$class = -$class;
+	if($class>50) {
+		$class -= 50;
+		head('(in Rogationibus)','(Rogation Day)',4);
+		if($d==4) head('Vigilia Ascensionis', 'Vigil of the Ascension', 2);
+	} elseif($class>40) {
+		$class -= 40;
+		if($d==4 || $d==6 || $d==7)
+			head('Quatuor Temporum Pentecostes','Ember Day of Pentecost',4);
+		else
+			head('Infra Octavam Pentecostes', 'In the Octave of Pentecost',4);
+	} elseif($class>30) {
+		$class -= 30;
+		head('Infra Octavam Paschæ', 'In the Octave of Easter',4);
+	} elseif($class==21) {
+		$class -= 20;
+		head('Hebdomadæ Sanctæ','Holy Week',4);
+	} elseif($class==23) {
+	} elseif($class>10) {
+		$class -= 10;
 		head('Quatuor Temporum','Ember Day',4);
 	}
+
 	head($clnameL[$class],$clnameE[$class], 5);
 }
 
@@ -111,23 +131,27 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 	$L = $_GET['L'];
 	$par = $_GET['par'];
 
-	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis');
-	$clnameE = array('Commemoration', 'I class', 'II class', 'III class');
-	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.');
+	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis',
+		'IV classis',
+		181 => 'I classis cum octava I classis',
+		182 => 'I classis cum octava II classis');
+	$clnameE = array('Commemoration', 'I class', 'II class', 'III class',
+		'IV class',
+		181 => 'I class, with I class octave',
+		182 => 'I class, with II class octave');
+	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.', 'IV cl.');
 	
 	if($head1)
 		hidden($head1,1);
 	if($head2)
 		hidden($head2);
-
+	
+	$size = 1;
+	if($class==4) $size = '1NI';
 	head($nameL,$nameE,1);
 	if(is_array($descr)) {
-		if(strlen($descr[0].$descr[1]) > 40) 
-			head($clname[$class] .' '. $descr[0], 
-				$clname[$class] .' '. $descr[1], 14);
-		else 
-			head('', $clname[$class] .' '. $descr[0] 
-				.' — '. $clname[$class] .' '. $descr[1], 4);
+		if($L) head($clnameL[$class] .' - '. $descr[0], '', 4);
+		else head('', $clnameE[$class] .' - '. $descr[1], 14);
 	} elseif($descr>100) {
 		$date = convert_date($descr);
 		if($L) head($clnameL[$class].' - '.$date[0],'', 4);
@@ -177,7 +201,7 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 		echo '  <p:Head'. $size .'>' . ($Llang==1?$L:$E) ."</p>\n";
 	} 	elseif($size<2 || $interl) { 
 		echo '  <p:Head'. $size .'>' . ($Llang==1?$L:$E) ."</p>\n".
-			'  <p:Head5>' . ($Llang==1?$E:$L) ."</p>\n";
+			'  <p:Head5>' . preg_replace('/<[^>]*>/','',($Llang==1?$E:$L)) ."</p>\n";
 	} 	else { 
 		echo "\n  <tableH><tr><td:A1>\n".
 			'   <p:Head'. $size .'>'. $L ."</p>\n".

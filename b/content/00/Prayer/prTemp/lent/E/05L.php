@@ -1,0 +1,1 @@
+O God, who art by sin offended but by repentance propitiated, look mercifully on the prayers of thy suppliant people, and turn away the scourge of thine anger, which we have deserved by our sins. Through our Lord.

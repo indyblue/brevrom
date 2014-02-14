@@ -214,7 +214,7 @@ function multiant($day, $hour, $incs='*') {
 		rubp($natL[$day],$natE[$day],0,1);
 		ant('prTemp/advent/' . $dayF[$day] .'.php',$incs,0,'','',1);
 		rubp($hwL[$day],$hwE[$day],0,1);
-		ant('prTemp/passion' . $dayF[$day] .'.php',$incs,0,'','',1);
+		ant('prTemp/passiontide/2'. $day .'L.php',$incs,0,'','',1);
 		space('Line');
 	} else {
 		    if($hour==2) $incs = '+0000';
@@ -233,12 +233,12 @@ function multiant($day, $hour, $incs='*') {
 		rubp($natL[$day],$natE[$day],0,1);
 		ant('prTemp/advent/' . $dayF[$day] .'.php',$incs,0,'','',1);
 		rubp('Tempore Quadragesimæ:','In the Season of Lent:',0,1);
-		ant('prTemp/lentLH.php',$incs,0,'','',1);
+		ant('prTemp/lent/12LH.php',$incs,0,'','',1);
 		rubp('Infra Hebd I Passionis:','In the first week of Passiontide:',0,1);
-		ant('prTemp/passion1LH.php',$incs,0,'','',1);
+		ant('prTemp/passiontide/12LH.php',$incs,0,'','',1);
 		if($day<5) {
 			rubp($hwL[$day],$hwE[$day],0,1);
-			ant('prTemp/passion' . $dayF[$day] .'.php',$incs,0,'','',1);
+			ant('prTemp/passiontide/2'. $day .'L.php',$incs,0,'','',1);
 		}
 		space('Line');
 		ant('Psalter/alleluia.php','P');

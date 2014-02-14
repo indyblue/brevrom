@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img(); 
+	// img(); 
 	feast_saint(518,13,'Sancti Venantii','Saint Venantius','M');
 	csref(0,1);
 

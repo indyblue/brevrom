@@ -1,0 +1,1 @@
+Jesus said: * But that you may know that the Son of man hath power upon earth to forgive sins, he said unto the sick of the palsy: I say to thee, arise, take up thy couch, and go into thine house, alleluia.

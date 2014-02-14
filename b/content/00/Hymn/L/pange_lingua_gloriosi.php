@@ -30,7 +30,6 @@ Ad firmándum cor sincérum
 Sola fides súfficit.
 
 <sr>Sequens stropha, si coram Sanctissimo exposito Officium persolvatur, dicitur flexis genibus:</s>
-
 Tantum ergo Sacraméntum
 Venerémur cérnui:
 Et antíquum documéntum

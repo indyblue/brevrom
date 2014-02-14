@@ -1,0 +1,1 @@
+We celebrate * a festival adorned by three miracles: this day, a star led the magi to the manger; this day, water was changed into wine at the marriage feast; this day, Christ vouchsafed to be baptized of John in the Jordan, for our salvation, alleluia.

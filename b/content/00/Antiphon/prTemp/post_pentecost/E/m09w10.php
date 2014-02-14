@@ -1,0 +1,1 @@
+When Job had heard * the words of the messengers, he bore it patiently, and said: If we have received good things at the hand of God, why should we not receive evil? In all these things Job did not sin with his lips, nor spoke he any foolish thing against God.

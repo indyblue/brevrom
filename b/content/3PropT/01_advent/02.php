@@ -1,8 +1,7 @@
 <?php 
-	img();
 	space();
 	hidden('Advent',1);
-	hidden('Advent II',2);
+	hidden('Second Sunday',2);
 	head_temp(1,'Dominica II Adventus', 'Second Sunday of Advent');
 
 	hour('1V');
@@ -101,7 +100,6 @@
 	feria(7);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/02/f7b.php','B');
-	space();
 
 ?>
 

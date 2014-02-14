@@ -13,8 +13,8 @@ A creature’s form appears.
 
 A spotless maiden’s virgin breast
 With heavenly grace He fills;
-In her pure wombe He is conceived,
-And there in secred dwells.
+In her pure womb He is conceived,
+And there in secret dwells.
 
 That bosom, chastity’s sweet home,
 Becomes, oh, blest reward!

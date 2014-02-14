@@ -1,0 +1,1 @@
+Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum. <sr>Et sub silentio concluditur:</s> Qui tecum vivit.

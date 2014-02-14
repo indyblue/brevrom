@@ -1,6 +1,7 @@
 <?php
-	img();
+
 	space();
+	// img();
 	feast_saint(1122,13,'Sanctæ Cæciliæ','Saint Cecilia','VM');
 
 	hour('L');

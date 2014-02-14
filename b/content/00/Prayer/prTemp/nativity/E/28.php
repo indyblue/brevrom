@@ -1,0 +1,1 @@
+O God, whose praise the Innocent Martyrs this day proclaimed, not by speaking but by dying: mortify in us all the evils of vice, that our life also may declare by our actions the faith which our lips profess. Through our Lord.

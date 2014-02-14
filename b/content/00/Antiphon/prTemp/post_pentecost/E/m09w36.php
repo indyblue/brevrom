@@ -1,0 +1,1 @@
+A woman * who was a sinner in the city, stood at the feet of the Lord behind him, and began to wash his feet with tears, and wipe them with the hairs of her head, and she kissed his feet, and anointed them with ointment.

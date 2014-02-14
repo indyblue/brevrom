@@ -1,0 +1,1 @@
+Grant, we beseech thee, O Lord, that the power of the Holy Ghost may be ever present with us, to purify our hearts from sin, and to defend us from all adversity. Through our Lord...in the unity of the same Holy Spirit.

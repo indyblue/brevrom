@@ -1,6 +1,7 @@
 <?php 
-	img();
 	space();
+	bookmark('Advent24');
+	hidden('Advent',1);
 	hidden('Vigil of the Nativity',2);
 	rubp('<snr>¶</s> Si vigilia Nativitatis Domini venerit in dominica, Officium ordinatur hoc modo: Sabbato præcedenti, ad Vesperas omnia dicuntur ut ad I Vesperas dominicæ IV Adventus, <snr>p. '.bkref('Advent4V1').'</s>.', '<snr>¶</s> If the vigil of the Nativity of the Lord comes on a Sunday, the Office is arranged in this method: On the preceding Saturday, Vespers is said as at I Vespers of the fourth Sunday of Advent, <snr>p. '.bkref('Advent4V1').'</s>.');
 	rubp('Ad Laudes et ad Horas minores fit Officium festivum de vigilia ut infra, sine commemoratione dominicæ.', 'At Lauds and the Little Hours, the Office of the vigil is used, as below, without commemoration of the Sunday.');
@@ -40,6 +41,5 @@
 	space();
 
 	rubp('Post Nonam explicit tempus Adventus et incipit tempus natalicium.', 'After None the season of Advent ends, and the season of Christmas begins.');
-	space();
 
 ?>

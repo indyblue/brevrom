@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img(); 
+	// img(); 
 	feast_saint(626,13,'Ss. Joannis et Pauli',
 		'Ss. John and Paul','M+');
 

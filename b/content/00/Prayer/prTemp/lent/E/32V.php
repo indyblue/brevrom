@@ -1,0 +1,1 @@
+Let thy mercy, O Lord, come unto our aid, that by thy protection we may be delivered from the imminent dangers of our sins, and that freed by thee we may be brought to everlasting salvation. Through our Lord.

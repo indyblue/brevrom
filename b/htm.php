@@ -116,7 +116,7 @@ echo '<html><head>
 	span.SmCaps {font-variant:small-caps}
 	span.Super {font-size:58%; vertical-align:top}
 	span.DropCap {font-weight:bold; color:red}
-	span.VR {color:red}
+	span.VR {color:red; font-style:normal;}
 	span.NH {}
 	span.L {font-style:italic}
 
@@ -125,24 +125,35 @@ echo '<html><head>
 		padding:1 20px; background-color:gray;}
 	div.Hidden2 {visibility:visible; padding:1 20px; background-color:gray;}
 
-	div.h1 {height:auto; overflow:hidden;}
-	div.h2 {height:'.($v?'auto':'1px').'; overflow:hidden;}
+	div.h1 {height:auto; visibility:visible; overflow:hidden;}
+	div.h2 {height:'.($v?'auto':'1px').'; 
+				visibility:'.($v?'visible':'hidden').'; 
+				overflow:hidden;}
 
 	</STYLE>
 	<script type="text/javascript">
 		function h10(id) {
 			div2 = document.getElementById(id).style;
 			if(div2!=null) {
-				if(div2.height!="auto") div2.height="auto";
-				else div2.height="1px";
+				if(div2.height!="auto") {
+					div2.height="auto";
+					div2.visiblity="visible";
+				} else {
+					div2.height="1px";
+					div2.visibility="hidden";
 			}
 		}
 		function name10() {
 			divs = document.getElementsByName("h2");
-			if(divs[0].style.height!="auto") h0="auto";
-			else h0="1px";
+			if(divs[0].style.height!="auto") {
+				h0="auto";
+				h1="visible";
+			} else {
+				h0="1px";
+				h1="hidden";
 			for(var i=0;i<divs.length;i++) {
 				divs[i].style.height = h0;
+				divs[i].style.visibility = h1;
 			}
 		}
 	</script>
@@ -170,6 +181,7 @@ $regex=array(
 	'/<\/s>/',
 	'/<table([^:>]*)>/',
 	'/<td:([^\/>]*)/',
+	'/<t2>/',
 	'/<t>/',
 	'/<br\/*>/',
 	'/\bÁ/', '/\bÉ/', '/\bÍ/', '/\bÓ/', '/\bÚ/', '/\bÝ/', '/\bǼ/',
@@ -192,6 +204,7 @@ $repl=array(
 	'</span>',
 	'<table>',
 	'<td class="\1"',
+	'<span style="float:right;">',
 	'&nbsp;',
 	'<br/>',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',

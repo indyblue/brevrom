@@ -1,9 +1,9 @@
 <?php 
 
 space();
-img('separator3.png',100);
-head('Festa Septembris', 'Feasts of September',1);
+img();
 space();
+head('Festa Septembris', 'Feasts of September',1);
 
 feast_saint(901,0,'Sancti Ægidii','Saint Giles','a',array('csConfessorAbbot.php','Ægídii','Giles'),
 	"feast_saint(901,-1,'Ss. duodecim Fratrum','the twelve Holy Brothers','M+');");

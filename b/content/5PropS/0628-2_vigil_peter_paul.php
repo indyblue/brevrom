@@ -1,6 +1,6 @@
 <?php 
 	space(); 
-	img();
+	// img();
 	feast_saint(628,12,'in Vigilia Ss. Petri et Pauli',
 		'the Vigil of Ss. Peter and Paul.','A+');
 	rubp('Officium de feria, ut in Psalterio, præter [lectiones et] orationem, ut infra.', 'Office of the feria as in the Psalter, except the [matins lessons and] prayer given below.');

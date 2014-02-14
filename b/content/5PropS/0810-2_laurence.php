@@ -1,7 +1,7 @@
 <?php
 
-	img();
 	space(); 
+	// img();
 	feast_saint(810,12,'Sancti Laurentii','Saint Laurence','M');
 
 	hour('L');

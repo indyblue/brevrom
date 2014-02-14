@@ -1,0 +1,1 @@
+O almighty and eternal God, who by salutary continence dost heal both soul and body, we humbly beseech thy majesty, that thou, being well pleased by the devout prayers of thy fasting people, mayst grant unto them the help of thy grace both now and for evermore. Through our Lord.

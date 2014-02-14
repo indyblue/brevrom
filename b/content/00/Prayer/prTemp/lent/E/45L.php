@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that we who are chastened by fasting may be gladdened by a holy devotion; so that, our earthly affections being weakened, we may the more easily lay hold of heavenly things. Through our Lord.

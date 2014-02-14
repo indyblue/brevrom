@@ -1,7 +1,7 @@
 <?php
 
+	space();
 	img('Saints/1101_all_saints.png',100);
-	space('RubricH');
 	headSt(1101,1,'in Festo Omnium Sanctorum','Feast of All Saints');
 
 	hour('1V');
