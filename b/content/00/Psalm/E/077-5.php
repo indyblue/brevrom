@@ -1,8 +1,8 @@
 Psalmus 77 v. Non sunt recordáti
 They remembered not his hand, * in the day that he redeemed them from the hand of him that afflicted them:
 How he wrought his signs in Egypt, * and his wonders in the field of Tanis.
-And he turned their rivers into blood, * and their showers that they might, not drink.
-He sent amongst them divers sores of flies, which devoured them: * and frogs which destroyed them.
+And he turned their rivers into blood, * and their showers, that they might not drink.
+He sent amongst them divers sorts of flies, which devoured them: * and frogs which destroyed them.
 And he gave up their fruits to the blast, * and their labours to the locust.
 And he destroyed their vineyards with hail, * and their mulberry trees with hoarfrost.
 And he gave up their cattle to the hail, * and their stock to the fire.

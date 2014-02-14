@@ -1,0 +1,14 @@
+g!/"verse"\|"mi5"/d
+g/vul"/d
+%s/<[^>]*>//g
+%s/^\d*\s//ig
+%s/\W\{1,}/ /ig
+%s/Home.*Psalm //g
+
+%s/&apos;/'/ig
+g/\~/d
+g/\d\. / s/Psalmus //g
+g/ i\. / s/Psalmus //g
+g/Psalmus/d
+%s/\W\{1,}/ /ig
+%s/^\(\d\{1,}\).*/\1/g

@@ -43,7 +43,7 @@ $_GET['L'] = 1;
 //     'L4' for Lulu 4.25 x 6.875
 //     'L5' for Lulu 5.5 x 8.5
 //     'L6' for Lulu 6 x 9
-$_GET['Style'] = 'L5';
+$_GET['Style'] = '';
 
 //Switch to determine size of headings:
 // 0 = smaller headings (used in propers)
@@ -54,8 +54,8 @@ $_GET['O'] = 0;
 // require 'temp/051_my_hymns.php';
 // require '6ComS/690_OfficeDead.php';
 
-echo '   <p:P181/>';
-require '2Psalter/7none.php';
+// echo '   <p:P181/>';
+// require '2Psalter/7none.php';
 // psalm(94);
 // psalm(118);
 // canticle('magnificat.php');
@@ -77,19 +77,19 @@ require '2Psalter/7none.php';
 // echo '   <p:Head1NI/>';
 
 
-// require '100_intro.php';
-// require '150_calendar.php';
-// require '3PropT/index.php';
-// $_GET['O'] = 1;
-// require '1Ordinary/index.php';
-// require '2Psalter/index.php';
-// $_GET['O'] = 0;
-// 
-// require '5PropS/index.php';
-// require '6ComS/index.php';
+require '100_intro.php';
+require '150_calendar.php';
+require '3PropT/index.php';
+$_GET['O'] = 1;
+require '1Ordinary/index.php';
+require '2Psalter/index.php';
+$_GET['O'] = 0;
 
-// require '7App/index.php';
-// require '998_indices.php';
+require '5PropS/index.php';
+require '6ComS/index.php';
+
+require '7App/index.php';
+require '998_indices.php';
 
 
 require '999_end.php';

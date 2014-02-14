@@ -17,6 +17,11 @@ ggjlvwu:wn
 
 
 ----- psalm first line -----
-ar *.php | call setreg("a","") | set nomore
-argdo call setreg("A", bufname("") . "| " . getline("2") . "\n")
+ar *.php | call setreg("a","") | call setreg("b","") | set nomore | redir @B
+argdo call setreg("A", bufname("") . "| " . getline("2") . "\n") 
+redir END
+g!/lines/d
+%s/^"// | %s/\.php"/,/ | %s/ lines\| characters//g
+g!/-/ s/,/,,
+%s/-/,/
 %s/\*.*$// | %s/ $// | %s/\W$//
