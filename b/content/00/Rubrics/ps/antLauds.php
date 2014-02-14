@@ -1,3 +1,3 @@
 <?php
-rubp('Antiphona ut ad Laudes.','Antiphons as ad Lauds.');
+rubp('Antiphona ut ad Laudes.','Antiphons as at Lauds.');
 ?>
