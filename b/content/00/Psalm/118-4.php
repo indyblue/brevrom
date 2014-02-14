@@ -1,5 +1,4 @@
-Psalmus 118 iv
-~Zain
+Psalmus 118 iv (Zain, Heth)
 Memor esto verbi tui servo tuo, * in quo mihi spem dedísti.
 Hæc me consoláta est in humilitáte mea: * quia elóquium tuum vivificávit me.
 Supérbi iníque agébant usquequáque: * a lege autem tua non declinávi.
@@ -8,7 +7,6 @@ Deféctio ténuit me, * pro peccatóribus derelinquéntibus legem tuam.
 Cantábiles mihi erant justificatiónes tuæ, * in loco peregrinatiónis meæ.
 Memor fui nocte nóminis tui, Dómine: * et custodívi legem tuam.
 Hæc facta est mihi: * quia justificatiónes tuas exquisívi.
-~Heth
 Pórtio mea, Dómine, * dixi custodíre legem tuam.
 Deprecátus sum fáciem tuam in toto corde meo: * miserére mei secúndum elóquium tuum.
 Cogitávi vias meas: * et convérti pedes meos in testimónia tua.

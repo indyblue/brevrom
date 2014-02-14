@@ -11,8 +11,8 @@ special rules:
    qu + vowel, no hyph
 
 The following vowels/dipthongs are represented:
-aeiouyáéíóúıæëäôö
+aeiouyáéíóúıæëãôõ
 The "ae" and "oe" dipthongs and their accented versions are for the most part not supported by the hyphenation engine.  Therefore:
-ä may be replaced in the font by accented "ae"
+ã may be replaced in the font by accented "ae"
 ô may be replaced in the font by non-accented "oe"
-ö may be replaced in the font by accented "oe"
+õ may be replaced in the font by accented "oe"

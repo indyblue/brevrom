@@ -1,5 +1,4 @@
-Psalm 118 iii
-~He
+Psalm 118 iii (He, Vau)
 Set before me for a law the way of thy justifications, O Lord: * and I will always seek after it.
 Give me understanding, and I will search thy law; * and I will keep it with my whole heart.
 Lead me into the path of thy commandments; * for this same I have desired.
@@ -8,7 +7,6 @@ Turn away my eyes that they may not behold vanity: * quicken me in thy way.
 Establish thy word to thy servant, * in thy fear.
 Turn away my reproach, which I have apprehended: * for thy judgments are delightful.
 Behold I have longed after thy precepts: * quicken me in thy justice.
-~Vau
 Let thy mercy also come upon me, O Lord: * thy salvation according to thy word.
 So shall I answer them that reproach me in any thing; * that I have trusted in thy words.
 And take not thou the word of truth utterly out of my mouth: * for in thy words, I have hoped exceedingly.

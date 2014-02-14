@@ -168,7 +168,36 @@ function multiant($day, $hour, $incs='*') {
 		'Friday of the Passion and Death of our Lord:',
 		'Holy Saturday:');
 
-	if($hour==1) {
+	// Matins
+	if($hour==0) {
+		$n = stripos($incs,'n');
+		if($n===false) {
+			ant('Psalter/'. $dayF[$day] .'/0M.php',$incs);
+			space('Line');
+			rubp('In Adventu:','In Advent:',0,1);
+			ant('prTemp/adventDM.php',$incs,0,'','',1);
+			space('Line');
+		} else {
+			// if a nocturn, some manipulation has to be done
+			// to avoid duplicating the Nocturn heading
+			$tmp = str_ireplace('n','0',$incs);
+			$one = stripos($incs,'1');
+			if($one!==false) {
+				ant('Psalter/'. $dayF[$day] .'/0M.php',$tmp);
+				space('Line');
+				rubp('In Adventu:','In Advent:',0,1);
+				ant('prTemp/adventDM.php',$tmp,0,'','',1);
+				space('Line');
+			}
+			$tmp = str_ireplace('1','0',$incs);
+			ant('Psalter/'. $dayF[$day] .'/0M.php',$tmp);
+			space('Line');
+			rubp('In Adventu:','In Advent:',0,1);
+			$tmp = str_ireplace('n','2',$tmp);
+			ant('prTemp/adventDM.php',$tmp,0,'','',1);
+			space('Line');
+		}
+	} elseif($hour==1) {
 		ant('Psalter/'. $dayF[$day] .'/1L2.php',$incs);
 		space('Line');
 		rubp($natL[$day],$natE[$day],0,1);

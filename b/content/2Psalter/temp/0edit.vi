@@ -1,0 +1,25 @@
+%s/ps6/psS/
+%s/(6,/(7,/
+%s/6Fri/7Sat/
+
+(1,\|1Sun\|psD
+(2,\|2Mon\|ps2
+(3,\|3Tue\|ps3
+(4,\|4Wed\|ps4
+(5,\|5Thu\|ps5
+(6,\|6Fri\|ps6
+(7,\|7Sat\|psS
+
+%s/\(psalm\|canticle\|hymn\)(.*/\1();/
+
+
+----- error checking code -----
+// modifies "index_OLD" so that 
+// an easier error check may be
+// performed.
+
+g/table>\|tr>\|<td\|td>/d
+g/:Hidden/d
+set nowrap
+\(psalm\|canticle\|hymn\|bookmark\).*
+

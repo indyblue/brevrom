@@ -10,6 +10,7 @@ Vespers (</s><?php echo bkref('orVespers'); ?><sr>)
 Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 
 <?php require '0Intro/105_sacrosancte.php'; ?>
+<?php require '0Intro/106_o_clementissime.php'; ?>
 	<p:P1/>
 <?php require '0Intro/110_collect.php'; ?>
 

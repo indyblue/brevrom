@@ -5,7 +5,6 @@
 
 <?php hour('L'); ?>
 <?php vrS('prSanct/potens_in_terra_erit_semen_ejus.php'); ?>
-<?php rubrics('head/Benedictus.php'); ?>
 <?php ant('prSanct/0816b.php','B'); ?>
 <?php prayer('prSanct/0816.php'); ?>
    <p:BodySm/>

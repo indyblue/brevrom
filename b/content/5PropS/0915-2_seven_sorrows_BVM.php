@@ -6,12 +6,10 @@
 <?php ant('prSanct/0915L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('prSanct/0915L.php','02222'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam2_13.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
 <?php hymn('summae_deus_clementiae.php'); ?>
 <?php vrS('prSanct/maria_virgo_per_virtutem_tot_dolorum.php'); ?>
-<?php rubrics('head/Benedictus.php'); ?>
 <?php ant('prSanct/0915b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0915.php'); ?>
@@ -28,25 +26,19 @@
 	<p:BodySm/>
 
 <?php hour('T'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam2_13.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/o_vos_omnes_qui_transitis_per_viam.php'); ?>
 <?php vrS('prSanct/defecerunt_prae_lacrimis_oculi_mei.php'); ?>
    <p:BodySm/>
 
 <?php hour('S'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam1_2.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/defecerunt_prae_lacrimis_oculi_mei.php'); ?>
 <?php vrS('prSanct/fasciculus_myrrhae_dilectus_meus_mihi.php'); ?>
    <p:BodySm/>
 
 <?php hour('N'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam2_18.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/fasciculus_myrrhae_dilectus_meus_mihi.php'); ?>
 <?php vrS('prSanct/anima_mea_liquefacta_est.php'); ?>
 	<p:BodySm/>
@@ -54,12 +46,10 @@
 <?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam2_13.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
 <?php hymn('jam_toto_subitus_vesper_eat_polo.php'); ?>
 <?php vrS('prSanct/regina_martyrum_ora_pro_nobis.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/0915m2.php','M'); ?>
 <?php rubrics('prSanct/if1Vespers.php'); ?>
 <?php ant('prSanct/0915m1.php','M'); ?>

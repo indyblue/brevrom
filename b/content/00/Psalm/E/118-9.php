@@ -1,5 +1,4 @@
-Psalm 118 ix
-~Phe
+Psalm 118 ix (Phe, Sade)
 Thy testimonies are wonderful: * therefore my soul hath sought them.
 The declaration of thy words giveth light: * and giveth understanding to little ones.
 I opened my mouth, and panted: * because I longed for thy commandments.
@@ -8,7 +7,6 @@ Direct my steps according to thy word: * and let no iniquity have dominion over 
 Redeem me from the calumnies of men: * that I may keep thy commandments.
 Make thy face to shine upon thy servant: * and teach me thy justifications.
 My eyes have sent forth springs of water: * because they have not kept thy law.
-~Sade
 Thou art just, O Lord: * and thy judgment is right.
 Thou hast commanded justice thy testimonies: * and thy truth exceedingly.
 My zeal hath made me pine away: * because my enemies forgot thy words.

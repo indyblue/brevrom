@@ -136,7 +136,6 @@ head('Festa Novembris', 'Feasts of November',1);
 <?php rubrics('ps/Feria.php'); ?>
 <?php rubrics('prSanct/all_else.php','csBVM'); ?>
 <?php prayer('prSanct/1121.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/1121m.php','M'); ?>
    <p:BodySm/>
 

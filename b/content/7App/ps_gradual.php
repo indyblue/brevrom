@@ -1,4 +1,5 @@
 <?php
+	$long = $_GET['long'];
 	hidden('Gradual Psalms',2);
 	head('Psalmi Graduales','Gradual Psalms',1);
 	rubp('Sicubi recitentur in choro, congrue dicuntur ante Matutinum diei; extra chorum vero pro temporis opportunitate.',

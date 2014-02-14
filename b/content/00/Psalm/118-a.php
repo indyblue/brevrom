@@ -1,5 +1,4 @@
-Psalmus 118 x
-~Coph
+Psalmus 118 x (Coph, Res)
 Clamávi in toto corde meo, exáudi me, Dómine: * justificatiónes tuas requíram.
 Clamávi ad te, salvum me fac: * ut custódiam mandáta tua.
 Prævéni in maturitáte, et clamávi: * quia in verba tua supersperávi.
@@ -8,7 +7,6 @@ Vocem meam audi secúndum misericórdiam tuam, Dómine: * et secúndum judícium
 Appropinquavérunt persequéntes me iniquitáti: * a lege autem tua longe facti sunt.
 Prope es tu, Dómine: * et omnes viæ tuæ véritas.
 Inítio cognóvi de testimóniis tuis: * quia in ætérnum fundásti ea.
-~Res
 Vide humilitátem meam, et éripe me: * quia legem tuam non sum oblítus.
 Júdica judícium meum, et rédime me: * propter elóquium tuum vivífica me.
 Longe a peccatóribus salus: * quia justificatiónes tuas non exquisiérunt.

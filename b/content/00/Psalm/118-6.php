@@ -1,5 +1,4 @@
-Psalmus 118 vi
-~Caph
+Psalmus 118 vi (Caph, Laméd)
 Defécit in salutáre tuum ánima mea: * et in verbum tuum supersperávi.
 Defecérunt óculi mei in elóquium tuum, * dicéntes: Quando consoláberis me?
 Quia factus sum sicut uter in pruína: * justificatiónes tuas non sum oblítus.
@@ -8,7 +7,6 @@ Narravérunt mihi iníqui fabulatiónes: * sed non ut lex tua.
 Ómnia mandáta tua véritas: * iníque persecúti sunt me, ádjuva me.
 Paulo minus consummavérunt me in terra: * ego autem non derelíqui mandáta tua.
 Secúndum misericórdiam tuam vivífica me: * et custódiam testimónia oris tui.
-~Laméd
 In ætérnum, Dómine, * verbum tuum pérmanet in cælo.
 In generatiónem et generatiónem véritas tua: * fundásti terram, et pérmanet.
 Ordinatióne tua persevérat dies: * quóniam ómnia sérviunt tibi.

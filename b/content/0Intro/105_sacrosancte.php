@@ -9,9 +9,7 @@
       <p:BodyL><s:VR>V. </s>Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium. <s:VR>R. </s>Et beáta úbera, quæ lactavérunt Christum Dóminum.</p>
      </td> <td:B1>
       <p:BodyE><s:VR>V. </s>Blessed is the womb of the Virgin Mary, which bore the Son of the eternal Father. <s:VR>R. </s>And blessed are the breasts which nourished Christ the Lord.</p>
-     </td> </tr> </table>
-<?php require '106_o_clementissime.php'; ?>
-   <table> <tr> <td:A1>
+     </td> </tr> <tr> <td:A1>
       <p:Rubric>Pater noster. Ave María.</p>
      </td> <td:B1>
       <p:Rubric>Our Father. Hail Mary.</p>

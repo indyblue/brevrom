@@ -44,7 +44,6 @@
 
 	space();
 	hour('N');
-	rubrics('head/LittleChapter.php');
 	lc('ecclus24_30-31.php');
 	rubrics('head/PTnot.php');
 	brS('prSanct/beatam_me_dicent_omnes_generationes.php');

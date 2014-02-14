@@ -8,7 +8,6 @@
 <?php ant('prSanct/0908L.php','02222'); ?>
 <?php rubrics('asIn.php','csBVMLlc','Common of B.V.M.','Little Chapter &amp; Hymn <snr>O Gloriósa vírginum</s>'); ?>
 <?php vrS('prSanct/nativitas_est_hodie_sanctae_mariae_virginis.php'); ?>
-<?php rubrics('head/Benedictus.php'); ?>
 <?php ant('prSanct/0908b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0908.php'); ?>
@@ -29,7 +28,6 @@
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('asIn.php','csBVMVlc','Common of B.V.M.','Little Chapter &amp; Hymn <snr>Ave, maris stella</s>'); ?>
 <?php vrS('prSanct/nativitas_est_hodie_sanctae_mariae_virginis.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/0908m2.php','M'); ?>
 <?php rubrics('prSanct/if1Vespers.php'); ?>
 <?php ant('prSanct/0908m1.php','M'); ?>

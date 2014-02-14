@@ -1,4 +1,5 @@
 <?php
+	$long = $_GET['long'];
 
 	hidden('Preparation for Mass',2);
 	head('Præparatio ad Missam','Preparation for Mass',1);

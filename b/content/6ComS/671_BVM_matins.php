@@ -1,4 +1,5 @@
 <?php
+	$long = $_GET['long'];
 
 	space('Body');
 	bookmark('csBVMM');

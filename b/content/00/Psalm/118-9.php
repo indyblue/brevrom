@@ -1,5 +1,4 @@
-Psalmus 118 ix
-~Phe
+Psalmus 118 ix (Phe, Sade)
 Mirabília testimónia tua: * ídeo scrutáta est ea ánima mea.
 Declarátio sermónum tuórum illúminat: * et intelléctum dat párvulis.
 Os meum apérui, et attráxi spíritum: * quia mandáta tua desiderábam.
@@ -8,7 +7,6 @@ Gressus meos dírige secúndum elóquium tuum: * et non dominétur mei omnis inj
 Rédime me a calúmniis hóminum: * ut custódiam mandáta tua.
 Fáciem tuam illúmina super servum tuum: * et doce me justificatiónes tuas.
 Éxitus aquárum deduxérunt óculi mei: * quia non custodiérunt legem tuam.
-~Sade
 Justus es, Dómine: * et rectum judícium tuum.
 Mandásti justítiam testimónia tua: * et veritátem tuam nimis.
 Tabéscere me fecit zelus meus: * quia oblíti sunt verba tua inimíci mei.

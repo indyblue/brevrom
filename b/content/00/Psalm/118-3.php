@@ -1,5 +1,4 @@
-Psalmus 118 iii
-~He
+Psalmus 118 iii (He, Vau)
 Legem pone mihi, Dómine, viam justificatiónum tuárum: * et exquíram eam semper.
 Da mihi intelléctum, et scrutábor legem tuam: * et custódiam illam in toto corde meo.
 Deduc me in sémitam mandatórum tuórum: * quia ipsam vólui.
@@ -8,7 +7,6 @@ Avérte óculos meos ne vídeant vanitátem: * in via tua vivífica me.
 Státue servo tuo elóquium tuum, * in timóre tuo.
 Ámputa oppróbrium meum quod suspicátus sum: * quia judícia tua jucúnda.
 Ecce, concupívi mandáta tua: * in æquitáte tua vivífica me.
-~Vau
 Et véniat super me misericórdia tua, Dómine: * salutáre tuum secúndum elóquium tuum.
 Et respondébo exprobrántibus mihi verbum: * quia sperávi in sermónibus tuis.
 Et ne áuferas de ore meo verbum veritátis usquequáque: * quia in judíciis tuis supersperávi.

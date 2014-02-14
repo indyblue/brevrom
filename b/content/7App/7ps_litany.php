@@ -1,4 +1,5 @@
 <?php
+	$long = $_GET['long'];
 
 	hidden('Penitential Psalms',2);
 	head('Septem Psalmi Pœnitentiales','Seven Penitential Psalms',1);

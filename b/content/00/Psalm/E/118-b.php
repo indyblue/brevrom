@@ -1,5 +1,4 @@
-Psalm 118 xi
-~Sin
+Psalm 118 xi (Sin, Tau)
 Princes have persecuted me without cause: * and my heart hath been in awe of thy words.
 I will rejoice at thy words, * as one that hath found great spoil.
 I have hated and abhorred iniquity; * but I have loved thy law.
@@ -8,7 +7,6 @@ Much peace have they that love thy law, * and to them there is no stumbling-bloc
 I looked for thy salvation, O Lord: * and I loved thy commandments.
 My soul hath kept thy testimonies: * and hath loved them exceedingly.
 I have kept thy commandments and thy testimonies: * because all my ways are in thy sight.
-~Tau
 Let my supplication, O Lord, come near in thy sight: * give me understanding according to thy word.
 Let my request come in before thee; * deliver thou me according to thy word.
 My lips shall utter a hymn, * when thou shalt teach me thy justifications.

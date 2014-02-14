@@ -162,6 +162,7 @@ function hidden($txt, $level=2) {
 // and other parts which come before the psalms at the beginning
 // of the hours.
 function dayhour($d, $h, $size=1) {
+	$long = $_GET['long'];
 	$dayL = array('','Domínica','Feria secúnda','Feria tértia',
 		'Feria quárta','Feria quínta','Feria sexta','Sábbato');
 	$dayE = array('','Sunday','Monday','Tuesday',
@@ -200,7 +201,8 @@ function dayhour($d, $h, $size=1) {
 	elseif($h=='M') {
 		vr('domine_labia_short.php');
 	} elseif($h=='C') {
-		rubp('','The hour begins as in the Ordinary, <snr>p. ' . bkref('orCompline') .'.</s>');
+		if($long==0) rubp('','The hour begins as in the Ordinary, <snr>p. ' . bkref('orCompline') .'.</s>');
+		else require $_GET['root'] . '/2Psalter/08_compline_s1.php';
 	} else {
 		// all other hours begin with this versicle
 		vr('deus_in_adjutorium_short.php');
@@ -231,6 +233,7 @@ function dayhour($d, $h, $size=1) {
 // this function is used in the psalter, for constructing 
 // the ending of hours; all parts which come after the psalms.
 function dayhourE($d, $h, $size=1) {
+	$long = $_GET['long'];
 	if($h=='M');
 	elseif(csv_match($h,'L,L1')) {
 		rubp('Cant. <snr>Benedíctus p. '. bkref('benedictus') .'</s>','');
@@ -241,10 +244,12 @@ function dayhourE($d, $h, $size=1) {
 		rubp('Cant. <snr>Magníficat p. '. bkref('magnificat') .'</s>','');
 		vr('oratio_V_ps.php');
 	} elseif($h=='C') {
-		rubp('','The hour continues in the Ordinary, with the hymn <snr>Te lucis ante términum</s>, <snr>p. ' . bkref('te_lucis_ante_terminum') .'.</s>');
+		if($long==0) rubp('','The hour continues in the Ordinary, with the hymn <snr>Te lucis ante términum</s>, <snr>p. ' . bkref('te_lucis_ante_terminum') .'.</s>');
+		else require $_GET['root'] . '/2Psalter/08_compline_s2.php';
 	} elseif($h=='P') {
 		if($d>1) rubp('','Or the appropriate seasonal antiphon is repeated, <snr>p. '. bkref('LHant'. $d . $h) .'</s>.');
-		rubp('','The hour continues in the Ordinary, with the capit. <snr>Regi sæculórum</s>, <snr>p. ' . bkref('1tim1_17') .'.</s>');
+		if($long==0) rubp('','The hour continues in the Ordinary, with the capit. <snr>Regi sæculórum</s>, <snr>p. ' . bkref('1tim1_17') .'.</s>');
+		else require $_GET['root'] . '/2Psalter/03_prime_s.php';
 	} elseif(csv_match($h,'T,S,N')) {
 		if($d>1) rubp('','Or the appropriate seasonal antiphon is repeated, <snr>p. '. bkref('LHant'. $d . $h) .'</s>.');
 		if($d==7) 

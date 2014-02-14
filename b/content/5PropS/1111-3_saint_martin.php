@@ -7,7 +7,6 @@
 <?php ant('prSanct/1111L.php','02222'); ?>
 <?php rubrics('asIn.php','csCBLlc','Lauds of the Common of Confessor Bishops','Little Chapter &amp; Hymn <snr>Jesu, Redémptor ómnium</s>'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
-<?php rubrics('head/Benedictus.php'); ?>
 <?php ant('prSanct/1111b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1111.php'); ?>
@@ -26,6 +25,5 @@
 <?php rubrics('ps/SuV131.php'); ?>
 <?php rubrics('asIn.php','csCBVlc','II Vespers of the Common of Confessor Bishops','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/1111m.php','M'); ?>
 <?php rubrics('prSanct/ComplineFeria.php'); ?>

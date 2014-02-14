@@ -1,5 +1,4 @@
-Psalmus 118 viii
-~Samech
+Psalmus 118 viii (Samech, Ain)
 Iníquos ódio hábui: * et legem tuam diléxi.
 Adjútor et suscéptor meus es tu: * et in verbum tuum supersperávi.
 Declináte a me, malígni: * et scrutábor mandáta Dei mei.
@@ -8,7 +7,6 @@ Súscipe me secúndum elóquium tuum, et vivam: * et non confúndas me ab exspec
 Sprevísti omnes discedéntes a judíciis tuis: * quia injústa cogitátio eórum.
 Prævaricántes reputávi omnes peccatóres terræ: * ídeo diléxi testimónia tua.
 Confíge timóre tuo carnes meas: * a judíciis enim tuis tímui.
-~Ain
 Feci judícium et justítiam: * non tradas me calumniántibus me.
 Súscipe servum tuum in bonum: * non calumniéntur me supérbi.
 Óculi mei defecérunt in salutáre tuum: * et in elóquium justítiæ tuæ.

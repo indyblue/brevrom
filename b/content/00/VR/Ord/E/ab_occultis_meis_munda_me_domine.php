@@ -1,3 +1,3 @@
 From my secret sins cleanse me, O Lord.
-Et ab aliénis parce servo tuo. 
+And from those of others spare thy servant.
 > Ps 18:13

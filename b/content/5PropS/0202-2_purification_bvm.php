@@ -11,12 +11,10 @@
 	rubrics('asIn.php','pt0101L',
 		'Lauds of Jan. 1, the Feast of the Circumcision', 'Antiphons'); 
 	rubrics('ps/ComBVM.php'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('malach3_1.php'); 
 	rubrics('asIn.php','ave_maris_stella',
 		'Common of BVM','Hymn <snr>Ave, maris stella</s>');
 	vrS('prSanct/responsum_accepit_simeon_a_spiritu_sancto.php'); 
-	rubrics('head/Magnificat.php'); 
 	ant('prSanct/0202m1.php','M'); 
 	rubrics('prSanct/ComplineSun.php'); 
 	
@@ -25,7 +23,6 @@
 	ant('prSanct/0202L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0202L.php','02222'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('malach3_1.php'); 
 	rubrics('asIn.php','o_gloriosa_virginum',
 		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
@@ -40,25 +37,19 @@
 	rubp('Quando hoc festum occurrit in dominicis in Septuagesima, aut Sexagesima, aut Quinquagesima, ad horas sumuntur ant. de Laudibus, pss. vero de dominica, retentis tamen ad primam pss. 117, 118 i, 118 ii.', 'When this feast occurs on the Sunday of Septuagesima, Sexagesima or Quinquagesima, at the little hours the ant. are selected from Lauds, and the psalms from Sunday; retaining at Prime pss. 117, 118 i, 118 ii.');
 
 	hour('T'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('malach3_1.php'); 
-	rubrics('head/BriefRespond.php'); 
 	brS('specie_tua_et_pulcritudine_tua.php'); 
 	vrS('adjuvabit_eam_deus_vultu_suo.php'); 
 	
 	space();
 	hour('S'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('malach3_1-2.php'); 
-	rubrics('head/BriefRespond.php'); 
 	brS('adjuvabit_eam_deus_vultu_suo.php'); 
 	vrS('elegit_eam_deus_et_praeelegit_eam.php'); 
 
 	space();
 	hour('N'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('malach3_4.php'); 
-	rubrics('head/BriefRespond.php'); 
 	brS('elegit_eam_deus_et_praeelegit_eam.php'); 
 	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
 
@@ -66,7 +57,6 @@
 	hour('2V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('malach3_1.php'); 
 	rubrics('asIn.php','o_gloriosa_virginum',
 		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
