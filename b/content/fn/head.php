@@ -239,6 +239,7 @@ function dayhour($d, $h, $size=1) {
 		'2V' => 'at II Vespers', 'C' => 'at Compline');
 
 	// if $size<0, only the header is printed
+	$short = false;
 	if($size<0) {
 		$size = abs($size);
 		$short = true;

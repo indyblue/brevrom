@@ -241,6 +241,21 @@ if($old==1) {
 	vrS('dominus_vobiscum_non.php'); 
 	vr('oremus.php'); 
 	rubp('Dicitur oratio conveniens ex iis, quæ sequuntur; deinde versus <snr>Réquiem ætérnam,</s> cum reliquis, ut infra, <snr>'.bkref('offDefConcl').'</s>.','Then the proper Prayer(s) are said, from those which follow; then the verse <snr>Eternal rest,</s> with the rest, as below, <snr>'.bkref('offDefConcl').'</s>.');
+	if($long==1) {
+		head('In Officio pro defunctis in genere',
+			'In the Office for the dead in general',-4);
+		if($old==1) {
+			prayer('offDef/bishop2.php');
+			prayer('offDef/brethren2.php');
+		}
+		prayer('offDef/offDef.php');
+	
+		space();
+		rubp('Post orationem dicitur (semper plurali numero):','After the prayer(s) is said (always in the plural):');
+		vrS('requiem_aeternam.php');
+		vrS('requiescant_in_pace.php');
+		space();
+	}
 
 	space();
 	hidden('Collects',2);
@@ -371,6 +386,29 @@ if($old==1) {
 	space('Spacer');
 }
 
-	rubp('Preces, <snr>A porta ínferi</s>, cum reliquis, ut ad Laudes, p. <snr>'.bkref('offDefPreces').'</s>.','Prayers, <snr>From the gates of hell</s>, with the rest, as in Lauds, p. <snr>'.bkref('offDefPreces').'</s>.');
+	if($long==0) {
+		rubp('Preces, <snr>A porta ínferi</s>, cum reliquis, ut ad Laudes, p. <snr>'.bkref('offDefPreces').'</s>.','Prayers, <snr>From the gates of hell</s>, with the rest, as in Lauds, p. <snr>'.bkref('offDefPreces').'</s>.');
+	} else {
+		bookmark('offDefPreces');
+		vrS('a_porta_inferi_sing.php');
+		vrS('requiescant_in_pace_sing.php');
+		vrS('domine_exaudi_orationem_meam.php'); 
+		vrS('dominus_vobiscum_non.php'); 
+		vr('oremus.php'); 
+		rubp('Dicitur oratio conveniens ex iis, p. <snr>'.bkref('offDefPrayer').'</s>; deinde versus <snr>Réquiem ætérnam,</s> cum reliquis, ut infra.','Then the proper Prayer(s) are said, p. <snr>'.bkref('offDefPrayer').'</s>; then the verse <snr>Eternal rest,</s> with the rest, as below.');
+		head('In Officio pro defunctis in genere',
+			'In the Office for the dead in general',-4);
+		if($old==1) {
+			prayer('offDef/bishop2.php');
+			prayer('offDef/brethren2.php');
+		}
+		prayer('offDef/offDef.php');
+		space();
+		rubp('Post orationem dicitur (semper plurali numero):','After the prayer(s) is said (always in the plural):');
+		vrS('requiem_aeternam.php');
+		vrS('requiescant_in_pace.php');
+		space();
+	}
+
 
 ?>
