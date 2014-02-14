@@ -59,6 +59,8 @@
 	require '03_major_ant.php';
 	space();
 
+	hidden('Advent',1);
+	hidden('Third Week',2);
 	ordref('OrAdvent',0,31);
 	feria(2,23);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',0,'L');
@@ -95,7 +97,7 @@
 	feria(5,23);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/03/f5b.php','B');
-	rubp('Nisi hæc feria occurrat die 21 decembris, quia tunc, præcedenti antiphona prætermissa, dicitur ant. <snr>Nolíte timére, p. '.bkref('advent21').'</s>. Quod etiam servatur in sequenti feria vel dominica, quæ eadem die 21 occurrerit.', 'Unless it is December 21st, in which case, in place of the above antiphon is said the ant. <snr>Fear not, p. '.bkref('advent21').'</s>. This applies to any of the following ferias or the Sunday which may fall on the 21st.');
+	rubp('Nisi hæc feria occurrat die 21 decembris, quia tunc, præcedenti antiphona prætermissa, dicitur ant. <snr>Nolíte timére, p. '.bkref('Advent21b').'</s>. Quod etiam servatur in sequenti feria vel dominica, quæ eadem die 21 occurrerit.', 'Unless it is December 21st, in which case, in place of the above antiphon is said the ant. <snr>Fear not, p. '.bkref('Advent21b').'</s>. This applies to any of the following ferias or the Sunday which may fall on the 21st.');
 	rubp('Oratio <snr>Aurem</s>, ut supra.','Prayer <snr>Bend down</s>, as above.');
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	ant('PrTemp/advent/03/f5m.php','M');
@@ -105,7 +107,7 @@
 	feria(6,-2);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/03/f6b.php','B');
-	rubp('Nisi dicenda sit, die 21 decembris, ant. <snr>Nolíte timére, p. '.bkref('advent21').'</s>.', 'Unless it is December 21st, in which case ant. <snr>Fear not, p. '.bkref('advent21').'</s>, is to be said.');
+	rubp('Nisi dicenda sit, die 21 decembris, ant. <snr>Nolíte timére, p. '.bkref('Advent21b').'</s>.', 'Unless it is December 21st, in which case ant. <snr>Fear not, p. '.bkref('Advent21b').'</s>, is to be said.');
 	rubrics('et_dicuntur_preces.php');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/advent/03e6.php');
@@ -119,8 +121,8 @@
 	feria(7,-2);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/03/f7b.php','B');
-	rubp('Nisi dicenda sit, die 21 decembris, ant. <snr>Nolíte timére, p. '.bkref('advent21').'</s>.', 'Unless it is December 21st, in which case ant. <snr>Fear not, p. '.bkref('advent21').'</s>, is to be said.');
-	rubp('Nisi hæc fuerit dies ante vigiliam Nativitatis, quia tunc, præcedenti antiphona prætermissa, dicitur ant. <snr>Ecce compléta, p. '.bkref('advent23').'</s>. Quod etiam servatur (si idem contingat) in sequentibus diebus.', 'Unless it is December 23st, in which case, in place of the above antiphon is said the ant. <snr>Lo! all things, p. '.bkref('advent23').'</s>. This applies to any of the following days which fall on the 23rd.');
+	rubp('Nisi dicenda sit, die 21 decembris, ant. <snr>Nolíte timére, p. '.bkref('Advent21b').'</s>.', 'Unless it is December 21st, in which case ant. <snr>Fear not, p. '.bkref('Advent21b').'</s>, is to be said.');
+	rubp('Nisi hæc fuerit dies ante vigiliam Nativitatis, quia tunc, præcedenti antiphona prætermissa, dicitur ant. <snr>Ecce compléta, p. '.bkref('Advent23b').'</s>. Quod etiam servatur (si idem contingat) in sequentibus diebus.', 'Unless it is December 23st, in which case, in place of the above antiphon is said the ant. <snr>Lo! all things, p. '.bkref('Advent23b').'</s>. This applies to any of the following days which fall on the 23rd.');
 	rubrics('et_dicuntur_preces.php');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/advent/03e7.php');

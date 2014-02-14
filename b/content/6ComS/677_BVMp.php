@@ -23,7 +23,7 @@
 	space();
 
 	hidden('Matins',2);
-	require '677_BVMp_matins.php';
+	if($_GET['matins']) require '677_BVMp_matins.php';
 
 	// ************************************************************
 	hidden('Lauds',2);

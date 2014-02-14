@@ -1,1 +1,1 @@
-Tulérunt Dóminum meum, * et néscio ubi posuérunt eum: si tu sustulísti eum, dícito mihi, allelúja: et ego eum tollam, allelúja.
+Misi dígitum meum * in fixúras clavórum, et manum meam in latus ejus, et dixi: Dóminus meus, et Deus meus, allelúja.

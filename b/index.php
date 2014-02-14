@@ -142,7 +142,14 @@ $zip->addFile("./OOo/Object 2/content.xml","Object 2/content.xml");
 $zip->addFile("./OOo/Object 2/settings.xml","Object 2/settings.xml");
 $zip->addFile("./OOo/Object 2/styles.xml","Object 2/styles.xml");
 
-echo $_GET['Style'];
+echo "Style type: " . $_GET['Style'];
+echo "\n<pre>";
+echo "<br><br>All bookmark references that do not have anchors!<br>";
+print_r(bklist(-1));
+echo "<br><br>All anchors not referenced<br>";
+print_r(bklist(-2));
+echo "</pre>";
+
 // echo $i;
 
 // echo (int)'';

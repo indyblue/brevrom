@@ -1,1 +1,1 @@
-Jesus said * to his disciples: Bring of the fish which ye have now caught. Simon Peter went up and drew the net to land, full of great fishes, alleluia.
+Because thou hast seen me, * Thomas, thou hast believed: blessed are they that have not seen, and yet have believed, alleluia.

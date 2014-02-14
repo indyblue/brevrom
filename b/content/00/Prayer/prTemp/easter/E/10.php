@@ -1,1 +1,1 @@
-O God, who through thine only-begotten Son hast on this day overcome death and opened to us the gates of everlasting life; grant that our holy desires, which have been stirred within us by thy preventing grace, may by thy further aid be happily fulfilled. Through the same.
+Grant us, we beseech thee, O almighty God, that we who have celebrated the Paschal solemnity, may by thy gracious aid show forth its effects in our life and actions. Through our Lord.

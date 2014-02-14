@@ -1,1 +1,1 @@
-Míttite in déxteram * navígii rete, et inveniétis, allelúja.
+Ego sum vitis vera, * allelúja: et vos pálmites veri, allelúja.

@@ -62,7 +62,7 @@
 	hour('V');
 	lc('gen49_10.php');
 	head('De hymno et versu','The hymn and verse',3);
-	hymn('creator_alme_siderum.php');
+	hymn('creator_alme_siderum.php',0);
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
 	head('Preces','Preces',3);
 	rubp('Preces (<snr>p. '. bkref('preces') .'</s>) dicuntur: in Vesperis feriæ IV et VI temporis Adventus.', 'The preces (<snr>p. '. bkref('preces') .'</s>) are said: in Vespers of Wed. and Fri. in the season of Advent.');

@@ -1,1 +1,1 @@
-Vidéte manus meas * et pedes meos, quia ego ipse sum, allelúja, allelúja.
+Mitte manum tuam, * et cognósce loca clavórum, allelúja: et noli esse incrédulus, sed fidélis, allelúja.

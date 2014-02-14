@@ -14,7 +14,8 @@
 		psref(6);
 		rubp('Et in fine cujuslibet psalmi dicitur <snr>Glória Patri</s>.', 'And in conclusion of each psalm is said <snr>Glória Patri</s>.');
 		psref(31);
-		psref(37,2);
+		if($_GET['matins']) psref(37,2);
+		else psalm(37);
 		psref(50);
 		psref(101,3);
 		psref(129);

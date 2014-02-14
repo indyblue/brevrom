@@ -4,7 +4,7 @@
 	hidden('Fourth Sunday',2);
 	head_temp(1,'Dominica IV Adventus', 'Fourth Sunday of Advent');
 
-	rubp('Si in dominica IV Adventus venerit vigilia Nativitatis Domini, Officium fit ut infra, ad vigiliam, ordinatur <snr>'.bkref('advent24').'</s>.', 'If the fourth Sunday of Advent falls on the vigil of the Nativity of the Lord, the Office is said as directed at the vigil, <snr>p. '.bkref('advent24').'</s>.');
+	rubp('Si in dominica IV Adventus venerit vigilia Nativitatis Domini, Officium fit ut infra, ad vigiliam, ordinatur <snr>'.bkref('Advent24').'</s>.', 'If the fourth Sunday of Advent falls on the vigil of the Nativity of the Lord, the Office is said as directed at the vigil, <snr>p. '.bkref('Advent24').'</s>.');
 	space();
 	bookmark('Advent4V1');
 	hour('1V');

@@ -35,14 +35,14 @@ function feria($d, $class=3, $size=2) {
 		5 => 'Feria Quinta', 
 		6 => 'Feria Sexta', 
 		7 => 'Sabbato',
-		7.1 => 'Sabbato in Albis');
+		'7a' => 'Sabbato in Albis');
 	$dayE = array(2 => 'Monday',
 		3 => 'Tuesday', 
 		4 => 'Wednesday', 
 		5 => 'Thursday', 
 		6 => 'Friday', 
 		7 => 'Saturday',
-		7.1 => 'White Saturday');
+		'7a' => 'White Saturday');
 	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis',
 		'IV classis', 23 => 'II vel III classis');
 	$clnameE = array('Commemoration', 'I class', 'II class', 'III class',

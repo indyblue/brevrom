@@ -1,1 +1,1 @@
-And very early in the morning, * on the first day of the week, they came to the sepulchre, the sun being now risen, alleluia.
+At evening, * being the first of the week, when the doors were shut where the disciples were gathered together, Jesus stood in the midst, and said unto them: Peace be unto you, alleluia.

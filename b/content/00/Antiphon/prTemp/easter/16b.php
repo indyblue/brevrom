@@ -1,1 +1,1 @@
-Úndecim discípuli * in Galilǽa vidéntes Dóminum adoravérunt, allelúja.
+Venérunt ad monuméntum * María Magdaléne, et áltera María, vidére sepúlcrum, allelúja.

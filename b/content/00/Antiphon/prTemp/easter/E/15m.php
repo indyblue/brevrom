@@ -1,1 +1,1 @@
-They have taken away my Lord; * and I know not where they have laid him: if thou hast borne him hence, tell me, alleluia, and I will take him away, alleluia.
+I put my finger * into the print of the nails, and my hand into his side, and said: My Lord, and my God, alleluia.

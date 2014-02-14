@@ -1,1 +1,1 @@
-Cast the net on the right side * of the ship, and ye shall find, alleluia.
+I am the true vine, * alleluia: and ye are the true branches, alleluia.

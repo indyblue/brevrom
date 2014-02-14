@@ -76,6 +76,7 @@
 	space();
 
 	feria(7,4);
+	rubrics('de_officio_festi_vel_bvm_sat.php');
 
 ?>
 

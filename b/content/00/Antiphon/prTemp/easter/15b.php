@@ -1,1 +1,1 @@
-María stabat * ad monuméntum plorans, et vidit duos Ángelis in albis, sedéntes, et sudárium quod fúerat super caput Jesu, allelúja.
+Ardens est cor meum, * desídero vidére Dóminum meum: quæro, et non invénio, tibi posuérunt eum, allelúja, allelúja.

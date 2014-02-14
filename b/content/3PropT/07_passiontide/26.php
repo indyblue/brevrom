@@ -1,4 +1,5 @@
 <?php 
+	space();
 	hidden('Passiontide',1);
 	hidden('Good Friday',2);
 	head_temp(1,'Feria Sexta in Passione et Morte Domini', 'The Friday of the Lord’s Passion and Death');

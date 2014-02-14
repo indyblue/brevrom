@@ -138,13 +138,13 @@ function csref($cs=0, $ps=2, $opt=2) {
 		$E1 = 'Sext &amp; None as in the Common of  ';
 		$lh = 'S';
 	}
-	$pgref = ', <snr>p. '. bkref($cs . $lh) .'</s>';
 
 	if($cs===0) {
 		$L1 = ''; $E1 = '';
 		$L2 = ''; $E2 = '';
 		$pgref = '';
-	}
+	} else
+		$pgref = ', <snr>p. '. bkref($cs . $lh) .'</s>';
 
 	rubp(
 		$Lps . $ptL . $L1 . $csL[$cs] . $pgref . $L2, 
@@ -293,13 +293,14 @@ $ordE = array(
 		$E1 = 'Sext &amp; None as in the Ordinary  ';
 		$lh = 'S';
 	}
-	$pgref = ', <snr>p. '. bkref($ord . $lh) .'</s>';
 
 	if($ord===0) {
 		$L1 = ''; $E1 = '';
 		$L2 = ''; $E2 = '';
 		$pgref = '';
-	}
+	} else 
+		$pgref = ', <snr>p. '. bkref($ord . $lh) .'</s>';
+
 
 	rubp(
 		$Lps . $ptL . $L1 . $ordL[$ord] . $pgref . $L2, 

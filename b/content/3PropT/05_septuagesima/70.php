@@ -86,6 +86,6 @@
 	space();
 
 	feria(7,4);
-	rubp('De Officio festi vel S. Mariæ in sabbato.', 'Of the occurring feast or the Saturday Office of Bl. Mary.');
+	rubrics('de_officio_festi_vel_bvm_sat.php');
 
 ?>

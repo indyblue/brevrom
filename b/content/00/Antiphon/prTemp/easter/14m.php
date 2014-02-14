@@ -1,1 +1,1 @@
-Dixit Jesus * discípulis suis: Afférte de píscibus, quos prendidístis nunc. Ascéndit autem Simon Petrus, et traxit rete in terram plenum magnis píscibus, allelúja.
+Quia vidísti me, * Thoma, credidísti: beáti, qui non vidérunt, et credidérunt, allelúja.

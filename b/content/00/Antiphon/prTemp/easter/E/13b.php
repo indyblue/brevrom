@@ -1,1 +1,1 @@
-Jesus stood * in the midst of his disciples and said unto them: Peace be unto you, alleluia, alleluia.
+I will go before you * into Galilee; there shall ye see me, as I said unto you, alleluia, alleluia.
