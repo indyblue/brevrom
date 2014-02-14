@@ -1,4 +1,4 @@
-Ps 72 i. (73) Quam bonus Israël
+Ps 72 i. Quam bonus Israël
 Quam bonus Israël Deus, * his, qui recto sunt corde!‡
 Mei autem pæne moti sunt pedes: * pene effúsi sunt gressus mei.
 Quia zelávi super iníquos, * pacem peccatórum videns.

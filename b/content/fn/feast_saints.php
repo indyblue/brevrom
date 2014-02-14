@@ -74,6 +74,9 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		'D' => 'Eccl. Doct.', 'V' => 'Virgin', 'W' => 'Widow', 'K' => 'King', 
 		'Q' => 'Queen');
 
+	//this switch has to be set before the date calculations
+	$pt = 0;
+
 	// break up and format the date
 	if(is_array($date)) {
 		$Ldate = $date[0];
@@ -82,6 +85,24 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		$tdate = convert_date($date);
 		$Ldate = $tdate[0];
 		$Edate = $tdate[1];
+
+		//PT date calculations
+		//first check is for lenten/paschaltide optional range
+		//($pt=-1): PT propers should be listed,
+		//but with the proper ant & v/r for a lenten commem.
+		if(329 <= $date && $date <= 417)
+			$pt = -1;
+
+		//this range consists of the dates which are always PT
+		//($pt=1): PT propers only should be listed
+		elseif(418 <= $date && $date <= 517)
+			$pt = 1;
+
+		//this range is the PT/Triniytide optional range
+		//($pt=2): PT/non-PT options should both be listed
+		elseif(518 <= $date && $date <= 611)
+			$pt = 2;
+
 	} else {
 		$Ldate = $date;
 		$Edate = $date;
@@ -96,16 +117,26 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			$prayer = sprintf("prSanct/%04s.php",$date);
 	
 	// find appropriate common
-	$pl=0; $pt=0; $fem=0; $mart=0; $doct=0; 
+	$pl=0; $fem=0; $mart=0; $doct=0; 
 	if(strpos($type,'+')!==false) $pl = 1;
-	if(strpos($type,'e')!==false) $pt = 1;
+	//this only changes the value of $pt if it is still
+	//set to 0; the date method above is preferable,
+	//as it detects optional times.
+	if(strpos($type,'e')!==false && $pt==0) $pt = 1;
 	if(ereg('[HVWQ]',$type)!==false) $fem = 1;
 	if(strpos($type,'M')!==false) $mart = 1;
 	if(strpos($type,'a')!==false) $abb = 1;
 	if(strpos($type,'D')!==false) $doct = 1;
 	
 	if(ereg('[AG]',$type)!==false) {
-		if($pt) {
+		if($pt==2 || $pt==-1) {
+			$csP = 'csApPT';
+			$LvrP = 'pretiosa_in_conspectu_domini.php';
+			$LantP = 'filiae_jerusalem_venite_et_videte_martyres.php';
+			$cs = 'csAp';
+			$Lvr = 'annuntiaverunt_opera_dei.php';
+			$Lant = 'vos_qui_reliquistis_omnia.php';
+		} elseif($pt) {
 			$cs = 'csApPT';
 			$Lvr = 'pretiosa_in_conspectu_domini.php';
 			$Lant = 'filiae_jerusalem_venite_et_videte_martyres.php';
@@ -116,7 +147,14 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		}
 	}
 	elseif(strpos($type,'M')!==false && !$fem) {
-		if($pt) {
+		if($pt==2 || $pt==-1) {
+			$csP = 'csApPT';
+			$LvrP = 'pretiosa_in_conspectu_domini.php';
+			$LantP = 'filiae_jerusalem_venite_et_videte_martyres.php';
+			$cs = 'csMm';
+			$Lvr = 'exultabunt_sancti_in_gloria.php';
+			$Lant = 'vestri_capilli_capitis_omnes_numerati_sunt.php';
+		}elseif($pt) {
 			$cs = 'csApPT';
 			$Lvr = 'pretiosa_in_conspectu_domini.php';
 			$Lant = 'filiae_jerusalem_venite_et_videte_martyres.php';
@@ -203,7 +241,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	
 		// Add line naming the common:
 		// Commune vide p. / Common see p.
-		rubrics('prSanct/all_else.php',$cs);
+		rubrics('prSanct/all_else.php',$cs,$pt);
 	
 		// prayer
 		if(is_array($prayer)) {
@@ -221,7 +259,9 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 					.' ('. $nameE .') ', E_USER_ERROR);
 			if($doct) {
 				space('Spacer');
-				ant('csConfessorDoctorAnt.php','M',$pt,$ant[0],$ant[1]);
+				if($pt==-1) $ptd = 2;
+				else $ptd = $pt;
+				ant('csConfessorDoctorAnt.php','M',$ptd,$ant[0],$ant[1]);
 			}
 		}
 	} else {

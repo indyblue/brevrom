@@ -1,4 +1,4 @@
-Ps 144 i. (145) Exaltábo te
+Ps 144 i. Exaltábo te
 Exaltábo te, Deus meus, rex: * et benedícam nómini tuo in sǽculum, et in sǽculum sǽculi.
 Per síngulos dies benedícam tibi: * et laudábo nomen tuum in sǽculum, et in sǽculum sǽculi.
 Magnus Dóminus, et laudábilis nimis: * et magnitúdinis ejus non est finis.

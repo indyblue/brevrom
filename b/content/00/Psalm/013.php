@@ -1,4 +1,4 @@
-Ps 13. (14) Dixit insípiens
+Ps 13. Dixit insípiens
 Dixit insípiens in corde suo: * Non est Deus.
 Corrúpti sunt, et abominábiles facti sunt in stúdiis suis: * non est qui fáciat bonum, non est usque ad unum.
 Dóminus de cælo prospéxit super fílios hóminum, * ut vídeat si est intélligens, aut requírens Deum.

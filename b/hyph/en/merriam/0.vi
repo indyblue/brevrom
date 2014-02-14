@@ -1,0 +1,6 @@
+:%s/<span class="variant">\([^<]*\)/\r\~\1\r/eig 
+:%s/^.*google_afs_query[^"]*"\([^"]*\)";/\~---\1/eig
+:g!/\~/d
+:%s/^\~//eig
+:%s/&#183;/-/eig
+:w

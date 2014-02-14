@@ -1,4 +1,4 @@
-Ps 118 ii. (119) Retríbue servo tuo
+Ps 118 ii. Retríbue servo tuo
 ~Ghimel
 Retríbue servo tuo, vivífica me: * et custódiam sermónes tuos.
 Revéla óculos meos: * et considerábo mirabília de lege tua.

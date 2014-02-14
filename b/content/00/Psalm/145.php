@@ -1,4 +1,4 @@
-Ps 145. (146) Lauda, ánima mea
+Ps 145. Lauda, ánima mea
 Lauda, ánima mea, Dóminum, laudábo Dóminum in vita mea: * psallam Deo meo quámdiu fúero.
 Nolíte confídere in princípibus: * in fíliis hóminum, in quibus non est salus.
 Exíbit spíritus ejus, et revertétur in terram suam: * in illa die períbunt omnes cogitatiónes eórum.

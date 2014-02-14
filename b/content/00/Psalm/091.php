@@ -1,4 +1,4 @@
-Ps 91. (92) Bonum est confitéri
+Ps 91. Bonum est confitéri
 Bonum est confitéri Dómino: * et psállere nómini tuo, Altíssime.
 Ad annuntiándum mane misericórdiam tuam: * et veritátem tuam per noctem.
 In decachórdo, psaltério: * cum cántico, in cíthara.

@@ -1,4 +1,4 @@
-Ps 71 i. (72) Deus, judícium tuum
+Ps 71 i. Deus, judícium tuum
 Deus, judícium tuum regi da: * et justítiam tuam fílio regis:
 Judicáre pópulum tuum in justítia, * et páuperes tuos in judício.
 Suscípiant montes pacem pópulo: * et colles justítiam.

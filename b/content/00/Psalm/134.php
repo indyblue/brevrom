@@ -1,4 +1,4 @@
-Ps 134. (135) Laudáte nomen Dómini
+Ps 134. Laudáte nomen Dómini
 Laudáte nomen Dómini, * laudáte, servi, Dóminum.
 Qui statis in domo Dómini, * in átriis domus Dei nostri.
 Laudáte Dóminum, quia bonus Dóminus: * psállite nómini ejus, quóniam suáve.

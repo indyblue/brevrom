@@ -20,7 +20,8 @@ function first_word($sline,$minlen=2,$retarr=0) {
 	if($retarr)
 		return array($split[0],$split[2]);
 	else
-		return '<s:AllCaps>' . $split[0] . '</s> ' . $split[2];
+		return mb_strtoupper($split[0]) . ' ' . $split[2];
+	//	return '<s:AllCaps>' . $split[0] . '</s> ' . $split[2];
 	//	<s:SmCaps></s>
 	//	<s:AllCaps></s>
 	

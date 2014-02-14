@@ -1,4 +1,4 @@
-Ps 112. (113) Laudáte, púeri
+Ps 112. Laudáte, púeri
 Laudáte, púeri, Dóminum: * laudáte nomen Dómini.
 Sit nomen Dómini benedíctum, * ex hoc nunc, ut usque in sǽculum.
 A solis ortu usque ad occásum, * laudábile nomen Dómini.

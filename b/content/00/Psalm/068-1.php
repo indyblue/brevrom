@@ -1,4 +1,4 @@
-Ps 68 i. (69) Salvum me fac
+Ps 68 i. Salvum me fac
 Salvum me fac, Deus: * quóniam intravérunt aquæ usque ad ánimam meam.‡
 Infíxus sum in limo profúndi: * et non est substántia.
 Veni in altitúdinem maris: * et tempéstas demérsit me.

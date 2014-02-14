@@ -1,4 +1,4 @@
-Ps 139. (140) Éripe me, Dómine
+Ps 139. Éripe me, Dómine
 Éripe me, Dómine, ab hómine malo: * a viro iníquo éripe me.
 Qui cogitavérunt iniquitátes in corde: * tota die constituébant prǽlia.
 Acuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.

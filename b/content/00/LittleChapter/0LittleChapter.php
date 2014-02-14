@@ -17,13 +17,11 @@ $txtE = trim($pieces[2]);
    <table> <tr> <td:A1>
 	  <p:BodyLDrop><?php echo caps_first_word($txtL); ?><t><?php 
 if($r==1)
-	echo ' <s:VR>R. </s>Deo grátias.</p>
-';
-?>
+	echo ' <s:VR>R. </s>Deo grátias.';
+?></p>
      </td> <td:B1>
 		<p:BodyEDrop><?php echo caps_first_word($txtE); ?><t><?php 
 if($r==1) 
-	echo ' <s:VR>R. </s>Thanks be to God.</p>
-		';
-?>
+	echo ' <s:VR>R. </s>Thanks be to God.';
+?></p>
      </td> </tr> </table>

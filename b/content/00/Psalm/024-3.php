@@ -1,4 +1,4 @@
-Ps 24 iii. (25) Óculi mei
+Ps 24 iii. Óculi mei
 Óculi mei semper ad Dóminum: * quóniam ipse evéllet de láqueo pedes meos.
 Réspice in me, et miserére mei: * quia únicus et pauper sum ego.
 Tribulatiónes cordis mei multiplicátæ sunt: * de necessitátibus meis érue me.

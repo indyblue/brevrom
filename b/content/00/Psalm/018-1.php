@@ -1,4 +1,4 @@
-Ps 18 i. (19) Cæli enárrant
+Ps 18 i. Cæli enárrant
 Cæli enárrant glóriam Dei: * et ópera mánuum ejus annúntiat firmaméntum.
 Dies diéi erúctat verbum, * et nox nocti índicat sciéntiam.
 Non sunt loquélæ, neque sermónes, * quorum non audiántur voces eórum.

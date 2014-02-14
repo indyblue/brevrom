@@ -1,4 +1,4 @@
-Ps 78. (79) Deus, venérunt
+Ps 78. Deus, venérunt
 Deus, venérunt Gentes in hereditátem tuam, polluérunt templum sanctum tuum: * posuérunt Jerúsalem in pomórum custódiam.
 Posuérunt morticína servórum tuórum, escas volatílibus cæli: * carnes sanctórum tuórum béstiis terræ.
 Effudérunt sánguinem eórum tamquam aquam in circúitu Jerúsalem: * et non erat qui sepelíret.

@@ -1,4 +1,4 @@
-Ps 87. (88) Dómine, Deus
+Ps 87. Dómine, Deus
 Dómine, Deus salútis meæ: * in die clamávi, et nocte coram te.
 Intret in conspéctu tuo orátio mea: * inclína aurem tuam ad precem meam:
 Quia repléta est malis ánima mea: * et vita mea inférno appropinquávit.

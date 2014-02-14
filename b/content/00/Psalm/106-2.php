@@ -1,4 +1,4 @@
-Ps 106 ii. (107) Confiteántur Dómino
+Ps 106 ii. Confiteántur Dómino
 Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.
 Quia contrívit portas ǽreas: * et vectes férreos confrégit.
 Suscépit eos de via iniquitátis eórum: * propter injustítias enim suas humiliáti sunt.

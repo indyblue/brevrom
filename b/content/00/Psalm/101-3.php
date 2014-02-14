@@ -1,4 +1,4 @@
-Ps 101 iii. (102) Respóndit ei in via
+Ps 101 iii. Respóndit ei in via
 Respóndit ei in via virtútis suæ: * Paucitátem diérum meórum núntia mihi.
 Ne révoces me in dimídio diérum meórum: * in generatiónem et generatiónem anni tui.
 Inítio tu, Dómine, terram fundásti: * et ópera mánuum tuárum sunt cæli.

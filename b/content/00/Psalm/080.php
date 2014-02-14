@@ -1,4 +1,4 @@
-Ps 80. (81) Exsultáte Deo
+Ps 80. Exsultáte Deo
 Exsultáte Deo, adjutóri nostro: * jubiláte Deo Jacob.
 Súmite psalmum, et date týmpanum: * psaltérium jucúndum cum cíthara.
 Buccináte in Neoménia tuba, * in insígni die solemnitátis vestræ.

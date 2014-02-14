@@ -1,4 +1,4 @@
-Ps 103 i. (104) Bénedic, ánima mea
+Ps 103 i. Bénedic, ánima mea
 Bénedic, ánima mea, Dómino: * Dómine, Deus meus, magnificátus es veheménter.
 Confessiónem, et decórem induísti: * amíctus lúmine sicut vestiménto:
 Exténdens cælum sicut pellem: * qui tegis aquis superióra ejus.

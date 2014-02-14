@@ -1,4 +1,4 @@
-Ps 129. (130) De profúndis
+Ps 129. De profúndis
 De profúndis clamávi ad te, Dómine: *‡ Dómine, exáudi vocem meam:
 Fiant aures tuæ intendéntes, * in vocem deprecatiónis meæ.
 Si iniquitátes observáveris, Dómine: * Dómine, quis sustinébit?

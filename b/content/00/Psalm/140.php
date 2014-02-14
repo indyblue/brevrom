@@ -1,4 +1,4 @@
-Ps 140. (141) Dómine, clamávi
+Ps 140. Dómine, clamávi
 Dómine, clamávi ad te, exáudi me: *‡ inténde voci meæ, cum clamávero ad te.
 Dirigátur orátio mea sicut incénsum in conspéctu tuo: * elevátio mánuum meárum sacrifícium vespertínum.
 Pone, Dómine, custódiam ori meo: * et óstium circumstántiæ lábiis meis.

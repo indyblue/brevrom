@@ -1,4 +1,4 @@
-Ps 32 ii. (33) Beáta gens
+Ps 32 ii. Beáta gens
 Beáta gens, cujus est Dóminus, Deus ejus: * pópulus, quem elégit in hereditátem sibi.
 De cælo respéxit Dóminus: * vidit omnes fílios hóminum.
 De præparáto habitáculo suo * respéxit super omnes, qui hábitant terram.

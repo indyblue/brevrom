@@ -1,4 +1,4 @@
-Ps 95. (96) Cantáte Dómino
+Ps 95. Cantáte Dómino
 Cantáte Dómino cánticum novum: * cantáte Dómino, omnis terra.
 Cantáte Dómino, et benedícite nómini ejus: * annuntiáte de die in diem salutáre ejus.
 Annuntiáte inter gentes glóriam ejus, * in ómnibus pópulis mirabília ejus.

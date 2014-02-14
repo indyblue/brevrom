@@ -1,4 +1,4 @@
-Ps 126. (127) Nisi Dóminus
+Ps 126. Nisi Dóminus
 Nisi Dóminus ædificáverit domum, * in vanum laboravérunt qui ædíficant eam.
 Nisi Dóminus custodíerit civitátem, * frustra vígilat qui custódit eam.
 Vanum est vobis ante lucem súrgere: * súrgite postquam sedéritis, qui manducátis panem dolóris.

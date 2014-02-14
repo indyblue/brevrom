@@ -1,4 +1,4 @@
-Ps 29. (30) Exaltábo te, Dómine
+Ps 29. Exaltábo te, Dómine
 Exaltábo te, Dómine, quóniam suscepísti me: *‡ nec delectásti inimícos meos super me.
 Dómine, Deus meus, clamávi ad te, * et sanásti me.
 Dómine, eduxísti ab inférno ánimam meam: * salvásti me a descendéntibus in lacum.

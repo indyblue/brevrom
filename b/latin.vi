@@ -1,4 +1,5 @@
-g!/BodyL\|HymnL\|Head2Ps/d 
+g!/BodyL\|HymnL/d 
+g!/BodyE\|HymnE/d 
 %s/<sr>.\{-}<\/s>//ig
 %s/<[^>]*>//ig
 %s/\v<\k*>/\r\0\r/ig
@@ -18,14 +19,20 @@ deletes latin words of 2 or less syllables
 g/\v\c<[^aeëiouyæœáéíóúýǽ]{-}((au|[qg]u[aeëiouyæœáéíóúýǽ]|[aeëiouyæœáéíóúýǽ])[^aeëiouyæœáéíóúýǽ]{-}){,2}>/d
 
 
-
+--- Accent Check ---
 \v\c<[^aeiouæœ]{-}((au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
 
+--- accent drop ---
+%s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | noh
+
+--- accent drop & spaces ---
 %s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | %s/\W\{1,}/_/eig | %s/_$//eig | noh
+
+
 
 %s/<text:bookmark-ref.*ref>/\r\0\r/g | g!/bookmark-ref/d | %s/<text:bookmark-ref.*name="\([^"]*\)".*ref>/<p:BkHidden><text:bookmark text:name="\1"\/><\/p>/
 
-find double/triple consonants
+--- find double/triple consonants ---
 %s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0\r\2,\0\r\3,\0/ig
 %s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0\r\2,\0/ig
 %s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0/ig

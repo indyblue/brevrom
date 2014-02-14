@@ -49,62 +49,45 @@ $_GET['L'] = 1;
 //     'L4' for Lulu 4.25 x 6.875
 //     'L5' for Lulu 5.5 x 8.5
 //     'L6' for Lulu 6 x 9
-$_GET['Style'] = '7';
+$_GET['Style'] = 'L5';
 
 //Switch to determine size of headings:
 // 0 = smaller headings (used in propers)
 // 1 = larger headings (used in ordinary & psalter)
 $_GET['O'] = 0;
 
-// require 'temp/050_hymns.php';
-// require 'temp/051_my_hymns.php';
-// require '6ComS/690_OfficeDead.php';
 
 // echo '   <p:P181/>';
-// require '5PropS\05_May.php';
-// psalm(12);
-// require '2Psalter/7none.php';
-// psalm(94);
-// psalm(118);
-// psalm(118);
-// canticle('magnificat.php');
 // canticle('tedeum.php');
-// canticle('almaredemptoris.php');
-// canticle('averegina.php');
-// canticle('reginacaeli.php');
-// canticle('salveregina.php');
+// psalm(118);
+
 // echo '   <text:section text:style-name="Sect1" text:name="Section1" text:protected="true">';
 // echo '   </text:section>';
 
-// require 'temp/210_part_proper_seasons.php';
-// require 'temp/510_part_proper_saints.php';
-// require 'temp/610_part_common_saints.php';
-
 //hymn('vexilla_regis_prodeunt.php');
 
-// brS('0test.php');
-// echo '   <p:Head1NI/>';
+// echo '   <p:P181/>';
+// require 'Z:\www\b\content\6ComS\610_Apostles.php';
+// require 'Z:\www\b\content\6ComS\612_ApostlesPT.php';
+// require 'Z:\www\b\content\6ComS\620_Pope.php';
+// require 'Z:\www\b\content\6ComS\640_ConfBishop.php';
 
-echo '   <p:P181/>';
-require 'Z:\www\b\content\6ComS\610_Apostles.php';
-require 'Z:\www\b\content\6ComS\612_ApostlesPT.php';
-require 'Z:\www\b\content\6ComS\620_Pope.php';
-require 'Z:\www\b\content\6ComS\640_ConfBishop.php';
 
-// require '100_intro.php';
-// require '110_toc.php';
-// require '150_calendar.php';
-// require '3PropT/index.php';
-// $_GET['O'] = 1;
-// require '1Ordinary/index.php';
-// require '2Psalter/index.php';
-// $_GET['O'] = 0;
-// 
-// require '5PropS/index.php';
-// require '6ComS/index.php';
-// 
-// require '7App/index.php';
-// require '998_indices.php';
+
+require '100_intro.php';
+require '110_toc.php';
+require '150_calendar.php';
+require '3PropT/index.php';
+$_GET['O'] = 1;
+require '1Ordinary/index.php';
+require '2Psalter/index.php';
+$_GET['O'] = 0;
+
+require '5PropS/index.php';
+require '6ComS/index.php';
+
+require '7App/index.php';
+require '998_indices.php';
 
 
 require '999_end.php';

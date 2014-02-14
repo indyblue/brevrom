@@ -1,4 +1,4 @@
-Ps 17 i. (18) Díligam te, Dómine
+Ps 17 i. Díligam te, Dómine
 Díligam te, Dómine, fortitúdo mea: * Dóminus firmaméntum meum, et refúgium meum, et liberátor meus.
 Deus meus adjútor meus, * et sperábo in eum.
 Protéctor meus, et cornu salútis meæ, * et suscéptor meus.

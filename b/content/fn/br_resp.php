@@ -144,13 +144,13 @@ function br_divide($pieces,$PT) {
 			trigger_error('BrResp error, the line "'. $pieces[0] .'" does not have an astrisk.', E_USER_ERROR);
 	
 		array_unshift($ret,$first[0]);
-		$ret[2] = style_first_letter($ret[2],'s:AllCaps');
+		$ret[2] = style_first_letter($ret[2],1);
 		// mb_substr(mb_strtoupper($ret[2]),0,1) . mb_substr($ret[2],1);
 	} else
 		$ret = array($first[0],$first[1],'');
 
 	if(count($ret)==4)
-		$ret[3] = style_first_letter($ret[3],'s:AllCaps');
+		$ret[3] = style_first_letter($ret[3],1);
 	
 	if($first[0] == $second[0]) {
 		$split = mb_split('\s',$ret[1],2);

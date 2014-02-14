@@ -1,4 +1,4 @@
-Ps 63. (64) Exáudi, Deus
+Ps 63. Exáudi, Deus
 Exáudi, Deus, oratiónem meam cum déprecor: * a timóre inimíci éripe ánimam meam.
 Protexísti me a convéntu malignántium: * a multitúdine operántium iniquitátem.
 Quia exacuérunt ut gládium linguas suas: * intendérunt arcum rem amáram, ut sagíttent in occúltis immaculátum.

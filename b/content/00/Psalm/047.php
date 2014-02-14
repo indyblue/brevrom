@@ -1,4 +1,4 @@
-Ps 47. (48) Magnus Dóminus
+Ps 47. Magnus Dóminus
 Magnus Dóminus, et laudábilis nimis * in civitáte Dei nostri,‡ in monte sancto ejus.
 Fundátur exsultatióne univérsæ terræ mons Sion, * látera Aquilónis, cívitas Regis magni.
 Deus in dómibus ejus cognoscétur: * cum suscípiet eam.

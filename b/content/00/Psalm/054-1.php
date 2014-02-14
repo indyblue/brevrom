@@ -1,4 +1,4 @@
-Ps 54 i. (55) Exáudi, Deus
+Ps 54 i. Exáudi, Deus
 Exáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: * inténde mihi, et exáudi me.
 Contristátus sum in exercitatióne mea: * et conturbátus sum a voce inimíci, et a tribulatióne peccatóris.
 Quóniam declinavérunt in me iniquitátes: * et in ira molésti erant mihi.

@@ -1,4 +1,4 @@
-Ps 77 iv. (78) In ómnibus
+Ps 77 iv. In ómnibus
 In ómnibus his peccavérunt adhuc: * et non credidérunt mirabílibus ejus.
 Et defecérunt in vanitáte dies eórum: * et anni eórum cum festinatióne.
 Cum occíderet eos, quærébant eum: * et revertebántur, et dilúculo veniébant ad eum.

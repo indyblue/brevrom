@@ -1,4 +1,4 @@
-Ps 71 ii. (72) Coram illo
+Ps 71 ii. Coram illo
 Coram illo prócident Æthíopes: * et inimíci ejus terram lingent.
 Reges Tharsis, et ínsulæ múnera ófferent: * reges Árabum et Saba dona addúcent.
 Et adorábunt eum omnes reges terræ: * omnes gentes sérvient ei:
