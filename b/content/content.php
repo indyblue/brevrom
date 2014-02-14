@@ -78,20 +78,25 @@ $_GET['par'] = 1;
 //  1 = long form
 $_GET['long'] = 1;
 $_GET['weekly'] = 0;
+// matins option 
+// * currently only
+// office of the dead
+$_GET['matins'] = 1;
 
 
 // space('PgB');
 // require 'z_hymns.php';
 // require 'z_psalms.php';
 
-
+/*
 require '0Intro/101_aperi.php';
 require '0Intro/105_sacrosancte.php';
 require '0Intro/110_collect.php';
 space('PgB');
 $_GET['old'] = 1;
 require '6ComS/677_BVMp.php';
-/*
+ */
+$_GET['matins'] = 0;
 require '6ComS/690_OfficeDead.php';
 require '7App/index.php';
 // */

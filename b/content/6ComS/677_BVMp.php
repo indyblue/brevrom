@@ -551,6 +551,7 @@ if($weekly) rubp('','Full Psalter:
 		rubp('Ant. B. Mariæ Virg., p. <snr>'.bkref('BVMant').'</s>', 'Ant. of the Bl. Virgin Mary, p. <snr>'.bkref('BVMant').'</s>',1);
 		vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php');
 	} else {
+		space();
 		require $_GET['root'] . '/1Ordinary/08_compline_BVMant.php';
 	}
 

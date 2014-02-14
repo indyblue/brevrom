@@ -1,5 +1,6 @@
 <?php
 	$long = $_GET['long'];
+	$matins = $_GET['matins'];
 	space('PgB');
 	space();
 	img('sanctus.tif',100);
@@ -16,6 +17,7 @@
 	rubp('Etiam si pro uno tantum fiat Officium.', 'Said in the plural, even when the Office is recited for one only.',1);
 	space();
 
+if($matins) {
 	hour('M');
 	hidden('Matins',2);
 	bookmark('offDefM');
@@ -175,7 +177,7 @@
 	rubp('','If Lauds is not said at all, the Prayers are said, as at Lauds <snr>p. '.bkref('offDefLpr').'</s>');
 	rubp('','If Matins is separated from Lauds, the following is added after the last Responsory:');
 	rubrics('offDef/mConcl.php');
-
+}
 
 	hour('L');
 	hidden('Lauds',2);
