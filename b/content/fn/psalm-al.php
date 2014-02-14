@@ -1,18 +1,11 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-function canticle($num, $part=0, $cross=0) {
-	psalm($num, $part, $cross, "/www/b/content/00/Canticle/",'Cant');
-}
-
-function reading($num, $part=0, $cross=0) {
-	psalm($num, $part, $cross, "/www/b/content/00/Canticle/",'');
-}
-
-function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index='Ps') {
+function psalmC($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index='Ps',$comm=1) {
 
 	// scan latin directory, filter return for matches
 	$ls = scandir($dir);
+	$lsC = scandir($dir.'AL/');
 	// see if actual file name has been passed, or just psalm number
 	if(strpos($num,'.php')!==false) 
 		$fname = $num;
@@ -21,6 +14,12 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 	$callback = create_function('$args',
 		'return strpos($args,"'.$fname.'")!==false;');
 	$ls = array_values(array_filter($ls,$callback));
+
+	//check file names of commentary, make sure that
+	//there is commentary data for all psalm sections
+	$lsC = array_values(array_filter($lsC,$callback));
+	if(count(array_diff($ls,$lsC)))
+		$comm = 0;
 
 	// error if there are no matching files based on psalm & part
 	if(count($ls)==0) 
@@ -32,6 +31,7 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 	$i = array_shift($ls);
 	$Lpieces = file_load($dir.$i);
 	$Epieces = file_load($dir.E($i));
+	if($comm) $Cpieces = file_load($dir.C($i));
 
 	// this creates a dynamic "callback" function
 	// to remove the ‡ character from lines
@@ -48,6 +48,10 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 			$Lpieces = array_merge($Lpieces,$tmp);
 			$tmp = array_map($callback,array_slice(file_load($dir.E($i)),1));
 			$Epieces = array_merge($Epieces,$tmp);
+			if($comm) {
+				$tmp = array_map($callback,array_slice(file_load($dir.C($i)),1));
+				$Cpieces = array_merge($Cpieces,$tmp);
+			}
 		}
 	}
 
@@ -56,6 +60,11 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 		trigger_error('For Ps '. $fname .', Latin (' .
 		count($Lpieces) .') and English ('.
 		count($Epieces) .') are different lengths', E_USER_ERROR);
+
+	if($comm && count($Cpieces)!=count($Lpieces))
+		trigger_error('For Ps '. $fname .', Latin (' .
+		count($Lpieces) .') and Commentary ('.
+		count($Cpieces) .') are different lengths', E_USER_ERROR);
 
 	// if there is not supposed to be a ‡ in the first line,
 	// this will get rid of it.  It is applied to the entire
@@ -100,8 +109,14 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
    <p:BodyLDrop>'. caps_first_word($Lpieces[$i]) .'<t>
    <text:line-break/>'. style_first_letter($Lpieces[$i+1],'sb') .'</p>
   </td><td:B1>
-   <p:BodyEDrop>'. caps_first_word($Epieces[$i]) .'<t>
-   <text:line-break/>'. style_first_letter($Epieces[$i+1],'sb') .'</p>
+   <p:BodyEDrop>'. caps_first_word($Epieces[$i]) .
+	($comm && strlen($Cpieces[$i])?
+		'<text:note text:note-class="footnote"><text:note-body><p:Footnote>'.
+  		$Cpieces[$i] .'</p></text:note-body></text:note>':'') .'<t>
+	<text:line-break/>'. style_first_letter($Epieces[$i+1],'sb') .
+	($comm && strlen($Cpieces[$i+1])?
+		'<text:note text:note-class="footnote"><text:note-body><p:Footnote>'.
+  		$Cpieces[$i+1] .'</p></text:note-body></text:note>':'') .'</p>
   </td></tr>
 ';
 				$drop=1;
@@ -111,7 +126,10 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 				echo '  <tr><td:A1>
    <p:BodyL>'. style_first_letter($Lpieces[$i],'sb') .'</p>
   </td><td:B1>
-   <p:BodyE>'. style_first_letter($Epieces[$i],'sb') .'</p>
+   <p:BodyE>'. style_first_letter($Epieces[$i],'sb') .
+	($comm && strlen($Cpieces[$i])?
+		'<text:note text:note-class="footnote"><text:note-body><p:Footnote>'.
+  		$Cpieces[$i] .'</p></text:note-body></text:note>':'') .'</p>
   </td></tr>
 ';
 /*

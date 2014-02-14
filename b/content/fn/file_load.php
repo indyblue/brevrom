@@ -18,4 +18,11 @@ function E($file) {
 	else
 		return 'E/' . $file;
 }
+function C($file) {
+	$i = strrpos($file,'/');
+	if($i>0)
+		return substr($file,0,$i) . '/AL' . substr($file,$i);
+	else
+		return 'AL/' . $file;
+}
 ?>

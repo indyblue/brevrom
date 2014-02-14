@@ -33,6 +33,9 @@
   <style:style style:name="BodyESm" style:family="paragraph" style:parent-style-name="BodySm">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
   </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="BodyESm" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.1in" fo:margin-right="0in" fo:text-indent="-0.1in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
   <style:style style:name="BodyLSm" style:family="paragraph" style:parent-style-name="BodyESm">
    <style:text-properties fo:language="la" fo:country="VA"/>
   </style:style>
@@ -169,10 +172,20 @@
   <style:style style:name="VR" style:family="text">
    <style:text-properties fo:color="#ff0000" style:font-name="Times VR"/>
   </style:style>
+  <style:style style:name="L" style:family="text">
+   <style:text-properties fo:language="la" fo:country="VA"/>
+  </style:style>
 
   <style:style style:name="Frame" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" fo:margin-left="0.0791in" fo:margin-right="0.0791in" fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0.0591in" fo:border="0.0008in solid #000000"/>
   </style:style>
+
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+    <text:notes-configuration text:note-class="footnote" text:default-style-name="Footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" text:master-page-name="Footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="chapter"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
 
  </office:styles>
  <office:automatic-styles>

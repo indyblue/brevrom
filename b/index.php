@@ -22,6 +22,7 @@ fclose($fh);
 
 
 $regex=array(
+	'/<l>/',
 	'/<sr>/',
 	'/<snr>/',
 	'/<sb>/',
@@ -43,6 +44,7 @@ $regex=array(
 	'/ǽ/', '/œ/'
 );
 $repl=array(
+	'<s:L>',
 	'<s:Rubric>',
 	'<s:NonRubric>',
 	'<s:Bold>',

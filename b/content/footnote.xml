@@ -1,3 +1,8 @@
       <text:p text:style-name="BodyEIndent">Until I make thy enemies * thy footstool.<text:note text:note-class="footnote"><text:note-body>
          <text:p text:style-name="Footnote">Donec ponam inimícos tuos, scabéllum pedum tuórum.</text:p></text:note-body></text:note></text:p>
 
+      <text:p text:style-name="BodyEIndent">Until I make thy enemies * thy footstool.<text:note text:note-class="footnote"><text:note-body>
+					<p:Footnote>Donec ponam inimícos tuos, scabéllum pedum tuórum.</p></text:note-body></text:note></text:p>
+
+<text:note text:note-class="footnote"><text:note-body><p:Footnote>
+</p></text:note-body></text:note>

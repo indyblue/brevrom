@@ -29,6 +29,7 @@ Qui tecum vivit. - Who liveth.
  */
 
 require '/www/b/content/fn/0list.php';
+require '/www/b/content/fn/psalm-al.php';
 
 
 
@@ -53,7 +54,8 @@ $_GET['O'] = 0;
 // require 'temp/051_my_hymns.php';
 // require '6ComS/690_OfficeDead.php';
 
-// echo '   <p:P181/>';
+echo '   <p:P181/>';
+require '2Psalter/7none.php';
 // psalm(94);
 // psalm(118);
 // canticle('magnificat.php');
@@ -75,19 +77,19 @@ $_GET['O'] = 0;
 // echo '   <p:Head1NI/>';
 
 
-require '100_intro.php';
-require '150_calendar.php';
-require '3PropT/index.php';
-$_GET['O'] = 1;
-require '1Ordinary/index.php';
-require '2Psalter/index.php';
-$_GET['O'] = 0;
+// require '100_intro.php';
+// require '150_calendar.php';
+// require '3PropT/index.php';
+// $_GET['O'] = 1;
+// require '1Ordinary/index.php';
+// require '2Psalter/index.php';
+// $_GET['O'] = 0;
+// 
+// require '5PropS/index.php';
+// require '6ComS/index.php';
 
-require '5PropS/index.php';
-require '6ComS/index.php';
-
-require '7App/index.php';
-require '998_indices.php';
+// require '7App/index.php';
+// require '998_indices.php';
 
 
 require '999_end.php';
