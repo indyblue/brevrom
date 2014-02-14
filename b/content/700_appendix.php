@@ -10,7 +10,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ne reminiscáris * Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <text:span text:style-name="Rubric">(P.T. Alleluia.)</text:span></text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ne reminiscáris * Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <text:span text:style-name="Rubric">(P.T. Allelúia.)</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Remember not, * Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <text:span text:style-name="Rubric">(P.T. Alleluia.)</text:span></text:p>
@@ -30,7 +30,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ne reminiscáris Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <text:span text:style-name="Rubric">(P.T. Alleluia.)</text:span></text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ne reminiscáris Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <text:span text:style-name="Rubric">(P.T. Allelúia.)</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Remember not, Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <text:span text:style-name="Rubric">(P.T. Alleluia.)</text:span></text:p>
@@ -200,7 +200,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLSm"><text:span text:style-name="VR">V. </text:span>Omnes sancti Angeli et Archángeli.</text:p>
+      <text:p text:style-name="BodyLSm"><text:span text:style-name="VR">V. </text:span>Omnes sancti Ángeli et Archángeli.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyESm"><text:span text:style-name="VR">V. </text:span>All ye holy Angels and Archangels.</text:p>
@@ -592,7 +592,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLSm"><text:span text:style-name="VR">V. </text:span>Sancta Agatha.</text:p>
+      <text:p text:style-name="BodyLSm"><text:span text:style-name="VR">V. </text:span>Sancta Ágatha.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyESm"><text:span text:style-name="VR">V. </text:span>St. Agatha.</text:p>
@@ -1246,7 +1246,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLSm"><text:span text:style-name="Rubric">Vacante Apostolica Sede, Versus cum suo Responsorio præteritur.</text:span></text:p>
+      <text:p text:style-name="BodyLSm"><text:span text:style-name="Rubric">Vacante Apostólica Sede, Versus cum suo Responsório præteritur.</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyESm"><text:span text:style-name="Rubric">If the Holy See is vacant, the above Versicle with its Response is omitted.</text:span></text:p>
@@ -1419,7 +1419,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempiterne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sæculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sæculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">ALMIGHTY and everlasting God, you have dominion over the living and the dead, and you are merciful to all who you foreknow will be yours by faith and good works; we humbly beseech thee that those for whom we intend to pour forth our prayers, whether this present world still detain them in the flesh, or the world to come has already received them out of their bodies, may, through the intercession of all thy Saints, by the clemency of thy goodness, obtain the remission of all their sins. Through our Lord.</text:p>

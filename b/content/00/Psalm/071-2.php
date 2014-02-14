@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Reges Tharsis, et ínsulæ múnera ófferent: * reges Arabum et Saba dona addúcent.</text:p>
+      <text:p text:style-name="BodyLIndent">Reges Tharsis, et ínsulæ múnera ófferent: * reges Árabum et Saba dona addúcent.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">The kings of Tharsis and the islands shall offer presents: * the kings of the Arabians and of Saba shall bring gifts:</text:p>

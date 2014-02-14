@@ -20,7 +20,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Usquequo peccatóres, Dómine, * úsquequo peccatóres gloriabúntur:</text:p>
+      <text:p text:style-name="BodyLIndent">Úsquequo peccatóres, Dómine, * úsquequo peccatóres gloriabúntur:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">How long shall sinners, O Lord: * how long shall sinners glory?</text:p>

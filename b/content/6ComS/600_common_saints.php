@@ -6,18 +6,18 @@ echo ($_GET['L']==1?'Commune Sanctorum':'Common of Saints')
 ?></text:p>
    <text:p text:style-name="Spacer"/>
 <?php
-include '610_Apostles.php';
-include '612_ApostlesPT.php';
-include '620_Pope.php';
-include '630_Martyr.php';
-include '632_Martyrs.php';
-include '634_MartyrsPT.php';
-include '640_ConfBishop.php';
-include '645_Confessor.php';
-include '650_Virgin.php';
-include '655_HolyWomen.php';
-include '660_DedicationChurch.php';
-include '670_BVM.php';
-include '675_BVMSat.php';
-include '690_OfficeDead.php';
+require '610_Apostles.php';
+require '612_ApostlesPT.php';
+require '620_Pope.php';
+require '630_Martyr.php';
+require '632_Martyrs.php';
+//require '634_MartyrsPT.php';
+require '640_ConfBishop.php';
+require '645_Confessor.php';
+require '650_Virgin.php';
+require '655_HolyWomen.php';
+require '660_DedicationChurch.php';
+require '670_BVM.php';
+require '675_BVMSat.php';
+require '690_OfficeDead.php';
 ?>

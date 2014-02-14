@@ -1,12 +1,12 @@
 <?php if ($part==0): ?>
-   <text:p text:style-name="Head2Ps">Psalmus 24 iii. Oculi mei</text:p>
+   <text:p text:style-name="Head2Ps">Psalmus 24 iii. Óculi mei</text:p>
    <table:table table:name="Table1483" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
     <table:table-column table:style-name="TableParallel.B"/>
 <?php endif; ?>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name=<?php echo ($part==0?'"BodyLDrop">OCULI':'"BodyLIndent">Oculi') ?> mei semper ad Dóminum: * quóniam ipse evéllet de láqueo pedes meos.</text:p>
+      <text:p text:style-name=<?php echo ($part==0?'"BodyLDrop">OCULI':'"BodyLIndent">Óculi') ?> mei semper ad Dóminum: * quóniam ipse evéllet de láqueo pedes meos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name=<?php echo ($part==0?'"BodyEDrop">MY EYES':'"BodyEIndent">My eyes') ?> are ever towards the Lord: * for he shall pluck my feet out of the snare.</text:p>

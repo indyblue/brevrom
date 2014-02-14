@@ -52,7 +52,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Etenim benedictiónem dabit legislátor, ibunt de virtúte in virtútem: * vidébitur Deus deórum in Sion.</text:p>
+      <text:p text:style-name="BodyLIndent">Étenim benedictiónem dabit legislátor, ibunt de virtúte in virtútem: * vidébitur Deus deórum in Sion.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">For the lawgiver shall give a blessing, they shall go from virtue to virtue: * the God of gods shall be seen in Sion.</text:p>

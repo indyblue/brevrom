@@ -68,7 +68,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Et répulit tabernáculum Joseph: * et tribum Ephraim non elégit.</text:p>
+      <text:p text:style-name="BodyLIndent">Et répulit tabernáculum Joseph: * et tribum Éphraim non elégit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">And he rejected the tabernacle of Joseph: * and chose not the tribe of Ephraim:</text:p>

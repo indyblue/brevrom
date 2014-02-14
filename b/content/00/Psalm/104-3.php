@@ -20,7 +20,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Edidit terra eórum ranas: * in penetrálibus regum ipsórum.</text:p>
+      <text:p text:style-name="BodyLIndent">Édidit terra eórum ranas: * in penetrálibus regum ipsórum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Their land brought forth frogs, * in the inner chambers of their kings.</text:p>
@@ -84,7 +84,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Lætáta est Ægyptus in profectióne eórum: * quia incúbuit timor eórum super eos.</text:p>
+      <text:p text:style-name="BodyLIndent">Lætáta est Ægýptus in profectióne eórum: * quia incúbuit timor eórum super eos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Egypt was glad when they departed: * for the fear of them lay upon them.</text:p>
@@ -116,7 +116,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Quóniam memor fuit verbi sancti sui: * quod hábuit ad Abraham, púerum suum.</text:p>
+      <text:p text:style-name="BodyLIndent">Quóniam memor fuit verbi sancti sui: * quod hábuit ad Ábraham, púerum suum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Because he remembered his holy word, * which he had spoken to his servant Abraham.</text:p>

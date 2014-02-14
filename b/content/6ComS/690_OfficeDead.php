@@ -44,7 +44,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 1. </text:span>Dirige, * Dómine, Deus meus, in conspéctu tuo viam meam.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 1. </text:span>Dírige, * Dómine, Deus meus, in conspéctu tuo viam meam.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 1. </text:span>Direct, * O Lord my God, my way in thy sight.</text:p>
@@ -71,7 +71,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Nequando rápiat * ut leo ánimam meam, dum non est qui rédimat, neque qui salvum faciat.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Nequándo rápiat * ut leo ánimam meam, dum non est qui rédimat, neque qui salvum faciat.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 3. </text:span>Lest at any time he seize * upon my soul like a lion, while there is no one to redeem me, nor to save.</text:p>
@@ -116,7 +116,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">PARCE mihi, Dómine; nihil enim sunt dies mei. Quid est homo, quia magnificas eum? aut quid apponas erga eum cor tuum? Vísitas eum dilúculo, et súbito probas illum. Usquequo non parcis mihi, nec dimittis me, ut glutiam salivam meam? Peccávi, quid fáciam tibi, o custos hóminum? quare posuísti me contrárium tibi, et factus sum mihimetipsi gravis? Cur non tollis peccátum meum, et quare non aufers iniquitátem meam? Ecce nunc in púlvere dórmiam: et, si mane me quæsíeris, non subsistam.</text:p>
+      <text:p text:style-name="BodyLDrop">PARCE mihi, Dómine; nihil enim sunt dies mei. Quid est homo, quia magníficas eum? aut quid appónis erga eum cor tuum? Vísitas eum dilúculo, et súbito probas illum. Úsquequo non parcis mihi, nec dimíttis me, ut glutiam salívam meam? Peccávi, quid fáciam tibi, o custos hóminum? quare posuísti me contrárium tibi, et factus sum mihimetípsi gravis? Cur non tollis peccátum meum, et quare non aufers iniquitátem meam? Ecce nunc in púlvere dórmiam: et, si mane me quæsíeris, non subsístam.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">SPARE me, for my days are nothing. What is a man that thou shouldst magnify him? or why dost thou set thy heart upon him? Thou visitest him early in the morning, and thou provest him suddenly. How long wilt thou not spare me, nor suffer me to swallow down my spittle? I have sinned: what shall I do to thee, O keeper of men? why hast thou set me opposite to thee, and I am become burdensome to myself? Why dost thou not remove my sin, and why dost thou not take away my iniquity? Behold now I shall sleep in the dust: and if thou seek me in the morning, I shall not be.</text:p>
@@ -129,7 +129,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Credo quod Redémptor meus vivit, et in novíssimo die de terra surrecturus sum, * Et in carne mea vidébo Deum Salvatórem meum.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Credo quod Redémptor meus vivit, et in novíssimo die de terra surrectúrus sum, * Et in carne mea vidébo Deum Salvatórem meum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>I believe that my Redeemer liveth, and that I shall stand up from the earth at the latter day, * and in my flesh shall I see God my Saviour.</text:p>
@@ -137,7 +137,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Quem visurus sum ego ipse, et non álius; et óculi mei conspectúri sunt.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Quem visúrus sum ego ipse, et non álius; et óculi mei conspectúri sunt.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Whom I shall see for myself, and mine eyes shall behold, and not another.</text:p>
@@ -172,7 +172,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Qui Lázarum resuscitásti a monumento fœtidum, * Tu eis, Dómine, dona réquiem, et locum indulgéntiæ.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Qui Lázarum resuscitásti a monuménto fœtidum, * Tu eis, Dómine, dona réquiem, et locum indulgéntiæ.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Thou who didst call up Lazarus from the grave after that he had begun to stink! * Do thou, O Lord, grant them rest and a place of forgiveness.</text:p>
@@ -215,7 +215,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dómine, quando veneris judicáre terram, ubi me abscóndam a vultu iræ tuæ? * Quia peccávi nimis in vita mea.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dómine, quando véneris judicáre terram, ubi me abscóndam a vultu iræ tuæ? * Quia peccávi nimis in vita mea.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Lord, when thou comest to judge the earth, where shall I hide myself from the face of thy wrath? * For I have sinned greatly in my life.</text:p>
@@ -223,7 +223,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Commissa mea pavesco, et ante te erubesco: dum veneris judicáre, noli me condemnare.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Commíssa mea pavésco, et ante te erubésco: dum véneris judicáre, noli me condemnáre.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>I dread my sins, I blush before thee: I see the Great Tribunal set! In fear and terror I implore thee: Forgive when soul and Judge are met!</text:p>
@@ -347,7 +347,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Meménto mei, Deus, quia ventus est vita mea, * Nec aspiciat me visus hóminis.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Meménto mei, Deus, quia ventus est vita mea, * Nec aspíciat me visus hóminis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Remember, O God, that my life is wind. * The eye of him that hath seen me shall see me no more.</text:p>
@@ -363,7 +363,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Nec aspiciat me visus hóminis.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Nec aspíciat me visus hóminis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>The eye of him that hath seen me shall see me no more.</text:p>
@@ -390,7 +390,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Hei mihi, Dómine, quia peccávi nimis in vita mea: Quid fáciam, miser? ubi fúgiam, nisi ad te, Deus meus? * Miserére mei, dum veneris in novíssimo die.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Hei mihi, Dómine, quia peccávi nimis in vita mea: Quid fáciam, miser? ubi fúgiam, nisi ad te, Deus meus? * Miserére mei, dum véneris in novíssimo die.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Woe is me, O Lord! For I have sinned greatly in my life. I am smitten: what shall I do? Wither shall I flee but unto thee, O my God? * Have mercy upon me, when thou comest at the latter day.</text:p>
@@ -398,7 +398,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Anima mea turbáta est valde, sed tu, Dómine, succúrre ei.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Ánima mea turbáta est valde, sed tu, Dómine, succúrre ei.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>My soul is sore vexed, but thou, O Lord, help me.</text:p>
@@ -406,7 +406,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Miserére mei, dum veneris in novíssimo die.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Miserére mei, dum véneris in novíssimo die.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Have mercy upon me, when thou comest at the latter day.</text:p>
@@ -433,7 +433,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Ne recorderis peccáta mea, Dómine, * Dum veneris judicáre sæculum per ignem.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Ne recordéris peccáta mea, Dómine, * Dum véneris judicáre sæculum per ignem.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Hold not my sins in remembrance, O Lord, * when Thou comest to judge the world by fire.</text:p>
@@ -441,7 +441,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Dirige, Dómine, Deus meus, in conspéctu tuo viam meam.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Dírige, Dómine, Deus meus, in conspéctu tuo viam meam.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Make my way straight before thy face, O Lord my God.</text:p>
@@ -449,7 +449,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dum veneris judicáre sæculum per ignem.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dum véneris judicáre sæculum per ignem.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>When Thou comest to judge the world by fire.</text:p>
@@ -465,7 +465,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dum veneris judicáre sæculum per ignem.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dum véneris judicáre sæculum per ignem.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>When Thou comest to judge the world by fire.</text:p>
@@ -567,7 +567,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Peccántem me quotídie, et non me pœnitentem, timor mortis conturbat me: * Quia in inférno nulla est redemptio, miserére mei, Deus, et salva me.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Peccántem me quotídie, et non me pœnitentem, timor mortis contúrbat me: * Quia in inférno nulla est redémptio, miserére mei, Deus, et salva me.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Forasmuch as I sin daily, and repent not, the fear of death troubleth me. * O God, have mercy upon me, and save me, for in hell there is no redemption.</text:p>
@@ -583,7 +583,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Quia in inférno nulla est redemptio, miserére mei, Deus, et salva me.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Quia in inférno nulla est redémptio, miserére mei, Deus, et salva me.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>O God, have mercy upon me, and save me, for in hell there is no redemption.</text:p>
@@ -753,7 +753,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('050.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2427" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -776,7 +776,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('064.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2429" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -799,7 +799,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('062.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2431" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -822,7 +822,7 @@
     </table:table-row>
    </table:table>
 <?php canticle('ezechiel.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2433" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -845,7 +845,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('150.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2435" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -895,7 +895,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL">Pater noster. <text:span text:style-name="Rubric">Secreto usque ad:</text:span></text:p>
+      <text:p text:style-name="BodyL">Pater noster. <text:span text:style-name="Rubric">Secréto usque ad:</text:span></text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Et ne nos indúcas in tentatiónem.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Sed líbera nos a malo.</text:p>
      </table:table-cell>
@@ -985,10 +985,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, cui próprium est miseréri semper et párcere, te súpplices exorámus pro ánima fámuli tui <text:span text:style-name="Rubric">(</text:span>fámulæ tuæ<text:span text:style-name="Rubric">)</text:span> <text:span text:style-name="Rubric">N.</text:span>, quam hódie de hoc sæculo migráre jussísti: ut non tradas eam in manus inimíci, neque obliviscáris in finem, sed júbeas eam a sanctis Angelis súscipi, et ad pátriam paradísi perdúci; ut, quia in te sperávit et crédidit, non pœnas inférni sustíneat, sed gáudia ætérna possídeat. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, cui próprium est miseréri semper et párcere, te súpplices exorámus pro ánima fámuli tui <text:span text:style-name="Rubric">(</text:span>fámulæ tuæ<text:span text:style-name="Rubric">)</text:span> <text:span text:style-name="Rubric">N.</text:span>, quam hódie de hoc sæculo migráre jussísti: ut non tradas eam in manus inimíci, neque obliviscáris in finem, sed júbeas eam a sanctis Ángelis súscipi, et ad pátriam paradísi perdúci; ut, quia in te sperávit et crédidit, non pœnas inférni sustíneat, sed gáudia ætérna possídeat. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O GOD, whose nature is always to have mercy and to spare, we humbly beseech thee on behalf of the soul of thy servant <text:span text:style-name="Rubric">(</text:span>handmaid<text:span text:style-name="Rubric">) N.</text:span>, whom you have bidden this day to depart out of this world: that you would not deliver him <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> into the hands of the enemy, nor forget him <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> forever, but command him <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> to be received by the holy angels, and taken to Paradise, his <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> home, that as he <text:span text:style-name="Rubric">(</text:span>she<text:span text:style-name="Rubric">)</text:span> had put his <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> faith and hope in you, he <text:span text:style-name="Rubric">(</text:span>she<text:span text:style-name="Rubric">)</text:span> may not undergo the pains of hell, but possess everlasting joys. Through our Lord.</text:p>
+      <text:p text:style-name="BodyEDrop">O GOD, whose nature is always to have mercy and to spare, we humbly beseech thee on behalf of the soul of thy servant <text:span text:style-name="Rubric">(</text:span>handmaid<text:span text:style-name="Rubric">) N.</text:span>, whom you have bidden this day to depart out of this world: that you would not deliver him <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> into the hands of the enemy, nor forget him <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> forever, but command him <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> to be received by the holy Angels, and taken to Paradise, his <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> home, that as he <text:span text:style-name="Rubric">(</text:span>she<text:span text:style-name="Rubric">)</text:span> had put his <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> faith and hope in you, he <text:span text:style-name="Rubric">(</text:span>she<text:span text:style-name="Rubric">)</text:span> may not undergo the pains of hell, but possess everlasting joys. Through our Lord.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -998,7 +998,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">QUÆSUMUS, Dómine, ut ánimæ fámuli tui <text:span text:style-name="Rubric">N.</text:span> <text:span text:style-name="Rubric">(</text:span>fámulæ tuæ <text:span text:style-name="Rubric">N.)</text:span>, cujus depositiónis diem tértium <text:span text:style-name="Rubric">(vel</text:span> séptimum, <text:span text:style-name="Rubric">vel</text:span> trigésimum<text:span text:style-name="Rubric">)</text:span> commemorámus, Sanctorum atque electórum tuórum largíri dignéris consórtium; et rorem misericórdiæ tuæ perénnem infúndas. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">QUÆSUMUS, Dómine, ut ánimæ fámuli tui <text:span text:style-name="Rubric">N.</text:span> <text:span text:style-name="Rubric">(</text:span>fámulæ tuæ <text:span text:style-name="Rubric">N.)</text:span>, cujus depositiónis diem tértium <text:span text:style-name="Rubric">(vel</text:span> séptimum, <text:span text:style-name="Rubric">vel</text:span> trigésimum<text:span text:style-name="Rubric">)</text:span> commemorámus, Sanctórum atque electórum tuórum largíri dignéris consórtium; et rorem misericórdiæ tuæ perénnem infúndas. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">WE BESEECH thee, O Lord, that you would deign to grant companionship with thy Saints and Elect to the soul of thy servant <text:span text:style-name="Rubric">(</text:span>handmaid<text:span text:style-name="Rubric">) N.</text:span>, the third <text:span text:style-name="Rubric">(</text:span>or seventh, or thirtieth<text:span text:style-name="Rubric">)</text:span> day of whose burial we commemorate, and that you would pour upon him <text:span text:style-name="Rubric">(</text:span>her<text:span text:style-name="Rubric">)</text:span> the everlasting dew of thy mercy. Through our Lord.</text:p>
@@ -1063,7 +1063,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL">fámulum tuum <text:span text:style-name="Rubric">N.</text:span> Presbyterum Cardinálem</text:p>
+      <text:p text:style-name="BodyL">fámulum tuum <text:span text:style-name="Rubric">N.</text:span> Presbýterum Cardinálem</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE">thy servant Cardinal Priest <text:span text:style-name="Rubric">N.</text:span></text:p>
@@ -1076,7 +1076,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL">fámulum tuum <text:span text:style-name="Rubric">N.</text:span> Presbyterum Cardinálem sacerdotáli fecísti dignitáte</text:p>
+      <text:p text:style-name="BodyL">fámulum tuum <text:span text:style-name="Rubric">N.</text:span> Presbýterum Cardinálem sacerdotáli fecísti dignitáte</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE">thy servant Cardinal Priest <text:span text:style-name="Rubric">N.</text:span>, to the dignity of the priesthood</text:p>
@@ -1180,7 +1180,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">dicatur:</text:span> animábus paréntum nostrórum <text:span text:style-name="Rubric">et ubi dicitur</text:span> meque, <text:span text:style-name="Rubric">dicatur</text:span> nosque.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">dicátur:</text:span> animábus paréntum nostrórum <text:span text:style-name="Rubric">et ubi dícitur</text:span> meque, <text:span text:style-name="Rubric">dicátur</text:span> nosque.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">say:</text:span> the souls of our parents, <text:span text:style-name="Rubric">and in place of </text:span>bring me to see, <text:span text:style-name="Rubric">say </text:span>bring us to see.</text:p>
@@ -1193,7 +1193,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">dicatur: </text:span>ánimæ patris mei <text:span text:style-name="Rubric">(vel </text:span>nostri<text:span text:style-name="Rubric">)</text:span>, ejúsque<text:span text:style-name="Rubric">, et ubi dicitur </text:span>eos<text:span text:style-name="Rubric">, dicatur </text:span>eum.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">dicátur: </text:span>ánimæ patris mei <text:span text:style-name="Rubric">(vel </text:span>nostri<text:span text:style-name="Rubric">)</text:span>, ejúsque<text:span text:style-name="Rubric">, et ubi dícitur </text:span>eos<text:span text:style-name="Rubric">, dicátur </text:span>eum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">say:</text:span> the soul of my <text:span text:style-name="Rubric">(</text:span>our<text:span text:style-name="Rubric">)</text:span> father, forgive him, <text:span text:style-name="Rubric">and in place of </text:span>see them, <text:span text:style-name="Rubric">say </text:span>see him.</text:p>
@@ -1206,7 +1206,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">dicatur: </text:span>ánimæ matris meæ <text:span text:style-name="Rubric">(vel </text:span>nostræ<text:span text:style-name="Rubric">)</text:span>, ejúsque<text:span text:style-name="Rubric">, et ubi dicitur </text:span>eos<text:span text:style-name="Rubric">, dicatur </text:span>eam.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">dicátur: </text:span>ánimæ matris meæ <text:span text:style-name="Rubric">(vel </text:span>nostræ<text:span text:style-name="Rubric">)</text:span>, ejúsque<text:span text:style-name="Rubric">, et ubi dícitur </text:span>eos<text:span text:style-name="Rubric">, dicátur </text:span>eam.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">say:</text:span> the soul of my <text:span text:style-name="Rubric">(</text:span>our<text:span text:style-name="Rubric">)</text:span> mother, forgive her, <text:span text:style-name="Rubric">and in place of </text:span>see them, <text:span text:style-name="Rubric">say </text:span>see her.</text:p>
@@ -1242,7 +1242,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('114.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2464" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -1265,7 +1265,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('119.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2466" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -1288,7 +1288,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('120.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2468" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -1311,7 +1311,7 @@
     </table:table-row>
    </table:table>
 <?php psalm('129.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2470" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
@@ -1326,7 +1326,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Opera * mánuum tuárum, Dómine, ne despícias.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Ópera * mánuum tuárum, Dómine, ne despícias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 5. </text:span>O despise not, * O Lord, the work of thy hands.</text:p>
@@ -1334,14 +1334,14 @@
     </table:table-row>
    </table:table>
 <?php psalm('137.php'); ?>
-<?php vr('requiem_aeternam.php'); ?>
+<?php vrS('requiem_aeternam.php'); ?>
    <text:p text:style-name="Spacer"/>
    <table:table table:name="Table2472" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Opera * mánuum tuárum, Dómine, ne despícias.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Ópera * mánuum tuárum, Dómine, ne despícias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 5. </text:span>O despise not, * O Lord, the work of thy hands.</text:p>
@@ -1384,7 +1384,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL">Pater noster. <text:span text:style-name="Rubric">Secreto usque ad</text:span></text:p>
+      <text:p text:style-name="BodyL">Pater noster. <text:span text:style-name="Rubric">Secréto usque ad</text:span></text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Et ne nos indúcas in tentatiónem.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Sed líbera nos a malo.</text:p>
      </table:table-cell>

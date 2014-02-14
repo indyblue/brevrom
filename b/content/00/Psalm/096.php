@@ -60,7 +60,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Adoráte eum, omnes Angeli ejus: * audívit, et lætáta est Sion.</text:p>
+      <text:p text:style-name="BodyLIndent">Adoráte eum, omnes Ángeli ejus: * audívit, et lætáta est Sion.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Adore him, all you his angels: * Sion heard, and was glad.</text:p>

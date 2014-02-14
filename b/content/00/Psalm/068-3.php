@@ -20,7 +20,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Et placébit Deo super vítulum novellum: * córnua producéntem et úngulas.</text:p>
+      <text:p text:style-name="BodyLIndent">Et placébit Deo super vítulum novéllum: * córnua producéntem et úngulas.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">And it shall please God better than a young calf, * that bringeth forth horns and hoofs.</text:p>

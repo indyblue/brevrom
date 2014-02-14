@@ -4,7 +4,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">USQUEQUO, Dómine, obliviscéris me in finem? * Usquequo avértis fáciem tuam a me?</text:p>
+      <text:p text:style-name="BodyLDrop">USQUEQUO, Dómine, obliviscéris me in finem? * Úsquequo avértis fáciem tuam a me?</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">HOW long, O Lord, wilt thou forget me unto the end? * how long dost thou turn away thy face from me?</text:p>
@@ -20,7 +20,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Usquequo exaltábitur inimícus meus super me? * réspice, et exáudi me, Dómine, Deus meus.</text:p>
+      <text:p text:style-name="BodyLIndent">Úsquequo exaltábitur inimícus meus super me? * réspice, et exáudi me, Dómine, Deus meus.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">How long shall my enemy be exalted over me? * Consider, and hear me, O Lord my God.</text:p>

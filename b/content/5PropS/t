@@ -1,0 +1,1 @@
+set nomore | redir! >t.txt | ar *.php

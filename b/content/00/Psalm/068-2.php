@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Eripe me de luto, ut non infígar: * líbera me ab iis, qui odérunt me, et de profúndis aquárum.</text:p>
+      <text:p text:style-name="BodyLIndent">Éripe me de luto, ut non infígar: * líbera me ab iis, qui odérunt me, et de profúndis aquárum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Draw me out of the mire, that I may not stick fast: * deliver me from them that hate me, and out of the deep waters.</text:p>
@@ -100,7 +100,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Effunde super eos iram tuam: * et furor iræ tuæ comprehéndat eos.</text:p>
+      <text:p text:style-name="BodyLIndent">Effúnde super eos iram tuam: * et furor iræ tuæ comprehéndat eos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Pour out thy indignation upon them: * and let thy wrathful anger take hold of them.</text:p>

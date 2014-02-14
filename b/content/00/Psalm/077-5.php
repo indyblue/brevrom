@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Sicut pósuit in Ægypto signa sua, * et prodígia sua in campo Táneos.</text:p>
+      <text:p text:style-name="BodyLIndent">Sicut pósuit in Ægýpto signa sua, * et prodígia sua in campo Táneos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">How he wrought his signs in Egypt, * and his wonders in the field of Tanis.</text:p>
@@ -76,7 +76,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Et percússit omne primogénitum in terra Ægypti: * primítias omnis labóris eórum in tabernáculis Cham.</text:p>
+      <text:p text:style-name="BodyLIndent">Et percússit omne primogénitum in terra Ægýpti: * primítias omnis labóris eórum in tabernáculis Cham.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">And he killed all the firstborn in the land of Egypt: * the firstfruits of all their labour in the tabernacles of Cham.</text:p>
@@ -140,7 +140,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">In iram concitavérunt eum in collibus suis: * et in sculptílibus suis ad æmulatiónem eum provocavérunt.</text:p>
+      <text:p text:style-name="BodyLIndent">In iram concitavérunt eum in cóllibus suis: * et in sculptílibus suis ad æmulatiónem eum provocavérunt.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">They provoked him to anger on their hills: * and moved him to jealousy with their graven things.</text:p>

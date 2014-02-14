@@ -5,7 +5,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">NUNC dimittis † servum tuum, Dómine, * secúndum verbum tuum in pace:</text:p>
+      <text:p text:style-name="BodyLDrop">NUNC dimíttis † servum tuum, Dómine, * secúndum verbum tuum in pace:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">NOW thou dost dismiss † thy servant, O Lord, * according to thy word in peace; </text:p>

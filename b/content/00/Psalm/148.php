@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Laudáte eum, omnes Angeli ejus: * laudáte eum, omnes virtútes ejus.</text:p>
+      <text:p text:style-name="BodyLIndent">Laudáte eum, omnes Ángeli ejus: * laudáte eum, omnes virtútes ejus.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Praise ye him, all his angels: * praise ye him, all his hosts.</text:p>

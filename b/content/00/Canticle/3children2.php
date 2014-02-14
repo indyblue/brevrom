@@ -37,7 +37,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Benedíctus es, qui intúeris abyssos, et sedes super Chérubim: * et laudábilis, et superexaltátus in sæcula.</text:p>
+      <text:p text:style-name="BodyLIndent">Benedíctus es, qui intúeris abýssos, et sedes super Chérubim: * et laudábilis, et superexaltátus in sæcula.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Blessed art thou, that beholdest the depths, and sittest upon the cherubims: * and worthy to be praised and exalted above all for ever.</text:p>

@@ -44,7 +44,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Minuísti eum paulo minus ab Angelis, glória et honóre coronásti eum: * et constituísti eum super ópera mánuum tuárum.</text:p>
+      <text:p text:style-name="BodyLIndent">Minuísti eum paulo minus ab Ángelis, glória et honóre coronásti eum: * et constituísti eum super ópera mánuum tuárum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Thou hast made him a little less than the angels, thou hast crowned him with glory and honour: * and hast set him over the works of thy hands.</text:p>

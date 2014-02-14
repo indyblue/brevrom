@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Qui sedes super Chérubim, * manifestáre coram Ephraim, Bénjamin, et Manásse.</text:p>
+      <text:p text:style-name="BodyLIndent">Qui sedes super Chérubim, * manifestáre coram Éphraim, Bénjamin, et Manásse.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Thou that sittest upon the cherubims, * shine forth before Ephraim, Benjamin, and Manasses.</text:p>
@@ -20,7 +20,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Excita poténtiam tuam, et veni, * ut salvos fácias nos.</text:p>
+      <text:p text:style-name="BodyLIndent">Éxcita poténtiam tuam, et veni, * ut salvos fácias nos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Stir up thy might, and come * to save us.</text:p>

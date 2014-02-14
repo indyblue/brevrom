@@ -44,7 +44,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Ideo audívit Dóminus, et distulit: * et ignis accénsus est in Jacob, et ira ascéndit in Israël.</text:p>
+      <text:p text:style-name="BodyLIndent">Ideo audívit Dóminus, et dístulit: * et ignis accénsus est in Jacob, et ira ascéndit in Israël.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Therefore the Lord heard, and was angry: * and a fire was kindled against Jacob, and wrath came up against Israel.</text:p>
@@ -84,7 +84,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Tránstulit Austrum de cælo: * et indúxit in virtúte sua Africum.</text:p>
+      <text:p text:style-name="BodyLIndent">Tránstulit Austrum de cælo: * et indúxit in virtúte sua Áfricum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">He removed the south wind from heaven: * and by his power brought in the southwest wind.</text:p>

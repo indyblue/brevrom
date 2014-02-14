@@ -15,7 +15,7 @@
      <style:tab-stop style:position="5in" style:type="right"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-size="9pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-size="9pt" style:text-scale="95%" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="BodyE" style:family="paragraph" style:parent-style-name="Body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>

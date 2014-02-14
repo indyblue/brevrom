@@ -84,7 +84,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Quóniam Angelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.</text:p>
+      <text:p text:style-name="BodyLIndent">Quóniam Ángelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">For he hath given his angels charge over thee; * to keep thee in all thy ways.</text:p>

@@ -37,7 +37,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Adjuva me, et salvus ero: * et meditábor in justificatiónibus tuis semper.</text:p>
+      <text:p text:style-name="BodyLIndent">Ádjuva me, et salvus ero: * et meditábor in justificatiónibus tuis semper.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Help me, and I shall be saved: * and I will meditate always on thy justifications.</text:p>
@@ -90,7 +90,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Oculi mei defecérunt in salutáre tuum: * et in elóquium justítiæ tuæ.</text:p>
+      <text:p text:style-name="BodyLIndent">Óculi mei defecérunt in salutáre tuum: * et in elóquium justítiæ tuæ.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">My eyes have fainted after thy salvation: * and for the word of thy justice.</text:p>

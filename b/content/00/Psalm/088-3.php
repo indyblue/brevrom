@@ -68,7 +68,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Usquequo, Dómine, avértis in finem: * exardéscet sicut ignis ira tua?</text:p>
+      <text:p text:style-name="BodyLIndent">Úsquequo, Dómine, avértis in finem: * exardéscet sicut ignis ira tua?</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">How long, O Lord, turnest thou away unto the end? * shall thy anger burn like fire?</text:p>

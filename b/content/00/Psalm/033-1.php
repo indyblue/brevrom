@@ -52,10 +52,10 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Immíttet Angelus Dómini in circúitu timéntium eum: * et erípiet eos.</text:p>
+      <text:p text:style-name="BodyLIndent">Immíttet Ángelus Dómini in circúitu timéntium eum: * et erípiet eos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">The angel of the Lord shall encamp round about them that fear him: * and shall deliver them.</text:p>
+      <text:p text:style-name="BodyEIndent">The Angel of the Lord shall encamp round about them that fear him: * and shall deliver them.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>

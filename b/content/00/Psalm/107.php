@@ -60,7 +60,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Meus est Gálaad, et meus est Manásses: * et Ephraim suscéptio cápitis mei.</text:p>
+      <text:p text:style-name="BodyLIndent">Meus est Gálaad, et meus est Manásses: * et Éphraim suscéptio cápitis mei.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Galaad is mine: and Manasses is mine: * and Ephraim the protection of my head.</text:p>

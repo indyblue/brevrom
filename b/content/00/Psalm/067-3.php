@@ -60,7 +60,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Increpa feras arúndinis, congregátio taurórum in vaccis populórum: * ut exclúdant eos, qui probáti sunt argénto.</text:p>
+      <text:p text:style-name="BodyLIndent">Íncrepa feras arúndinis, congregátio taurórum in vaccis populórum: * ut exclúdant eos, qui probáti sunt argénto.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Rebuke the wild beasts of the reeds, the congregation of bulls with the kine of the people; * who seek to exclude them who are tried with silver.</text:p>

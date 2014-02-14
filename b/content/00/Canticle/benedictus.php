@@ -5,7 +5,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">BENEDICTUS † Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:</text:p>
+      <text:p text:style-name="BodyLDrop">BENEDÍCTUS † Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">BLESSED be † the Lord God of Israel; * because he hath visited and wrought the redemption of his people: </text:p>
@@ -45,7 +45,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Jusjurándum, quod jurávit ad Abraham patrem nostrum, * datúrum se nobis:</text:p>
+      <text:p text:style-name="BodyLIndent">Jusjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">The oath, which he swore to Abraham our father, * that he would grant to us, </text:p>

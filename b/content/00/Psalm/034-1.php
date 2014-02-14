@@ -44,18 +44,18 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Fiant tamquam pulvis ante fáciem venti: * et Angelus Dómini coárctans eos.</text:p>
+      <text:p text:style-name="BodyLIndent">Fiant tamquam pulvis ante fáciem venti: * et Ángelus Dómini coárctans eos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Let them become as dust before the wind: * and let the angel of the Lord straiten them.</text:p>
+      <text:p text:style-name="BodyEIndent">Let them become as dust before the wind: * and let the Angel of the Lord straiten them.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Fiat via illórum ténebræ et lúbricum: * et Angelus Dómini pérsequens eos.</text:p>
+      <text:p text:style-name="BodyLIndent">Fiat via illórum ténebræ et lúbricum: * et Ángelus Dómini pérsequens eos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Let their way become dark and slippery; * and let the angel of the Lord pursue them.</text:p>
+      <text:p text:style-name="BodyEIndent">Let their way become dark and slippery; * and let the Angel of the Lord pursue them.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -76,7 +76,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Anima autem mea exsultábit in Dómino: * et delectábitur super salutári suo.</text:p>
+      <text:p text:style-name="BodyLIndent">Ánima autem mea exsultábit in Dómino: * et delectábitur super salutári suo.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">But my soul shall rejoice in the Lord; * and shall be delighted in his salvation.</text:p>

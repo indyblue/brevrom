@@ -53,7 +53,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Amputa oppróbrium meum quod suspicátus sum: * quia judícia tua jucúnda.</text:p>
+      <text:p text:style-name="BodyLIndent">Ámputa oppróbrium meum quod suspicátus sum: * quia judícia tua jucúnda.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Turn away my reproach, which I have apprehended: * for thy judgments are delightful.</text:p>

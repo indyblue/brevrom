@@ -60,7 +60,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Benedícite Dómino, omnes Angeli ejus: * poténtes virtúte, faciéntes verbum illíus, ad audiéndam vocem sermónum ejus.</text:p>
+      <text:p text:style-name="BodyLIndent">Benedícite Dómino, omnes Ángeli ejus: * poténtes virtúte, faciéntes verbum illíus, ad audiéndam vocem sermónum ejus.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Bless the Lord, all ye his angels: * you that are mighty in strength, and execute his word, hearkening to the voice of his orders.</text:p>

@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Auribus pércipe oratiónem meam, * non in lábiis dolósis.</text:p>
+      <text:p text:style-name="BodyLIndent">Áuribus pércipe oratiónem meam, * non in lábiis dolósis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Give ear unto my prayer, * which proceedeth not from deceitful lips.</text:p>

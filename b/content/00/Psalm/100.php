@@ -60,7 +60,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Oculi mei ad fidéles terræ ut sédeant mecum: * ámbulans in via immaculáta, hic mihi ministrábat.</text:p>
+      <text:p text:style-name="BodyLIndent">Óculi mei ad fidéles terræ ut sédeant mecum: * ámbulans in via immaculáta, hic mihi ministrábat.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">My eyes were upon the faithful of the earth, to sit with me: * the man that walked in the perfect way, he served me.</text:p>

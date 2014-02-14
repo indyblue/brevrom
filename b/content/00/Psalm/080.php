@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Súmite psalmum, et date tympanum: * psaltérium jucúndum cum cíthara.</text:p>
+      <text:p text:style-name="BodyLIndent">Súmite psalmum, et date týmpanum: * psaltérium jucúndum cum cíthara.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Take a psalm, and bring hither the timbrel: * the pleasant psaltery with the harp.</text:p>
@@ -36,7 +36,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Testimónium in Joseph pósuit illud, cum exíret de terra Ægypti: * linguam, quam non nóverat, audívit.</text:p>
+      <text:p text:style-name="BodyLIndent">Testimónium in Joseph pósuit illud, cum exíret de terra Ægýpti: * linguam, quam non nóverat, audívit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">He ordained it for a testimony in Joseph, when he came out of the land of Egypt: * he heard a tongue which he knew not.</text:p>
@@ -68,7 +68,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Ego enim sum Dóminus Deus tuus, qui edúxi te de terra Ægypti: * diláta os tuum, et implébo illud.</text:p>
+      <text:p text:style-name="BodyLIndent">Ego enim sum Dóminus Deus tuus, qui edúxi te de terra Ægýpti: * diláta os tuum, et implébo illud.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">For I am the Lord thy God, who brought thee out of the land of Egypt: * open thy mouth wide, and I will fill it.</text:p>

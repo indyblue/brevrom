@@ -131,7 +131,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL">Ave, María, grátia plena; * Dóminus tecum <text:span text:style-name="Rubric">(P.T.</text:span> allelúia<text:span text:style-name="Rubric">)</text:span>.</text:p>
+      <text:p text:style-name="BodyL">Ave, María, grátia plena; * Dóminus tecum <text:span text:style-name="Rubric">(P.T.</text:span> allelúja<text:span text:style-name="Rubric">)</text:span>.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE">Hail Mary, full of grace; * The Lord is with thee <text:span text:style-name="Rubric">(P.T.</text:span> alleluia<text:span text:style-name="Rubric">)</text:span>.</text:p>
@@ -273,7 +273,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Tibi omnes Angeli, * tibi Cæli, et univérsæ Potestátes:</text:p>
+      <text:p text:style-name="BodyLIndent">Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">To thee all Angels cry aloud, * the Heavens, and all the Powers therein.</text:p>
@@ -377,7 +377,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis uterum.</text:p>
+      <text:p text:style-name="BodyLIndent">Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">When thou tookest upon thee to deliver man, * thou didst not abhor the Virgin’s womb.</text:p>
@@ -512,8 +512,8 @@
     </table:table-row>
    </table:table>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
-<?php vr('fidelium_animae.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
+<?php vrS('fidelium_animae.php'); ?>
    <text:p text:style-name="Body"/>
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics164" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
             </draw:frame></text:h>
@@ -554,8 +554,8 @@
    </table:table>
    <text:p text:style-name="Rubric">In the Office or commemoration of St. Peter or of St. Paul, the prayer of the other Apostle is added to the prayer of the day under a single conclusion, without antiphon or versicle. This commemoration is called inseparable.</text:p>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
-<?php vr('fidelium_animae.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
+<?php vrS('fidelium_animae.php'); ?>
    <text:p text:style-name="Body"/>
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics165" text:anchor-type="as-char" svg:width="1.1965in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
             </draw:frame></text:h>
@@ -727,7 +727,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Christe Fili Dei vivi, miserére nobis, * Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Christe Fili Dei vivi, miserére nobis, * Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>O Christ, thou Son of the living God, have mercy on us, * Alleluia, alleluia.</text:p>
@@ -743,7 +743,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">[V. </text:span>Qui surréxísti a mórtuis.<text:span text:style-name="VR">]</text:span></text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">[V. </text:span>Qui surrexísti a mórtuis.<text:span text:style-name="VR">]</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">[V. </text:span>Who has risen from the dead.<text:span text:style-name="VR">]</text:span></text:p>
@@ -751,7 +751,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Alleluia, alleluia.</text:p>
@@ -775,7 +775,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Exsúrge, Christe, ádjuva nos, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Exsúrge, Christe, ádjuva nos, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Arise, O Christ, and help us, alleluia.</text:p>
@@ -783,7 +783,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et líbera nos propter nomen tuum, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et líbera nos propter nomen tuum, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And deliver us for thy Name’s sake, alleluia.</text:p>
@@ -809,7 +809,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Qui sédes ad dexteram Patris.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Qui sédes ad déxteram Patris.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Who sits at the right hand of the Father.</text:p>
@@ -835,7 +835,7 @@
     </table:table-row>
    </table:table>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
    <text:p text:style-name="Head2">Martyrology</text:p>
    <text:p text:style-name="RubricH">The Martyrology is read, ending with:</text:p>
    <table:table table:name="Table1009" table:style-name="TableParallel">
@@ -1121,7 +1121,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">JUDÆI quoque et Prosélyti, Cretes et Arabes: audívimus eos loquéntes nostris linguis magnália Dei. Tu autem, Dómine, miserére nobis.</text:p>
+      <text:p text:style-name="BodyLDrop">JUDÆI quoque et Prosélyti, Cretes et Árabes: audívimus eos loquéntes nostris linguis magnália Dei. Tu autem, Dómine, miserére nobis.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -1288,8 +1288,8 @@
     </table:table-row>
    </table:table>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
-<?php vr('fidelium_animae.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
+<?php vrS('fidelium_animae.php'); ?>
    <text:p text:style-name="Body"/>
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics171" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
             </draw:frame></text:h>
@@ -1407,8 +1407,8 @@
     </table:table-row>
    </table:table>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
-<?php vr('fidelium_animae.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
+<?php vrS('fidelium_animae.php'); ?>
    <text:p text:style-name="Body"/>
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics174" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
             </draw:frame></text:h>
@@ -1526,8 +1526,8 @@
     </table:table-row>
    </table:table>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
-<?php vr('fidelium_animae.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
+<?php vrS('fidelium_animae.php'); ?>
    <text:p text:style-name="Body"/>
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics177" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
             </draw:frame></text:h>
@@ -1565,8 +1565,8 @@
    <text:p text:style-name="Rubric">Only privileged commemorations are observed in Vespers; that is, commemorations:of a Sunday; of a liturgical day of the 1st class; of days within the octave of Christmas; of Ember Days in September; of ferias of Advent, Lent and Passiontide.</text:p>
    <text:p text:style-name="Rubric">In the Office or commemoration of St. Peter or of St. Paul, the prayer of the other Apostle is added to the prayer of the day under a single conclusion, without antiphon or versicle. This commemoration is called inseparable.</text:p>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
-<?php vr('fidelium_animae.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
+<?php vrS('fidelium_animae.php'); ?>
    <text:p text:style-name="Body"/>
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics178" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
             </draw:frame></text:h>
@@ -1846,7 +1846,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>In manus tuas, Dómine, comméndo spíritum meum * Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>In manus tuas, Dómine, comméndo spíritum meum * Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Into thy hands, O Lord, I commend my spirit, * Alleluia, alleluia.</text:p>
@@ -1870,7 +1870,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Alleluia, alleluia.</text:p>
@@ -1894,7 +1894,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Custódi nos Dómine ut pupíllam óculi, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Custódi nos Dómine ut pupíllam óculi, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Keep us, O Lord, as the apple of thy eye, alleluia.</text:p>
@@ -1902,7 +1902,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Sub umbra alárum tuárum prótege nos, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Sub umbra alárum tuárum prótege nos, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Protect us under the shadow of thy wings, alleluia.</text:p>
@@ -1915,7 +1915,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<text:span text:style-name="Rubric">P.T. </text:span>Allelúia)</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<text:span text:style-name="Rubric">P.T. </text:span>Allelúja)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Save us, * O Lord, waking, guard us sleeping, that awake we may watch with Christ, and asleep rest in peace. (<text:span text:style-name="Rubric">P.T. </text:span>Alleluia)</text:p>
@@ -1929,7 +1929,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<text:span text:style-name="Rubric">P.T. </text:span>Allelúia)</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<text:span text:style-name="Rubric">P.T. </text:span>Allelúja)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Save us, * O Lord, waking, guard us sleeping, that awake we may watch with Christ, and asleep rest in peace. (<text:span text:style-name="Rubric">P.T. </text:span>Alleluia)</text:p>
@@ -1944,7 +1944,7 @@
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyL">Orémus.</text:p>
-      <text:p text:style-name="BodyLDrop">VÍSITA, quæsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle: Angeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">VÍSITA, quæsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper. Per Dóminum.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Amen.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -1955,7 +1955,7 @@
     </table:table-row>
    </table:table>
 <?php vr('domine_exaudi.php'); ?>
-<?php vr('benedicamus_domino.php'); ?>
+<?php vrS('benedicamus_domino.php'); ?>
    <table:table table:name="Table1077" table:style-name="TableParallel">
     <table:table-column table:style-name="TableParallel.A"/>
     <table:table-column table:style-name="TableParallel.B"/>
@@ -2005,7 +2005,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Angelus Dómini nuntiávit Maríæ.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Ángelus Dómini nuntiávit Maríæ.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et concépit de Spíritu Sancto.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -2016,7 +2016,7 @@
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyL">Orémus.</text:p>
-      <text:p text:style-name="BodyLDrop">GRÁTIAM tuam, quæsumus Dómine, méntibus nostris infúnde; ut, qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nostrum.</text:p>
+      <text:p text:style-name="BodyLDrop">GRÁTIAM tuam, quæsumus Dómine, méntibus nostris infúnde; ut, qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nostrum.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Amen.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -2048,7 +2048,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Post partum, Virgo, ínvioláta permansísti.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Post partum, Virgo, invioláta permansísti.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dei Génitrix, intercéde pro nobis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -2208,7 +2208,7 @@
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Ora pro nobis, sancta Dei Génitrix.</text:p>
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Ut digni effíciámur promissiónibus Christi.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Ut digni efficiámur promissiónibus Christi.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Pray for us, O holy Mother of God.</text:p>
@@ -2608,7 +2608,7 @@
       <text:p text:style-name="BodyLDrop">DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri præmia præstitísti: tríbue, quæsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O GOD, who by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee, that we may continually feel the might of her intercession, through whom we have worthily received the Author of life, our Lord Jesus Christ, thy Son. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">O GOD, who by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee, that we may continually feel the might of her intercession, through whom we have worthily received the Author of life, our Lord Jesus Christ, thy Son. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -2638,8 +2638,8 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Verbum caro factum est, allelúia.</text:p>
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et habitávit in nobis, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Verbum caro factum est, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et habitávit in nobis, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The Word was made flesh, alleluia.</text:p>
@@ -3034,7 +3034,7 @@
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Adoráte Deum, allelúja.</text:p>
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Omnes Angeli ejus, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Omnes Ángeli ejus, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Adore God, alleluia.</text:p>
@@ -3083,7 +3083,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Reges Arabum et Saba dona addúcent.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Reges Árabum et Saba dona addúcent.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The kings of the Arabians and of Saba shall bring gifts.</text:p>
@@ -3299,7 +3299,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Omnes Angeli ejus, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Omnes Ángeli ejus, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>All you his angels, alleluia.</text:p>
@@ -3334,7 +3334,7 @@
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Reges Tharsis et ínsulæ múnera ófferent.</text:p>
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Reges Arabum et Saba dona addúcent.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Reges Árabum et Saba dona addúcent.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The kings of Tharsis and the islands shall offer presents.</text:p>
@@ -3366,7 +3366,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">CLAMA, ne cesses, quasi tuba exalta vocem tuam, et annúntia pópulo meo scélera eórum, et dómui Jacob peccáta eórum.</text:p>
+      <text:p text:style-name="BodyLDrop">CLAMA, ne cesses, quasi tuba exálta vocem tuam, et annúntia pópulo meo scélera eórum, et dómui Jacob peccáta eórum.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -3383,7 +3383,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Angelis suis Deus mandávit de te.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Ángelis suis Deus mandávit de te.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Ut custódiant te in ómnibus viis tuis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -3641,7 +3641,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Angelis suis Deus mandávit de te.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Ángelis suis Deus mandávit de te.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>God hath given his angels charge over thee.</text:p>
@@ -3682,7 +3682,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Angelis suis Deus mandávit de te.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Ángelis suis Deus mandávit de te.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Ut custódiant te in ómnibus viis tuis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -3717,6 +3717,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="Head3">Hymn</text:p>
+<text:p text:style-name="BkHidden"><text:bookmark text:name="lustra_sex_qui_jam_peregit"/></text:p>
 <?php hymn('lustra_sex_qui_jam_peregit.php'); ?>
    <text:p text:style-name="RubricHidden"><text:tab/>Ps 58:2</text:p>
    <table:table table:name="Table1144" table:style-name="TableParallel">
@@ -3724,7 +3725,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Eripe me de inimícis meis, Deus meus.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Éripe me de inimícis meis, Deus meus.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et ab insurgéntibus in me líbera me.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -3958,7 +3959,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Eripe me, Dómine, ab hómine malo.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Éripe me, Dómine, ab hómine malo.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Deliver me, O Lord, from the evil man.</text:p>
@@ -3991,7 +3992,8 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="Head3">Hymn</text:p>
+<text:p text:style-name="BkHidden"><text:bookmark text:name="vexilla_regis_prodeunt"/></text:p>
+	<text:p text:style-name="Head3">Hymn</text:p>
 <?php hymn('vexilla_regis_prodeunt.php'); ?>
    <text:p text:style-name="RubricHidden"><text:tab/>Ps 139:2</text:p>
    <table:table table:name="Table1153" table:style-name="TableParallel">
@@ -3999,7 +4001,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Eripe me, Dómine, ab hómine malo.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Éripe me, Dómine, ab hómine malo.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>A viro iníquo éripe me.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">

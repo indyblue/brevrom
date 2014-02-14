@@ -20,7 +20,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Oculi ómnium in te sperant, Dómine: * et tu das escam illórum in témpore opportúno.</text:p>
+      <text:p text:style-name="BodyLIndent">Óculi ómnium in te sperant, Dómine: * et tu das escam illórum in témpore opportúno.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">The eyes of all hope in thee, O Lord: * and thou givest them meat in due season.</text:p>

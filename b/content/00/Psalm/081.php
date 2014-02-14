@@ -12,7 +12,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Usquequo judicátis iniquitátem: * et fácies peccatórum súmitis?</text:p>
+      <text:p text:style-name="BodyLIndent">Úsquequo judicátis iniquitátem: * et fácies peccatórum súmitis?</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">How long will you judge unjustly: * and accept the persons of the wicked?</text:p>

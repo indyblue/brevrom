@@ -1,0 +1,2 @@
+Natívitas tua, * Dei Génitrix Virgo, gáudium annuntiávit univérso mundo: ex te enim ortus est sol justítiæ, Christus Deus noster: qui solvens maledictiónem, dedit benedictiónem; et confúndens mortem, donávit nobis vitam sempitérnam.
+Thy birth, * O Virgin Mother of God, announced joy to the whole world; for out of thee arose the sun of justice, Christ our God; who, taking off the curse, hath bestowed blessing; and defeating death, hath given us life everlasting.

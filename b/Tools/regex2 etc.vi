@@ -1,0 +1,43 @@
+%s/\vinclude( [$'"(])/require\1/
+g/\vinclude( [$'"(])/y A
+
+<?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
+$_GET['n'] = 3;
+<?php if ($_GET['n']==0): ?>a<?php else: ?>c<?php endif; ?>
+
+<text:p text:style-name="BkHidden"><text:bookmark text:name="vrDominusVobiscum"/></text:p>
+<text:bookmark-ref text:reference-format="page" text:ref-name="Ps5"/>
+<?php echo ($cross==1?'‡':'') ?>
+
+<?php if ($part==0): ?>
+<?php endif; ?>
+<?php echo ($part==0?'"BodyLDrop">':'"BodyLIndent">') ?>
+<?php echo ($part==0?'"BodyEDrop">':'"BodyEIndent">') ?>
+
+	<text:p text:style-name="Head1"><?php 
+echo ($_GET['L']==1?'':'') 
+?></text:p>
+<?php if ($_GET['L']==1): ?>
+<?php else: ?>
+<?php endif; ?>
+
+<?php canticle('athanasian.php'); ?>
+:Psalmus 115
+<\/table:table>
+%s/^.* Nonam.*$/<?php rubrics('head\/None.php'); ?>/
+<?php rubrics('ps/ComBVM.php'); ?>
+<?php vr('br/nimis_honorati_sunt.php'); ?>
+<?php lc('wis5_1.php'); ?>
+
+<?php hymn('domare_cordis_impetus_elisabeth.php'); ?>
+
+%s/^.*$/      <text:p text:style-name="HymnE">\0</text:p>
+%s/&apos;\|'/’/ig
+<text:p text:style-name="RubricHidden">
+Author: St. Ambrose (attributed)
+Trans: Fr. E.Caswall
+</text:p>
+<text:span text:style-name="HymnR">L</text:span>
+‘’
+“”
+

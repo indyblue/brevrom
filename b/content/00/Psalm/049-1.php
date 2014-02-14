@@ -116,7 +116,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Immola Deo sacrifícium laudis: * et redde Altíssimo vota tua.</text:p>
+      <text:p text:style-name="BodyLIndent">Ímmola Deo sacrifícium laudis: * et redde Altíssimo vota tua.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Offer to God the sacrifice of praise: * and pay thy vows to the most High.</text:p>

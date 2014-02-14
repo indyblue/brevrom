@@ -1,0 +1,174 @@
+
+
+E486: Pattern not found: B\.V\.M\.
+"oremus.php" 
+"oremus.php" 13 lines, 659 characters
+E486: Pattern not found: B\.V\.M\.
+"cs\1Compline.php" 
+"cs\1Compline.php" 1 line, 102 characters
+E486: Pattern not found: B\.V\.M\.
+"cs\1Vespers.php" 
+"cs\1Vespers.php" 2 lines, 81 characters
+E486: Pattern not found: B\.V\.M\.
+"cs\Compline.php" 
+"cs\Compline.php" 1 line, 168 characters
+E486: Pattern not found: B\.V\.M\.
+"cs\LittleHours.php" 
+"cs\LittleHours.php" 2 lines, 380 characters
+E486: Pattern not found: B\.V\.M\.
+"head\1Vespers.php" 
+"head\1Vespers.php" 7 lines, 167 characters
+E486: Pattern not found: B\.V\.M\.
+"head\2Vespers.php" 
+"head\2Vespers.php" 7 lines, 170 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Benedictus.php" 
+"head\Benedictus.php" 7 lines, 162 characters
+E486: Pattern not found: B\.V\.M\.
+"head\BriefRespond.php" 
+"head\BriefRespond.php" 8 lines, 178 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Compline.php" 
+"head\Compline.php" 7 lines, 168 characters
+E486: Pattern not found: B\.V\.M\.
+"head\HymnVerse.php" 
+"head\HymnVerse.php" 7 lines, 173 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Lauds.php" 
+"head\Lauds.php" 5 lines, 172 characters
+E486: Pattern not found: B\.V\.M\.
+"head\LittleChapter.php" 
+"head\LittleChapter.php" 7 lines, 164 characters
+E486: Pattern not found: B\.V\.M\.
+"head\LittleHours.php" 
+"head\LittleHours.php" 7 lines, 168 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Magnificat.php" 
+"head\Magnificat.php" 7 lines, 161 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Martyrology.php" 
+"head\Martyrology.php" 7 lines, 165 characters
+E486: Pattern not found: B\.V\.M\.
+"head\None.php" 
+"head\None.php" 7 lines, 156 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Prayer.php" 
+"head\Prayer.php" 7 lines, 158 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Prime.php" 
+"head\Prime.php" 7 lines, 158 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Psalms.php" 
+"head\Psalms.php" 7 lines, 182 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Sext.php" 
+"head\Sext.php" 7 lines, 157 characters
+E486: Pattern not found: B\.V\.M\.
+"head\ShortReading.php" 
+"head\ShortReading.php" 7 lines, 167 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Terce.php" 
+"head\Terce.php" 7 lines, 160 characters
+E486: Pattern not found: B\.V\.M\.
+"head\Vespers.php" 
+"head\Vespers.php" 7 lines, 164 characters
+E486: Pattern not found: B\.V\.M\.
+"ord\prime_qui_natus.php" 
+"ord\prime_qui_natus.php" 1 line, 179 characters
+E486: Pattern not found: B\.V\.M\.
+"ord\prime_qui_passus.php" 
+"ord\prime_qui_passus.php" 2 lines, 189 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\1classLittleHours.php" 
+"prSanct\1classLittleHours.php" 1 line, 238 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\commSeptEmber.php" 
+"prSanct\commSeptEmber.php" 1 line, 261 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\ComplineFeria.php" 
+"prSanct\ComplineFeria.php" 1 line, 77 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\ComplineSun.php" 
+"prSanct\ComplineSun.php" 1 line, 74 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\Sun1Vespers.php" 
+"prSanct\Sun1Vespers.php" 2 lines, 130 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\all2Vespers.php" 
+"prSanct\all2Vespers.php" 1 line, 76 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\all_else.php" 
+"prSanct\all_else.php" 30 lines, 1089 characters
+E10: \ should be followed by /, ? or &
+"prSanct\all_from.php" 
+"prSanct\all_from.php" 30 lines, 1084 characters
+E10: \ should be followed by /, ? or &
+"prSanct\if1Vespers.php" 
+"prSanct\if1Vespers.php" 1 line, 75 characters
+E486: Pattern not found: B\.V\.M\.
+"prSanct\if1cl1Vespers.php" 
+"prSanct\if1cl1Vespers.php" 1 line, 109 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\ComAp.php" 
+"ps\ComAp.php" 1 line, 227 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\ComBVM.php" 
+"ps\ComBVM.php" 1 line, 219 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\Feria.php" 
+"ps\Feria.php" 1 line, 89 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\PrHolySat.php" 
+"ps\PrHolySat.php" 1 line, 263 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\PrNativity.php" 
+"ps\PrNativity.php" 1 line, 216 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SaL1.php" 
+"ps\SaL1.php" 1 line, 218 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SaV-A.php" 
+"ps\SaV-A.php" 1 line, 228 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SaV.php" 
+"ps\SaV.php" 1 line, 203 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuC.php" 
+"ps\SuC.php" 1 line, 221 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuL1-A.php" 
+"ps\SuL1-A.php" 1 line, 227 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuL1.php" 
+"ps\SuL1.php" 1 line, 202 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuL2.php" 
+"ps\SuL2.php" 1 line, 203 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuV-A.php" 
+"ps\SuV-A.php" 1 line, 226 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuV.php" 
+"ps\SuV.php" 1 line, 201 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuV115.php" 
+"ps\SuV115.php" 1 line, 387 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuV116.php" 
+"ps\SuV116.php" 1 line, 379 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuV131.php" 
+"ps\SuV131.php" 1 line, 378 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuV137.php" 
+"ps\SuV137.php" 1 line, 378 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\SuV147.php" 
+"ps\SuV147.php" 1 line, 378 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\ant2Vespers.php" 
+"ps\ant2Vespers.php" 2 lines, 76 characters
+E486: Pattern not found: B\.V\.M\.
+"ps\antLauds.php" 
+"ps\antLauds.php" 2 lines, 71 characters
+E486: Pattern not found: B\.V\.M\.

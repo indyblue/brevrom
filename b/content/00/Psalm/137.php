@@ -15,7 +15,7 @@
       <text:p text:style-name="BodyLIndent">In conspéctu Angelórum psallam tibi: * adorábo ad templum sanctum tuum, et confitébor nómini tuo.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">I will sing praise to thee in the sight of the angels: * I will worship towards thy holy temple, and I will give glory to thy name.</text:p>
+      <text:p text:style-name="BodyEIndent">I will sing praise to thee in the sight of the Angels: * I will worship towards thy holy temple, and I will give glory to thy name.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>

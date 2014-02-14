@@ -76,7 +76,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Oculi ejus in páuperem respíciunt: * insidiátur in abscóndito, quasi leo in spelúnca sua.</text:p>
+      <text:p text:style-name="BodyLIndent">Óculi ejus in páuperem respíciunt: * insidiátur in abscóndito, quasi leo in spelúnca sua.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">His eyes are upon the poor man: * he lieth in wait, in secret, like a lion in his den.</text:p>

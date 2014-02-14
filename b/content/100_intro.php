@@ -141,7 +141,7 @@
       <text:p text:style-name="BodyLIndent">Qui vivis et regnas cum Deo Patre, in unitáte <text:span text:style-name="Rubric">[ejúsdem]</text:span> Spíritus Sancti Deus, per ómnia sæcula sæculórum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Who live and reign with God the Father in the unity of the <text:span text:style-name="Rubric">[same]</text:span> Holy Spirit, one God, world without end.</text:p>
+      <text:p text:style-name="BodyEIndent">Who livest and reignest with God the Father in the unity of the <text:span text:style-name="Rubric">[same]</text:span> Holy Spirit, one God, world without end.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>

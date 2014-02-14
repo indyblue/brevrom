@@ -68,7 +68,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Príncipes populórum congregáti sunt cum Deo Abraham: * quóniam dii fortes terræ veheménter eleváti sunt.</text:p>
+      <text:p text:style-name="BodyLIndent">Príncipes populórum congregáti sunt cum Deo Ábraham: * quóniam dii fortes terræ veheménter eleváti sunt.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">The princes of the people are gathered together, with the God of Abraham: * for the strong gods of the earth are exceedingly exalted.</text:p>

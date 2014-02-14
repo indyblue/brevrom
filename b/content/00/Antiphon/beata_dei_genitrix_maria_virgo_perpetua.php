@@ -1,0 +1,2 @@
+Beáta Dei Génitrix, María, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.
+O blessed Mary, * Mother of God, ever Virgin, temple of the Lord, sanctuary of the Holy Ghost, thou alone without previous example hast been pleasing to our Lord Jesus Christ; pray for the people, mediate for the clergy, intercede for all women vowed to God.

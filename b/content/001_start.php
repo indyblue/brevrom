@@ -12,18 +12,19 @@
    <style:table-properties style:page-number="0" table:align="margins"/>
   </style:style>
   <style:style style:name="TableParallel.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="1000*"/>
+   <style:table-column-properties style:rel-column-width="92*"/>
   </style:style>
   <style:style style:name="TableParallel.B" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="1000*"/>
+   <style:table-column-properties style:rel-column-width="100*"/>
   </style:style>
   <style:style style:name="TableParallel.A1" style:family="table-cell">
-   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0in" fo:padding-right="0.03in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border="none">
+   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0in" fo:padding-right="0.04in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border="none">
     <style:background-image/>
    </style:table-cell-properties>
   </style:style>
   <style:style style:name="TableParallel.B1" style:family="table-cell">
-   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.03in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="none">
+   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.04in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="none">
+<?php /*   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.03in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="none"> */ ?>
     <style:background-image/>
    </style:table-cell-properties>
   </style:style>

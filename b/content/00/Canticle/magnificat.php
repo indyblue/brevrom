@@ -5,7 +5,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">MAGNIFICAT: †* ánima mea Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">MAGNÍFICAT: †* ánima mea Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">MY SOUL †* doth magnify the Lord.       </text:p>
@@ -77,7 +77,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Sicut locútus est ad patres nostros: * Abraham, et sémini ejus in sæcula.</text:p>
+      <text:p text:style-name="BodyLIndent">Sicut locútus est ad patres nostros: * Ábraham, et sémini ejus in sæcula.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">As he spoke to our fathers, * to Abraham and to his seed for ever. </text:p>

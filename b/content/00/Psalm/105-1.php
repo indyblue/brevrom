@@ -52,7 +52,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Patres nostri in Ægypto non intellexérunt mirabília tua: * non fuérunt mémores multitúdinis misericórdiæ tuæ.</text:p>
+      <text:p text:style-name="BodyLIndent">Patres nostri in Ægýpto non intellexérunt mirabília tua: * non fuérunt mémores multitúdinis misericórdiæ tuæ.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Our fathers understood not thy wonders in Egypt: * they remembered not the multitude of thy mercies:</text:p>
@@ -76,7 +76,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Et incrépuit Mare Rubrum, et exsiccátum est, * et dedúxit eos in abyssis sicut in desérto.</text:p>
+      <text:p text:style-name="BodyLIndent">Et incrépuit Mare Rubrum, et exsiccátum est, * et dedúxit eos in abýssis sicut in desérto.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">And he rebuked the Red Sea, and it was dried up: * and he led them through the depths, as in a wilderness.</text:p>

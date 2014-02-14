@@ -44,7 +44,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Moab, et Agaréni, Gebal, et Ammon, et Amalec: * alienígenæ cum habitántibus Tyrum.</text:p>
+      <text:p text:style-name="BodyLIndent">Moab, et Agaréni, Gebal, et Ammon, et Ámalec: * alienígenæ cum habitántibus Tyrum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Moab, and the Agarens, Gebal, and Ammon and Amalec: * the Philistines, with the inhabitants of Tyre.</text:p>
@@ -52,7 +52,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Etenim Assur venit cum illis: * facti sunt in adjutórium fíliis Lot.</text:p>
+      <text:p text:style-name="BodyLIndent">Étenim Assur venit cum illis: * facti sunt in adjutórium fíliis Lot.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Yea, and the Assyrian also is joined with them: * they are come to the aid of the sons of Lot.</text:p>

@@ -1,0 +1,3 @@
+
+DÓMINE Jesu Christe, qui, frigescénte mundo, ad inflammándum corda nostra tui amóris igne, in carne beatíssimi Francísci passiónis tuæ sacra Stígmata renovásti: concéde propítius; ut ejus méritis et précibus crucem júgiter ferámus, et dignos fructu pœniténtiæ faciámus: Qui vivis.
+O LORD Jesus Christ, who, when the world was growing cold, in order to inflame our hearts with the fire of thy love, didst renew in the body of the blessed Francis the sacred marks of thy Passion; mercifully grant that, by his merits and prayers, we may ever bear our cross, and bring forth worthy fruits of penance. Who livest.

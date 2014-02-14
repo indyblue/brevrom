@@ -52,7 +52,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Et intrávit Israël in Ægyptum: * et Jacob áccola fuit in terra Cham.</text:p>
+      <text:p text:style-name="BodyLIndent">Et intrávit Israël in Ægýptum: * et Jacob áccola fuit in terra Cham.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">And Israel went into Egypt: * and Jacob was a sojourner in the land of Cham.</text:p>

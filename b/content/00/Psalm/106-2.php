@@ -92,7 +92,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Ascéndunt usque ad cælos, et descéndunt usque ad abyssos: * ánima eórum in malis tabescébat.</text:p>
+      <text:p text:style-name="BodyLIndent">Ascéndunt usque ad cælos, et descéndunt usque ad abýssos: * ánima eórum in malis tabescébat.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">They mount up to the heavens, and they go down to the depths: * their soul pined away with evils.</text:p>

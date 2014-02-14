@@ -24,7 +24,7 @@
       <text:p text:style-name="BodyLDrop">EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who liveth.</text:p>
+      <text:p text:style-name="BodyEDrop">O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -209,7 +209,7 @@
       <text:p text:style-name="BodyLDrop">EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who liveth.</text:p>
+      <text:p text:style-name="BodyEDrop">O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -222,10 +222,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Angelus Dómini * nuntiávit Maríæ, et concépit de Spíritu Sancto, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ángelus Dómini * nuntiávit Maríæ, et concépit de Spíritu Sancto, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The angel of the Lord * declared unto Mary, and she conceived by the Holy Spirit, alleluia.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The Angel of the Lord * declared unto Mary, and she conceived by the Holy Spirit, alleluia.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -252,7 +252,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Antequam convenírent, * invénta est María habens in útero de Spíritu Sancto, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ántequam convenírent, * invénta est María habens in útero de Spíritu Sancto, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Before they came together, * Mary was found with child, of the Holy Ghost, alleluia.</text:p>
@@ -360,7 +360,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ex Ægypto * vocávi Fílium meum: véniet, ut salvet pópulum suum.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ex Ægýpto * vocávi Fílium meum: véniet, ut salvet pópulum suum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Out of Egypt * have I called my Son: he shall come to save his people.</text:p>
@@ -400,10 +400,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">EXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit et regnat.</text:p>
+      <text:p text:style-name="BodyLDrop">EXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">STIR up our hearts, O Lord, to prepare the ways of thy Only-begotten Son, that we may attain to serve thee with purified minds, through his advent. Who liveth and reigneth with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">STIR up our hearts, O Lord, to prepare the ways of thy Only-begotten Son, that we may attain to serve thee with purified minds, through his advent. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -585,10 +585,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">EXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit et regnat.</text:p>
+      <text:p text:style-name="BodyLDrop">EXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">STIR up our hearts, O Lord, to prepare the ways of thy Only-begotten Son, that we may attain to serve thee with purified minds, through his advent. Who liveth and reigneth with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">STIR up our hearts, O Lord, to prepare the ways of thy Only-begotten Son, that we may attain to serve thee with purified minds, through his advent. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -663,10 +663,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ecce ego mitto * Angelum meum, qui præparábit viam meam ante fáciem tuam.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ecce ego mitto * Ángelum meum, qui præparábit viam meam ante fáciem tuam.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Behold I send * my angel, who shall prepare my way before thy face.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Behold I send * my Angel, who shall prepare my way before thy face.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -778,7 +778,7 @@
       <text:p text:style-name="BodyLDrop">AUREM tuam, quæsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras grátia tuæ visitatiónis illústra: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">INCLINE thine ear to our prayers, we beseech thee, O Lord, and brighten the darkness of our minds by the grace of thy visitation. Who live.</text:p>
+      <text:p text:style-name="BodyEDrop">INCLINE thine ear to our prayers, we beseech thee, O Lord, and brighten the darkness of our minds by the grace of thy visitation. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -955,7 +955,7 @@
       <text:p text:style-name="BodyLDrop">AUREM tuam, quæsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras grátia tuæ visitatiónis illústra: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">INCLINE thine ear to our prayers, we beseech thee, O Lord, and brighten the darkness of our minds by the grace of thy visitation. Who live.</text:p>
+      <text:p text:style-name="BodyEDrop">INCLINE thine ear to our prayers, we beseech thee, O Lord, and brighten the darkness of our minds by the grace of thy visitation. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1040,10 +1040,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Missus est Gábriel * Angelus ad Maríam Vírginem desponsátam Joseph.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Missus est Gábriel * Ángelus ad Maríam Vírginem desponsátam Joseph.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The angel Gabriel * was sent to Mary, a virgin espoused to Joseph.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The Angel Gabriel * was sent to Mary, a virgin espoused to Joseph.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1102,7 +1102,7 @@
       <text:p text:style-name="BodyLDrop">EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: ut hi, qui in tua pietáte confídunt, ab omni cítius adversitáte liberéntur: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">ROUSE, thy power, we beseech thee, O Lord, and come: that they who trust in thy goodness may be the sooner freed from all adversity. Who live.</text:p>
+      <text:p text:style-name="BodyEDrop">ROUSE, thy power, we beseech thee, O Lord, and come: that they who trust in thy goodness may be the sooner freed from all adversity. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1144,7 +1144,7 @@
       <text:p text:style-name="BodyLDrop">DEUS, qui cónspicis, quia ex nostra pravitáte afflígimur: concéde propítius; ut ex tua visitatióne consolémur: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O GOD, you see that we are afflicted because of our iniquity; have pity, and grant that we may be comforted by thy visitation. Who live.</text:p>
+      <text:p text:style-name="BodyEDrop">O GOD, you see that we are afflicted because of our iniquity; have pity, and grant that we may be comforted by thy visitation. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1154,7 +1154,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Quómodo fiet istud, * Angele Dei, quóniam virum non cognósco? Audi, María Virgo: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Quómodo fiet istud, * Ángele Dei, quóniam virum non cognósco? Audi, María Virgo: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>O thou Angel of God, * how shall this be, seeing I know not a man? Hear, O Virgin Mary! the Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee!</text:p>
@@ -1289,10 +1289,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ecce compléta sunt * ómnia, quæ dicta sunt per Angelum de Vírgine María.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ecce compléta sunt * ómnia, quæ dicta sunt per Ángelum de Vírgine María.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Behold, all things are fulfilled, * which were spoken by the angel concerning the Virgin Mary.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Behold, all things are fulfilled, * which were spoken by the Angel concerning the Virgin Mary.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1329,7 +1329,7 @@
       <text:p text:style-name="BodyLDrop">EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">STIR UP thy power, we beseech thee, O Lord, and come, and succor us with great might, that, by the help of thy grace, what is hindered by our sins, may be hastened by the bounty of thy mercy. Who live.</text:p>
+      <text:p text:style-name="BodyEDrop">STIR UP thy power, we beseech thee, O Lord, and come, and succor us with great might, that, by the help of thy grace, what is hindered by our sins, may be hastened by the bounty of thy mercy. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1481,7 +1481,7 @@
       <text:p text:style-name="BodyLDrop">EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">STIR UP thy power, we beseech thee, O Lord, and come, and succor us with great might, that, by the help of thy grace, what is hindered by our sins, may be hastened by the bounty of thy mercy. Who live.</text:p>
+      <text:p text:style-name="BodyEDrop">STIR UP thy power, we beseech thee, O Lord, and come, and succor us with great might, that, by the help of thy grace, what is hindered by our sins, may be hastened by the bounty of thy mercy. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1568,10 +1568,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui nos redemptiónis nostræ ánnua exspectatióne lætíficas: præsta; ut Unigénitum tuum, quem Redemptórem læti suscípimus, veniéntem quoque Júdicem secúri videámus, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui nos redemptiónis nostræ ánnua exspectatióne lætíficas: præsta; ut Unigénitum tuum, quem Redemptórem læti suscípimus, veniéntem quoque Júdicem secúri videámus, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O GOD, who gladden us by the annual expectation of our redemption, grant that we who now joyfully welcome thy Only-begotten Son as our Redeemer, may also, without fear, behold him coming as our Judge, even the same Lord Jesus Christ Thy Son. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">O GOD, who gladden us by the annual expectation of our redemption, grant that we who now joyfully welcome thy Only-begotten Son as our Redeemer, may also, without fear, behold him coming as our Judge, even the same Lord Jesus Christ Thy Son. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1596,7 +1596,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Hódie sciétis * quia véniet Dóminus: et mane videbitis glóriam ejus.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Hódie sciétis * quia véniet Dóminus: et mane vidébitis glóriam ejus.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>This day ye shall know * that the Lord cometh: and in the morning, then ye shall see His glory.</text:p>
@@ -2059,7 +2059,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Angelus ad pastóres * ait: Annúntio vobis gáudium magnum: quia natus est vobis hódie Salvátor mundi, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Ángelus ad pastóres * ait: Annúntio vobis gáudium magnum: quia natus est vobis hódie Salvátor mundi, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 3. </text:span>The Angel said unto the Shepherds: * I bring you tidings of great joy; for, this day, is born unto you the Saviour of the world, alleluia.</text:p>
@@ -2067,10 +2067,10 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 4. </text:span>Facta est cum Angelo * multitúdo cæléstis exércitus laudántium Deum, et dicéntium: Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 4. </text:span>Facta est cum Ángelo * multitúdo cæléstis exércitus laudántium Deum, et dicéntium: Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 4. </text:span>With the angel * was a multitude of the heavenly army, praising God and saying: Glory to God in the highest; and on earth, peace to men of good will, alleluia.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 4. </text:span>With the Angel * was a multitude of the heavenly army, praising God and saying: Glory to God in the highest; and on earth, peace to men of good will, alleluia.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -2279,7 +2279,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Angeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</text:p>
@@ -2305,10 +2305,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempitérne Deus, dírige actus nostros in beneplácito tuo: ut in nómine dilécti Fílii tui mereámur bonis opéribus abundáre: Qui tecum vivit et regnat.</text:p>
+      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempitérne Deus, dírige actus nostros in beneplácito tuo: ut in nómine dilécti Fílii tui mereámur bonis opéribus abundáre: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">ALMIGHTY and everlasting God, direct our actions according to thy good pleasure; that we may deserve to abound in good works, in the name of thy beloved Son. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">ALMIGHTY and everlasting God, direct our actions according to thy good pleasure; that we may deserve to abound in good works, in the name of thy beloved Son. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -2496,10 +2496,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DA nobis, quæsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalítia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum, Fílium tuum: Qui tecum vivit et regnat.</text:p>
+      <text:p text:style-name="BodyLDrop">DA nobis, quæsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalítia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum, Fílium tuum: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">GRANT us, we beseech thee, O Lord, so to imitate what we revere, that we may learn to love even our enemies; for we celebrate the heavenly birthday of him who knew how to pray for his very persecutors to our Lord, Jesus Christ, Thy Son. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">GRANT us, we beseech thee, O Lord, so to imitate what we revere, that we may learn to love even our enemies; for we celebrate the heavenly birthday of him who knew how to pray for his very persecutors to our Lord, Jesus Christ, Thy Son. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -2758,7 +2758,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Angeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</text:p>
@@ -3019,7 +3019,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Angeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</text:p>
@@ -3087,10 +3087,10 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Angeli eórum * semper vident fáciem Patris.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Ángeli eórum * semper vident fáciem Patris.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 3. </text:span>Their angels * always see the face of the Father.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 3. </text:span>Their Angels * always see the face of the Father.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -3280,7 +3280,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Angeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</text:p>
@@ -3502,7 +3502,7 @@
       <text:p text:style-name="BodyLDrop">DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri præmia præstitísti: tríbue, quæsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O GOD, who by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee, that we may continually feel the might of her intercession, through whom we have worthily received the Author of life, our Lord Jesus Christ, thy Son. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">O GOD, who by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee, that we may continually feel the might of her intercession, through whom we have worthily received the Author of life, our Lord Jesus Christ, thy Son. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -3517,8 +3517,8 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Verbum caro factum est, allelúia.</text:p>
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et habitávit in nobis, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Verbum caro factum est, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et habitávit in nobis, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The Word was made flesh, alleluia.</text:p>
@@ -4348,7 +4348,7 @@
       <text:p text:style-name="BodyLDrop">DÓMINE, Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O LORD Jesus Christ, by subjecting thyself to Mary and Joseph, you consecrated family life with wonderful virtues; grant that, by their joint assistance, we may fashion our lives after the example of thy Holy Family, and obtain everlasting fellowship with it. Who liveth.</text:p>
+      <text:p text:style-name="BodyEDrop">O LORD Jesus Christ, by subjecting thyself to Mary and Joseph, you consecrated family life with wonderful virtues; grant that, by their joint assistance, we may fashion our lives after the example of thy Holy Family, and obtain everlasting fellowship with it. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -4374,10 +4374,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Angelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Ángelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>The angel of the Lord * appeared to Joseph in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>The Angel of the Lord * appeared to Joseph in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -5146,10 +5146,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Maniféste magnum est * pietátis sacraméntum, quod manifestátum est in carne, justificátum est in spíritu, appáruit Angelis, prædicátum est Géntibus, créditum est in mundo, assúmptum est in glória, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Maniféste magnum est * pietátis sacraméntum, quod manifestátum est in carne, justificátum est in spíritu, appáruit Ángelis, prædicátum est Géntibus, créditum est in mundo, assúmptum est in glória, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Evidently great is * the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Evidently great is * the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto Angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -5192,7 +5192,7 @@
       <text:p text:style-name="BodyLDrop">DEUS, cujus Unigénitus in substántia nostræ carnis appáruit: præsta, quæsumus; ut per eum, quem símilem nobis foris agnóvimus, intus reformári mereámur: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O GOD, whose Only-begotten Son appeared in the substance of our flesh, grant, we beseech thee, that by him, in whom outwardly we recognize our likeness, we may deserve to be inwardly created anew. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">O GOD, whose Only-begotten Son appeared in the substance of our flesh, grant, we beseech thee, that by him, in whom outwardly we recognize our likeness, we may deserve to be inwardly created anew. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -5255,7 +5255,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempiterne Deus, qui cæléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempitérne Deus, qui cæléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">ALMIGHTY and eternal God, you govern all things in heaven and on earth; in thy mercy hear the supplication of thy people, and grant thy peace in our times. Through our Lord.</text:p>
@@ -5330,7 +5330,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Cum descendísset Jesus * de monte, ecce leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre: et exténdens manum, tetigit eum, dicens: Volo, mundáre.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Cum descendísset Jesus * de monte, ecce leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre: et exténdens manum, tétigit eum, dicens: Volo, mundáre.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>when Jesus was come down * from the mountain, behold a leper came and adored him, saying: Lord, if thou wilt, thou canst make me clean: and stretching forth his hand, touched him, saying: I will, be thou made clean.</text:p>
@@ -5591,7 +5591,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 1. </text:span>Miserére * mei, Deus, et a delícto meo munda me: quia tibi soli peccavi.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 1. </text:span>Miserére * mei, Deus, et a delícto meo munda me: quia tibi soli peccávi.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 1. </text:span>Have mercy * on me, O God, and cleanse me from my sin, for to thee only have I sinned.</text:p>
@@ -5702,7 +5702,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">OMNIS autem, qui in agóne contendit, ab ómnibus se ábstinet: et illi quidem ut corruptíbilem corónam accípiant, nos autem incorrúptam.</text:p>
+      <text:p text:style-name="BodyLDrop">OMNIS autem, qui in agóne conténdit, ab ómnibus se ábstinet: et illi quidem ut corruptíbilem corónam accípiant, nos autem incorrúptam.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -6227,11 +6227,11 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">FRATRES: Si linguis hóminum loquar et Angelórum, caritátem autem non hábeam, factus sum velut æs sonans, aut cymbalum tínniens.</text:p>
+      <text:p text:style-name="BodyLDrop">FRATRES: Si linguis hóminum loquar et Angelórum, caritátem autem non hábeam, factus sum velut æs sonans, aut cýmbalum tínniens.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">BRETHREN: If I speak with the tongues of men, and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.</text:p>
+      <text:p text:style-name="BodyEDrop">BRETHREN: If I speak with the tongues of men, and of Angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.</text:p>
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Thanks be to God.</text:p>
      </table:table-cell>
     </table:table-row>
@@ -6243,7 +6243,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Pater fídei nostræ * Abraham summus, óbtulit holocáustum super altáre pro fílio.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Pater fídei nostræ * Ábraham summus, óbtulit holocáustum super altáre pro fílio.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The father of our faith, * the mighty Abraham, offered a burnt offering on the altar for his son.</text:p>
@@ -6295,10 +6295,10 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Omnes Angeli * ejus, laudáte Dóminum de cælis.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Omnes Ángeli * ejus, laudáte Dóminum de cælis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 5. </text:span>All his angels, * praise ye the Lord from the heavens.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 5. </text:span>All his Angels, * praise ye the Lord from the heavens.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -6559,7 +6559,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Dómine, * puer meus jacet paralyticus in domo, et male torquétur: Amen dico tibi, ego véniam, et curábo eum.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Dómine, * puer meus jacet paralýticus in domo, et male torquétur: Amen dico tibi, ego véniam, et curábo eum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>“Lord, * my servant lieth at home sick of the palsy, and is grieviously tormented.” “Amen, I say unto thee, I will come and heal him.”</text:p>
@@ -7013,7 +7013,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Intrávit Jesus * in templum Dei, et ejíciébat omnes vendéntes et eméntes: et mensas nummulariórum, et cáthedras vendéntium colúmbas evértit.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Intrávit Jesus * in templum Dei, et ejiciébat omnes vendéntes et eméntes: et mensas nummulariórum, et cáthedras vendéntium colúmbas evértit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Jesus went * into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the money changers, and the chairs of them that sold doves.</text:p>
@@ -7195,10 +7195,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Angelus Dómini * descendébat de cælo, et movebátur aqua, et sanabátur unus.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ángelus Dómini * descendébat de cælo, et movebátur aqua, et sanabátur unus.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>An angel of the Lord * descended from heaven and the water was moved, and one was made whole.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>An Angel of the Lord * descended from heaven and the water was moved, and one was made whole.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -7499,7 +7499,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Visiónem quam vidistis, * némini dixéritis donec a mórtuis resúrgat Fílius hóminis.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Visiónem quam vidístis, * némini dixéritis donec a mórtuis resúrgat Fílius hóminis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Tell the vision that you have seen * no man, till the Son of man be risen from the dead.</text:p>
@@ -7559,7 +7559,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">ADESTO supplicatiónibus nostris, omnípotens Deus: et, quibus fidúciam sperándæ pietátis indúlges; consuétæ misericórdiæ tríbue benígnus efféctum. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">ADÉSTO supplicatiónibus nostris, omnípotens Deus: et, quibus fidúciam sperándæ pietátis indúlges; consuétæ misericórdiæ tríbue benígnus efféctum. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GIVE heed to our supplications, O Almighty God, and as thou dost give us to look with confidence for thy favor for which we hope, so grant us, in thy goodness, the manifestation of thine accustomed mercy. Through our Lord.</text:p>
@@ -7590,7 +7590,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">PERFICE, quæsumus, Dómine, benígnus in nobis observántiæ sanctæ subsídium: ut, quæ te auctóre faciénda cognóvimus, te operánte impleámus. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">PÉRFICE, quæsumus, Dómine, benígnus in nobis observántiæ sanctæ subsídium: ut, quæ te auctóre faciénda cognóvimus, te operánte impleámus. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">ENABLE us, we beseech thee, O Lord, to carry to a perfect end this holy and helpful observance, that what we know we must do by thy ordinance we may be helped to do by thy strength. Through our Lord.</text:p>
@@ -7619,7 +7619,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">PROPITIÁRE, Dómine, supplicatiónibus nostris, et animárum nostrárum medére languóribus: ut, remissióne percépta, in tua semper benedictióne lætémur. Per Domimum.</text:p>
+      <text:p text:style-name="BodyLDrop">PROPITIÁRE, Dómine, supplicatiónibus nostris, et animárum nostrárum medére languóribus: ut, remissióne percépta, in tua semper benedictióne lætémur. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">LEND thy merciful ears, O Lord, unto our supplications, and heal the sickness of our souls, that we, receiving thy pardon, may rejoice for ever in thy blessing. Through our Lord.</text:p>
@@ -8313,7 +8313,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">SUBJÉCTUM tibi pópulum, quæsumus, Dómine propitiátio cæléstis amplificet: et tuis semper fáciat servire mandátis. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">SUBJÉCTUM tibi pópulum, quæsumus, Dómine propitiátio cæléstis amplíficet: et tuis semper fáciat servíre mandátis. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">LET THY divine pardon, we beseech thee, O Lord, flow bountifully upon thy people bowed down before thee, and make them to be ever obedient to thy commandments. Through our Lord.</text:p>
@@ -8446,7 +8446,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">FRATRES: Scriptum est, quóniam Abraham duos fílios hábuit: unum de ancílla, et unum de líbera: sed qui de ancílla, secúndum carnem natus est: qui autem de líbera, per repromissiónem: quæ sunt per allegoríam dicta.</text:p>
+      <text:p text:style-name="BodyLDrop">FRATRES: Scriptum est, quóniam Ábraham duos fílios hábuit: unum de ancílla, et unum de líbera: sed qui de ancílla, secúndum carnem natus est: qui autem de líbera, per repromissiónem: quæ sunt per allegoríam dicta.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -9022,7 +9022,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">FRATRES: Christus assístens Póntifex futurórum bonórum, per ámplius et perfectius tabernáculum non manu factum, id est, non hujus creatiónis: neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta.</text:p>
+      <text:p text:style-name="BodyLDrop">FRATRES: Christus assístens Póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manu factum, id est, non hujus creatiónis: neque per sánguinem hircórum aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -9076,7 +9076,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Judicásti, Dómine, * causam ánimæ meæ, defensor vitæ meæ, Dómine Deus meus.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 3. </text:span>Judicásti, Dómine, * causam ánimæ meæ, defénsor vitæ meæ, Dómine Deus meus.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 3. </text:span>Thou hast judged, O Lord, * the cause of my soul, thou the Redeemer of my life.</text:p>
@@ -9223,7 +9223,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Abraham pater vester * exsultávit ut vidéret diem meum: vidit, et gavísus est.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ábraham pater vester * exsultávit ut vidéret diem meum: vidit, et gavísus est.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Abraham, your father * rejoiced that he might see my day: he saw it, and was glad.</text:p>
@@ -9283,7 +9283,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DA, QUÆSUMUS, Dómine, pópulo tuo salútem mentis et córporis: ut bonis opéribus inhæréndo, tua semper mereátur protectióne defendi. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">DA, QUÆSUMUS, Dómine, pópulo tuo salútem mentis et córporis: ut bonis opéribus inhæréndo, tua semper mereátur protectióne deféndi. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GRANT unto thy people, we beseech thee, O Lord, health both of mind and body, that they, ever cleaving unto good works may under thy shadow be ever worthily defended. Through our Lord.</text:p>
@@ -9404,7 +9404,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">ADESTO supplicatiónibus nostris, omnípotens Deus: et, quibus fidúciam sperándæ pietátis indúlges, consuétæ misericórdiæ tríbue benígnus efféctum. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">ADÉSTO supplicatiónibus nostris, omnípotens Deus: et, quibus fidúciam sperándæ pietátis indúlges, consuétæ misericórdiæ tríbue benígnus efféctum. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GRACIOUSLY hear our prayers, O Almighty God, and as thou dost give us to look with confidence for thy favour, so grant us in thy goodness the manifestation of thine accustomed mercy. Through our Lord.</text:p>
@@ -9581,7 +9581,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempiterne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere, et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta, et resurrectiónis consórtia mereámur. Per eúmdem Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere, et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta, et resurrectiónis consórtia mereámur. Per eúmdem Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">ALMIGHTY and everlasting God, who willed that our Savior should take upon himself our flesh, and suffer on the Cross, that all mankind might have his example of humility for their imitation: grant that we may merit both to keep in mind the lesson of his patience, and to be made partakers of his Resurrection. Through the same.</text:p>
@@ -9660,10 +9660,10 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 4. </text:span>Cum Angelis * et púeris fidéles inveniámur, triumphatóri mortis clamántes: Hosánna in excélsis.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 4. </text:span>Cum Ángelis * et púeris fidéles inveniámur, triumphatóri mortis clamántes: Hosánna in excélsis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 4. </text:span>With the angels * and men in faith go we to meet the Redeemer, hailing the Slayer of death with joyful shouts: “Hosanna in the highest.”</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 4. </text:span>With the Angels * and men in faith go we to meet the Redeemer, hailing the Slayer of death with joyful shouts: “Hosanna in the highest.”</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -9827,10 +9827,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DA, quæsumus, omnípotens Deus: ut, qui in tot advérsis ex nostra infirmitáte defícimus; intercedénte unigéniti Fílii tui passióne respirémus: Qui tecum vivit et regnat.</text:p>
+      <text:p text:style-name="BodyLDrop">DA, quæsumus, omnípotens Deus: ut, qui in tot advérsis ex nostra infirmitáte defícimus; intercedénte unigéniti Fílii tui passióne respirémus: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">GRANT, we beseech thee, O Almighty God, that we who fail through our weakness in so many difficulties, may be relieved through the pleading of the Passion of thy Only-begotten Son. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">GRANT, we beseech thee, O Almighty God, that we who fail through our weakness in so many difficulties, may be relieved through the pleading of the Passion of thy Only-begotten Son. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -9948,10 +9948,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">PRÆSTA, quæsumus, omnípotens Deus: ut, qui nostris excéssibus incessánter afflígimur, per unigéniti Fílii tui passiónem liberémur: Qui tecum vivit et regnat.</text:p>
+      <text:p text:style-name="BodyLDrop">PRÆSTA, quæsumus, omnípotens Deus: ut, qui nostris excéssibus incessánter afflígimur, per unigéniti Fílii tui passiónem liberémur: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">GRANT, we beseech thee, O Almighty God, that we, who are continually afflicted through our excesses and sins, may be delivered by the Passion of thy Only-begotten Son. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">GRANT, we beseech thee, O Almighty God, that we, who are continually afflicted through our excesses and sins, may be delivered by the Passion of thy Only-begotten Son. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -9977,10 +9977,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">RÉSPICE, quæsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum: Qui tecum vivit et regnat.</text:p>
+      <text:p text:style-name="BodyLDrop">RÉSPICE, quæsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">LOOK down, we beseech thee, O Lord, on this thy family, for which our Lord Jesus Christ did not hesitate to be delivered up into the hands of wicked men, and to suffer the torment of the Cross. Who with thee.</text:p>
+      <text:p text:style-name="BodyEDrop">LOOK down, we beseech thee, O Lord, on this thy family, for which our Lord Jesus Christ did not hesitate to be delivered up into the hands of wicked men, and to suffer the torment of the Cross. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -10375,7 +10375,7 @@
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyLDrop">CONCÉDE, quæsumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; ejúsdem resurrectiónis glóriam consequámur.</text:p>
       <text:p text:style-name="Rubric">Et sub silentio concluditur:</text:p>
-      <text:p text:style-name="BodyL">Per eúndem Dóminum.</text:p>
+      <text:p text:style-name="BodyL">Per eúmdem Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GRANT, we beseech thee, O Almighty God: that we who anticipate the resurrection of thy Son with pious expectation, may obtain the glory of the same resurrection.</text:p>
@@ -10575,7 +10575,7 @@
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyLDrop">CONCÉDE, quæsumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; ejúsdem resurrectiónis glóriam consequámur.</text:p>
       <text:p text:style-name="Rubric">Et sub silentio concluditur:</text:p>
-      <text:p text:style-name="BodyL">Per eúndem Dóminum.</text:p>
+      <text:p text:style-name="BodyL">Per eúmdem Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GRANT, we beseech thee, O Almighty God: that we who anticipate the resurrection of thy Son with pious expectation, may obtain the glory of the same resurrection.</text:p>
@@ -10601,7 +10601,7 @@
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
       <text:p text:style-name="BodyLDrop">CONCÉDE, quæsumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; ejúsdem resurrectiónis glóriam consequámur.</text:p>
       <text:p text:style-name="Rubric">Et sub silentio concluditur:</text:p>
-      <text:p text:style-name="BodyL">Per eúndem Dóminum.</text:p>
+      <text:p text:style-name="BodyL">Per eúmdem Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GRANT, we beseech thee, O Almighty God: that we who anticipate the resurrection of thy Son with pious expectation, may obtain the glory of the same resurrection.</text:p>
@@ -10633,7 +10633,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Allelúia, allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Allelúja, allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Alleluia, alleluia, alleluia</text:p>
@@ -10647,7 +10647,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Allelúia, allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Allelúja, allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Alleluia, alleluia, alleluia</text:p>
@@ -10675,10 +10675,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">SPÍRITUM nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concórdes. Per Dóminum...in unitáte ejústem Spíritus Sancti.</text:p>
+      <text:p text:style-name="BodyLDrop">SPÍRITUM nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concórdes. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">POUR forth upon us, O Lord, the Spirit of Thy love, that those whom thou hast filled with the Easter sacraments may, by thy goodness, be of one mind. Through our Lord.</text:p>
+      <text:p text:style-name="BodyEDrop">POUR forth upon us, O Lord, the Spirit of Thy love, that those whom thou hast filled with the Easter sacraments may, by thy goodness, be of one mind. Through our Lord...in the unity of the same Holy Spirit.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -10692,10 +10692,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 1. </text:span>Angelus autem Dómini * descéndit de cælo, et accédens revólvit lápidem, et sedébat super eum, allelúja, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 1. </text:span>Ángelus autem Dómini * descéndit de cælo, et accédens revólvit lápidem, et sedébat super eum, allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 1. </text:span>An angel of the Lord * descended from heaven, and coming, rolled back the stone, and sat upon it, alleluia, alleluia.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 1. </text:span>An Angel of the Lord * descended from heaven, and coming, rolled back the stone, and sat upon it, alleluia, alleluia.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -10705,10 +10705,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Et ecce terræmótus * factus est magnus: Angelus enim Dómini descéndit de cælo, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Et ecce terræmótus * factus est magnus: Ángelus enim Dómini descéndit de cælo, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>And behold there was a great earthquake: * for an angel of the Lord descended from heaven, alleluia.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>And behold there was a great earthquake: * for an Angel of the Lord descended from heaven, alleluia.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -10729,10 +10729,10 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Respóndens autem Angelus, * dixit muliéribus: Nolíte timére: scio enim quod Jesum quæritis, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 5. </text:span>Respóndens autem Ángelus, * dixit muliéribus: Nolíte timére: scio enim quod Jesum quæritis, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 5. </text:span>And the angel answering, * said to the women: Fear not you; for I know that you seek Jesus who was crucified, alleluia.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 5. </text:span>And the Angel answering, * said to the women: Fear not you; for I know that you seek Jesus who was crucified, alleluia.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -10771,7 +10771,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die per Unigénitum tuum, æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ prævéniéndo aspíras, étiam adjuvándo proséquere. Per eúmdem Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die per Unigénitum tuum, æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere. Per eúmdem Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O GOD, who on this day, through thy Only-begotten Son, overcame death, and opened to us the gate of everlasting life: as by thy anticipating grace, thou breathest good desires into our hearts, so also, by thy gracious help, bring them to good effect. Through the same.</text:p>
@@ -10830,7 +10830,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die per Unigénitum tuum, æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ prævéniéndo aspíras, étiam adjuvándo proséquere. Per eúmdem Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die per Unigénitum tuum, æternitátis nobis áditum devícta morte reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere. Per eúmdem Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O GOD, who on this day, through thy Only-begotten Son, overcame death, and opened to us the gate of everlasting life: as by thy anticipating grace, thou breathest good desires into our hearts, so also, by thy gracious help, bring them to good effect. Through the same.</text:p>
@@ -11029,10 +11029,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>María stabat * ad monuméntum plorans, et vidit duos Angelis in albis, sedéntes, et sudárium quod fúerat super caput Jesu, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>María stabat * ad monuméntum plorans, et vidit duos Ángelis in albis, sedéntes, et sudárium quod fúerat super caput Jesu, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>But Mary stood * at the sepulchre weeping, and she saw two angels in white, sitting, And the napkin that had been about the head of Jesus, alleluia.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>But Mary stood * at the sepulchre weeping, and she saw two Angels in white, sitting, And the napkin that had been about the head of Jesus, alleluia.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -11060,7 +11060,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempiterne Deus, qui paschále sacraméntum in reconciliatiónis humánæ fœdere contulísti: da méntibus nostris; ut, quod professióne celebrámus, imitémur efféctu. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">OMNÍPOTENS sempitérne Deus, qui paschále sacraméntum in reconciliatiónis humánæ fœdere contulísti: da méntibus nostris; ut, quod professióne celebrámus, imitémur efféctu. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O ALMIGHTY and eternal God, in the Easter sacrament thou instituted the covenant, whereby thou forgavest mankind; grant to our souls, that what we outwardly profess we may show forth in our deeds. Through our Lord.</text:p>
@@ -11074,7 +11074,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Undecim discípuli * in Galilæa vidéntes Dóminum adoravérunt, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Úndecim discípuli * in Galilæa vidéntes Dóminum adoravérunt, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The eleven disciples, * in Galilee, seeing the Lord, adored, alleluia.</text:p>
@@ -11413,7 +11413,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Venérunt ad monuméntum * María Magdalene, et áltera María, vidére sepúlcrum, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Venérunt ad monuméntum * María Magdaléne, et áltera María, vidére sepúlcrum, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>There came to the tomb * Mary Magdalene and the other Mary, to see the sepulchre, alleluia.</text:p>
@@ -11427,7 +11427,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Post dies octo * jánuis clausis ingréssus Dóminus dixit eis: Pax vobis, allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Post dies octo * jánuis clausis ingréssus Dóminus dixit eis: Pax vobis, allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>After eight days, * the doors being shut, the Lord entered and said: Peace be to you, alleluia, alleluia.</text:p>
@@ -11726,7 +11726,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Nonne sic opórtuit * pati Christum, et ita intrare in glóriam suam? allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Nonne sic opórtuit * pati Christum, et ita intráre in glóriam suam? allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Ought not Christ * to have suffered these things, and so to enter into his glory? alleluia.</text:p>
@@ -11740,7 +11740,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ego sum pastor bonus, * qui pasco oves meas, et pro óvibus meis pono ánimam meam, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ego sum pastor bonus, * qui pasco oves meas, et pro óvibus meis pono ánimam meam, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>I am the good shepherd, * who feed my sheep, and I lay down my life for my sheep, alleluia.</text:p>
@@ -11768,7 +11768,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári. Per Dóminum nostrum.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O GOD, to those who go astray, you display the light of thy truth that they may return into the way of righteousness; grant to all those who profess themselves Christians, both to avoid the things which are contrary to that name, and to follow those which are agreeable thereto. Through our Lord.</text:p>
@@ -11785,7 +11785,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">CARÍSSIMI: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam.</text:p>
+      <text:p text:style-name="BodyLDrop">CARÍSSIMI: Óbsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -11847,7 +11847,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">SERVI, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dyscolis. Hæc est enim grátia in Christo Jesu Dómino nostro.</text:p>
+      <text:p text:style-name="BodyLDrop">SERVI, súbditi estóte in omni timóre dóminis, non tantum bonis et modéstis, sed étiam dýscolis. Hæc est enim grátia in Christo Jesu Dómino nostro.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -11867,7 +11867,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">CARÍSSIMI: Obsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam.</text:p>
+      <text:p text:style-name="BodyLDrop">CARÍSSIMI: Óbsecro vos tamquam ádvenas et peregrínos abstinére vos a carnálibus desidériis, quæ mílitant advérsus ánimam.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -11898,7 +11898,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári. Per Dóminum nostrum.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O GOD, to those who go astray, you display the light of thy truth that they may return into the way of righteousness; grant to all those who profess themselves Christians, both to avoid the things which are contrary to that name, and to follow those which are agreeable thereto. Through our Lord.</text:p>
@@ -12289,7 +12289,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Spíritus * carnem et ossa non habet, sicut me vidétis habére: jam credite, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Spíritus * carnem et ossa non habet, sicut me vidétis habére: jam crédite, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>A spirit * hath not flesh and bones, as you see me to have: now believe, alleluia.</text:p>
@@ -12453,7 +12453,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">QUI autem perspéxerit in legem perféctam libertátis, et permánserit in ea, non audítor obliviósus factus, sed factor operis: hic beátus in facto suo erit.</text:p>
+      <text:p text:style-name="BodyLDrop">QUI autem perspéxerit in legem perféctam libertátis, et permánserit in ea, non audítor obliviósus factus, sed factor óperis: hic beátus in facto suo erit.</text:p>
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
@@ -12925,7 +12925,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de ejus semper consolatióne gaudére. Per Dóminum... in unitáte ejúsdem Spíritus Sancti Deus.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de ejus semper consolatióne gaudére. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O GOD, who on this day by the light of the Holy Spirit taught the hearts of the faithful, grant us by the same Spirit to relish what is right, and always to rejoice in his comfort. Through our Lord...in the unity of the same Holy Spirit.</text:p>
@@ -13084,7 +13084,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Spíritus Dómini replévit orbem terrárum, * Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Spíritus Dómini replévit orbem terrárum, * Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The Spirit of the Lord hath filled the whole world, * Alleluia, alleluia.</text:p>
@@ -13108,7 +13108,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Alleluia, alleluia.</text:p>
@@ -13132,7 +13132,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Spíritus Paráclitus, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Spíritus Paráclitus, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The Spirit, the Paraclete, alleluia.</text:p>
@@ -13140,7 +13140,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Docébit vos ómnia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Docébit vos ómnia, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Will teach you all things, alleluia.</text:p>
@@ -13173,7 +13173,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Spíritus Paráclitus, * Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Spíritus Paráclitus, * Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The Spirit, the Paraclete, * Alleluia, alleluia.</text:p>
@@ -13197,7 +13197,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Alleluia, alleluia.</text:p>
@@ -13286,7 +13286,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúia, allelúia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Allelúja, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Alleluia, alleluia.</text:p>
@@ -13310,7 +13310,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Loquebántur váriis linguis Apóstoli, alleluia.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Loquebántur váriis linguis Apóstoli, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>The Apostles spoke with divers tongues, alleluia.</text:p>
@@ -13355,7 +13355,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui Apóstolis tuis Sanctum dedísti Spíritum: concéde plebi tuæ piæ petitiónis efféctum; ut, quibus dedísti fidem, largiáris et pacem. Per Dóminum... in unitáte ejúsdem Spíritus Sancti.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui Apóstolis tuis Sanctum dedísti Spíritum: concéde plebi tuæ piæ petitiónis efféctum; ut, quibus dedísti fidem, largiáris et pacem. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O GOD, who gave the Holy Spirit to thy Apostles, grant to thy people the effect of their devout prayers, that on those who whom you have given faith, you may also bestow peace. Through our Lord...in the unity of the same Holy Spirit.</text:p>
@@ -13400,7 +13400,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">ADSIT nobis, quæsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum... in unitáte ejúsdem Spíritus Sancti.</text:p>
+      <text:p text:style-name="BodyLDrop">ADSIT nobis, quæsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">WE BESEECH thee, O Lord, let the power of the Holy Spirit be always with us; let it mercifully purify our hearts, and safeguard us from all harm. Through our Lord...in the unity of the same Holy Spirit.</text:p>
@@ -13445,10 +13445,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">MENTES nostras, quæsumus, Dómine, Paráclitus, qui a te procédit, illúminet: et indúcat in omnem, sicut tuus promísit Fílius, veritátem: Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus.</text:p>
+      <text:p text:style-name="BodyLDrop">MENTES nostras, quæsumus, Dómine, Paráclitus, qui a te procédit, illúminet: et indúcat in omnem, sicut tuus promísit Fílius, veritátem: Qui tecum vivit.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">MAY the Comforter, who proceeds from thee, enlighten our minds, we beseech thee, O Lord, and guide us, as thy Son has promised, into all truth. who with thee lives and reigns in the unity of the same Holy Spirit.</text:p>
+      <text:p text:style-name="BodyEDrop">MAY the Comforter, who proceeds from thee, enlighten our minds, we beseech thee, O Lord, and guide us, as thy Son has promised, into all truth. Who liveth.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -13490,7 +13490,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de ejus semper consolatióne gaudére. Per Dóminum... in unitáte ejúsdem Spíritus Sancti Deus.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui hodiérna die corda fidélium Sancti Spíritus illustratióne docuísti: da nobis in eódem Spíritu recta sápere; et de ejus semper consolatióne gaudére. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">O GOD, who on this day by the light of the Holy Spirit taught the hearts of the faithful, grant us by the same Spirit to relish what is right, and always to rejoice in his comfort. Through our Lord...in the unity of the same Holy Spirit.</text:p>
@@ -13535,7 +13535,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DA, QUÆSUMUS, Ecclésiæ tuæ, miséricors Deus: ut Sancto Spíritu congregáta, hostíli nullátenus incursióne turbétur. Per Dóminum... in unitáte ejúsdem Spíritus.</text:p>
+      <text:p text:style-name="BodyLDrop">DA, QUÆSUMUS, Ecclésiæ tuæ, miséricors Deus: ut Sancto Spíritu congregáta, hostíli nullátenus incursióne turbétur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GRANT to thy Church, we beseech thee, O merciful God, that, being gathered together in the Holy Spirit, she may in no way be troubled by any hostile attacks. Through our Lord...in the unity of the same Holy Spirit.</text:p>
@@ -13549,7 +13549,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Dixit Jesus: * Ut sciátis autem quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, ait paralytico: Tibi dico, surge: tolle lectum tuum, et vade in domum tuam, allelúja.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Dixit Jesus: * Ut sciátis autem quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, ait paralýtico: Tibi dico, surge: tolle lectum tuum, et vade in domum tuam, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Jesus said: * But that you may know that the Son of man hath power on earth to forgive sins, he saith to the sick of the palsy, I say to thee, Arise, take up thy bed, and go into thy house, alleluia.</text:p>
@@ -13580,7 +13580,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">MÉNTIBUS nostris, quæsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur. Per Dóminum... in unitáte ejúsdem Spíritus.</text:p>
+      <text:p text:style-name="BodyLDrop">MÉNTIBUS nostris, quæsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">DEIGN, we beseech thee, O Lord, to pour forth thy Holy Spirit into our souls, by whose wisdom we were created, and by whose providence we are governed. Through our Lord...in the unity of the same Holy Spirit.</text:p>
@@ -13672,7 +13672,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Grátias * tibi Deus, grátias tibi, vera et una Trínitas, una et summa Déitas, sancta et una Unitas.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Grátias * tibi Deus, grátias tibi, vera et una Trínitas, una et summa Déitas, sancta et una Únitas.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Thanks be * to thee, O God, thanks be unto thee, O True and One Trinity, O One Almighty Deity, Holy and One Unity.</text:p>
@@ -14098,10 +14098,10 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">DEUS, qui nobis sub Sacraménto mirábili passiónis tuæ memóriam reliquísti: tríbue, quæsumus, ita nos córporis, et sánguinis tui sacra mystéria venerári; ut redemptiónis tuæ fructum in nobis júgiter sentiámus: Qui vivis et regnas.</text:p>
+      <text:p text:style-name="BodyLDrop">DEUS, qui nobis sub Sacraménto mirábili passiónis tuæ memóriam reliquísti: tríbue, quæsumus, ita nos córporis, et sánguinis tui sacra mystéria venerári; ut redemptiónis tuæ fructum in nobis júgiter sentiámus: Qui vivis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">O GOD, under a marvelous sacrament you have left us the memorial of thy Passion; grant us, we beseech thee, so to venerate the sacred mysteries of thy Body and Blood, that we may ever perceive within us the fruit of thy Redemption. Who liveth and reigneth.</text:p>
+      <text:p text:style-name="BodyEDrop">O GOD, under a marvelous sacrament you have left us the memorial of thy Passion; grant us, we beseech thee, so to venerate the sacred mysteries of thy Body and Blood, that we may ever perceive within us the fruit of thy Redemption. Who livest.</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -14295,7 +14295,7 @@
       <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Angelórum esca * nutrivísti pópulum tuum, et panem de cælo præstitísti eis, allelúja.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>Thou didst feed * thy people with the food of angels, and gavest them bread from heaven, alleluia.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>Thou didst feed * thy people with the food of Angels, and gavest them bread from heaven, alleluia.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -14389,7 +14389,7 @@
       <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Panem Angelórum manducávit homo.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Man ate the bread of angels.</text:p>
+      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Man ate the bread of Angels.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -14645,7 +14645,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">SANCTI nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia numquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis. Per Dóminum nostrum.</text:p>
+      <text:p text:style-name="BodyLDrop">SANCTI nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia numquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GRANT, O Lord, that we may have a constant fear and love of thy holy name; for you never cease to direct and govern by thy grace those whom you solidly establish in thy love. Through our Lord.</text:p>
@@ -15501,7 +15501,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Obsecro, Dómine, * aufer iniquitátem servi tui, quia insipiénter egi.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Óbsecro, Dómine, * aufer iniquitátem servi tui, quia insipiénter egi.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>I beseech thee, O Lord, * take away the iniquity of thy servant, for I have done foolishly.</text:p>
@@ -15850,7 +15850,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Obsecro, Dómine: * meménto, quæso, quómodo ambuláverim coram te in veritáte et in corde perfécto et quod plácitum est coram te fécerim.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Óbsecro, Dómine: * meménto, quæso, quómodo ambuláverim coram te in veritáte et in corde perfécto et quod plácitum est coram te fécerim.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>I beseech thee, O Lord, * remember how I have walked before thee in truth, and with a perfect heart, and have done that which is pleasing before thee.</text:p>
@@ -16073,6 +16073,7 @@
    <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics128" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
             </draw:frame></text:h>
    <text:p text:style-name="BodySm"/>
+<text:p text:style-name="BkHidden"><text:bookmark text:name="SeptEmber"/></text:p>
    <text:p text:style-name="Head2">Feria Quarta</text:p>
    <text:p text:style-name="Head3">II classis, Quatuor Temporum Septembris</text:p>
    <text:p text:style-name="Rubric">Preces are said at Lauds and Vespers.</text:p>
@@ -16388,7 +16389,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Qui cælórum * cóntines thronum, et abyssos intuéris, Dómine, Rex regum, montes pónderas, terram palmo conclúdis: exáudi nos, Dómine, in gemítibus nostris.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Qui cælórum * cóntines thronum, et abýssos intuéris, Dómine, Rex regum, montes pónderas, terram palmo conclúdis: exáudi nos, Dómine, in gemítibus nostris.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>O Thou containest the circuit of the heavens, * and beholdest the depths, O Lord, King of kings, that weighest the mountains, that holdest the the earth in the palm of thy hand: graciously hear, O Lord, our groanings.</text:p>
@@ -16542,7 +16543,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">CUSTODI, Dómine, quæsumus, Ecclésiam tuam propitiatióne perpétua: et quia sine te lábitur humána mortálitas; tuis semper auxíliis et abstrahátur a nóxiis, et ad salutária dirigátur. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">CUSTÓDI, Dómine, quæsumus, Ecclésiam tuam propitiatióne perpétua: et quia sine te lábitur humána mortálitas; tuis semper auxíliis et abstrahátur a nóxiis, et ad salutária dirigátur. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">PROTECT, we beseech thee, O Lord, thy Church with thy perpetual mercy, and because without thee human frailty goes astray, may we be ever withheld by thy grace from what is hurtful, and directed to what is profitable. Through our Lord.</text:p>
@@ -16785,7 +16786,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Dixit Dóminus * paralytico: Confíde, fili, remittúntur peccáta tua.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Dixit Dóminus * paralýtico: Confíde, fili, remittúntur peccáta tua.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The Lord said * to the man sick of the palsy: Be of good heart, son, thy sins are forgiven.</text:p>
@@ -16801,7 +16802,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Tulit ergo * paralyticus lectum suum, in quo jacébat, magníficans Deum: et omnis plebs, ut vidit, dedit laudem Deo.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Tulit ergo * paralýticus lectum suum, in quo jacébat, magníficans Deum: et omnis plebs, ut vidit, dedit laudem Deo.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Therefore he took up * his bed on which he lay, glorifying God: And all the people, when they saw it, gave praise to God.</text:p>
@@ -16934,7 +16935,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">FAMILIAM tuam, quæsumus, Dómine, contínua pietáte custódi: ut a cunctis adversitátibus, te protegénte, sit líbera; et in bonis áctibus tuo nómini sit devóta. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">FAMÍLIAM tuam, quæsumus, Dómine, contínua pietáte custódi: ut a cunctis adversitátibus, te protegénte, sit líbera; et in bonis áctibus tuo nómini sit devóta. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">GUARD thy household, we beseech thee, O Lord, with continued goodness; that, through thy protection, it may be free from all adversities, and by good works be devoted to thy name. Through our Lord.</text:p>
@@ -17046,7 +17047,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">ABSÓLVE, quæsumus, Dómine, tuórum delícta populórum: ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, tua benignitáte líberémur. Per Dóminum.</text:p>
+      <text:p text:style-name="BodyLDrop">ABSÓLVE, quæsumus, Dómine, tuórum delícta populórum: ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, tua benignitáte liberémur. Per Dóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEDrop">ABSOLVE thy people from their offenses, we beseech thee, O Lord; that through thy bountiful goodness we may be delivered from the bonds of sin, which through our frailty we have contracted. Through our Lord.</text:p>

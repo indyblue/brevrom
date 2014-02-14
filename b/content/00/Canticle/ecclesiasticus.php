@@ -29,7 +29,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Alleva manum tuam super gentes aliénas, * ut vídeant poténtiam tuam.</text:p>
+      <text:p text:style-name="BodyLIndent">Álleva manum tuam super gentes aliénas, * ut vídeant poténtiam tuam.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Lift up thy hand over the strange nations, * that they may see thy power.</text:p>
@@ -53,7 +53,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Innova signa, et immúta mirabília. * Glorífica manum, et bráchium dextrum.</text:p>
+      <text:p text:style-name="BodyLIndent">Ínnova signa, et immúta mirabília. * Glorífica manum, et bráchium dextrum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Renew thy signs, and work new miracles. * Glorify thy hand, and thy right arm.</text:p>
@@ -61,7 +61,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Excita furórem, et effúnde iram. * Tolle adversárium, et afflíge inimícum.</text:p>
+      <text:p text:style-name="BodyLIndent">Éxcita furórem, et effúnde iram. * Tolle adversárium, et afflíge inimícum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Raise up indignation, and pour out wrath. * Take away the adversary, and crush the enemy.</text:p>

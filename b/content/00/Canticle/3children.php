@@ -13,7 +13,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Benedícite, Angeli Dómini, Dómino: * benedícite, cæli, Dómino.</text:p>
+      <text:p text:style-name="BodyLIndent">Benedícite, Ángeli Dómini, Dómino: * benedícite, cæli, Dómino.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">O ye angels of the Lord, bless the Lord: * O ye heavens, bless the Lord: </text:p>
@@ -141,7 +141,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Benedícite, Ananía, Azaría, Mísael, Dómino: * laudáte et superexaltáte eum in sæcula.</text:p>
+      <text:p text:style-name="BodyLIndent">Benedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte eum in sæcula.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">O Ananias, Azarias, and Misael, bless ye the Lord: * praise and exalt him above all for ever.</text:p>
@@ -149,7 +149,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent"><text:span text:style-name="Rubric">(Fit reverentia:)</text:span></text:p>
+      <text:p text:style-name="BodyLIndent"><text:span text:style-name="Rubric">(Fit reveréntia:)</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent"><text:span text:style-name="Rubric">(All bow:)</text:span></text:p>

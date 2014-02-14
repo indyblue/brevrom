@@ -28,7 +28,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Quærite Dóminum, et confírmámini: * quærite fáciem ejus semper.</text:p>
+      <text:p text:style-name="BodyLIndent">Quærite Dóminum, et confirmámini: * quærite fáciem ejus semper.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Seek ye the Lord, and be strengthened: * seek his face evermore.</text:p>
@@ -44,7 +44,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Semen Abraham, servi ejus: * fílii Jacob, elécti ejus.</text:p>
+      <text:p text:style-name="BodyLIndent">Semen Ábraham, servi ejus: * fílii Jacob, elécti ejus.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">O ye seed of Abraham his servant; * ye sons of Jacob his chosen.</text:p>
@@ -68,7 +68,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Quod dispósuit ad Abraham: * et juraménti sui ad Isaac:</text:p>
+      <text:p text:style-name="BodyLIndent">Quod dispósuit ad Ábraham: * et juraménti sui ad Isaac:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Which he made to Abraham; * and his oath to Isaac:</text:p>

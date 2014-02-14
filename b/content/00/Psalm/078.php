@@ -36,7 +36,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Usquequo, Dómine, irascéris in finem: * accendétur velut ignis zelus tuus?</text:p>
+      <text:p text:style-name="BodyLIndent">Úsquequo, Dómine, irascéris in finem: * accendétur velut ignis zelus tuus?</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">How long, O Lord, wilt thou be angry for ever: * shall thy zeal be kindled like a fire?</text:p>
@@ -68,7 +68,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: * et propítius esto peccátis nostris, propter nomen tuum:</text:p>
+      <text:p text:style-name="BodyLIndent">Ádjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: * et propítius esto peccátis nostris, propter nomen tuum:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Help us, O God, our saviour: and for the glory of thy name, O Lord, deliver us: * and forgive us our sins for thy name&apos;s sake:</text:p>

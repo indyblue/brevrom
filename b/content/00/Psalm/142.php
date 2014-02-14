@@ -84,7 +84,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Eripe me de inimícis meis, Dómine, ad te confúgi: * doce me fácere voluntátem tuam, quia Deus meus es tu.</text:p>
+      <text:p text:style-name="BodyLIndent">Éripe me de inimícis meis, Dómine, ad te confúgi: * doce me fácere voluntátem tuam, quia Deus meus es tu.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Deliver me from my enemies, O Lord, to thee have I fled: * teach me to do thy will, for thou art my God.</text:p>

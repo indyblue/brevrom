@@ -1,0 +1,2 @@
+Cum pervenísset * beátus Andreas ad locum, ubi crux paráta erat, exclamávit et dixit: O bona crux, diu desideráta, et jam concupiscénti ánimo præparáta: secúrus et gaudens vénio ad te, ita et tu exsúltans suscípias me discípulum ejus, qui pepéndit in te.
+When the blessed Andrew * had come to the place where the cross was prepared, he cried out and said: O good cross, long desired, and now made ready for my longing soul! with great confidence and joy I come unto thee; do thou then with gladness receive me, the disciple of him who hung upon thee.

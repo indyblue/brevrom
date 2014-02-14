@@ -44,7 +44,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Ecce, audívimus eam in Ephrata: * invénimus eam in campis silvæ.</text:p>
+      <text:p text:style-name="BodyLIndent">Ecce, audívimus eam in Éphrata: * invénimus eam in campis silvæ.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Behold we have heard of it in Ephrata: * we have found it in the fields of the wood.</text:p>

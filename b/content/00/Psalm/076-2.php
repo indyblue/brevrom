@@ -36,7 +36,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Etenim sagíttæ tuæ tránseunt: * vox tonítrui tui in rota.</text:p>
+      <text:p text:style-name="BodyLIndent">Étenim sagíttæ tuæ tránseunt: * vox tonítrui tui in rota.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">For thy arrows pass: * the voice of thy thunder in a wheel.</text:p>

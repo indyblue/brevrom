@@ -990,6 +990,8 @@
 <?php psalm('115.php'); ?>
 <text:p text:style-name="BkHidden"><text:bookmark text:name="Ps131"/></text:p>
 <?php psalm('131.php'); ?>
+<text:p text:style-name="BkHidden"><text:bookmark text:name="Ps137"/></text:p>
+<?php psalm('137.php'); ?>
 <text:p text:style-name="BkHidden"><text:bookmark text:name="Ps147"/></text:p>
 <?php psalm('147.php'); ?>
    <text:p text:style-name="P191"/>
@@ -4203,7 +4205,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 8. </text:span>Immola Deo * sacrifícium laudis.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 8. </text:span>Ímmola Deo * sacrifícium laudis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 8. </text:span>Offer to God * the sacrifice of praise.</text:p>
@@ -4217,7 +4219,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Immola Deo sacrifícium laudis.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ímmola Deo sacrifícium laudis.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Offer to God the sacrifice of praise.</text:p>
@@ -5443,7 +5445,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Immíttet Angelus Dómini * in circúitu timéntium eum: et erípiet eos.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Immíttet Ángelus Dómini * in circúitu timéntium eum: et erípiet eos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The Angel of the Lord shall encamp * round about them that fear him: and shall deliver them.</text:p>
@@ -5459,7 +5461,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Immíttet Angelus Dómini in circúitu timéntium eum: et erípiet eos.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Immíttet Ángelus Dómini in circúitu timéntium eum: et erípiet eos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>The Angel of the Lord shall encamp round about them that fear him: and shall deliver them.</text:p>
@@ -7010,7 +7012,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 7. </text:span>Adjuva nos, * Deus, salutáris noster: et propítius esto peccátis nostris. </text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 7. </text:span>Ádjuva nos, * Deus, salutáris noster: et propítius esto peccátis nostris. </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 7. </text:span>Help us, * O God, our saviour: and forgive us our sins.</text:p>
@@ -7024,7 +7026,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Adjuva nos, Deus, salutáris noster: et propítius esto peccátis nostris. </text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ádjuva nos, Deus, salutáris noster: et propítius esto peccátis nostris. </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 7. </text:span>Help us, * O God, our saviour: and forgive us our sins.</text:p>
@@ -7032,7 +7034,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 8. </text:span>Ego sum Dóminus * Deus tuus, Israël, qui edúxi te de terra Ægypti. </text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 8. </text:span>Ego sum Dóminus * Deus tuus, Israël, qui edúxi te de terra Ægýpti. </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 8. </text:span>For I am the Lord * thy God, O Israel, who brought thee out of the land of Egypt.</text:p>
@@ -7046,7 +7048,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ego sum Dóminus Deus tuus, Israël, qui edúxi te de terra Ægypti. </text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Ego sum Dóminus Deus tuus, Israël, qui edúxi te de terra Ægýpti. </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>For I am the Lord thy God, O Israel, who brought thee out of the land of Egypt.</text:p>
@@ -7109,7 +7111,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Eripe me * de inimícis meis, Dómine: ad te confúgi.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant 2. </text:span>Éripe me * de inimícis meis, Dómine: ad te confúgi.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant 2. </text:span>Deliver me * from my enemies. O Lord, to thee have I fled.</text:p>
@@ -7123,7 +7125,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Eripe me de inimícis meis, Dómine: ad te confúgi.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Éripe me de inimícis meis, Dómine: ad te confúgi.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Deliver me from my enemies. O Lord, to thee have I fled.</text:p>
@@ -7790,7 +7792,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Excita, Dómine, * poténtiam tuam, ut salvos fácias nos.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Éxcita, Dómine, * poténtiam tuam, ut salvos fácias nos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Stir up, O Lord, * thy might, and come to save us.</text:p>
@@ -7806,7 +7808,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Excita, Dómine, poténtiam tuam, ut salvos fácias nos.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Éxcita, Dómine, poténtiam tuam, ut salvos fácias nos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>Stir up, O Lord, thy might, and come to save us.</text:p>
@@ -9598,7 +9600,7 @@
     <table:table-column table:style-name="TableParallel.B"/>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Suscépit Deus * Israël, púerum suum: sicut locútus est ad Abraham, et semen ejus usque in sæculum.</text:p>
+      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant. </text:span>Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sæculum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant. </text:span>God hath received * Israel his servant, being mindful of his mercy: as he spoke to our fathers, to Abraham and to his seed for ever.</text:p>

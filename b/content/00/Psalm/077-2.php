@@ -28,7 +28,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Coram pátribus eórum fecit mirabília in terra Ægypti: * in campo Táneos.</text:p>
+      <text:p text:style-name="BodyLIndent">Coram pátribus eórum fecit mirabília in terra Ægýpti: * in campo Táneos.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Wonderful things did he do in the sight of their fathers, in the land of Egypt, * in the field of Tanis.</text:p>
@@ -52,7 +52,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Interrúpit petram in erémo: * et adaquávit eos velut in abysso multa.</text:p>
+      <text:p text:style-name="BodyLIndent">Interrúpit petram in erémo: * et adaquávit eos velut in abýsso multa.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">He struck the rock in the wilderness: * and gave them to drink, as out of the great deep.</text:p>

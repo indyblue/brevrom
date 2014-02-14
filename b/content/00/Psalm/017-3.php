@@ -76,7 +76,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Eripe me de contradictiónibus pópuli: * constítues me in caput géntium.</text:p>
+      <text:p text:style-name="BodyLIndent">Éripe me de contradictiónibus pópuli: * constítues me in caput géntium.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Thou wilt deliver me from the contradictions of the people; * thou wilt make me head of the Gentiles.</text:p>

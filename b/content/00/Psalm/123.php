@@ -44,7 +44,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Anima nostra sicut passer erépta est * de láqueo venántium:</text:p>
+      <text:p text:style-name="BodyLIndent">Ánima nostra sicut passer erépta est * de láqueo venántium:</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Our soul hath been delivered as a sparrow * out of the snare of the fowlers.</text:p>

@@ -44,7 +44,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Oblíti sunt Deum, qui salvávit eos, * qui fecit magnália in Ægypto, mirabília in terra Cham: terribília in Mari Rubro.</text:p>
+      <text:p text:style-name="BodyLIndent">Oblíti sunt Deum, qui salvávit eos, * qui fecit magnália in Ægýpto, mirabília in terra Cham: terribília in Mari Rubro.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">They forgot God, who saved them, * who had done great things in Egypt, wondrous works in the land of Cham: terrible things in the Red Sea.</text:p>

@@ -100,7 +100,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Etenim Dóminus dabit benignitátem: * et terra nostra dabit fructum suum.</text:p>
+      <text:p text:style-name="BodyLIndent">Étenim Dóminus dabit benignitátem: * et terra nostra dabit fructum suum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">For the Lord will give goodness: * and our earth shall yield her fruit.</text:p>

@@ -36,7 +36,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Oculi Dómini super justos: * et aures ejus in preces eórum.</text:p>
+      <text:p text:style-name="BodyLIndent">Óculi Dómini super justos: * et aures ejus in preces eórum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">The eyes of the Lord are upon the just: * and his ears unto their prayers.</text:p>

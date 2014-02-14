@@ -36,7 +36,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Oculi ejus in páuperem respíciunt: * pálpebræ ejus intérrogant fílios hóminum.</text:p>
+      <text:p text:style-name="BodyLIndent">Óculi ejus in páuperem respíciunt: * pálpebræ ejus intérrogant fílios hóminum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">His eyes look on the poor man: * his eyelids examine the sons of men.</text:p>

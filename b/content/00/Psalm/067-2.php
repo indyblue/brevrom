@@ -68,7 +68,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Etenim non credéntes, * inhabitáre Dóminum Deum.</text:p>
+      <text:p text:style-name="BodyLIndent">Étenim non credéntes, * inhabitáre Dóminum Deum.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
       <text:p text:style-name="BodyEIndent">Yea for those also that do not believe, * the dwelling of the Lord God.</text:p>
