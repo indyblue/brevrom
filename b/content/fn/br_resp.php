@@ -232,8 +232,10 @@ function br_divide($pieces,$PT) {
 	
 	if($first[0] == $second[0]) {
 		$split = mb_split('\s',$ret[1],2);
-		$ret[0] .= ' '. $split[0];
-		$ret[1] = $split[1];
+		if(count($split)>1) {
+			$ret[0] .= ' '. $split[0];
+			$ret[1] = $split[1];
+		}
 	}
 	$i = mb_strlen($ret[0])-1;
 	if(mb_ereg_match('\W',mb_substr($ret[0],$i))) {

@@ -511,7 +511,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 					$prL = explode(' ',$prL[1]);
 					$prC = explode(' ',$prC[1]);
 					for($i=1;$i<count($prL);$i++) {
-						if($prL[0]!=$prC[0] & strlen($prL[0])>4) break;
+						if(trimP($prL[0])!=trimP($prC[0]) & strlen($prL[0])>4) break;
 						$prL[0] .= ' '. $prL[$i];
 						$prC[0] .= ' '. $prC[$i];
 					}
@@ -522,7 +522,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 					$prE = explode(' ',$prE[1]);
 					$prC = explode(' ',$prC[1]);
 					for($i=1;$i<count($prE);$i++) {
-						if($prE[0]!=$prC[0] & strlen($prE[0])>4) break;
+						if(trimP($prE[0])!=trimP($prC[0]) & strlen($prE[0])>4) break;
 						$prE[0] .= ' '. $prE[$i];
 						$prC[0] .= ' '. $prC[$i];
 					}

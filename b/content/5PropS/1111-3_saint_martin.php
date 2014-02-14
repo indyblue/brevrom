@@ -25,6 +25,7 @@
 	lc('ecclus44_16.php','csCBVlc','h','iste_confessor_domini_colentes.php');
 	vrS('justum_deduxit_dominus_per_vias_rectas.php');
 	ant('prSanct/1111m.php','M');
+	rubp('Oratio <snr>Deus</s>, ut supra.','Prayer <snr>O God</s>, as above.');
 	rubrics('prSanct/ComplineFeria.php');
 
 ?>

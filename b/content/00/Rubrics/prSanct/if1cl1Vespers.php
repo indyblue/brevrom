@@ -1,1 +1,4 @@
-   <p:RubricH>Said if the feast is celebrated as a Feast of the first class</p>
+<?php
+	rubp('Sicubi festum celebratur gradu I classis',
+		'If this is celebrated as a I class feast');
+?>

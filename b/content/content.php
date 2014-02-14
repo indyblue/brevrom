@@ -102,15 +102,16 @@ require '7App/index.php';
 // */
 
 // Monastic Stuff
-/*
+//*
 $_GET['Style'] = 'custom';
 $_GET['PgW'] = 8.5;
 $_GET['PgH'] = 11;
 $_GET['PgMar'] = .75;
 $_GET['PgGMar'] = .75;
 $_GET['BodyFont'] = 12;
-space('PgH');
-require '2MonPsalter/1sunday.php';
+space('Pg');
+//require '2MonPsalter/1sunday.php';
+require '2MonPsalter/6friday_sext.php';
 // */
 
 /*
@@ -120,7 +121,7 @@ require '7App/7_dolours.php';
 // require '7App/zzz_st_joseph.php';
 // */
 
-//*
+/*
 bklist('test');
 $_GET['long'] = 1;
 space('PgB');

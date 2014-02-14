@@ -32,7 +32,7 @@ feast_saint(1116,3,'Sanctæ Gertrudis','Saint Gertrude','V');
 
 feast_saint(1117,3,'S. Gregorii Thaumaturgi','St. Gregory Thaumaturgus','EC',array('csConfessorBishop1.php','Gregórii','Gregory'));
 
-feast_saint(1118,3,'in Dedicatione Basilicarum Ss. Petri et Pauli','Dedication of the Basilicas of Ss. Peter and Paul','^',1);
+feast_saint(1118,3,'in Dedicatione Basilicarum Ss. Petri et Pauli','Dedication of the Basilicas of Ss. Peter and Paul','^','csChurchAnniversary1.php');
 
 feast_saint(1119,3,'Sanctæ Elisabeth','Saint Elizabeth','W',0,
 	"feast_saint(1119,-1,'S. Pontiani','St. Pontianus','PM',array('csPope1m.php','Pontiánum','Pontianus'));");

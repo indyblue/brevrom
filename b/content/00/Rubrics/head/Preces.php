@@ -1,7 +1,8 @@
-   <p:Head<?php 
-echo ($_GET['O']+$link>0?'2':'3') . '>';
-if ($_GET['L']==1)
-	echo 'Preces';
-else
-   echo 'Preces (Prayers)';
-?></p>
+<?php
+	if(array_key_exists('O',$_GET))
+		$O = $_GET['O'];
+	else $O = 0;
+
+	head('Preces','Prayers',($O+$link>0?'2':'3'));
+?>
+

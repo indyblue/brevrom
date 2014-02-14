@@ -8,6 +8,7 @@
 	rubrics('prSanct/all2Vespers.php');
 	vrS('prSanct/data_est_mihi_omnis_potestas.php');
 	ant('prSanct/10CTKm1.php','M');
+	rubp('Et non fit com. dominicæ occurrentis.','Commem. is not made of the Sunday.');
 	rubrics('prSanct/ComplineSun.php');
 	space();
 
@@ -22,10 +23,12 @@
 	ant('prSanct/10CTKb.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/10CTK.php');
+	rubp('Et non fit com. dominicæ occurrentis.','Commem. is not made of the Sunday.');
 	space();
 
 	csref(0,3);
 	PrV('qui_primatum_in_omnibus_tenes.php');
+	space();
 
 	hour('T');
 	lc('col1_12.php');
@@ -56,5 +59,6 @@
 	ant('prSanct/10CTKm2.php','M');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/10CTK.php');
+	rubp('Et non fit com. dominicæ occurrentis.','Commem. is not made of the Sunday.');
 	rubrics('prSanct/ComplineSun.php');
 ?>

@@ -15,6 +15,7 @@
 	rubp('<snr>Pater noster</s>, quod dicitur totum secreto.', '<snr>Pater noster</s>, all of which is said silently.',1);
 	rubp('<snr>56</s> Cum Completorium dicitur tamquam ultima precatio in fine diei, <snr>Pater noster</s> hoc loco dicendum omittitur, et ejus loco, in choro et in communi, fit examen conscientiæ per rationabile tempus protractum: quod confenienter servatur etiam in recitatione a solo.', '<snr>56</s> When Compline is said as the last prayer at the end of the day, the <snr>Pater noster</s> is not said and in its place, in choir and in common, an examination of conscience of reasonable length is made; which may also be observed in recitation alone.');
 	space('Line');
+	bookmark('confiteor');
 	rubp('<snr>57</s> Post <snr>Pater noster</s>, vel post examen conscientiæ, hebdomadarius facit confessionem, ut infra, et ubi dicitur: <snr>tibi, pater</s>, et <snr>te, pater</s>, dicat: <snr>vobis, fratres</s>, et <snr>vos, fratres</s>.', '<snr>57</s> After the <snr>Pater noster</s>, or after the examination of conscience, the Officiant makes his confession, as below, but instead of <snr>tibi, pater</s>, et <snr>te, pater</s>, say <snr>vobis, fratres</s>, et <snr>vos, fratres</s>.');
 	space();
 	rubp('Chorus respondet:','Choir responds:',1);

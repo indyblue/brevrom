@@ -13,7 +13,7 @@
 	ant('prSanct/1123b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('csPope1m.php','Cleméntem','Clement');
-	feast_saint(1123,-1,'S. Felicitatis','St. Felicitas','M');
+	feast_saint(1123,-1,'S. Felicitatis','St. Felicitas','HM');
 	space();
 
 	csref('csM',2,2);
@@ -21,9 +21,10 @@
 
 	hour('V');
 	rubrics('ps/antLauds.php');
-	rubrics('ps/ComBVM.php');
+	rubrics('ps/SuV115.php');
 	lc('jas1_12.php','csMVlc','h','deus_tuorum_militum.php');
 	vrS('justus_ut_palma_florebit.php');
 	ant('prSanct/1123m.php','M');
+	rubp('Oratio <snr>Gregem</s>, ut supra.','Prayer <snr>Look forgivingly</s>, as above.');
 	rubrics('prSanct/ComplineFeria.php');
 ?>

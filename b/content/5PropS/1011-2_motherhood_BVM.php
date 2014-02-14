@@ -20,13 +20,15 @@
 
 	csref();
 	PrV('qui_natus_es_de_maria_virgine.php');
+	space();
 	hour('T');
 	lc('ecclus24_12.php');
 	brS('specie_tua_et_pulcritudine_tua.php');
 	vrS('adjuvabit_eam_deus_vultu_suo.php');
 	space();
 
-	rubrics('prSanct/sext_none_from.php','csBVMS');
+	csref('csBVM',0,4);
+//	rubrics('prSanct/sext_none_from.php','csBVMS');
 	space();
 
 	hour('V');
