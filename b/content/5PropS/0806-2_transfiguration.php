@@ -26,8 +26,8 @@
 	ant('prSanct/0806b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0806.php');
-	feast_saint(806,-1,"Ss. Xysti II Papæ, Felicissimi et Agapiti",
-		"Ss. Sixtus II, Pope, Felicissimus and Agapitus","M+");
+	feast_saint(806,-1,"Ss. Xysti II [P], Felicissimi et Agapiti",
+		"Ss. Sixtus II [P], Felicissimus and Agapitus","M+");
 
 	space();
 	csref();

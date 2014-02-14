@@ -21,7 +21,7 @@ feast_saint(118,0,'Sanctæ Priscæ','Saint Prisca','VM');
 feast_saint(119,0,'Ss. Marii, Marthæ, Audifacis et Abachum','Ss. Marius, Martha, Audifax and Abachum','M+',0,
 	'feast_saint(119,-1,"Sancti Canuti","Saint Canute","KM");');
 
-feast_saint(120,3,'Ss. Fabiani, Papæ, et Sebastiani','Ss. Fabian, Pope, and Sebastian','M+');
+feast_saint(120,3,'Ss. Fabiani [P] et Sebastiani','Ss. Fabian, [P] and Sebastian','M+');
 
 require '0121-3_saint_agnes.php';
 

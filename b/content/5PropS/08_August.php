@@ -28,8 +28,8 @@ require '0809-3_vigil_laurence.php';
 
 require '0810-2_laurence.php';
 
-feast_saint(811,0,'Ss. Tiburtii et Susannæ, Virg.',
-	'Ss. Tiburtius and Susanna, Virg.','M+');
+feast_saint(811,0,'Ss. Tiburtii et Susannæ [V]',
+	'Ss. Tiburtius and Susanna [V]','M+');
 
 feast_saint(812,3,'Sanctæ Claræ','Saint Clare','V',
 	array('csVirgin1.php','Claræ','Clare'));

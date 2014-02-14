@@ -10,7 +10,7 @@ require '0501-1_joseph_worker.php';
 feast_saint(502,3,'Sancti Athanasii','Saint Athanasius','ECD',0,0,
 	array('Athanási','Athanasius'));
 
-feast_saint(503,0,'Ss. Alexandri, Eventii et Theoduli, Mm., ac Juvenalis, Ep. et Conf.','Ss. Alexander I., Eventius, Theodulus, Mm., and Juvenal, Bp., Conf.','-M+');
+feast_saint(503,0,'Ss. Alexandri I [P], Eventii et Theoduli [M], ac Juvenalis [EC]','Ss. Alexander I. [P], Eventius and Theodulus [M], with Juvenal [EC]','-M+');
 
 feast_saint(504,3,'Sanctæ Monicæ','Saint Monica','W');
 
@@ -27,7 +27,7 @@ feast_saint(510,3,'Sancti Antonini','Saint Antoninus','EC',0,
 
 require '0511-2_philip_james.php';
 
-feast_saint(512,3,'Ss. Nerei, Achillei, et Domitillæ, V., atque Pancratii','Ss. Nereus Achilleus, and Domitilla, V., and Pancratii','M+e');
+feast_saint(512,3,'Ss. Nerei, Achillei, et Domitillæ [V], atque Pancratii','Ss. Nereus Achilleus, and Domitilla [V], also Pancratii','M+e');
 
 feast_saint(513,3,'S. Roberti Bellarmino','St. Robert Bellarmine','ECD',0,0,
 	array('Robérte','Robert'));

@@ -25,7 +25,40 @@ Q (Reginæ)(Queen)
 U (Ducis)(Duke)
 I (Imperatoris)(Emperor)
 R (Archangeli) (Archangel)
+*/
 
+function constr_type($type,$lang) {
+	$Lcl = array( 'A' => 'Ap.', 'G' => 'Evang.', 
+		'M' => 'Mart.', 'P' => 'Papæ', 
+		'E' => 'Ep.', 'C' => 'Conf.', 'p' => 'Presbyt.', 'd' => 'Diaconi',
+		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virg.', 
+		'W' => 'Viduæ', 'K' => 'Regis', 'Q' => 'Reginæ', 
+		'I' => 'Imperatoris', 'U' => 'Ducis', 'R' => 'Archangeli');
+	$Ecl = array( 'A' => 'Ap.', 'G' => 'Evang.', 
+		'M' => 'Mart.', 'P' => 'Pope', 
+		'E' => 'Bp.', 'C' => 'Conf.', 'p' => 'Priest', 'd' => 'Deacon', 
+		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virg.', 
+		'W' => 'Widow', 'K' => 'King', 'Q' => 'Queen', 
+		'I' => 'Emperor', 'U' => 'Duke', 'R' => 'Archangel');
+
+	// $lang values:
+	// 1 = Latin
+	// 2 = English
+	if($lang==1) $arr = $Lcl;
+	else $arr = $Ecl;
+	
+	$ret = '';
+	for($i=0;$i<strlen($type);$i++) {
+		$tmp = substr($type,$i,1);
+		if($tmp=='-') $i++;
+		if(array_key_exists($tmp,$arr)) 
+			$ret .= (strlen($ret)?', ':'') . $arr[$tmp];
+	}	
+	return $ret;
+}
+
+
+/*
 ------------------------------
 Ash Wed Date Range: 2/4 - 3/10
 Easter Date Range: 3/22 - 4/25
@@ -64,12 +97,13 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 
 
 //  <p:Hidden1>' . $Edate . ' - ' .$nameE .'</p>
+//  <p:Head3>' . ($_GET['L']==1?$nameE:$nameL) .'</p>
 	hidden('Proper of Saints',1);
 	hidden($Edate);
 	echo '
   <p:Head1' . 
   ($class==1&&$class==2?'':'NI') . '>' . ($_GET['L']==1?$nameL:$nameE) .'</p>
-  <p:Head5>' . ($_GET['L']==1?$nameE:$nameL) .'</p>
+  <p:Head5>' . preg_replace('/<[^>]*>/','',($_GET['L']==1?$nameE:$nameL)) .'</p>
   <p:Head4>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Edate:$Edate) .'</p>
 ';
 
@@ -77,18 +111,6 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0, $ant=0) {
 
 	$long = $_GET['long'];
-
-	// arrays defining types/classifications: (case sensitive)
-	$Lcl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Papæ', 
-		'E' => 'Ep.', 'C' => 'Conf.', 'p' => 'Presbyt.', 'd' => 'Diaconi',
-		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virgin', 
-		'W' => 'Viduæ', 'K' => 'Regis', 'Q' => 'Reginæ', 
-		'I' => 'Imperatoris', 'U' => 'Ducis', 'R' => 'Archangeli');
-	$Ecl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Pope', 
-		'E' => 'Bp.', 'C' => 'Conf.', 'p' => 'Priest', 'd' => 'Deacon', 
-		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virgin', 
-		'W' => 'Widow', 'K' => 'King', 'Q' => 'Queen', 
-		'I' => 'Emperor', 'U' => 'Duke', 'R' => 'Archangel');
 
 	//has to be set before the date calculations
 	$pt = 0; $lent = 0; $advent = 0;
@@ -311,15 +333,34 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	}
 
 	// construct long form type
-	$Ltype = ''; $Etype = '';
-	for($i=0;$i<strlen($type);$i++) {
-		$tmp = substr($type,$i,1);
-		if($tmp=='-') $i++;
-		if(array_key_exists($tmp,$Lcl)) {
-			$Ltype .= (strlen($Ltype)?', ':'') . $Lcl[$tmp];
-			$Etype .= (strlen($Etype)?', ':'') . $Ecl[$tmp];
-		}
-	}	
+	$Ltype = constr_type($type,1);
+  	$Etype = constr_type($type,2);
+	
+	// format the saint names: (red "with/ac,and/et,also/atque"),
+	// also some feasts have multiple "types" of saints,
+	// (i.e. Seven Brothers, [M] with Ss. Rufina and Secunda, [VM])
+	// replace bracketed terms with long form
+	$nameL = preg_replace('/ (ac|et|atque) /',' <r>\1</s> ',$nameL);
+	$nameE = preg_replace('/ (with|and|also) /',' <r>\1</s> ',$nameE);
+	$nameL = preg_replace_callback('/\[[^\]]*\]/',
+		create_function('$matches','
+			return "<r>".constr_type($matches[0],1)."</s>";'),$nameL);
+	$nameE = preg_replace_callback('/\[[^\]]*\]/',
+		create_function('$matches','
+			return "<r>".constr_type($matches[0],1)."</s>";'),$nameE);
+/*
+	$nameE = preg_replace_callback('/\[[^\]]*\]/',
+		create_function('$matches','
+			global $Ecl; $repl = "";
+			trigger_error("first: ".$Ecl[0]." length:".count($Ecl));
+			for($i=0;$i<strlen($matches[0]);$i++) {
+				$tmp = substr($matches[0],$i,1);
+				if(array_key_exists($tmp,$Ecl))
+					$repl .= (strlen($repl)?", ":"") . $Ecl[$tmp];
+			}
+			return $repl;'),$nameE);
+ */
+
 	// var_dump($Ldate,$Ltype,$Etype,$cs);
 
 	// a negative class value signifies that this is a 
@@ -392,25 +433,38 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		}
 
 		// prayer
+		$pr_ret = '';
+		ob_start(); // start buffer
 		if(is_array($prayer)) {
 			if(count($prayer)<3)
 				trigger_error('Problem with prayer for '. $Edate
 					.' ('. $nameE .') ', E_USER_ERROR);
-			prayer($prayer[0],$prayer[1],$prayer[2]);
+			prayer($prayer[0],$prayer[1],$prayer[2],$pr_ret);
 		} elseif(is_string($prayer))
-			prayer($prayer);
+			prayer($prayer,'','',$pr_ret);
+		$prayer = ob_get_contents(); // assign buffer contents to variable
+		ob_end_clean(); // end buffer and remove buffer contents
+		echo $prayer;
+
+		// commemorations
 		if($advent && $class>0)
 			rubp('Et fit com. feriæ in Laudibus et in Vesperis',' And a commem. is made of the feria at Lauds and Vespers.');
 		if($lent && $class==2)
 			rubp('Et, tempore quadragesimali, fit com. feriæ in Laudibus et in Vesperis.', 'And, if in Lent, commem. is made of the feria at Lauds and Vespers.');
-		if($commem) 
+		if($commem) {
+			ob_start(); // start buffer
 			eval($commem);
+			$commem = ob_get_contents(); // assign buffer contents to variable
+			ob_end_clean(); // end buffer and remove buffer contents
+			echo $commem;
+		}
 
 		// if vespers is of the following, print note 
 		// and supress printing of v/r & ant for vespers.
 		if($vseq)
 			rubp('Vesperæ de sequenti.','Vespers of the following.');
 		else {
+			$use_pr_ref = false;
 			// vespers v/r & ant
 			// if long form or custom vespers...
 			// and it's not a commem...
@@ -435,6 +489,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 					if($Lant===$Vant) ant($Vant,'m');
 					else ant($Vant,'M',$pta);
 				}
+				if($commem!==0) $use_pr_ref = true;
 			} elseif($doct && is_array($ant)) {
 				if(count($ant)<2)
 					trigger_error('Problem with antiphon for '. $Edate
@@ -444,15 +499,43 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 					else vrS($Vvr,$pta,'V');
 					ant($Vant,'M',$pta,$ant[0],$ant[1]);
 				}
+				if($commem!==0) $use_pr_ref = true;
 			}
+
+			// if there is a commem., give prayer reference...
+			if($use_pr_ref) {
+				preg_match('/BodyLDrop>([^<]*)</',$prayer,$prL);
+				preg_match('/BodyLDrop>([^<]*)</',$commem,$prC);
+				$prL = explode(' ',$prL[1]);
+				$prC = explode(' ',$prC[1]);
+				for($i=1;$i<count($prL);$i++) {
+					if($prL[0]!=$prC[0] & strlen($prL[0])>4) break;
+					$prL[0] .= ' '. $prL[$i];
+					$prC[0] .= ' '. $prC[$i];
+				}
+				$prL = substr($pr_ret[0],0,strlen(trimP($prL[0])));
+
+				preg_match('/BodyEDrop>([^<]*)</',$prayer,$prE);
+				preg_match('/BodyEDrop>([^<]*)</',$commem,$prC);
+				$prE = explode(' ',$prE[1]);
+				$prC = explode(' ',$prC[1]);
+				for($i=1;$i<count($prE);$i++) {
+					if($prE[0]!=$prC[0] & strlen($prE[0])>4) break;
+					$prE[0] .= ' '. $prE[$i];
+					$prC[0] .= ' '. $prC[$i];
+				}
+				$prE = substr($pr_ret[1],0,strlen(trimP($prE[0])));
+				rubp('Oratio <snr>'.$prL.'</s>, ut supra.','Prayer <snr>'.$prE.'</s>, as above.');
+			}
+
 			if(0<$class && $class<=2) rubrics('prSanct/ComplineSun.php');
 		}
 	} else {
 		// this is the brief form of commemoration used if the above is negative.
 		// it will automatically insert the default V/R and Antiphon of Lauds 
 		// from the correct common.
-		rubp('Et fit com. '. $nameL .', '. $Ltype .':',
-			'Commem. is made of '. $nameE .', '. $Etype .':');
+		rubp('Et fit com. '. preg_replace('/<[^>]*>/','',$nameL) .', '. $Ltype .':',
+			'Commem. is made of '. preg_replace('/<[^>]*>/','',$nameE) .', '. $Etype .':');
 
 		if($pta==2 && strlen($LantP)>0) {
 			ant($LantP,'p',1);

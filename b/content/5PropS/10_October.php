@@ -12,7 +12,7 @@ feast_saint(1003,3,'S. Teresiæ a Jesu Infante','St. Theresa of the Child Jesus'
 
 feast_saint(1004,3,'Sancti Francisci','St. Francis of Assisi','C');
 
-feast_saint(1005,0,'Ss. Placidi et Sociorum','St. Placid and His Companions','M+',array('csMartyrs2.php','Plácidi et Sociórum','Placid and his companions'));
+feast_saint(1005,0,'Ss. Placidi et Sociorum','St. Placid and his Companions','M+',array('csMartyrs2.php','Plácidi et Sociórum','Placid and his companions'));
 
 feast_saint(1006,3,'Sancti Brunonis','Saint Bruno','C');
 
@@ -23,8 +23,8 @@ feast_saint(1008,3,'Sanctæ Birgittæ','Saint Bridget','W',0,
 
 
 feast_saint(1009,3,'S. Joannis Leonardi','St. John Leonard','C',0,
-	'feast_saint(1009,-1,"Ss. Dionysii Ep., Rustici et Eleutherii",
-			"St. Dionysius, Bp., Rusticus and Eleutherius","M+");');
+	'feast_saint(1009,-1,"Ss. Dionysii [E], Rustici et Eleutherii",
+			"St. Dionysius [E], Rusticus and Eleutherius","M+");');
 
 feast_saint(1010,3,'S. Francisci Borgiæ','St. Francis Borgia','C');
 

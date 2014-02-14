@@ -88,7 +88,7 @@ $_GET['matins'] = 1;
 // require 'z_hymns.php';
 // require 'z_psalms.php';
 
-//*
+/*
 require '0Intro/101_aperi.php';
 require '0Intro/105_sacrosancte.php';
 require '0Intro/110_collect.php';
@@ -120,7 +120,7 @@ require '7App/7_dolours.php';
 // require '7App/zzz_st_joseph.php';
 // */
 
-/*
+//*
 bklist('test');
 $_GET['long'] = 1;
 space('PgB');
@@ -131,8 +131,8 @@ space('PgB');
 // require '5PropS/03_March.php';
 // require '5PropS/04_April.php';
 // require '5PropS/05_May.php';
-require '5PropS/06_June.php';
-// require '5PropS/07_July.php';
+// require '5PropS/06_June.php';
+ require '5PropS/07_July.php';
 // require '5PropS/08_August.php';
 // require '5PropS/09_September.php';
 // require '5PropS/10_October.php';

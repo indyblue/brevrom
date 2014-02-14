@@ -1,5 +1,5 @@
 <?php
-function prayer($file, $nameL='', $nameE='') {
+function prayer($file, $nameL='', $nameE='', &$ret=0) {
 	$dir = $_GET['root'] . "/00/Prayer/";
 
 	$Lpieces = file_load($dir.$file);
@@ -47,6 +47,7 @@ function prayer($file, $nameL='', $nameE='') {
 		$L = str_replace('<sr>P.</s>','<sr>N.</s> et <sr>N.</s>',$L);
 		$E = str_replace('<sr>P.</s>','<sr>N.</s> and <sr>N.</s>',$E);
 	}
+	$ret = array($L,$E);
 	echo '<table><tr><td:A1>
 <p:BodyLDrop>'. caps_first_word($L) . $amen .'</p>
 </td><td:B1>

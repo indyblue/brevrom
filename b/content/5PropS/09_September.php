@@ -28,16 +28,16 @@ require '0914-2_exaltation_holy_cross.php';
 
 require '0915-2_seven_sorrows_BVM.php';
 
-feast_saint(916,3,'Ss. Cornelii, Papæ, et Cypriani, Ep.','Ss. Cornelius, Pope, and Cyprian, B.','M+',0,
-	"feast_saint(916,-1,'Ss. Euphemiæ Virg., Luciæ et Geminiani','Ss. Euphemia Virg., Lucy and Geminianus','M+');");
+feast_saint(916,3,'Ss. Cornelii [P], et Cypriani [E]','Ss. Cornelius [P], and Cyprian [E]','M+',0,
+	"feast_saint(916,-1,'Ss. Euphemiæ [V], Luciæ et Geminiani','Ss. Euphemia [V], Lucy and Geminianus','M+');");
 
 feast_saint(917,0,'Impressionis Sacror. Stigmatum S. Francisci','The Imprinting of the Stigmata of St. Francis','-C');
 
 feast_saint(918,3,'S. Josephi de Cupertino','St. Joseph of Cupertino','C');
 
-feast_saint(919,3,'Ss. Januarii, Ep., et Sociorum','St. Januarius, B., and His Companions','M+',array('csMartyrs2.php','Januárii et Sociórum','Januarius and his companions'));
+feast_saint(919,3,'Ss. Januarii [E], et Sociorum','St. Januarius [E], and his Companions','M+',array('csMartyrs2.php','Januárii et Sociórum','Januarius and his companions'));
 
-feast_saint(920,0,'Ss. Eustachii et Sociorum','St. Eustace and His Companions','M+',array('csMartyrs1.php','Eustáchii et Sociórum','Eustace and his companions'));
+feast_saint(920,0,'Ss. Eustachii et Sociorum','St. Eustace and his Companions','M+',array('csMartyrs1.php','Eustáchii et Sociórum','Eustace and his companions'));
 
 require '0921-2_matthew.php';
 

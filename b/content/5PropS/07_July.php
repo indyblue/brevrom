@@ -16,7 +16,7 @@ require '0707-3_cyril_methodius.php';
 
 require '0708-3_saint_elizabeth.php';
 
-feast_saint(710,3,'Ss. Septem Fratrum, ac Rufinæ et Secundæ, Virg.','Seven Brothers, with Ss. Rufina and Secunda, Virg.','M+');
+feast_saint(710,3,'Ss. Septem Fratrum, [M] ac Rufinæ et Secundæ, [VM]','Seven Brothers, [M] with Ss. Rufina and Secunda, [VM]','-M+');
 
 feast_saint(711,0,'Sancti Pii I','Saint Pius I','PM',array('csPope1m.php','Pium','Pius'));
 
@@ -64,7 +64,7 @@ feast_saint(728,3,'Ss. Nazarii et Celsi, Mm., Victoris I, Papæ et M., ac Innoce
 
 feast_saint(729,3,'Sanctæ Marthæ','Saint Martha','V',
 	array('csVirgin1.php','Marthæ','Martha'),
-	'feast_saint(729,-1,"Ss. Felicis II, Papæ, Simplicii, Faustini et Baeatricis","Ss. Felix, Pope, Simplicius, Faustinus and Beatrice","M+");');
+	'feast_saint(729,-1,"Ss. Felicis II [P], Simplicii, Faustini et Baeatricis","Ss. Felix [P], Simplicius, Faustinus and Beatrice","M+");');
 
 feast_saint(730,0,'Ss. Abdon et Sennen','Ss. Abdon and Sennen','M+');
 

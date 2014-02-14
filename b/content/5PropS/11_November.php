@@ -16,7 +16,7 @@ feast_saint(1108,0,'Ss. Quatuor Coronatorum Martyrum','Four Crowned Martyrs','-M
 require '1109-2_dedication_st_saviour.php';
 
 feast_saint(1110,3,'S. Andreæ Avellini','St. Francis Avellino','C',0,
-	"feast_saint(1110,-1,'Ss. Tryphonis, Respicii et Nymphæ V.','Ss. Tryphon, Respicius and Nympha, V.','M+');");
+	"feast_saint(1110,-1,'Ss. Tryphonis, Respicii et Nymphæ [V]','Ss. Tryphon, Respicius and Nympha [V]','M+');");
 
 require '1111-3_saint_martin.php';
 

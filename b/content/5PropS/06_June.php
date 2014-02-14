@@ -6,7 +6,7 @@ head('Festa Junii', 'Feasts of June',1);
 
 feast_saint(601,3,'S. Angelæ Mericiæ','St. Angela Merici','V');
 
-feast_saint(602,0,'Ss. Marcellini, Petri, atque Erasmi Ep.','Ss. Marcellinus, Peter, and Erasmus Ep.','M+');
+feast_saint(602,0,'Ss. Marcellini, Petri, atque Erasmi [E]','Ss. Marcellinus, Peter, and Erasmus [E]','M+');
 
 feast_saint(604,3,'S. Francisci Caracciolo','St. Francis Caracciolo','C');
 
@@ -38,13 +38,6 @@ feast_saint(618,3,'S. Ephræm Syri','St. Ephrem the Syrian','dCD',0,
 	array('Ephræm','Ephrem'));
 
 require '0619-3_juliana_falconieri.php';
-/*
-feast_saint(619,3,'S. Julianæ de Falconeriis','St. Juliana Falconieri','V',0,
-	'feast_saint(619,-1,"Ss. Gervasii et Protasii","Ss. Gervase and Protase","M+", array("csMartyrs2.php","Gervásii et Protásii","Gervase and Protase"));');
-	hour('V');
-	rubrics('head/HymnVerse.php');
-	hymn('caelestis_agni_nuptias.php');
- */
 
 feast_saint(620,0,'Sancti Silverii','Saint Silverius','PM',
 	array('csPope1m.php','Silvérium','Silverius'));

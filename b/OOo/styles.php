@@ -217,6 +217,9 @@ Spacer			2
   <style:style style:name="NonRubric" style:family="text" style:parent-style-name="Rubric">
    <style:text-properties fo:color="#000000" fo:font-style="normal" fo:font-weight="normal"/>
   </style:style>
+  <style:style style:name="Red" style:family="text">
+   <style:text-properties fo:color="#ff0000" style:font-name="TimesLT" style:text-position="1% 60%"/>
+  </style:style>
   <style:style style:name="Italic" style:family="text">
    <style:text-properties fo:font-style="italic"/>
   </style:style>

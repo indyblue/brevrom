@@ -23,6 +23,7 @@ fclose($fh);
 
 $regex=array(
 	'/<l>/',
+	'/<r>/',
 	'/<sr>/',
 	'/<srh>/',
 	'/<snr>/',
@@ -51,6 +52,7 @@ $regex=array(
 );
 $repl=array(
 	'<s:L>',
+	'<s:Red>',
 	'<s:Rubric>',
 	'<s:RubricH>',
 	'<s:NonRubric>',
