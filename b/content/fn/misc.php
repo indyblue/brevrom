@@ -37,12 +37,12 @@ function hymn($file, $option=0) {
 	require $dir.'0Hymn.php';
 //	echo '<p:BodySm/>';
 }
- */
 
 function lc($file, $text='', $r=1) {
 	$dir = "/www/b/content/00/LittleChapter/";
 	require $dir.'0LittleChapter.php';
 }
+ */
 
 
 

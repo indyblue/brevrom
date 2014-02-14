@@ -7,7 +7,10 @@ feast_saint(203,0,'Sancti Blasii','Saint Blaise','EM',
 	array('csMartyrBishop2.php','Blásii','Blaise'));
  */
 
-hymn('o_gloriosa_virginum.php',1);
+// lc('1cor15_9-10.php');
+	lc('eph2_19.php','csApLlc');
+
+// hymn('o_gloriosa_virginum.php',1);
 
 // rubrics('prSanct/all_else.php','csCB');
 //	vrS('pretiosa_in_conspectu_domini.php',1); 

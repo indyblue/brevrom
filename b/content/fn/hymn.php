@@ -37,7 +37,7 @@ function hymn($file, $byref=-1) {
 			bkref($bk) . "</s></p>\n";
 	}
 	else {
-		if($byref==-1) {
+		if($byref==0) {
 			$bk = substr($file,0,strlen($file)-4);
 			echo bookmark($bk) . '\n';
 		}

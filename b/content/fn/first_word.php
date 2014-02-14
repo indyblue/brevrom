@@ -27,4 +27,15 @@ function first_word($sline,$minlen=2,$retarr=0) {
 	
 }
 
+function start_phrase($sline,$minlen=10,$retarr=0) {
+	$split = mb_split(' ',$sline);
+	$retstr = '';
+	$len = 0;
+	for($i=0;$len<$minlen;$i++) {
+		$retstr .= ' '. $split[$i];
+		$len = mb_strlen($retstr);
+	}
+	return ltrim($retstr);
+}
+
 ?>
