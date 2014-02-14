@@ -34,13 +34,15 @@ function feria($d, $class=3, $size=2) {
 		4 => 'Feria Quarta', 
 		5 => 'Feria Quinta', 
 		6 => 'Feria Sexta', 
-		7 => 'Sabbato');
+		7 => 'Sabbato',
+		7.1 => 'Sabbato in Albis');
 	$dayE = array(2 => 'Monday',
 		3 => 'Tuesday', 
 		4 => 'Wednesday', 
 		5 => 'Thursday', 
 		6 => 'Friday', 
-		7 => 'Saturday');
+		7 => 'Saturday',
+		7.1 => 'White Saturday');
 	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis',
 		'IV classis', 23 => 'II vel III classis');
 	$clnameE = array('Commemoration', 'I class', 'II class', 'III class',
@@ -53,6 +55,14 @@ function feria($d, $class=3, $size=2) {
 	} elseif($class==-1) {
 		$class = -$class;
 		head('Hebdomadæ Sanctæ','Holy Week',4);
+	} elseif($class==11) {
+		$class = 1;
+		head('Infra Octavam Paschæ', 'In the Octave of Easter',4);
+	} elseif($class==21) {
+		$class = 1;
+		if($d==4 || $d==6 || $d==7)
+			head('Quatuor Temporum Pentecostes','Ember Day of Pentecost',4);
+		head('Infra Octavam Pentecostes', 'In the Octave of Pentecost',4);
 	}
 	head($clnameL[$class],$clnameE[$class], 5);
 }

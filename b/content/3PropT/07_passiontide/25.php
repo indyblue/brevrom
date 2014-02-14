@@ -41,14 +41,16 @@
 
 	rubp('Ubi, juxta rubricas, Completorium dicitur tamquam ultima diei precatio, in qua fit examen conscientiæ, tunc, si recitatur in choro vel in communi, moderator chori vel communitatis, signo dato, indicat initiandum esse examen conscientiæ; quo absoluto, dicitur <snr>Confíteor, Misereátur, Indulgéntiam, p. '. bkref('confiteor') .'</s>, et fiunt reliqua ut infra.', 'When, according to the rubrics, Compline is said as the final prayer of the day and the examination of conscience is made, then, if said in choir or community, the leader of the choir or community gives a sign to indicate the beginning of the examination of conscience; when finished, the <snr>Confíteor, Misereátur, Indulgéntiam</s> are said, <snr>p. '. bkref('confiteor') .'</s>, and then the rest as below.');
 
+	/*
 	if($_GET['long']==1) {
 		psalm(4);
 		psalm(90);
 		psalm(133);
 	} else {
+	*/
 		space();
 		rubrics('ps/SuC.php');
-	}
+	// }
 
 	space();
 	canticle('simeon.php');

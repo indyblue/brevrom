@@ -32,144 +32,105 @@
 	ant('prTemp/easter/10L.php','02222');
 	rubp('Capitulum, hymnus et versus non dicuntur, sed eorum loco:', 'The little chapter, hymn and versicle are not said, but rather in their place:');
 	ant('prTemp/easter/10c.php','*');
-	space();
+	space('line');
 	ant('prTemp/easter/10b.php','B');
 	vr('oremus.php');
 	prayer('prTemp/easter/10.php');
-	vr('dv_de_short.php');
+	space('line');
+	vr('dv_de_short2.php');
 	vrS('benedicamus_domino_aa.php');
 	rubp('Sic dicitur ad Laudes et ad Vesperas tantum.', 'It is said in this manner at Lauds and Vespers only.');
 	vrS('fidelium_animae.php');
 
 	space();
 	hour('H');
-
-space();
-space();
-space();
-space();
-space();
-/*
-	hour('1V');
-	rubrics('ps/SaVant.php');	
-	lc('hebr9_11-12.php');
-	hymn('vexilla_regis_prodeunt.php',1);
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php');
-	ant('PrTemp/passiontide/10m1.php','M');
+	rubp('Ad Primam, post <snr>Deus, in adjutórium</s> et <snr>Glória Patri</s>, dicuntur psalmi de dominica, ut in festis, <snr>p. '. bkref('psDP53') .'</s>.', 'At Prime, after <snr>O God, come</s> and <snr>Glory be</s>, the psalms of Sunday, as on feasts, <snr>p. '. bkref('psDP53') .'</s>, are said immediately.');
+	rubp('Expletis vero psalmis dicitur ant. <snr>Hæc dies</s>, ut supra.', 'After the psalms are concluded the ant. <snr>This is the day</s> is said, as above.');
+	rubp('Postea <snr>Dóminus vobíscum</s>, or <snr>Dómine exáudi</s>, oratio <snr>Dómine Deus omnípotens</s>, et reliqua ut in Psalterio.', 'After <snr>The Lord be with you</s>, or <snr>O Lord, hear</s>, the prayer <snr>O Lord God almighty</s>, and that which follows, as in the Psalter.');
+	rubp('Lectio br. <snr>Si consurrexístis</s>, ut ibidem.', 'Brief lesson <snr>If you be risen</s>, also in the Psalter.');
 	space();
-	rubp('Hodie et deinceps usque ad feriam IV Hebdomadæ sanctæ inclusive, responsoria brevia ad Completorium et ad Horas, in Officio tam dominicali quam feriali, dicuntur sine <snr>Glória Patri</s>, prout in Ordinario pro tempore Passionis.', 'Today and on all following days until Wednesday of Holy Week inclusive, the brief response at Compline and at the little Hours is said without the <snr>Glory be</s>, in both the Sunday and ferial office, as in the Ordinary of Passiontide.');
-	space();
+	rubp('Ad Tertiam, Sextam et Nonam, post <snr>Deus, in adjutórium</s> et <snr>Glória Patri</s>, dicuntur psalmi de dominica, deinde ant. <snr>Hæc dies</s>, ut supra.', 'At Terce, Sext and None, after <snr>O God, come</s> and <snr>Glory be</s>, the psalms of Sunday, and afterwards the ant. <snr>This is the day</s>, as above.');
+	rubp('Postea <snr>Dóminus vobíscum</s>, or <snr>Dómine exáudi</s>, oratio <snr>Deus qui hodiérna</s> ut supra ad Laudes.', 'After <snr>The Lord be with you</s>, or <snr>O Lord, hear</s>, the prayer <snr>O God, who through</s>, as above at Lauds.');
+	vr('dv_de_short2.php');
+	vr('benedicamus_fidelium.php');
 
-	hour('L');
-	ant('prTemp/passiontide/10L.php','20000');
-	rubrics('ps/SuL2.php'); 
-	ant('prTemp/passiontide/10L.php','02222');	
-	lc('hebr9_11-12.php');
-	hymn('lustra_sex_qui_jam_peregit.php',1);
-	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php');
-	ant('PrTemp/passiontide/10b.php','B');
+	space();
+	hour('V');
+	rubrics('ps/antLauds.php');
+	rubrics('ps/SuV.php');
+	rubp('Capitulum, hymnus et versus non dicuntur, sed eorum loco:', 'The little chapter, hymn and versicle are not said, but rather in their place:');
+	ant('prTemp/easter/10c.php','*');
+	space('line');
+	ant('prTemp/easter/10m.php','M');
+	space('line');
+	vr('dv_de_short2.php');
+	vrS('benedicamus_domino_aa.php');
+	rubp('Sic dicitur ad Laudes et ad Vesperas tantum.', 'It is said in this manner at Lauds and Vespers only.');
+	vrS('fidelium_animae.php');
+
+	space();
+	hour('C');
+	rubp('<s:VR>V. </s><snr>Jube.</s> <snr>Noctem quiétam.</s>, et reliqua usque ad <snr>Deus in adjutórium</s> inclusive, ut in Psalterio.', '<s:VR>V. </s><snr>Pray.</s> <snr>May the almighty.</s>, and as follows, until <snr>O God, come</s> inclusive, as in the Psalter.');
+	rubrics('ps/SuC.php');
+	ant('prTemp/easter/alleluia4.php','1');
+	rubp('Deinde immediate dicitur:', 'Then immediately is said:');
+	canticle('simeon.php');
+	reading('vr/gloria_patri-s.php',0);
+	ant('prTemp/easter/10c.php','*');
+	vr('dv_de_short2.php');
+	vr('oremus.php');
+	prayer('Ord/compline01.php');
+	vr('dv_de_short2.php');
+	vrS('benedicamus_domino.php');
+	vr('compline_bened.php');
+	space();
+	head('Antiphona beatæ Mariæ Virg.', 'Antiphon of the Bl. Virg. Mary',4);
+	reading('bvm/reginacaeli2.php');
+	vrS('Ord/gaude_et_laetare_virgo_maria.php',1);
+	vr('oremus.php');
+	prayer('Ord/compline05.php',1);
+	space();
+	rubp('Sic recitatur divinum Officium ad singulas Horas usque ad Nonam sabbati in Albis inclusive, exceptis iis quæ singulis diebus habentur propria.', 'The Divine Office is recited in this manner at all Hours until “White Saturday” at None inclusive, except that which is given as proper for the day.');
+
+	space();
+	feria(2,11);
+	ant('PrTemp/easter/12b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/10.php');
+	prayer('PrTemp/easter/12.php');
+	ant('PrTemp/easter/12m.php','M');
+
 	space();
+	feria(3,11);
+	ant('PrTemp/easter/13b.php','B');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/easter/13.php');
+	ant('PrTemp/easter/13m.php','M');
 
-	ordref(0,6.1,0);
-	rubp('Ad Primam, ad absolutionem capituli lectio brevis <snr>Fáciem meam</s>, de tempore Passionis.', 'At Prime, at the end of the hour the brief lesson <snr>I have not turned</s>, of the season of Passiontide.');
 	space();
+	feria(4,11);
+	ant('PrTemp/easter/14b.php','B');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/easter/14.php');
+	ant('PrTemp/easter/14m.php','M');
 
-	hour('T');
-	lc('hebr9_11-12.php');
-	brS('PrTemp/erue_a_framea_deus_animam_meam.php',0,1);
-	vrS('PrTemp/de_ore_leonis_libera_me_domine.php');
 	space();
+	feria(5,11);
+	ant('PrTemp/easter/15b.php','B');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/easter/15.php');
+	ant('PrTemp/easter/15m.php','M');
 
-	hour('S');
-	lc('hebr9_13-14a.php');
-	brS('PrTemp/de_ore_leonis_libera_me_domine.php',0,1);
-	vrS('PrTemp/ne_perdas_cum_impiis_deus_animam_meam.php');
 	space();
+	feria(6,11);
+	ant('PrTemp/easter/16b.php','B');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/easter/16.php');
+	ant('PrTemp/easter/16m.php','M');
 
-	hour('N');
-	lc('hebr9_15.php');
-	brS('PrTemp/ne_perdas_cum_impiis_deus_animam_meam.php',0,1);
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php');
 	space();
+	feria(7.1,11);
+	ant('PrTemp/easter/17b.php','B');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/easter/17.php');
 
-	hour('2V');
-	rubrics('ps/SuVant.php');	
-	lc('hebr9_11-12.php');
-	hymn('vexilla_regis_prodeunt.php',1);
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php');
-	ant('PrTemp/passiontide/10m2.php','M');
-	space();
-
-	feria(2);
-	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php',0,'L');
-	ant('PrTemp/passiontide/12b.php','B');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/12L.php');
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php',0,'V');
-	ant('PrTemp/passiontide/12m.php','M');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/12V.php');
-	space();
-
-	feria(3);
-	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php',0,'L');
-	ant('PrTemp/passiontide/13b.php','B');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/13L.php');
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php',0,'V');
-	ant('PrTemp/passiontide/13m.php','M');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/13V.php');
-	space();
-
-	feria(4);
-	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php',0,'L');
-	ant('PrTemp/passiontide/14b.php','B');
-	rubrics('et_dicuntur_preces.php');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/14L.php');
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php',0,'V');
-	ant('PrTemp/passiontide/14m.php','M');
-	rubrics('et_dicuntur_preces.php');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/14V.php');
-	space();
-
-	feria(5);
-	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php',0,'L');
-	ant('PrTemp/passiontide/15b.php','B');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/15L.php');
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php',0,'V');
-	ant('PrTemp/passiontide/15m.php','M');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/15V.php');
-	space();
-
-	feria(6);
-	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php',0,'L');
-	ant('PrTemp/passiontide/16b.php','B');
-	rubrics('et_dicuntur_preces.php');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/16L.php');
-	feast_saint(array('Feria VI post Dominicam I Passionis',	'Friday after the 1st Sunday of Passiontide'), -1,'Septem Dolorum B. Mariæ Virg.','The Seven Dolours of the B.V.M.','B','prSanct/03-7dolours.php',0,array('prSanct/ora_pro_nobis_virgo_dolorosissima.php', 'prSanct/03-7dolours.php'));
-
-	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php',0,'V');
-	ant('PrTemp/passiontide/16m.php','M');
-	rubrics('et_dicuntur_preces.php');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/16V.php');
-	space();
-
-	feria(7);
-	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php',0,'L');
-	ant('PrTemp/passiontide/17b.php','B');
-	rubrics('head/Prayer.php');
-	prayer('PrTemp/passiontide/17L.php');
-
-*/
 ?>
-
-
