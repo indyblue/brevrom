@@ -54,8 +54,11 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 		$Edate = $date;
 	}
 
+
+//  <p:Hidden1>' . $Edate . ' - ' .$nameE .'</p>
 	echo '
-  <p:Hidden1>' . $Edate . ' - ' .$nameE .'</p>
+  <p:Hidden1>Proper of Saints</p>
+  <p:Hidden2>' . $Edate .'</p>
   <text:p text:style-name="Head1' . 
   ($class==1&&$class==2?'':'NI') . '">' . ($_GET['L']==1?$nameL:$nameE) .'</p>
   <text:p text:style-name="Head5">' . ($_GET['L']==1?$nameE:$nameL) .'</p>

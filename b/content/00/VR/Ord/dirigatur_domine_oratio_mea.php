@@ -1,0 +1,2 @@
+Dirigátur, Dómine, orátio mea.
+Sicut incénsum in conspéctu tuo.

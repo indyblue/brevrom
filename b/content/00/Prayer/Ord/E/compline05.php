@@ -1,0 +1,1 @@
+O God, who didst vouchsafe to give joy to the world through the resurrection of thy Son our Lord Jesus Christ; grant, we beseech thee, that through his Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord.

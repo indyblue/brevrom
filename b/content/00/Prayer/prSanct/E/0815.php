@@ -1,0 +1,1 @@
+Almighty everlasting God, who hast taken body and soul into heaven the Immaculate Virgin Mary, Mother of thy Son: grant, we beseech thee, that by steadfastly keeping heaven as our goal we may be counted worthy to join her in glory. Through the same.

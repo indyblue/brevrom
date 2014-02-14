@@ -1,0 +1,1 @@
+On the gridiron * I denied thee not, O God; and tried by fire I acknowledged thee to be the Saviour: thou hast proved my heart and visited it by night; thou hast tried me by fire, and iniquity has not been found in me.

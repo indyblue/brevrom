@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that the venerable solemnity of thy blessed Martyrs Hippolyte and Cassian may avail both to increase our devotion and to further our salvation. Through our Lord.

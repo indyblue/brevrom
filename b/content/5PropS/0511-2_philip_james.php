@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img(); 
-	feast_saint(0511,12,'Ss. Philippi et Jacobi','Ss. Philip and James','Ae+');
+	feast_saint(511,12,'Ss. Philippi et Jacobi','Ss. Philip and James','Ae+');
 
 	hour('L'); 
 	ant('prSanct/0511L.php','20000'); 
@@ -10,7 +10,6 @@
 	rubrics('asIn.php','csApPTLlc','Common of Ap. (P.T.)',
 		'Little Chapter &amp; Hymn <snr>Paschále mundo gáudium</s>');
 	vrS('pretiosa_in_conspectu_domini.php',1); 
-	rubrics('head/Benedictus.php'); 
 	ant('prSanct/0511b.php','B'); 
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0511.php'); 
@@ -25,7 +24,6 @@
 	rubrics('asIn.php','csApPTVlc','Common of Ap. (P.T.)',
 		'Little Chapter &amp; Hymn <snr>Tristes erant Apóstoli</s>');
 	vrS('pretiosa_in_conspectu_domini.php',1); 
-	rubrics('head/Magnificat.php'); 
 	ant('prSanct/0511m2.php','M'); 
 	space('Line');
 	rubrics('prSanct/if1Vespers.php');

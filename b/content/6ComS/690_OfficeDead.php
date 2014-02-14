@@ -2,7 +2,7 @@
 	<p:Body/>
 <?php img('sanctus.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Office of the Dead</p>
+   <p:Hidden1></p>
    <p:Hidden2>Office of the Dead</p>
 <?php bookmark('offDef'); ?>
 	<p:Head1><?php 
@@ -34,16 +34,18 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:BodySm/>
 
 <?php ant('offDefMatins.php','200000000'); ?>
-<?php psalm('005.php'); ?>
+<?php /*
+	psalm('005.php'); 
+	vrS('requiem_aeternam.php',6); 
+ */ ?>
+<?php psref(5); ?>
 <?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','120000000'); ?>
-<?php psalm('006.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
+<?php psref(6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','012000000'); ?>
-<?php psalm(7); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
+<?php psref(7,2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','001000000'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>
@@ -67,16 +69,14 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 	<p:Head3>(Tuesday and Friday)</p>
 <?php bookmark('offDefMn2'); ?>
 <?php ant('offDefMatins.php','000200000'); ?>
-<?php psalm('022.php'); ?>
+<?php psref(22); ?>
 <?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000120000'); ?>
-<?php psalm(24); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
+<?php psref(24,3); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000012000'); ?>
-<?php psalm(26); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
+<?php psref(26,2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000001000'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>
@@ -100,16 +100,14 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:Head3>(Wednesday and Saturday)</p>
 <?php bookmark('offDefMn3'); ?>
 <?php ant('offDefMatins.php','000000200'); ?>
-<?php psalm(39); ?>
+<?php psref(39,3); ?>
 <?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000120'); ?>
-<?php psalm('040.php'); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
+<?php psref(40); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000012'); ?>
-<?php psalm(41); ?>
-<?php vrS('requiem_aeternam.php',6); ?>
+<?php psref(41,2); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000001'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>

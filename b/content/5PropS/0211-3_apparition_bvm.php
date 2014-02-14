@@ -1,7 +1,7 @@
 <?php
 	space();
 	img('Saints/0908_nativity_of_bvm.tif',100);
-	headSt('Feb. 11',3,'in Apparitione B. Mariæ Virg. Immac.',
+	headSt(211,3,'in Apparitione B. Mariæ Virg. Immac.',
 		'Apparition of the Bl. Virg. Mary Immaculate','Lourdes');
 	rubrics('prSanct/all_from.php','csBVM');
 

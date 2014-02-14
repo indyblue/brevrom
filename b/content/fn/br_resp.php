@@ -1,7 +1,11 @@
 <?php
 
-
-function brS($file,$PT=0,$short=0,$requiem=0,$matins=0) {
+// style:
+// 0 - standard short notation 
+// 1 - short notation, no Gloria (Passiontide
+// 10 - standard (or PT) long notation
+// 11 - long notation, no Gloria
+function brS($file,$PT=0,$style=0,$requiem=0) {
 	$dir = "/www/b/content/00/VR/";
 
 	$Lpieces = file_load($dir.$file);
@@ -23,13 +27,13 @@ function brS($file,$PT=0,$short=0,$requiem=0,$matins=0) {
 		$Lgl = 'Glória Patri.';
 		$Egl = 'Glory be.';
 	}
-	if($matins) {
-		$vr1 = '<s:VR>R. </s>';
-		$vr2 = '<s:VR>V. </s>';
-	} else {
-		$vr1 = '<s:VR>R. br. </s>';
-		$vr2 = '<s:VR>V. </s>';
-	}
+	
+	$vr1 = '<s:VR>R. br. </s>';
+	$vr2 = '<s:VR>V. </s>';
+	$vrR = '<s:VR>R. </s>';
+	$vrEtL = '<s:VR>Et repetitur: </s>';
+	$vrEtE = '<s:VR>And repeat: </s>';
+
 	$L1 = br_divide($Lpieces,$PT);
 	$L2 = $Lpieces[1];
 	$E1 = br_divide($Epieces,$PT);
@@ -47,23 +51,60 @@ function brS($file,$PT=0,$short=0,$requiem=0,$matins=0) {
 		$L13 = ' * '. $L1[3];
 		$E13 = ' * '. $E1[3];
 	}
-	echo '   <table><tr><td:A1>
-<p:BodyL>'. $vr1 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .' '. 
+	if($style<10) echo '   <table><tr><td:A1>
+    <p:BodyL>'. $vr1 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .' '. 
 	style_first_letter($L1[0],'s:BoldRC') .'. '. 
 	$vr2 . $L2 .' '. 
 	style_first_letter($L1[2],'s:BoldRC') .' '.
-	($short==0?style_first_letter($Lgl,'s:BoldRC') .' ':'') . 
+	($style==0?style_first_letter($Lgl,'s:BoldRC') .' ':'') . 
 	style_first_letter($L1[0],'s:BoldRC') .'.</p>
    </td><td:B1>
-<p:BodyE>'. $vr1 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .' '. 
+    <p:BodyE>'. $vr1 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .' '. 
 	style_first_letter($E1[0],'s:BoldRC') .'. '. 
 	$vr2 . $E2 .' '. 
 	style_first_letter($E1[2],'s:BoldRC') .' '.
-	($short==0?style_first_letter($Egl,'s:BoldRC') .' ':'') . 
+	($style==0?style_first_letter($Egl,'s:BoldRC') .' ':'') . 
 	style_first_letter($E1[0],'s:BoldRC') .'.</p>
    </td></tr>
-   </table>
-';
+   </table>' . "\n";
+
+	else {
+		echo '   <table><tr><td:A1>
+    <p:BodyL>'. $vr1 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .'</p>
+   </td><td:B1>
+    <p:BodyE>'. $vr1 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .'</p>
+   </td></tr><tr><td:A1>
+    <p:BodyL>'. $vrEtL . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .'</p>
+   </td><td:B1>
+    <p:BodyE>'. $vrEtL . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .'</p>
+   </td></tr><tr><td:A1>
+    <p:BodyL>'. $vr2 . $L2 .'</p>
+   </td><td:B1>
+    <p:BodyE>'. $vr2 . $E2 .'</p>
+   </td></tr><tr><td:A1>
+    <p:BodyL>'. $vrR . $L1[2] .'</p>
+   </td><td:B1>
+    <p:BodyE>'. $vrR . $E1[2] .'</p>
+   </td></tr><tr><td:A1>' . "\n";
+		if($style==10) 
+			echo '    <p:BodyL>'. $vr2 . 'Glória Patri, et Fílio, et Spirítui Sancto.</p>
+   </td><td:B1>
+    <p:BodyE>'. $vr2 . 'Glory be to the Father, and to the Son, and to the Holy Spirit.</p>
+   </td></tr><tr><td:A1>
+    <p:BodyL>'. $vr2 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .'</p>
+   </td><td:B1>
+    <p:BodyE>'. $vr2 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .'</p>' . "\n";
+		else
+			echo '    <p:BodyL>'. $vr2 . $L1[0] . $L1[1] .'.</p>
+   </td><td:B1>
+    <p:BodyE>'. $vr2 . $E1[0] . $E1[1] .'.</p>
+   </td></tr><tr><td:A1>
+    <p:BodyL>'. $vrR . $L1[2] . $L13 .'</p>
+   </td><td:B1>
+    <p:BodyE>'. $vrR . $E1[2] . $E13 .'</p>' . "\n";
+
+		echo '   </td> </tr> </table>' . "\n";
+	}
 }
 
 function rm($file,$PT=0,$short=0,$requiem=0,$matins=1) {

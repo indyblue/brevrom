@@ -5,7 +5,7 @@
 	bookmark('csC');
 	head('Commune Confessoris non Pontificis',
 		'Common of Confessors',1,
-		'Common of Saints','Bishop Confessors');
+		'Common of Saints','Confessors');
 
 	rubrics('head/Prayer.php',1);
 	prayer('csConfessor1.php');

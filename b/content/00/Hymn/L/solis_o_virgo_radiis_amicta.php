@@ -6,7 +6,6 @@ Bis caput senis redimíta stellis,
 Luna cui præbet pédibus scabéllum
 Inclita fulges.
 
-
 Mortis, inférni domitríxque noxæ,
 Assides Christo studiósa nostri,
 Teque regínam célebrat poténtem

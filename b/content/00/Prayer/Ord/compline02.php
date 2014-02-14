@@ -1,0 +1,1 @@
+Grátiam tuam, quǽsumus Dómine, méntibus nostris infúnde; ut, qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nostrum.

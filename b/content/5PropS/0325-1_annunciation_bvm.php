@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img('Saints/0325_annunciation.tif',100); 
-	headSt('Mar. 25',1,'in Annunciatione B. Mariæ Virg.',
+	headSt(325,1,'in Annunciatione B. Mariæ Virg.',
 		'Annunciation of the B.V.M.');
 	rubrics('prSanct/all_from.php','csBVM');
 
@@ -21,7 +21,6 @@
 	ant('prSanct/0325L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0325L.php','02222'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('is7_14-15.php');
 	rubrics('asIn.php','o_gloriosa_virginum',
 		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
@@ -69,7 +68,6 @@
 	hour('2V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
-	rubrics('head/LittleChapter.php'); 
 	lc('is7_14-15.php');
 	rubrics('asIn.php','ave_maris_stella',
 		'Common of BVM','Hymn <snr>Ave, maris stella</s>');

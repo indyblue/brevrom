@@ -7,7 +7,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:BodySm/>
-   <p:Hidden1>Jan 15 - St. Paul</p>
+   <p:Hidden2>Jan 15</p>
    <p:Head1NI>Sancti Pauli</p>
    <p:Head2>Primi Eremitæ et Conf. - III classis - Jan. 15</p>
    <p:Rubric>(First Hermit &amp; Confessor)</p>
@@ -62,7 +62,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 16 - St. Marcellus</p>
+   <p:Hidden2>Jan 16</p>
    <p:Head1NI>Sancti Marcelli I</p>
    <p:Head2>Papæ et Mart. - III classis - Jan. 16</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -80,7 +80,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 17 - St. Anthony</p>
+   <p:Hidden2>Jan 17</p>
    <p:Head1NI>Sancti Antonii</p>
    <p:Head2>Abbatis - III classis - Jan. 17</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -98,7 +98,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 18 - St. Prisca</p>
+   <p:Hidden2>Jan 18</p>
    <p:Head1NI>Sanctæ Priscæ</p>
    <p:Head2>Virg. et Mart. - Commem. - Jan. 18</p>
    <table>
@@ -138,7 +138,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 19 - Ss. Marius, Martha, Audifax &amp; Abachum</p>
+   <p:Hidden2>Jan 19</p>
    <p:Head1NI>Ss. Marii, Marthæ, Audifacis et Abachum</p>
    <p:Head2>Martyrum - Commem. - Jan. 19</p>
    <table>
@@ -214,7 +214,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:Rubric/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 20 - Ss. Fabian &amp; Sebastian</p>
+   <p:Hidden2>Jan 20</p>
    <p:Head1NI>Ss. Fabiani, Papæ, et Sebastiani</p>
    <p:Head2>Martyrum - III classis - Jan. 20</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -232,7 +232,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 20 - St. Agnes</p>
+   <p:Hidden2>Jan 20</p>
    <p:Head1NI>Sanctæ Agnetis</p>
    <p:Head2>Virginis et Martyris - III classis - Jan. 21</p>
    <table>
@@ -380,7 +380,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 22 - Ss. Vincent &amp; Anastasius</p>
+   <p:Hidden2>Jan 22</p>
    <p:Head1NI>Ss. Vincentii et Anastasii</p>
    <p:Head2>Martyrum - III classis - Jan. 22</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -398,7 +398,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 23 - St. Raymond of Pennafort</p>
+   <p:Hidden2>Jan 23</p>
    <p:Head1NI>Sancti Raymundi de Penafort</p>
    <p:Head2>Confessoris - III classis - Jan. 23</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -452,7 +452,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:Rubric/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 24 - St. Timothy</p>
+   <p:Hidden2>Jan 24</p>
    <p:Head1NI>Sancti Timothei</p>
    <p:Head2>Ep. et Mart. - III classis - Jan. 24</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -470,7 +470,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 25 - Conversion of St. Paul</p>
+   <p:Hidden2>Jan 25</p>
    <p:Head1NI>in Conversione Sancti Pauli</p>
    <p:Head2>Ap. - III classis - Jan. 25</p>
    <table>
@@ -654,7 +654,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 26 - St. Polycarp</p>
+   <p:Hidden2>Jan 26</p>
    <p:Head1NI>Sancti Polycarpi</p>
    <p:Head2>Ep. et Mart. - III classis - Jan. 26</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -672,7 +672,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Jan 27 - St.John Chrysostom</p>
+   <p:Hidden2>Jan 27</p>
    <p:Head1NI>Sancti Joannis Chrysostomi</p>
    <p:Head2>Ep., Conf. et Eccl. Doct. - III classis - Jan. 27</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -691,7 +691,7 @@ head('Festa Januarii', 'Feasts of January',1);
 <?php img(); ?>
    <p:BodySm/>
    <p:Body/>
-     <p:Hidden1>Jan 28 - St.Peter Nolasco</p>
+     <p:Hidden2>Jan 28</p>
    <p:Head1NI>Sancti Petri Nolasci</p>
    <p:Head2>Confessoris - III classis - Jan. 28</p>
    <p:Rubric>Psalms and Antiphons of the current feria.</p>
@@ -744,7 +744,7 @@ head('Festa Januarii', 'Feasts of January',1);
    </table>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden1>Jan 29 - St.Francis de Sales</p>
+     <p:Hidden2>Jan 29</p>
    <p:Head1NI>Sancti Francisci Salesii</p>
    <p:Head2>Ep., Conf. et Eccl. Doct. - III classis - Jan. 29</p>
    <p:Rubric>Psalms and Antiphons of the current feria.</p>
@@ -762,7 +762,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden1>Jan 30 - Martina</p>
+     <p:Hidden2>Jan 30</p>
    <p:Head1NI>Sanctæ Martinæ</p>
    <p:Head2>Virginis et Martyris - III classis - Jan. 30</p>
    <p:Rubric>Psalms and Antiphons of the current feria.</p>
@@ -837,7 +837,7 @@ head('Festa Januarii', 'Feasts of January',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden1>Jan 31 - St. John Bosco</p>
+     <p:Hidden2>Jan 31</p>
    <p:Head1NI>Sancti Joannis Bosco</p>
    <p:Head2>Confessoris - III classis - Jan. 31</p>
    <p:Rubric>Psalms and Antiphons of the current feria.</p>

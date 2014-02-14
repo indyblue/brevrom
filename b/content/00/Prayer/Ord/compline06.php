@@ -1,0 +1,1 @@
+Omnípotens sempitérne Deus, qui gloriósæ Vírginis Matris Maríæ corpus et ánimam, ut dignum Fílii tui habitáculum éffici mererétur, Spíritu Sancto cooperánte præparásti: da, ut cujus commemoratióne lætámur; ejus pia intercessióne, ab instántibus malis, et a morte perpétua liberémur. Per eúmdem Christum Dóminum nostrum.

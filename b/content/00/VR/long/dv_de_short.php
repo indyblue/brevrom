@@ -1,10 +1,4 @@
-   <table>
-	 <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dómine exaudi <sr>vel</s> Dóminus vobíscum <sr>ut supra</s></p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>O Lord hear <sr>or</s> The Lord be... <sr>as above</s></p>
-     </td>
-    </tr>
-   </table>
+<?php
+rubp('<snr>Dómine exaudi</s> vel <snr>Dóminus vobíscum</s>, ut supra.',
+	'<snr>Dómine exaudi</s> or <snr>Dóminus vobíscum</s>, as above.');
+?>

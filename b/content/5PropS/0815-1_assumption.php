@@ -1,83 +1,67 @@
-<?php img('Saints/1007_holy_rosary_bvm.tif',100); ?>
-	<p:RubricH/>
-<?php headSt('Oct. 7',2,'Beatæ Mariæ Virg. a Rosario','The Most Holy Rosary of the B.V.M.'); ?>
+<?php 
+	space();
+	img('Saints/0815_assumption_bvm.tif',100);
+	headSt(815,1,'in Assumptione B. Mariæ Virg.',
+		'the Assumption of the Bl. Virgin Mary');
 
-<?php hour('1V'); ?>
-<?php rubrics('ps/antLauds.php'); ?>
-<?php rubrics('ps/ComBVM.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('jdt13_22.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('caelestis_aulae_nuntius.php'); ?>
-<?php vrS('prSanct/regina_sacratissimi_rosarii_ora_pro_nobis.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1007m1.php','M'); ?>
-<?php rubrics('prSanct/ComplineSun.php'); ?>
-   <p:BodySm/>
+	hour('1V'); 
+	rubrics('ps/antLauds.php');
+	rubrics('ps/ComBVM.php'); 
+	lc('jdt13_22-23.php');
+	rubrics('head/HymnVerse.php');
+	hymn('o_prima_virgo_prodita.php');
+	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php',2); 
+	ant('prSanct/0815m1.php','M',2); 
+	rubrics('prSanct/ComplineSun.php'); 
 
-<?php hour('L'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1007L.php','20000'); ?>
-<?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1007L.php','02222'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus24_25.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('jam_morte_victor_obruta.php'); ?>
-<?php vrS('prSanct/elegit_eam_deus_et_praeelegit_eam_et.php'); ?>
-<?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/1007b.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/1007.php'); ?>
-	<p:BodySm/>
-   <p:RubricH>Commemoration is made of St. Mark, Pope and Conf.:</p>
-<?php ant('euge_serve_bone_et_fidelis.php'); ?>
-<?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
-<?php rubrics('oremus.php'); ?>
-<?php prayer('csPope1.php','Marcum','Mark'); ?>
-   <p:BodySm/>
+	space();
+	hour('L'); 
+	ant('prSanct/0815L.php','20000'); 
+	rubrics('ps/SuL1.php'); 
+	ant('prSanct/0815L.php','02222'); 
+	lc('jdt13_22-23.php');
+	rubrics('head/HymnVerse.php');
+	hymn('solis_o_virgo_radiis_amicta.php');
+	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php',2);
+	ant('prSanct/0815b.php','B',2);
+	rubrics('head/Prayer.php'); 
+	prayer('prSanct/0815.php'); 
+	rubrics('prSanct/comm_lent.php');
 
-<?php rubrics('head/LittleHours.php'); ?>
-<?php rubrics('ps/Feria.php'); ?>
-<?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
-	<p:BodySm/>
+	space();
+	rubrics('head/LittleHours.php'); 
+	rubrics('prSanct/1classLittleHours.php'); 
+	PrV('qui_natus_es_de_maria_virgine.php'); 
 
-<?php hour('T'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus24_25.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('prSanct/sancta_dei_genitrix_semper_virgo_maria.php'); ?>
-<?php vrS('prSanct/post_partum_virgo_inviolata_permansisti.php'); ?>
-   <p:BodySm/>
+	hour('T'); 
+	lc('jdt13_22-23.php');
+	brS('prSanct/exaltata_est_sancta_dei_genitrix.php'); 
+	vrS('prSanct/assumpta_est_maria_in_caelum_gaudent_angeli.php'); 
+	
+	space();
+	hour('S'); 
+	lc('jdt13_24-25.php');
+	brS('prSanct/assumpta_est_maria_in_caelum_gaudent_angeli.php'); 
+	vrS('prSanct/maria_virgo_assumpta_est_ad_aethereum_thalamum.php'); 
 
-<?php hour('S'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus39_19.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('prSanct/post_partum_virgo_inviolata_permansisti.php'); ?>
-<?php vrS('prSanct/speciosa_facta_es_et_suavis.php'); ?>
-   <p:BodySm/>
+	space();
+	hour('N'); 
+	lc('jdt15_10.php');
+	brS('prSanct/maria_virgo_assumpta_est_ad_aethereum_thalamum.php'); 
+	vrS('dignare_me_laudare_te_virgo_sacrata.php'); 
 
-<?php hour('N'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus24_17.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('prSanct/speciosa_facta_es_et_suavis.php'); ?>
-<?php vrS('prSanct/elegit_eam_deus_et_praeelegit_eam_et.php'); ?>
-	<p:BodySm/>
+	space();
+	hour('2V'); 
+	rubrics('ps/antLauds.php');
+	rubrics('ps/ComBVM.php'); 
+	lc('jdt13_22-23.php');
+	hymn('ave_maris_stella.php',1);
+	vrS('prSanct/exaltata_est_sancta_dei_genitrix.php',2);
+	ant('prSanct/0815m2.php','M',2);
+	rubrics('head/Prayer.php'); 
+	prayer('prSanct/0815.php'); 
+	rubrics('prSanct/comm_lent.php');
+	rubrics('prSanct/ComplineSun.php'); 
 
-<?php hour('2V'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1007V.php','20000'); ?>
-<?php rubrics('ps/ComBVM.php'); ?>
-<?php ant('prSanct/1007V.php','02222'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus24_25.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('te_gestientem_gaudiis.php'); ?>
-<?php vrS('prSanct/regina_sacratissimi_rosarii_ora_pro_nobis.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1007m2.php','M'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/1007.php'); ?>
-<?php rubrics('prSanct/ComplineSun.php'); ?>
+?>
+

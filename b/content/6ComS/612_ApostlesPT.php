@@ -5,7 +5,7 @@
 	bookmark('csApPT');
 	head('Commune Apostolorum aut Martyrum PT',
 		'Common of Apostles or Martyrs PT',1,
-		'Common of Saints','Bishop Apostles/Martyrs PT');
+		'Common of Saints','Apostles/Martyrs PT');
 	head('Tempore Paschali','in Paschaltide',3);
 
 	rubrics('head/Prayer.php',1);

@@ -8,7 +8,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:BodySm/>
-   <p:Hidden1>Dec 2 - St. Bibiana</p>
+   <p:Hidden2>Dec 2</p>
    <p:Head1NI>Sanctæ Bibianæ</p>
    <p:Head2>Virginis et Martyris - III classis - Dec. 2</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -27,7 +27,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 3 - St. Francis Xavier</p>
+   <p:Hidden2>Dec 3</p>
    <p:Head1NI>Sancti Francisci Xaverii</p>
    <p:Head2>Confessoris - III classis - Dec. 3</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -46,7 +46,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 4 - St. Peter Chrysologus</p>
+   <p:Hidden2>Dec 4</p>
    <p:Head1NI>Sancti Petri Chrysologi</p>
    <p:Head2>Ep., Conf., et Eccl. Doct. - III classis - Dec. 4</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -101,7 +101,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 5 - St. Sabbas</p>
+   <p:Hidden2>Dec 5</p>
    <p:Head1NI>Sancti Sabbæ</p>
    <p:Head2>Abbatis - Commem. - Dec. 5</p>
    <table>
@@ -141,7 +141,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 6 - St. Nicholas</p>
+   <p:Hidden2>Dec 6</p>
    <p:Head1NI>Sancti Nicolai</p>
    <p:Head2>Ep. et Conf. - III classis - Dec. 6</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -160,7 +160,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 7 - St. Ambrose</p>
+   <p:Hidden2>Dec 7</p>
    <p:Head1NI>Sancti Ambrosii</p>
    <p:Head2>Ep., Conf. et Eccl. Doct. - III classis - Dec. 7</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -182,7 +182,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:Body/>
 <?php img('Saints/1208_immaculate_conception.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Dec 8 - Immaculate Conception of the B.V.M.</p>
+   <p:Hidden2>Dec 8</p>
    <p:Head1NI>in Conceptione Immaculata B.M.V.</p>
    <p:Head2>I classis - Dec. 8</p>
    <table>
@@ -583,7 +583,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 10 - St. Melchiades</p>
+   <p:Hidden2>Dec 10</p>
    <p:Head1NI>Sancti Melchiadis</p>
    <p:Head2>Papæ et Mart. - Commem. - Dec 10</p>
    <table>
@@ -623,7 +623,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 11 - St. Damasus</p>
+   <p:Hidden2>Dec 11</p>
    <p:Head1NI>Sancti Damasi I</p>
    <p:Head2>Papæ et Confessoris. - III classis - Dec. 11</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -642,7 +642,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 13 - St. Lucy</p>
+   <p:Hidden2>Dec 13</p>
    <p:Head1NI>Sanctæ Luciæ</p>
    <p:Head2>Virg. et Mart. - III classis - Dec. 13</p>
    <table>
@@ -741,7 +741,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 16 - St. Eusebius</p>
+   <p:Hidden2>Dec 16</p>
    <p:Head1NI>Sancti Eusebii</p>
    <p:Head2>Ep. et Mart. - III classis - Dec. 16</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -760,7 +760,7 @@ head('Festa Decembris', 'Feasts of December',1);
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Dec 21 - St. Thomas</p>
+   <p:Hidden2>Dec 21</p>
    <p:Head1NI>Sancti Thomae, Ap.</p>
    <p:Head2>II classis - Dec. 21</p>
    <table>

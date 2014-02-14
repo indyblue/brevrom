@@ -6,9 +6,22 @@ function space($type='BodySm') {
 	elseif($type=='PgH') $type='P182';
 	elseif($type=='PgH1') $type='P180';
 	elseif($type=='PgI') $type='P179';
+	elseif($type==2) $type = 'Spacer';
+	elseif($type==4) $type = 'HymnS';
 	echo '
   <p:'. $type .'/>
 ';
+}
+
+// checks to see if $str exists in the 
+// comma-separated value list $csv.
+// returns either TRUE or FALSE
+function csv_match($str, $csv) {
+	$arr = explode(',',$csv);
+	if(array_search($str,$arr)===false)
+		return false;
+	else
+		return true;
 }
 
 function bookmark($link='') {

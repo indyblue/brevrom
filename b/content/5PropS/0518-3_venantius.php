@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img(); 
-	feast_saint(0518,13,'Sancti Venantii','Saint Venantius','M');
+	feast_saint(518,13,'Sancti Venantii','Saint Venantius','M');
 	rubrics('ps/feria.php');	
 	rubrics('prSanct/all_else.php','csM',2);
 

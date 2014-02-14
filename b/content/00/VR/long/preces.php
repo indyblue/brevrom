@@ -1,5 +1,3 @@
-   <p:Head2>The Preces</p>
-   <p:Rubric>Said only in Offices of the Season:<text:line-break/>a) Wednesdays &amp; Fridays of: Advent, Lent, &amp; Passiontide<text:line-break/>b) Ember Wednesday &amp; Friday in September.<?php echo ($option==1?'<text:line-break/>c) Ember Saturdays, except Saturday in Octave of Pentecost.':'') ?></p>
    <table>
     <tr>
      <td:A1>

@@ -9,6 +9,9 @@
 // 2 - for both astrisk & number
 // M - Ad Magnif.Ant. + astrisk
 // B - Ad Bened.Ant. + astrisk
+// N - adds appropriate "Nocturn" before antiphon
+// P - P.T. Ant. + astrisk
+// p - P.T. Ant., no astrisk
 
 //PT option
 //0 - nothing added
@@ -29,8 +32,8 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
 	if($iLfile<$iSpec || $iEfile<$iLfile)
 		trigger_error('Antiphon count problem (' . $file . '). Latin: ' . $iLfile . ', English: ' . $iEfile . ' Function call: ' . $iSpec, E_USER_ERROR);
 	
-	echo '   <table>
-';
+	$table = 0;
+
 	if($PT==1) {
 		$PTL = ' Allelúja.';
 		$PTE = ' Alleluia.';
@@ -73,7 +76,34 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
 				$ast=1; $ant='<sr>Ad Bened.Ant.</s> '; $ante = '<sr>Benedictus Ant.</s> ';
 			} elseif($inc=='M') {
 				$ast=1; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
+			} elseif($inc=='P') {
+				$ast=1; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
+			} elseif($inc=='p') {
+				$ast=0; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
+			} elseif($inc=='N') {
+				if($table==1) {
+					echo "   </table>\n";
+					$table = 0;
+				}
+				if($i==0) {
+					head('In I Nocturno','I Nocturn',2);
+					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
+				} elseif($i==3) {
+					head('In II Nocturno','II Nocturn',2);
+					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
+				} elseif($i==6) {
+					if(strpos($file,'4Wed')>0) {
+						if(strpos($file,'0M2')>0) 
+							head('In III Nocturno (II)','III Nocturn (II)',2);
+						else
+							head('In III Nocturno (I)','III Nocturn (I)',2);
+					} else
+						head('In III Nocturno','III Nocturn',2);
+					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
+				} else
+					trigger_error('Misplaced nocturn: ' . $file, E_USER_ERROR);
 			}
+					
 			if(!$ast) {
 				$L = str_replace($subst,'',$L);
 				$E = str_replace($subst,'',$E);
@@ -83,6 +113,10 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
 					trigger_error('Latin substitute name given for ant. ' . $file . ', but no English name given.', E_USER_ERROR);
 				$L = str_replace('<sr>N.</s>',$nameL,$L);
 				$E = str_replace('<sr>N.</s>',$nameE,$E);
+			}
+			if($table==0) {
+				echo "   <table>\n";
+				$table = 1;
 			}
 	echo '    <tr><td:A1>
 	  <p:BodyL>' . $ant . $L .'</p>
@@ -95,5 +129,80 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
 	echo '   </table>
 ';
 }
+
+function multiant($day, $hour, $incs='*') {
+	$dayF = array('','1Sun','2Mon','3Tue',
+		'4Wed','5Thu','6Fri','7Sat');
+	$hourF = array('','1L2','2P','3T','4S','5N');
+	$natL = array('','',
+		'Feria II ante vigiliam Nativ. Domini:',
+		'Feria III ante vigiliam Nativ. Domini:',
+		'Feria IV ante vigiliam Nativ. Domini:',
+		'Feria V ante vigiliam Nativ. Domini:',
+		'Feria VI ante vigiliam Nativ. Domini:',
+		'Sabbato ante vigiliam Nativ. Domini:');
+	$natE = array('','',
+		'Monday before the vigil of the Nativity of our Lord:',
+		'Tuesday before the vigil of the Nativity of our Lord:',
+		'Wednesday before the vigil of the Nativity of our Lord:',
+		'Thursday before the vigil of the Nativity of our Lord:',
+		'Friday before the vigil of the Nativity of our Lord:',
+		'Saturday before the vigil of the Nativity of our Lord:');
+	$hwL = array('','',
+		'Feria II in Hebdomadæ Sanctæ:',
+		'Feria III in Hebdomadæ Sanctæ:',
+		'Feria IV in Hebdomadæ Sanctæ:',
+		'Feria V in Cena Domini:',
+		'Feria VI in Passione et Morte Domini:',
+		'Sabbato sancto:');
+	$hwE = array('','',
+		'Monday of Holy Week:',
+		'Tuesday of Holy Week:',
+		'Wednesday of Holy Week:',
+		'Thursday of the Lord’s Supper:',
+		'Friday of the Passion and Death of our Lord:',
+		'Holy Saturday:');
+
+	if($hour==1) {
+		ant('Psalter/'. $dayF[$day] .'/1L2.php',$incs);
+		space('Line');
+		rubp($natL[$day],$natE[$day]);
+		ant('prTemp/advent' . $dayF[$day] .'.php',$incs);
+		rubp($hwL[$day],$hwE[$day]);
+		ant('prTemp/passion' . $dayF[$day] .'.php',$incs);
+		space('Line');
+	} else {
+		    if($hour==2) $incs = '+0000';
+		elseif($hour==3) $incs = '0+000';
+		elseif($hour==4) $incs = '00+00';
+		elseif($hour==5) $incs = '0000+';
+
+		space();
+		space('Line');
+		rubp('Infra hebd. I Adventus:','In the first week of Advent:');
+		ant('prTemp/advent01.php',$incs);
+		rubp('Infra hebd. II Adventus:','In the second week of Advent:');
+		ant('prTemp/advent02.php',$incs);
+		rubp('Infra hebd. III Adventus:','In the third week of Advent:');
+		ant('prTemp/advent03.php',$incs);
+		rubp($natL[$day],$natE[$day]);
+		ant('prTemp/advent' . $dayF[$day] .'.php',$incs);
+		rubp('Tempore Quadragesimæ:','In the Season of Lent:');
+		ant('prTemp/lentLH.php',$incs);
+		rubp('Infra Hebd I Passionis:','In the first week of Passiontide:');
+		ant('prTemp/passion1LH.php',$incs);
+		if($day<5) {
+			rubp($hwL[$day],$hwE[$day]);
+			ant('prTemp/passion' . $dayF[$day] .'.php',$incs);
+		}
+		space('Line');
+		space(2);
+		ant('Psalter/alleluia.php','P');
+		ant('Psalter/'. $dayF[$day] .'/'. $hourF[$hour] .'.php');
+
+	}
+	
+}
+
 ?>
 

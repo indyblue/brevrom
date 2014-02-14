@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img('Saints/0908_nativity_of_bvm.tif',100); 
-	headSt('Feb. 2',2,'in Purificatione B. Mariæ Virg.',
+	headSt(202,2,'in Purificatione B. Mariæ Virg.',
 		'Purification of the B.V.M.');
 	rubp('Festum B. Mariæ Virg. habetur tamquam festum Domini.',
 		'This feast of the B.V.M. is observed as a feast of our Lord.');
@@ -31,7 +31,6 @@
 	rubrics('asIn.php','o_gloriosa_virginum',
 		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
 	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
-	rubrics('head/Benedictus.php'); 
 	ant('prSanct/0202b.php','B'); 
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0202.php'); 
@@ -75,7 +74,6 @@
 	rubrics('asIn.php','o_gloriosa_virginum',
 		'Common of BVM','Hymn <snr>O gloriósa vírginum</s>');
 	vrS('prSanct/responsum_accepit_simeon_a_spiritu_sancto.php'); 
-	rubrics('head/Magnificat.php'); 
 	ant('prSanct/0202m2.php','M'); 
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0202.php'); 

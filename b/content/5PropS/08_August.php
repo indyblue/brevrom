@@ -17,13 +17,33 @@ feast_saint(804,3,'Sancti Dominici','Saint Dominic','C');
 
 require '0805-3_mary_of_the_snows.php';
 
-require '0806-3_transfiguration.php';
+require '0806-2_transfiguration.php';
+
+require '0807-3_cajetan.php';
+
+feast_saint(808,3,'S. Joannis Mariæ Vianney','St. John Mary Vianney','C',0,
+	'feast_saint(808,-1,"Ss. Cyriaci, Largi et Smaragdi","Ss. Cyriacus, Largus and Smaragdus","M+",array("csMartyrs2.php","Cyríaci, Largi et Smarágdi","Cyriacus, Largus and Smaragdus"));');
+
+require '0809-3_vigil_laurence.php';
+
+require '0810-2_laurence.php';
+
+feast_saint(811,0,'Ss. Tiburtii et Susannæ, Virg.',
+	'Ss. Tiburtius and Susanna, Virg.','M+');
+
+feast_saint(812,3,'Sanctæ Claræ','Saint Clare','V',
+	array('csVirgin1.php','Claræ','Clare'));
+
+feast_saint(813,0,'Ss. Hyppolyti et Cassiani',
+	'Ss. Hyppolite and Cassian','M+');
+
+require '0814-2_vigil_assumption_bvm.php';
+
+require '0815-1_assumption.php';
+
+
 
 	space();
-
-	// require '0815-1_assumption.php';
-	space();
-
 	require '0816-2_joachim.php';
 	space();
 

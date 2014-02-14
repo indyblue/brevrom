@@ -5,7 +5,7 @@
   	bookmark('csCB');
 	head('Commune Confessoris Pontificis',
 		'Common of Bishop Confessor',1,
-		'Common of Saints','Bishop Confessor');
+		'Common of Saints','Bishop Confessors');
 
 	space();
 	hour('1V');

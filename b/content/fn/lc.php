@@ -9,7 +9,7 @@
 // 'Lx' - lesson x.
 // $byref values:
 // 0 - printed normally
-// 'bookmark' - prints detailed reference to bookmark.
+// 'bookmark' - prints detailed reference to 'bookmark'.
 function lc($file, $byref=0, $opt=1, $file2='') {
 	$dir = "/www/b/content/00/LittleChapter/";
 
@@ -26,13 +26,19 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 	if($opt==1) {
 		$title = 'Capit. (Little Chapt.)';
 		$conclL = '<t> <s:VR>R. </s>Deo grátias.';
-		$conclE = '<t> <s:VR>R. </s>Thanks be to God.';
+		$conclE = '<t> <s:VR>R. </s>Thanks be to God.';
 	} elseif($opt==2) {
-		$title = 'Lect. Brev. (Brief Lesson)';
+		if($file2=='') 
+			$title = 'Lectio Brevis (Brief Lesson)';
+		else
+			$title = $file2;
 		$conclL = ' Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.';
 		$conclE = ' But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.';
 	} elseif($opt==3) {
-		$title = 'Lect. Brev. (Brief Lesson)';
+		if($file2=='') 
+			$title = 'Lectio Brevis (Brief Lesson)';
+		else
+			$title = $file2;
 		$conclL = ' Tu autem...';
 		$conclE = ' But thou...';
 	} 
@@ -59,15 +65,14 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 	if($byref) {
 		echo "   <p:Rubric>Capit.: <snr>". start_phrase($txtL,15) 
 			."</s>, (". $cv ."), ". $ref2 ."<snr>p. ". bkref($byref) . "</s></p>\n";
-	} else
+	} else {
 		echo "  <p:RubricHSm>". $title ."<t>". $cv ."</p>\n".
 			"  <table> <tr> <td:A1>\n".
-			"   <p:BodyLDrop>". caps_first_word($txtL) .
-			($r==1?'<t> <s:VR>R. </s>Deo grátias.':'') . "</p>\n".
+			"   <p:BodyLDrop>". caps_first_word($txtL) . $conclL . "</p>\n".
 			"  </td> <td:B1>\n".
-			"   <p:BodyEDrop>". caps_first_word($txtE) .
-			($r==1?'<t> <s:VR>R. </s>Thanks be to God.':'') . "</p>\n".
+			"   <p:BodyEDrop>". caps_first_word($txtE) . $conclE . "</p>\n".
 			"  </td> </tr> </table>\n";
+	}
 
 }
 

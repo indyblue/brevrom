@@ -27,7 +27,7 @@
 	lc('jas1_12.php');
 	bookmark('csMLh');
 	rubrics('head/HymnVerse.php');
-	hymn('invicte_martyr_unicum.php');
+	hymn('invicte_martyr_unicum.php',0);
 	vrS('justus_ut_palma_florebit.php');
 	ant('qui_odit_animam_suam_in_hoc_mundo.php','B');
 
@@ -73,7 +73,7 @@
 	lc('jas1_12.php');
 	bookmark('csMVh');
 	rubrics('head/HymnVerse.php');
-	hymn('deus_tuorum_militum.php');
+	hymn('deus_tuorum_militum.php',0);
 	vrS('justus_ut_palma_florebit.php');
 	ant('qui_vult_venire_post_me_abneget_semetipsum.php','M');
 	rubrics('cs/Compline.php');

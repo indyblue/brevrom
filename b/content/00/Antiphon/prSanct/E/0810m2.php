@@ -1,0 +1,1 @@
+While blessed Laurence * was burning, stretched upon the gridiron, he said to the wicket tyrant: I am now roasted, turn and eat: as to the goods of the Church which thou demandest, the hands of the poor have already conveyed them into the heavenly treasures.

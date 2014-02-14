@@ -81,8 +81,7 @@
 	bookmark('csBVMVlc');
 	lc('ecclus24_14.php');
 	rubrics('head/HymnVerse.php');
-	bookmark('ave_maris_stella');
-	hymn('ave_maris_stella.php');
+	hymn('ave_maris_stella.php',0);
 	vrS('dignare_me_laudare_te_virgo_sacrata.php',2);
 	ant('beatam_me_dicent_omnes_generationes.php','M',2);
 	space('Line');

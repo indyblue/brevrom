@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img(); 
-	headSt('Mar. 24',3,'Sancti Gabrielis',
+	headSt(324,3,'Sancti Gabrielis',
 		'Saint Gabriel','Archangel');
 	rubp('Tempore quadragesimali fit com. in Laudibus tantum.',
 		'Season of Lent, comm. is made in Lauds only.');

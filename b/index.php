@@ -79,6 +79,23 @@ fwrite($fh, $txtContent);
 fclose($fh);
 
 $zip->addFile("./OOo/meta.xml","meta.xml");
+
+
+// 
+// new code to add styles.xml
+//
+
+ob_start(); // start buffer
+include ("OOo/styles.php");
+$txtContent = ob_get_contents(); // assign buffer contents to variable
+ob_end_clean(); // end buffer and remove buffer contents
+
+// adding styles file!
+$zip->addFromString("styles.xml", $txtContent);
+
+
+// old styles.xml code
+/*
 if($_GET['Style']=='7')
 	$zip->addFile("./OOo/styles_7.xml","styles.xml");
 elseif($_GET['Style']=='ds')
@@ -89,9 +106,11 @@ elseif($_GET['Style']=='L5')
 	$zip->addFile("./OOo/styles_Lulu5x8.xml","styles.xml");
 elseif($_GET['Style']=='L6')
 	$i = $zip->addFile("./OOo/styles_Lulu6x9.xml","styles.xml");
+elseif($_GET['Style']=='L8')
+	$i = $zip->addFile("./OOo/styles_Lulu8x11.xml","styles.xml");
 else
 	$zip->addFile("./OOo/styles.xml","styles.xml");
-
+*/
 $zip->addFile("./OOo/settings.xml","settings.xml");
 $zip->addFile("./OOo/META-INF/manifest.xml","META-INF/manifest.xml");
 $zip->addFile("./OOo/Object 1/content.xml","Object 1/content.xml");

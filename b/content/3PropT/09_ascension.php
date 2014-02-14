@@ -296,7 +296,7 @@
     </tr>
    </table>
    <p:Head3>Hymn</p>
-<?php hymn('veni_creator_spiritus.php'); ?>
+<?php hymn('veni_creator_spiritus.php',0); ?>
 	<p:RubricHidden><t>Acts 2:4</p>
    <table>
     <tr>

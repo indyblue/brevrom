@@ -9,6 +9,20 @@ function reading($num, $part=0, $cross=0) {
 	psalm($num, $part, $cross, "/www/b/content/00/Canticle/",'');
 }
 
+function psref($num, $parts=0, $dir = "/www/b/content/00/Psalm/") {
+
+	$fname = sprintf("%03s",$num) . ($parts>0?'-1':'') . '.php';
+	$Lpieces = file_load($dir.$fname);
+
+	$pt = '';
+	if($parts==2) $pt = ' (Parts i &amp; ii)';
+	if($parts==3) $pt = ' (Parts i, ii &amp; iii)';
+
+	$title = str_replace(' i.','.',$Lpieces[0]);
+	head('',$title .', p. ' . bkref('Ps' . $num) . $pt,2);
+
+}
+	
 function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index='Ps') {
 
 	// scan latin directory, filter return for matches
@@ -69,8 +83,8 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 
 	// this actually starts generating the xml text,
 	// beginning with the header.
-	echo '<p:Head2'. $index .'>'. $Lpieces[0] .'</p>
-';
+	if(strlen($Lpieces[0])>0)
+		echo '<p:Head2'. $index .'>'. $Lpieces[0] . "</p>\n";
 
 	// $table=0: the table tag hasn't been inserted yet
 	// $drop=0: the drop cap hasn't been done yet.

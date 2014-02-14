@@ -15,13 +15,25 @@
      </td>
     </tr>
    </table>
-<?php psalm('006.php'); ?>
-<?php psalm('031.php'); ?>
-<?php psalm(37); ?>
-<?php psalm('050.php'); ?>
-<?php psalm(101); ?>
-<?php psalm('129.php'); ?>
-<?php psalm('142.php'); ?>
+<?php
+/*
+psalm(6);
+psalm(31);
+psalm(37);
+psalm(50);
+psalm(101);
+psalm(129);
+psalm(142);
+ */
+psref(6);
+psref(31);
+psref(37,2);
+psref(50);
+psref(101,3);
+psref(129);
+psref(142);
+
+?>
    <p:Spacer/>
    <table>
     <tr>
@@ -1306,7 +1318,7 @@
      </td>
     </tr>
    </table>
-<?php vr('domine_exaudi.php'); ?>
+<?php vr('dv_de.php'); ?>
    <table>
     <tr>
      <td:A1>
@@ -1405,7 +1417,7 @@
      </td>
     </tr>
    </table>
-<?php vr('domine_exaudi.php'); ?>
+<?php vr('dv_de.php'); ?>
    <table>
     <tr>
      <td:A1>

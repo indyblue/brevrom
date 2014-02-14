@@ -22,11 +22,11 @@ g/\v\c<[^aeëiouyæœáéíóúýǽ]{-}((au|[qg]u[aeëiouyæœáéíóúýǽ]|[a
 --- Accent Check ---
 \v\c<[^aeiouyæœ]{-}((au|[qg]u[aeiouyæœ]|[aeiouyæœ])[^aeiouyæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
 
---- accent drop ---
-%s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | noh
-
 --- accent drop & spaces ---
 %s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | %s/\W\{1,}/_/eig | %s/_$//eig | noh
+
+--- accent drop ---
+%s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | noh
 
 
 

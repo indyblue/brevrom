@@ -1,0 +1,1 @@
+O God, who gavest blessed Cajetan thy Confessor grace to follow an apostolic pattern of life; grant, we beseech thee, that, by his intercession and example, we may always trust in thee, and desire only heavenly things. Through our Lord.

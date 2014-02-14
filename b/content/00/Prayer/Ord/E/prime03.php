@@ -1,0 +1,1 @@
+O Lord God, King of heaven and earth, vouchsafe this day to direct and sanctify, to rule and govern our hearts and bodies, our thoughts, words and deeds, in thy law, and in the works of thy commandments, that now and ever we may, by thy help, attain salvation and freedom, O Saviour of the world, who livest and reignest for ever and ever.

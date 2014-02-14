@@ -50,53 +50,11 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
-   <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><t>Joel 3:18, Zach 9:8, Is 55:1,6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 1. </s>In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 1. </s>In that day, * the mountains shall drop down sweetness, and the hills shall flow with milk and honey, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-<?php rubrics('ps/SuL1.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Jucundáre, * fília Sion, et exsúlta satis, fília Jerúsalem, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 2. </s>Take delight, * O daughter of Sion, and rejoice greatly, O daughter of Sion, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Ecce Dóminus véniet, * et omnes Sancti ejus cum eo: et erit in die illa lux magna, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 3. </s>Behold, the Lord shall come, * and all his saints with him; and it shall come to pass in that day that the light shall be great, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Omnes sitiéntes, * veníte ad aquas: quǽrite Dóminum, dum inveníri potest, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 4. </s>All you that thirst, * come to the waters: seek ye the Lord, while he may be found, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Ecce véniet * Prophéta magnus, et ipse renovábit Jerúsalem, allelúja</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 5. </s>Behold, there cometh * a great prophet, and he shall build up a new Jerusalem, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	ant('prTemp/advent01.php','20000');
+	rubrics('ps/SuL1.php'); 
+	ant('prTemp/advent01.php','02222');	
+?>
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
@@ -384,53 +342,11 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
-   <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><t>Is 26:1-2, Hab 2:3, Is 55:12</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Ecce in núbibus * cæli Dóminus véniet cum potestáte magna, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 1. </s>Behold, the Lord * cometh in the clouds of heaven with great power, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-<?php rubrics('ps/SuL1.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Urbs fortitúdinis * nostræ Sion, Salvátor ponétur in ea murus et antemurále: aperíte portas, quia nobíscum Deus, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 2. </s>Sion the city of our strength a saviour, a wall and a bulwark shall be set therein. Open ye the gates, for God is with us, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Ecce apparébit * Dóminus, et non mentiétur: si moram fécerit exspécta eum, quia véniet, et non tardábit, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 3. </s>Behold the Lord * shall appear, and shall not lie. If he make any delay, wait for him, for he shall surely come, and he shall not be slack, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Montes et colles * cantábunt coram Deo laudem, et ómnia ligna silvárum plaudent mánibus: quóniam véniet Dominátor Dóminus in regnum ætérnum, allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 4. </s>The mountains and the hills * shall sing praise before God, and all the trees of the wood shall clap their hands: for the Lord the Ruler, cometh, and he shall reign forever, alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Ecce Dóminus * noster cum virtúte véniet, et illuminábit óculos servórum suórum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 5. </s>Behold our Lord * cometh with power, and shall lighten the eyes of his servants, allelua.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	ant('prTemp/advent02.php','20000');
+	rubrics('ps/SuL1.php'); 
+	ant('prTemp/advent02.php','02222');	
+?>
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
@@ -716,52 +632,11 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
-   <p:Head3>Psalms with Antiphons</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Véniet Dóminus, * et non tardábit, et illuminábit abscóndita tenebrárum, et manifestábit se ad omnes gentes, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 1. </s>The Lord will come, * and will not tarry; he both will bring to light the hidden things of darkness, and will make Himself manifest to all people, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-<?php rubrics('ps/SuL1.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Jerúsalem, gaude * gáudio magno, quia véniet tibi Salvátor, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 2. </s>Rejoice greatly, O Jerusalem, * for thy Saviour cometh unto thee, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Dabo in Sion * salútem, et in Jerúsalem glóriam meam, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 3. </s>I will place salvation in Zion, * and my glory in Jerusalem, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Montes et omnes colles * humiliabúntur: et erunt prava in dirécta, et áspera in vias planas: veni, Dómine, et noli tardáre, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 4. </s>Every mountain and hill * shall be made low, and the crooked shall be made straight, and the rough places plain: O Lord, come and make no tarrying, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Juste et pie * vivámus, exspectántes beátam spem, et advéntum Dómini.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 5. </s>We should live * righteously and godly, looking for that blessed hope and the coming of the Lord.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	ant('prTemp/advent03.php','20000');
+	rubrics('ps/SuL1.php'); 
+	ant('prTemp/advent03.php','02222');	
+?>
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
@@ -1186,52 +1061,11 @@
    <p:Rubric>Magnificat: O Antiphon.</p>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
-   <p:Head3>Psalms with Antiphons</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Cánite tuba * in Sion, quia prope est dies Dómini: ecce véniet ad salvándum nos, allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 1. </s>Blow ye the trumpet * in Zion, for the day of the Lord is nigh at hand: behold, he cometh to save us, alleluia, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-<?php rubrics('ps/SuL1.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Ecce véniet * desiderátus cunctis Géntibus: et replébitur glória domus Dómini, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 2. </s>Behold, the desire * of all nations shall come; and the house of the Lord shall be filled with glory, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Erunt prava * in dirécta, et áspera in vias planas: veni, Dómine, et noli tardáre, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 3. </s>The crooked * shall be made straight, and the rough places plain; O Lord, come, and make no tarrying, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Dóminus véniet, * occúrrite illi, dicéntes: Magnum princípium, et regni ejus non erit finis: Deus, Fortis, Dominátor, Princeps pacis, allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 4. </s>The Lord cometh! * Go ye out to meet him, and say: How great is his dominion, and of his kingdom there shall be no end! He is the mighty God, the Ruler, the Prince of Peace, alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Omnípotens Sermo tuus, Dómine, a regálibus sédibus véniet, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 5. </s>Thine almighty Word, * O Lord, shall leap down out of thy royal throne, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	ant('prTemp/advent04.php','20000');
+	rubrics('ps/SuL1.php'); 
+	ant('prTemp/advent04.php','02222');	
+?>
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus (if not Dec. 21 or 23)</p>

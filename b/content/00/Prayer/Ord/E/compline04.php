@@ -1,0 +1,1 @@
+Grant, O merciful God, thy protection in our weakness: that we who celebrate the memory of the holy Mother of God, may, through the aid of her intercession, rise again from our sins. Through the same Christ our Lord.

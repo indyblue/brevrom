@@ -1,0 +1,1 @@
+Beátus Lauréntius, * dum in cratícula superpósitus urerétur, ad impiíssimum tyránnum dixit: Assátum est jam, versa et mandúca; nam facultátes Ecclésiæ, quas requíris, in cæléstes thesáuros manus páuperum deportavérunt.

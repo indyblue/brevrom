@@ -6,7 +6,7 @@
 	rubrics('prSanct/all_from.php','csAp');
 	
 	prayer('prSanct/0725.php');
-	feast_saint(723,-1,"Sancti Christophori","Saint Christopher","M",
+	feast_saint(725,-1,"Sancti Christophori","Saint Christopher","M",
 		array("csMartyr1.php","Christóphori","Christopher"));
 
 ?>

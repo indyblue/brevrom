@@ -1,0 +1,1 @@
+Deus, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum lætificáre dignátus es; præsta, quǽsumus; ut, per ejus Genitrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per eúmdem Christum Dóminum nostrum.

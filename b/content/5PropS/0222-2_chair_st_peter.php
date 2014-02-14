@@ -12,7 +12,6 @@
 	rubrics('head/HymnVerse.php');
 	hymn('beate_pastor_petre_clemens_accipe.php');
 	vrS('prSanct/exaltent_eum_in_ecclesia_plebis.php'); 
-	rubrics('head/Benedictus.php'); 
 	ant('prSanct/0222b.php','B');
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0222.php'); 

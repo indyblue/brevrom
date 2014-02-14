@@ -8,6 +8,12 @@ function prayer($file, $nameL='', $nameE='') {
 	$L = $Lpieces[0];
 	$E = $Epieces[0];
 
+	$amen = '';
+	if($nameL===1) {
+		$nameL = '';
+		$amen = '<t> <s:VR>R.</s> Amen.';
+	}
+
 	if(strlen($nameL)>0) {
 		if(strlen($nameE)==0)
 			trigger_error('Latin substitute name given for ant. ' . $file . ', but no English name given.', E_USER_ERROR);
@@ -18,9 +24,9 @@ function prayer($file, $nameL='', $nameE='') {
 		$E = str_replace('<sr>P.</s>','<sr>N.</s> and <sr>N.</s>',$E);
 	}
 	echo '<table><tr><td:A1>
-<p:BodyLDrop>'. caps_first_word($L) .'</p>
+<p:BodyLDrop>'. caps_first_word($L) . $amen .'</p>
 </td><td:B1>
-<p:BodyEDrop>'. caps_first_word($E) .'</p>
+<p:BodyEDrop>'. caps_first_word($E) . $amen .'</p>
 </td></tr></table>
 ';
 
