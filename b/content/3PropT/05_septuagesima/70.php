@@ -1,6 +1,6 @@
 <?php 
 	space();
-	hidden('Septuagesima',1);
+	hidden('Season of Septuagesima',1);
 	hidden('Septuagesima',2);
 	head_temp(2,'Dominica in Septuagesima', 'Septuagesima Sunday');
 
@@ -28,7 +28,7 @@
 	ant('PrTemp/septuagesima/70b.php','B');
 	space();
 
-	ordref(0,5,0);
+	ordref(0,6,0);
 	space();
 
 	hour('P');

@@ -1,7 +1,7 @@
 <?php 
 	space();
 	hidden('Advent',1);
-	hidden('Advent IV',2);
+	hidden('Fourth Sunday',2);
 	head_temp(1,'Dominica IV Adventus', 'Fourth Sunday of Advent');
 
 	rubp('Si in dominica IV Adventus venerit vigilia Nativitatis Domini, Officium fit ut infra, ad vigiliam, ordinatur <snr>'.bkref('advent24').'</s>.', 'If the fourth Sunday of Advent falls on the vigil of the Nativity of the Lord, the Office is said as directed at the vigil, <snr>p. '.bkref('advent24').'</s>.');

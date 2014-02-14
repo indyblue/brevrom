@@ -1,7 +1,7 @@
 <?php 
 	space();
 	hidden('Advent',1);
-	hidden('Advent II',2);
+	hidden('Second Sunday',2);
 	head_temp(1,'Dominica II Adventus', 'Second Sunday of Advent');
 
 	hour('1V');

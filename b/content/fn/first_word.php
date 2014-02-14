@@ -43,7 +43,7 @@ function start_phrase($sline,$minlen=10,$retarr=0) {
 }
 
 function trimP($string) {
-	return trim($string," \t.,;:!?");
+	return trim($string," \t—-.,;:!?");
 }
 
 ?>
