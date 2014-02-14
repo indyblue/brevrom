@@ -3,6 +3,7 @@ hyphenation between any:
    vowel followed by consonant
    consonant followed by consonant
 excepting:
+	ex
    [cpt] followed by h
    [bcdgpt] followed by [lr]
 special rules:

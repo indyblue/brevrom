@@ -100,7 +100,7 @@ $_GET['old'] = 1;
 require '6ComS/677_BVMp.php';
 
 // */ 
-//*
+/*
 space('PgB');
 $_GET['matins'] = 0;
 require '6ComS/690_OfficeDead.php';
@@ -159,12 +159,18 @@ echo bklist(0);
 // * test
 // ************************************************************
 /*
-$_GET['Style'] = '7';
+$_GET['Style'] = '2';
+$_GET['PgW'] = 3.5;
+$_GET['PgH'] = 5;
+$_GET['PgMar'] = .25;
+$_GET['PgGMar'] = .25;
+$_GET['BodyFont'] = 6;
+
 bklist('test');
 
 $_GET['old'] = 0;
 $_GET['matins'] = 1;
-$_GET['long'] = 1;
+$_GET['long'] = 0;
 
 require '100_intro.php';
 require '1Ordinary/index.php';
@@ -172,6 +178,7 @@ require '1Ordinary/index.php';
 require '2Psalter/index.php';
 
 require '6ComS/index.php';
+$_GET['long'] = 1;
 require '6ComS/677_BVMp.php';
 $_GET['matins'] = 0;
 require '6ComS/690_OfficeDead.php';
@@ -196,6 +203,7 @@ require '100_intro.php';
 require '110_toc.php';
 require '150_calendar.php';
 require '3PropT/index.php';
+/*
 require '1Ordinary/index.php';
 
 $_GET['long'] = 1;
@@ -215,7 +223,7 @@ require '7App/index.php';
 // ************************************************************
 // * 5.5x8.5 Lulu Master copy
 // ************************************************************
-/*
+//*
 $_GET['Style'] = 'L5';
 bklist('test');
 
