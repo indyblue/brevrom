@@ -9,11 +9,10 @@
 <?php ant('prSanct/1130.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('rom10_10.php'); ?>
-   <p:BodySm/>
-<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Common of Apostles','Hymn','Exsúltet orbis'); ?>
+<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Common of Apostles','Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>
 <?php vrS('annuntiaverunt_opera_dei.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('prSanct/1130b.php'); ?>
+<?php ant('prSanct/1130b.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1130.php'); ?>
    <p:BodySm/>
@@ -50,10 +49,10 @@
 <?php rubrics('ps/ComAp.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('rom10_10.php'); ?>
-<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Common of Apostles','Hymn','Exsúltet orbis'); ?>
+<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Common of Apostles','Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>
 <?php vrS('annuntiaverunt_opera_dei.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
-<?php ant('prSanct/1130m2.php'); ?>
+<?php ant('prSanct/1130m2.php','M'); ?>
 <?php rubrics('prSanct/if1Vespers.php'); ?>
-<?php ant('prSanct/1130m1.php'); ?>
+<?php ant('prSanct/1130m1.php','M'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

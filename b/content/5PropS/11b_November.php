@@ -14,7 +14,7 @@ echo ($_GET['L']==1?'Festa Novembris':'Feasts of November')
 <?php prayer('prSanct/1129.php'); ?>
    <p:BodySm/>
 
-<?php require '00_1130-2_andrew.php'; ?>
+<?php require '1130-2_andrew.php'; ?>
    <p:BodySm/>
 
 
