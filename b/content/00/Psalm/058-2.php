@@ -1,4 +1,4 @@
-Ps 58 ii. Deus osténdit mihi
+Ps 58 ii. (59) Deus osténdit mihi
 Deus osténdet mihi super inimícos meos, ne occídas eos: * nequándo obliviscántur pópuli mei.
 Dispérge illos in virtúte tua: * et depóne eos, protéctor meus, Dómine:
 Delíctum oris eórum, sermónem labiórum ipsórum: * et comprehendántur in supérbia sua.

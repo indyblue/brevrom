@@ -1,4 +1,4 @@
-Ps 9 iv. Exsúrge, Dómine Deus
+Ps 9 iv. (10) Exsúrge, Dómine Deus
 Exsúrge, Dómine Deus, exaltétur manus tua: *‡ ne obliviscáris páuperum.
 Propter quid irritávit ímpius Deum? * dixit enim in corde suo: Non requíret.
 Vides quóniam tu labórem et dolórem consíderas: * ut tradas eos in manus tuas.

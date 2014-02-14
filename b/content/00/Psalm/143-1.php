@@ -1,4 +1,4 @@
-Ps 143 i. Benedíctus Dóminus
+Ps 143 i. (144) Benedíctus Dóminus
 Benedíctus Dóminus, Deus meus, qui docet manus meas ad prǽlium, * et dígitos meos ad bellum.
 Misericórdia mea, et refúgium meum: * suscéptor meus, et liberátor meus:
 Protéctor meus, et in ipso sperávi: * qui subdit pópulum meum sub me.

@@ -1,5 +1,4 @@
-Cant Moysis
-~<t>Exod. 15:1-19
+Cant. Moses (Exod. 15:1-19)
 Let us sing to the Lord: for he is gloriously magnified, * the horse and the rider he hath thrown into the sea.
 The Lord is my strength and my praise, * and he is become salvation to me:
 He is my God and I will glorify him: * the God of my father, and I will exalt him.

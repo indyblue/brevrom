@@ -1,4 +1,4 @@
-Ps 77 v. Non sunt recordáti
+Ps 77 v. (78) Non sunt recordáti
 Non sunt recordáti manus ejus, * die qua redémit eos de manu tribulántis.
 Sicut pósuit in Ægýpto signa sua, * et prodígia sua in campo Táneos.
 Et convértit in sánguinem flúmina eórum: * et imbres eórum, ne bíberent.

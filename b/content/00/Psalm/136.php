@@ -1,4 +1,4 @@
-Ps 136. Super flúmina
+Ps 136. (137) Super flúmina
 Super flúmina Babylónis, illic sédimus et flévimus: * cum recordarémur Sion:
 In salícibus in médio ejus, * suspéndimus órgana nostra.
 Quia illic interrogavérunt nos, qui captívos duxérunt nos, * verba cantiónum:

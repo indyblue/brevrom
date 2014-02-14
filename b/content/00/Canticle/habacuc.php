@@ -1,5 +1,4 @@
-Cant Habacuc
-~<t>Hab. 3:2
+Cant. Habacuc (3:2)
 Dómine, audívi auditiónem tuam, * et tímui.
 Dómine, opus tuum, * in médio annórum vivífica illud:
 In médio annórum notum fácies: * cum irátus fúeris, misericórdiæ recordáberis.

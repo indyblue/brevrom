@@ -1,0 +1,2 @@
+Glória Patri.
+Sicut erat.

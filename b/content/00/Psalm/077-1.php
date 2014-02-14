@@ -1,4 +1,4 @@
-Ps 77 i. Atténdite, pópule
+Ps 77 i. (78) Atténdite, pópule
 Atténdite, pópule meus, legem meam: * inclináte aurem vestram in verba oris mei.
 Apériam in parábolis os meum: * loquar propositiónes ab inítio.
 Quanta audívimus et cognóvimus ea: * et patres nostri narravérunt nobis.

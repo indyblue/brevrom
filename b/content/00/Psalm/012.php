@@ -1,4 +1,4 @@
-Ps 12. Úsquequo, Dómine
+Ps 12. (13) Úsquequo, Dómine
 Úsquequo, Dómine, obliviscéris me in finem? * Úsquequo avértis fáciem tuam a me?
 Quámdiu ponam consília in ánima mea, * dolórem in corde meo per diem?
 Úsquequo exaltábitur inimícus meus super me? * réspice, et exáudi me, Dómine, Deus meus.

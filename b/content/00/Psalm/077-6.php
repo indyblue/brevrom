@@ -1,4 +1,4 @@
-Ps 77 vi. Audívit Deus
+Ps 77 vi. (78) Audívit Deus
 Audívit Deus, et sprevit: * et ad níhilum redégit valde Israël.
 Et répulit tabernáculum Silo: * tabernáculum suum, ubi habitávit in homínibus.
 Et trádidit in captivitátem virtútem eórum: * et pulchritúdinem eórum in manus inimíci.

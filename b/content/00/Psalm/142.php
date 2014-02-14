@@ -1,4 +1,4 @@
-Ps 142. Dómine, exáudi
+Ps 142. (143) Dómine, exáudi
 Dómine, exáudi oratiónem meam: áuribus pércipe obsecratiónem meam in veritáte tua: * exáudi me in tua justítia.
 Et non intres in judícium cum servo tuo: * quia non justificábitur in conspéctu tuo omnis vivens.
 Quia persecútus est inimícus ánimam meam: * humiliávit in terra vitam meam.

@@ -1,4 +1,4 @@
-Ps 43 i. Deus áuribus
+Ps 43 i. (44) Deus áuribus
 Deus, áuribus nostris audívimus: * patres nostri annuntiavérunt nobis.
 Opus, quod operátus es in diébus eórum, * et in diébus antíquis.
 Manus tua gentes dispérdidit, et plantásti eos: * afflixísti pópulos, et expulísti eos.

@@ -1,5 +1,4 @@
-Cant Judith
-~<t>Judith 16:15
+Cant. Judith (16:15)
 Let us sing a hymn to the Lord, * let us sing a new hymn to our God.
 O Adonai, Lord, great art thou, and glorious in thy power, * and no one can overcome thee.
 Let all thy creatures serve thee: * because thou hast spoken, and they were made:

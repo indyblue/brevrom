@@ -1,5 +1,4 @@
-Cant Ezechiæ
-~<t>Is. 38:10
+Cant. Exechiel (Is. 38:10)
 I said: In the midst of my days * I shall go to the gates of hell:
 I sought for the residue of my years. * I said: I shall not see the Lord God in the land of the living.
 I shall behold man no more, * nor the inhabitant of rest.

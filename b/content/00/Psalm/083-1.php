@@ -1,4 +1,4 @@
-Ps 83 i. Quam dilécta
+Ps 83 i. (84) Quam dilécta
 Quam dilécta tabernácula tua, Dómine virtútum: * concupíscit, et déficit ánima mea in átria Dómini.
 Cor meum, et caro mea * exsultavérunt in Deum vivum.
 Étenim passer invénit sibi domum: * et turtur nidum sibi, ubi ponat pullos suos.

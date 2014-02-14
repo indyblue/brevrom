@@ -1,5 +1,4 @@
-Cant Ezechiæ
-~<t>Is. 38:10
+Cant. Ezechiæ (Is. 38:10)
 Ego dixi: In dimídio diérum meórum * vadam ad portas ínferi.
 Quæsívi resíduum annórum meórum. * Dixi: Non vidébo Dóminum Deum in terra vivéntium.
 Non aspíciam hóminem ultra, * et habitatórem quiétis.

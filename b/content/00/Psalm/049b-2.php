@@ -1,4 +1,4 @@
-Ps 49 ii. Audi, pópulus meus
+Ps 49 ii. (50) Audi, pópulus meus
 Audi, pópulus meus, et loquar: Israël, et testificábor tibi: * Deus, Deus tuus ego sum.
 Non in sacrifíciis tuis árguam te: * holocáusta autem tua in conspéctu meo sunt semper.
 Non accípiam de domo tua vítulos: * neque de grégibus tuis hircos.

@@ -25,7 +25,7 @@
 
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>
-<?php PrV('qui_passus_es_propter_nostrum_salutem.php'); ?>
+<?php PrV('qui_passus_es_propter_nostram_salutem.php'); ?>
 	<p:BodySm/>
 
 <?php rubrics('head/Terce.php'); ?>

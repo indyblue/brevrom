@@ -1,5 +1,4 @@
-Cant Isaiæ
-~<t>Is. 45:15
+Cant. Isaiæ (45:15)
 Vere tu es Deus abscónditus, * Deus Israël, Salvátor.
 Confúsi sunt, et erubuérunt omnes: * simul abiérunt in confusiónem fabricatóres errórum.
 Israël salvátus est in Dómino salúte ætérna: * non confundémini, et non erubescétis usque in sǽculum sǽculi.

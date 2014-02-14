@@ -1,4 +1,4 @@
-Ps 92. Dóminus regnávit
+Ps 92. (93) Dóminus regnávit
 Dóminus regnávit, decórem indútus est: * indútus est Dóminus fortitúdinem, et præcínxit se.
 Étenim firmávit orbem terræ, * qui non commovébitur.
 Paráta sedes tua ex tunc: * a sǽculo tu es.

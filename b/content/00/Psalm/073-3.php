@@ -1,4 +1,4 @@
-Ps 73 iii. Memor esto hujus
+Ps 73 iii. (74) Memor esto hujus
 Memor esto hujus, inimícus improperávit Dómino: * et pópulus insípiens incitávit nomen tuum.
 Ne tradas béstiis ánimas confiténtes tibi, * et ánimas páuperum tuórum ne obliviscáris in finem.
 Réspice in testaméntum tuum: * quia repléti sunt, qui obscuráti sunt terræ dómibus iniquitátum.

@@ -1,4 +1,4 @@
-Ps 35. Dixit injústus
+Ps 35. (36) Dixit injústus
 Dixit injústus ut delínquat in semetípso: * non est timor Dei ante óculos ejus.
 Quóniam dolóse egit in conspéctu ejus: * ut inveniátur iníquitas ejus ad ódium.
 Verba oris ejus iníquitas, et dolus: * nóluit intellígere ut bene ágeret.

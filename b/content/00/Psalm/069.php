@@ -1,4 +1,4 @@
-Ps 69. Deus, in adjutórium
+Ps 69. (70) Deus, in adjutórium
 Deus, in adjutórium meum inténde: * Dómine, ad adjuvándum me festína.
 Confundántur et revereántur, * qui quærunt ánimam meam.
 Avertántur retrórsum, et erubéscant, * qui volunt mihi mala.

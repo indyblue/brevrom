@@ -2,7 +2,7 @@ Psalmus 36 iii. Os justi meditábitur
 The mouth of the just shall meditate wisdom: * and his tongue shall speak judgment.
 The law of his God is in his heart, * and his steps shall not be supplanted.
 The wicked watcheth the just man, * and seeketh to put him to death.
-But the Lord will not leave in his hands; * nor condemn him when he shall be judged.
+But the Lord will not leave him in his hands; * nor condemn him when he shall be judged.
 Expect the Lord and keep his way: and he will exalt thee to inherit the land: * when the sinners shall perish thou shalt see.
 I have seen the wicked highly exalted, * and lifted up like the cedars of Libanus.
 And I passed by, and lo, he was not: * and I sought him and his place was not found.

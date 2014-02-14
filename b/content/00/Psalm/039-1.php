@@ -1,4 +1,4 @@
-Ps 39 i. Exspéctans exspectávi
+Ps 39 i. (40) Exspéctans exspectávi
 Exspéctans exspectávi Dóminum, * et inténdit mihi.
 Et exaudívit preces meas: * et edúxit me de lacu misériæ, et de luto fæcis.
 Et státuit super petram pedes meos: * et diréxit gressus meos.

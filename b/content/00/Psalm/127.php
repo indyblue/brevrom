@@ -1,4 +1,4 @@
-Ps 127. Beáti omnes
+Ps 127. (128) Beáti omnes
 Beáti, omnes, qui timent Dóminum, *‡ qui ámbulant in viis ejus.
 Labóres mánuum tuárum quia manducábis: * beátus es, et bene tibi erit.
 Uxor tua sicut vitis abúndans, * in latéribus domus tuæ.

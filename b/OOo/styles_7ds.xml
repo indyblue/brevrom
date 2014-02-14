@@ -26,7 +26,7 @@
 
   <style:style style:name="BodyE" style:family="paragraph" style:parent-style-name="Body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="6.5pt"/>
+   <style:text-properties fo:font-size="6.4pt"/>
   </style:style>
   <style:style style:name="BodyESm" style:family="paragraph" style:parent-style-name="BodySm">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
@@ -48,11 +48,11 @@
 
   <style:style style:name="BodyL" style:family="paragraph" style:parent-style-name="Body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="9pt" fo:language="la" fo:country="VA"/>
+   <style:text-properties fo:font-size="8.8pt" fo:language="la" fo:country="VA"/>
   </style:style>
   <style:style style:name="BodyLSm" style:family="paragraph" style:parent-style-name="BodySm">
-   <style:paragraph-properties fo:font-size="8pt" fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="8pt" fo:language="la" fo:country="VA"/>
+   <style:paragraph-properties fo:font-size="8.4pt" fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="7.5pt" fo:language="la" fo:country="VA"/>
   </style:style>
   <style:style style:name="BodyLDrop" style:family="paragraph" style:parent-style-name="BodyL" style:class="extra" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto">
@@ -114,7 +114,7 @@
 
   <style:style style:name="Head2" style:family="paragraph" style:parent-style-name="Head1" style:next-style-name="Rubric" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.02in" fo:margin-bottom="0.02in"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="10pt" fo:font-weight="bold"/>
+   <style:text-properties style:font-name="TimesLatin" fo:font-size="10pt" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="Head2L" style:family="paragraph" style:parent-style-name="Head2">
      <style:text-properties text:display="true"/>

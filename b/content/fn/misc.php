@@ -19,6 +19,7 @@ function bkref($link='') {
 }
 function PrV($file, $option=0) {
 	$dir = "/www/b/content/00/VR/prime/";
+	if($option==0)
 		rubrics('ord/prime_brv.php');
 		require $dir.'0Versicle.php';
 }

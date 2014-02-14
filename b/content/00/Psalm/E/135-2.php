@@ -2,9 +2,9 @@ Psalmus 135 ii. Qui percússit Ægýptum
 Who smote Egypt with their firstborn: * for his mercy endureth for ever.
 Who brought out Israel from among them: * for his mercy endureth for ever.
 With a mighty hand and with a stretched out arm: * for his mercy endureth for ever.
-Who divided the Red sea into parts: * for his mercy endureth for ever.
+Who divided the Red Sea into parts: * for his mercy endureth for ever.
 And brought out Israel through the midst thereof: * for his mercy endureth for ever.
-And overthrew Pharao and his host in the Red sea: * for his mercy endureth for ever.
+And overthrew Pharao and his host in the Red Sea: * for his mercy endureth for ever.
 Who led his people through the desert: * for his mercy endureth for ever.
 Who smote great kings: * for his mercy endureth for ever.
 And slew strong kings: * for his mercy endureth for ever.

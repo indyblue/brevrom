@@ -1,5 +1,4 @@
-Cant Ecclesiastici
-~<t>Eccl 36:1
+Cant. Ecclesiastici (Ecclus. [Sir.] 36:1)
 Miserére nostri, Deus ómnium, et réspice nos, * et osténde nobis lucem miseratiónum tuárum:
 Et immítte timórem tuum super gentes, * quæ non exquisiérunt te,
 Ut cognóscant quia non est Deus nisi tu, * et enárrent magnália tua.

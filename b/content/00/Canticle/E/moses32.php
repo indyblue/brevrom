@@ -1,5 +1,4 @@
-Cant Moysis
-~<t>Deut. 32:1-18
+Cant. Moses (Deut. 32:1-18)
 Hear, O ye heavens, the things I speak, * let the earth give ear to the words of my mouth. 
 Let my doctrine gather as the rain, * let my speech distil as the dew, 
 As a shower upon the herb, and as drops upon the grass. * Because I will invoke the name of the Lord: 

@@ -1,5 +1,4 @@
-Cant Ecclesiastici
-~<t>Eccl 36:1
+Cant. Ecclesiasticus (Ecclus. [Sir.] 36:1)
 Have mercy upon us, O God of all, and behold us, * and shew us the light of thy mercies:
 And send thy fear upon the nations, * that have not sought after thee:
 That they may know that there is no God beside thee, * and that they may shew forth thy wonders.

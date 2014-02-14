@@ -6,4 +6,4 @@ I humbled my soul with fasting; * and my prayer shall be turned into my bosom.
 As a neighbour and as an own brother, so did I please: * as one mourning and sorrowful so was I humbled.
 But they rejoiced against me, and came together: * scourges were gathered together upon me, and I knew not.
 They were separated, and repented not: they tempted me, they scoffed at me with scorn: * they gnashed upon me with their teeth.
-Lord, when wilt thou look upon me? * rescue thou soul from their malice: my only one from the lions.
+Lord, when wilt thou look upon me? * rescue thou my soul from their malice: my only one from the lions.

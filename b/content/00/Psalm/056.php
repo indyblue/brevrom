@@ -1,4 +1,4 @@
-Ps 56. Miserére mei, Deus
+Ps 56. (57) Miserére mei, Deus
 Miserére mei, Deus, miserére mei: * quóniam in te confídit ánima mea.
 Et in umbra alárum tuárum sperábo, * donec tránseat iníquitas.
 Clamábo ad Deum altíssimum: * Deum qui benefécit mihi.

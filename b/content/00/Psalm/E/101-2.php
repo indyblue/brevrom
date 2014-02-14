@@ -1,7 +1,7 @@
 Psalmus 101 ii. Tu exsúrgens
 Thou shalt arise and have mercy on Sion: * for it is time to have mercy on it, for the time is come.
 For the stones thereof have pleased thy servants: * and they shall have pity on the earth thereof.
-And the Gentiles shall fear thy name, O Lord, * and all the kings of the earth thy glory.
+All the Gentiles shall fear thy name, O Lord, * and all the kings of the earth thy glory.
 For the Lord hath built up Sion: * and he shall be seen in his glory.
 He hath had regard to the prayer of the humble: * and he hath not despised their petition.
 Let these things be written unto another generation: * and the people that shall be created shall praise the Lord:

@@ -1,5 +1,4 @@
-Cant Moysis
-~<t>Exod. 15:1-19
+Cant. Moysis (Exod. 15:1-19)
 Cantémus Dómino: glorióse enim magnificátus est, * equum et ascensórem dejécit in mare.
 Fortitúdo mea, et laus mea Dóminus, * et factus est mihi in salútem.
 Iste Deus meus, et glorificábo eum: * Deus patris mei, et exaltábo eum.

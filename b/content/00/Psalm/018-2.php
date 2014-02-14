@@ -1,4 +1,4 @@
-Ps 18 ii. Lex Dómini
+Ps 18 ii. (19) Lex Dómini
 Lex Dómini immaculáta, convértens ánimas: * testimónium Dómini fidéle, sapiéntiam præstans párvulis.
 Justítiæ Dómini rectæ, lætificántes corda: * præcéptum Dómini lúcidum; illúminans óculos.
 Timor Dómini sanctus, pérmanens in sǽculum sǽculi: * judícia Dómini vera, justificáta in semetípsa.

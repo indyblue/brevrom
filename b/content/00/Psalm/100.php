@@ -1,4 +1,4 @@
-Ps 100. Misericórdiam et judícium
+Ps 100. (101) Misericórdiam et judícium
 Misericórdiam, et judícium * cantábo tibi, Dómine:
 Psallam, et intélligam in via immaculáta, * quando vénies ad me.
 Perambulábam in innocéntia cordis mei, * in médio domus meæ.

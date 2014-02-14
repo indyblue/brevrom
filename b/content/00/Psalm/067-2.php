@@ -1,4 +1,4 @@
-Ps 67 ii. Dóminus dabit
+Ps 67 ii. (68) Dóminus dabit
 Dóminus dabit verbum evangelizántibus, * virtúte multa.
 Rex virtútum dilécti dilécti: * et spéciei domus divídere spólia.
 Si dormiátis inter médios cleros, pennæ colúmbæ deargentátæ, * et posterióra dorsi ejus in pallóre auri.

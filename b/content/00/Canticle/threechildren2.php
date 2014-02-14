@@ -1,5 +1,4 @@
-Cant Trium Puerorum
-~<t>Dan. 3:52-57
+Cant. Trium Puerorum (Dan. 3:52-57)
 Benedíctus es, Dómine, Deus patrum nostrórum: * et laudábilis, et gloriósus, et superexaltátus in sǽcula.
 Et benedíctum nomen glóriæ tuæ sanctum: * et laudábile, et superexaltátum in ómnibus sǽculis.
 Benedíctus es in templo sancto glóriæ tuæ: * et superlaudábilis, et supergloriósus in sǽcula.

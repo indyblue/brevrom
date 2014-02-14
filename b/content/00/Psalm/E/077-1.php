@@ -8,5 +8,5 @@ And he set up a testimony in Jacob: * and made a law in Israel.
 How great things he commanded our fathers, that they should make the same known to their children: * that another generation might know them.
 The children that should be born and should rise up, * and declare them to their children.
 That they may put their hope in God and may not forget the works of God: * and may seek his commandments.
-That they may not become like their fathers, * a perverse end exasperating generation.
+That they may not become like their fathers, * a perverse and exasperating generation.
 A generation that set not their heart aright: * and whose spirit was not faithful to God.

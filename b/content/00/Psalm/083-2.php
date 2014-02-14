@@ -1,4 +1,4 @@
-Ps 83 ii. Dómine, Deus virtútum
+Ps 83 ii. (84) Dómine, Deus virtútum
 Dómine, Deus virtútum, exáudi oratiónem meam: * áuribus pércipe, Deus Jacob.
 Protéctor noster, áspice, Deus: * et réspice in fáciem Christi tui:
 Quia mélior est dies una in átriis tuis, * super míllia.

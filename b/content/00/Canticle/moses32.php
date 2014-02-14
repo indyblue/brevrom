@@ -1,5 +1,4 @@
-Cant Moysis
-~<t>Deut. 32:1-18
+Cant. Moysis (Deut. 32:1-18)
 Audíte, cæli, quæ loquor: * áudiat terra verba oris mei.
 Concréscat ut plúvia doctrína mea, * fluat ut ros elóquium meum.
 Quasi imber super herbam, et quasi stillæ super grámina. * Quia nomen Dómini invocábo.

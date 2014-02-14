@@ -10,6 +10,6 @@ Let the mercies of the Lord give glory to him: * and his wonderful works to the 
 For he hath satisfied the empty soul, * and hath filled the hungry soul with good things.
 Such as sat in darkness and in the shadow of death: * bound in want and in iron.
 Because they had exasperated the words of God: * and provoked the counsel of the most High:
-And their heart was humbled with labours: * they were weakened, and their was none to help them.
+And their heart was humbled with labours: * they were weakened, and there was none to help them.
 Then they cried to the Lord in their affliction: * and he delivered them out of their distresses.
 And he brought them out of darkness, * and the shadow of death; and broke their bonds in sunder.

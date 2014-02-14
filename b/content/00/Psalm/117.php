@@ -1,4 +1,4 @@
-Ps 117. Confitémini Dómino
+Ps 117. (118) Confitémini Dómino
 Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.
 Dicat nunc Israël quóniam bonus: * quóniam in sǽculum misericórdia ejus.
 Dicat nunc domus Áaron: * quóniam in sǽculum misericórdia ejus.

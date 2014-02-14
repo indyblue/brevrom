@@ -1,4 +1,4 @@
-Ps 75 i. Notus in Judǽa
+Ps 75 i. (76) Notus in Judǽa
 Notus in Judǽa Deus: * in Israël magnum nomen ejus.
 Et factus est in pace locus ejus: * et habitátio ejus in Sion.
 Ibi confrégit poténtias árcuum, * scutum, gládium, et bellum.

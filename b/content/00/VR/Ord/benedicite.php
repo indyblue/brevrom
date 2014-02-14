@@ -1,0 +1,2 @@
+Benedícite.
+Deus.

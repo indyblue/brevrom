@@ -1,4 +1,4 @@
-Ps 24 ii. Dulcis et rectus
+Ps 24 ii. (25) Dulcis et rectus
 Dulcis et rectus Dóminus: * propter hoc legem dabit delinquéntibus in via.
 Díriget mansuétos in judício: * docébit mites vias suas.
 Univérsæ viæ Dómini, misericórdia et véritas, * requiréntibus testaméntum ejus et testimónia ejus.

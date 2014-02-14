@@ -1,5 +1,4 @@
-Cant Jeremiæ
-~<t>Jer. 31:10
+Cant. Jeremiæ (31:10)
 Audíte verbum Dómini, gentes, * et annuntiáte in ínsulis, quæ procul sunt,
 Et dícite: Qui dispérsit Israël, congregábit eum: * et custódiet eum sicut pastor gregem suum.
 Redémit enim Dóminus Jacob, * et liberávit eum de manu potentióris.

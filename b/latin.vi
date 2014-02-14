@@ -17,6 +17,15 @@ g/\v\c<[^aeëiouyæœáéíóúýǽ]{-}((au|[qg]u[aeëiouyæœáéíóúýǽ]|[a
 
 %s/<text:bookmark-ref.*ref>/\r\0\r/g | g!/bookmark-ref/d | %s/<text:bookmark-ref.*name="\([^"]*\)".*ref>/<p:BkHidden><text:bookmark text:name="\1"\/><\/p>/
 
+find double/triple consonants
+%s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0\r\2,\0\r\3,\0/ig
+%s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0\r\2,\0/ig
+%s/\v^\k*([b-df-hj-np-tv-xz]{2})\k*$/\1,\0/ig
+g!/,/d
+
+%s/\v^\k*([b-df-hj-np-tv-xz]{3})\k*([b-df-hj-np-tv-xz]{3})\k*$/\1,\0\r\2,\0/ig
+%s/\v^\k*([b-df-hj-np-tv-xz]{3})\k*$/\1,\0/ig
+g!/,/d
 
 %s/æ/ae/ig | %s/œ/oe/ig
 %s/ae/æ/ig

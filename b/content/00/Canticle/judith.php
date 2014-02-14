@@ -1,5 +1,4 @@
-Cant Judith
-~<t>Judith 16:15
+Cant. Judith (16:15)
 Hymnum cantémus Dómino, * hymnum novum cantémus Deo nostro.
 Adonái, Dómine, magnus es tu, et præclárus in virtúte tua, * et quem superáre nemo potest.
 Tibi sérviat omnis creatúra tua: * quia dixísti, et facta sunt:

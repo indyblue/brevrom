@@ -1,4 +1,4 @@
-Ps 103 iii. Quam magnificáta
+Ps 103 iii. (104) Quam magnificáta
 Quam magnificáta sunt ópera tua, Dómine! * ómnia in sapiéntia fecísti: impléta est terra possessióne tua.
 Hoc mare magnum, et spatiósum mánibus: * illic reptília, quorum non est númerus.
 Animália pusílla cum magnis: * illic naves pertransíbunt.

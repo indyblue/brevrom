@@ -1,4 +1,4 @@
-Ps 125. In converténdo
+Ps 125. (126) In converténdo
 In converténdo Dóminus captivitátem Sion: * facti sumus sicut consoláti:
 Tunc replétum est gáudio os nostrum: * et lingua nostra exsultatióne.
 Tunc dicent inter gentes: * Magnificávit Dóminus fácere cum eis.

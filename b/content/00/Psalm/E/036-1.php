@@ -7,7 +7,7 @@ Commit thy way to the Lord, and trust in him, * and he will do it.
 And he will bring forth thy justice as the light, and thy judgment as the noonday: * be subject to the Lord and pray to him.
 Envy not the man who prospereth in his way; * the man who doth unjust things.
 Cease from anger, and leave rage; * have no emulation to do evil.
-For the evildoers shall be cut off: * but they that wait upon the Lord shall inherit the land.
+For evildoers shall be cut off: * but they that wait upon the Lord shall inherit the land.
 For yet a little while, and the wicked shall not be: * and thou shalt seek his place, and shalt not find it.
 But the meek shall inherit the land, * and shall delight in abundance of peace.
 The sinner shall watch the just man: * and shall gnash upon him with his teeth.

@@ -1,5 +1,4 @@
-Cant Isaiæ
-~<t>Is. 12
+Cant. Isaiah (12:1)
 I will give thanks to thee, O Lord, for thou wast angry with me: * thy wrath is turned away, and thou hast comforted me.
 Behold, God is my saviour, * I will deal confidently, and will not fear:
 Because the Lord is my strength, and my praise, * and he is become my salvation.

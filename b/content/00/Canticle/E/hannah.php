@@ -1,5 +1,4 @@
-Cant Annæ
-~<t>I Kings 2:1
+Cant Anna [Hannah] (I Kings [I Sam.] 2:1)
 My heart hath rejoiced in the Lord, * and my horn is exalted in my God:
 My mouth is enlarged over my enemies: * because I have joyed in thy salvation.
 There is none holy as the Lord is: for there is no other beside thee, * and there is none strong like our God.

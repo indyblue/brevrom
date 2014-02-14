@@ -1,4 +1,4 @@
-Ps 60. Exáudi, Deus
+Ps 60. (61) Exáudi, Deus
 Exáudi, Deus, deprecatiónem meam: * inténde oratióni meæ.
 A fínibus terræ ad te clamávi: * dum anxiarétur cor meum, in petra exaltásti me.
 Deduxísti me, quia factus es spes mea: * turris fortitúdinis a fácie inimíci.

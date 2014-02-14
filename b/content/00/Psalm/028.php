@@ -1,4 +1,4 @@
-Ps 28. Afférte Dómino
+Ps 28. (29) Afférte Dómino
 Afférte Dómino, fílii Dei: * afférte Dómino fílios aríetum.
 Afférte Dómino glóriam et honórem, afférte Dómino glóriam nómini ejus: * adoráte Dóminum in átrio sancto ejus.
 Vox Dómini super aquas, Deus majestátis intónuit: * Dóminus super aquas multas.

@@ -1,5 +1,4 @@
-Cant Beatæ Mariæ Virginis
-~<t>Luke 1:46-55
+Cant. B.V.M. (Luke 1:46-55)
 My soul †* doth magnify the Lord.
 And my spirit hath rejoiced * in God my Saviour. 
 Because he hath regarded the humility of his handmaid; * for behold from henceforth all generations shall call me blessed. 

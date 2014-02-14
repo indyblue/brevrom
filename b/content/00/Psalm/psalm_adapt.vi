@@ -1,3 +1,11 @@
+----- Add Masoretic Numbers: -----
+ar temp/*.php | set nomore | call setreg("a","")
+argdo g/\%1l/y A
+echo bufnr("%")
+set backup
+argdo call setline(1,getbufline(249,bufnr("%")-250)) | w
+
+----- Manipulate xml to plain text -----
 ar *.php | set nomore
 argdo g/<?php if ($part==0): ?>\|<?php endif; ?>/d |w
 argdo %s/<?php.\{-}\(\k*Drop\)>\(\%(\k\|\s\)*\)'[^>]*>[^>]*>/\1>\2/ | w

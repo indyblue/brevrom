@@ -1,4 +1,4 @@
-Ps 86. Fundaménta ejus
+Ps 86. (87) Fundaménta ejus
 Fundaménta ejus in móntibus sanctis: * díligit Dóminus portas Sion super ómnia tabernácula Jacob.
 Gloriósa dicta sunt de te, * cívitas Dei.
 Memor ero Rahab, et Babylónis * sciéntium me.

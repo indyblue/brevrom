@@ -1,4 +1,4 @@
-Ps 106 iii. Confiteántur Dómino
+Ps 106 iii. (107) Confiteántur Dómino
 Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.
 Et exáltent eum in ecclésia plebis: * et in cáthedra seniórum laudent eum.
 Pósuit flúmina in desértum: * et éxitus aquárum in sitim.

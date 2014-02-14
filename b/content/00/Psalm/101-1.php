@@ -1,4 +1,4 @@
-Ps 101 i. Dómine, exáudi
+Ps 101 i. (102) Dómine, exáudi
 Dómine, exáudi oratiónem meam: * et clamor meus ad te véniat.
 Non avértas fáciem tuam a me: * in quacúmque die tríbulor, inclína ad me aurem tuam.
 In quacúmque die invocávero te, * velóciter exáudi me.

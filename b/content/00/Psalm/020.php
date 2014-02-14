@@ -1,4 +1,4 @@
-Ps 20. Dómine, in virtúte tua
+Ps 20. (21) Dómine, in virtúte tua
 Dómine, in virtúte tua lætábitur rex: *‡ et super salutáre tuum exsultábit veheménter.
 Desidérium cordis ejus tribuísti ei: * et voluntáte labiórum ejus non fraudásti eum.
 Quóniam prævenísti eum in benedictiónibus dulcédinis: * posuísti in cápite ejus corónam de lápide pretióso.

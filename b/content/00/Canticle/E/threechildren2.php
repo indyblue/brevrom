@@ -1,5 +1,4 @@
-Cant Trium Puerorum
-~<t>Dan. 3:52-57
+Cant. Three Children (Dan. 3:52-57)
 Blessed art thou, O Lord the God of our fathers: * and worthy to be praised, and glorified, and exalted above all for ever: 
 And blessed is the holy name of thy glory: * and worthy to be praised, and exalted above all in all ages. 
 Blessed art thou in the holy temple of thy glory: * and exceedingly to be praised, and exceeding glorious for ever. 

@@ -7,7 +7,7 @@ And I became as a man that heareth not: * and that hath no reproofs in his mouth
 For in thee, O Lord, have I hoped: * thou wilt hear me, O Lord my God.
 For I said: Lest at any time my enemies rejoice over me: * and whilst my feet are moved, they speak great things against me.
 For I am ready for scourges: * and my sorrow is continually before me.
-For I will declare my inequity: * and I will think for my sin.
+For I will declare my iniquity: * and I will think for my sin.
 But my enemies live, and are stronger that I: * and they hate me wrongfully are multiplied.
 They that render evil for good, have detracted me, * because I followed goodness.
 Forsake me not, O Lord my God: * do not thou depart from me.

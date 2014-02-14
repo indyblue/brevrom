@@ -1,4 +1,4 @@
-Ps 14. Dómine, quis habitábit
+Ps 14. (15) Dómine, quis habitábit
 Dómine, quis habitábit in tabernáculo tuo? * aut quis requiéscet in monte sancto tuo?
 Qui ingréditur sine mácula, * et operátur justítiam:
 Qui lóquitur veritátem in corde suo, * qui non egit dolum in lingua sua:

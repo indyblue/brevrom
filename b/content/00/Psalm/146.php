@@ -1,4 +1,4 @@
-Ps 146. Laudáte Dóminum
+Ps 146. (147A) Laudáte Dóminum
 Laudáte Dóminum quóniam bonus est psalmus: * Deo nostro sit jucúnda, decóraque laudátio.
 Ædíficans Jerúsalem Dóminus: * dispersiónes Israël congregábit.
 Qui sanat contrítos corde: * et álligat contritiónes eórum.

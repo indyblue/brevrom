@@ -1,5 +1,4 @@
-Cant Tobiæ
-~<t>Tob. 13:1
+Cant. Tobias (13:1)
 Thou art great, O Lord, for ever, * and thy kingdom is unto all ages:
 For thou scourgest, and thou savest: thou leadest down to hell, and bringest up again: * and there is none that can escape thy hand.
 Give glory to the Lord, ye children of Israel, * and praise him in the sight of the Gentiles:

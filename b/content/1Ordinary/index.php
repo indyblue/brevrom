@@ -14,18 +14,7 @@
    <p:Head1>ad Matutínum</p>
    <p:Rubric>Only select parts of this Hour have been included for reference.</p>
    <p:RubricHSm><t>Ps 50:17</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Dómine, + lábia mea apéries.</p>
-      <p:BodyLSm><s:VR>R. </s>Et os meum annuntiábit laudem tuam.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>O Lord, + thou wilt open my lips.</p>
-      <p:BodyESm><s:VR>R. </s>And my mouth shall declare thy praise.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('Ord/domine_labia_mea_aperies.php'); ?>
 <?php vr('deus_in_adjutorium.php'); ?>
 <?php bookmark('Ps94'); ?>
 <?php psalm('094.php'); ?>
@@ -134,23 +123,8 @@
    <p:Spacer/>
    <p:Head2>Nocturns</p>
    <p:RubricH>In each nocturn, the psalms with antiphons are said, followed by a versicle, from the office of the day. Afterwards is said:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL>Pater noster. </p>
-      <p:Rubric>secreto usque ad</p>
-      <p:BodyL><s:VR>V. </s>Et ne nos indúcas in tentatiónem.</p>
-      <p:BodyL><s:VR>R. </s>Sed líbera nos a malo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Our Father. </p>
-      <p:Rubric>the rest secretly to:</p>
-      <p:BodyE><s:VR>V. </s>And lead us not into temptation.</p>
-      <p:BodyE><s:VR>R. </s>But deliver us from evil.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Absolution</p>
+<?php rubrics('ord/pater_silent_vr.php'); ?>
+	<p:Head3>Absolution</p>
    <p:Rubric>Next is said an absolution, according to the following table:</p>
    <p:RubricH>I Nocturn, or Sunday, Monday and Thursday for a single Nocturn.</p>
    <table>
@@ -304,219 +278,31 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Christe Fili Dei vivi, * Miserére nobis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>O Christ, thou Son of the living God, * Have mercy on us.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Christe Fili...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O Christ, thou Son...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>[V.</s><sr> </s>Qui sedes ad déxteram Patris.<s:VR>]</s></p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>[V.</s><sr> </s>Who sits at the right hand of the Father.<s:VR>]</s></p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Miserére nobis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Have mercy on us.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Christe Fili...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O Christ, thou Son...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Exsúrge, Christe, ádjuva nos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Arise, O Christ, and help us.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et líbera nos propter nomen tuum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And deliver us for thy Name’s sake.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Rubric>Depending on the day/season, [<s:VR>V</s>.] is replaced with:</p>
+<?php brS('Ord/christe_fili_dei_vivi_miserere_nobis.php'); ?>
+<?php vrS('Ord/exsurge_christe_adjuva_nos.php'); ?>
+   <p:Rubric>Depending on the day/season, <s:VR>V. </s> <snr>QUI SEDES...</s> is replaced:</p>
    <p:Spacer/>
    <p:RubricH>In the Advent Season and on Christmas Eve:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui ventúrus es in mundum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who is to come into the world.</p>
-     </td>
-    </tr>
-   </table>
-   <p:RubricH>In the Christmas Season, on Corpus Christi, on Feasts of BVM and in the Saturday Office of BVM:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui natus es de María Vírgine.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who was born of the Virgin Mary.</p>
-     </td>
-    </tr>
-   </table>
+<?php PrV('qui_venturus_es_in_mundum.php',1); ?>
+	<p:RubricH>In the Christmas Season, on Corpus Christi, on Feasts of BVM and in the Saturday Office of BVM:</p>
+<?php PrV('qui_natus_es_de_maria_virgine.php',1); ?>
    <p:RubricH>In the Epiphany Season:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui apparuísti hódie.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who is manifested unto us this day.</p>
-     </td>
-    </tr>
-   </table>
+<?php PrV('qui_apparuisti_hodie.php',1); ?>
    <p:RubricH>On the Feast of the Holy Family:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui Maríæ et Joseph súbditus fuísti.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who subjected thyself to Mary and Joseph.</p>
-     </td>
-    </tr>
-   </table>
+<?php PrV('qui_mariae_et_joseph_subditus_fuisti.php',1); ?>
    <p:RubricH>On the Feast of the Seven Sorrows of the Blessed Virgin Mary:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui passus es propter nostram salútem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who suffered for our salvation.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Body/>
+<?php PrV('qui_passus_es_propter_nostram_salutem.php',1); ?>
+
+	<p:Body/>
    <p:RubricH>The following form is used in Paschaltide (through the Octave of Pentecost):</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Christe Fili Dei vivi, miserére nobis, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>O Christ, thou Son of the living God, have mercy on us, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Christe Fili...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O Christ, thou Son...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>[V. </s>Qui surrexísti a mórtuis.<s:VR>]</s></p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>[V. </s>Who has risen from the dead.<s:VR>]</s></p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Christe Fili...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O Christ, thou Son...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Exsúrge, Christe, ádjuva nos, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Arise, O Christ, and help us, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et líbera nos propter nomen tuum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And deliver us for thy Name’s sake, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('Ord/christe_fili_dei_vivi_miserere_nobis_PT.php',1); ?>
+<?php vrS('Ord/exsurge_christe_adjuva_nos.php',1); ?>
+   <p:Rubric>Depending on the day/season, <s:VR>V. </s> <snr>QUI SURREXÍSTI...</s> is replaced:</p>
    <p:RubricH>In Ascensiontide:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui scandis super sídera.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who has ascended above the stars.</p>
-     </td>
-    </tr>
-   </table>
+<?php PrV('qui_scandis_super_sidera.php',1); ?>
    <p:RubricH>In the Octave of Pentecost:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui sedes ad déxteram Patris.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who sits at the right hand of the Father.</p>
-     </td>
-    </tr>
-   </table>
+<?php PrV('qui_sedes_ad_dexteram_patris.php',1); ?>
+	<p:Body/>
    <p:Head2>Collect</p>
 <?php vr('domine_exaudi.php'); ?>
    <table>
@@ -549,19 +335,9 @@
      </td>
     </tr>
    </table>
-   <p:RubricHidden><t>Ps 115:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Pretiósa in conspéctu Dómini.</p>
-      <p:BodyL><s:VR>R. </s>Mors Sanctórum ejus.</p>
-      <p:Body/>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Precious in the sight of the Lord.</p>
-      <p:BodyE><s:VR>R. </s>Is the death of his Saints.</p>
-     </td>
-    </tr>
+<?php vrS('Ord/pretiosa_in_conspectu_domini.php'); ?>
+
+	<table>
     <tr>
      <td:A1>
       <p:Rubric>Et abolute, sine Oremus:</p>
@@ -577,75 +353,15 @@
    </table>
    <p:BodySm/>
    <p:RubricH>And then is said thrice:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Deus in adjutórium meum inténde.</p>
-      <p:BodyLSm><s:VR>R. </s>Dómine ad adjuvándum me festína.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>O God, come to my assistance.</p>
-      <p:BodyESm><s:VR>R. </s>O Lord, make haste to help me.</p>
-     </td>
-    </tr>
-   </table>
-   <p:RubricH>followed by:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL>Glória Patri.</p>
-      <p:BodyL><s:VR>V. </s>Kýrie, eléison.</p>
-      <p:BodyL><s:VR>R. </s>Christe, eléison. Kýrie, eléison.</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Glory be.</p>
-      <p:BodyE><s:VR>V. </s>Lord, have mercy.</p>
-      <p:BodyE><s:VR>R. </s>Christ, have mercy. Lord have mercy.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL>Pater noster. </p>
-      <p:Rubric>secreto usque ad</p>
-      <p:BodyL><s:VR>V. </s>Et ne nos indúcas in tentatiónem.</p>
-      <p:BodyL><s:VR>R. </s>Sed líbera nos a malo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Our Father. </p>
-      <p:Rubric>the rest secretly to:</p>
-      <p:BodyE><s:VR>V. </s>And lead us not into temptation.</p>
-      <p:BodyE><s:VR>R. </s>But deliver us from evil.</p>
-     </td>
-    </tr>
-   </table>
-   <p:RubricHSm><t>Ps 89:16</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Look upon thy servants, O Lord, and upon their works: and direct their children.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et sit splendor Dómini Dei nostri super nos, et ópera mánuum nostrárum dírige super nos, et opus mánuum nostrárum dírige.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And let the brightness of the Lord our God be upon us: and direct thou the works of our hands over us; yea, the work of our hands do thou direct.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri.</p>
-      <p:BodyL><s:VR>R. </s>Sicut erat.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be.</p>
-      <p:BodyE><s:VR>R. </s>As it was.</p>
-     </td>
-    </tr>
+<?php vrS('Ord/deus_in_adjutorium_meum_intende.php'); ?>
+	<p:RubricH>followed by:</p>
+<?php vrS('Ord/gloria_patri.php'); ?>
+<?php vrS('Ord/kyrie_eleison.php'); ?>
+<?php rubrics('ord/pater_silent_vr.php'); ?>
+	<p:RubricHSm><t>Ps 89:16</p>
+<?php vrS('Ord/respice_in_servos_tuos_domine.php'); ?>
+<?php vrS('Ord/gloria_patri.php'); ?>
+	<table>
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
@@ -801,29 +517,10 @@
    </table>
    <p:BodySm/>
 	<p:RubricH>After the brief Lesson is said:</p>
-	<p:RubricHidden><t>Ps 123:8</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adjutórium † nostrum in nómine Dómini. </p>
-      <p:BodyL><s:VR>R. </s>Qui fecit cælum et terram.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Our help † is in the Name of the Lord.</p>
-      <p:BodyE><s:VR>R. </s>Who made heaven and earth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedícite.</p>
-      <p:BodyL><s:VR>R. </s>Deus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Bless you.</p>
-      <p:BodyE><s:VR>R. </s>God.</p>
-     </td>
-    </tr>
-    <tr>
+<?php vrS('Ord/adjutorium_nostrum_in_nomine_domini.php'); ?>
+<?php vrS('Ord/benedicite.php'); ?>
+	<table>
+	 <tr>
      <td:A1>
       <p:RubricH>Benedíctio</p>
       <p:BodyLDrop>DÓMINUS nos benedícat, † et ab omni malo deféndat, et ad vitam perdúcat ætérnam.</p>
@@ -864,92 +561,9 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><t>Ps 40:5, 26:9</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sana ánimam meam, * Quia peccávi tibi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Heal my soul, * For I have sinned against thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Sana ánimam...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Heal my soul...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ego dixi: Dómine, miserére mei.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I said: “Lord, be merciful unto me.”</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Quia peccávi tibi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>For I have sinned against thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Sana ánimam...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Heal my soul...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adjútor meus, esto, ne derelínquas me.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Be thou my helper, forsake me not,</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Neque despícias me, Deus, salutáris meus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Do not thou despise me, O God my Saviour.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head2>Collect</p>
-<?php vr('domine_exaudi.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL>Orémus.</p>
-      <p:Rubric>Oratio conveniens.</p>
-      <p:BodyL><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Let us pray.</p>
-      <p:Rubric>Collect of the Day.</p>
-      <p:BodyE><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
-<?php vr('domine_exaudi.php'); ?>
-<?php vrS('benedicamus_domino.php'); ?>
-<?php vrS('fidelium_animae.php'); ?>
+<?php brS('Ord/sana_animam_meam_quia_peccavi_tibi.php'); ?>
+<?php vrS('Ord/adjutor_meus_esto_ne_derelinquas_me.php'); ?>
+<?php vr('little_hours_oratio.php'); ?>
    <p:Body/>
 <?php img(); ?>
    <p:Body/>
@@ -976,92 +590,9 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><t>Ps 33:2, 22:1</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedícam Dóminum * In omni témpore.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I will bless the Lord * At all times.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Benedícam Dóminum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I will bless...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Semper laus ejus in ore meo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>His praise shall be always in my mouth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In omni témpore.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>At all times.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Benedícam Dóminum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I will bless...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dóminus regit me, et nihil mihi déerit.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord ruleth me, and I shall want nothing.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In loco páscuæ ibi me collocávit.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He hath set me in a place of pasture.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head2>Collect</p>
-<?php vr('domine_exaudi.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL>Orémus.</p>
-      <p:Rubric>Oratio conveniens.</p>
-      <p:BodyL><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Let us pray.</p>
-      <p:Rubric>Collect of the Day.</p>
-      <p:BodyE><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
-<?php vr('domine_exaudi.php'); ?>
-<?php vrS('benedicamus_domino.php'); ?>
-<?php vrS('fidelium_animae.php'); ?>
+<?php brS('Ord/benedicam_dominum_in_omni_tempore.php'); ?>
+<?php vrS('Ord/dominus_regit_me_et_nihil_mihi_deerit.php'); ?>
+<?php vr('little_hours_oratio.php'); ?>
    <p:Body/>
 <?php img(); ?>
    <p:Body/>
@@ -1088,92 +619,10 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
+<?php brS('Ord/redime_me_domine_et_miserere_mei.php'); ?>
+<?php vrS('Ord/ab_occultis_meis_munda_me_domine.php'); ?>
    <p:RubricHidden><t>Ps 25:11, 18:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Rédime me, Dómine, * Et miserére mei.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Redeem me, O Lord, * And have mercy on me.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Rédime me...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Redeem me...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Pes enim meus stetit in via recta.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>My foot hath stood in the direct way.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et miserére mei.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And have mercy on me.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Rédime me...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Redeem me...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ab occúltis meis munda me, Dómine.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>From my secret sins cleanse me, O Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et ab aliénis parce servo tuo. </p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And from those of others spare thy servant.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head2>Collect</p>
-<?php vr('domine_exaudi.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL>Orémus.</p>
-      <p:Rubric>Oratio conveniens.</p>
-      <p:BodyL><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Let us pray.</p>
-      <p:Rubric>Collect of the Day.</p>
-      <p:BodyE><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
-<?php vr('domine_exaudi.php'); ?>
-<?php vrS('benedicamus_domino.php'); ?>
-<?php vrS('fidelium_animae.php'); ?>
+<?php vr('little_hours_oratio.php'); ?>
    <p:Body/>
 <?php img(); ?>
    <p:Body/>
@@ -1246,16 +695,9 @@
       <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
      </td>
     </tr>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Adjutórium † nostrum in nómine Dómini. </p>
-      <p:BodyLSm><s:VR>R. </s>Qui fecit cælum et terram.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>Our help † is in the Name of the Lord.</p>
-      <p:BodyESm><s:VR>R. </s>Who made heaven and earth.</p>
-     </td>
-    </tr>
+   </table>
+<?php vrS('Ord/adjutorium_nostrum_in_nomine_domini.php'); ?>
+   <table>
     <tr>
      <td:A1>
       <p:BodyLSm>Pater noster. <sr>(secreto)</s></p>
@@ -1367,19 +809,7 @@
    </table>
    <p:BodySm/>
    <p:RubricH>During this <s:VR>V</s>. all make the holy Sign, with the thumb, over the left breast.</p>
-   <p:RubricHidden><t>Ps 84:5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Convérte nos, + Deus salutáris noster.</p>
-      <p:BodyL><s:VR>R. </s>Et avérte iram tuam a nobis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Convert us, + O God our Saviour.</p>
-      <p:BodyE><s:VR>R. </s>And turn off thy anger from us.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('Ord/converte_nos_deus_salutaris_noster.php'); ?>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Psalms with Antiphon</p>
    <p:Spacer/>
@@ -1400,142 +830,13 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><t>Ps 30:6, 16:8</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>In manus tuas, Dómine, * Comméndo spíritum meum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Into thy hands, O Lord, * I commend my spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In manus tuas...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Into thy hands...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Redemísti nos, Dómine Deus veritátis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Thou hast redeemed us, O Lord, God of truth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Comméndo spíritum meum. </p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I commend my spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In manus tuas...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Into thy hands...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Custódi nos Dómine ut pupíllam óculi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Keep us, O Lord, as the apple of thy eye.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Sub umbra alárum tuárum prótege nos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Protect us under the shadow of thy wings.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('Ord/in_manus_tuas_domine_commendo_spiritum_meum.php'); ?>
+<?php vrS('Ord/custodi_nos_domine_ut_pupillam_oculi.php'); ?>
    <p:Rubric>On the 1st and 2nd Sundays of the Passion the <snr>Glória Patri </s>is omitted.</p>
    <p:BodySm/>
    <p:RubricH>The following form is used in Paschaltide (through the Octave of Pentecost):</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>In manus tuas, Dómine, comméndo spíritum meum * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Into thy hands, O Lord, I commend my spirit, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In manus tuas...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Into thy hands...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Redemísti nos, Dómine Deus veritátis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Thou hast redeemed us, O Lord, God of truth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In manus tuas...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Into thy hands...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Custódi nos Dómine ut pupíllam óculi, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Keep us, O Lord, as the apple of thy eye, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Sub umbra alárum tuárum prótege nos, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Protect us under the shadow of thy wings, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('Ord/in_manus_tuas_domine_commendo_spiritum_meum.php',1); ?>
+<?php vrS('Ord/custodi_nos_domine_ut_pupillam_oculi.php',1); ?>
    <p:Body/>
    <table>
     <tr>
@@ -1597,17 +898,8 @@
 <?php reading('almaredemptoris.php'); ?>
    <p:Spacer/>
    <p:P227>Before the Vigil of Christmas:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ángelus Dómini nuntiávit Maríæ.</p>
-      <p:BodyL><s:VR>R. </s>Et concépit de Spíritu Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Angel of the Lord declared unto Mary.</p>
-      <p:BodyE><s:VR>R. </s>And she conceived by the Holy Spirit.</p>
-     </td>
-    </tr>
+<?php vrS('Ord/angelus_domini_nuntiavit_mariae.php'); ?>
+	<table>
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
@@ -1622,31 +914,11 @@
     </tr>
    </table>
    <p:Spacer/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Divínum auxílium † máneat semper nobíscum.</p>
-      <p:BodyLSm><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>May the divine assistance † remain always with us.</p>
-      <p:BodyESm><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php'); ?>
    <p:Spacer/>
    <p:P227>From the Vigil of Christmas:</p>
+<?php vrS('Ord/post_partum_virgo_inviolata_permansisti.php'); ?>
    <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Post partum, Virgo, invioláta permansísti.</p>
-      <p:BodyL><s:VR>R. </s>Dei Génitrix, intercéde pro nobis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>After thy delivery thou still remainest a Virgin undefiled.</p>
-      <p:BodyE><s:VR>R. </s>Mother of God, intercede for us.</p>
-     </td>
-    </tr>
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
@@ -1662,31 +934,11 @@
     </tr>
    </table>
    <p:Spacer/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Divínum auxílium † máneat semper nobíscum.</p>
-      <p:BodyLSm><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>May the divine assistance † remain always with us.</p>
-      <p:BodyESm><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php'); ?>
    <p:BodySm/>
 <?php reading('averegina.php'); ?>
+<?php vrS('Ord/dignare_me_laudare_te_virgo_sacrata.php'); ?>
 	<table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dignáre me laudáre te, Virgo sacráta.</p>
-      <p:BodyL><s:VR>R. </s>Da mihi virtútem contra hostes tuos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>My praise by thee accepted be, O Holy Virgin.</p>
-      <p:BodyE><s:VR>R. </s>Give me strength against thine enemies.</p>
-     </td>
-    </tr>
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
@@ -1701,31 +953,11 @@
     </tr>
    </table>
    <p:Spacer/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Divínum auxílium † máneat semper nobíscum.</p>
-      <p:BodyLSm><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>May the divine assistance † remain always with us.</p>
-      <p:BodyESm><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php'); ?>
    <p:BodySm/>
 <?php reading('reginacaeli.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Gaude et lætáre, Virgo María, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Quia surréxit Dóminus vere, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Be glad and rejoice, O Virgin Mary, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>For the Lord is risen indeed, alleluia.</p>
-     </td>
-    </tr>
+<?php vrS('Ord/gaude_et_laetare_virgo_maria.php',1); ?>
+	<table>
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
@@ -1740,31 +972,11 @@
     </tr>
    </table>
    <p:Spacer/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Divínum auxílium † máneat semper nobíscum.</p>
-      <p:BodyLSm><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>May the divine assistance † remain always with us.</p>
-      <p:BodyESm><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php'); ?>
    <p:BodySm/>
 <?php reading('salveregina.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ora pro nobis, sancta Dei Génitrix.</p>
-      <p:BodyL><s:VR>R. </s>Ut digni efficiámur promissiónibus Christi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Pray for us, O holy Mother of God.</p>
-      <p:BodyE><s:VR>R. </s>That we may be made worthy of the promises of Christ.</p>
-     </td>
-    </tr>
+<?php vrS('Ord/ora_pro_nobis_sancta_dei_genitrix.php'); ?>
+	<table>
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
@@ -1779,18 +991,7 @@
     </tr>
    </table>
    <p:Spacer/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Divínum auxílium † máneat semper nobíscum.</p>
-      <p:BodyLSm><s:VR>R. </s>Amen.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><s:VR>V. </s>May the divine assistance † remain always with us.</p>
-      <p:BodyESm><s:VR>R. </s>Amen.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php'); ?>
    <p:Body/>
 <?php img(); ?>
    <p:Body/>
@@ -1821,19 +1022,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('en_clara_vox_redarguit.php'); ?>
-   <p:RubricHidden><t>Is 40:3, Mk 1:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Vox clamántis in desérto: Paráte viam Dómini.</p>
-      <p:BodyL><s:VR>R. </s>Rectas fácite sémitas ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The voice of one crying in the desert: “Prepare ye the way of the Lord.</p>
-      <p:BodyE><s:VR>R. </s>Make straight his paths.”</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -1851,73 +1040,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 79:3, 101:16</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Veni ad liberándum nos, * Dómine, Deus virtútum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Come to deliver us, * O Lord God of hosts.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Veni ad liberándum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Come to deliver...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Osténde fáciem tuam, et salvi érimus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Shew us thy face, and we shall be saved.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Dómine, Deus virtútum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O Lord God of Hosts.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Veni ad liberándum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Come to deliver...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Timébunt Gentes nomen tuum, Dómine.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Gentiles shall fear thy name, O Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et omnes reges terræ glóriam tuam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And all the kings of the earth thy glory.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php'); ?>
+<?php vrS('PrTemp/timebunt_gentes_nomen_tuum_domine.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -1935,73 +1059,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 84:8, 105:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Osténde nobis, Dómine, * Misericórdiam tuam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Show us, O Lord, * Thy mercy.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Osténde nobis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Show us...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et salutáre tuum da nobis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And grant us thy salvation.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Misericórdiam tuam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Thy mercy.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Osténde nobis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Show us...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Meménto nostri, Dómine, in beneplácito pópuli tui.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Remember us, O Lord, in the favour of thy people.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Vísita nos in salutári tuo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Visit us with thy salvation.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/ostende_nobis_domine_misericordiam_tuam.php'); ?>
+<?php vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -2019,73 +1078,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Is 60:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Super te, Jerúsalem, * Oriétur Dóminus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Upon thee, Jerusalem, * The Lord shall arise.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Super te...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Upon thee...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et glória ejus in te vidébitur.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And his glory shall be seen upon thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Oriétur Dóminus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord shall arise.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Super te...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Upon thee...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Veni, Dómine, et noli tardáre.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Come, O Lord, and tarry not.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Reláxa facínora plebi tuæ.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Forgive the misdeeds of thy people.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/super_te_jerusalem_orietur_dominus.php'); ?>
+<?php vrS('PrTemp/veni_domine_et_noli_tardare.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -2104,19 +1098,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('creator_alme_siderum.php'); ?>
-   <p:RubricHidden><t>Is 45:8</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Roráte, cæli, désuper, et nubes pluant justum.</p>
-      <p:BodyL><s:VR>R. </s>Aperiátur terra, et gérminet Salvatórem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Drop down dew, ye heavens, from above, and let the clouds rain the just.</p>
-      <p:BodyE><s:VR>R. </s>Let the earth be opened, and bud forth a Saviour.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -2152,19 +1134,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('a_solis_ortus_cardine.php'); ?>
-   <p:RubricHidden><t>Jn 1:14</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbum caro factum est, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et habitávit in nobis, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Word was made flesh, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And dwelt among us, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/verbum_caro_factum_est.php',1); ?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -2193,73 +1163,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Jn 1:14, Ps 88:27</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbum caro factum est, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Word was made flesh, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Verbum caro...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Word...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et habitávit in nobis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And dwelt among us.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Verbum caro...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Word...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ipse invocábit me, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He shall cry out to me, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Pater meus es tu, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Thou art my Father, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/verbum_caro_factum_est.php',1); ?>
+<?php vrS('PrTemp/ipse_invocabit_me.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
@@ -2277,73 +1182,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 97:2,3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Notum fecit Dóminus, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord hath made known, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Notum fecit...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Salutáre suum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>His salvation.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Notum fecit...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Vidérunt omnes fines terræ, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>All the ends of the earth have seen, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Salutáre Dei nostri, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The salvation of our God, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/notum_fecit_dominus.php',1); ?>
+<?php vrS('PrTemp/viderunt_omnes_fines_terrae.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -2361,74 +1201,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 97:3, Jn 1:14</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Vidérunt omnes fines terræ, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>All the ends of the earth have seen, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Vidérunt omnes...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>All the ends...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Salutáre Dei nostri.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The salvation of our God.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Vidérunt omnes...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>All the ends...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbum caro factum est, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Word was made flesh, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et habitávit in nobis, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And dwelt among us, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
+<?php brS('PrTemp/viderunt_omnes_fines_terrae.php',1); ?>
+<?php vrS('PrTemp/verbum_caro_factum_est.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -2447,19 +1221,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('jesu_redemptor_omnium_quem.php'); ?>
-   <p:RubricHidden><t>Ps 97:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Notum fecit Dóminus, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Salutáre suum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord hath made known, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>His salvation, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/notum_fecit_dominus.php',1); ?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -2518,19 +1280,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_sola_magnarum_urbium.php'); ?>
-   <p:RubricHidden><t>Ps 96:7</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adoráte Deum, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Omnes Ángeli ejus, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Adore God, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>All you his angels, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/adorate_deum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
    <p:Head3>Little Chapter</p>
@@ -2548,73 +1298,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 71:10, Is 60:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Reges Tharsis et ínsulæ múnera ófferent, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The kings of Tharsis and the islands shall offer presents, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Reges Tharsis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The kings...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Reges Árabum et Saba dona addúcent.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The kings of the Arabians and of Saba shall bring gifts.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Reges Tharsis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The kings...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Omnes de Saba vénient, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>All they from Saba shall come, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Aurum et thus deferéntes, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Bringing gold and frankincense, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php',1); ?>
+<?php vrS('PrTemp/omnes_de_saba_venient.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
@@ -2632,73 +1317,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Is 60:6, Ps 28:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Omnes de Saba vénient, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>All they from Saba shall come, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Omnes de Saba...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>All they from Saba...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Aurum et thus deferéntes.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Bringing gold and frankincense.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Omnes de Saba...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>All they from Saba...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adoráte Dóminum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Adore ye the Lord, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In aula sancta ejus, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>In his holy court, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/omnes_de_saba_venient.php',1); ?>
+<?php vrS('PrTemp/adorate_dominum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -2716,75 +1336,9 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 28:2, 96:7</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adoráte Dóminum, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Adore ye the Lord, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Adoráte Dóminum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Adore ye the Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>In aula sancta ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>In his holy court.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Adoráte Dóminum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Adore ye the Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adoráte Deum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Adore God, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Omnes Ángeli ejus, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>All you his angels, alleluia.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
-   <p:BodySm/>
+<?php brS('PrTemp/adorate_dominum.php',1); ?>
+<?php vrS('PrTemp/adorate_deum.php',1); ?>
+  <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Little Chapter</p>
    <p:RubricHSm><t>Is. 60:1</p>
@@ -2802,19 +1356,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('crudelis_herodes_deum.php'); ?>
-   <p:RubricHidden><t>Ps 71:10</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Reges Tharsis et ínsulæ múnera ófferent.</p>
-      <p:BodyL><s:VR>R. </s>Reges Árabum et Saba dona addúcent.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The kings of Tharsis and the islands shall offer presents.</p>
-      <p:BodyE><s:VR>R. </s>The kings of the Arabians and of Saba shall bring gifts.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -2846,19 +1388,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_sol_salutis_intimis.php'); ?>
-   <p:RubricHidden><t>Ps 90:11</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ángelis suis Deus mandávit de te.</p>
-      <p:BodyL><s:VR>R. </s>Ut custódiant te in ómnibus viis tuis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>God hath given his angels charge over thee.</p>
-      <p:BodyE><s:VR>R. </s>To keep thee in all thy ways.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -2876,73 +1406,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 90:3,4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ipse liberávit me * De láqueo venántium.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He hath delivered me * From the snare of the hunters.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ipse liberávit...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He hath delivered...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et a verbo áspero.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And from the sharp word.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>De láqueo venántium.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>From the snare of the hunters.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ipse liberávit...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He hath delivered...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Scápulis suis obumbrábit tibi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>With his shoulders he will overshadow thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et sub pennis ejus sperábis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And under his wings thou shalt trust.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/ipse_liberavit_me_de_laqueo_venantium.php'); ?>
+<?php vrS('PrTemp/scapulis_suis_obumbrabit_tibi.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -2960,73 +1425,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 90:4,5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Scápulis suis * Obumbrábit tibi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>With his shoulders * He will overshadow thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Scápulis suis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>With his shoulders...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et sub pennis ejus sperábis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And under his wings thou shalt trust.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Obumbrábit tibi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He will overshadow thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Scápulis suis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>With his shoulders...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Scuto circúmdabit te véritas ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>His truth shall compass thee with a shield.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Non timébis a timóre noctúrno.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Thou shalt not be afraid of the terror of the night.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/scapulis_suis_obumbrabit_tibi.php'); ?>
+<?php vrS('PrTemp/scuto_circumdabit_te_veritas_ejus.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -3044,73 +1444,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 90:5,11</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Scuto circúmdabit te * Véritas ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>With a shield * His truth shall compass thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Scuto circúmdabit te...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>With a shield...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Non timébis a timóre noctúrno.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Thou shalt not be afraid of the terror of the night.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Véritas ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>His truth shall compass thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Scuto circúmdabit te...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>With a shield...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ángelis suis Deus mandávit de te.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>God hath given his angels charge over thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ut custódiant te in ómnibus viis tuis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>To keep thee in all thy ways.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/scuto_circumdabit_te_veritas_ejus.php'); ?>
+<?php vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -3129,19 +1464,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('audi_benigne_conditor.php'); ?>
-   <p:RubricHidden><t>Ps 90:11</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ángelis suis Deus mandávit de te.</p>
-      <p:BodyL><s:VR>R. </s>Ut custódiant te in ómnibus viis tuis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>God hath given his angels charge over thee.</p>
-      <p:BodyE><s:VR>R. </s>To keep thee in all thy ways.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -3167,19 +1490,7 @@
    <p:Head3>Hymn</p>
 <?php bookmark('lustra_sex_qui_jam_peregit'); ?>
 <?php hymn('lustra_sex_qui_jam_peregit.php'); ?>
-   <p:RubricHidden><t>Ps 58:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Éripe me de inimícis meis, Deus meus.</p>
-      <p:BodyL><s:VR>R. </s>Et ab insurgéntibus in me líbera me.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Deliver me from my enemies, O my God.</p>
-      <p:BodyE><s:VR>R. </s>And defend me from them that rise up against me.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -3197,65 +1508,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 21:21,22</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Érue a frámea, * Deus, ánimam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Deliver from the sword, * O God, my soul.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Érue a frámea...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Deliver...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et de manu canis únicam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>My only one from the hand of the dog.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Deus, ánimam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O God, my soul.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL>Érue a frámea...</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Deliver...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>De ore leónis líbera me, Dómine.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Save me from the lion’s mouth, O Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et a córnibus unicórnium humilitátem meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And my lowness from the horns of the unicorns.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/erue_a_framea_deus_animam_meam.php',0,1); ?>
+<?php vrS('PrTemp/de_ore_leonis_libera_me_domine.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -3273,65 +1527,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 21:22, 25:9</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>De ore leónis * Líbera me, Dómine.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>From the lion’s mouth, * Save me, O Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>De ore leónis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>From the lion’s mouth...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et a córnibus unicórnium humilitátem meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And my lowness from the horns of the unicorns.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Líbera me, Dómine.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Save me, O Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL>De ore leónis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE>From the lion’s mouth...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ne perdas cum ímpiis, Deus, ánimam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Take not away my soul, O God, with the wicked.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et cum viris sánguinum vitam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Nor my life with bloody men.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/de_ore_leonis_libera_me_domine.php',0,1); ?>
+<?php vrS('PrTemp/ne_perdas_cum_impiis_deus_animam_meam.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -3349,65 +1546,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 25:9, 139:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ne perdas cum ímpiis, * Deus ánimam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Take not away with the wicked, * O God, my soul.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ne perdas cum ímpiis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Take not away...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et cum viris sánguinum vitam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Nor my life with bloody men.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Deus ánimam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O God, my soul</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL>Ne perdas cum ímpiis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE>Take not away...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Éripe me, Dómine, ab hómine malo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Deliver me, O Lord, from the evil man.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>A viro iníquo éripe me.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Rescue me from the unjust man.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/ne_perdas_cum_impiis_deus_animam_meam.php',0,1); ?>
+<?php vrS('PrTemp/eripe_me_domine_ab_homine_malo.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -3427,19 +1567,7 @@
 <?php bookmark('vexilla_regis_prodeunt'); ?>
 	<p:Head3>Hymn</p>
 <?php hymn('vexilla_regis_prodeunt.php'); ?>
-   <p:RubricHidden><t>Ps 139:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Éripe me, Dómine, ab hómine malo.</p>
-      <p:BodyL><s:VR>R. </s>A viro iníquo éripe me.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Deliver me, O Lord, from the evil man.</p>
-      <p:BodyE><s:VR>R. </s>Rescue me from the unjust man.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/eripe_me_domine_ab_homine_malo.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -3486,18 +1614,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('aurora_caelum_purpurat.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>In resurrectióne tua, Christe, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Cæli et terra læténtur, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>In your resurrection, O Christ, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>Let heaven and earth rejoice, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/in_resurrectione_tua_christe.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -3515,73 +1632,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Lk 24:34</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Surréxit Dóminus de sepúlcro, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord has risen from the tomb, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Surréxit Dóminus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord has risen...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui pro nobis pepéndit in ligno.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who hung for us upon the cross.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Surréxit Dóminus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord has risen...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Surréxit Dóminus vere, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord is risen indeed, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et appáruit Simóni, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And hath appeared to Simon, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/surrexit_dominus_de_sepulcro.php',1); ?>
+<?php vrS('PrTemp/surrexit_dominus_vere.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -3599,73 +1651,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Lk 24:34, Jn 20:20</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Surréxit Dóminus vere, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord is risen indeed, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Surréxit Dóminus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord is risen...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et appáruit Simóni.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And hath appeared to Simon.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Surréxit Dóminus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord is risen...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Gavísi sunt discípuli, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The disciples were glad, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Viso Dómino, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>When they saw the Lord, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/surrexit_dominus_vere.php',1); ?>
+<?php vrS('PrTemp/gavisi_sunt_discipuli.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -3683,73 +1670,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Jn 20:20, Lk 24:29</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Gavísi sunt discípuli, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The disciples were glad, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Gavísi sunt...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The disciples...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Viso Dómino.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>When they saw the Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Gavísi sunt...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The disciples...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Mane nobíscum Dómine, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Stay with us, O Lord, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Quóniam advesperáscit, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Because it is towards evening, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/gavisi_sunt_discipuli.php',1); ?>
+<?php vrS('PrTemp/mane_nobiscum_domine.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -3768,19 +1690,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('ad_regias_agni_dapes.php'); ?>
-   <p:RubricHidden><t>Lk 24:29</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Mane nobíscum Dómine, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Quóniam advesperáscit, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Stay with us, O Lord, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>Because it is towards evening, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/mane_nobiscum_domine.php',1); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -3816,19 +1726,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('salutis_humanae_sator.php'); ?>
-   <p:RubricHidden><t>Ps 102:19</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dóminus in cælo, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Parávit sedem suam, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord in heaven, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>Hath prepared his throne, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/dominus_in_caelo.php',1); ?>
    <p:Head3>Benedictus</p>
    <p:RubricHSm>in ferial Office:<t>Jn 20:17</p>
    <table>
@@ -3858,73 +1756,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 46:6, Eph 4:8</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ascéndit Deus in jubilatióne, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>God is ascended with jubilation, * Alleluia, alleluia</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ascéndit Deus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>God is ascended...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et Dóminus in voce tubæ.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And the Lord with the sound of the trumpet.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ascéndit Deus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>God is ascended...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ascéndens Christus in altum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Christ ascending on high, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Captívam duxit captivitátem , allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Has led captivity captive, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/ascendit_deus_in_jubilatione.php',1); ?>
+<?php vrS('PrTemp/ascendens_christus_in_altum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -3942,73 +1775,8 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Eph 4:8, Jn 20:17</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ascéndens Christus in altum, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Christ ascending on high, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ascéndens Christus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Christ ascending...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Captívam duxit captivitátem. </p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Has led captivity captive.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ascéndens Christus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Christ ascending...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ascéndo ad Patrem meum, et Patrem vestrum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I ascend to my Father, and to your Father, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Deum meum, et Deum vestrum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>To my God, and your God, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/ascendens_christus_in_altum.php',1); ?>
+<?php vrS('PrTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -4026,92 +1794,15 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Jn 20:17, Ps 102:19</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ascéndo ad Patrem meum, et Patrem vestrum, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I ascend to my Father, and to your Father, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ascéndo ad Patrem meum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I ascend to my Father...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Deum meum, et Deum vestrum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>To my God, and your God.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ascéndo ad Patrem meum...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I ascend to my Father...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dóminus in cælo, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord in Heaven, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Parávit sedem suam, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Hath prepared his throne, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php brS('PrTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1); ?>
+<?php vrS('PrTemp/dominus_in_caelo.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
    <p:Rubric>As in Lauds.</p>
    <p:Head3>Hymn</p>
 	<p:RubricH>As in Lauds:</p>
-	<p:RubricHidden><t>Ps 46:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ascéndit Deus in jubilatióne, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et Dóminus in voce tubæ, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>God is ascended with jubilation, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And the Lord with the sound of the trumpet, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php vrS('PrTemp/ascendit_deus_in_jubilatione.php',1); ?>
    <p:Head3>Magnificat</p>
    <p:RubricH>in ferial Office:</p>
    <table>

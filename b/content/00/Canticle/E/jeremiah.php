@@ -1,5 +1,4 @@
-Cant Jeremiæ
-~<t>Jer. 31:10
+Cant. Jeremiah (31:10)
 Hear the word of the Lord, O ye nations, * and declare it in the islands that are afar off,
 And say: He that scattered Israel will gather him: * and he will keep him as the shepherd doth his flock.
 For the Lord hath redeemed Jacob, * and delivered him out of the hand of one that was mightier than he.

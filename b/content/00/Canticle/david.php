@@ -1,5 +1,4 @@
-Cant David
-~<t>1 Chron. 29:10
+Cant. David (I Par. [I Chron.] 29:10)
 Benedíctus es, Dómine, Deus Israël patris nostri,* ab ætérno in ætérnum.
 Tua est, Dómine, magnificéntia, et poténtia, * et glória, atque victória:
 Et tibi laus: * cuncta enim quæ in cælo sunt, et in terra, tua sunt:

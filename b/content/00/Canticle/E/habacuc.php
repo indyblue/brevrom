@@ -1,5 +1,4 @@
-Cant Habacuc
-~<t>Hab. 3:2
+Cant. Habacuc (3:2)
 O Lord, I have heard thy hearing, * and was afraid.
 O Lord, thy work, * in the midst of the years bring it to life:
 In the midst of the years thou shalt make it known: * when thou art angry, thou wilt remember mercy.

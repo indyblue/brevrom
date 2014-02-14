@@ -1,5 +1,4 @@
-Cant David
-~<t>1 Chron. 29:10
+Cant. David (I Par. [I Chron.] 29:10)
 Blessed art thou, O Lord the God of Israel, our father * from eternity to eternity.
 Thine, O Lord, is magnificence, and power, * and glory, and victory: 
 and to thee is praise: * for all that is in heaven, and in earth, is thine: 

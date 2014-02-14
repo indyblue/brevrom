@@ -1,4 +1,4 @@
-Ps 109. Dixit Dóminus
+Ps 109. (110) Dixit Dóminus
 Dixit Dóminus Dómino meo: * sede a dextris meis:‡
 Donec ponam inimícos tuos, * scabéllum pedum tuórum.
 Virgam virtútis tuæ emíttet Dóminus ex Sion: * domináre in médio inimicórum tuórum.

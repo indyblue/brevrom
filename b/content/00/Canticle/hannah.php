@@ -1,5 +1,4 @@
-Cant Annæ
-~<t>I Kings 2:1
+Cant. Annæ (I Kings [I Sam.] 2:1)
 Exsultávit cor meum in Dómino, * et exaltátum est cornu meum in Deo meo.
 Dilatátum est os meum super inimícos meos: * quia lætáta sum in salutári tuo.
 Non est sanctus, ut est Dóminus: neque enim est álius extra te, * et non est fortis sicut Deus noster.

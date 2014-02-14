@@ -1,4 +1,4 @@
-Ps 118 xi. Príncipes persecúti sunt
+Ps 118 xi. (119) Príncipes persecúti sunt
 ~Sin
 Príncipes persecúti sunt me gratis: * et a verbis tuis formidávit cor meum.
 Lætábor ego super elóquia tua: * sicut qui invénit spólia multa.

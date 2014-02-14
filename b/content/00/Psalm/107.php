@@ -1,4 +1,4 @@
-Ps 107. Parátum cor meum
+Ps 107. (108) Parátum cor meum
 Parátum cor meum, Deus, parátum cor meum: * cantábo, et psallam in glória mea.
 Exsúrge, glória mea, exsúrge, psaltérium et cíthara: * exsúrgam dilúculo.
 Confitébor tibi in pópulis, Dómine: * et psallam tibi in natiónibus.

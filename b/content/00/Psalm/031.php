@@ -1,4 +1,4 @@
-Ps 31. Beáti quorum
+Ps 31. (32) Beáti quorum
 Beáti quorum remíssæ sunt iniquitátes: * et quorum tecta sunt peccáta.
 Beátus vir, cui non imputávit Dóminus peccátum, * nec est in spíritu ejus dolus.
 Quóniam tácui, inveteravérunt ossa mea, * dum clamárem tota die.

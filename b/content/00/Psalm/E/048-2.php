@@ -1,5 +1,5 @@
 Psalmus 48 ii. Hæc via illórum
-This way of theirs is a stumblingblock to them: * and afterwards they shall delight in their mouth.
+This way of theirs is a stumbling-block to them: * and afterwards they shall delight in their mouth.
 They are laid in hell like sheep: * death shall feed upon them.
 And the just shall have dominion over them in the morning; * and their help shall decay in hell from their glory.
 But God will redeem my soul from the hand of hell, * when he shall receive me.

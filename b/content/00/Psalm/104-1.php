@@ -1,4 +1,4 @@
-Ps 104 i. Confitémini Dómino
+Ps 104 i. (105) Confitémini Dómino
 Confitémini Dómino, et invocáte nomen ejus: * annuntiáte inter Gentes ópera ejus.
 Cantáte ei, et psállite ei: * narráte ómnia mirabília ejus.
 Laudámini in nómine sancto ejus: * lætétur cor quæréntium Dóminum.

@@ -1,4 +1,4 @@
-Ps 10. In Dómino confído
+Ps 10. (11) In Dómino confído
 In Dómino confído: quómodo dícitis ánimæ meæ: * Tránsmigra in montem sicut passer?
 Quóniam ecce peccatóres intendérunt arcum, paravérunt sagíttas suas in pháretra, * ut sagíttent in obscúro rectos corde.
 Quóniam quæ perfecísti, destruxérunt: * justus autem quid fecit?

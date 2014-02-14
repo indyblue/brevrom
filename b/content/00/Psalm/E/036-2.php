@@ -1,7 +1,7 @@
 Psalmus 36 ii. Mélius est módicus
 Better is a little to the just, * than the great riches of the wicked.
 For the arms of the wicked shall be broken in pieces; * but the Lord strengtheneth the just.
-The Lord knoweth the days of undefiled; * and their inheritance shall be for ever.
+The Lord knoweth the days of the undefiled; * and their inheritance shall be for ever.
 They shall not be confounded in the evil time; and in the days of famine they shall be filled, * because the wicked shall perish.
 And the enemies of the Lord, presently after they shall be honoured and exalted, * shall come to nothing and vanish like smoke.
 The sinner shall borrow, and not pay again; * but the just sheweth mercy and shall give.

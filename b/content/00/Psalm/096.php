@@ -1,4 +1,4 @@
-Ps 96. Dóminus regnávit
+Ps 96. (97) Dóminus regnávit
 Dóminus regnávit, exsúltet terra: *‡ læténtur ínsulæ multæ.
 Nubes, et calígo in circúitu ejus: * justítia, et judícium corréctio sedis ejus.
 Ignis ante ipsum præcédet, * et inflammábit in circúitu inimícos ejus.

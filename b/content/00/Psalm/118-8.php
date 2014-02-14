@@ -1,4 +1,4 @@
-Ps 118 viii. Iníquos ódio hábui
+Ps 118 viii. (119) Iníquos ódio hábui
 ~Samech
 Iníquos ódio hábui: * et legem tuam diléxi.
 Adjútor et suscéptor meus es tu: * et in verbum tuum supersperávi.

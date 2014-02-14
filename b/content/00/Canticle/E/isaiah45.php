@@ -1,5 +1,4 @@
-Cant Isaiæ
-~<t>Is. 45:15
+Cant. Isaiah (45:15)
 Verily thou art a hidden God, * the God of Israel the saviour.
 They are all confounded and ashamed: * the forgers of errors are gone together into confusion.
 Israel is saved in the Lord with an eternal salvation: * you shall not be confounded, and you shall not be ashamed for ever and ever.

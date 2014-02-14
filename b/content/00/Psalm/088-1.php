@@ -1,4 +1,4 @@
-Ps 88 i. Misericórdias Dómini
+Ps 88 i. (89) Misericórdias Dómini
 Misericórdias Dómini * in ætérnum cantábo.
 In generatiónem et generatiónem * annuntiábo veritátem tuam in ore meo.
 Quóniam dixísti: In ætérnum misericórdia ædificábitur in cælis: * præparábitur véritas tua in eis.

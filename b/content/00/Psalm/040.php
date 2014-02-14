@@ -1,4 +1,4 @@
-Ps 40. Beátus qui intélligit
+Ps 40. (41) Beátus qui intélligit
 Beátus qui intélligit super egénum, et páuperem: * in die mala liberábit eum Dóminus.
 Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra: * et non tradat eum in ánimam inimicórum ejus.
 Dóminus opem ferat illi super lectum dolóris ejus: * univérsum stratum ejus versásti in infirmitáte ejus.

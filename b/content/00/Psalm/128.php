@@ -1,4 +1,4 @@
-Ps 128. Sæpe expugnavérunt me
+Ps 128. (129) Sæpe expugnavérunt me
 Sæpe expugnavérunt me a juventúte mea, * dicat nunc Israël:
 Sæpe expugnavérunt me a juventúte mea: * étenim non potuérunt mihi.
 Supra dorsum meum fabricavérunt peccatóres: * prolongavérunt iniquitátem suam.
