@@ -3,7 +3,7 @@ Unk.
 
 Te, Mater alma Núminis,
 Orámus omnes súpplices,
-A fraude nos ut dæmonis
+A fraude nos ut dǽmonis
 Tua sub umbra prótegas.
 
 Ob pérditum nostrum genus
@@ -19,4 +19,4 @@ Depónat iram víndicem.
 Jesu, tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

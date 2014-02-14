@@ -1,2 +1,2 @@
 Adoráte Deum.
-Omnes Angeli ejus.
+Omnes Ángeli ejus.

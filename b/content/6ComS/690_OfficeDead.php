@@ -4,7 +4,7 @@
    <p:RubricH/>
    <p:Hidden1>Office of the Dead</p>
    <p:Hidden2>Office of the Dead</p>
-<?php echo bookmark('offDef'); ?>
+<?php bookmark('offDef'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 ?></p>
@@ -15,7 +15,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:Rubric>It is always said in the plural.</p>
 
 <?php rubrics('head/Matins.php'); ?>
-<?php echo bookmark('offDefM'); ?>
+<?php bookmark('offDefM'); ?>
 	<p:RubricH>Matins begins immediatly with the invitatory:</p>
 <?php ant('regem_cui_omnia_vivunt_venite_adoremus.php','+'); ?>
 <?php rubrics('asIn.php','Ps94','Ordinary of Matins','The invitatory is said with Psalm 94,'); ?> 
@@ -30,7 +30,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
    <p:Head2>First Nocturn</p>
 	<p:Head3>(Sunday, Monday, and Thursday)</p>
-<?php echo bookmark('offDefMn1'); ?>
+<?php bookmark('offDefMn1'); ?>
    <p:BodySm/>
 
 <?php ant('offDefMatins.php','200000000'); ?>
@@ -65,7 +65,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 	<p:Head2>Second Nocturn</p>
 	<p:Head3>(Tuesday and Friday)</p>
-<?php echo bookmark('offDefMn2'); ?>
+<?php bookmark('offDefMn2'); ?>
 <?php ant('offDefMatins.php','000200000'); ?>
 <?php psalm('022.php'); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
@@ -98,7 +98,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
    <p:Head2>Third Nocturn</p>
    <p:Head3>(Wednesday and Saturday)</p>
-<?php echo bookmark('offDefMn3'); ?>
+<?php bookmark('offDefMn3'); ?>
 <?php ant('offDefMatins.php','000000200'); ?>
 <?php psalm(39); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
@@ -141,7 +141,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 
 	<p:Head1NI>ad Laudes</p>
-<?php echo bookmark('offDefL'); ?>
+<?php bookmark('offDefL'); ?>
    <p:Rubric>Lauds begins at once with the first antiphon.</p>
 <?php ant('offDefL.php','20000'); ?>
 <?php psalm('050.php'); ?>
@@ -179,7 +179,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php rubrics('offDef/preces_concl.php'); ?>
 
 	<p:Head1NI>Collects</p>
-<?php echo bookmark('offDefPrayer'); ?>
+<?php bookmark('offDefPrayer'); ?>
 <p:Rubric>In the following prayers, masculine variations are denoted by “m.”; feminine variations by “f.”; plural variations by “pl.”</p>
 	<p:RubricH>On the day of the burial:</p>
 <?php prayer('offDef/burial1.php'); ?>
@@ -252,7 +252,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
    <p:BodySm/>
    <p:Head1NI>ad Vésperas</p>
-<?php echo bookmark('offDefV'); ?>
+<?php bookmark('offDefV'); ?>
    <p:Rubric>Vespers begins at once with the first antiphon.</p>
 <?php ant('offDefV.php','20000'); ?>
 <?php psalm('114.php'); ?>

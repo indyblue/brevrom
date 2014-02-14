@@ -1,7 +1,7 @@
 Ps 50. Miserére
 Miserére mei, Deus, * secúndum magnam misericórdiam tuam.‡
 Et secúndum multitúdinem miseratiónum tuárum, * dele iniquitátem meam.
-Amplius lava me ab iniquitáte mea: * et a peccáto meo munda me.
+Ámplius lava me ab iniquitáte mea: * et a peccáto meo munda me.
 Quóniam iniquitátem meam ego cognósco: * et peccátum meum contra me est semper.
 Tibi soli peccávi, et malum coram te feci: * ut justificéris in sermónibus tuis, et vincas cum judicáris.
 Ecce enim, in iniquitátibus concéptus sum: * et in peccátis concépit me mater mea.

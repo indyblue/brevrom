@@ -20,6 +20,5 @@ O ye spirits and souls of the just, bless the Lord: * O ye holy and humble of he
 O Ananias, Azarias, and Misael, bless ye the Lord: * praise and exalt him above all for ever.
 <sr>(All bow:)</s>
 Let us bless the Father and the Son, with the Holy Ghost; * let us praise and exalt him above all for ever.
-Blessed art thou, O Lord, <text:s/>in the firmament of heaven: * and worthy of praise, and glorious for ever.
-Hic non dicitur Glória Patri, neque Amen.
-Here is not said Amen or Glory be.
+Blessed art thou, O Lord, in the firmament of heaven: * and worthy of praise, and glorious for ever.
+<sr>Here is not said Amen or Glory be.</s>

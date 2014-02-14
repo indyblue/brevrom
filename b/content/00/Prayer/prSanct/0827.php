@@ -1,1 +1,1 @@
-Deus, qui per sanctum Joséphum Confessórem tuum, ad erudiéndam spíritu intelligéntiæ ac pietátis juventútem, novum Ecclésiæ tuæ subsídium providére dignátus es: præsta, quæsumus; nos, ejus exémplo et intercessióne, ita fácere et docére, ut præmia consequámur ætérna. Per Dóminum.
+Deus, qui per sanctum Joséphum Confessórem tuum, ad erudiéndam spíritu intelligéntiæ ac pietátis juventútem, novum Ecclésiæ tuæ subsídium providére dignátus es: præsta, quǽsumus; nos, ejus exémplo et intercessióne, ita fácere et docére, ut prǽmia consequámur ætérna. Per Dóminum.

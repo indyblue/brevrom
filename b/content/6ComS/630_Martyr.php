@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>One Martyr</p>
-<?php echo bookmark('csM'); ?>
+<?php bookmark('csM'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Unius Martyris':'Common of One Martyr') 
 ?></p>
@@ -37,17 +37,17 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php ant('csML.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('csML.php','02222'); ?>
-<?php echo bookmark('csMLlc'); ?>
+<?php bookmark('csMLlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('jas1_12.php'); ?>
-<?php echo bookmark('csMLh'); ?>
+<?php bookmark('csMLh'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
 <?php hymn('invicte_martyr_unicum.php'); ?>
 <?php vrS('justus_ut_palma_florebit.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('qui_odit_animam_suam_in_hoc_mundo.php','B'); ?>
 	<p:BodySm/>
-<?php echo bookmark('csMLH'); ?>
+<?php bookmark('csMLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -75,10 +75,10 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV115.php'); ?>
-<?php echo bookmark('csMVlc'); ?>
+<?php bookmark('csMVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('jas1_12.php'); ?>
-<?php echo bookmark('csMVh'); ?>
+<?php bookmark('csMVh'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
 <?php hymn('deus_tuorum_militum.php'); ?>
 <?php vrS('justus_ut_palma_florebit.php'); ?>

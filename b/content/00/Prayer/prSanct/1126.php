@@ -1,1 +1,1 @@
-Clementíssime Deus, qui sanctum Silvéstrum Abbátem, sæculi hujus vanitátem in apérto túmulo pie meditántem, ad erémum vocáre, et præcláris vitæ méritis decoráre dignátus es: te súpplices exorámus; ut, ejus exémplo terréna despiciéntes, tui consórtio perfruámur ætérno. Per Dóminum.
+Clementíssime Deus, qui sanctum Silvéstrum Abbátem, sǽculi hujus vanitátem in apérto túmulo pie meditántem, ad erémum vocáre, et præcláris vitæ méritis decoráre dignátus es: te súpplices exorámus; ut, ejus exémplo terréna despiciéntes, tui consórtio perfruámur ætérno. Per Dóminum.

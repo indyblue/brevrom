@@ -4,7 +4,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>APERI, Dómine, os meum ad benedicéndum nomen sanctum tuum: munda quoque cor meum ab ómnibus vanis, pervérsis et aliénis cogitatiónibus; intelléctum illúmina, afféctum inflámma, ut digne, atténte ac devóte hoc Offícium recitáre váleam, et exaudíri mérear ante conspéctum divínæ Majestátis tuæ. Per Christum, Dóminum nostrum. </p>
+      <p:BodyLDrop>ÁPERI, Dómine, os meum ad benedicéndum nomen sanctum tuum: munda quoque cor meum ab ómnibus vanis, pervérsis et aliénis cogitatiónibus; intelléctum illúmina, afféctum inflámma, ut digne, atténte ac devóte hoc Offícium recitáre váleam, et exaudíri mérear ante conspéctum divínæ Majestátis tuæ. Per Christum, Dóminum nostrum. </p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -33,7 +33,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>SACROSÁNCTÆ et indivíduæ Trinitáti, crucifíxi Dómini nostri Jesu Christi humanitáti, beatíssimæ et gloriosíssimæ sempérque Vírginis Maríæ fœcúndæ integritáti, et ómnium Sanctórum universitáti sit sempitérna laus, honor, virtus et glória ab omni creatúra, nobísque remíssio ómnium peccatórum, per infiníta sæcula sæculórum.</p>
+      <p:BodyLDrop>SACROSÁNCTÆ et indivíduæ Trinitáti, crucifíxi Dómini nostri Jesu Christi humanitáti, beatíssimæ et gloriosíssimæ sempérque Vírginis Maríæ fœcúndæ integritáti, et ómnium Sanctórum universitáti sit sempitérna laus, honor, virtus et glória ab omni creatúra, nobísque remíssio ómnium peccatórum, per infiníta sǽcula sæculórum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -97,14 +97,14 @@
    <p:P1/>
    <p:Head1NI>Common Forms</p>
    <p:Head2>Salutations</p>
-<?php echo bookmark('vrDominusVobiscum'); ?>
+<?php bookmark('vrDominusVobiscum'); ?>
 <?php vr('domine_exaudi.php',1); ?>
 	<p:Head2>The Collect</p>
    <p:RubricH>To a Prayer addressed to God the Father:</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Per <sr>[eúmdem]</s> Dóminum nostrum, Jesum Christum, Fílium tuum, qui tecum vivit et regnat, in unitáte <sr>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sæcula sæculórum.</p>
+      <p:BodyLIndent>Per <sr>[eúmdem]</s> Dóminum nostrum, Jesum Christum, Fílium tuum, qui tecum vivit et regnat, in unitáte <sr>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sǽcula sæculórum.</p>
      </td>
      <td:B1>
       <p:BodyEIndent>Through <sr>[the same] </s>our Lord Jesus Christ, thy Son, who liveth and reigneth with thee in the unity of the <sr>[same] </s>Holy Spirit, one God, world without end.</p>
@@ -115,7 +115,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Qui tecum vivit et regnat in unitáte <sr>[ejúsdem]</s> Spíritus Sancti, Deus per ómnia sæcula sæculórum.</p>
+      <p:BodyLIndent>Qui tecum vivit et regnat in unitáte <sr>[ejúsdem]</s> Spíritus Sancti, Deus per ómnia sǽcula sæculórum.</p>
      </td>
      <td:B1>
       <p:BodyEIndent>Who liveth and reigneth with thee in the unity of the <sr>[same]</s> Holy Spirit, one God, world without end.</p>
@@ -126,7 +126,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Qui vivis et regnas cum Deo Patre, in unitáte <sr>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sæcula sæculórum.</p>
+      <p:BodyLIndent>Qui vivis et regnas cum Deo Patre, in unitáte <sr>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sǽcula sæculórum.</p>
      </td>
      <td:B1>
       <p:BodyEIndent>Who livest and reignest with God the Father in the unity of the <sr>[same]</s> Holy Spirit, one God, world without end.</p>
@@ -138,7 +138,7 @@
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Glória Patri, et Fílio, et Spirítui Sancto.</p>
-      <p:BodyL><s:VR>R. </s>Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Amen. <sr>(</s>Allelúia<sr>)</s></p>
+      <p:BodyL><s:VR>R. </s>Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen. <sr>(</s>Allelúia<sr>)</s></p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Glory be to the Father, and to the Son, and to the Holy Spirit.</p>
@@ -159,7 +159,7 @@
    </table>
    <p:Spacer/>
    <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics2" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.2701in" style:rel-height="scale" draw:z-index="44"><draw:image xlink:href="../Images/FP_Trinity_Saints.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame><s:Spacer/></p>
+    </draw:frame></p>
    <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics1" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.5in" style:rel-height="scale" draw:z-index="40"><draw:image xlink:href="../Images/border.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
     </draw:frame><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="2.3937in" style:rel-width="70%" draw:z-index="43">
      <draw:text-box fo:min-height="2in">
@@ -182,7 +182,7 @@
       <p:P159><draw:frame draw:style-name="fr10" draw:name="Object1" text:anchor-type="as-char" svg:width="2.3902in" svg:height="0.178in" draw:z-index="43"><draw:object xlink:href="./Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/><draw:image xlink:href="./ObjectReplacements/Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
        </draw:frame></p>
      </draw:text-box>
-    </draw:frame><s:Spacer/></p>
+    </draw:frame></p>
    <p:P1/>
    </text:section>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">

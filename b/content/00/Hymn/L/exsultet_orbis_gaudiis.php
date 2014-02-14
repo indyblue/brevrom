@@ -14,7 +14,7 @@ Audíte voces súpplicum.
 Qui templa cæli cláuditis
 Serásque verbo sólvitis,
 Nos a reátu nóxios
-Solvi jubéte, quæsumus.
+Solvi jubéte, quǽsumus.
 
 Præcépta quorum prótinus
 Languor salúsque séntiunt,
@@ -22,7 +22,7 @@ Sanáte mentes lánguidas,
 Augéte nos virtútibus
 
 Ut, cum redíbit árbiter
-In fine Christus sæculi,
+In fine Christus sǽculi,
 Nos sempitérni gáudii
 Concédat esse cómpotes.
 

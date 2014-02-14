@@ -7,14 +7,14 @@ Slávicæ duplex cólumen decúsque
 Dícite gentis.
 
 Hos amor fratres sociávit unus,
-Unaque abdúxit píetas erémo,
+Unáque abdúxit píetas erémo,
 Ferre quo multis célerent beátæ
 Pígnora vitæ.
 
 Luce, quæ templis súperis renídet,
 Búlgaros complent, Móravos, Bohémos;
 Mox feras turmas numerósa Petro
-Agmina ducunt.
+Ágmina ducunt.
 
 Débitam cincti méritis corónam,
 Pérgite o flecti lácrimis precántum;

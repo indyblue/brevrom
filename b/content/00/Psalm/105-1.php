@@ -1,5 +1,5 @@
 Ps 105 i. Confitémini Dómino
-Confitémini Dómino, quóniam bonus: * quóniam in sæculum misericórdia ejus.
+Confitémini Dómino, quóniam bonus: * quóniam in sǽculum misericórdia ejus.
 Quis loquétur poténtias Dómini, * audítas fáciet omnes laudes ejus?
 Beáti, qui custódiunt judícium, * et fáciunt justítiam in omni témpore.
 Meménto nostri, Dómine, in beneplácito pópuli tui: * vísita nos in salutári tuo:

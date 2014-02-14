@@ -6,7 +6,7 @@ Ad usque terræ límitem,
 Christum canámus Príncipem,
 Natum María Vírgine.
 
-Beátus auctor sæculi
+Beátus auctor sǽculi
 Servíle corpus índuit:
 Ut carne carnem líberans,
 Ne pérderet quos cóndidit.
@@ -32,11 +32,11 @@ Et lacte módico pastus est,
 Per quem nec ales ésurit.
 
 Gaudet chorus cæléstium,
-Et Angeli canunt Deo;
+Et Ángeli canunt Deo;
 Palámque fit pastóribus
 Pastor, Creátor ómnium.
 
 Jesu tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

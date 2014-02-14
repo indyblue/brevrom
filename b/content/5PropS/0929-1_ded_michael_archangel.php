@@ -54,7 +54,7 @@
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV137.php'); ?>
-<?php echo bookmark('ps0929Vlc'); ?>
+<?php bookmark('ps0929Vlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc1_1.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

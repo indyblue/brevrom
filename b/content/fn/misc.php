@@ -7,7 +7,9 @@ function space($type='BodySm') {
 }
 
 function bookmark($link='') {
-	return '<p:BkHidden><text:bookmark text:name="' . $link . '"/></p>';
+	echo '
+<p:BkHidden><text:bookmark text:name="' . $link . '"/></p>
+';
 }
 function bkref($link='') {
 	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '"/>';

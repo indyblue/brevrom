@@ -1,1 +1,1 @@
-Deus, qui beátum Ludovícum Confessórem tuum de terréno regno ad cæléstis regni glóriam transtulísti: ejus, quæsumus, méritis et intercessióne; Regis regum Jesu Christi Fílii tui fácias nos esse consórtes: Qui tecum vivit.
+Deus, qui beátum Ludovícum Confessórem tuum de terréno regno ad cæléstis regni glóriam transtulísti: ejus, quǽsumus, méritis et intercessióne; Regis regum Jesu Christi Fílii tui fácias nos esse consórtes: Qui tecum vivit.

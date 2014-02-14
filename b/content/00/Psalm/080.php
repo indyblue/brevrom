@@ -12,5 +12,5 @@ Et non audívit pópulus meus vocem meam: * et Israël non inténdit mihi.
 Et dimísi eos secúndum desidéria cordis eórum: * ibunt in adinventiónibus suis.
 Si pópulus meus audísset me: * Israël si in viis meis ambulásset:
 Pro níhilo fórsitan inimícos eórum humiliássem: * et super tribulántes eos misíssem manum meam.
-Inimíci Dómini mentíti sunt ei: * et erit tempus eórum in sæcula.
+Inimíci Dómini mentíti sunt ei: * et erit tempus eórum in sǽcula.
 Et cibávit eos ex ádipe fruménti: * et de petra, melle saturávit eos.

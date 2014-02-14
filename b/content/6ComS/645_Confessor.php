@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Confessors</p>
-<?php echo bookmark('csC'); ?>
+<?php bookmark('csC'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 ?></p>
@@ -41,7 +41,7 @@ echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 <?php ant('euge_serve_bone_et_fidelis-tui.php','B'); ?>
    <p:BodySm/>
 
-<?php echo bookmark('csCLH'); ?>
+<?php bookmark('csCLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -73,7 +73,7 @@ echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV116.php'); ?>
-<?php echo bookmark('csCVlc'); ?>
+<?php bookmark('csCVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus31_8.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

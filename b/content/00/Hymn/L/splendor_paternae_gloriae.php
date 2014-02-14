@@ -44,4 +44,4 @@ Et totus in Verbo Pater.
 Deo Patri sit glória,
 Ejúsque soli Fílio,
 Cum Spíritu Paráclito,
-Nunc et per omne sæculum. Amen.
+Nunc et per omne sǽculum. Amen.

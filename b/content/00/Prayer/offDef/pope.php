@@ -1,1 +1,1 @@
-Deus, qui inter summos sacerdótes fámulum tuum <sr>N.</s> ineffábili tua dispositióne connumerári voluísti: præsta, quæsumus; ut qui Unigéniti Fílii tui vices in terris gerébat, sanctórum tuórum Pontíficum consórtio perpétuo aggregétur. Per eúmdem Dóminum.
+Deus, qui inter summos sacerdótes fámulum tuum <sr>N.</s> ineffábili tua dispositióne connumerári voluísti: præsta, quǽsumus; ut qui Unigéniti Fílii tui vices in terris gerébat, sanctórum tuórum Pontíficum consórtio perpétuo aggregétur. Per eúmdem Dóminum.

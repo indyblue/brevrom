@@ -8,5 +8,5 @@ Ut erudíret príncipes ejus sicut semetípsum: * et senes ejus prudéntiam doc�
 Et intrávit Israël in Ægýptum: * et Jacob áccola fuit in terra Cham.
 Et auxit pópulum suum veheménter: * et firmávit eum super inimícos ejus.
 Convértit cor eórum ut odírent pópulum ejus: * et dolum fácerent in servos ejus.
-Misit Móysen, servum suum: * Aaron, quem elégit ipsum.
+Misit Móysen, servum suum: * Áaron, quem elégit ipsum.
 Pósuit in eis verba signórum suórum: * et prodigiórum in terra Cham.

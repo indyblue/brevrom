@@ -6,7 +6,7 @@ Non declínes cor meum in verba malítiæ, * ad excusándas excusatiónes in pec
 Cum homínibus operántibus iniquitátem: * et non communicábo cum eléctis eórum,
 Corrípiet me justus in misericórdia, et increpábit me: * óleum autem peccatóris non impínguet caput meum.
 Quóniam adhuc et orátio mea in beneplácitis eórum: * absórpti sunt juncti petræ júdices eórum.
-Audient verba mea quóniam potuérunt: * sicut crassitúdo terræ erúpta est super terram.
+Áudient verba mea quóniam potuérunt: * sicut crassitúdo terræ erúpta est super terram.
 Dissipáta sunt ossa nostra secus inférnum: * quia ad te, Dómine, Dómine, óculi mei: in te sperávi, non áuferas ánimam meam.
 Custódi me a láqueo, quem statuérunt mihi: * et a scándalis operántium iniquitátem.
 Cadent in retiáculo ejus peccatóres: * singuláriter sum ego donec tránseam.

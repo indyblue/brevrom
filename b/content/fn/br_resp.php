@@ -56,7 +56,7 @@ function brS($file,$PT=0,$short=0,$requiem=0,$matins=0) {
 		echo style_first_letter($L1[0],'s:BoldR') .'...' ;
 	echo '</p>
    </td><td:B1>
-<p:BodyL>'. $vr1 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .' '. 
+<p:BodyE>'. $vr1 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .' '. 
 	$vr2 . $E1[0] .'... '. 
 	$vr1 . $E2 .' '. 
 	$vr2 . $E1[2] .' ';

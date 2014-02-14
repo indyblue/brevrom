@@ -10,7 +10,7 @@ Apud Dóminum gressus hóminis dirigéntur: * et viam ejus volet.
 Cum cecíderit non collidétur: * quia Dóminus suppónit manum suam.
 Júnior fui, étenim sénui: * et non vidi justum derelíctum, nec semen ejus quærens panem.
 Tota die miserétur et cómmodat: * et semen illíus in benedictióne erit.
-Declína a malo, et fac bonum: * et inhábita in sæculum sæculi.
+Declína a malo, et fac bonum: * et inhábita in sǽculum sǽculi.
 Quia Dóminus amat judícium, et non derelínquet sanctos suos: * in ætérnum conservabúntur.
 Injústi puniéntur: * et semen impiórum períbit.
-Justi autem hereditábunt terram: * et inhabitábunt in sæculum sæculi super eam.
+Justi autem hereditábunt terram: * et inhabitábunt in sǽculum sǽculi super eam.

@@ -14,7 +14,7 @@ Divérsa répleant loca:
 Largíre cunctis sérvulis,
 Quos mundat unda Sánguinis,
 Nescíre lapsus críminum,
-Nec ferre mortis tædium.
+Nec ferre mortis tǽdium.
 
 Ut culpa nullum déprimat:
 Nullum éfferat jactántia:
@@ -22,6 +22,6 @@ Elísa mens ne cóncidat:
 Eláta mens ne córruat.
 
 Præsta, Pater piíssime,
-Patríque compar Unice,
+Patríque compar Únice,
 Cum Spíritu Paráclito
-Regnans per omne sæculum. Amen.
+Regnans per omne sǽculum. Amen.

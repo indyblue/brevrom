@@ -4,7 +4,7 @@ Confessiónem, et decórem induísti: * amíctus lúmine sicut vestiménto:
 Exténdens cælum sicut pellem: * qui tegis aquis superióra ejus.
 Qui ponis nubem ascénsum tuum: * qui ámbulas super pennas ventórum.
 Qui facis ángelos tuos, spíritus: * et minístros tuos ignem uréntem.
-Qui fundásti terram super stabilitátem suam: * non inclinábitur in sæculum sæculi.
+Qui fundásti terram super stabilitátem suam: * non inclinábitur in sǽculum sǽculi.
 Abýssus, sicut vestiméntum, amíctus ejus: * super montes stabunt aquæ.
 Ab increpatióne tua fúgient: * a voce tonítrui tui formidábunt.
 Ascéndunt montes: et descéndunt campi * in locum, quem fundásti eis.

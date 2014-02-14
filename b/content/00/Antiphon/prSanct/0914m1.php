@@ -1,1 +1,1 @@
-O Crux, * splendídior cunctis astris, mundo célebris, homínibus multum amábilis, sanctior univérsis: quæ sola fuísti digna portáre taléntum mundi, dulce lignum, dulces clavos, dúlcia ferens póndera; salva præséntem catérvam in tuis hódie láudibus congregátam.
+O Crux, * splendídior cunctis astris, mundo célebris, homínibus multum amábilis, sánctior univérsis: quæ sola fuísti digna portáre taléntum mundi, dulce lignum, dulces clavos, dúlcia ferens póndera; salva præséntem catérvam in tuis hódie láudibus congregátam.

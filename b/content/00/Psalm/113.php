@@ -1,6 +1,6 @@
 Ps 113. In éxitu Israël
 In éxitu Israël de Ægýpto, * domus Jacob de pópulo bárbaro:
-Facta est Judæa sanctificátio ejus, * Israël potéstas ejus.
+Facta est Judǽa sanctificátio ejus, * Israël potéstas ejus.
 Mare vidit, et fugit: * Jordánis convérsus est retrórsum.
 Montes exsultavérunt ut aríetes, * et colles sicut agni óvium.
 Quid est tibi, mare, quod fugísti: * et tu, Jordánis, quia convérsus es retrórsum?
@@ -16,13 +16,13 @@ Aures habent, et non áudient: * nares habent, et non odorábunt.
 Manus habent, et non palpábunt: pedes habent, et non ambulábunt: * non clamábunt in gútture suo.
 Símiles illis fiant qui fáciunt ea: * et omnes qui confídunt in eis.
 Domus Israël sperávit in Dómino: * adjútor eórum et protéctor eórum est,
-Domus Aaron sperávit in Dómino: * adjútor eórum et protéctor eórum est,
+Domus Áaron sperávit in Dómino: * adjútor eórum et protéctor eórum est,
 Qui timent Dóminum, speravérunt in Dómino: * adjútor eórum et protéctor eórum est.
 Dóminus memor fuit nostri: * et benedíxit nobis:
-Benedíxit dómui Israël: * benedíxit dómui Aaron.
+Benedíxit dómui Israël: * benedíxit dómui Áaron.
 Benedíxit ómnibus, qui timent Dóminum, * pusíllis cum majóribus.
 Adjíciat Dóminus super vos: * super vos, et super fílios vestros.
 Benedícti vos a Dómino, * qui fecit cælum, et terram.
 Cælum cæli Dómino: * terram autem dedit fíliis hóminum.
 Non mórtui laudábunt te, Dómine: * neque omnes, qui descéndunt in inférnum.
-Sed nos qui vívimus, benedícimus Dómino, * ex hoc nunc et usque in sæculum.
+Sed nos qui vívimus, benedícimus Dómino, * ex hoc nunc et usque in sǽculum.

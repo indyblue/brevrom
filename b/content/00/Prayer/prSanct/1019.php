@@ -1,1 +1,1 @@
-Deus, qui beátum Petrum Confessórem tuum admirábilis pœniténtiæ et altíssimæ contemplatiónis múnere illustráre dignátus es: da nobis, quæsumus; ut, ejus suffragántibus méritis, carne mortificáti, facílius cæléstia capiámus. Per Dóminum.
+Deus, qui beátum Petrum Confessórem tuum admirábilis pœniténtiæ et altíssimæ contemplatiónis múnere illustráre dignátus es: da nobis, quǽsumus; ut, ejus suffragántibus méritis, carne mortificáti, facílius cæléstia capiámus. Per Dóminum.

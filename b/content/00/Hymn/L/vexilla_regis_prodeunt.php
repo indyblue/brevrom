@@ -22,7 +22,7 @@ Elécta digno stípite
 Tam sancta membra tángere.
 
 Beáta, cujus bráchiis
-Prétium pepéndit sæculi,
+Prétium pepéndit sǽculi,
 Statéra facta córporis,
 Tulítque prædam tártari.
 
@@ -36,4 +36,4 @@ Reísque dele crímina.
 Te, fons salútis, Trínitas,
 Colláudet omnis spíritus:
 Quibus Crucis victóriam
-Largíris, adde præmium. Amen.
+Largíris, adde prǽmium. Amen.

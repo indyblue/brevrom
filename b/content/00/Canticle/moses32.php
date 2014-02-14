@@ -5,7 +5,7 @@ Concréscat ut plúvia doctrína mea, * fluat ut ros elóquium meum.
 Quasi imber super herbam, et quasi stillæ super grámina. * Quia nomen Dómini invocábo.
 Date magnificéntiam Deo nostro. * Dei perfécta sunt ópera, et omnes viæ ejus júdicia:
 Deus fidélis, et absque ulla iniquitáte, justus et rectus. * Peccavérunt ei, non fílii ejus in sórdibus:
-Generátio prava atque pervérsa. * Hæccine reddis Dómino, pópule stulte et insípiens?
+Generátio prava atque pervérsa. * Hǽccine reddis Dómino, pópule stulte et insípiens?
 Numquid non ipse est pater tuus, * qui possédit te, et fecit, et creávit te?
 Meménto diérum antiquórum, * cógita generatiónes síngulas:
 Intérroga patrem tuum, et annuntiábit tibi: * majóres tuos, et dicent tibi.

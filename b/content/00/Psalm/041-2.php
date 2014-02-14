@@ -1,7 +1,7 @@
 Ps 41 ii. Ad meípsum
 Ad meípsum ánima mea conturbáta est: * proptérea memor ero tui de terra Jordánis, et Hermóniim a monte módico.
 Abýssus abýssum ínvocat, * in voce cataractárum tuárum.
-Omnia excélsa tua, et fluctus tui * super me transiérunt.
+Ómnia excélsa tua, et fluctus tui * super me transiérunt.
 In die mandávit Dóminus misericórdiam suam: * et nocte cánticum ejus.
 Apud me orátio Deo vitæ meæ, * dicam Deo: Suscéptor meus es.
 Quare oblítus es mei? * et quare contristátus incédo, dum afflígit me inimícus?

@@ -9,7 +9,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, qui Slavoniæ gentes per beátos Confessóres tuos atque Pontífices Cyríllum et Methódium ad agnitiónem tui nóminis veníre tribuísti: præsta; ut, quorum festivitáte gloriámur, eórum consórtio copulémur. Per Dóminum.</p>
+      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, qui Slavóniæ gentes per beátos Confessóres tuos atque Pontífices Cyríllum et Methódium ad agnitiónem tui nóminis veníre tribuísti: præsta; ut, quorum festivitáte gloriámur, eórum consórtio copulémur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O ALMIGHTY, eternal God, who, by means of thy blessed Confessors and Bishops Cyril and Methodius, wert pleased to bring the people of Slavonia to the knowledge of thy name; grant that we, who rejoice in celebrating their festival, may be united with them in eternal fellowship. Through our Lord.</p>
@@ -20,7 +20,7 @@
    <p:Head2>ad Laudes</p>
 <?php rubrics('ps/Feria.php'); ?>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus. 44:16</p>
+   <p:RubricHSm><t>Ecclus. 44:16</p>
    <table>
     <tr>
      <td:A1>
@@ -84,7 +84,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Isti sunt * viri sancti facti amíci Dei, divínæ veritátis præconio gloriósi: linguæ eórum claves cæli factæ sunt.</p>
+      <p:BodyL><sr>Ant. </s>Isti sunt * viri sancti facti amíci Dei, divínæ veritátis præcónio gloriósi: linguæ eórum claves cæli factæ sunt.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>These are * the holy men become the friends of God and made glorious by the preaching of divine truth; their tongues have become the keys of heaven.</p>
@@ -100,7 +100,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CLEMENTÍSSIME Deus, qui, beátam Elísabeth regínam, inter céteras egrégias dotes, béllici furóris sedándi prærogativa decorásti: da nobis, ejus intercessióne; post mortális vitæ, quam supplíciter pétimus, pacem, ad ætérna gaudia perveníre. Per Dóminum.</p>
+      <p:BodyLDrop>CLEMENTÍSSIME Deus, qui, beátam Elísabeth regínam, inter céteras egrégias dotes, béllici furóris sedándi prærogatíva decorásti: da nobis, ejus intercessióne; post mortális vitæ, quam supplíciter pétimus, pacem, ad ætérna gáudia perveníre. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O MOST merciful God, who, among other rare gifts, didst adorn the blessed Queen Elizabeth with a singular grace for quelling the rage of war; grant through her intercession that, after enjoying in this mortal life the peace for which we humbly bet, we may attain unto eternal joys. Through our Lord.</p>
@@ -111,7 +111,7 @@
    <p:Head2>ad Laudes</p>
 <?php rubrics('ps/Feria.php'); ?>
            <p:Head3>Little Chapter</p>
-   <p:RubricH><text:tab/>Prov. 31:10-11</p>
+   <p:RubricH><t>Prov. 31:10-11</p>
    <table>
     <tr>
      <td:A1>
@@ -195,7 +195,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, pios apud te in nostra intercessióne sentiámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O almighty God, that we who acknowledge the glorious Martyrs to have been valiant in their confession of thy faith, may now experience their compassion by their intercession for us with thee. Through our Lord.</p>
@@ -254,7 +254,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INTERCÉSSIO nos, quæsumus, Dómine, beáti Joánnis Abbátis comméndet : ut, quod nostris méritis non valémus, ejus patrocínio assequámur. <text:s/>Per Dóminum.</p>
+      <p:BodyLDrop>INTERCÉSSIO nos, quǽsumus, Dómine, beáti Joánnis Abbátis comméndet : ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY THE intercession, O Lord, we beseech thee, of the blessed Abbot John commend us unto thee, that what by our own merits we are not worthy to receive, we may obtain by his patronage. Through our Lord.</p>
@@ -290,7 +290,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, Dómine : ut, sicut nos sanctórum Mártyrum tuórum Náboris et Felícis natalítia celebránda non déserunt ; ita júgiter suffrágiis comiténtur. <text:s/>Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, Dómine : ut, sicut nos sanctórum Mártyrum tuórum Náboris et Felícis natalítia celebránda non déserunt ; ita júgiter suffrágiis comiténtur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Lord, that, as we fail not to celebrate the heavenly birthday of thy holy Martyrs Nabor and Felix, so they may unceasingly help us by their prayers. Through our Lord.</p>
@@ -308,7 +308,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui pópulo tuo ætérnæ salútis beátum Bonaventúram minístrum tribuísti: præsta, quæsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui pópulo tuo ætérnæ salútis beátum Bonaventúram minístrum tribuísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst give blessed Bonaventure to thy people to be a minister of eternal salvation; grant, we beseech thee, that we may deserve to have him for an intercessor in heaven whom we have had as a teacher of life on Earth. Through our Lord.</p>
@@ -326,7 +326,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui hodiérna die beátum Henrícum Confessórem tuum et terréni cúlmine impérii ad regnum ætérnum transtulísti: te súpplices exorámus; ut, sicut illum, gratiæ tuæ ubertáte prævéntum, illécebras sæculi superáre fecísti, ita nos fácias, ejus imitatióne, mundi hujus blandiménta vitáre, et ad te puris méntibus perveníre. Per Dóminum nostrum.</p>
+      <p:BodyLDrop>DEUS, qui hodiérna die beátum Henrícum Confessórem tuum et terréni cúlmine impérii ad regnum ætérnum transtulísti: te súpplices exorámus; ut, sicut illum, grátiæ tuæ ubertáte prævéntum, illécebras sǽculi superáre fecísti, ita nos fácias, ejus imitatióne, mundi hujus blandiménta vitáre, et ad te puris méntibus perveníre. Per Dóminum nostrum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst on this day translate blessed Henry thy Confessor from the height of an earthly empire to thy eternal kingdom; we humbly beseech thee that as, by the fullness of thy preventing grace, thou didst strengthen him to overcome the enticements of this life, so thou wouldst enable us to shun, by his example, the blandishments of the world, and with pure hearts to come unto thee. Through our Lord.</p>
@@ -367,7 +367,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui beatíssimæ semper Vírginis et Genitrícis tuæ Maríæ singulári título Carméli órdinem decorásti: concéde propítius; ut, cujus hódie Commemoratiónem solémni celebrámus offício, ejus muníti præsidiis, ad gaudia sempitérna perveníre mereámur: Qui vivis.</p>
+      <p:BodyLDrop>DEUS, qui beatíssimæ semper Vírginis et Genitrícis tuæ Maríæ singulári título Carméli órdinem decorásti: concéde propítius; ut, cujus hódie Commemoratiónem solémni celebrámus offício, ejus muníti præsídiis, ad gáudia sempitérna perveníre mereámur: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who hast honoured the Carmelite Order with the special title of the Order of the most blessed ever-Virgin Mary, thy Mother; mercifully grant that, as we this day celebrate her commemoration with a solemn office, so we may be defended by her protection, and be found worthy to attain to everlasting joys. Who livest.</p>
@@ -383,7 +383,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
+      <p:BodyL><sr>Ant. </s>Éuge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Well done, good servant, * and faithful, because thou hast been faithful over a few things, enter thou into the joy of thy Lord.</p>
@@ -407,7 +407,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui nos beáti Aléxii Confessóris tui annua solemnitáte lætificas: concéde propítius; ut, cujus natalítia cólimus, étiam actiónes imitémur. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui nos beáti Aléxii Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, étiam actiónes imitémur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who rejoicest us by the yearly solemnity of blessed Alexius thy Confessor; mercifully grant that, as we celebrate his festival, we may also imitate his actions. Through our Lord.</p>
@@ -425,7 +425,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui sanctum Camíllum, ad animárum in extrémo agóne luctántium subsídium, singulári caritátis prærogativa decorásti: ejus, quæsumus, méritis spíritum nobis tuæ dilectiónis infúnde; ut in hora éxitus nostri hostem víncere, et ad cælestem mereámur corónam perveníre. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui sanctum Camíllum, ad animárum in extrémo agóne luctántium subsídium, singulári caritátis prærogatíva decorásti: ejus, quǽsumus, méritis spíritum nobis tuæ dilectiónis infúnde; ut in hora éxitus nostri hostem víncere, et ad cæléstem mereámur corónam perveníre. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst adorn holy Camillus with a special grace of charity for the relief of souls in their last agony; we beseech thee, by his merits, so to pour into our hearts the spirit of thy love, that at the hour of our death we may overcome the enemy, and be counted worthy to obtain a heavenly crown. Through our Lord.</p>
@@ -461,7 +461,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui nos concédis sanctórum Mártyrum tuórum Symphorosæ et filiórum ejus natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére. Per Dóminum nostrum.</p>
+      <p:BodyLDrop>DEUS, qui nos concédis sanctórum Mártyrum tuórum Symphorósæ et filiórum ejus natalítia cólere: da nobis in ætérna beatitúdine de eórum societáte gaudére. Per Dóminum nostrum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who givest unto us to celebrate the festival of thy holy Martyrs Symphorosa and her sons; grant us to rejoice in their company in eternal happiness. Through our Lord.</p>
@@ -479,7 +479,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui ad evangelizándum paupéribus et ecclesiástici órdinis decórem promovéndum, beátum Vincéntium apostólica virtúte roborásti: præsta, quæsumus; ut, cujus pia mérita venerámur, virtútum quoque instruámur exémplis. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui ad evangelizándum paupéribus et ecclesiástici órdinis decórem promovéndum, beátum Vincéntium apostólica virtúte roborásti: præsta, quǽsumus; ut, cujus pia mérita venerámur, virtútum quoque instruámur exémplis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst invigorate blessed Vincent with the strength of an apostle, that he might preach the Gospel to the poor and advance the honour of the ecclesiastical order; grant, we beseech thee, that, as we venerate the merits of his charity, so we may be instructed <text:soft-page-break/>by the example of his virtues. Through our Lord.</p>
@@ -533,7 +533,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INDULGÉNTIAM nobis, quæsumus, Dómine, beáta Margaríta Virgo et Martyr implóret: quæ tibi gráta semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
+      <p:BodyLDrop>INDULGÉNTIAM nobis, quǽsumus, Dómine, beáta Margaríta Virgo et Martyr implóret: quæ tibi gráta semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY BLESSED Margaret thy Virgin and Martyr, we beseech thee, O Lord, implore for us forgiveness; inasmuch as she was ever pleasing unto thee, both by the merit of her chastity and the confession of thy power. Through our Lord.</p>

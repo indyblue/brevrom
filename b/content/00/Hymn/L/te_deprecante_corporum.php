@@ -22,6 +22,6 @@ Respónde votis súpplicum,
 Et invocátus súbveni.
 
 O una semper Trínitas,
-O trina semper Unitas:
+O trina semper Únitas:
 Da, supplicánte Cántio,
-Ætérna nobis præmia. Amen.
+Ætérna nobis prǽmia. Amen.

@@ -1,1 +1,1 @@
-Deus, qui beátum Albértum Pontíficem tuum atque Doctórem, in humána sapiéntia divínæ fídei subjiciénda magnum effecísti; da nobis, quæsumus, ita ejus magistérii inhærére vestígiis, ut luce perfécta fruámur in cælis. Per Dóminum.
+Deus, qui beátum Albértum Pontíficem tuum atque Doctórem, in humána sapiéntia divínæ fídei subjiciénda magnum effecísti; da nobis, quǽsumus, ita ejus magistérii inhærére vestígiis, ut luce perfécta fruámur in cælis. Per Dóminum.

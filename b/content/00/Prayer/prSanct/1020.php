@@ -1,1 +1,1 @@
-Da, quæsumus, omnípotens Deus: ut, sancti Joánnis Confessóris exémplo in sciéntia Sanctórum proficiéntes, atque áliis misericórdiam exhibéntes; ejus méritis, indulgéntiam apud te consequámur. Per Dóminum.
+Da, quǽsumus, omnípotens Deus: ut, sancti Joánnis Confessóris exémplo in sciéntia Sanctórum proficiéntes, atque áliis misericórdiam exhibéntes; ejus méritis, indulgéntiam apud te consequámur. Per Dóminum.

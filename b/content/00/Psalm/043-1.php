@@ -8,4 +8,4 @@ Tu es ipse Rex meus et Deus meus: * qui mandas salútes Jacob.
 In te inimícos nostros ventilábimus cornu: * et in nómine tuo spernémus insurgéntes in nobis.
 Non enim in arcu meo sperábo: * et gládius meus non salvábit me.
 Salvásti enim nos de affligéntibus nos: * et odiéntes nos confudísti.
-In Deo laudábimur tota die: * et in nómine tuo confitébimur in sæculum.
+In Deo laudábimur tota die: * et in nómine tuo confitébimur in sǽculum.

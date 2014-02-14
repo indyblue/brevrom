@@ -59,7 +59,7 @@ for($i=2;$i<$countL;$i++) {
 <?php
 				}
 			} else {
-				echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . '<text:tab/>Trans. ' . trim($Epieces[0]) . '</s></p>';
+				echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . '<t>Trans. ' . trim($Epieces[0]) . '</s></p>';
 
 			}
 		}

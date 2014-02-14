@@ -12,7 +12,7 @@ Almíque membra córporis
 Amor sacérdos ímmolat.
 
 Sparsum cruórem póstibus
-Vastátor horret Angelus:
+Vastátor horret Ángelus:
 Fugítque divísum mare;
 Mergúntur hostes flúctibus.
 
@@ -24,10 +24,10 @@ Sinceritátis ázyma.
 O vera cæli víctima,
 Subjécta cui sunt tártara,
 Solúta mortis víncula,
-Recépta vitæ præmia.
+Recépta vitæ prǽmia.
 
 Victor, subáctis ínferis,
-Trophæa Christus éxplicat;
+Trophǽa Christus éxplicat;
 Cælóque apérto, súbditum
 Regem tenebrárum trahit.
 
@@ -39,4 +39,4 @@ Vitæ renátos líbera.
 Deo Patri sit glória,
 Et Fílio, qui a mórtuis
 Surréxit, ac Paráclito,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

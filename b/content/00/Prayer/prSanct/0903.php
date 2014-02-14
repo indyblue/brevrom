@@ -1,1 +1,1 @@
-Deus, qui ad tuéndam cathólicam fidem, et univérsa in Christo instauránda sanctum Pium, Summum Pontíficem, cælésti sapiéntia et apostólica fortitúdine replevísti: concéde propítius; ut, ejus institúta et exémpla sectántes, præmia consequámur ætérna. Per eúmdem Dóminum.
+Deus, qui ad tuéndam cathólicam fidem, et univérsa in Christo instauránda sanctum Pium, Summum Pontíficem, cælésti sapiéntia et apostólica fortitúdine replevísti: concéde propítius; ut, ejus institúta et exémpla sectántes, prǽmia consequámur ætérna. Per eúmdem Dóminum.

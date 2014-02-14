@@ -143,7 +143,7 @@
      </td>
     </tr>
    </table>
-   <p:BodySm><sr>Said after the following versicles, until another response is given. <text:s/></s>Ora <sr>is used when a single Saint is invoked; </s>Oráte <sr>is used when more than one Saint is invoked at once.</s></p>
+   <p:BodySm><sr>Said after the following versicles, until another response is given. </s>Ora <sr>is used when a single Saint is invoked; </s>Oráte <sr>is used when more than one Saint is invoked at once.</s></p>
    <table>
     <tr>
      <td:A1>
@@ -291,7 +291,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Sancte Bartholomæe.</p>
+      <p:BodyLSm><s:VR>V. </s>Sancte Bartholomǽe.</p>
      </td>
      <td:B1>
       <p:BodyESm><s:VR>V. </s>St. Bartholomew.</p>
@@ -299,7 +299,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Sancte Matthæe.</p>
+      <p:BodyLSm><s:VR>V. </s>Sancte Matthǽe.</p>
      </td>
      <td:B1>
       <p:BodyESm><s:VR>V. </s>St. Matthew.</p>
@@ -315,7 +315,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Sancte Thaddæe.</p>
+      <p:BodyLSm><s:VR>V. </s>Sancte Thaddǽe.</p>
      </td>
      <td:B1>
       <p:BodyESm><s:VR>V. </s>St. Thaddeus <sr>(</s>Jude<sr>)</s>.</p>
@@ -1326,7 +1326,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXÁUDI, quæsumus, Dómine, supplícium preces, et confiténtium tibi parce peccátis: ut páriter nobis indulgéntiam tríbuas benígnus et pacem.</p>
+      <p:BodyLDrop>EXÁUDI, quǽsumus, Dómine, supplícium preces, et confiténtium tibi parce peccátis: ut páriter nobis indulgéntiam tríbuas benígnus et pacem.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRACIOUSLY hear, we beseech thee, O Lord, the prayers of thy suppliants, and pardon the sins of those who confess to thee, that in thy bounty you may grant to us both pardon and peace.</p>
@@ -1382,7 +1382,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ACTIÓNES nostras, quæsumus, Dómine, aspirándo prævéni et adjuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat et per te cœpta finiátur.</p>
+      <p:BodyLDrop>ACTIÓNES nostras, quǽsumus, Dómine, aspirándo prævéni et adjuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat et per te cœpta finiátur.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>DIRECT, we beseech thee, O Lord, our actions by thy holy inspirations, and carry them on by thy gracious assistance, that every prayer and work of ours may begin always with thee, and through thee be happily ended.</p>
@@ -1390,7 +1390,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sæculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur. Per Dóminum.</p>
+      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, qui vivórum domináris simul et mortuórum, omniúmque miseréris quos tuos fide et ópere futúros esse prænóscis: te súpplices exorámus; ut, pro quibus effúndere preces decrévimus, quosque vel præsens sǽculum adhuc in carne rétinet vel futúrum jam exútos córpore suscépit, intercedéntibus ómnibus Sanctis tuis, pietátis tuæ cleméntia, ómnium delictórum suórum véniam consequántur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>ALMIGHTY and everlasting God, you have dominion over the living and the dead, and you are merciful to all who you foreknow will be yours by faith and good works; we humbly beseech thee that those for whom we intend to pour forth our prayers, whether this present world still detain them in the flesh, or the world to come has already received them out of their bodies, may, through the intercession of all thy Saints, by the clemency of thy goodness, obtain the remission of all their sins. Through our Lord.</p>

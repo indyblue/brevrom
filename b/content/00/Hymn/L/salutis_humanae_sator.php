@@ -24,4 +24,4 @@ Dites beáto lúmine.
 Tu, dux ad astra, et sémita,
 Sis meta nostris córdibus,
 Sis lacrimárum gáudium,
-Sis dulce vitæ præmium. Amen.
+Sis dulce vitæ prǽmium. Amen.

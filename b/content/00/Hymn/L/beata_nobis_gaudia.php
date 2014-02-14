@@ -23,7 +23,7 @@ Quo lege fit remíssio.
 
 Te nunc, Deus piíssime,
 Vultu precámur cérnuo:
-Illápsa nobis cælitus
+Illápsa nobis cǽlitus
 Largíre dona Spíritus.
 
 Dudum sacráta péctora
@@ -34,4 +34,4 @@ Et da quiéta témpora.
 Deo Patri sit glória,
 Et Fílio, qui a mórtuis
 Surréxit, ac Paráclito,
-In sæculórum sæcula. Amen.
+In sæculórum sǽcula. Amen.

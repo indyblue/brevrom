@@ -7,7 +7,7 @@ Primórdiis lucis novæ,
 Mundi parans oríginem:
 
 Qui mane junctum vésperi
-Diem vocári præcipis:
+Diem vocári prǽcipis:
 Illábitur tetrum chaos,
 Audi preces cum flétibus.
 
@@ -17,11 +17,11 @@ Dum nil perénne cógitat,
 Seséque culpis ílligat.
 
 Cæléste pulset óstium:
-Vitále tollat præmium:
+Vitále tollat prǽmium:
 Vitémus omne nóxium:
 Purgémus omne péssimum.
 
 Præsta, Pater piíssime,
-Patríque compar Unice,
+Patríque compar Únice,
 Cum Spíritu Paráclito
-Regnans per omne sæculum. Amen.
+Regnans per omne sǽculum. Amen.

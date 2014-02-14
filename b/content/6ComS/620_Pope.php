@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Pope</p>
-<?php echo bookmark('csPope'); ?>
+<?php bookmark('csPope'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Unius aut Plurium Summorum Pontificum':'Common of One or Many Supreme Pontiffs') 
 ?></p>

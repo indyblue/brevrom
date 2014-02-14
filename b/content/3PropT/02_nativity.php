@@ -10,7 +10,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that the new birth of thy Only-begotten Son as man may set us free, who are held by the old bondage under the yoke of sin. Through the same.</p>
@@ -66,7 +66,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Titus 3:4</p>
+   <p:RubricHSm><t>Titus 3:4</p>
    <table>
     <tr>
      <td:A1>
@@ -155,11 +155,11 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Heb. 1:1-2</p>
+   <p:RubricHSm><t>Heb. 1:1-2</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>MULTIFÁRIAM, multísque modis olim Deus loquens pátribus in prophétis: novíssime diébus istis locútus est nobis in Fílio, quem constítuit herédem universórum, per quem fecit et sæcula.</p>
+      <p:BodyLDrop>MULTIFÁRIAM, multísque modis olim Deus loquens pátribus in prophétis: novíssime diébus istis locútus est nobis in Fílio, quem constítuit herédem universórum, per quem fecit et sǽcula.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -363,7 +363,7 @@
    <p:Head3>Psalms with Antiphons</p>
 <?php rubrics('ps/PrNativity.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Gal. 4:1-2</p>
+   <p:RubricHSm><t>Gal. 4:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -442,7 +442,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Gal 4:4-5</p>
+   <p:RubricHSm><t>Gal 4:4-5</p>
    <table>
     <tr>
      <td:A1>
@@ -460,11 +460,11 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Gal 4:7</p>
+   <p:RubricHSm><t>Gal 4:7</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ITAQUE jam non est servus, sed fílius: quod si fílius, et heres per Deum.</p>
+      <p:BodyLDrop>ÍTAQUE jam non est servus, sed fílius: quod si fílius, et heres per Deum.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -520,7 +520,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA nobis, quæsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalítia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum, Fílium tuum: Qui tecum vivit.</p>
+      <p:BodyLDrop>DA nobis, quǽsumus, Dómine, imitári quod cólimus: ut discámus et inimícos dilígere; quia ejus natalítia celebrámus, qui novit étiam pro persecutóribus exoráre Dóminum nostrum Jesum Christum, Fílium tuum: Qui tecum vivit.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT us, we beseech thee, O Lord, so to imitate what we revere, that we may learn to love even our enemies; for we celebrate the heavenly birthday of him who knew how to pray for his very persecutors to our Lord, Jesus Christ, Thy Son. Who liveth.</p>
@@ -530,7 +530,7 @@
    <p:Body/>
    <p:Head2>ad I Vésperas</p>
    <p:RubricH>If a commemoration is to be made at II Vespers of Christmas:</p>
-	<p:RubricHidden><text:tab/>Acts 6:8</p>
+	<p:RubricHidden><t>Acts 6:8</p>
    <table>
     <tr>
      <td:A1>
@@ -541,7 +541,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHidden><text:tab/>Ps. 8:6</p>
+   <p:RubricHidden><t>Ps. 8:6</p>
    <table>
     <tr>
      <td:A1>
@@ -579,7 +579,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Adhæsit ánima mea * post te, quia caro mea lapidáta est pro te, Deus meus.</p>
+      <p:BodyL><sr>Ant 3. </s>Adhǽsit ánima mea * post te, quia caro mea lapidáta est pro te, Deus meus.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 3. </s>My soul cleaveth * unto thee, for my flesh hath been stoned for thy sake, O my God.</p>
@@ -603,7 +603,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 6:8</p>
+   <p:RubricHSm><t>Acts 6:8</p>
    <table>
     <tr>
      <td:A1>
@@ -618,7 +618,7 @@
    </table>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Common of one Martyr, with the following response:</p>
-	<p:RubricHidden><text:tab/>Acts 8:2</p>
+	<p:RubricHidden><t>Acts 8:2</p>
    <table>
     <tr>
      <td:A1>
@@ -632,7 +632,7 @@
     </tr>
    </table>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Acts 6:8</p>
+   <p:RubricHidden><t>Acts 6:8</p>
    <table>
     <tr>
      <td:A1>
@@ -672,7 +672,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that the new birth of thy Only-begotten Son as man may set us free, who are held by the old bondage under the yoke of sin. Through the same.</p>
@@ -687,11 +687,11 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 6:9-10</p>
+   <p:RubricHSm><t>Acts 6:9-10</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>SURREXÉRUNT autem quidam de synagóga, quæ appellátur Libertinórum, et Cyrenénsium, et Alexandrinórum, et eórum qui erant a Cilícia, et Asia, disputántes cum Stéphano: et non póterant resístere sapiéntiæ, et Spirítui qui loquebátur.</p>
+      <p:BodyLDrop>SURREXÉRUNT autem quidam de synagóga, quæ appellátur Libertinórum, et Cyrenénsium, et Alexandrinórum, et eórum qui erant a Cilícia, et Ásia, disputántes cum Stéphano: et non póterant resístere sapiéntiæ, et Spirítui qui loquebátur.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -704,7 +704,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 7:60</p>
+   <p:RubricHSm><t>Acts 7:60</p>
    <table>
     <tr>
      <td:A1>
@@ -836,7 +836,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus 15:1-2</p>
+   <p:RubricHSm><t>Ecclus 15:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -903,7 +903,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that the new birth of thy Only-begotten Son as man may set us free, who are held by the old bondage under the yoke of sin. Through the same.</p>
@@ -918,7 +918,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus 15:3</p>
+   <p:RubricHSm><t>Ecclus 15:3</p>
    <table>
     <tr>
      <td:A1>
@@ -935,7 +935,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus 15:5</p>
+   <p:RubricHSm><t>Ecclus 15:5</p>
    <table>
     <tr>
      <td:A1>
@@ -971,7 +971,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Exiit * sermo inter fratres, quod discípulus ille non móritur; et non dixit Jesus, Non móritur: sed, Sic eum volo manére, donec véniam.</p>
+      <p:BodyL><sr>Ant. </s>Éxiit * sermo inter fratres, quod discípulus ille non móritur; et non dixit Jesus, Non móritur: sed, Sic eum volo manére, donec véniam.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>A saying went abroad * among the brethren, that that disciple should not die; and Jesus did not say that he should not die, but so will I have him remain till I come.</p>
@@ -1067,7 +1067,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Apoc. 14:1</p>
+   <p:RubricHSm><t>Apoc. 14:1</p>
    <table>
     <tr>
      <td:A1>
@@ -1134,7 +1134,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that the new birth of thy Only-begotten Son as man may set us free, who are held by the old bondage under the yoke of sin. Through the same.</p>
@@ -1149,7 +1149,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Apoc. 14:4</p>
+   <p:RubricHSm><t>Apoc. 14:4</p>
    <table>
     <tr>
      <td:A1>
@@ -1166,7 +1166,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Apoc. 14:4-5</p>
+   <p:RubricHSm><t>Apoc. 14:4-5</p>
    <table>
     <tr>
      <td:A1>
@@ -1238,7 +1238,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that the new birth of thy Only-begotten Son as man may set us free, who are held by the old bondage under the yoke of sin. Through the same.</p>
@@ -1249,7 +1249,7 @@
    <p:Head2>ad Laudes</p>
    <p:Rubric>All as on the feast of Christmas</p>
    <p:RubricH>Commemoration is made of St. Thomas, Bishop and Martyr:</p>
-	<p:RubricHidden><text:tab/>Jn 12:25</p>
+	<p:RubricHidden><t>Jn 12:25</p>
    <table>
     <tr>
      <td:A1>
@@ -1260,7 +1260,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHidden><text:tab/>Ps 91:13</p>
+   <p:RubricHidden><t>Ps 91:13</p>
    <table>
     <tr>
      <td:A1>
@@ -1277,7 +1277,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, pro cujus Ecclésia gloriósus Póntifex Thomas gládiis impiórum occúbuit: præsta, quæsumus; ut omnes, qui ejus implórant auxílium, petitiónis suæ salutárem consequántur efféctum. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, pro cujus Ecclésia gloriósus Póntifex Thomas gládiis impiórum occúbuit: præsta, quǽsumus; ut omnes, qui ejus implórant auxílium, petitiónis suæ salutárem consequántur efféctum. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, for the sake of whose Church the glorious Bishop Thomas fell by the sword of wicked men, grant, we beseech thee, that all who implore his aid, may obtain the good fruit of their petition. Through our Lord.</p>
@@ -1307,7 +1307,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that the new birth of thy Only-begotten Son as man may set us free, who are held by the old bondage under the yoke of sin. Through the same.</p>
@@ -1340,7 +1340,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that the new birth of thy Only-begotten Son as man may set us free, who are held by the old bondage under the yoke of sin. Through the same.</p>
@@ -1351,18 +1351,18 @@
    <p:Head2>ad Laudes</p>
    <p:Rubric>All as on the feast of Christmas</p>
    <p:RubricH>Commemoration is made of St. Sylvester I, Pope and Confessor:</p>
-   <p:RubricHidden><text:tab/>Matt 25:23</p>
+   <p:RubricHidden><t>Matt 25:23</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Éuge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>“Well done, good and faithful servant, * because thou hast been faithful over a few things, I will place thee over many things,” saith the Lord.</p>
      </td>
     </tr>
    </table>
-   <p:RubricHidden><text:tab/>Sap 10:10</p>
+   <p:RubricHidden><t>Sap 10:10</p>
    <table>
     <tr>
      <td:A1>
@@ -1405,7 +1405,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri præmia præstitísti: tríbue, quæsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</p>
+      <p:BodyLDrop>DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee, that we may continually feel the might of her intercession, through whom we have worthily received the Author of life, our Lord Jesus Christ, thy Son. Who liveth.</p>
@@ -1417,7 +1417,7 @@
    <p:Rubric>Antiphons as in Lauds.</p>
 <?php rubrics('ps/ComBVM.php'); ?>
    <p:Rubric>Little Chapter and Hymn as in Ordinary of Christmas, with the following response:</p>
-   <p:RubricHidden><text:tab/>Jn 1:14</p>
+   <p:RubricHidden><t>Jn 1:14</p>
    <table>
     <tr>
      <td:A1>
@@ -1445,7 +1445,7 @@
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
-<?php echo bookmark('pt0101L'); ?>
+<?php bookmark('pt0101L'); ?>
 	<p:Head3>Psalms with Antiphons</p>
 <?php ant('prTemp/0101.php','20000'); ?>
 
@@ -1500,7 +1500,7 @@
    <p:Body/>
    <p:Head2>ad I Vésperas</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Joel 2:32, Hab 3:18</p>
+   <p:RubricHidden><t>Joel 2:32, Hab 3:18</p>
    <table>
     <tr>
      <td:A1>
@@ -1547,7 +1547,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Phil 2:8-10</p>
+   <p:RubricHSm><t>Phil 2:8-10</p>
    <table>
     <tr>
      <td:A1>
@@ -1562,12 +1562,12 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('jesu_dulcis_memoria.php'); ?>
-	<p:RubricHidden><text:tab/>Ps. 112:2</p>
+	<p:RubricHidden><t>Ps. 112:2</p>
    <table>
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Sit nomen Dómini benedíctum, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Ex hoc nunc et usque in sæculum, allelúja.</p>
+      <p:BodyL><s:VR>R. </s>Ex hoc nunc et usque in sǽculum, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Blessed be the name of the Lord, alleluia.</p>
@@ -1591,11 +1591,11 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Ct 1:2, Dan 3:52</p>
+   <p:RubricHidden><t>Ct 1:2, Dan 3:52</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Oleum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te.</p>
+      <p:BodyL><sr>Ant 1. </s>Óleum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>Thy name * is as oil poured out: therefore young maidens have loved thee.</p>
@@ -1622,7 +1622,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Benedíctum * nomen glóriæ tuæ sanctum, et laudábile, et superexaltátum in sæcula.</p>
+      <p:BodyL><sr>Ant 4. </s>Benedíctum * nomen glóriæ tuæ sanctum, et laudábile, et superexaltátum in sǽcula.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 4. </s>Blessed * is the holy name of thy glory: and worthy to be praised, and exalted above all in all ages.</p>
@@ -1640,7 +1640,7 @@
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Head3>Hymn</p>
 <?php hymn('jesu_decus_angelicum.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 123:8</p>
+   <p:RubricHidden><t>Ps 123:8</p>
    <table>
     <tr>
      <td:A1>
@@ -1654,7 +1654,7 @@
     </tr>
    </table>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>1 Mcc 6:44</p>
+   <p:RubricHidden><t>1 Mcc 6:44</p>
    <table>
     <tr>
      <td:A1>
@@ -1671,7 +1671,7 @@
    <p:Head2>ad Tértiam</p>
    <p:Rubric>Little Chapter as in Lauds.</p>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 112:2, 28:2</p>
+   <p:RubricHidden><t>Ps 112:2, 28:2</p>
    <table>
     <tr>
      <td:A1>
@@ -1691,7 +1691,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Ex hoc nunc et usque in sæculum.</p>
+      <p:BodyL><s:VR>V. </s>Ex hoc nunc et usque in sǽculum.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>From henceforth now and for ever.</p>
@@ -1741,7 +1741,7 @@
    <p:Body/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Phil 2:10</p>
+   <p:RubricHSm><t>Phil 2:10</p>
    <table>
     <tr>
      <td:A1>
@@ -1755,7 +1755,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 28:2, 33:4</p>
+   <p:RubricHidden><t>Ps 28:2, 33:4</p>
    <table>
     <tr>
      <td:A1>
@@ -1825,7 +1825,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Col. 3:17</p>
+   <p:RubricHSm><t>Col. 3:17</p>
    <table>
     <tr>
      <td:A1>
@@ -1839,7 +1839,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 28:2, 123:8</p>
+   <p:RubricHidden><t>Ps 28:2, 123:8</p>
    <table>
     <tr>
      <td:A1>
@@ -1912,12 +1912,12 @@
    <p:Rubric>Otherwise, all is said as at I Vespers, except the following:</p>
    <p:Head3>Hymn</p>
    <p:RubricH>As in I Vespers, with the following response:</p>
-	<p:RubricHidden><text:tab/>Ps 112:2</p>
+	<p:RubricHidden><t>Ps 112:2</p>
    <table>
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Sit nomen Dómini benedíctum, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Ex hoc nunc et usque in sæculum, allelúja.</p>
+      <p:BodyL><s:VR>R. </s>Ex hoc nunc et usque in sǽculum, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Blessed be the name of the Lord, alleluia.</p>
@@ -1926,7 +1926,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt. 1:21</p>
+   <p:RubricHidden><t>Mt. 1:21</p>
    <table>
     <tr>
      <td:A1>
@@ -1948,7 +1948,7 @@
    <p:Head2>DIE 5 JANUARII</p>
    <p:Head3>IV classis</p>
    <p:Rubric>At Lauds a commemoration is made of St. Telesphorus, Pope and Martyr:</p>
-   <p:RubricHSm><text:tab/>Jn 12:25</p>
+   <p:RubricHSm><t>Jn 12:25</p>
    <table>
     <tr>
      <td:A1>
@@ -1959,7 +1959,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm><text:tab/>Ps 91:13</p>
+   <p:RubricHSm><t>Ps 91:13</p>
    <table>
     <tr>
      <td:A1>

@@ -1,2 +1,2 @@
 A porta ínferi.
-Erue, Dómine, ánimas eórum.
+Érue, Dómine, ánimas eórum.

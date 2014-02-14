@@ -5,7 +5,7 @@ Cæléstis urbs Jerúsalem,
 Beáta pacis vísio,
 Quæ celsa de vivéntibus
 Saxis ad astra tólleris,
-Sponsæque ritu cíngeris
+Sponsǽque ritu cíngeris
 Mille Angelórum míllibus.
 
 O sorte nupta próspera,
@@ -17,7 +17,7 @@ Cæli corúsca cívitas.
 
 Hic margarítis émicant,
 Paténtque cunctis óstia;
-Virtúte namque prævia
+Virtúte namque prǽvia
 Mortális illuc dúcitur,
 Amóre Christi pércitus
 Torménta quisquis sústinet.
@@ -34,4 +34,4 @@ Sit usquequáque Altíssimo,
 Natóque Patris único,
 Et ínclyto Paráclito,
 Cui laus, potéstas, glória
-Ætérna sit per sæcula. Amen.
+Ætérna sit per sǽcula. Amen.

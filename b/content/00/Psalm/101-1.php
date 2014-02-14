@@ -4,7 +4,7 @@ Non avértas fáciem tuam a me: * in quacúmque die tríbulor, inclína ad me au
 In quacúmque die invocávero te, * velóciter exáudi me.
 Quia defecérunt sicut fumus dies mei: * et ossa mea sicut crémium aruérunt.
 Percússus sum ut fœnum, et áruit cor meum: * quia oblítus sum comédere panem meum.
-A voce gémitus mei * adhæsit os meum carni meæ.
+A voce gémitus mei * adhǽsit os meum carni meæ.
 Símilis factus sum pellicáno solitúdinis: * factus sum sicut nyctícorax in domicílio.
 Vigilávi, * et factus sum sicut passer solitárius in tecto.
 Tota die exprobrábant mihi inimíci mei: * et qui laudábant me, advérsum me jurábant.

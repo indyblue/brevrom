@@ -8,7 +8,7 @@ Perdúcis ad cæléstia.
 
 Aurem benígnam prótinus
 Inténde nostris vócibus:
-Trophæa sacra pángimus:
+Trophǽa sacra pángimus:
 Ignósce quod delíquimus.
 
 Tu vincis inter Mártyres
@@ -19,4 +19,4 @@ Largítor indulgéntiæ.
 Deo Patri sit glória,
 Ejúsque soli Fílio,
 Cum Spíritu Paráclito,
-Nunc, et per omne sæculum. Amen.
+Nunc, et per omne sǽculum. Amen.

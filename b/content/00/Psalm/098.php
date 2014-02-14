@@ -4,7 +4,7 @@ Dóminus in Sion magnus: * et excélsus super omnes pópulos.
 Confiteántur nómini tuo magno: quóniam terríbile, et sanctum est: * et honor regis judícium díligit.
 Tu parásti directiónes: * judícium et justítiam in Jacob tu fecísti.
 Exaltáte Dóminum, Deum nostrum, et adoráte scabéllum pedum ejus: * quóniam sanctum est.
-Móyses et Aaron in sacerdótibus ejus: * et Sámuel inter eos, qui ínvocant nomen ejus:
+Móyses et Áaron in sacerdótibus ejus: * et Sámuel inter eos, qui ínvocant nomen ejus:
 Invocábant Dóminum, et ipse exaudiébat eos: * in colúmna nubis loquebátur ad eos.
 Custodiébant testimónia ejus, * et præcéptum quod dedit illis.
 Dómine, Deus noster, tu exaudiébas eos: * Deus, tu propítius fuísti eis, et ulcíscens in omnes adinventiónes eórum.

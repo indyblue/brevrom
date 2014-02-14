@@ -1,9 +1,9 @@
 Pope Urban VIII
 
 
-Opes decúsque regium relíqueras,
+Opes decúsque régium relíqueras,
 Elísabeth, Dei dicáta númini:
-Recépta nunc beáris inter Angelos;
+Recépta nunc beáris inter Ángelos;
 Libens ab hóstium tuére nos dolis.
 
 Præi, viámque, dux salútis, índica:
@@ -12,6 +12,6 @@ Odor bonus sit omnis áctio, tuis
 Id ínnuit rosis opérta cáritas.
 
 Beáta cáritas, in arce síderum
-Potens locáre nos per omne sæculum:
+Potens locáre nos per omne sǽculum:
 Patríque, Filióque summa glória,
 Tibíque laus perénnis, alme Spíritus. Amen.

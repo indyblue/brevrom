@@ -4,7 +4,7 @@ Rabanus Maurus
 Te, splendor et virtus Patris,
 Te vita, Jesu, córdium,
 Ab ore qui pendent tuo,
-Laudámus inter Angelos.
+Laudámus inter Ángelos.
 
 Tibi mille densa míllium
 Ducum coróna mílitat;
@@ -24,4 +24,4 @@ Nobis coróna glóriæ.
 Deo Patri sit glória,
 Qui, quos redémit Fílius,
 Et Sanctus unxit Spíritus,
-Per Angelos custódiat. Amen.
+Per Ángelos custódiat. Amen.

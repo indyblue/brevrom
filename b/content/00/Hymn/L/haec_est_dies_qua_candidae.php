@@ -2,7 +2,7 @@ Pope Urban VIII
 
 
 Hæc est dies, qua cándidæ
-Instar colúmbæ, Cælitum
+Instar colúmbæ, Cǽlitum
 Ad sacra templa spíritus
 Se tránstulit Terésiæ.
 
@@ -14,4 +14,4 @@ Veni ad corónam glóriæ.
 Te, sponse Jesu Vírginum,
 Beáti adórent órdines,
 Et nuptiáli cántico
-Laudent per omne sæculum. Amen.
+Laudent per omne sǽculum. Amen.

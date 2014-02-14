@@ -1,6 +1,6 @@
 Cant Trium Puerorum
 ~<t>Dan. 3:57-88 &amp; 56
-Benedícite, ómnia ópera Dómini, Dómino: * laudáte et superexaltáte eum in sæcula.
+Benedícite, ómnia ópera Dómini, Dómino: * laudáte et superexaltáte eum in sǽcula.
 Benedícite, Ángeli Dómini, Dómino: * benedícite, cæli, Dómino.
 Benedícite, aquæ omnes, quæ super cælos sunt, Dómino: * benedícite, omnes virtútes Dómini, Dómino.
 Benedícite, sol et luna, Dómino: * benedícite, stellæ cæli, Dómino.
@@ -9,17 +9,16 @@ Benedícite, ignis et æstus, Dómino: * benedícite, frigus et æstus, Dómino.
 Benedícite, rores et pruína, Dómino: * benedícite, gelu et frigus, Dómino.
 Benedícite, glácies et nives, Dómino: * benedícite, noctes et dies, Dómino.
 Benedícite, lux et ténebræ, Dómino: * benedícite, fúlgura et nubes, Dómino.
-Benedícat terra Dóminum: * laudet et superexáltet eum in sæcula.
+Benedícat terra Dóminum: * laudet et superexáltet eum in sǽcula.
 Benedícite, montes et colles, Dómino: * benedícite, univérsa germinántia in terra, Dómino.
 Benedícite, fontes, Dómino: * benedícite, mária et flúmina, Dómino.
 Benedícite, cete, et ómnia, quæ movéntur in aquis, Dómino: * benedícite, omnes vólucres cæli, Dómino.
 Benedícite, omnes béstiæ et pécora, Dómino: * benedícite, fílii hóminum, Dómino.
-Benedícat Israël Dóminum: * laudet et superexáltet eum in sæcula.
+Benedícat Israël Dóminum: * laudet et superexáltet eum in sǽcula.
 Benedícite, sacerdótes Dómini, Dómino: * benedícite, servi Dómini, Dómino.
 Benedícite, spíritus, et ánimæ justórum, Dómino: * benedícite, sancti, et húmiles corde, Dómino.
-Benedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte eum in sæcula.
+Benedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte eum in sǽcula.
 <sr>(Fit reveréntia:)</s>
-Benedicámus Patrem et Fílium cum Sancto Spíritu: * laudémus et superexaltémus eum in sæcula.
-Benedíctus es, Dómine, in firmaménto cæli: * et laudábilis, et gloriósus, et superexaltátus in sæcula.
-Hic non dicitur Glória Patri, neque Amen.
-Here is not said Amen or Glory be.
+Benedicámus Patrem et Fílium cum Sancto Spíritu: * laudémus et superexaltémus eum in sǽcula.
+Benedíctus es, Dómine, in firmaménto cæli: * et laudábilis, et gloriósus, et superexaltátus in sǽcula.
+<sr>Hic non dicitur Glória Patri, neque Amen.</s>

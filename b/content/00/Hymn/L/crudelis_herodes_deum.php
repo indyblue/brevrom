@@ -7,7 +7,7 @@ Non éripit mortália,
 Qui regna dat cæléstia.
 
 Ibant Magi, quam víderant,
-Stellam sequéntes præviam:
+Stellam sequéntes prǽviam:
 Lumen requírunt lúmine:
 Deum faténtur múnere.
 
@@ -24,4 +24,4 @@ Mutávit unda oríginem.
 Jesu tibi sit glória,
 Qui apparuísti Géntibus,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

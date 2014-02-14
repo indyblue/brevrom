@@ -20,7 +20,7 @@
    </table>
    <p:Body/>
    <p:Head2>ad I Vésperas</p>
-   <p:Rubric>Antiphons as in Lauds.<text:tab/></p>
+   <p:Rubric>Antiphons as in Lauds.<t></p>
 <?php rubrics('ps/SuV116.php'); ?>
    <p:Rubric>Little Chapter &amp; Hymn as in Ordinary of Epiphany.</p>
    <p:Head3>Magnificat</p>
@@ -39,11 +39,11 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Ct 1:2, Dan 3:52</p>
+   <p:RubricHidden><t>Ct 1:2, Dan 3:52</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Ante lucíferum génitus, * et ante sæcula, Dóminus Salvátor noster hódie mundo appáruit.</p>
+      <p:BodyL><sr>Ant 1. </s>Ante lucíferum génitus, * et ante sǽcula, Dóminus Salvátor noster hódie mundo appáruit.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>Begotten before the day-star * and the ages, the Lord our Saviour on this day appeared to the world.</p>
@@ -162,7 +162,7 @@
    <p:Body/>
    <p:Head2>ad I Vésperas</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Mt 1:16, 1:20, Lk 2:15, Mt 2:9, Lk 2:33</p>
+   <p:RubricHidden><t>Mt 1:16, 1:20, Lk 2:15, Mt 2:9, Lk 2:33</p>
    <table>
     <tr>
      <td:A1>
@@ -209,7 +209,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Lk 2:51</p>
+   <p:RubricHSm><t>Lk 2:51</p>
    <table>
     <tr>
      <td:A1>
@@ -224,12 +224,12 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_lux_beata_caelitum.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 83:5</p>
+   <p:RubricHidden><t>Ps 83:5</p>
    <table>
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Beáti qui hábitant in domo tua, Dómine.</p>
-      <p:BodyL><s:VR>R. </s>In sæcula sæculórum laudábunt te.</p>
+      <p:BodyL><s:VR>R. </s>In sǽcula sæculórum laudábunt te.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Blessed are they that dwell in thy house, O Lord. </p>
@@ -238,7 +238,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 1:14,16</p>
+   <p:RubricHidden><t>Jn 1:14,16</p>
    <table>
     <tr>
      <td:A1>
@@ -255,7 +255,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Lk 2:46-52, Mt 13:54-55</p>
+   <p:RubricHidden><t>Lk 2:46-52, Mt 13:54-55</p>
    <table>
     <tr>
      <td:A1>
@@ -304,7 +304,7 @@
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Head3>Hymn</p>
 <?php hymn('o_gente_felix_hospita.php'); ?>
-   <p:RubricHidden><text:tab/>Is 54:13</p>
+   <p:RubricHidden><t>Is 54:13</p>
    <table>
     <tr>
      <td:A1>
@@ -330,8 +330,7 @@
    </table>
    <p:BodySm/>
    <p:Rubric>At the Little Hours, psalms of Sunday.</p>
-   <p:Rubric><s:NonRubric/></p>
-   <p:BodySm><s:NonRubric/></p>
+   <p:BodySm/>
    <p:Head2>ad Primam</p>
    <p:Rubric>Ant 1 from Lauds is used.</p>
    <p:RubricH>In the short response, [<s:VR>V</s>.] is replaced with:</p>
@@ -350,7 +349,7 @@
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>II Cor. 8:9, Is. 2:3</p>
+   <p:RubricHidden><t>II Cor. 8:9, Is. 2:3</p>
    <table>
     <tr>
      <td:A1>
@@ -422,7 +421,7 @@
    <p:Head2>ad Sextam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom 5:19</p>
+   <p:RubricHSm><t>Rom 5:19</p>
    <table>
     <tr>
      <td:A1>
@@ -436,7 +435,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Is. 2:3, Ps. 87:16</p>
+   <p:RubricHidden><t>Is. 2:3, Ps. 87:16</p>
    <table>
     <tr>
      <td:A1>
@@ -507,7 +506,7 @@
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Phil. 2:7</p>
+   <p:RubricHSm><t>Phil. 2:7</p>
    <table>
     <tr>
      <td:A1>
@@ -521,7 +520,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps. 87:16, Is 54:13</p>
+   <p:RubricHidden><t>Ps. 87:16, Is 54:13</p>
    <table>
     <tr>
      <td:A1>
@@ -593,7 +592,7 @@
    <p:Rubric>Antiphons as in Lauds.</p>
 <?php rubrics('ps/ComBVM.php'); ?>
    <p:RubricH>Little Chapter &amp; Hymn as in I Vespers, with the following response:</p>
-   <p:RubricHSm><text:tab/>Is 54:13</p>
+   <p:RubricHSm><t>Is 54:13</p>
    <table>
     <tr>
      <td:A1>
@@ -607,7 +606,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 2:19</p>
+   <p:RubricHidden><t>Lk 2:19</p>
    <table>
     <tr>
      <td:A1>
@@ -631,7 +630,7 @@
    <p:Head2>IV classis</p>
    <p:BodySm/>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 2:1,2,11</p>
+   <p:RubricHidden><t>Mt 2:1,2,11</p>
    <table>
     <tr>
      <td:A1>
@@ -656,7 +655,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 2:10,11</p>
+   <p:RubricHidden><t>Mt 2:10,11</p>
    <table>
     <tr>
      <td:A1>
@@ -669,7 +668,7 @@
    </table>
    <p:BodySm/>
 <?php img(); ?>
-   <p:Body><s:VR/></p>
+   <p:Body/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
    <p:Head1NI>Die 8 Januarii</p>
@@ -703,7 +702,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>VOTA, quæsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant. Per Dóminum.</p>
+      <p:BodyLDrop>VOTA, quǽsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>ATTEND, O Lord, we beseech thee, of thy heavenly mercy, to the desires of thy suppliant people; and grant that they may both perceive what they ought to do, and may have strength to fulfill the same. Through our Lord.</p>
@@ -724,14 +723,14 @@
    </table>
    <p:BodySm/>
 <?php img(); ?>
-   <p:Body><s:VR/></p>
+   <p:Body/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
    <p:Head1NI>Die 9 Januarii</p>
    <p:Head2>IV classis</p>
    <p:BodySm/>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 2:2</p>
+   <p:RubricHidden><t>Mt 2:2</p>
    <table>
     <tr>
      <td:A1>
@@ -744,7 +743,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quǽsumus</s>, as above.</p>
    <p:BodySm/>
    <p:Head2>Magnificat</p>
    <table>
@@ -778,10 +777,10 @@
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quǽsumus</s>, as above.</p>
    <p:BodySm/>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Is. 60:6</p>
+   <p:RubricHidden><t>Is. 60:6</p>
    <table>
     <tr>
      <td:A1>
@@ -801,7 +800,7 @@
    <p:Head2>IV classis</p>
    <p:BodySm/>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Is 60:14</p>
+   <p:RubricHidden><t>Is 60:14</p>
    <table>
     <tr>
      <td:A1>
@@ -814,10 +813,10 @@
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quǽsumus</s>, as above.</p>
    <p:BodySm/>
    <p:RubricH>Commemoration is made ad Lauds of St. Hyginus, Pope and Martyr:</p>
-   <p:RubricHSm><text:tab/>Jn 12:25</p>
+   <p:RubricHSm><t>Jn 12:25</p>
    <table>
     <tr>
      <td:A1>
@@ -828,7 +827,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm><text:tab/>Ps 91:13</p>
+   <p:RubricHSm><t>Ps 91:13</p>
    <table>
     <tr>
      <td:A1>
@@ -854,7 +853,7 @@
    </table>
    <p:RubricH/>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 2:12</p>
+   <p:RubricHidden><t>Mt 2:12</p>
    <table>
     <tr>
      <td:A1>
@@ -874,7 +873,7 @@
    <p:Head2>IV classis</p>
    <p:BodySm/>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>1 Tim 3:16</p>
+   <p:RubricHidden><t>1 Tim 3:16</p>
    <table>
     <tr>
      <td:A1>
@@ -887,7 +886,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quǽsumus</s>, as above.</p>
    <p:BodySm/>
    <p:Head2>Magnificat</p>
    <table>
@@ -915,7 +914,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, cujus Unigénitus in substántia nostræ carnis appáruit: præsta, quæsumus; ut per eum, quem símilem nobis foris agnóvimus, intus reformári mereámur: Qui tecum vivit.</p>
+      <p:BodyLDrop>DEUS, cujus Unigénitus in substántia nostræ carnis appáruit: præsta, quǽsumus; ut per eum, quem símilem nobis foris agnóvimus, intus reformári mereámur: Qui tecum vivit.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, whose Only-begotten Son appeared in the substance of our flesh, grant, we beseech thee, that by him, in whom outwardly we recognize our likeness, we may deserve to be inwardly created anew. Who liveth.</p>
@@ -948,7 +947,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>VOTA, quæsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant. Per Dóminum.</p>
+      <p:BodyLDrop>VOTA, quǽsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>ATTEND, O Lord, we beseech thee, of thy heavenly mercy, to the desires of thy suppliant people; and grant that they may both perceive what they ought to do, and may have strength to fulfill the same. Through our Lord.</p>

@@ -1,1 +1,1 @@
-Da nobis, quæsumus, Dómine Deus noster, sanctárum Vírginum et Mártyrum tuárum <sr>P.</s> palmas incessábili devotióne venerári: ut quas digna mente non póssumus celebráre; humílibus saltem frequentémus obséquiis. Per Dóminum.
+Da nobis, quǽsumus, Dómine Deus noster, sanctárum Vírginum et Mártyrum tuárum <sr>P.</s> palmas incessábili devotióne venerári: ut quas digna mente non póssumus celebráre; humílibus saltem frequentémus obséquiis. Per Dóminum.

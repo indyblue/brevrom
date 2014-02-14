@@ -1,1 +1,1 @@
-Cum pervenísset * beátus Andreas ad locum, ubi crux paráta erat, exclamávit et dixit: O bona crux, diu desideráta, et jam concupiscénti ánimo præparáta: secúrus et gaudens vénio ad te, ita et tu exsúltans suscípias me discípulum ejus, qui pepéndit in te.
+Cum pervenísset * beátus Andréas ad locum, ubi crux paráta erat, exclamávit et dixit: O bona crux, diu desideráta, et jam concupiscénti ánimo præparáta: secúrus et gaudens vénio ad te, ita et tu exsúltans suscípias me discípulum ejus, qui pepéndit in te.

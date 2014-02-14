@@ -26,11 +26,11 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn. 2:1</p>
+   <p:RubricHidden><t>Jn. 2:1</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Núptiæ factæ sunt * in Cana Galilææ, et erat ibi Jesus cum María matre sua.</p>
+      <p:BodyL><sr>Ant. </s>Núptiæ factæ sunt * in Cana Galilǽæ, et erat ibi Jesus cum María matre sua.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>There was a marriage * in Cana of Galilee: and Jesus was there, with Mary, his mother.</p>
@@ -75,7 +75,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt. 8:1-3</p>
+   <p:RubricHidden><t>Mt. 8:1-3</p>
    <table>
     <tr>
      <td:A1>
@@ -89,7 +89,7 @@
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt. 8:2-3</p>
+   <p:RubricHidden><t>Mt. 8:2-3</p>
    <table>
     <tr>
      <td:A1>
@@ -124,7 +124,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Matt 8:23-25</p>
+   <p:RubricHidden><t>Matt 8:23-25</p>
    <table>
     <tr>
      <td:A1>
@@ -138,7 +138,7 @@
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Matt 8:25-26</p>
+   <p:RubricHidden><t>Matt 8:25-26</p>
    <table>
     <tr>
      <td:A1>
@@ -160,7 +160,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>FAMÍLIAM tuam, quæsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe gratiæ cæléstis innítitur, tua semper protectióne muniátur. Per Dóminum.</p>
+      <p:BodyLDrop>FAMÍLIAM tuam, quǽsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe grátiæ cæléstis innítitur, tua semper protectióne muniátur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>WE BESEECH thee, O Lord, in thy unceasing goodness, guard thy family; that we who lean only upon the hope of thy heavenly grace, may always be defended by thy protection. Through our Lord.</p>
@@ -173,7 +173,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Matt 13:27-28</p>
+   <p:RubricHidden><t>Matt 13:27-28</p>
    <table>
     <tr>
      <td:A1>
@@ -187,7 +187,7 @@
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Matt 13:30</p>
+   <p:RubricHidden><t>Matt 13:30</p>
    <table>
     <tr>
      <td:A1>
@@ -209,7 +209,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut semper rationabília meditántes; quæ tibi sunt plácita, et dictis exsequámur, et factis. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut semper rationabília meditántes; quæ tibi sunt plácita, et dictis exsequámur, et factis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that ever fixing our thoughts on such things that are reasonable, we may, both in word and in work, do that which is pleasing to thee. Through our Lord.</p>
@@ -222,7 +222,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Matt 13:31-32</p>
+   <p:RubricHidden><t>Matt 13:31-32</p>
    <table>
     <tr>
      <td:A1>
@@ -236,7 +236,7 @@
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Matt 13:33</p>
+   <p:RubricHidden><t>Matt 13:33</p>
    <table>
     <tr>
      <td:A1>

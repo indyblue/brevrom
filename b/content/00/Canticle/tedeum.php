@@ -18,12 +18,12 @@ Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.
 Tu, devícto mortis acúleo, * aperuísti credéntibus regna cælórum.
 Tu ad déxteram Dei sedes, * in glória Patris.
 Judex créderis * esse ventúrus.
-Te ergo quæsumus, tuis fámulis súbveni, * quos pretióso sánguine redemísti.
+Te ergo quǽsumus, tuis fámulis súbveni, * quos pretióso sánguine redemísti.
 Ætérna fac cum Sanctis tuis * in glória numerári.
 Salvum fac pópulum tuum, Dómine, * et bénedic hereditáti tuæ.
 Et rege eos, * et extólle illos usque in ætérnum.
 Per síngulos dies * benedícimus te.
-Et laudámus nomen tuum in sæculum, * et in sæculum sæculi.
+Et laudámus nomen tuum in sǽculum, * et in sǽculum sǽculi.
 Dignáre, Dómine, die isto * sine peccáto nos custodíre.
 Miserére nostri, Dómine, * miserére nostri.
 Fiat misericórdia tua, Dómine, super nos, * quemádmodum sperávimus in te.

@@ -9,5 +9,5 @@ Fiat via illórum ténebræ et lúbricum: * et Ángelus Dómini pérsequens eos.
 Quóniam gratis abscondérunt mihi intéritum láquei sui: * supervácue exprobravérunt ánimam meam.
 Véniat illi láqueus, quem ignórat: et cáptio, quam abscóndit, apprehéndat eum: * et in láqueum cadat in ipsum.
 Ánima autem mea exsultábit in Dómino: * et delectábitur super salutári suo.
-Omnia ossa mea dicent: * Dómine, quis símilis tibi?
+Ómnia ossa mea dicent: * Dómine, quis símilis tibi?
 Erípiens ínopem de manu fortiórum ejus: * egénum et páuperem a diripiéntibus eum.

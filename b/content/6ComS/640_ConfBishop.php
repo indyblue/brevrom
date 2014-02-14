@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Confessor Bishop</p>
-<?php echo bookmark('csCB'); ?>
+<?php bookmark('csCB'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor') 
 ?></p>
@@ -35,7 +35,7 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php ant('csCBL.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('csCBL.php','02222'); ?>
-<?php echo bookmark('csCBLlc'); ?>
+<?php bookmark('csCBLlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus44_16.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
@@ -44,7 +44,7 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('euge_serve_bone_et_fidelis.php','B'); ?>
    <p:BodySm/>
-<?php echo bookmark('csCBLH'); ?>
+<?php bookmark('csCBLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -72,7 +72,7 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV131.php'); ?>
-<?php echo bookmark('csCBVlc'); ?>
+<?php bookmark('csCBVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus44_16.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

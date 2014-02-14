@@ -19,4 +19,4 @@ Gentes redémptæ, pláudite.
 Jesu tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

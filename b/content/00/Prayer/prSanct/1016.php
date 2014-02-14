@@ -1,1 +1,1 @@
-Deus, qui beátam Hedwígem a sæculi pompa ad húmilem tuæ crucis sequélam toto corde transíre docuísti: concéde; ut ejus méritis et exémplo discámus peritúras mundi calcáre delícias, et in ampléxu tuæ crucis ómnia nobis adversántia superáre. Qui vivis.
+Deus, qui beátam Hedwígem a sǽculi pompa ad húmilem tuæ crucis sequélam toto corde transíre docuísti: concéde; ut ejus méritis et exémplo discámus peritúras mundi calcáre delícias, et in ampléxu tuæ crucis ómnia nobis adversántia superáre. Qui vivis.

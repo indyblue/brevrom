@@ -1,1 +1,1 @@
-Dómine Jesu Christe, veræ humilitátis et exémplar et præmium: quæsumus; ut, sicut beátum Francíscum in terréni honóris contémptu imitatórem tui gloriósum effecísti, ita nos ejúsdem imitatiónis et glóriæ tríbuas esse consórtes: Qui vivis.
+Dómine Jesu Christe, veræ humilitátis et exémplar et prǽmium: quǽsumus; ut, sicut beátum Francíscum in terréni honóris contémptu imitatórem tui gloriósum effecísti, ita nos ejúsdem imitatiónis et glóriæ tríbuas esse consórtes: Qui vivis.

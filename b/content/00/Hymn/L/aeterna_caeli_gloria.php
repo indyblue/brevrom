@@ -3,8 +3,8 @@ St. Ambrose(?)
 
 Ætérna cæli glória,
 Beáta spes mortálium,
-Summi Tonántis Unice,
-Castæque proles Vírginis:
+Summi Tonántis Únice,
+Castǽque proles Vírginis:
 
 Da déxteram surgéntibus,
 Exsúrgat et mens sóbria,
@@ -17,7 +17,7 @@ Cadunt ténebræ nóctium:
 Lux sancta nos illúminet.
 
 Manénsque nostris sénsibus,
-Noctem repéllat sæculi,
+Noctem repéllat sǽculi,
 Omníque fine témporis
 Purgáta servet péctora.
 
@@ -29,4 +29,4 @@ Qua major exstat cáritas.
 Deo Patri sit glória,
 Ejúsque soli Fílio,
 Cum Spíritu Paráclito,
-Nunc et per omne sæculum. Amen.
+Nunc et per omne sǽculum. Amen.

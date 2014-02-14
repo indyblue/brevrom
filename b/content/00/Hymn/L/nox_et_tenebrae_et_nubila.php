@@ -13,7 +13,7 @@ Vultu niténtis síderis.
 
 Te, Christe, solum nóvimus:
 Te mente pura et símplici,
-Flendo et canéndo quæsumus,
+Flendo et canéndo quǽsumus,
 Inténde nostris sénsibus.
 
 Sunt multa fucis illíta,
@@ -24,4 +24,4 @@ Vultu seréno illúmina.
 Deo Patri sit glória,
 Ejúsque soli Fílio,
 Cum Spíritu Paráclito,
-Nunc et per omne sæculum. Amen.
+Nunc et per omne sǽculum. Amen.

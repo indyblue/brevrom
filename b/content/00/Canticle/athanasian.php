@@ -3,7 +3,7 @@ Quicúmque vult salvus esse, * ante ómnia opus est, ut téneat cathólicam fide
 Quam nisi quisque íntegram inviolatámque serváverit, * absque dúbio in ætérnum períbit.
 Fides autem cathólica hæc est: * ut unum Deum in Trinitáte, et Trinitátem in unitáte venerémur.
 Neque confundéntes persónas, * neque substántiam separántes.
-Alia est enim persóna Patris, ália Fílii, * ália Spíritus Sancti:
+Ália est enim persóna Patris, ália Fílii, * ália Spíritus Sancti:
 Sed Patris, et Fílii, et Spíritus Sancti una est divínitas, * æquális glória, coætérna majéstas.
 Qualis Pater, talis Fílius, * talis Spíritus Sanctus.
 Increátus Pater, increátus Fílius, * increátus Spíritus Sanctus.
@@ -27,7 +27,7 @@ Ita ut per ómnia, sicut jam supra dictum est, * et únitas in Trinitáte, et Tr
 Qui vult ergo salvus esse, * ita de Trinitáte séntiat.
 Sed necessárium est ad ætérnam salútem, * ut Incarnatiónem quoque Dómini nostri Jesu Christi fidéliter credat.
 Est ergo fides recta ut credámus et confiteámur, * quia Dóminus noster Jesus Christus, Dei Fílius, Deus et homo est.
-Deus est ex substántia Patris ante sæcula génitus: * et homo est ex substántia matris in sæculo natus.
+Deus est ex substántia Patris ante sǽcula génitus: * et homo est ex substántia matris in sǽculo natus.
 Perféctus Deus, perféctus homo: * ex ánima rationáli et humána carne subsístens.
 Æquális Patri secúndum divinitátem: * minor Patre secúndum humanitátem.
 Qui licet Deus sit et homo, * non duo tamen, sed unus est Christus.

@@ -16,7 +16,7 @@ Extendísti manum tuam, et devorávit eos terra. * Dux fuísti in misericórdia 
 Et portásti eum in fortitúdine tua, * ad habitáculum sanctum tuum.
 Ascendérunt pópuli, et iráti sunt: * dolóres obtinuérunt habitatóres Philísthiim.
 Tunc conturbáti sunt príncipes Edom, robústos Moab obtínuit tremor: * obriguérunt omnes habitatóres Chánaan.
-Irruat super eos formído et pavor, * in magnitúdine bráchii tui:
+Írruat super eos formído et pavor, * in magnitúdine bráchii tui:
 Fiant immóbiles quasi lapis, donec pertránseat pópulus tuus, Dómine, * donec pertránseat pópulus tuus iste, quem possedísti.
 Introdúces eos, et plantábis in monte hereditátis tuæ, * firmíssimo habitáculo tuo quod operátus es, Dómine:
 Sanctuárium tuum, Dómine, quod firmavérunt manus tuæ. * Dóminus regnábit in ætérnum et ultra.

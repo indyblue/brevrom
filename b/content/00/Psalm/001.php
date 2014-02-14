@@ -4,5 +4,5 @@ Sed in lege Dómini volúntas ejus, * et in lege ejus meditábitur die ac nocte.
 Et erit tamquam lignum, quod plantátum est secus decúrsus aquárum, * quod fructum suum dabit in témpore suo:
 Et fólium ejus non défluet: * et ómnia quæcúmque fáciet, prosperabúntur.
 Non sic ímpii, non sic: * sed tamquam pulvis, quem prójicit ventus a fácie terræ.
-Ideo non resúrgent ímpii in judício: * neque peccatóres in concílio justórum.
+Ídeo non resúrgent ímpii in judício: * neque peccatóres in concílio justórum.
 Quóniam novit Dóminus viam justórum: * et iter impiórum períbit.

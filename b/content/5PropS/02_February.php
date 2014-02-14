@@ -28,7 +28,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, majestátem tuam súpplices exorámus: ut, sicut unigénitus Fílius tuus hodiérna die cum nostræ carnis substántia in templo est præsentátus; ita nos fácias purificátis tibi méntibus præsentari. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, majestátem tuam súpplices exorámus: ut, sicut unigénitus Fílius tuus hodiérna die cum nostræ carnis substántia in templo est præsentátus; ita nos fácias purificátis tibi méntibus præsentári. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O ALMIGHTY and eternal God, we suppliants beseech thy Majesty that, as thine only-begotten Son was this day presented in the temple in the substance of our flesh, so thou wouldst grant us to be presented, purified in mind and heart, to thee. Through the same.</p>
@@ -42,7 +42,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>O admirábile commércium: * Creator géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est: et procédens homo sine sémine, largítus est nobis suam Deitátem.</p>
+      <p:BodyL><sr>Ant 1. </s>O admirábile commércium: * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est: et procédens homo sine sémine, largítus est nobis suam Deitátem.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>O admirable interchange! * The Creator of man, assuming a living body, deigned to be born of a Virgin, and becoming man, without man’s aid, bestowed on us his divinity.</p>
@@ -53,7 +53,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Quando natus es * ineffabíliter ex Vírgine, tunc impletæ sunt Scripturæ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.</p>
+      <p:BodyL><sr>Ant 2. </s>Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 2. </s>When thou was born * ineffably of the Virgin, the Scriptures were fulfilled. As dew upon Gedeon’s fleece, thou camest down to save mankind. O Lord our God, we praise thee.</p>
@@ -86,11 +86,11 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    </table>
    <p:Rubric/>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Malach. 3:1</p>
+   <p:RubricHSm><t>Malach. 3:1</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ECCE ego mitto Ángelum meum, et præparábit viam ante fáciem meam. Et statim véniet ad templum sanctum suum Dominátor, quem vos quæritis, et Ángelus Testaménti, quem vos vultis.</p>
+      <p:BodyLDrop>ECCE ego mitto Ángelum meum, et præparábit viam ante fáciem meam. Et statim véniet ad templum sanctum suum Dominátor, quem vos quǽritis, et Ángelus Testaménti, quem vos vultis.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -103,7 +103,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Respónsum accépit Simeon a Spíritu Sancto.</p>
+      <p:BodyL><s:VR>V. </s>Respónsum accépit Símeon a Spíritu Sancto.</p>
       <p:BodyL><s:VR>R. </s>Non visúrum se mortem, nisi vidéret Christum, Dómini.</p>
      </td>
      <td:B1>
@@ -116,7 +116,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Senex * Puerum portábat, Puer autem senem regébat: quem virgo péperit, et post partum virgo permánsit: ipsum quem génuit, adorávit.</p>
+      <p:BodyL><sr>Ant. </s>Senex * Púerum portábat, Puer autem senem regébat: quem virgo péperit, et post partum virgo permánsit: ipsum quem génuit, adorávit.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>The old man * held the child in his arms, but the child was the old man’s Lord. Him whom a virgin brought forth, remaining a virgin still, that same did she adore.</p>
@@ -125,12 +125,12 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    </table>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <p:Head2><text:soft-page-break/>ad Laudes</p>
+   <p:Head2>ad Laudes</p>
            <p:Head3>Psalms with Antiphons</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Simeon justus * et timorátus exspectábat redemptiónem Israël, et Spíritus Sanctus erat in eo.</p>
+      <p:BodyL><sr>Ant 1. </s>Símeon justus * et timorátus exspectábat redemptiónem Israël, et Spíritus Sanctus erat in eo.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>Simeon, a just man, * and devout, waited for the redemption of Israel, and the Holy Ghost was in him.</p>
@@ -141,7 +141,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Respónsum accépit Simeon * a Spíritu Sancto, non visúrum se mortem, nisi vidéret Dóminum.</p>
+      <p:BodyL><sr>Ant 2. </s>Respónsum accépit Símeon * a Spíritu Sancto, non visúrum se mortem, nisi vidéret Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 2. </s>Simeon received an answer * from the Holy Ghost, that he should not see death until he had seen the Lord.</p>
@@ -149,7 +149,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Accípiens Simeon * Puerum in mánibus, grátias agens benedíxit Dóminum.</p>
+      <p:BodyL><sr>Ant 3. </s>Accípiens Símeon * Púerum in mánibus, grátias agens benedíxit Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 3. </s>Simeon taking * the child into his arms, gave thanks and blessed the Lord.</p>
@@ -178,7 +178,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Cum indúcerent * púerum Jesum paréntes ejus, accépit eum Simeon in ulnas suas, et benedíxit Deum, dicens: Nunc dimíttis servum tuum in pace.</p>
+      <p:BodyL><sr>Ant. </s>Cum indúcerent * púerum Jesum paréntes ejus, accépit eum Símeon in ulnas suas, et benedíxit Deum, dicens: Nunc dimíttis servum tuum in pace.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>And when his parents brought in * the child Jesus, Simeon took him into his arms, and blessed God, and said: Now thou dost dismiss thy servant in peace.</p>
@@ -209,13 +209,13 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Malach. 3:1-2</p>
+   <p:RubricHSm><t>Malach. 3:1-2</p>
            <p:Head3>Brief Respond</p>
 
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Malach. 3:4</p>
+   <p:RubricHSm><t>Malach. 3:4</p>
 
            <p:Head3>Brief Respond</p>
 
@@ -271,7 +271,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui nos beáti Blásii Mártyris tui atque Pontíficis annua solemnitáte lætificas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui nos beáti Blásii Mártyris tui atque Pontíficis ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who dost gladden us by the yearly solemnity of blessed Blaise, thy Martyr and Bishop; mercifully grant that, as we celebrate his festival, we may also rejoice in his protection. Through our Lord.</p>
@@ -289,7 +289,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui in Ecclésia tua, nova semper instáuras exémpla virtútum : da pópulo tuo beáti Andréæ Confessóris tui atque Pontíficis ita sequi vestígia ; ut assequátur et præmia. <text:s/>Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui in Ecclésia tua, nova semper instáuras exémpla virtútum : da pópulo tuo beáti Andréæ Confessóris tui atque Pontíficis ita sequi vestígia ; ut assequátur et prǽmia. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who dost continually raise up in thy Church new examples of virtue, grant unto thy people so to follow in the footsteps of thy blessed Bishop and Confessor Andrew that they may also attain unto a like reward. Through our Lord.</p>
@@ -305,10 +305,10 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti : concéde propítius ; ut, qui beátæ Agathæ Vírginis et Mártyris tuæ natalítia cólimus, per ejus ad te exem<text:soft-page-break/>pla gradiámur. <text:s/>Per Dóminum.</p>
+      <p:BodyLDrop>DEUS qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Ágathæ Vírginis et Mártyris tuæ natalítia cólimus, per ejus ad te exémpla gradiámur. Per Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>O GOD, who among other wondrous works of thy power hast bestowed the victory of martyrdom even on the weaker sex; mercifully grant that we who celebrate the heavenly birthday of blessed <text:soft-page-break/>Agatha thy Virgin and Martyr, may, by following her example, advance in the way that leadeth unto thee. Through our Lord.</p>
+      <p:BodyEDrop>O GOD, who among other wondrous works of thy power hast bestowed the victory of martyrdom even on the weaker sex; mercifully grant that we who celebrate the heavenly birthday of blessed Agatha thy Virgin and Martyr, may, by following her example, advance in the way that leadeth unto thee. Through our Lord.</p>
      </td>
     </tr>
    </table>
@@ -318,7 +318,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Quis es tu, * qui venísti ad me curáre vúlnera mea? <text:s/>Ego sum Apóstolus Christi : nihil in me dúbites, filia.</p>
+      <p:BodyL><sr>Ant 1. </s>Quis es tu, * qui venísti ad me curáre vúlnera mea? Ego sum Apóstolus Christi : nihil in me dúbites, fília.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>Who art thou * that comest unto me to heal my wounds? I am the Apostle of Christ, have no suspicion of me, my daughter.</p>
@@ -329,7 +329,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Medicínam carnálem * córpori meo numquam exhíbui, sed habeo Dóminum Jesum Christum, qui solo sermóne restáurat univérsa.</p>
+      <p:BodyL><sr>Ant 2. </s>Medicínam carnálem * córpori meo numquam exhíbui, sed hábeo Dóminum Jesum Christum, qui solo sermóne restáurat univérsa.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 2. </s>I have never applied * a medicine of this earth to my body, but I have my Lord Jesus Christ, who by his word alone restoreth all things.</p>
@@ -337,7 +337,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Gratias tibi ago, * Dómine Jesu Christe, quia memor es mei, et misísti ad me Apóstolum tuum curáre vúlnera mea.</p>
+      <p:BodyL><sr>Ant 3. </s>Grátias tibi ago, * Dómine Jesu Christe, quia memor es mei, et misísti ad me Apóstolum tuum curáre vúlnera mea.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 3. </s>I give thee thanks, * O Lord Jesus Christ, because thou art mindful of me, and hast sent thine Apostle unto me to heal my wounds.</p>
@@ -361,11 +361,11 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
     </tr>
    </table>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus. 51:1</p>
+   <p:RubricHSm><t>Ecclus. 51:1</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONFITÉBOR tibi, Dómine, Rex, et collaudábo te Deum Salvatórem meum. <text:s/>Confitébor nómini tuo : quóniam adjútor et protéctor factus es mihi, et liberásti corpus meum a perditióne.</p>
+      <p:BodyLDrop>CONFITÉBOR tibi, Dómine, Rex, et collaudábo te Deum Salvatórem meum. Confitébor nómini tuo : quóniam adjútor et protéctor factus es mihi, et liberásti corpus meum a perditióne.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -379,7 +379,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Paganórum * multitúdo fúgiens ad sepúlcrum Vírginis, tulérunt velum ejus contra ignem : ut comprobáret Dóminus, quod a perículis incéndii méritis beátæ Agathæ Mártyris suæ eos liberáret.</p>
+      <p:BodyL><sr>Ant. </s>Paganórum * multitúdo fúgiens ad sepúlcrum Vírginis, tulérunt velum ejus contra ignem : ut comprobáret Dóminus, quod a perículis incéndii méritis beátæ Ágathæ Mártyris suæ eos liberáret.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>The heathen * multitude fleeing to the tomb of the virgin, took thence her veil as a defence against the rolling flames: for the Lord would show that by the merits of his blessed Martyr Agatha he would deliver them from the perils of fire.</p>
@@ -395,7 +395,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus. 51:4-5</p>
+   <p:RubricHSm><t>Ecclus. 51:4-5</p>
    <table>
     <tr>
      <td:A1>
@@ -412,11 +412,11 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus. 51:8,12</p>
+   <p:RubricHSm><t>Ecclus. 51:8,12</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>LAUDÁBIT usque ad mortem ánima mea Dóminum, quóniam eruis sustinéntes te, et líberas eos de manu angústiæ, Dómine, Deus noster.</p>
+      <p:BodyLDrop>LAUDÁBIT usque ad mortem ánima mea Dóminum, quóniam éruis sustinéntes te, et líberas eos de manu angústiæ, Dómine, Deus noster.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -439,7 +439,7 @@ feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
       <p:BodyL><sr>Ant. </s>Stans beáta Ágatha * in médio cárceris, expánsis mánibus orábat ad Dóminum : Dómine Jesu Christe, magíster bone, grátias tibi ago, qui me fecísti víncere torménta carníficum : jube me, Dómine, ad tuam immarcescíbilem glóriam felíciter perveníre.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>The blessed Agatha, standing in the prison, with outstretched hands, prayed unto the Lord: “O Lord Jesus Christ, good Master, I give thanks unto thee who hast enabled me to overcome the tortures of the executioners: bid me now, O Lord, come happily unto thine unfading <text:soft-page-break/>glory.”</p>
+      <p:BodyE><sr>Ant. </s>The blessed Agatha, standing in the prison, with outstretched hands, prayed unto the Lord: “O Lord Jesus Christ, good Master, I give thanks unto thee who hast enabled me to overcome the tortures of the executioners: bid me now, O Lord, come happily unto thine unfading glory.”</p>
      </td>
     </tr>
    </table>

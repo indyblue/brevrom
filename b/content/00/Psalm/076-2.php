@@ -6,4 +6,4 @@ Multitúdo sónitus aquárum: * vocem dedérunt nubes.
 Étenim sagíttæ tuæ tránseunt: * vox tonítrui tui in rota.
 Illuxérunt coruscatiónes tuæ orbi terræ: * commóta est, et contrémuit terra.
 In mari via tua, et sémitæ tuæ in aquis multis: * et vestígia tua non cognoscéntur.
-Deduxísti sicut oves pópulum tuum, * in manu Móysi et Aaron.
+Deduxísti sicut oves pópulum tuum, * in manu Móysi et Áaron.

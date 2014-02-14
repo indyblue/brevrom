@@ -1,1 +1,1 @@
-Deus, qui nos hodiérna die Exaltatiónis sanctæ Crucis annua solemnitáte lætíficas: præsta, quæsumus; ut, cujus mystérium in terra cognóvimus, ejus redemptiónis præmia in cælo mereámur. Per eúmdem Dóminum.
+Deus, qui nos hodiérna die Exaltatiónis sanctæ Crucis ánnua solemnitáte lætíficas: præsta, quǽsumus; ut, cujus mystérium in terra cognóvimus, ejus redemptiónis prǽmia in cælo mereámur. Per eúmdem Dóminum.

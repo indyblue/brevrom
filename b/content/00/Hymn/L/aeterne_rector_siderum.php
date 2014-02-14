@@ -11,12 +11,12 @@ Tibi reórum cœtui,
 Lucísque sub crepúsculum
 Lucem novam da méntibus.
 
-Tuúsque nobis Angelus
+Tuúsque nobis Ángelus
 Eléctus ad custódiam,
 Hic adsit; a contágio
 Ut críminum nos prótegat.
 
-Nobis dracónis æmuli
+Nobis dracónis ǽmuli
 Versútias extérminet;
 Ne rete frauduléntiæ
 Incáuta nectat péctora.
@@ -29,4 +29,4 @@ Fugétque pestiléntiam.
 Deo Patri sit glória,
 Qui, quos redémit Fílius
 Et Sanctus unxit Spíritus,
-Per Angelos custódiant. Amen.
+Per Ángelos custódiant. Amen.

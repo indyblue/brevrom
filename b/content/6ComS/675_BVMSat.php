@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>BVM Saturday</p>
-<?php echo bookmark('csBVMSat'); ?>
+<?php bookmark('csBVMSat'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Sanctæ Mariæ in Sabbato':'Office of the B.V.M. on Saturday')
 ?></p>

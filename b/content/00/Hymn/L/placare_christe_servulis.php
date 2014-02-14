@@ -17,13 +17,13 @@ Veris reórum flétibus
 Expóscite indulgéntiam.
 
 Vos, purpuráti Mártyres,
-Vos, candidáti præmio
+Vos, candidáti prǽmio
 Confessiónis, éxsules
 Vocáte nos in pátriam.
 
 Choréa casta Vírginum,
 Et quos erémus íncolas
-Transmísit astris, cælitum
+Transmísit astris, cǽlitum
 Locáte nos in sédibus.
 
 Auférte gentem pérfidam
@@ -34,4 +34,4 @@ Ovíle nos Pastor regat.
 Deo Patri sit glória,
 Natóque Patris único,
 Sancto simul Paráclito,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

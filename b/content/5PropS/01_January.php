@@ -15,7 +15,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui nos beáti Pauli Confessóris tui annua solemnitáte lætificas: concéde propítius; ut, cujus natalítia cólimus, étiam actiónes imitémur. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui nos beáti Pauli Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, étiam actiónes imitémur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who, year by year, dost gladden us by the solemn Feast day of thy blessed Confessor Paul, mercifully grant unto all that keep his birthday, grace to imitate his godly example. Through our Lord.</p>
@@ -51,7 +51,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INTERCÉSSIO nos, quæsumus, Dómine, beáti Mauri Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per Dóminum.</p>
+      <p:BodyLDrop>INTERCÉSSIO nos, quǽsumus, Dómine, beáti Mauri Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY the intercession of the blessed Abbot Maurus, commend us, we beseech thee, O Lord, that what we do not deserve by any merits of ours we may obtain through his patronage. Through our Lord.</p>
@@ -69,7 +69,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRECES pópuli tui, quæsumus, Dómine, cleménter exáudi: ut beáti Marcélli Mártyris tui atque Pontíficis méritis adjuvémur, cujus passióne lætámur. Per Dóminum.</p>
+      <p:BodyLDrop>PRECES pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut beáti Marcélli Mártyris tui atque Pontíficis méritis adjuvémur, cujus passióne lætámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MERCIFULLY hear, O Lord, we beseech thee, the prayers of thy people, that we may be aided by the merits of blessed Marcellus, thy Martyr and Bishop, in whose sufferings we rejoice. Through our Lord.</p>
@@ -87,7 +87,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INTERCÉSSIO nos, quæsumus, Dómine, beáti Antónii Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per Dóminum.</p>
+      <p:BodyLDrop>INTERCÉSSIO nos, quǽsumus, Dómine, beáti Antónii Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY the intercession of the blessed Abbot Anthony, commend us, we beseech thee, O Lord, that what we do not deserve by any merits of ours we may obtain through his patronage. Through our Lord.</p>
@@ -127,7 +127,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA, QUÆSUMUS, omnípotens Deus: ut qui beátæ Priscæ Vírginis et Mártyris tuæ natalítia cólimus, et annua solemnitáte lætémur, et tantæ fídei proficiámus exémplo. Per Dóminum.</p>
+      <p:BodyLDrop>DA, QUǼSUMUS, omnípotens Deus: ut qui beátæ Priscæ Vírginis et Mártyris tuæ natalítia cólimus, et ánnua solemnitáte lætémur, et tantæ fídei proficiámus exémplo. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, Almighty God, that we who celebrate the birthday to immortality of blessed Prisca, virgin and martyr, may both rejoice in her annual solemnity, and also profit by the example of her exceeding faith. Through our Lord.</p>
@@ -203,7 +203,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui ad illustrándam Ecclésiam tuam beátum Canútum regem martýrii palma et gloriósis miráculis decoráre dignátus es: concéde propítius; ut, sicut ipse Dominicæ passiónis imitátor fuit, ita nos per ejus vestígia gradiéntes, ad gaudia sempitérna perveníre mereámur. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui ad illustrándam Ecclésiam tuam beátum Canútum regem martýrii palma et gloriósis miráculis decoráre dignátus es: concéde propítius; ut, sicut ipse Domínicæ passiónis imitátor fuit, ita nos per ejus vestígia gradiéntes, ad gáudia sempitérna perveníre mereámur. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, for the glory of thy Church, you were pleased to adorn Blessed Canute, the king, with the palm of martyrdom and with glorious miracles; mercifully grant, that walking in the footsteps of him who was an imitator of our Lord’s sufferings, we may thereby deserve to attain to eternal joys. Through the same.</p>
@@ -221,7 +221,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INFIRMITÁTEM nostram réspice, omnípotens Deus: et, quia pondus propriæ actiónis gravat, beatórum Mártyrum tuórum Fabiáni et Sebastiáni intercéssio gloriósa nos prótegat. Per Dóminum.</p>
+      <p:BodyLDrop>INFIRMITÁTEM nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beatórum Mártyrum tuórum Fabiáni et Sebastiáni intercéssio gloriósa nos prótegat. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MERCIFULLY consider our weakness, O Almighty God, and whereas the burden of our sins weighs heavily upon us, may the glorious intercession of thy blessed Martyrs, Fabian and Sebastian, shield us. Through our Lord.</p>
@@ -237,7 +237,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, qui infírma mundi éligis, ut fortia quæque confúndas: concéde propítius; ut, qui beátæ Agnétis Vírginis et Mártyris tuæ solémnia cólimus, ejus apud te patrocínia sentiámus. Per Dóminum.</p>
+      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, qui infírma mundi éligis, ut fórtia quæque confúndas: concéde propítius; ut, qui beátæ Agnétis Vírginis et Mártyris tuæ solémnia cólimus, ejus apud te patrocínia sentiámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>ALMIGHTY and everlasting God who choosest the weak things of the world to confound the strong; mercifully grant that we, who keep the solemn feast of thy Virgin and Martyr, the blessed Agnes, may feel the benefit of her intercession with thee. Through our Lord.</p>
@@ -250,7 +250,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Ingressa Agnes * turpitúdinis locum, Ángelum Dómini præparátum invénit.</p>
+      <p:BodyL><sr>Ant 1. </s>Ingréssa Agnes * turpitúdinis locum, Ángelum Dómini præparátum invénit.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>The blessed Agnes, entering in * the place of infamy, found an Angel of the Lord at hand to protect her.</p>
@@ -261,7 +261,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Mecum enim habeo * custódem córporis mei, Ángelum Dómini.</p>
+      <p:BodyL><sr>Ant 2. </s>Mecum enim hábeo * custódem córporis mei, Ángelum Dómini.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 2. </s>For I have with me, * as guardian of my body, an Angel of the Lord.</p>
@@ -293,7 +293,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus. 51:1-3</p>
+   <p:RubricHSm><t>Ecclus. 51:1-3</p>
    <table>
     <tr>
      <td:A1>
@@ -311,7 +311,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam teneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
+      <p:BodyL><sr>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam téneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Behold, now I see * that which I have desired; now I possess that for which I have hoped: now am I united in Heaven to him whom I have love with my whole heart upon earth.</p>
@@ -327,7 +327,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus. 51:4-5</p>
+   <p:RubricHSm><t>Ecclus. 51:4-5</p>
    <table>
     <tr>
      <td:A1>
@@ -344,11 +344,11 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ecclus. 51:8,12</p>
+   <p:RubricHSm><t>Ecclus. 51:8,12</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>LAUDÁBIT usque ad mortem ánima mea Dóminum, quóniam eruis sustinéntes te, et líberas eos de manu angustiæ, Dómine, Deus noster.</p>
+      <p:BodyLDrop>LAUDÁBIT usque ad mortem ánima mea Dóminum, quóniam éruis sustinéntes te, et líberas eos de manu angústiæ, Dómine, Deus noster.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -441,7 +441,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INDULGÉNTIAM nobis, quæsumus, Dómine, beáta Emerentiána Virgo et Martyr implóret: quæ tibi gráta semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
+      <p:BodyLDrop>INDULGÉNTIAM nobis, quǽsumus, Dómine, beáta Emerentiána Virgo et Martyr implóret: quæ tibi gráta semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY Blessed Emerentiana, thy Virgin and Martyr, we beseech thee, O Lord, implore pardon for us; for, by the merit of her chastity and by her confession of thy power, she was ever pleasing to thee. Through our Lord.</p>
@@ -459,7 +459,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INFIRMITÁTEM nostram réspice, omnípotens Deus: et, quia pondus propriæ actiónis gravat, beáti Timóthei Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat. Per Dóminum.</p>
+      <p:BodyLDrop>INFIRMITÁTEM nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beáti Timóthei Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MERCIFULLY consider our weakness, O Almighty God, and whereas the burden of our sins weighs heavily upon us, may the glorious intercession of Blessed Timothy, your Martyr and Bishop, shield us. Through our Lord.</p>
@@ -475,7 +475,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui univérsum mundum beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quæsumus; ut, qui ejus hódie Conversiónem cólimus, per ejus ad te exémpla gradiámur. <sr>(</s>Per Dóminum.<sr>)</s></p>
+      <p:BodyLDrop>DEUS, qui univérsum mundum beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quǽsumus; ut, qui ejus hódie Conversiónem cólimus, per ejus ad te exémpla gradiámur. <sr>(</s>Per Dóminum.<sr>)</s></p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst teach the whole world by the preaching of blessed Paul the apostle; mercifully grant that we who this day celebrate the memory of his conversion, may, by following his example, advance in the way that leadeth unto thee. <sr>(</s>Through our Lord.<sr>)</s></p>
@@ -518,7 +518,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Gratia Dei * in me vacua non fuit, sed grátia ejus semper in me manet.</p>
+      <p:BodyL><sr>Ant 3. </s>Grátia Dei * in me vácua non fuit, sed grátia ejus semper in me manet.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 3. </s>The grace of God * in me was not void, but his grace ever abideth in me.</p>
@@ -542,7 +542,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 9:1-2</p>
+   <p:RubricHSm><t>Acts 9:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -560,7 +560,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Tu es vas electiónis, sancte Paule Apóstole.</p>
-      <p:BodyL><s:VR>R. </s>Prædicator veritátis in univérso mundo.</p>
+      <p:BodyL><s:VR>R. </s>Prædicátor veritátis in univérso mundo.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Thou art a vessel of election, holy Apostle Paul.</p>
@@ -588,7 +588,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 9:8-9</p>
+   <p:RubricHSm><t>Acts 9:8-9</p>
    <table>
     <tr>
      <td:A1>
@@ -605,11 +605,11 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 9:22</p>
+   <p:RubricHSm><t>Acts 9:22</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>SAULUS autem multo magis convalescébat, et confundébat Judæos qui habitábant Damásci, affírmans quóniam hic est Christus.</p>
+      <p:BodyLDrop>SAULUS autem multo magis convalescébat, et confundébat Judǽos qui habitábant Damásci, affírmans quóniam hic est Christus.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -630,7 +630,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Tu es vas electiónis, sancte Paule Apóstole.</p>
-      <p:BodyL><s:VR>R. </s>Prædicator veritátis in univérso mundo.</p>
+      <p:BodyL><s:VR>R. </s>Prædicátor veritátis in univérso mundo.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Thou art a vessel of election, holy Apostle Paul.</p>
@@ -642,7 +642,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Sancte Paule Apóstole, * prædicator veritátis, et doctor Géntium, intercéde pro nobis ad Deum, qui te elégit.</p>
+      <p:BodyL><sr>Ant. </s>Sancte Paule Apóstole, * prædicátor veritátis, et doctor Géntium, intercéde pro nobis ad Deum, qui te elégit.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Holy Apostle Paul, * thou preacher of the truth and doctor of the Gentiles, intercede for us with God, who chose thee.</p>
@@ -661,7 +661,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui nos beáti Polycárpi Mártyris tui atque Pontíficis annua solemnitáte lætificas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui nos beáti Polycárpi Mártyris tui atque Pontíficis ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who year by year dost gladden us by the solemn feast day of thy Blessed Martyr and Bishop Polycarp, mercifully grant that we who keep his birthday, may ever feel the joyful effects of his protection. Through our Lord.</p>
@@ -679,7 +679,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ECCLÉSIAM tuam, quæsumus, Dómine, grátia cæléstis amplíficet: quam beáti Joánnis Chrysóstomi Confessóris tui atque Pontíficis illustráre voluísti gloriósos méritis, et doctrínis. Per Dóminum.</p>
+      <p:BodyLDrop>ECCLÉSIAM tuam, quǽsumus, Dómine, grátia cæléstis amplíficet: quam beáti Joánnis Chrysóstomi Confessóris tui atque Pontíficis illustráre voluísti gloriósos méritis, et doctrínis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LORD, we beseech thee, let thy heavenly grace enlarge thy Church, which thou hast vouchsafed to adorn with the glorious merits and doctrine of blessed John Chrysostom, thy Confessor and Bishop. Through our Lord.</p>
@@ -710,7 +710,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam teneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
+      <p:BodyL><sr>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam téneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Behold, now I see * that which I have desired; now I possess that for which I have hoped: now am I united in Heaven to him whom I have love with my whole heart upon earth.</p>
@@ -734,7 +734,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui nos annua beátæ Agnétis Vírginis et Mártyris tuæ solemnitáte lætificas : da, quæsumus ; ut, quam venerámur offício, étiam piæ conversatiónis sequámur exémplo.  Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui nos ánnua beátæ Agnétis Vírginis et Mártyris tuæ solemnitáte lætíficas : da, quǽsumus ; ut, quam venerámur offício, étiam piæ conversatiónis sequámur exémplo.  Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop></p>
@@ -751,7 +751,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui ad animárum salútem beátum Francíscum Confessórem tuum atque Pontíficem ómnibus ómnia factum esse voluísti: concéde propítius; ut caritátis tuæ dulcédine perfúsi, ejus dirigéntibus mónitis ac suffragántibus méritis, ætérna gaudia consequámur. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui ad animárum salútem beátum Francíscum Confessórem tuum atque Pontíficem ómnibus ómnia factum esse voluísti: concéde propítius; ut caritátis tuæ dulcédine perfúsi, ejus dirigéntibus mónitis ac suffragántibus méritis, ætérna gáudia consequámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, by whose gracious the blessed Francis, thy Confessor and Bishop, became all things unto all men for the saving of their souls; mercifully grant that, being filled with the sweetness of thy love, we may, through the guidance of his counsels, and by the aid of his merits, attain unto the joys of the life everlasting. Through our Lord.</p>
@@ -769,7 +769,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Martinæ Vírginis et Mártyris tuæ natalítia cólimus, per ejus ad te exémpla gradiámur. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Martínæ Vírginis et Mártyris tuæ natalítia cólimus, per ejus ad te exémpla gradiámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, amidst the wondrous work of thy Divine power, thou hast granted the victory of martyrdom even to the weaker sex; mercifully grant that all who keep the Birthday of thy blessed Virgin and Martyr Martina, may, through her example, draw nearer to thee. Through our Lord.</p>
@@ -780,7 +780,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <p:Head2>ad Laudes</p>
    <p:Rubric>Psalms and Antiphons of the current feria.</p>
            <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 10:17-18</p>
+   <p:RubricHSm><t>2 Cor. 10:17-18</p>
    <table>
     <tr>
      <td:A1>
@@ -788,8 +788,8 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>BRETHREN: he that glorieth, let him glory in the Lord. For not he who comméndeth himself, is approved, but he, whom God comméndeth.</p>
-      <p:BodyE><text:soft-page-break/><s:VR>R. </s>Thanks be to God.</p>
+      <p:BodyEDrop>BRETHREN: he that glorieth, let him glory in the Lord. For not he who commendeth himself, is approved, but he, whom God commendeth.</p>
+      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
      </td>
     </tr>
    </table>
@@ -844,7 +844,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui sanctum Joánnem Confessórem tuum adolescéntium patrem et magístrum excitásti, ac per eum, auxiliatríce Vírgine María, novas in Ecclésia tua famílias floréscere voluísti: concéde, quæsumus; ut eódem caritátis igne succénsi, ánimas quærere, tibíque soli servíre valeámus. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui sanctum Joánnem Confessórem tuum adolescéntium patrem et magístrum excitásti, ac per eum, auxiliatríce Vírgine María, novas in Ecclésia tua famílias floréscere voluísti: concéde, quǽsumus; ut eódem caritátis igne succénsi, ánimas quǽrere, tibíque soli servíre valeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, Thou hast raised up Saint John, thy Confessor, to be a father and teacher of youth, and hast willed that through him, with the help of the Virgin Mary, new families should flourish in thy Church; grant, we beseech thee, that inflamed by the same fire of love, we may labour to seek souls and serve thee alone. Through our Lord.</p>

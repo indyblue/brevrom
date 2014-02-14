@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Apostles/Martyrs PT</p>
-<?php echo bookmark('csApPT'); ?>
+<?php bookmark('csApPT'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Apostolorum aut Martyrum PT':'Common of Apostles or Martyrs PT') 
 ?></p>
@@ -40,7 +40,7 @@ echo ($_GET['L']==1?'Tempore Paschali':'in Paschaltide')
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('filiae_jerusalem_venite_et_videte_martyres.php','B'); ?>
 	<p:BodySm/>
-<?php echo bookmark('csApPTLH'); ?>
+<?php bookmark('csApPTLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -69,7 +69,7 @@ echo ($_GET['L']==1?'Tempore Paschali':'in Paschaltide')
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComAp.php','For Apostles, '); ?>
 <?php rubrics('ps/SuV115.php','For Martyr(s), '); ?>
-<?php echo bookmark('csApPTVlc'); ?>
+<?php bookmark('csApPTVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('wis5_1.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

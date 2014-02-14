@@ -1,1 +1,1 @@
-Omnípotens sempitérne Deus, qui hujus diéi venerándam sanctámque lætítiam in beáti Apóstoli tui Bartholomæi festivitáte tribuísti: da Ecclésiæ tuæ, quæsumus; et amáre quod crédidit, et prædicáre quod dócuit. Per Dóminum.
+Omnípotens sempitérne Deus, qui hujus diéi venerándam sanctámque lætítiam in beáti Apóstoli tui Bartholomǽi festivitáte tribuísti: da Ecclésiæ tuæ, quǽsumus; et amáre quod crédidit, et prædicáre quod dócuit. Per Dóminum.

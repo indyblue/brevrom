@@ -21,7 +21,7 @@ and by love, attracts/draws all people
 O ter beáta cívitas
 Cui rite Christus ímperat,
 Quæ jussa pergit éxsequi
-Edícta mundo cælitus!
+Edícta mundo cǽlitus!
 
 o thrice blessed city
 over which Christ rightly rules
@@ -61,7 +61,7 @@ the whole world having thus been subjected to thee
 Jesu tibi sit glória,
 Qui sceptra mundi témperas,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.
 
 O Jesu! King of all the world,
 Honour and glory be to thee;

@@ -4,7 +4,7 @@ Ambrosian
 Jesu, coróna célsior
 Et véritas sublímior,
 Qui confiténti sérvulo
-Reddis perénne præmium:
+Reddis perénne prǽmium:
 
 Da supplicánti cœtui,
 Hujus rogátu, nóxii
@@ -17,13 +17,13 @@ Quo Sanctus hic de córpore
 Migrávit inter sídera.
 
 Hic vana terræ gáudia,
-Et luculénta prædia
+Et luculénta prǽdia
 Pollúta sorde députans,
 Ovans tenet cæléstia.
 
 Te, Christe, Rex piíssime,
 Hic confiténdo júgiter,
-Calcávit artes dæmonum
+Calcávit artes dǽmonum
 Sævúmque avérni príncipem.
 
 Virtúte clarus et fide,
@@ -39,4 +39,4 @@ Pœnas remíttas débitas.
 Patri perénnis glória,
 Natóque Patris único,
 Sanctóque sit Paráclito,
-Per omne semper sæculum. Amen.
+Per omne semper sǽculum. Amen.

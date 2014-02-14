@@ -12,4 +12,4 @@ Verbum iníquum constituérunt advérsum me: * Numquid qui dormit non adjíciet 
 Tu autem, Dómine, miserére mei, et resúscita me: * et retríbuam eis.
 In hoc cognóvi quóniam voluísti me: * quóniam non gaudébit inimícus meus super me.
 Me autem propter innocéntiam suscepísti: * et confirmásti me in conspéctu tuo in ætérnum.
-Benedíctus Dóminus, Deus Israël, a sæculo et usque in sæculum: * fiat, fiat.
+Benedíctus Dóminus, Deus Israël, a sǽculo et usque in sǽculum: * fiat, fiat.

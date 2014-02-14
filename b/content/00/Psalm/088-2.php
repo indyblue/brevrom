@@ -9,7 +9,7 @@ Et ponam in mari manum ejus: * et in flumínibus déxteram ejus.
 Ipse invocábit me: Pater meus es tu: * Deus meus, et suscéptor salútis meæ.
 Et ego primogénitum ponam illum * excélsum præ régibus terræ.
 In ætérnum servábo illi misericórdiam meam: * et testaméntum meum fidéle ipsi.
-Et ponam in sæculum sæculi semen ejus: * et thronum ejus sicut dies cæli.
+Et ponam in sǽculum sǽculi semen ejus: * et thronum ejus sicut dies cæli.
 Si autem derelíquerint fílii ejus legem meam: * et in judíciis meis non ambuláverint:
 Si justítias meas profanáverint: * et mandáta mea non custodíerint:
 Visitábo in virga iniquitátes eórum: * et in verbéribus peccáta eórum.

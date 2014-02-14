@@ -26,7 +26,7 @@ Vini dapísque imágine,
 Fundens salútem fíliis
 Transverberáto péctore.
 
-Te natiónum Præsides
+Te natiónum Prǽsides
 Honóre tollant público,
 Colant magístri, júdices,
 Leges et artes éxprimant.
@@ -39,4 +39,4 @@ Domósque subde cívium.
 Jesu tibi sit glória,
 Qui sceptra mundi témperas,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

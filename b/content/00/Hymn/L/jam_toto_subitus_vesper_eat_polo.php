@@ -16,7 +16,7 @@ Sectus verbéribus, Natus hiántibus
 Fossus vulnéribus, quot penetrántibus
 Te confíxit acúleis!
 
-Eheu! Sputa, álapæ, vérbera, vúlnera,
+Éheu! Sputa, álapæ, vérbera, vúlnera,
 Clavi, fel, aloë, spóngia, láncea,
 Sitis, spina, cruor, quam vária pium
 Cor pressére tyránnide!
@@ -28,5 +28,5 @@ Diris fixa dolóribus.
 
 Sit summæ Tríadi glória, laus, honor,
 A qua supplíciter, sollícita prece,
-Posco virgínei róboris æmulas
+Posco virgínei róboris ǽmulas
 Vires rebus in ásperis. Amen.

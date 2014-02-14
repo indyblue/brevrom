@@ -22,6 +22,6 @@ Bonis repléri gáudeat,
 Et mortis ictum nésciat.
 
 Præsta, Pater piíssime,
-Patríque compar Unice,
+Patríque compar Únice,
 Cum Spíritu Paráclito
-Regnans per omne sæculum. Amen.
+Regnans per omne sǽculum. Amen.

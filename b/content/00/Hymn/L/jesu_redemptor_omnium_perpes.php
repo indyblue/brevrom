@@ -2,7 +2,7 @@ Unk. 10-15th c.
 
 
 Jesu Redémptor ómnium,
-Perpes coróna Præsulum,
+Perpes coróna Prǽsulum,
 In hac die cleméntius
 Indúlgeas precántibus.
 
@@ -13,8 +13,8 @@ Devóta plebs solémnia.
 
 Qui rite mundi gáudia
 Hujus cadúca réspuens,
-Æternitátis præmio
-Potítur inter Angelos.
+Æternitátis prǽmio
+Potítur inter Ángelos.
 
 Hujus benígnus ánnue
 Nobis sequi vestígia:
@@ -24,4 +24,4 @@ Dimítte noxam críminis.
 Sit Christe, Rex piíssime,
 Tibi, Patríque glória,
 Cum Spíritu Paráclito,
-Nunc, et per omne sæculum. Amen.
+Nunc, et per omne sǽculum. Amen.

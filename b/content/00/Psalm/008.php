@@ -5,6 +5,6 @@ Ex ore infántium et lacténtium perfecísti laudem propter inimícos tuos, * ut
 Quóniam vidébo cælos tuos, ópera digitórum tuórum: * lunam et stellas, quæ tu fundásti.
 Quid est homo quod memor es ejus? * aut fílius hóminis, quóniam vísitas eum?
 Minuísti eum paulo minus ab Ángelis, glória et honóre coronásti eum: * et constituísti eum super ópera mánuum tuárum.
-Omnia subjecísti sub pédibus ejus, * oves et boves univérsas: ínsuper et pécora campi.
+Ómnia subjecísti sub pédibus ejus, * oves et boves univérsas: ínsuper et pécora campi.
 Vólucres cæli, et pisces maris, * qui perámbulant sémitas maris.
 Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!

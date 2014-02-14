@@ -29,4 +29,4 @@ Et Corde in isto séligat
 Jesu, tibi sit glória,
 Qui Corde fundis grátiam,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

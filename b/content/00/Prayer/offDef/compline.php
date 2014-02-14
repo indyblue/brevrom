@@ -1,1 +1,1 @@
-Propitiáre, quæsumus, Dómine, animábus ómnium famulórum famularúmque tuárum, pro quibus majestátem tuam supplíciter exorámus: ut, per hæc piæ deprecatiónis offícia, perveníre mereántur ad réquiem sempitérnam. Per Dóminum.
+Propitiáre, quǽsumus, Dómine, animábus ómnium famulórum famularúmque tuárum, pro quibus majestátem tuam supplíciter exorámus: ut, per hæc piæ deprecatiónis offícia, perveníre mereántur ad réquiem sempitérnam. Per Dóminum.

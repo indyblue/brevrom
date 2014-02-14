@@ -4,7 +4,7 @@ St. Bernard
 Jesu, decus angélicum,
 In aure dulce cánticum,
 In ore mel miríficum,
-In corde nectar cælicum.
+In corde nectar cǽlicum.
 
 Qui te gustant, esúriunt;
 Qui bibunt, adhuc sítiunt;

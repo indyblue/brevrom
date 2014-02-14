@@ -2,7 +2,7 @@ Prudentius
 
 
 Lux ecce surgit áurea,
-Pallens facéssat cæcitas,
+Pallens facéssat cǽcitas,
 Quæ nosmet in præceps diu
 Erróre traxit dévio.
 
@@ -24,4 +24,4 @@ A luce prima in vésperum.
 Deo Patri sit glória,
 Ejúsque soli Fílio,
 Cum Spíritu Paráclito,
-Nunc et per omne sæculum. Amen.
+Nunc et per omne sǽculum. Amen.

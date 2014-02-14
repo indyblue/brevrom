@@ -1,1 +1,1 @@
-Deus, qui inter apostólicos sacerdótes <sr>(</s>fámulum tuum <sr>N. vel pl.</s> fámulos tuos <sr>N.</s> et <sr>N.)</s> pontificáli fecísti dignitáte vigére: præsta, quæsumus; ut eórum quoque perpétuo <sr>(</s>aggregétur <sr>vel pl.</s> aggregéntur<sr>)</s> consórtio. Per Dóminum.
+Deus, qui inter apostólicos sacerdótes <sr>(</s>fámulum tuum <sr>N. vel pl.</s> fámulos tuos <sr>N.</s> et <sr>N.)</s> pontificáli fecísti dignitáte vigére: præsta, quǽsumus; ut eórum quoque perpétuo <sr>(</s>aggregétur <sr>vel pl.</s> aggregéntur<sr>)</s> consórtio. Per Dóminum.

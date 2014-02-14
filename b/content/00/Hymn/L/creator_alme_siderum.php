@@ -6,7 +6,7 @@ Creátor alme síderum,
 Jesu, Redémptor ómnium,
 Inténde votis súpplicum.
 
-Qui dæmonis ne fráudibus
+Qui dǽmonis ne fráudibus
 Períret orbis, ímpetu
 Amóris actus, lánguidi
 Mundi medéla factus es.
@@ -18,7 +18,7 @@ Intácta prodis víctima.
 
 Cujus potéstas glóriæ,
 Noménque cum primum sonat,
-Et cælites et ínferi
+Et cǽlites et ínferi
 Treménte curvántur genu.
 
 Te deprecámur últimæ
@@ -29,4 +29,4 @@ Defénde nos ab hóstibus.
 Virtus, honor, laus, glória
 Deo Patri cum Fílio,
 Sancto simul Paráclito,
-In sæculórum sæcula. Amen.
+In sæculórum sǽcula. Amen.

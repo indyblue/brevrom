@@ -11,7 +11,7 @@ Patrúmque cœtus, ágmina
 Canóra Vatum; vos, reis
 Precámini indulgéntiam.
 
-Baptísta Christi prævius,
+Baptísta Christi prǽvius,
 Summíque cæli Cláviger
 Cum céteris Apóstolis
 Nexus resólvant críminum.
@@ -29,4 +29,4 @@ Qui dona cæli flágitant.
 Virtus, honor, laus, glória
 Deo Patri cum Fílio,
 Sancto simul Paráclito,
-In sæculórum sæcula. Amen.
+In sæculórum sǽcula. Amen.

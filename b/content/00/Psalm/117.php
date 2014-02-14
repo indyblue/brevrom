@@ -1,8 +1,8 @@
 Ps 117. Confitémini Dómino
-Confitémini Dómino quóniam bonus: * quóniam in sæculum misericórdia ejus.
-Dicat nunc Israël quóniam bonus: * quóniam in sæculum misericórdia ejus.
-Dicat nunc domus Aaron: * quóniam in sæculum misericórdia ejus.
-Dicant nunc qui timent Dóminum: * quóniam in sæculum misericórdia ejus.
+Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.
+Dicat nunc Israël quóniam bonus: * quóniam in sǽculum misericórdia ejus.
+Dicat nunc domus Áaron: * quóniam in sǽculum misericórdia ejus.
+Dicant nunc qui timent Dóminum: * quóniam in sǽculum misericórdia ejus.
 De tribulatióne invocávi Dóminum: * et exaudívit me in latitúdine Dóminus.
 Dóminus mihi adjútor: * non timébo quid fáciat mihi homo.
 Dóminus mihi adjútor: * et ego despíciam inimícos meos.
@@ -27,4 +27,4 @@ Benedíximus vobis de domo Dómini: * Deus Dóminus, et illúxit nobis.
 Constitúite diem solémnem in condénsis, * usque ad cornu altáris.
 Deus meus es tu, et confitébor tibi: * Deus meus es tu, et exaltábo te.
 Confitébor tibi quóniam exaudísti me: * et factus es mihi in salútem.
-Confitémini Dómino quóniam bonus: * quóniam in sæculum misericórdia ejus.
+Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.

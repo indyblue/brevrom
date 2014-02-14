@@ -13,7 +13,7 @@
    <p:Hidden2>Matins</p>
    <p:Head1>ad Matutínum</p>
    <p:Rubric>Only select parts of this Hour have been included for reference.</p>
-   <p:RubricHSm><text:tab/>Ps 50:17</p>
+   <p:RubricHSm><t>Ps 50:17</p>
    <table>
     <tr>
      <td:A1>
@@ -27,10 +27,10 @@
     </tr>
    </table>
 <?php vr('deus_in_adjutorium.php'); ?>
-<?php echo bookmark('Ps94'); ?>
+<?php bookmark('Ps94'); ?>
 <?php psalm('094.php'); ?>
    <p:Head2>Table of Invitatories</p>
-   <p:RubricH>Sunday, Winter:<text:tab/>From Sept 27 to Nov 27, Jan 13 to Septuagesima</p>
+   <p:RubricH>Sunday, Winter:<t>From Sept 27 to Nov 27, Jan 13 to Septuagesima</p>
    <table>
     <tr>
      <td:A1>
@@ -41,7 +41,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricH>Sunday, Summer:<text:tab/>After Pentecost until Sept. 28th.</p>
+   <p:RubricH>Sunday, Summer:<t>After Pentecost until Sept. 28th.</p>
    <table>
     <tr>
      <td:A1>
@@ -156,7 +156,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXÁUDI, Dómine Jesu Christe, preces servórum tuórum, et miserére nobis: Qui cum Patre et Spíritu Sancto vivis et regnas in sæcula sæculórum.</p>
+      <p:BodyLDrop>EXÁUDI, Dómine Jesu Christe, preces servórum tuórum, et miserére nobis: Qui cum Patre et Spíritu Sancto vivis et regnas in sǽcula sæculórum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -169,7 +169,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>IPSÍUS píetas et misericórdia nos ádjuvet, qui cum Patre et Spíritu Sancto vivit et regnat in sæcula sæculórum.</p>
+      <p:BodyLDrop>IPSÍUS píetas et misericórdia nos ádjuvet, qui cum Patre et Spíritu Sancto vivit et regnat in sǽcula sæculórum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -255,7 +255,7 @@
    <p:Spacer/>
    <p:Head2>Hymn and Verse</p>
    <p:Spacer/>
-<?php echo bookmark('Benedictus'); ?>
+<?php bookmark('Benedictus'); ?>
 <?php canticle('benedictus.php'); ?>
 <?php vr('preces.php',1); ?>
    <p:Head2>Collect</p>
@@ -290,11 +290,11 @@
    <p:Head2>Psalms with Antiphon</p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Tim. 1:17</p>
+   <p:RubricHSm><t>1 Tim. 1:17</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>REGI sæculórum immortáli et invisíbili, soli Deo honor et glória in sæcula sæculórum. Amen.</p>
+      <p:BodyLDrop>REGI sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -549,7 +549,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHidden><text:tab/>Ps 115:6</p>
+   <p:RubricHidden><t>Ps 115:6</p>
    <table>
     <tr>
      <td:A1>
@@ -565,7 +565,7 @@
     <tr>
      <td:A1>
       <p:Rubric>Et abolute, sine Oremus:</p>
-      <p:BodyLDrop>SANCTA María, et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui vivit et regnat in sæcula sæculórum.</p>
+      <p:BodyLDrop>SANCTA María, et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui vivit et regnat in sǽcula sæculórum.</p>
       <p:BodyL><s:VR>R. </s>Amen. </p>
      </td>
      <td:B1>
@@ -618,7 +618,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm><text:tab/>Ps 89:16</p>
+   <p:RubricHSm><t>Ps 89:16</p>
    <table>
     <tr>
      <td:A1>
@@ -649,7 +649,7 @@
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
-      <p:BodyLDrop>DIRÍGERE et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic, et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: Qui vivis et regnas in sæcula sæculórum.</p>
+      <p:BodyLDrop>DIRÍGERE et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic, et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: Qui vivis et regnas in sǽcula sæculórum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -682,7 +682,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>In Sunday and ferial Office:<text:tab/>II Thess. 3:5</p>
+   <p:RubricHSm>In Sunday and ferial Office:<t>II Thess. 3:5</p>
    <table>
     <tr>
      <td:A1>
@@ -695,7 +695,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>In Advent:<text:tab/>Is. 33:2</p>
+   <p:RubricHSm>In Advent:<t>Is. 33:2</p>
    <table>
     <tr>
      <td:A1>
@@ -708,7 +708,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Christmastide:<text:tab/>Heb. 1:11-12</p>
+   <p:RubricHSm>Christmastide:<t>Heb. 1:11-12</p>
    <table>
     <tr>
      <td:A1>
@@ -721,7 +721,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Epiphany:<text:tab/>Is. 60:6</p>
+   <p:RubricHSm>Epiphany:<t>Is. 60:6</p>
    <table>
     <tr>
      <td:A1>
@@ -734,11 +734,11 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Lent:<text:tab/>Is. 55:6</p>
+   <p:RubricHSm>Lent:<t>Is. 55:6</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>QUÆRITE Dóminum, dum inveníri potest: invocáte eum, dum prope est. Tu autem, Dómine, miserére nobis.</p>
+      <p:BodyLDrop>QUǼRITE Dóminum, dum inveníri potest: invocáte eum, dum prope est. Tu autem, Dómine, miserére nobis.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -747,7 +747,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Passiontide:<text:tab/>Is. 50:6-7</p>
+   <p:RubricHSm>Passiontide:<t>Is. 50:6-7</p>
    <table>
     <tr>
      <td:A1>
@@ -760,11 +760,11 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Paschaltide:<text:tab/>Col. 3:1-2</p>
+   <p:RubricHSm>Paschaltide:<t>Col. 3:1-2</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>SI CONSURREXÍSTIS cum Christo, quæ sursum sunt quærite, ubi Christus est in déxtera Dei sedens: quæ sursum sunt sápite, non quæ super terram. Tu autem, Dómine, miserére nobis.</p>
+      <p:BodyLDrop>SI CONSURREXÍSTIS cum Christo, quæ sursum sunt quǽrite, ubi Christus est in déxtera Dei sedens: quæ sursum sunt sápite, non quæ super terram. Tu autem, Dómine, miserére nobis.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -773,11 +773,11 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Ascensiontide:<text:tab/>Acts 1:11</p>
+   <p:RubricHSm>Ascensiontide:<t>Acts 1:11</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>VIRI Galilæi, quid statis aspiciéntes in cælum? Hic Jesus qui assúmptus est a vobis in cælum, sic véniet, quemádmodum vidístis eum eúntem in cælum. Tu autem, Dómine, miserére nobis.</p>
+      <p:BodyLDrop>VIRI Galilǽi, quid statis aspiciéntes in cælum? Hic Jesus qui assúmptus est a vobis in cælum, sic véniet, quemádmodum vidístis eum eúntem in cælum. Tu autem, Dómine, miserére nobis.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -786,11 +786,11 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Octave of Pentecost:<text:tab/>Acts 2:11</p>
+   <p:RubricHSm>Octave of Pentecost:<t>Acts 2:11</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>JUDÆI quoque et Prosélyti, Cretes et Árabes: audívimus eos loquéntes nostris linguis magnália Dei. Tu autem, Dómine, miserére nobis.</p>
+      <p:BodyLDrop>JUDǼI quoque et Prosélyti, Cretes et Árabes: audívimus eos loquéntes nostris linguis magnália Dei. Tu autem, Dómine, miserére nobis.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -801,7 +801,7 @@
    </table>
    <p:BodySm/>
 	<p:RubricH>After the brief Lesson is said:</p>
-	<p:RubricHidden><text:tab/>Ps 123:8</p>
+	<p:RubricHidden><t>Ps 123:8</p>
    <table>
     <tr>
      <td:A1>
@@ -850,7 +850,7 @@
    <p:Head2>Psalms with Antiphon</p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer 17:14</p>
+   <p:RubricHSm>In ferial Office:<t>Jer 17:14</p>
    <table>
     <tr>
      <td:A1>
@@ -864,7 +864,7 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 40:5, 26:9</p>
+   <p:RubricHidden><t>Ps 40:5, 26:9</p>
    <table>
     <tr>
      <td:A1>
@@ -962,7 +962,7 @@
    <p:Head2>Psalms with Antiphon</p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Rom 13:8</p>
+   <p:RubricHSm>In ferial Office:<t>Rom 13:8</p>
    <table>
     <tr>
      <td:A1>
@@ -976,7 +976,7 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 33:2, 22:1</p>
+   <p:RubricHidden><t>Ps 33:2, 22:1</p>
    <table>
     <tr>
      <td:A1>
@@ -1074,7 +1074,7 @@
    <p:Head2>Psalms with Antiphon</p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>I Pet 1:17</p>
+   <p:RubricHSm>In ferial Office:<t>I Pet 1:17</p>
    <table>
     <tr>
      <td:A1>
@@ -1088,7 +1088,7 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 25:11, 18:13</p>
+   <p:RubricHidden><t>Ps 25:11, 18:13</p>
    <table>
     <tr>
      <td:A1>
@@ -1186,8 +1186,8 @@
    <p:Head2>Little Chapter</p>
    <p:Spacer/>
    <p:Head2>Hymn and Verse</p>
-   <p:Spacer><text:s/></p>
-<?php echo bookmark('Magnificat'); ?>
+   <p:Spacer></p>
+<?php bookmark('Magnificat'); ?>
 <?php canticle('magnificat.php'); ?>
 <?php vr('preces.php'); ?>
    <p:Head2>Collect</p>
@@ -1234,7 +1234,7 @@
     </tr>
    </table>
    <p:Spacer/>
-   <p:RubricHSm>Brief Lesson<text:tab/>I Peter 5:8</p>
+   <p:RubricHSm>Brief Lesson<t>I Peter 5:8</p>
    <table>
     <tr>
      <td:A1>
@@ -1295,7 +1295,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL>Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.</p>
+      <p:BodyL>Ídeo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.</p>
      </td>
      <td:B1>
       <p:BodyE>Therefore I beseech Blessed Mary Ever-Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray for me to the Lord our God.</p>
@@ -1367,7 +1367,7 @@
    </table>
    <p:BodySm/>
    <p:RubricH>During this <s:VR>V</s>. all make the holy Sign, with the thumb, over the left breast.</p>
-   <p:RubricHidden><text:tab/>Ps 84:5</p>
+   <p:RubricHidden><t>Ps 84:5</p>
    <table>
     <tr>
      <td:A1>
@@ -1386,7 +1386,7 @@
    <p:Head2>Hymn</p>
 <?php hymn('te_lucis_ante_terminum.php'); ?>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Jer. 14:9</p>
+   <p:RubricHSm><t>Jer. 14:9</p>
    <table>
     <tr>
      <td:A1>
@@ -1400,7 +1400,7 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 30:6, 16:8</p>
+   <p:RubricHidden><t>Ps 30:6, 16:8</p>
    <table>
     <tr>
      <td:A1>
@@ -1566,7 +1566,7 @@
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
-      <p:BodyLDrop>VÍSITA, quæsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper. Per Dóminum.</p>
+      <p:BodyLDrop>VÍSITA, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper. Per Dóminum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -1611,7 +1611,7 @@
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
-      <p:BodyLDrop>GRÁTIAM tuam, quæsumus Dómine, méntibus nostris infúnde; ut, qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nostrum.</p>
+      <p:BodyLDrop>GRÁTIAM tuam, quǽsumus Dómine, méntibus nostris infúnde; ut, qui, Ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nostrum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -1650,7 +1650,7 @@
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
-      <p:BodyLDrop>DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri præmia præstitísti: tríbue, quæsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum.</p>
+      <p:BodyLDrop>DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
       <p:Body/>
      </td>
@@ -1729,7 +1729,7 @@
     <tr>
      <td:A1>
       <p:BodyL>Orémus.</p>
-      <p:BodyLDrop>DEUS, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum lætificáre dignátus es; præsta, quæsumus; ut, per ejus Genitrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per eúmdem Christum Dóminum nostrum.</p>
+      <p:BodyLDrop>DEUS, qui per resurrectiónem Fílii tui, Dómini nostri Jesu Christi, mundum lætificáre dignátus es; præsta, quǽsumus; ut, per ejus Genitrícem Vírginem Maríam, perpétuæ capiámus gáudia vitæ. Per eúmdem Christum Dóminum nostrum.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
@@ -1806,7 +1806,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Is. 2:3</p>
+   <p:RubricHSm>In ferial Office:<t>Is. 2:3</p>
    <table>
     <tr>
      <td:A1>
@@ -1821,7 +1821,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('en_clara_vox_redarguit.php'); ?>
-   <p:RubricHidden><text:tab/>Is 40:3, Mk 1:3</p>
+   <p:RubricHidden><t>Is 40:3, Mk 1:3</p>
    <table>
     <tr>
      <td:A1>
@@ -1837,7 +1837,7 @@
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer. 23:5</p>
+   <p:RubricHSm>In ferial Office:<t>Jer. 23:5</p>
    <table>
     <tr>
      <td:A1>
@@ -1851,7 +1851,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 79:3, 101:16</p>
+   <p:RubricHidden><t>Ps 79:3, 101:16</p>
    <table>
     <tr>
      <td:A1>
@@ -1921,7 +1921,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer. 23:6</p>
+   <p:RubricHSm>In ferial Office:<t>Jer. 23:6</p>
    <table>
     <tr>
      <td:A1>
@@ -1935,7 +1935,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 84:8, 105:4</p>
+   <p:RubricHidden><t>Ps 84:8, 105:4</p>
    <table>
     <tr>
      <td:A1>
@@ -2005,7 +2005,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Is. 14:1</p>
+   <p:RubricHSm>In ferial Office:<t>Is. 14:1</p>
    <table>
     <tr>
      <td:A1>
@@ -2019,7 +2019,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Is 60:2</p>
+   <p:RubricHidden><t>Is 60:2</p>
    <table>
     <tr>
      <td:A1>
@@ -2089,7 +2089,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Gen. 49:10</p>
+   <p:RubricHSm>In ferial Office:<t>Gen. 49:10</p>
    <table>
     <tr>
      <td:A1>
@@ -2104,7 +2104,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('creator_alme_siderum.php'); ?>
-   <p:RubricHidden><text:tab/>Is 45:8</p>
+   <p:RubricHidden><t>Is 45:8</p>
    <table>
     <tr>
      <td:A1>
@@ -2127,7 +2127,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri præmia præstitísti: tríbue, quæsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</p>
+      <p:BodyLDrop>DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee, that we may continually feel the might of her intercession, through whom we have worthily received the Author of life, our Lord Jesus Christ, thy Son. Who liveth.</p>
@@ -2137,11 +2137,11 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Titus 2:11-12</p>
+   <p:RubricHSm><t>Titus 2:11-12</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>APPÁRUIT enim grátia Dei Salvatóris nostri ómnibus homínibus erúdiens nos, ut, abnegántes impietátem et sæculária desidéria sóbrie et juste et pie vivámus in hoc sæculo.</p>
+      <p:BodyLDrop>APPÁRUIT enim grátia Dei Salvatóris nostri ómnibus homínibus erúdiens nos, ut, abnegántes impietátem et sæculária desidéria sóbrie et juste et pie vivámus in hoc sǽculo.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -2152,7 +2152,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('a_solis_ortus_cardine.php'); ?>
-   <p:RubricHidden><text:tab/>Jn 1:14</p>
+   <p:RubricHidden><t>Jn 1:14</p>
    <table>
     <tr>
      <td:A1>
@@ -2179,11 +2179,11 @@
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Titus 2:11-12</p>
+   <p:RubricHSm><t>Titus 2:11-12</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>APPÁRUIT enim grátia Dei Salvatóris nostri ómnibus homínibus erúdiens nos, ut, abnegántes impietátem et sæculária desidéria sóbrie et juste et pie vivámus in hoc sæculo.</p>
+      <p:BodyLDrop>APPÁRUIT enim grátia Dei Salvatóris nostri ómnibus homínibus erúdiens nos, ut, abnegántes impietátem et sæculária desidéria sóbrie et juste et pie vivámus in hoc sǽculo.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -2193,7 +2193,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Jn 1:14, Ps 88:27</p>
+   <p:RubricHidden><t>Jn 1:14, Ps 88:27</p>
    <table>
     <tr>
      <td:A1>
@@ -2263,7 +2263,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Hebr. 1:10</p>
+   <p:RubricHSm><t>Hebr. 1:10</p>
    <table>
     <tr>
      <td:A1>
@@ -2277,7 +2277,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 97:2,3</p>
+   <p:RubricHidden><t>Ps 97:2,3</p>
    <table>
     <tr>
      <td:A1>
@@ -2347,7 +2347,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Hebr. 1:11-12</p>
+   <p:RubricHSm><t>Hebr. 1:11-12</p>
    <table>
     <tr>
      <td:A1>
@@ -2361,7 +2361,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 97:3, Jn 1:14</p>
+   <p:RubricHidden><t>Ps 97:3, Jn 1:14</p>
    <table>
     <tr>
      <td:A1>
@@ -2432,11 +2432,11 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Titus 2:11-12</p>
+   <p:RubricHSm><t>Titus 2:11-12</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>APPÁRUIT enim grátia Dei Salvatóris nostri ómnibus homínibus erúdiens nos, ut, abnegántes impietátem et sæculária desidéria sóbrie et juste et pie vivámus in hoc sæculo.</p>
+      <p:BodyLDrop>APPÁRUIT enim grátia Dei Salvatóris nostri ómnibus homínibus erúdiens nos, ut, abnegántes impietátem et sæculária desidéria sóbrie et juste et pie vivámus in hoc sǽculo.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -2447,7 +2447,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('jesu_redemptor_omnium_quem.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 97:2</p>
+   <p:RubricHidden><t>Ps 97:2</p>
    <table>
     <tr>
      <td:A1>
@@ -2493,7 +2493,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>VOTA, quæsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant. Per Dóminum.</p>
+      <p:BodyLDrop>VOTA, quǽsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O LORD, we beseech thee, mercifully to receive the prayers of thy people who call upon thee, and grant that they may both perceive and know what things they ought to do, and also may have the grace and power faithfully to fulfill the same. Through our Lord.</p>
@@ -2503,7 +2503,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Is. 60:1</p>
+   <p:RubricHSm><t>Is. 60:1</p>
    <table>
     <tr>
      <td:A1>
@@ -2518,7 +2518,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_sola_magnarum_urbium.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 96:7</p>
+   <p:RubricHidden><t>Ps 96:7</p>
    <table>
     <tr>
      <td:A1>
@@ -2534,7 +2534,7 @@
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Is. 60:1</p>
+   <p:RubricHSm><t>Is. 60:1</p>
    <table>
     <tr>
      <td:A1>
@@ -2548,7 +2548,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 71:10, Is 60:6</p>
+   <p:RubricHidden><t>Ps 71:10, Is 60:6</p>
    <table>
     <tr>
      <td:A1>
@@ -2618,7 +2618,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Is. 60:4</p>
+   <p:RubricHSm><t>Is. 60:4</p>
    <table>
     <tr>
      <td:A1>
@@ -2632,7 +2632,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Is 60:6, Ps 28:2</p>
+   <p:RubricHidden><t>Is 60:6, Ps 28:2</p>
    <table>
     <tr>
      <td:A1>
@@ -2702,7 +2702,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Is. 60:6</p>
+   <p:RubricHSm><t>Is. 60:6</p>
    <table>
     <tr>
      <td:A1>
@@ -2716,7 +2716,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 28:2, 96:7</p>
+   <p:RubricHidden><t>Ps 28:2, 96:7</p>
    <table>
     <tr>
      <td:A1>
@@ -2787,7 +2787,7 @@
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Is. 60:1</p>
+   <p:RubricHSm><t>Is. 60:1</p>
    <table>
     <tr>
      <td:A1>
@@ -2802,7 +2802,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('crudelis_herodes_deum.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 71:10</p>
+   <p:RubricHidden><t>Ps 71:10</p>
    <table>
     <tr>
      <td:A1>
@@ -2831,7 +2831,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/> Is. 58:1</p>
+   <p:RubricHSm>In ferial Office:<t> Is. 58:1</p>
    <table>
     <tr>
      <td:A1>
@@ -2846,7 +2846,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_sol_salutis_intimis.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 90:11</p>
+   <p:RubricHidden><t>Ps 90:11</p>
    <table>
     <tr>
      <td:A1>
@@ -2862,7 +2862,7 @@
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Joel 2:12-13</p>
+   <p:RubricHSm>In ferial Office:<t>Joel 2:12-13</p>
    <table>
     <tr>
      <td:A1>
@@ -2876,7 +2876,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 90:3,4</p>
+   <p:RubricHidden><t>Ps 90:3,4</p>
    <table>
     <tr>
      <td:A1>
@@ -2946,7 +2946,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Is. 55:7</p>
+   <p:RubricHSm>In ferial Office:<t>Is. 55:7</p>
    <table>
     <tr>
      <td:A1>
@@ -2960,7 +2960,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 90:4,5</p>
+   <p:RubricHidden><t>Ps 90:4,5</p>
    <table>
     <tr>
      <td:A1>
@@ -3030,7 +3030,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Is. 58:7</p>
+   <p:RubricHSm>In ferial Office:<t>Is. 58:7</p>
    <table>
     <tr>
      <td:A1>
@@ -3044,7 +3044,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 90:5,11</p>
+   <p:RubricHidden><t>Ps 90:5,11</p>
    <table>
     <tr>
      <td:A1>
@@ -3114,7 +3114,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Joel 2:17</p>
+   <p:RubricHSm>In ferial Office:<t>Joel 2:17</p>
    <table>
     <tr>
      <td:A1>
@@ -3129,7 +3129,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('audi_benigne_conditor.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 90:11</p>
+   <p:RubricHidden><t>Ps 90:11</p>
    <table>
     <tr>
      <td:A1>
@@ -3151,7 +3151,7 @@
    <p:Rubric>In Passiontide, in the Sunday or Ferial Office, Glória Patri is omitted from the Brief Responds.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer. 11:19</p>
+   <p:RubricHSm>In ferial Office:<t>Jer. 11:19</p>
    <table>
     <tr>
      <td:A1>
@@ -3165,9 +3165,9 @@
     </tr>
    </table>
    <p:Head3>Hymn</p>
-<?php echo bookmark('lustra_sex_qui_jam_peregit'); ?>
+<?php bookmark('lustra_sex_qui_jam_peregit'); ?>
 <?php hymn('lustra_sex_qui_jam_peregit.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 58:2</p>
+   <p:RubricHidden><t>Ps 58:2</p>
    <table>
     <tr>
      <td:A1>
@@ -3183,7 +3183,7 @@
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer 17:13</p>
+   <p:RubricHSm>In ferial Office:<t>Jer 17:13</p>
    <table>
     <tr>
      <td:A1>
@@ -3197,11 +3197,11 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 21:21,22</p>
+   <p:RubricHidden><t>Ps 21:21,22</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Erue a frámea, * Deus, ánimam meam.</p>
+      <p:BodyL><s:VR>V. </s>Érue a frámea, * Deus, ánimam meam.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Deliver from the sword, * O God, my soul.</p>
@@ -3209,7 +3209,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>R. </s>Erue a frámea...</p>
+      <p:BodyL><s:VR>R. </s>Érue a frámea...</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>R. </s>Deliver...</p>
@@ -3233,7 +3233,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL>Erue a frámea...</p>
+      <p:BodyL>Érue a frámea...</p>
      </td>
      <td:B1>
       <p:BodyE>Deliver...</p>
@@ -3259,7 +3259,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer 17:18</p>
+   <p:RubricHSm>In ferial Office:<t>Jer 17:18</p>
    <table>
     <tr>
      <td:A1>
@@ -3273,7 +3273,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 21:22, 25:9</p>
+   <p:RubricHidden><t>Ps 21:22, 25:9</p>
    <table>
     <tr>
      <td:A1>
@@ -3335,7 +3335,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer 18:20</p>
+   <p:RubricHSm>In ferial Office:<t>Jer 18:20</p>
    <table>
     <tr>
      <td:A1>
@@ -3349,7 +3349,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 25:9, 139:2</p>
+   <p:RubricHidden><t>Ps 25:9, 139:2</p>
    <table>
     <tr>
      <td:A1>
@@ -3411,7 +3411,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Jer. 11:20</p>
+   <p:RubricHSm>In ferial Office:<t>Jer. 11:20</p>
    <table>
     <tr>
      <td:A1>
@@ -3424,10 +3424,10 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('vexilla_regis_prodeunt'); ?>
+<?php bookmark('vexilla_regis_prodeunt'); ?>
 	<p:Head3>Hymn</p>
 <?php hymn('vexilla_regis_prodeunt.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 139:2</p>
+   <p:RubricHidden><t>Ps 139:2</p>
    <table>
     <tr>
      <td:A1>
@@ -3471,7 +3471,7 @@
    <p:Body/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Rom. 6:9-10</p>
+   <p:RubricHSm>In ferial Office:<t>Rom. 6:9-10</p>
    <table>
     <tr>
      <td:A1>
@@ -3501,7 +3501,7 @@
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Rom. 6:9-10</p>
+   <p:RubricHSm>In ferial Office:<t>Rom. 6:9-10</p>
    <table>
     <tr>
      <td:A1>
@@ -3515,7 +3515,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Lk 24:34</p>
+   <p:RubricHidden><t>Lk 24:34</p>
    <table>
     <tr>
      <td:A1>
@@ -3585,7 +3585,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>1 Cor. 15:20-22</p>
+   <p:RubricHSm>In ferial Office:<t>1 Cor. 15:20-22</p>
    <table>
     <tr>
      <td:A1>
@@ -3599,7 +3599,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Lk 24:34, Jn 20:20</p>
+   <p:RubricHidden><t>Lk 24:34, Jn 20:20</p>
    <table>
     <tr>
      <td:A1>
@@ -3669,7 +3669,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>1 Peter 3:18</p>
+   <p:RubricHSm>In ferial Office:<t>1 Peter 3:18</p>
    <table>
     <tr>
      <td:A1>
@@ -3683,7 +3683,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Jn 20:20, Lk 24:29</p>
+   <p:RubricHidden><t>Jn 20:20, Lk 24:29</p>
    <table>
     <tr>
      <td:A1>
@@ -3753,7 +3753,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<text:tab/>Rom. 6:9-10</p>
+   <p:RubricHSm>In ferial Office:<t>Rom. 6:9-10</p>
    <table>
     <tr>
      <td:A1>
@@ -3768,7 +3768,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('ad_regias_agni_dapes.php'); ?>
-   <p:RubricHidden><text:tab/>Lk 24:29</p>
+   <p:RubricHidden><t>Lk 24:29</p>
    <table>
     <tr>
      <td:A1>
@@ -3791,7 +3791,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum Redemptórem nostrum ad cælos ascendísse crédimus; ipse quoque mente in cæléstibus habitémus. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum Redemptórem nostrum ad cælos ascendísse crédimus; ipse quoque mente in cæléstibus habitémus. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that we who believe thy Only-begotten Son, our Redeemer, to have this day ascended into heaven, may ourselves also in mind dwell amid heavenly things. Through the same.</p>
@@ -3801,7 +3801,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 1:1-2</p>
+   <p:RubricHSm><t>Acts 1:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -3816,7 +3816,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('salutis_humanae_sator.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 102:19</p>
+   <p:RubricHidden><t>Ps 102:19</p>
    <table>
     <tr>
      <td:A1>
@@ -3830,7 +3830,7 @@
     </tr>
    </table>
    <p:Head3>Benedictus</p>
-   <p:RubricHSm>in ferial Office:<text:tab/>Jn 20:17</p>
+   <p:RubricHSm>in ferial Office:<t>Jn 20:17</p>
    <table>
     <tr>
      <td:A1>
@@ -3844,7 +3844,7 @@
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 1:1-2</p>
+   <p:RubricHSm><t>Acts 1:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -3858,7 +3858,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Ps 46:6, Eph 4:8</p>
+   <p:RubricHidden><t>Ps 46:6, Eph 4:8</p>
    <table>
     <tr>
      <td:A1>
@@ -3928,7 +3928,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 1:4-5</p>
+   <p:RubricHSm><t>Acts 1:4-5</p>
    <table>
     <tr>
      <td:A1>
@@ -3942,7 +3942,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Eph 4:8, Jn 20:17</p>
+   <p:RubricHidden><t>Eph 4:8, Jn 20:17</p>
    <table>
     <tr>
      <td:A1>
@@ -4012,11 +4012,11 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 1:11</p>
+   <p:RubricHSm><t>Acts 1:11</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>VIRI Galilæi, quid statis aspiciéntes in cælum? Hic Jesus qui assúmptus est a vobis in cælum, sic véniet, quemádmodum vidístis eum eúntem in cælum.</p>
+      <p:BodyLDrop>VIRI Galilǽi, quid statis aspiciéntes in cælum? Hic Jesus qui assúmptus est a vobis in cælum, sic véniet, quemádmodum vidístis eum eúntem in cælum.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -4026,7 +4026,7 @@
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-   <p:RubricHidden><text:tab/>Jn 20:17, Ps 102:19</p>
+   <p:RubricHidden><t>Jn 20:17, Ps 102:19</p>
    <table>
     <tr>
      <td:A1>
@@ -4099,7 +4099,7 @@
    <p:Rubric>As in Lauds.</p>
    <p:Head3>Hymn</p>
 	<p:RubricH>As in Lauds:</p>
-	<p:RubricHidden><text:tab/>Ps 46:6</p>
+	<p:RubricHidden><t>Ps 46:6</p>
    <table>
     <tr>
      <td:A1>

@@ -14,7 +14,7 @@ Amóre traxit ómnia.
 O ter beáta cívitas
 Cui rite Christus ímperat,
 Quæ jussa pergit éxsequi
-Edícta mundo cælitus!
+Edícta mundo cǽlitus!
 
 Non arma flagrant ímpia,
 Pax usque firmat fœdera,
@@ -34,4 +34,4 @@ Adóret orbis súbditus.
 Jesu tibi sit glória,
 Qui sceptra mundi témperas,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

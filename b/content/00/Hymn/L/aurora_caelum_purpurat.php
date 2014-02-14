@@ -19,7 +19,7 @@ Mortem sepúlcro fúnerat.
 Sat fúneri, sat lácrimis,
 Sat est datum dolóribus:
 Surréxit exstínctor necis,
-Clamat corúscans Angelus.
+Clamat corúscans Ángelus.
 
 Ut sis perénne méntibus
 Paschále, Jesu, gáudium,
@@ -29,4 +29,4 @@ Vitæ renátos líbera.
 Deo Patri sit glória,
 Et Fílio, qui a mórtuis
 Surréxit, ac Paráclito,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Virgins</p>
-<?php echo bookmark('csV'); ?>
+<?php bookmark('csV'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
 ?></p>
@@ -46,7 +46,7 @@ echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
 <?php ant('prudentes_virgines_aptate_vestras_lampades.php','B'); ?>
    <p:BodySm/>
 
-<?php echo bookmark('csVLH'); ?>
+<?php bookmark('csVLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -79,7 +79,7 @@ echo ($_GET['L']==1?'Commune Virginum':'Common of Virgins')
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
-<?php echo bookmark('csVVlc'); ?>
+<?php bookmark('csVVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('2cor10_17.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

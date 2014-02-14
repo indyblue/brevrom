@@ -22,6 +22,6 @@ Culpæ ut relínquant pábulum
 Jejúna corda críminum.
 
 Præsta, beáta Trínitas,
-Concéde, simplex Unitas;
+Concéde, simplex Únitas;
 Ut fructuósa sint tuis
 Jejuniórum múnera. Amen.

@@ -9,8 +9,8 @@ Quia comedérunt Jacob: * et locum ejus desolavérunt.
 Ne memíneris iniquitátum nostrárum antiquárum, cito antícipent nos misericórdiæ tuæ: * quia páuperes facti sumus nimis.
 Ádjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: * et propítius esto peccátis nostris, propter nomen tuum:
 Ne forte dicant in Géntibus: Ubi est Deus eórum? * et innotéscat in natiónibus coram óculis nostris.
-Ultio sánguinis servórum tuórum, qui effúsus est: * intróeat in conspéctu tuo gémitus compeditórum.
+Últio sánguinis servórum tuórum, qui effúsus est: * intróeat in conspéctu tuo gémitus compeditórum.
 Secúndum magnitúdinem bráchii tui, * pósside fílios mortificatórum.
 Et redde vicínis nostris séptuplum in sinu eórum: * impropérium ipsórum, quod exprobravérunt tibi, Dómine.
-Nos autem pópulus tuus, et oves páscuæ tuæ, * confitébimur tibi in sæculum.
+Nos autem pópulus tuus, et oves páscuæ tuæ, * confitébimur tibi in sǽculum.
 In generatiónem et generatiónem * annuntiábimus laudem tuam.

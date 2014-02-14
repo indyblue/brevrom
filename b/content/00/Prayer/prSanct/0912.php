@@ -1,1 +1,1 @@
-Concéde, quæsumus, omnípotens Deus: ut fidéles tui, qui sub sanctíssimæ Vírginis Maríæ Nómine et protectióne lætántur; ejus pia intercessióne, a cunctis malis liberéntur in terris, et ad gaudia ætérna perveníre mereántur in cælis. Per Dóminum.
+Concéde, quǽsumus, omnípotens Deus: ut fidéles tui, qui sub sanctíssimæ Vírginis Maríæ Nómine et protectióne lætántur; ejus pia intercessióne, a cunctis malis liberéntur in terris, et ad gáudia ætérna perveníre mereántur in cælis. Per Dóminum.

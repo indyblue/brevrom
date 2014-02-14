@@ -11,4 +11,4 @@ Secúndum nomen tuum, Deus, sic et laus tua in fines terræ: * justítia plena e
 Lætétur mons Sion, et exsúltent fíliæ Judæ: * propter judícia tua, Dómine.
 Circúmdate Sion, et complectímini eam: * narráte in túrribus ejus.
 Pónite corda vestra in virtúte ejus: * et distribúite domus ejus, ut enarrétis in progénie áltera.
-Quóniam hic est Deus, Deus noster in ætérnum et in sæculum sæculi: * ipse reget nos in sæcula.
+Quóniam hic est Deus, Deus noster in ætérnum et in sǽculum sǽculi: * ipse reget nos in sǽcula.

@@ -50,7 +50,7 @@ in the image of bread and wine
 pouring out salvation on your children
 from your pierced breast
 
-Te natiónum Præsides
+Te natiónum Prǽsides
 Honóre tollant público,
 Colant magístri, júdices,
 Leges et artes éxprimant.
@@ -73,7 +73,7 @@ and the homes of your citizens
 Jesu tibi sit glória,
 Qui sceptra mundi témperas,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.
 
 glory to you o Jesus
 who rules the scepters of the world

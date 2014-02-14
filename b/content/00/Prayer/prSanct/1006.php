@@ -1,1 +1,1 @@
-Sancti Brunónis Confessóris tui, quæsumus, Dómine, intercessiónibus adjuvémur: ut, qui majestátem tuam gráviter delinquéndo offéndimus, ejus méritis et précibus, nostrórum delictórum véniam consequámur. Per Dóminum.
+Sancti Brunónis Confessóris tui, quǽsumus, Dómine, intercessiónibus adjuvémur: ut, qui majestátem tuam gráviter delinquéndo offéndimus, ejus méritis et précibus, nostrórum delictórum véniam consequámur. Per Dóminum.

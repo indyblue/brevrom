@@ -22,6 +22,6 @@ Expértus potest crédere,
 Quid sit Jesum dilígere.
 
 Sis, Jesu, nostrum gáudium,
-Qui es futúrus præmium:
+Qui es futúrus prǽmium:
 Sit nostra in te glória,
-Per cuncta semper sæcula. Amen.
+Per cuncta semper sǽcula. Amen.

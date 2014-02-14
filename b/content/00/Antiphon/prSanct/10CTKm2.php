@@ -1,1 +1,1 @@
-Habet in vestiménto * et in fémore suo scriptum: Rex regum, et Dóminus dominántium. Ipsi glória et impérium, in sæcula sæculórum.
+Habet in vestiménto * et in fémore suo scriptum: Rex regum, et Dóminus dominántium. Ipsi glória et impérium, in sǽcula sæculórum.

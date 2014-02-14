@@ -13,7 +13,7 @@ $txtE = trim($pieces[2]);
 
 ?>
 	<text:p text:style-name=<?php 
-echo ($text==''?'"RubricHSm">':'"RubricH">'.$text) . '<text:tab/>' . $cv;
+echo ($text==''?'"RubricHSm">':'"RubricH">'.$text) . '<t>' . $cv;
 ?></p>
    <table>
     <tr>

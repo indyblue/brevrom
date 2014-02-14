@@ -10,7 +10,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRECES pópuli tui, quæsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur. Per Dóminum.</p>
+      <p:BodyLDrop>PRECES pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRACIOUSLY hear the prayers of thy people, we beseech thee, O Lord, that we, who are justly punished for our sins, may be mercifully delivered for the glory of thy name. Through our Lord.</p>
@@ -21,7 +21,7 @@
    <p:Head2>ad I Vésperas</p>
    <p:Rubric>Antiphons and psalms as in Saturday Vespers.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 9:24</p>
+   <p:RubricHSm><t>1 Cor. 9:24</p>
    <table>
     <tr>
      <td:A1>
@@ -36,7 +36,7 @@
    </table>
    <p:Rubric>Hymn as in Saturday Vespers.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Gen. 2:16-17</p>
+   <p:RubricHidden><t>Gen. 2:16-17</p>
    <table>
     <tr>
      <td:A1>
@@ -80,7 +80,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Benedíctus es * in firmaménto cæli, et laudábilis in sæcula, Deus noster.</p>
+      <p:BodyL><sr>Ant 4. </s>Benedíctus es * in firmaménto cæli, et laudábilis in sǽcula, Deus noster.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 4. </s>Blessed art thou * in the firmament of heaven: and worthy of praise for ever, O our God.</p>
@@ -98,7 +98,7 @@
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Rubric>Hymn as in Sunday Lauds</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt. 20:1</p>
+   <p:RubricHidden><t>Mt. 20:1</p>
    <table>
     <tr>
      <td:A1>
@@ -148,7 +148,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 9:25</p>
+   <p:RubricHSm><t>1 Cor. 9:25</p>
    <table>
     <tr>
      <td:A1>
@@ -175,7 +175,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 10:4-5</p>
+   <p:RubricHSm><t>1 Cor. 10:4-5</p>
    <table>
     <tr>
      <td:A1>
@@ -210,7 +210,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRECES pópuli tui, quæsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur. Per Dóminum.</p>
+      <p:BodyLDrop>PRECES pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pro tui nóminis glória misericórditer liberémur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRACIOUSLY hear the prayers of thy people, we beseech thee, O Lord, that we, who are justly punished for our sins, may be mercifully delivered for the glory of thy name. Through our Lord.</p>
@@ -315,7 +315,7 @@
    <p:Head2>ad I Vésperas</p>
    <p:Rubric>Antiphons and psalms as in Saturday Vespers.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 11:19-20</p>
+   <p:RubricHSm><t>2 Cor. 11:19-20</p>
    <table>
     <tr>
      <td:A1>
@@ -391,11 +391,11 @@
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Rubric>Hymn as in Sunday Lauds</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk. 8:4-5</p>
+   <p:RubricHidden><t>Lk. 8:4-5</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Cum turba * plúrima convenírent ad Jesum, et de civitátibus properárent ad eum, dixit per similitúdinem: Exiit qui séminat, semináre semen suum.</p>
+      <p:BodyL><sr>Ant. </s>Cum turba * plúrima convenírent ad Jesum, et de civitátibus properárent ad eum, dixit per similitúdinem: Éxiit qui séminat, semináre semen suum.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>When a very great multitude * was gathered together and hastened out of the cities unto him, he spoke by a similitude: “The sower went out to sow his seed.”</p>
@@ -441,7 +441,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 11:25</p>
+   <p:RubricHSm><t>2 Cor. 11:25</p>
    <table>
     <tr>
      <td:A1>
@@ -468,7 +468,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 12:9</p>
+   <p:RubricHSm><t>2 Cor. 12:9</p>
    <table>
     <tr>
      <td:A1>
@@ -488,7 +488,7 @@
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Rubric>Hymn as in Sunday Vespers</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 8:10</p>
+   <p:RubricHidden><t>Lk 8:10</p>
    <table>
     <tr>
      <td:A1>
@@ -518,7 +518,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Si culmen * veri honóris quæritis, ad illam cæléstem pátriam quantócius properáte.</p>
+      <p:BodyL><sr>Ant. </s>Si culmen * veri honóris quǽritis, ad illam cæléstem pátriam quantócius properáte.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>If you seek the summit * of true honour, hasten with all speed to that heavenly country.</p>
@@ -598,7 +598,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRECES nostras, quæsumus, Dómine, cleménter exáudi: atque a peccatórum vínculis absolútos, ab omni nos adversitáte custódi. Per Dóminum.</p>
+      <p:BodyLDrop>PRECES nostras, quǽsumus, Dómine, cleménter exáudi: atque a peccatórum vínculis absolútos, ab omni nos adversitáte custódi. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>WE BESEECH thee, O Lord, graciously hear our prayers; and having freed us from the bonds of our sins, guard us from all adversity. Through our Lord.</p>
@@ -609,7 +609,7 @@
    <p:Head2>ad I Vésperas</p>
    <p:Rubric>Antiphons and psalms as in Saturday.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor 13:1</p>
+   <p:RubricHSm><t>1 Cor 13:1</p>
    <table>
     <tr>
      <td:A1>
@@ -667,7 +667,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Hymnum dícite, * et superexaltáte eum in sæcula.</p>
+      <p:BodyL><sr>Ant 4. </s>Hymnum dícite, * et superexaltáte eum in sǽcula.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 4. </s>Sing a hymn, * and exalt him above all for ever.</p>
@@ -734,7 +734,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 13:8-9</p>
+   <p:RubricHSm><t>1 Cor. 13:8-9</p>
    <table>
     <tr>
      <td:A1>
@@ -761,7 +761,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 13:13</p>
+   <p:RubricHSm><t>1 Cor. 13:13</p>
    <table>
     <tr>
      <td:A1>
@@ -796,7 +796,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRECES nostras, quæsumus, Dómine, cleménter exáudi: atque a peccatórum vínculis absolútos, ab omni nos adversitáte custódi. Per Dóminum.</p>
+      <p:BodyLDrop>PRECES nostras, quǽsumus, Dómine, cleménter exáudi: atque a peccatórum vínculis absolútos, ab omni nos adversitáte custódi. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>WE BESEECH thee, O Lord, graciously hear our prayers; and having freed us from the bonds of our sins, guard us from all adversity. Through our Lord.</p>

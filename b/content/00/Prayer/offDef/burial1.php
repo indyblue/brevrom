@@ -1,1 +1,1 @@
-Absólve, quæsumus, Dómine, ánimam <sr>(m.</s> fámuli tui <sr>N.</s>, ut defúnctus <sr> vel f.</s> fámulæ tuæ <sr>N.</s>, ut defúncta<sr>)</s> sæculo tibi vivat: et, quæ per fragilitátem carnis humána conversatióne commísit, tu vénia misericordíssimæ pietátis abstérge. Per Dóminum.
+Absólve, quǽsumus, Dómine, ánimam <sr>(m.</s> fámuli tui <sr>N.</s>, ut defúnctus <sr> vel f.</s> fámulæ tuæ <sr>N.</s>, ut defúncta<sr>)</s> sǽculo tibi vivat: et, quæ per fragilitátem carnis humána conversatióne commísit, tu vénia misericordíssimæ pietátis abstérge. Per Dóminum.

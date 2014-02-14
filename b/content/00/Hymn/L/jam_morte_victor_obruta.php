@@ -8,7 +8,7 @@ Cæli reclúdit límina.
 
 Visus satis mortálibus
 Ascéndit ad cæléstia,
-Dextræque Patris ássidet
+Dextrǽque Patris ássidet
 Consors patérnæ glóriæ.
 
 Quem jam suis promíserat,
@@ -29,4 +29,4 @@ Cunctis creátis ímperat.
 Jesu, tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

@@ -7,7 +7,7 @@ Prædestináta Altíssimi
 Gestáre in alvo Fílium;
 
 Tu perpes hostis fémina
-Prænuntiáta dæmonis,
+Prænuntiáta dǽmonis,
 Oppléris una grátia
 Intamináta orígine.
 
@@ -34,4 +34,4 @@ Te, consequámur áuspice.
 Jesu, tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

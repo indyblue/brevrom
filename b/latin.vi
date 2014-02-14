@@ -1,13 +1,24 @@
-g!/BodyL\|HymnL/d
+g!/BodyL\|HymnL\|Head2Ps/d 
+%s/<sr>.\{-}<\/s>//ig
 %s/<[^>]*>//ig
 %s/\v<\k*>/\r\0\r/ig
 g!/\k/d
 sort
 %s/\v^(.*)$\n(\1\n)+/\1\r/ig
+g/\c[áéíóúýǽ]/d
 
-g/[áéíóúý]/d
-finds latin words of 2 or less syllables!
-g/\v\c<[^aeiouæœ]{-}((aa|au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>/d
+deletes latin words of 2 or less syllables
+g/\v\c<[^aeiouæœ]{-}((au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>/d
+
+
+%s/æ/ae/ig | %s/œ/oe/ig
+%s/ae/æ/ig
+/\<[A-ZÆ]*\>
+
+%s/<[^>]*\/>/\r\0\r/ig
+g!/<[^>]*\/>/d
+
+vim/annua/*.php *\*.php *\*\*.php *\*\*\*.php *\*\*\*\*.php *\*\*\*\*\*.php
 
 /* accent on œ */
 cœtui

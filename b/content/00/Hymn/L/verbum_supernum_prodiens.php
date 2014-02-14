@@ -7,7 +7,7 @@ Ad opus suum éxiens,
 Venit ad vitæ vésperam.
 
 In mortem a discípulo
-Suis tradéndus æmulis,
+Suis tradéndus ǽmulis,
 Prius in vitæ férculo
 Se trádidit discípulis.
 
@@ -19,7 +19,7 @@ Totum cibáret hóminem.
 Se nascens dedit sócium,
 Convéscens in edúlium,
 Se móriens in prétium,
-Se regnans dat in præmium.
+Se regnans dat in prǽmium.
 
 O salutáris hóstia,
 Quæ cæli pandis óstium,

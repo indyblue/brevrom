@@ -21,7 +21,7 @@ Currens per anni círculum,
 Quod solus e sinu Patris
 Mundi salus advéneris.
 
-Hunc astra, tellus, æquora,
+Hunc astra, tellus, æquóra,
 Hunc omne, quod cælo subest,
 Salútis auctórem novæ
 Novo salútat cántico.
@@ -34,4 +34,4 @@ Hymni tribútum sólvimus.
 Jesu, tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

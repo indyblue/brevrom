@@ -1,7 +1,7 @@
 Card. R. Bellarmine
 
 
-Custódes hóminum psállimus Angelos,
+Custódes hóminum psállimus Ángelos,
 Natúræ frágili quos Pater áddidit
 Cæléstis cómites, insidiántibus
 Ne succúmberet hóstibus.
@@ -19,4 +19,4 @@ Quidquid non sinit íncolas.
 Sanctæ sit Tríadi laus pia júgiter,
 Cujus perpétuo númine máchina
 Triplex hæc régitur, cujus in ómnia
-Regnat glória sæcula. Amen.
+Regnat glória sǽcula. Amen.

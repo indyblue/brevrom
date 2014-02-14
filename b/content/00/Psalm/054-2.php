@@ -2,7 +2,7 @@ Ps 54 ii. Ego autem ad Deum
 Ego autem ad Deum clamávi: * et Dóminus salvábit me.
 Véspere, et mane, et merídie narrábo et annuntiábo: * et exáudiet vocem meam.
 Rédimet in pace ánimam meam ab his, qui appropínquant mihi: * quóniam inter multos erant mecum.
-Exáudiet Deus, et humiliábit illos, * qui est ante sæcula.
+Exáudiet Deus, et humiliábit illos, * qui est ante sǽcula.
 Non enim est illis commutátio, et non timuérunt Deum: * exténdit manum suam in retribuéndo.
 Contaminavérunt testaméntum ejus, divísi sunt ab ira vultus ejus: * et appropinquávit cor illíus.
 Mollíti sunt sermónes ejus super óleum: * et ipsi sunt jácula.

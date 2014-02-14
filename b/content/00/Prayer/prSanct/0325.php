@@ -1,1 +1,1 @@
-Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis: ut qui vere eam Genitrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur. Per eúmdem Dóminum.
+Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Ángelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis: ut qui vere eam Genitrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur. Per eúmdem Dóminum.

@@ -3,13 +3,13 @@ Pope Urban VIII
 
 Domáre cordis ímpetus Elísabeth
 Fortis, inópsque Deo
-Servíre, regno prætulit.
+Servíre, regno prǽtulit.
 
 En fúlgidis recépta cæli sédibus,
-Sidereæque domus
+Sidereǽque domus
 Ditáta sanctis gáudiis.
 
-Nunc regnat inter cælites beátior,
+Nunc regnat inter cǽlites beátior,
 Et premit astra, docens
 Quæ vera sint regni bona.
 

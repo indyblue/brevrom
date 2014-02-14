@@ -60,7 +60,7 @@
    <p:Rubric>Those who are not present at the Solemn Paschal Vigil are to say Matins and Lauds of Easter Sunday.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Mt 28:1-5</p>
+   <p:RubricHidden><t>Mt 28:1-5</p>
    <table>
     <tr>
      <td:A1>
@@ -99,7 +99,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Respóndens autem Ángelus, * dixit muliéribus: Nolíte timére: scio enim quod Jesum quæritis, allelúja.</p>
+      <p:BodyL><sr>Ant 5. </s>Respóndens autem Ángelus, * dixit muliéribus: Nolíte timére: scio enim quod Jesum quǽritis, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 5. </s>And the Angel answering, * said to the women: Fear not you; for I know that you seek Jesus who was crucified, alleluia.</p>
@@ -108,7 +108,7 @@
    </table>
    <p:BodySm/>
    <p:RubricH>In place of Chapter, Hymn, Versicle and Response is said:</p>
-   <p:RubricHSm><text:tab/>Ps 117:24</p>
+   <p:RubricHSm><t>Ps 117:24</p>
    <table>
     <tr>
      <td:A1>
@@ -120,7 +120,7 @@
     </tr>
    </table>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mk 16:2</p>
+   <p:RubricHidden><t>Mk 16:2</p>
    <table>
     <tr>
      <td:A1>
@@ -171,7 +171,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mk 16:2</p>
+   <p:RubricHidden><t>Mk 16:2</p>
    <table>
     <tr>
      <td:A1>
@@ -230,7 +230,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui solemnitáte pascháli, mundo remédia contulísti: pópulum tuum, quæsumus, cælésti dono proséquere; ut et perféctam libertátem cónsequi mereátur, et ad vitam profíciat sempitérnam. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui solemnitáte pascháli, mundo remédia contulísti: pópulum tuum, quǽsumus, cælésti dono proséquere; ut et perféctam libertátem cónsequi mereátur, et ad vitam profíciat sempitérnam. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who by the Paschal solemnity have given thy healing remedies to the world, continue, we beseech thee, to pour forth thy heavenly give on thy people, that they may deserve to attain perfect liberty, and go forward to life everlasting. Through our Lord.</p>
@@ -238,7 +238,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:15-25</p>
+   <p:RubricHidden><t>Lk 24:15-25</p>
    <table>
     <tr>
      <td:A1>
@@ -250,7 +250,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 24:17</p>
+   <p:RubricHidden><t>Lk 24:17</p>
    <table>
     <tr>
      <td:A1>
@@ -277,7 +277,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:36</p>
+   <p:RubricHidden><t>Lk 24:36</p>
    <table>
     <tr>
      <td:A1>
@@ -289,7 +289,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 24:39</p>
+   <p:RubricHidden><t>Lk 24:39</p>
    <table>
     <tr>
      <td:A1>
@@ -316,7 +316,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 21:6</p>
+   <p:RubricHidden><t>Jn 21:6</p>
    <table>
     <tr>
      <td:A1>
@@ -328,7 +328,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 21:10</p>
+   <p:RubricHidden><t>Jn 21:10</p>
    <table>
     <tr>
      <td:A1>
@@ -355,7 +355,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 20:6,11-12</p>
+   <p:RubricHidden><t>Jn 20:6,11-12</p>
    <table>
     <tr>
      <td:A1>
@@ -367,7 +367,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 20:13,15</p>
+   <p:RubricHidden><t>Jn 20:13,15</p>
    <table>
     <tr>
      <td:A1>
@@ -394,11 +394,11 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 28:16-17</p>
+   <p:RubricHidden><t>Mt 28:16-17</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Úndecim discípuli * in Galilæa vidéntes Dóminum adoravérunt, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Úndecim discípuli * in Galilǽa vidéntes Dóminum adoravérunt, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>The eleven disciples, * in Galilee, seeing the Lord, adored, alleluia.</p>
@@ -406,7 +406,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 28:18</p>
+   <p:RubricHidden><t>Mt 28:18</p>
    <table>
     <tr>
      <td:A1>
@@ -424,7 +424,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur. Per Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that we, who have reverently celebrated the Easter solemnities, may, by them, deserve to arrive at everlasting joys. Through our Lord.</p>
@@ -432,7 +432,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 20:4</p>
+   <p:RubricHidden><t>Jn 20:4</p>
    <table>
     <tr>
      <td:A1>
@@ -457,7 +457,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that we who have been celebrating the Paschal festivities may, through thy bounty, ever retain their effect, both in life and conversation. Through our Lord.</p>
@@ -468,7 +468,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 John 5:4</p>
+   <p:RubricHSm><t>1 John 5:4</p>
    <table>
     <tr>
      <td:A1>
@@ -483,7 +483,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 20:19</p>
+   <p:RubricHidden><t>Jn 20:19</p>
    <table>
     <tr>
      <td:A1>
@@ -507,7 +507,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 John 5:5-6</p>
+   <p:RubricHSm><t>1 John 5:5-6</p>
    <table>
     <tr>
      <td:A1>
@@ -524,7 +524,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 John 5:9-10</p>
+   <p:RubricHSm><t>1 John 5:9-10</p>
    <table>
     <tr>
      <td:A1>
@@ -542,7 +542,7 @@
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 John 5:4</p>
+   <p:RubricHSm><t>1 John 5:4</p>
    <table>
     <tr>
      <td:A1>
@@ -557,7 +557,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 20:26</p>
+   <p:RubricHidden><t>Jn 20:26</p>
    <table>
     <tr>
      <td:A1>
@@ -573,7 +573,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that we who have been celebrating the Paschal festivities may, through thy bounty, ever retain their effect, both in life and conversation. Through our Lord.</p>
@@ -584,11 +584,11 @@
    <p:Head2>Feria Secunda</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mk 16:9</p>
+   <p:RubricHidden><t>Mk 16:9</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Surgens Jesus * mane prima sábbati, appáruit primo Maríæ Magdalenæ, de qua ejécerat septem dæmónia, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Surgens Jesus * mane prima sábbati, appáruit primo Maríæ Magdalénæ, de qua ejécerat septem dæmónia, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Jesus, rising * early the first day of the week, appeared first to Mary Magdalen, out of whom he had cast seven devils, alleluia.</p>
@@ -596,7 +596,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 24:36</p>
+   <p:RubricHidden><t>Lk 24:36</p>
    <table>
     <tr>
      <td:A1>
@@ -611,11 +611,11 @@
    <p:Head2>Feria Tertia</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mk 16:7</p>
+   <p:RubricHidden><t>Mk 16:7</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Præcédam vos * in Galilæam, ibi me vidébitis, sicut dixi vobis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Præcédam vos * in Galilǽam, ibi me vidébitis, sicut dixi vobis, allelúja, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>I go before you * into Galilee; there you shall see me, as I told you, alleluia, alleluia.</p>
@@ -623,7 +623,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 20:27</p>
+   <p:RubricHidden><t>Jn 20:27</p>
    <table>
     <tr>
      <td:A1>
@@ -638,7 +638,7 @@
    <p:Head2>Feria Quarta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 15:1,5</p>
+   <p:RubricHidden><t>Jn 15:1,5</p>
    <table>
     <tr>
      <td:A1>
@@ -650,7 +650,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 20:29</p>
+   <p:RubricHidden><t>Jn 20:29</p>
    <table>
     <tr>
      <td:A1>
@@ -676,7 +676,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 20:25,28</p>
+   <p:RubricHidden><t>Jn 20:25,28</p>
    <table>
     <tr>
      <td:A1>
@@ -691,7 +691,7 @@
    <p:Head2>Feria Sexta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 28:1</p>
+   <p:RubricHidden><t>Mt 28:1</p>
    <table>
     <tr>
      <td:A1>
@@ -703,7 +703,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 20:26</p>
+   <p:RubricHidden><t>Jn 20:26</p>
    <table>
     <tr>
      <td:A1>
@@ -742,7 +742,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:21-22</p>
+   <p:RubricHSm><t>1 Peter 2:21-22</p>
    <table>
     <tr>
      <td:A1>
@@ -757,7 +757,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 10:11,14 14:6</p>
+   <p:RubricHidden><t>Jn 10:11,14 14:6</p>
    <table>
     <tr>
      <td:A1>
@@ -781,7 +781,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:23-24</p>
+   <p:RubricHSm><t>1 Peter 2:23-24</p>
    <table>
     <tr>
      <td:A1>
@@ -798,7 +798,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:25</p>
+   <p:RubricHSm><t>1 Peter 2:25</p>
    <table>
     <tr>
      <td:A1>
@@ -816,7 +816,7 @@
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:21-22</p>
+   <p:RubricHSm><t>1 Peter 2:21-22</p>
    <table>
     <tr>
      <td:A1>
@@ -831,7 +831,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 10:11,15</p>
+   <p:RubricHidden><t>Jn 10:11,15</p>
    <table>
     <tr>
      <td:A1>
@@ -858,7 +858,7 @@
    <p:Head2>Feria Secunda</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mk 16:15, Mt 28:19</p>
+   <p:RubricHidden><t>Mk 16:15, Mt 28:19</p>
    <table>
     <tr>
      <td:A1>
@@ -870,7 +870,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 10:11,15</p>
+   <p:RubricHidden><t>Jn 10:11,15</p>
    <table>
     <tr>
      <td:A1>
@@ -885,7 +885,7 @@
    <p:Head2>Feria Tertia</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 28:19</p>
+   <p:RubricHidden><t>Mt 28:19</p>
    <table>
     <tr>
      <td:A1>
@@ -897,7 +897,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 10:12</p>
+   <p:RubricHidden><t>Jn 10:12</p>
    <table>
     <tr>
      <td:A1>
@@ -912,11 +912,11 @@
    <p:Head2>Feria Quarta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 28:10</p>
+   <p:RubricHidden><t>Mt 28:10</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Ite, nuntiáte * frátribus meis, allelúja: ut eant in Galilæam, allelúja: ibi me vidébunt, allelúja, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ite, nuntiáte * frátribus meis, allelúja: ut eant in Galilǽam, allelúja: ibi me vidébunt, allelúja, allelúja, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Go, tell * my brethren, alleluia: that they go into Galilee, alleluia: there they shall see me, alleluia, alleluia, alleluia.</p>
@@ -924,7 +924,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 10:12</p>
+   <p:RubricHidden><t>Jn 10:12</p>
    <table>
     <tr>
      <td:A1>
@@ -939,23 +939,23 @@
    <p:Head2>Feria Quinta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:18-20</p>
+   <p:RubricHidden><t>Lk 24:18-20</p>
    <table>
     <tr>
      <td:A1>
       <p:BodyL><sr>Ant. </s>Tu solus peregrínus es, * et non audísti de Jesu, quómodo tradidérunt eum in damnatiónem mortis? allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>Art thou only a stranger, * <text:s/>and hast not heard concerning Jesus, how they delivered him to be condemned to death? alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Art thou only a stranger, * and hast not heard concerning Jesus, how they delivered him to be condemned to death? alleluia.</p>
      </td>
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 10:16</p>
+   <p:RubricHidden><t>Jn 10:16</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Alias oves hábeo, * quæ non sunt ex hoc ovíli: et illas opórtet me addúcere, et vocem meam áudient: et fiet unum ovíle, et unus pastor, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Álias oves hábeo, * quæ non sunt ex hoc ovíli: et illas opórtet me addúcere, et vocem meam áudient: et fiet unum ovíle, et unus pastor, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Other sheep I have, * that are not of this fold: them also I must bring, and they shall hear my voice, and there shall be one fold and one shepherd, alleluia.</p>
@@ -966,7 +966,7 @@
    <p:Head2>Feria Sexta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:26</p>
+   <p:RubricHidden><t>Lk 24:26</p>
    <table>
     <tr>
      <td:A1>
@@ -978,7 +978,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 10:11,15</p>
+   <p:RubricHidden><t>Jn 10:11,15</p>
    <table>
     <tr>
      <td:A1>
@@ -1017,7 +1017,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:11</p>
+   <p:RubricHSm><t>1 Peter 2:11</p>
    <table>
     <tr>
      <td:A1>
@@ -1032,7 +1032,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:16</p>
+   <p:RubricHidden><t>Jn 16:16</p>
    <table>
     <tr>
      <td:A1>
@@ -1056,7 +1056,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:13-14</p>
+   <p:RubricHSm><t>1 Peter 2:13-14</p>
    <table>
     <tr>
      <td:A1>
@@ -1073,7 +1073,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:18-19</p>
+   <p:RubricHSm><t>1 Peter 2:18-19</p>
    <table>
     <tr>
      <td:A1>
@@ -1091,7 +1091,7 @@
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 2:11</p>
+   <p:RubricHSm><t>1 Peter 2:11</p>
    <table>
     <tr>
      <td:A1>
@@ -1106,7 +1106,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:20</p>
+   <p:RubricHidden><t>Jn 16:20</p>
    <table>
     <tr>
      <td:A1>
@@ -1133,7 +1133,7 @@
    <p:Head2>Feria Secunda</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:27</p>
+   <p:RubricHidden><t>Lk 24:27</p>
    <table>
     <tr>
      <td:A1>
@@ -1145,7 +1145,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:20,22</p>
+   <p:RubricHidden><t>Jn 16:20,22</p>
    <table>
     <tr>
      <td:A1>
@@ -1160,7 +1160,7 @@
    <p:Head2>Feria Tertia</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:29</p>
+   <p:RubricHidden><t>Lk 24:29</p>
    <table>
     <tr>
      <td:A1>
@@ -1172,7 +1172,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:6,22</p>
+   <p:RubricHidden><t>Jn 16:6,22</p>
    <table>
     <tr>
      <td:A1>
@@ -1187,7 +1187,7 @@
    <p:Head2>Feria Quarta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:29</p>
+   <p:RubricHidden><t>Lk 24:29</p>
    <table>
     <tr>
      <td:A1>
@@ -1213,7 +1213,7 @@
    <p:Head2>Feria Quinta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:29-30</p>
+   <p:RubricHidden><t>Lk 24:29-30</p>
    <table>
     <tr>
      <td:A1>
@@ -1225,7 +1225,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:20,22</p>
+   <p:RubricHidden><t>Jn 16:20,22</p>
    <table>
     <tr>
      <td:A1>
@@ -1240,7 +1240,7 @@
    <p:Head2>Feria Sexta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:35</p>
+   <p:RubricHidden><t>Lk 24:35</p>
    <table>
     <tr>
      <td:A1>
@@ -1252,7 +1252,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:20</p>
+   <p:RubricHidden><t>Jn 16:20</p>
    <table>
     <tr>
      <td:A1>
@@ -1280,7 +1280,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod præcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, you make the minds of the faithful to be of one will; grant to thy people to love that which you command, and to desire that which you promise; that amidst the changes of this world, our hearts may be fixed where there are true joys. Through our Lord.</p>
@@ -1291,7 +1291,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:17</p>
+   <p:RubricHSm><t>James 1:17</p>
    <table>
     <tr>
      <td:A1>
@@ -1306,7 +1306,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:5</p>
+   <p:RubricHidden><t>Jn 16:5</p>
    <table>
     <tr>
      <td:A1>
@@ -1330,7 +1330,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:19-20</p>
+   <p:RubricHSm><t>James 1:19-20</p>
    <table>
     <tr>
      <td:A1>
@@ -1347,7 +1347,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:21</p>
+   <p:RubricHSm><t>James 1:21</p>
    <table>
     <tr>
      <td:A1>
@@ -1365,7 +1365,7 @@
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:17</p>
+   <p:RubricHSm><t>James 1:17</p>
    <table>
     <tr>
      <td:A1>
@@ -1380,7 +1380,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:5-6</p>
+   <p:RubricHidden><t>Jn 16:5-6</p>
    <table>
     <tr>
      <td:A1>
@@ -1396,7 +1396,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod præcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, you make the minds of the faithful to be of one will; grant to thy people to love that which you command, and to desire that which you promise; that amidst the changes of this world, our hearts may be fixed where there are true joys. Through our Lord.</p>
@@ -1407,7 +1407,7 @@
    <p:Head2>Feria Secunda</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:32</p>
+   <p:RubricHidden><t>Lk 24:32</p>
    <table>
     <tr>
      <td:A1>
@@ -1419,7 +1419,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:7</p>
+   <p:RubricHidden><t>Jn 16:7</p>
    <table>
     <tr>
      <td:A1>
@@ -1434,7 +1434,7 @@
    <p:Head2>Feria Tertia</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:32</p>
+   <p:RubricHidden><t>Lk 24:32</p>
    <table>
     <tr>
      <td:A1>
@@ -1446,7 +1446,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:8</p>
+   <p:RubricHidden><t>Jn 16:8</p>
    <table>
     <tr>
      <td:A1>
@@ -1461,7 +1461,7 @@
    <p:Head2>Feria Quarta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:39</p>
+   <p:RubricHidden><t>Lk 24:39</p>
    <table>
     <tr>
      <td:A1>
@@ -1473,7 +1473,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:12</p>
+   <p:RubricHidden><t>Jn 16:12</p>
    <table>
     <tr>
      <td:A1>
@@ -1488,7 +1488,7 @@
    <p:Head2>Feria Quinta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:42</p>
+   <p:RubricHidden><t>Lk 24:42</p>
    <table>
     <tr>
      <td:A1>
@@ -1500,7 +1500,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:13</p>
+   <p:RubricHidden><t>Jn 16:13</p>
    <table>
     <tr>
      <td:A1>
@@ -1515,7 +1515,7 @@
    <p:Head2>Feria Sexta</p>
    <p:Head3>IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:41</p>
+   <p:RubricHidden><t>Lk 24:41</p>
    <table>
     <tr>
      <td:A1>
@@ -1527,7 +1527,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:5-6</p>
+   <p:RubricHidden><t>Jn 16:5-6</p>
    <table>
     <tr>
      <td:A1>
@@ -1566,7 +1566,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:22-24</p>
+   <p:RubricHSm><t>James 1:22-24</p>
    <table>
     <tr>
      <td:A1>
@@ -1581,7 +1581,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:24</p>
+   <p:RubricHidden><t>Jn 16:24</p>
    <table>
     <tr>
      <td:A1>
@@ -1605,7 +1605,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:25</p>
+   <p:RubricHSm><t>James 1:25</p>
    <table>
     <tr>
      <td:A1>
@@ -1622,11 +1622,11 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:27</p>
+   <p:RubricHSm><t>James 1:27</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>RELÍGIO munda et immaculáta apud Deum et Patrem, hæc est: Visitáre pupíllos et víduas in tribulatióne eórum, et immaculátum se custodíre ab hoc sæculo.</p>
+      <p:BodyLDrop>RELÍGIO munda et immaculáta apud Deum et Patrem, hæc est: Visitáre pupíllos et víduas in tribulatióne eórum, et immaculátum se custodíre ab hoc sǽculo.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -1640,7 +1640,7 @@
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>James 1:22-24</p>
+   <p:RubricHSm><t>James 1:22-24</p>
    <table>
     <tr>
      <td:A1>
@@ -1655,7 +1655,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Paschaltide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:24,27</p>
+   <p:RubricHidden><t>Jn 16:24,27</p>
    <table>
     <tr>
      <td:A1>
@@ -1686,11 +1686,11 @@
    <p:Head2>Feria Secunda</p>
    <p:Head3>in Rogationibus, IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 11:9</p>
+   <p:RubricHidden><t>Lk 11:9</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Pétite, et accipiétis: * quærite, et inveniétis: pulsáte, et aperiétur vobis, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Pétite, et accipiétis: * quǽrite, et inveniétis: pulsáte, et aperiétur vobis, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Ask, and you shall receive: * seek, and you shall find: knock, and it shall be opened to you, alleluia.</p>
@@ -1698,7 +1698,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:27</p>
+   <p:RubricHidden><t>Jn 16:27</p>
    <table>
     <tr>
      <td:A1>
@@ -1713,7 +1713,7 @@
    <p:Head2>Feria Tertia</p>
    <p:Head3>in Rogationibus, IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 24:46</p>
+   <p:RubricHidden><t>Lk 24:46</p>
    <table>
     <tr>
      <td:A1>
@@ -1725,7 +1725,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:28</p>
+   <p:RubricHidden><t>Jn 16:28</p>
    <table>
     <tr>
      <td:A1>
@@ -1740,7 +1740,7 @@
    <p:Head2>Feria Quarta - Vigilia Ascensionis</p>
    <p:Head3>in Rogationibus, IV classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 17:1,5</p>
+   <p:RubricHidden><t>Jn 17:1,5</p>
    <table>
     <tr>
      <td:A1>

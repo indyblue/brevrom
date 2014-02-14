@@ -11,7 +11,7 @@ Matrem Joánnis vísitat,
 Qui, clausus alvo, géstiens
 Adésse Christum núntiat.
 
-Verbum, quod ante sæcula
+Verbum, quod ante sǽcula
 E mente Patris pródiit,
 E Matris alvo Vírginis,
 Mortális Infans, náscitur.
@@ -29,4 +29,4 @@ Edisseréntem Fílium.
 Jesu, tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

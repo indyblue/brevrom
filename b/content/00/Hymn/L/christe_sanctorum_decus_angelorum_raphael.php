@@ -3,10 +3,10 @@ Rabanus Maurus
 
 Christe, sanctórum decus Angelórum,
 Gentis humánæ Sator et Redémptor,
-Cælitum nobis tríbuas beátas
+Cǽlitum nobis tríbuas beátas
 Scándere sedes.
 
-Angelus nostræ médicus salútis,
+Ángelus nostræ médicus salútis,
 Adsit e cælo Ráphaël, ut omnes
 Sanet ægrótos, dubiósque vitæ
 Dírigat actus.

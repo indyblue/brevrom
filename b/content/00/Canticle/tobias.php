@@ -1,6 +1,6 @@
 Cant Tobiæ
 ~<t>Tob. 13:1
-Magnus es, Dómine, in ætérnum, * et in ómnia sæcula regnum tuum:
+Magnus es, Dómine, in ætérnum, * et in ómnia sǽcula regnum tuum:
 Quóniam tu flagéllas, et salvas: dedúcis ad ínferos, et redúcis: * et non est qui effúgiat manum tuam.
 Confitémini Dómino, fílii Israël, * et in conspéctu géntium laudáte eum:
 Quóniam ídeo dispérsit vos inter gentes, quæ ignórant eum, * ut vos enarrétis mirabília ejus,

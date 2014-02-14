@@ -24,4 +24,4 @@ Sed nos pius tunc prótegat.
 Virtus, honor, laus, glória
 Deo Patri cum Fílio,
 Sancto simul Paráclito,
-In sæculórum sæcula. Amen.
+In sæculórum sǽcula. Amen.

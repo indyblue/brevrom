@@ -11,7 +11,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 6:16</p>
+   <p:RubricHidden><t>Mt 6:16</p>
    <table>
     <tr>
      <td:A1>
@@ -36,7 +36,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 6:20</p>
+   <p:RubricHidden><t>Mt 6:20</p>
    <table>
     <tr>
      <td:A1>
@@ -63,7 +63,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 8:6</p>
+   <p:RubricHidden><t>Mt 8:6</p>
    <table>
     <tr>
      <td:A1>
@@ -88,7 +88,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 8:8</p>
+   <p:RubricHidden><t>Mt 8:8</p>
    <table>
     <tr>
      <td:A1>
@@ -116,7 +116,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 6:3</p>
+   <p:RubricHidden><t>Mt 6:3</p>
    <table>
     <tr>
      <td:A1>
@@ -131,7 +131,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INCHOÁTA jejúnia, quæsumus, Dómine, benígno favóre proséquere: ut observántiam, quam corporáliter exhibémus, méntibus étiam sincéris exercére valeámus. Per Dóminum.</p>
+      <p:BodyLDrop>INCHOÁTA jejúnia, quǽsumus, Dómine, benígno favóre proséquere: ut observántiam, quam corporáliter exhibémus, méntibus étiam sincéris exercére valeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>FURTHER with thy gracious favor, we beseech thee, O Lord, the fasts which we have begun, that we may be able to practice the bodily fasts which we keep, with sincere minds. Through our Lord.</p>
@@ -141,7 +141,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 6:6</p>
+   <p:RubricHidden><t>Mt 6:6</p>
    <table>
     <tr>
      <td:A1>
@@ -168,7 +168,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Is 58:2</p>
+   <p:RubricHidden><t>Is 58:2</p>
    <table>
     <tr>
      <td:A1>
@@ -214,7 +214,7 @@
    <p:Head2>ad I Vésperas</p>
    <p:Rubric>Antiphons and psalms as in Saturday Vespers.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 6:1-2</p>
+   <p:RubricHSm><t>2 Cor. 6:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -229,7 +229,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Is 58:9</p>
+   <p:RubricHidden><t>Is 58:9</p>
    <table>
     <tr>
      <td:A1>
@@ -292,7 +292,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 4:1</p>
+   <p:RubricHidden><t>Mt 4:1</p>
    <table>
     <tr>
      <td:A1>
@@ -305,7 +305,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Primam</p>
-   <p:RubricHSm><text:tab/>Mt 4:2</p>
+   <p:RubricHSm><t>Mt 4:2</p>
    <table>
     <tr>
      <td:A1>
@@ -318,7 +318,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
-   <p:RubricHSm><text:tab/>Mt 4:5</p>
+   <p:RubricHSm><t>Mt 4:5</p>
    <table>
     <tr>
      <td:A1>
@@ -333,7 +333,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:RubricHSm><text:tab/>Mt 4:4</p>
+   <p:RubricHSm><t>Mt 4:4</p>
    <table>
     <tr>
      <td:A1>
@@ -345,7 +345,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 6:2-3</p>
+   <p:RubricHSm><t>2 Cor. 6:2-3</p>
    <table>
     <tr>
      <td:A1>
@@ -361,7 +361,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:RubricHSm><text:tab/>Mt 4:10</p>
+   <p:RubricHSm><t>Mt 4:10</p>
    <table>
     <tr>
      <td:A1>
@@ -373,7 +373,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 6:9-10</p>
+   <p:RubricHSm><t>2 Cor. 6:9-10</p>
    <table>
     <tr>
      <td:A1>
@@ -393,7 +393,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>II Cor 6:2</p>
+   <p:RubricHidden><t>II Cor 6:2</p>
    <table>
     <tr>
      <td:A1>
@@ -409,7 +409,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 25:34</p>
+   <p:RubricHidden><t>Mt 25:34</p>
    <table>
     <tr>
      <td:A1>
@@ -434,7 +434,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 25:40</p>
+   <p:RubricHidden><t>Mt 25:40</p>
    <table>
     <tr>
      <td:A1>
@@ -449,7 +449,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ABSÓLVE, quæsumus, Dómine, nostrórum víncula peccatórum: et, quidquid pro eis merémur, propitiátus avérte. Per Dóminum.</p>
+      <p:BodyLDrop>ABSÓLVE, quǽsumus, Dómine, nostrórum víncula peccatórum: et, quidquid pro eis merémur, propitiátus avérte. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LOOSEN, we beseech thee, O Lord, the bonds of our sins; and mercifully ward off whatsoever we deserve for them. Through our Lord.</p>
@@ -461,7 +461,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 21:12</p>
+   <p:RubricHidden><t>Mt 21:12</p>
    <table>
     <tr>
      <td:A1>
@@ -486,7 +486,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 19:46</p>
+   <p:RubricHidden><t>Lk 19:46</p>
    <table>
     <tr>
      <td:A1>
@@ -514,7 +514,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 12:39</p>
+   <p:RubricHidden><t>Mt 12:39</p>
    <table>
     <tr>
      <td:A1>
@@ -529,7 +529,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRECES nostras, quæsumus, Dómine, cleménter exáudi: et contra cuncta nobis adversántia déxteram tuæ majestátis exténde. Per Dóminum.</p>
+      <p:BodyLDrop>PRECES nostras, quǽsumus, Dómine, cleménter exáudi: et contra cuncta nobis adversántia déxteram tuæ majestátis exténde. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MERCIFULLY hear our prayers, we beseech thee, O Lord; and stretch forth the right hand of thy Majesty against all things opposed to us. Through our Lord.</p>
@@ -539,7 +539,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 12:40</p>
+   <p:RubricHidden><t>Mt 12:40</p>
    <table>
     <tr>
      <td:A1>
@@ -554,7 +554,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>MENTES nostras, quæsumus, Dómine, lúmine tuæ claritátis illústra: ut vidére possímus quæ agénda sunt; et, quæ recta sunt, ágere valeámus. Per Dóminum.</p>
+      <p:BodyLDrop>MENTES nostras, quǽsumus, Dómine, lúmine tuæ claritátis illústra: ut vidére possímus quæ agénda sunt; et, quæ recta sunt, ágere valeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>WE BESEECH thee, O LORD, illumine our minds with the light of thy brightness, that we may be able to see what things we ought to do and have strength to carry out such things as are rightful. Through our Lord.</p>
@@ -566,11 +566,11 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mat 15:21</p>
+   <p:RubricHidden><t>Mat 15:21</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Egréssus Jesus * secéssit in partes Tyri et Sidónis: et ecce múlier Chananæa a fínibus illis egréssa, clamábat dicens: Miserére mei, Fili David.</p>
+      <p:BodyL><sr>Ant. </s>Egréssus Jesus * secéssit in partes Tyri et Sidónis: et ecce múlier Chananǽa a fínibus illis egréssa, clamábat dicens: Miserére mei, Fili David.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>And Jesus went from thence * and retired into the coasts of Tyre and Sidon; And behold a woman of Canaan who came out of those coasts, crying out, said to him: “Have mercy on me, O thou Son of David!”</p>
@@ -581,7 +581,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEVOTIÓNEM pópuli tui, quæsumus, Dómine, benígnus inténde: ut, qui per abstinéntiam macerántur in córpore, per fructum boni óperis reficiántur in mente. Per Dóminum.</p>
+      <p:BodyLDrop>DEVOTIÓNEM pópuli tui, quǽsumus, Dómine, benígnus inténde: ut, qui per abstinéntiam macerántur in córpore, per fructum boni óperis reficiántur in mente. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LOOK down favorably, we beseech thee, O Lord, upon the devotion of thy people, that they, whose bodies are mortified by abstinence, may, by the fruit of good works, be refreshed in mind. Through our Lord.</p>
@@ -591,7 +591,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 15:28</p>
+   <p:RubricHidden><t>Mt 15:28</p>
    <table>
     <tr>
      <td:A1>
@@ -606,7 +606,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA, QUÆSUMUS, Dómine, pópulis christiánis: et, quæ profiténtur, agnóscere, et cæléste munus dilígere, quod frequéntant. Per Dóminum.</p>
+      <p:BodyLDrop>DA, QUǼSUMUS, Dómine, pópulis christiánis: et, quæ profiténtur, agnóscere, et cæléste munus dilígere, quod frequéntant. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Lord, to all Christian people, that they may acknowledge what they profess, and love the heavenly gift which they frequent. Through our Lord.</p>
@@ -619,7 +619,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 5:4</p>
+   <p:RubricHidden><t>Jn 5:4</p>
    <table>
     <tr>
      <td:A1>
@@ -644,7 +644,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 5:11</p>
+   <p:RubricHidden><t>Jn 5:11</p>
    <table>
     <tr>
      <td:A1>
@@ -673,7 +673,7 @@
    <p:Spacer/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 9:28, Mt 17:2</p>
+   <p:RubricHidden><t>Lk 9:28, Mt 17:2</p>
    <table>
     <tr>
      <td:A1>
@@ -688,7 +688,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PÓPULUM tuum, quæsumus, Dómine, propítius réspice: atque ab eo flagélla tuæ iracúndiæ cleménter avérte. Per Dóminum.</p>
+      <p:BodyLDrop>PÓPULUM tuum, quǽsumus, Dómine, propítius réspice: atque ab eo flagélla tuæ iracúndiæ cleménter avérte. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LOOK down favorably upon thy people, we beseech thee, O Lord, and mercifully turn away from them the scourges of thy wrath. Through our Lord.</p>
@@ -719,7 +719,7 @@
    <p:Head2>ad I Vésperas</p>
    <p:Rubric>Antiphons and psalms as in Saturday Vespers</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Thess. 4:1</p>
+   <p:RubricHSm><t>1 Thess. 4:1</p>
    <table>
     <tr>
      <td:A1>
@@ -734,7 +734,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 17:9</p>
+   <p:RubricHidden><t>Mt 17:9</p>
    <table>
     <tr>
      <td:A1>
@@ -786,7 +786,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Státuit ea * in ætérnum, et in sæculum sæculi: præcéptum pósuit, et non præteríbit.</p>
+      <p:BodyL><sr>Ant 5. </s>Státuit ea * in ætérnum, et in sǽculum sǽculi: præcéptum pósuit, et non præteríbit.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 5. </s>He has established them * for ever, and for ages of ages: he hath made a decree, and it shall not pass away.</p>
@@ -796,7 +796,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 17:1</p>
+   <p:RubricHidden><t>Mt 17:1</p>
    <table>
     <tr>
      <td:A1>
@@ -809,7 +809,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Primam</p>
-   <p:RubricHSm><text:tab/>Mt 17:4</p>
+   <p:RubricHSm><t>Mt 17:4</p>
    <table>
     <tr>
      <td:A1>
@@ -827,7 +827,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:RubricHSm><text:tab/>Mt 17:4</p>
+   <p:RubricHSm><t>Mt 17:4</p>
    <table>
     <tr>
      <td:A1>
@@ -839,7 +839,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Thess. 4:3-4</p>
+   <p:RubricHSm><t>1 Thess. 4:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -855,7 +855,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:RubricHSm><text:tab/>Mt 17:9</p>
+   <p:RubricHSm><t>Mt 17:9</p>
    <table>
     <tr>
      <td:A1>
@@ -867,7 +867,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Thess. 4:7</p>
+   <p:RubricHSm><t>1 Thess. 4:7</p>
    <table>
     <tr>
      <td:A1>
@@ -887,7 +887,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 17:9</p>
+   <p:RubricHidden><t>Mt 17:9</p>
    <table>
     <tr>
      <td:A1>
@@ -903,7 +903,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 8:25</p>
+   <p:RubricHidden><t>Jn 8:25</p>
    <table>
     <tr>
      <td:A1>
@@ -918,7 +918,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut família tua, quæ se, affligéndo carnem, ab aliméntis ábstinet, sectándo justítiam, a culpa jejúnet. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut família tua, quæ se, affligéndo carnem, ab aliméntis ábstinet, sectándo justítiam, a culpa jejúnet. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that thy family, that as they abstain from meals to afflict the flesh; so by following after righteousness they may fast from sin. Through our Lord.</p>
@@ -928,7 +928,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 8:29</p>
+   <p:RubricHidden><t>Jn 8:29</p>
    <table>
     <tr>
      <td:A1>
@@ -955,7 +955,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 23:8</p>
+   <p:RubricHidden><t>Mt 23:8</p>
    <table>
     <tr>
      <td:A1>
@@ -970,7 +970,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PÉRFICE, quæsumus, Dómine, benígnus in nobis observántiæ sanctæ subsídium: ut, quæ te auctóre faciénda cognóvimus, te operánte impleámus. Per Dóminum.</p>
+      <p:BodyLDrop>PÉRFICE, quǽsumus, Dómine, benígnus in nobis observántiæ sanctæ subsídium: ut, quæ te auctóre faciénda cognóvimus, te operánte impleámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>ENABLE us, we beseech thee, O Lord, to carry to a perfect end this holy and helpful observance, that what we know we must do by thy ordinance we may be helped to do by thy strength. Through our Lord.</p>
@@ -980,7 +980,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 23:8</p>
+   <p:RubricHidden><t>Mt 23:8</p>
    <table>
     <tr>
      <td:A1>
@@ -1008,7 +1008,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 20:18</p>
+   <p:RubricHidden><t>Mt 20:18</p>
    <table>
     <tr>
      <td:A1>
@@ -1023,7 +1023,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PÓPULUM tuum, quæsumus, Dómine, propítius réspice: et quos ab escis carnálibus præcipis abstinére, a nóxiis quoque vítiis cessáre concéde. Per Dóminum.</p>
+      <p:BodyLDrop>PÓPULUM tuum, quǽsumus, Dómine, propítius réspice: et quos ab escis carnálibus prǽcipis abstinére, a nóxiis quoque vítiis cessáre concéde. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LOOK down in mercy on your people, we beseech thee, O Lord, and grant unto them, whom thou commandest to abstain from fleshly meats, power to abstain also from the corruption of sin. Through our Lord.</p>
@@ -1033,7 +1033,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 20:19</p>
+   <p:RubricHidden><t>Mt 20:19</p>
    <table>
     <tr>
      <td:A1>
@@ -1060,7 +1060,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 16:25</p>
+   <p:RubricHidden><t>Lk 16:25</p>
    <table>
     <tr>
      <td:A1>
@@ -1075,7 +1075,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA nobis, quæsumus, Dómine, auxílium grátiæ tuæ: ut jejúniis et oratiónibus conveniénter inténti, liberémur ab hóstibus mentis et córporis. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA nobis, quǽsumus, Dómine, auxílium grátiæ tuæ: ut jejúniis et oratiónibus conveniénter inténti, liberémur ab hóstibus mentis et córporis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT unto us, we beseech thee, O Lord, the help of thy grace, that we, who are now bent on fasting and prayer, may be freed from enemies both of our bodies and of our souls. Through our Lord.</p>
@@ -1112,7 +1112,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 21:41</p>
+   <p:RubricHidden><t>Mt 21:41</p>
    <table>
     <tr>
      <td:A1>
@@ -1127,7 +1127,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA, QUÆSUMUS, omnípotens Deus: ut, sacro nos purificánte jejúnio, sincéris méntibus ad sancta ventúra fácias perveníre. Per Dóminum.</p>
+      <p:BodyLDrop>DA, QUǼSUMUS, omnípotens Deus: ut, sacro nos purificánte jejúnio, sincéris méntibus ad sancta ventúra fácias perveníre. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that the Sacred Fast may so cleanse us that thereby thou mayest make us to come with clean hearts unto those holy ordinances which are now before us. Through our Lord.</p>
@@ -1137,7 +1137,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 21:41</p>
+   <p:RubricHidden><t>Mt 21:41</p>
    <table>
     <tr>
      <td:A1>
@@ -1152,7 +1152,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA, QUÆSUMUS, Dómine, pópulo tuo salútem mentis et córporis: ut bonis opéribus inhæréndo, tuæ semper virtútis mereátur protectióne deféndi. Per Dóminum.</p>
+      <p:BodyLDrop>DA, QUǼSUMUS, Dómine, pópulo tuo salútem mentis et córporis: ut bonis opéribus inhæréndo, tuæ semper virtútis mereátur protectióne deféndi. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT to thy people, we beseech thee, O Lord, soundness both of mind and body, that they, cleaving ever unto good works, may evermore be worthily defended by the shield of thine Almighty arm. Through our Lord.</p>
@@ -1164,7 +1164,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 15:17</p>
+   <p:RubricHidden><t>Lk 15:17</p>
    <table>
     <tr>
      <td:A1>
@@ -1179,7 +1179,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA, QUÆSUMUS, Dómine, nostris efféctum jejúniis salutárem: ut castigátio carnis assúmpta, ad nostrárum vegetatiónem tránseat animárum. Per Dóminum.</p>
+      <p:BodyLDrop>DA, QUǼSUMUS, Dómine, nostris efféctum jejúniis salutárem: ut castigátio carnis assúmpta, ad nostrárum vegetatiónem tránseat animárum. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Lord, that our Fasts may bring forth their fruit unto salvation, that so the affliction which we lay upon our bodies may quicken our souls unto spiritual increase. Through our Lord.</p>
@@ -1199,7 +1199,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>QUÆSUMUS, omnípotens Deus, vota humílium réspice: atque ad defensiónem nostram, déxteram tuæ majestátis exténde. Per Dóminum.</p>
+      <p:BodyLDrop>QUǼSUMUS, omnípotens Deus, vota humílium réspice: atque ad defensiónem nostram, déxteram tuæ majestátis exténde. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>WE BESEECH thee, almighty God, look upon the hearty desires of thy humble servants, and stretch forth the right hand of thy Majesty to be our defense against all our enemies. Through our Lord.</p>
@@ -1210,7 +1210,7 @@
    <p:Head2>ad I Vésperas</p>
    <p:Rubric>Antiphons and psalms as in Saturday Vespers</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Eph. 5:1-2</p>
+   <p:RubricHSm><t>Eph. 5:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -1225,7 +1225,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 15:22</p>
+   <p:RubricHidden><t>Lk 15:22</p>
    <table>
     <tr>
      <td:A1>
@@ -1261,7 +1261,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Adhæsit ánima mea * post te, Deus meus.</p>
+      <p:BodyL><sr>Ant 3. </s>Adhǽsit ánima mea * post te, Deus meus.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 3. </s>My soul hath stuck * close to thee, my God.</p>
@@ -1269,7 +1269,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Vim virtútis suæ * oblítus est ignis: ut púeri tui liberaréntur illæsi.</p>
+      <p:BodyL><sr>Ant 4. </s>Vim virtútis suæ * oblítus est ignis: ut púeri tui liberaréntur illǽsi.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 4. </s>The fire forgot his strength, * that thy children might be delivered therefrom.</p>
@@ -1287,7 +1287,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 11:21</p>
+   <p:RubricHidden><t>Lk 11:21</p>
    <table>
     <tr>
      <td:A1>
@@ -1300,7 +1300,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Primam</p>
-   <p:RubricHSm><text:tab/>Lk 11:13</p>
+   <p:RubricHSm><t>Lk 11:13</p>
    <table>
     <tr>
      <td:A1>
@@ -1313,7 +1313,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
-   <p:RubricHSm><text:tab/>Lk 11:20</p>
+   <p:RubricHSm><t>Lk 11:20</p>
    <table>
     <tr>
      <td:A1>
@@ -1328,7 +1328,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:RubricHSm><text:tab/>Lk 11:23</p>
+   <p:RubricHSm><t>Lk 11:23</p>
    <table>
     <tr>
      <td:A1>
@@ -1340,7 +1340,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Eph. 5:5</p>
+   <p:RubricHSm><t>Eph. 5:5</p>
    <table>
     <tr>
      <td:A1>
@@ -1356,7 +1356,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:RubricHSm><text:tab/>Lk 11:24</p>
+   <p:RubricHSm><t>Lk 11:24</p>
    <table>
     <tr>
      <td:A1>
@@ -1368,7 +1368,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Eph. 5:8-9</p>
+   <p:RubricHSm><t>Eph. 5:8-9</p>
    <table>
     <tr>
      <td:A1>
@@ -1388,7 +1388,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 11:27</p>
+   <p:RubricHidden><t>Lk 11:27</p>
    <table>
     <tr>
      <td:A1>
@@ -1404,7 +1404,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 4:24</p>
+   <p:RubricHidden><t>Lk 4:24</p>
    <table>
     <tr>
      <td:A1>
@@ -1419,7 +1419,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CÓRDIBUS nostris, quæsumus, Dómine, grátiam tuam benígnus infúnde: ut, sicut ab escis carnálibus abstinémus; ita sensus quoque nostros a nóxiis retrahámus excéssibus. Per Dóminum.</p>
+      <p:BodyLDrop>CÓRDIBUS nostris, quǽsumus, Dómine, grátiam tuam benígnus infúnde: ut, sicut ab escis carnálibus abstinémus; ita sensus quoque nostros a nóxiis retrahámus excéssibus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O LORD, we beseech thee mercifully to shed abroad thy grace into our hearts, that we who are now denying carnal meats to our bodily cravings, may have power likewise to withhold from the same all yielding to the deathful lusts of sin. Through our Lord.</p>
@@ -1429,7 +1429,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 4:30</p>
+   <p:RubricHidden><t>Lk 4:30</p>
    <table>
     <tr>
      <td:A1>
@@ -1456,7 +1456,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 18:19</p>
+   <p:RubricHidden><t>Mt 18:19</p>
    <table>
     <tr>
      <td:A1>
@@ -1481,7 +1481,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 18:20</p>
+   <p:RubricHidden><t>Mt 18:20</p>
    <table>
     <tr>
      <td:A1>
@@ -1509,7 +1509,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 15:10</p>
+   <p:RubricHidden><t>Mt 15:10</p>
    <table>
     <tr>
      <td:A1>
@@ -1524,7 +1524,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA nobis, quæsumus, Dómine: ut salutáribus jejúniis erudíti, a nóxiis quoque vítiis abstinéntes, propitiatiónem tuam facílius impetrémus. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA nobis, quǽsumus, Dómine: ut salutáribus jejúniis erudíti, a nóxiis quoque vítiis abstinéntes, propitiatiónem tuam facílius impetrémus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT unto us, we beseech thee, O Lord, that we, being purged by healthful Fasting, and mortified to all sinful lusts, may the more speedily obtain of thee forgiveness. Through our Lord.</p>
@@ -1534,7 +1534,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 15:20</p>
+   <p:RubricHidden><t>Mt 15:20</p>
    <table>
     <tr>
      <td:A1>
@@ -1549,7 +1549,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut, qui protectiónis tuæ grátiam quærimus, liberáti a malis ómnibus, secúra tibi mente serviámus. Per Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut, qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT unto us, we beseech thee, O Almighty God, that we who seek the shelter of thy protection, being defended from all evils, may serve thee in peace and quietness of spirit. Through our Lord.</p>
@@ -1561,7 +1561,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 4:41</p>
+   <p:RubricHidden><t>Lk 4:41</p>
    <table>
     <tr>
      <td:A1>
@@ -1586,7 +1586,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 4:40</p>
+   <p:RubricHidden><t>Lk 4:40</p>
    <table>
     <tr>
      <td:A1>
@@ -1601,7 +1601,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>SUBJÉCTUM tibi pópulum, quæsumus, Dómine propitiátio cæléstis amplíficet: et tuis semper fáciat servíre mandátis. Per Dóminum.</p>
+      <p:BodyLDrop>SUBJÉCTUM tibi pópulum, quǽsumus, Dómine propitiátio cæléstis amplíficet: et tuis semper fáciat servíre mandátis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LET THY divine pardon, we beseech thee, O Lord, flow bountifully upon thy people bowed down before thee, and make them to be ever obedient to thy commandments. Through our Lord.</p>
@@ -1614,7 +1614,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 4:13</p>
+   <p:RubricHidden><t>Jn 4:13</p>
    <table>
     <tr>
      <td:A1>
@@ -1629,7 +1629,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>JEJÚNIA nostra, quæsumus, Dómine, benígno favóre proséquere: ut, sicut ab aliméntis abstinémus in córpore; ita a vítiis jejunémus in mente. Per Dóminum.</p>
+      <p:BodyLDrop>JEJÚNIA nostra, quǽsumus, Dómine, benígno favóre proséquere: ut, sicut ab aliméntis abstinémus in córpore; ita a vítiis jejunémus in mente. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LORD, we beseech the graciously to bless this our Fast, that we who are now outwardly denying meats to our bodies, may have power inwardly to keep our souls fasting from all sin. Through our Lord.</p>
@@ -1639,7 +1639,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 4:19</p>
+   <p:RubricHidden><t>Jn 4:19</p>
    <table>
     <tr>
      <td:A1>
@@ -1654,7 +1654,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut, qui in tua protectióne confídimus, cuncta nobis adversántia te adjuvánte vincámus. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut, qui in tua protectióne confídimus, cuncta nobis adversántia te adjuvánte vincámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that we whose trust is under the shadow of thy wings, may, through the help of thy power, overcome all evils that rise up against us. Through our Lord.</p>
@@ -1666,7 +1666,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 8:6</p>
+   <p:RubricHidden><t>Jn 8:6</p>
    <table>
     <tr>
      <td:A1>
@@ -1681,7 +1681,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut, qui se, affligéndo carnem, ab aliméntis ábstinent; sectándo justítiam a culpa jejúnent. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut, qui se, affligéndo carnem, ab aliméntis ábstinent; sectándo justítiam a culpa jejúnent. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that as many as, to afflict the body, do abstain from meats, may, by following after righteousness, fast from sin. Through our Lord.</p>
@@ -1701,7 +1701,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut, qui ex mérito nostræ actiónis afflígimur, tuæ grátiæ consolatióne respirémus. Per Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut, qui ex mérito nostræ actiónis afflígimur, tuæ grátiæ consolatióne respirémus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, Almighty God, that we who for our evil deeds are worthily punished, may, by the comfort of thy grace, mercifully be relieved. Through our Lord.</p>
@@ -1712,7 +1712,7 @@
    <p:Head2>ad I Vésperas</p>
    <p:Rubric>Antiphons and psalms as in Saturday Vespers</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Gal. 4:22-24</p>
+   <p:RubricHSm><t>Gal. 4:22-24</p>
    <table>
     <tr>
      <td:A1>
@@ -1727,7 +1727,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 8:10</p>
+   <p:RubricHidden><t>Jn 8:10</p>
    <table>
     <tr>
      <td:A1>
@@ -1789,7 +1789,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 6:5</p>
+   <p:RubricHidden><t>Jn 6:5</p>
    <table>
     <tr>
      <td:A1>
@@ -1802,7 +1802,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Primam</p>
-   <p:RubricHSm><text:tab/>Jn 6:11</p>
+   <p:RubricHSm><t>Jn 6:11</p>
    <table>
     <tr>
      <td:A1>
@@ -1815,7 +1815,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
-   <p:RubricHSm><text:tab/>Jn 6:9</p>
+   <p:RubricHSm><t>Jn 6:9</p>
    <table>
     <tr>
      <td:A1>
@@ -1830,7 +1830,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:RubricHSm><text:tab/>Jn 6:9</p>
+   <p:RubricHSm><t>Jn 6:9</p>
    <table>
     <tr>
      <td:A1>
@@ -1842,7 +1842,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Gal. 4:27</p>
+   <p:RubricHSm><t>Gal. 4:27</p>
    <table>
     <tr>
      <td:A1>
@@ -1858,7 +1858,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Lent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:RubricHSm><text:tab/>Jn 6:14</p>
+   <p:RubricHSm><t>Jn 6:14</p>
    <table>
     <tr>
      <td:A1>
@@ -1870,11 +1870,11 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Gal. 4:31</p>
+   <p:RubricHSm><t>Gal. 4:31</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ITAQUE, fratres, non sumus ancíllæ fílii, sed líberæ: qua libertáte Christus nos liberávit.</p>
+      <p:BodyLDrop>ÍTAQUE, fratres, non sumus ancíllæ fílii, sed líberæ: qua libertáte Christus nos liberávit.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -1890,7 +1890,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Lent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 6:3</p>
+   <p:RubricHidden><t>Jn 6:3</p>
    <table>
     <tr>
      <td:A1>
@@ -1906,7 +1906,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 2:16</p>
+   <p:RubricHidden><t>Jn 2:16</p>
    <table>
     <tr>
      <td:A1>
@@ -1921,7 +1921,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut observatiónes sacras ánnua devotióne recoléntes, et córpore tibi placeámus, et mente. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut observatiónes sacras ánnua devotióne recoléntes, et córpore tibi placeámus, et mente. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that we who year by year do prayerfully renew the holy observance of this thy great Fast, may be acceptable in thy sight, in both our bodies and our souls. Through our Lord.</p>
@@ -1931,7 +1931,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 2:19</p>
+   <p:RubricHidden><t>Jn 2:19</p>
    <table>
     <tr>
      <td:A1>
@@ -1946,7 +1946,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEPRECATIÓNEM nostram, quæsumus, Dómine, benígnus exáudi: et, quibus supplicándi præstas afféctum, tríbue defensiónis auxílium. Per Dóminum.</p>
+      <p:BodyLDrop>DEPRECATIÓNEM nostram, quǽsumus, Dómine, benígnus exáudi: et, quibus supplicándi præstas afféctum, tríbue defensiónis auxílium. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O LORD, we beseech thee, graciously hear our supplications, and evermore help and defend all them to whom thou hast given the mind to pray. Through our Lord.</p>
@@ -1958,11 +1958,11 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 7:20</p>
+   <p:RubricHidden><t>Jn 7:20</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Quid me quæritis * interfícere, hóminem qui vera locútus sum vobis?</p>
+      <p:BodyL><sr>Ant. </s>Quid me quǽritis * interfícere, hóminem qui vera locútus sum vobis?</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Why seek you to kill me, * a man who has spoken the truth to thee?</p>
@@ -1973,7 +1973,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>SACRÆ nobis, quæsumus, Dómine, observatiónis jejúnia: et piæ conversatiónis augméntum, et tuæ propitiatiónis contínuum præstent auxílium. Per Dóminum.</p>
+      <p:BodyLDrop>SACRÆ nobis, quǽsumus, Dómine, observatiónis jejúnia: et piæ conversatiónis augméntum, et tuæ propitiatiónis contínuum præstent auxílium. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O LORD, we beseech thee that the observance of this holy fast may avail us both to the increase of godliness in our conversation, and the establishing upon us of the help of thy mercy. Through our Lord.</p>
@@ -1983,7 +1983,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 7:30</p>
+   <p:RubricHidden><t>Jn 7:30</p>
    <table>
     <tr>
      <td:A1>
@@ -2011,7 +2011,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 9:2</p>
+   <p:RubricHidden><t>Jn 9:2</p>
    <table>
     <tr>
      <td:A1>
@@ -2026,7 +2026,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui et justis præmia meritórum, et peccatóribus per jejúnium véniam præbes: miserére supplícibus tuis; ut reátus nostri conféssio indulgéntiam váleat percípere delictórum. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui et justis prǽmia meritórum, et peccatóribus per jejúnium véniam præbes: miserére supplícibus tuis; ut reátus nostri conféssio indulgéntiam váleat percípere delictórum. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who by means of fasting dost give unto the righteous the reward of their good works, and unto sinners pardon; have mercy upon us, we beseech thee, and grant that we, humbly confessing our guiltiness, may so be enabled to obtain thy forgiveness. Through our Lord.</p>
@@ -2036,7 +2036,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 9:11</p>
+   <p:RubricHidden><t>Jn 9:11</p>
    <table>
     <tr>
      <td:A1>
@@ -2063,7 +2063,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 7:11</p>
+   <p:RubricHidden><t>Lk 7:11</p>
    <table>
     <tr>
      <td:A1>
@@ -2078,7 +2078,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut, quos jejúnia votíva castígant, ipsa quoque devótio sancta lætíficet; ut, terrénis afféctibus mitigátis, facílius cæléstia capiámus. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut, quos jejúnia votíva castígant, ipsa quoque devótio sancta lætíficet; ut, terrénis afféctibus mitigátis, facílius cæléstia capiámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, that we who are chastened by this hallowed fast, may be gladdened by holy earnestness, and that as earthly attractions grow dimmer, heavenly things may grow clearer. Through our Lord.</p>
@@ -2088,7 +2088,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 7:16</p>
+   <p:RubricHidden><t>Lk 7:16</p>
    <table>
     <tr>
      <td:A1>
@@ -2116,7 +2116,7 @@
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 11:10</p>
+   <p:RubricHidden><t>Jn 11:10</p>
    <table>
     <tr>
      <td:A1>
@@ -2131,7 +2131,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui ineffabílibus mundum rénovas sacraméntis: præsta, quæsumus; ut Ecclésia tua et ætérnis profíciat institútis, et temporálibus non destituátur auxíliis. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui ineffabílibus mundum rénovas sacraméntis: præsta, quǽsumus; ut Ecclésia tua et ætérnis profíciat institútis, et temporálibus non destituátur auxíliis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who dost quicken the whole world anew by thine unspeakable Sacraments, grant, we beseech thee, that thy Church may both profit by the eternal things thou hast instituted, and not be without help in temporal things. Through our Lord.</p>
@@ -2141,7 +2141,7 @@
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 11:21</p>
+   <p:RubricHidden><t>Jn 11:21</p>
    <table>
     <tr>
      <td:A1>
@@ -2156,7 +2156,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA NOBIS, quæsumus, omnípotens Deus: ut, qui infirmitátis nostræ cónscii, de tua virtúte confídimus, sub tua semper pietáte gaudeámus. Per Dóminum.</p>
+      <p:BodyLDrop>DA NOBIS, quǽsumus, omnípotens Deus: ut, qui infirmitátis nostræ cónscii, de tua virtúte confídimus, sub tua semper pietáte gaudeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, O Almighty God, unto all us who know we are weak, and who trust in thy strength, the help of thy loving-kindness, both here in time and hereafter in eternity. Through our Lord.</p>
@@ -2168,7 +2168,7 @@
    <p:Head3>III classis</p>
    <p:Head2>ad Laudes</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 8:12</p>
+   <p:RubricHidden><t>Jn 8:12</p>
    <table>
     <tr>
      <td:A1>
@@ -2183,7 +2183,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>FIAT, Dómine, quæsumus, per grátiam tuam fructuósus nostræ devotiónis afféctus: quia tunc nobis prodérunt suscépta jejúnia, si tuæ sint plácita pietáti. Per Dóminum.</p>
+      <p:BodyLDrop>FIAT, Dómine, quǽsumus, per grátiam tuam fructuósus nostræ devotiónis afféctus: quia tunc nobis prodérunt suscépta jejúnia, si tuæ sint plácita pietáti. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAKE fruitful, O Lord, we beseech thee, the toil of this our godly exercise; since it shall avail us nothing to have fasted, if our fast be not pleasing in thy most gracious sight. Through our Lord.</p>

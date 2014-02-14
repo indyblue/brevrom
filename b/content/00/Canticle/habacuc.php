@@ -8,7 +8,7 @@ Opéruit cælos glória ejus: * et laudis ejus plena est terra.
 Splendor ejus ut lux erit: * córnua in mánibus ejus:
 Ibi abscóndita est fortitúdo ejus: * ante fáciem ejus ibit mors.
 Et egrediétur diábolus ante pedes ejus. * Stetit, et mensus est terram.
-Aspéxit, et dissólvit gentes: * et contríti sunt montes sæculi.
+Aspéxit, et dissólvit gentes: * et contríti sunt montes sǽculi.
 Incurváti sunt colles mundi, * ab itinéribus æternitátis ejus.
 Pro iniquitáte vidi tentória Æthiópiæ, * turbabúntur pelles terræ Mádian.
 Numquid in flumínibus irátus es, Dómine? * aut in flumínibus furor tuus? vel in mari indignátio tua?

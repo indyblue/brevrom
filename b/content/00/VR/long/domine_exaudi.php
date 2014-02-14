@@ -1,4 +1,4 @@
-	<p:RubricHidden><text:tab/>Ps 101:2</p>
+	<p:RubricHidden><t>Ps 101:2</p>
 	<table>
     <tr>
      <td:A1>

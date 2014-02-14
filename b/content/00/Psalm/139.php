@@ -1,6 +1,6 @@
 Ps 139. Éripe me, Dómine
-Eripe me, Dómine, ab hómine malo: * a viro iníquo éripe me.
-Qui cogitavérunt iniquitátes in corde: * tota die constituébant prælia.
+Éripe me, Dómine, ab hómine malo: * a viro iníquo éripe me.
+Qui cogitavérunt iniquitátes in corde: * tota die constituébant prǽlia.
 Acuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.
 Custódi me, Dómine, de manu peccatóris: * et ab homínibus iníquis éripe me.
 Qui cogitavérunt supplantáre gressus meos: * abscondérunt supérbi láqueum mihi:

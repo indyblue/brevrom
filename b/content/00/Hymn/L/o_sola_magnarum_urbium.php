@@ -3,7 +3,7 @@ Prudentius
 
 O sola magnárum úrbium
 Major Bethlem, cui cóntigit
-Ducem salútis cælitus
+Ducem salútis cǽlitus
 Incorporátum gígnere.
 
 Quem stella, quæ solis rotam
@@ -18,10 +18,10 @@ Thus, myrrham, et aurum régium.
 
 Regem Deúmque annúntiant
 Thesáuris, et fragrans odor
-Thuris Sabæi, ac myrrheus
-Pulvis sepúlcrum prædocet.
+Thuris Sabǽi, ac myrrheus
+Pulvis sepúlcrum prǽdocet.
 
 Jesu tibi sit glória,
 Qui apparuísti Géntibus,
 Cum Patre, et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

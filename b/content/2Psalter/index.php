@@ -141,7 +141,7 @@
       <p:BodyLIndent>Exsúrge, Dómine, non confortétur homo: * judicéntur Gentes in conspéctu tuo.</p>
      </td>
      <td:B1>
-      <p:BodyEIndent><text:s/>Arise, O Lord, let not man be strengthened: * let the Gentiles be judged in thy sight.</p>
+      <p:BodyEIndent>Arise, O Lord, let not man be strengthened: * let the Gentiles be judged in thy sight.</p>
      </td>
     </tr>
     <tr>
@@ -255,7 +255,7 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('PsSuL1'); ?>
+<?php bookmark('PsSuL1'); ?>
 <?php psalm('092.php'); ?>
    <p:Spacer/>
    <table>
@@ -360,11 +360,11 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rev 7:12</p>
+   <p:RubricHSm><t>Rev 7:12</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>BENEDÍCTIO, et cláritas, et sapiéntia, et gratiárum áctio, honor, virtus, et fortitúdo Deo nostro in sæcula sæculórum. Amen.</p>
+      <p:BodyLDrop>BENEDÍCTIO, et cláritas, et sapiéntia, et gratiárum áctio, honor, virtus, et fortitúdo Deo nostro in sǽcula sæculórum. Amen.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -376,12 +376,12 @@
    <p:Head2>Hymn and Verse</p>
 <?php hymn('aeterne_rerum_conditor.php'); ?>
 <?php hymn('ecce_jam_noctis_tenuatur_umbra.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 92:1</p>
+   <p:RubricHidden><t>Ps 92:1</p>
    <table>
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Dóminus regnávit, decórem índuit.</p>
-      <p:BodyL><s:VR>R. </s>Induit Dóminus fortitúdinem, et præcínxit se virtúte.</p>
+      <p:BodyL><s:VR>R. </s>Índuit Dóminus fortitúdinem, et præcínxit se virtúte.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>The Lord hath reigned, he is clothed with beauty.</p>
@@ -396,7 +396,7 @@
    <p:Hidden2>Lauds II</p>
    <p:Head1>Domínica ad Laudes II</p>
    <p:Rubric>Antiphons given in Proper of Seasons</p>
-<?php echo bookmark('PsSuL2'); ?>
+<?php bookmark('PsSuL2'); ?>
 <?php psalm('050.php'); ?>
 <?php psalm('117.php'); ?>
 <?php psalm('062.php'); ?>
@@ -417,7 +417,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Allelúja, * confitémini Dómino quóniam in sæculum misericórdia ejus, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, * confitémini Dómino quóniam in sǽculum misericórdia ejus, allelúja, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Alleluia, * give praise to the Lord, for his mercy endureth forever, alleluia, alleluia.</p>
@@ -435,7 +435,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Allelúja, confitémini Dómino quóniam in sæculum misericórdia ejus, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, confitémini Dómino quóniam in sǽculum misericórdia ejus, allelúja, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Alleluia, give praise to the Lord, for his mercy endureth forever, alleluia, alleluia.</p>
@@ -473,7 +473,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 John 4:16</p>
+   <p:RubricHSm><t>1 John 4:16</p>
    <table>
     <tr>
      <td:A1>
@@ -487,7 +487,7 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 118:36, 40:5</p>
+   <p:RubricHidden><t>Ps 118:36, 40:5</p>
    <table>
     <tr>
      <td:A1>
@@ -585,7 +585,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Gal. 6:2</p>
+   <p:RubricHSm><t>Gal. 6:2</p>
    <table>
     <tr>
      <td:A1>
@@ -599,7 +599,7 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 118:89, 22:1</p>
+   <p:RubricHidden><t>Ps 118:89, 22:1</p>
    <table>
     <tr>
      <td:A1>
@@ -619,7 +619,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>In sæculum sæculi véritas tua.</p>
+      <p:BodyL><s:VR>V. </s>In sǽculum sǽculi véritas tua.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Thy truth for ever and ever.</p>
@@ -697,7 +697,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 6:20</p>
+   <p:RubricHSm><t>1 Cor. 6:20</p>
    <table>
     <tr>
      <td:A1>
@@ -711,7 +711,7 @@
     </tr>
    </table>
    <p:Head2>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 118:145, 18:13</p>
+   <p:RubricHidden><t>Ps 118:145, 18:13</p>
    <table>
     <tr>
      <td:A1>
@@ -795,7 +795,7 @@
     </tr>
    </table>
    <p:Rubric>The antiphon is not repeated in the psalm. This is always the case when the antiphon begins with the words of the psalm or canticle. The Psalm or canticle begins from the point that the antiphon stops, and no Alleluia is added to the antiphon.</p>
-<?php echo bookmark('PsSuV'); ?>
+<?php bookmark('PsSuV'); ?>
 <?php psalm('109.php',0,1); ?>
    <p:Spacer/>
    <table>
@@ -849,7 +849,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Sit nomen Dómini * benedíctum in sæcula.</p>
+      <p:BodyL><sr>Ant 4. </s>Sit nomen Dómini * benedíctum in sǽcula.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 4. </s>Blessed be the name * of the Lord forever.</p>
@@ -861,7 +861,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Sit nomen Dómini benedíctum in sæcula.</p>
+      <p:BodyL><sr>Ant. </s>Sit nomen Dómini benedíctum in sǽcula.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Blessed be the name of the Lord forever.</p>
@@ -890,20 +890,20 @@
    </table>
    <p:P191/>
    <p:RubricH>The following psalms are included for convenience. They are only used on feasts, as specified in the Propers. When used, one of the following will be said in place of Ps 113. At all other times, they are omitted, and Vespers continues with the little chapter.</p>
-<?php echo bookmark('Ps116'); ?>
+<?php bookmark('Ps116'); ?>
 <?php psalm('116.php'); ?>
-<?php echo bookmark('Ps115'); ?>
+<?php bookmark('Ps115'); ?>
 <?php psalm('115.php'); ?>
-<?php echo bookmark('Ps131'); ?>
+<?php bookmark('Ps131'); ?>
 <?php psalm('131.php'); ?>
-<?php echo bookmark('Ps137'); ?>
+<?php bookmark('Ps137'); ?>
 <?php psalm('137.php'); ?>
-<?php echo bookmark('Ps147'); ?>
+<?php bookmark('Ps147'); ?>
 <?php psalm('147.php'); ?>
    <p:P191/>
 	<p:BodySm/>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 1:3-4</p>
+   <p:RubricHSm><t>2 Cor. 1:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -918,7 +918,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('lucis_creator_optime.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 140:2</p>
+   <p:RubricHidden><t>Ps 140:2</p>
    <table>
     <tr>
      <td:A1>
@@ -1192,7 +1192,7 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('Ps5'); ?>
+<?php bookmark('Ps5'); ?>
 <?php psalm('005.php'); ?>
    <p:Spacer/>
    <table>
@@ -1266,7 +1266,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:12-13</p>
+   <p:RubricHSm><t>Rom. 13:12-13</p>
    <table>
     <tr>
      <td:A1>
@@ -1281,7 +1281,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('splendor_paternae_gloriae.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 89:14</p>
+   <p:RubricHidden><t>Ps 89:14</p>
    <table>
     <tr>
      <td:A1>
@@ -1813,7 +1813,7 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('Ps26'); ?>
+<?php bookmark('Ps26'); ?>
 <?php psalm('026-1.php'); ?>
 <?php psalm('026-2.php'); ?>
 <?php psalm('027.php'); ?>
@@ -2154,7 +2154,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 1:3-4</p>
+   <p:RubricHSm><t>2 Cor. 1:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -2169,7 +2169,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('immense_caeli_conditor.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 140:2</p>
+   <p:RubricHidden><t>Ps 140:2</p>
    <table>
     <tr>
      <td:A1>
@@ -2209,9 +2209,9 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('Ps6'); ?>
+<?php bookmark('Ps6'); ?>
 <?php psalm('006.php'); ?>
-<?php echo bookmark('Ps7'); ?>
+<?php bookmark('Ps7'); ?>
 <?php psalm('007-1.php'); ?>
 <?php psalm('007-2.php'); ?>
    <p:Spacer/>
@@ -2529,7 +2529,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:12-13</p>
+   <p:RubricHSm><t>Rom. 13:12-13</p>
    <table>
     <tr>
      <td:A1>
@@ -2544,7 +2544,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('ales_diei_nutius.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 89:14</p>
+   <p:RubricHidden><t>Ps 89:14</p>
    <table>
     <tr>
      <td:A1>
@@ -2968,7 +2968,7 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('Ps24'); ?>
+<?php bookmark('Ps24'); ?>
 <?php psalm('024-1.php'); ?>
 <?php psalm('024-2.php'); ?>
 <?php psalm('024-3.php'); ?>
@@ -3077,7 +3077,7 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('Ps39'); ?>
+<?php bookmark('Ps39'); ?>
 <?php psalm('039-1.php'); ?>
 <?php psalm('039-2.php'); ?>
 <?php psalm('039-3.php'); ?>
@@ -3186,9 +3186,9 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('Ps40'); ?>
+<?php bookmark('Ps40'); ?>
 <?php psalm('040.php'); ?>
-<?php echo bookmark('Ps41'); ?>
+<?php bookmark('Ps41'); ?>
 <?php psalm('041-1.php'); ?>
 <?php psalm('041-2.php'); ?>
    <p:Spacer/>
@@ -3289,7 +3289,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Salvásti nos, * Dómine: et in nómine tuo confitébimur in sæcula.</p>
+      <p:BodyL><sr>Ant. </s>Salvásti nos, * Dómine: et in nómine tuo confitébimur in sǽcula.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Thou hast saved us, * O Lord, and in thy name we will give praise forever.</p>
@@ -3303,7 +3303,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Salvásti nos, Dómine: et in nómine tuo confitébimur in sæcula.</p>
+      <p:BodyL><sr>Ant. </s>Salvásti nos, Dómine: et in nómine tuo confitébimur in sǽcula.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Thou hast saved us, O Lord, and in thy name we will give praise forever.</p>
@@ -3359,7 +3359,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 3. </s>In circúitu pópuli sui * Dóminus, ex hoc nunc et usque in sæculum.</p>
+      <p:BodyL><sr>Ant 3. </s>In circúitu pópuli sui * Dóminus, ex hoc nunc et usque in sǽculum.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 3. </s>The Lord is round about his people, * from henceforth now and for ever.</p>
@@ -3371,7 +3371,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>In circúitu pópuli sui Dóminus, ex hoc nunc et usque in sæculum.</p>
+      <p:BodyL><sr>Ant. </s>In circúitu pópuli sui Dóminus, ex hoc nunc et usque in sǽculum.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>The Lord is round about his people, from henceforth now and for ever.</p>
@@ -3419,7 +3419,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 1:3-4</p>
+   <p:RubricHSm><t>2 Cor. 1:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -3434,7 +3434,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('telluris_alme_conditor.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 140:2</p>
+   <p:RubricHidden><t>Ps 140:2</p>
    <table>
     <tr>
      <td:A1>
@@ -3858,7 +3858,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:12-13</p>
+   <p:RubricHSm><t>Rom. 13:12-13</p>
    <table>
     <tr>
      <td:A1>
@@ -3873,7 +3873,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('nox_et_tenebrae_et_nubila.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 89:14</p>
+   <p:RubricHidden><t>Ps 89:14</p>
    <table>
     <tr>
      <td:A1>
@@ -3906,7 +3906,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Amplius lava me, * Dómine, ab injustítia mea.</p>
+      <p:BodyL><sr>Ant 1. </s>Ámplius lava me, * Dómine, ab injustítia mea.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>Wash me yet more, * O Lord, from my iniquity.</p>
@@ -3917,7 +3917,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><sr>Ant 1. </s>Prophetæ prædicavérunt * nasci Salvatórem de Vírgine María.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Prophétæ prædicavérunt * nasci Salvatórem de Vírgine María.</p>
      </td>
      <td:B1>
       <p:BodyESm><sr>Ant 1. </s>The Prophets foretold * that the Saviour should be born of the Virgin Mary.</p>
@@ -3940,7 +3940,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Amplius lava me, Dómine, ab injustítia mea.</p>
+      <p:BodyL><sr>Ant. </s>Ámplius lava me, Dómine, ab injustítia mea.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Wash me yet more, O Lord, from my iniquity.</p>
@@ -3959,7 +3959,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><sr>Ant. </s>Prophetæ prædicavérunt nasci Salvatórem de Vírgine María.</p>
+      <p:BodyLSm><sr>Ant. </s>Prophétæ prædicavérunt nasci Salvatórem de Vírgine María.</p>
      </td>
      <td:B1>
       <p:BodyESm><sr>Ant. </s>The Prophets foretold that the Saviour should be born of the Virgin Mary.</p>
@@ -4083,7 +4083,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><sr>Ant 4. </s>Ecce véniet * Dóminus, ut sédeat cum princípibus, et solium glóriæ ténuit.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Ecce véniet * Dóminus, ut sédeat cum princípibus, et sólium glóriæ ténuit.</p>
      </td>
      <td:B1>
       <p:BodyESm><sr>Ant 4. </s>Behold the Lord cometh, * to sit among princes, and to inherit the throne of glory.</p>
@@ -4133,7 +4133,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><sr>Ant. </s>Ecce véniet Dóminus, ut sédeat cum princípibus, et solium glóriæ ténuit.</p>
+      <p:BodyLSm><sr>Ant. </s>Ecce véniet Dóminus, ut sédeat cum princípibus, et sólium glóriæ ténuit.</p>
      </td>
      <td:B1>
       <p:BodyESm><sr>Ant. </s>Behold the Lord cometh, to sit among princes, and to inherit the throne of glory.</p>
@@ -4246,7 +4246,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm>Prophetæ prædicavérunt * nasci Salvatórem de Vírgine María.</p>
+      <p:BodyLSm>Prophétæ prædicavérunt * nasci Salvatórem de Vírgine María.</p>
      </td>
      <td:B1>
       <p:BodyESm>The Prophets foretold * that the Saviour should be born of the Virgin Mary.</p>
@@ -4744,7 +4744,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 1:3-4</p>
+   <p:RubricHSm><t>2 Cor. 1:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -4759,7 +4759,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('caeli_deus_sanctissime.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 140:2</p>
+   <p:RubricHidden><t>Ps 140:2</p>
    <table>
     <tr>
      <td:A1>
@@ -4813,7 +4813,7 @@
      </td>
     </tr>
    </table>
-   <p:BodySm><s:VR/></p>
+   <p:BodySm/>
 <?php img('dove.tif',35); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
@@ -4989,7 +4989,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 9. </s>Quærite Dóminum, * et vivet ánima vestra.</p>
+      <p:BodyL><sr>Ant 9. </s>Quǽrite Dóminum, * et vivet ánima vestra.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 9. </s>Seek ye the Lord, * and your soul shall live.</p>
@@ -5001,7 +5001,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Quærite Dóminum, et vivet ánima vestra.</p>
+      <p:BodyL><sr>Ant. </s>Quǽrite Dóminum, et vivet ánima vestra.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Seek ye the Lord, and your soul shall live.</p>
@@ -5117,7 +5117,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:12-13</p>
+   <p:RubricHSm><t>Rom. 13:12-13</p>
    <table>
     <tr>
      <td:A1>
@@ -5132,7 +5132,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('lux_ecce_surgit_aurea.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 89:14</p>
+   <p:RubricHidden><t>Ps 89:14</p>
    <table>
     <tr>
      <td:A1>
@@ -5545,7 +5545,7 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('Ps22'); ?>
+<?php bookmark('Ps22'); ?>
 <?php psalm('022.php'); ?>
 <?php psalm('071-1.php'); ?>
 <?php psalm('071-2.php'); ?>
@@ -5920,7 +5920,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Adhæreat lingua mea * fáucibus meis, si non memínero tui, Jerúsalem.</p>
+      <p:BodyL><sr>Ant 4. </s>Adhǽreat lingua mea * fáucibus meis, si non memínero tui, Jerúsalem.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 4. </s>Let my tongue cleave * to my jaws, if do not I remember thee, O Jerusalem.</p>
@@ -5932,7 +5932,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Adhæreat lingua mea fáucibus meis, si non memínero tui, Jerúsalem.</p>
+      <p:BodyL><sr>Ant. </s>Adhǽreat lingua mea fáucibus meis, si non memínero tui, Jerúsalem.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Let my tongue cleave to my jaws, if do not I remember thee, O Jerusalem.</p>
@@ -5960,7 +5960,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 1:3-4</p>
+   <p:RubricHSm><t>2 Cor. 1:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -5975,7 +5975,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('magnae_deus_potentiae.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 140:2</p>
+   <p:RubricHidden><t>Ps 140:2</p>
    <table>
     <tr>
      <td:A1>
@@ -6333,7 +6333,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:12-13</p>
+   <p:RubricHSm><t>Rom. 13:12-13</p>
    <table>
     <tr>
      <td:A1>
@@ -6348,7 +6348,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('aeterna_caeli_gloria.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 89:14</p>
+   <p:RubricHidden><t>Ps 89:14</p>
    <table>
     <tr>
      <td:A1>
@@ -6365,7 +6365,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Per víscera misericórdiæ * Dei nostri visitávit nos Oriens ex alto.</p>
+      <p:BodyL><sr>Ant. </s>Per víscera misericórdiæ * Dei nostri visitávit nos Óriens ex alto.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Through bowels of the mercy * of our God, the Orient from on high hath visited us.</p>
@@ -7175,7 +7175,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 1:3-4</p>
+   <p:RubricHSm><t>2 Cor. 1:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -7190,7 +7190,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('hominis_superne_conditor.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 140:2</p>
+   <p:RubricHidden><t>Ps 140:2</p>
    <table>
     <tr>
      <td:A1>
@@ -7254,7 +7254,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Memor fuit in sæculum * testaménti sui Dóminus Deus noster. </p>
+      <p:BodyL><sr>Ant 1. </s>Memor fuit in sǽculum * testaménti sui Dóminus Deus noster. </p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>He hath remembered his covenant for ever, * the Lord our </p>
@@ -7267,7 +7267,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Memor fuit in sæculum testaménti sui Dóminus Deus noster. </p>
+      <p:BodyL><sr>Ant. </s>Memor fuit in sǽculum testaménti sui Dóminus Deus noster. </p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>He hath remembered his covenant for ever, the Lord our </p>
@@ -7447,7 +7447,7 @@
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Lauds I</p>
    <p:Head1>Sábbato ad Laudes I</p>
-<?php echo bookmark('PsSaL1'); ?>
+<?php bookmark('PsSaL1'); ?>
    <table>
     <tr>
      <td:A1>
@@ -7551,7 +7551,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:12-13</p>
+   <p:RubricHSm><t>Rom. 13:12-13</p>
    <table>
     <tr>
      <td:A1>
@@ -7566,7 +7566,7 @@
    </table>
    <p:Head2>Hymn and Verse</p>
 <?php hymn('aurora_jam_spargit_polum.php'); ?>
-   <p:RubricHidden><text:tab/>Ps 89:14</p>
+   <p:RubricHidden><t>Ps 89:14</p>
    <table>
     <tr>
      <td:A1>
@@ -8304,7 +8304,7 @@
      </td>
     </tr>
    </table>
-<?php echo bookmark('PsSaV'); ?>
+<?php bookmark('PsSaV'); ?>
 <?php psalm('143-1.php'); ?>
    <p:Spacer/>
    <table>
@@ -8398,7 +8398,7 @@
     </tr>
    </table>
    <p:Head2>Little Chapter</p>
-   <p:RubricHSm><text:tab/>2 Cor. 1:3-4</p>
+   <p:RubricHSm><t>2 Cor. 1:3-4</p>
    <table>
     <tr>
      <td:A1>
@@ -8431,7 +8431,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sæculum.</p>
+      <p:BodyL><sr>Ant. </s>Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sǽculum.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>God hath received * Israel his servant, being mindful of his mercy: as he spoke to our fathers, to Abraham and to his seed for ever.</p>

@@ -1,1 +1,1 @@
-Deus, qui beátum Thomam Pontíficem insígnis in páuperes misericórdiæ virtúte decorásti: quæsumus; ut, ejus intercessióne, in omnes, qui te deprecántur, divítias misericórdiæ tuæ benígnus effúndas. Per Dóminum.
+Deus, qui beátum Thomam Pontíficem insígnis in páuperes misericórdiæ virtúte decorásti: quǽsumus; ut, ejus intercessióne, in omnes, qui te deprecántur, divítias misericórdiæ tuæ benígnus effúndas. Per Dóminum.

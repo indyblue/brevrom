@@ -35,7 +35,12 @@ $regex=array(
 	'/<\/tr>/',
 	'/<td:([^\/>]*)/',
 	'/<\/td>/',
-	'/<t>/'
+	'/<t>/',
+	'/Deus/', '/tibi/', '/tuam/', '/tuum/', 
+	'/meam/', '/meus/', '/meum/', '/mihi/',
+	'/cœtui/', '/fœdera/', '/fœdere/', '/fœderis/', '/fœtidum/',
+	'/Á/', '/É/', '/Í/', '/Ó/', '/Ú/', '/Ý/', '/Ǽ/',
+	'/ǽ/', '/œ/'
 );
 $repl=array(
 	'<s:Rubric>',
@@ -53,7 +58,12 @@ $repl=array(
 	'</table:table-row>',
 	'<table:table-cell table:style-name="TableParallel.\1" office:value-type="string"',
 	'</table:table-cell>',
-	'<text:tab/>'
+	'<text:tab/>',
+	'De­us', 'ti­bi', 'tu­am', 'tu­um', 
+	'me­am', 'me­us', 'me­um', 'mi­hi',
+	'cötui', 'födera', 'födere', 'föderis', 'fötidum',
+	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',
+	'ä', 'ô'
 );
 
 $txtContent = preg_replace($regex,$repl,$txtContent);

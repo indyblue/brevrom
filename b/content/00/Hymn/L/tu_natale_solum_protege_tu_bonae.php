@@ -3,7 +3,7 @@ Pope Urban VIII
 
 Tu natále solum prótege, tu bonæ
 Da pacis réquiem Christíadum plagis;
-Armórum strépitus, et fera prælia
+Armórum strépitus, et fera prǽlia
 In fines age Thrácios.
 
 Et regum sócians ágmina sub crucis

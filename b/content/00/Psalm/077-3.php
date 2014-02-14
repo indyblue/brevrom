@@ -4,7 +4,7 @@ Et tentavérunt Deum in córdibus suis, * ut péterent escas animábus suis.
 Et male locúti sunt de Deo: * dixérunt: Numquid póterit Deus paráre mensam in desérto?
 Quóniam percússit petram, et fluxérunt aquæ: * et torréntes inundavérunt.
 Numquid et panem potest dare, * aut paráre mensam pópulo suo?
-Ideo audívit Dóminus, et dístulit: * et ignis accénsus est in Jacob, et ira ascéndit in Israël.
+Ídeo audívit Dóminus, et dístulit: * et ignis accénsus est in Jacob, et ira ascéndit in Israël.
 Quia non credidérunt in Deo: * nec speravérunt in salutári ejus:
 Et mandávit núbibus désuper: * et jánuas cæli apéruit.
 Et pluit illis manna ad manducándum: * et panem cæli dedit eis.

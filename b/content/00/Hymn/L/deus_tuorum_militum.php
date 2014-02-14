@@ -2,7 +2,7 @@ Ambrosian (Old)
 
 
 Deus, tuórum mílitum
-Sors, et coróna, præmium,
+Sors, et coróna, prǽmium,
 Laudes canéntes Mártyris
 Absólve nexu críminis.
 
@@ -24,4 +24,4 @@ Dimítte noxam sérvulis.
 Laus et perénnis glória
 Patri sit, atque Fílio,
 Sancto simul Paráclito,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

@@ -1,1 +1,1 @@
-Præsta, Dómine, précibus nostris cum exsultatióne provéntum: ut sanctórum Mártyrum Euphémiæ, Luciæ et Geminiáni, quorum diem passiónis annua devotióne recólimus, étiam fídei constántiam subsequámur. Per Dóminum.
+Præsta, Dómine, précibus nostris cum exsultatióne provéntum: ut sanctórum Mártyrum Euphémiæ, Lúciæ et Geminiáni, quorum diem passiónis ánnua devotióne recólimus, étiam fídei constántiam subsequámur. Per Dóminum.

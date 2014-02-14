@@ -1,1 +1,1 @@
-Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri præmia præstitísti: tríbue, quæsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.
+Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.

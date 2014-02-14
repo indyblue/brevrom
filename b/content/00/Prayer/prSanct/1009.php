@@ -1,1 +1,1 @@
-Deus, qui beátum Joánnem Confessórem tuum, ad fidem in géntibus propagándam mirabíliter excitáre dignátus es, ac per eum in erudiéndis fidélibus novam in Ecclésia tua famíliam congregásti: da nobis fámulis tuis; ita ejus institútis profícere, ut præmia consequámur ætérna. Per Dóminum.
+Deus, qui beátum Joánnem Confessórem tuum, ad fidem in géntibus propagándam mirabíliter excitáre dignátus es, ac per eum in erudiéndis fidélibus novam in Ecclésia tua famíliam congregásti: da nobis fámulis tuis; ita ejus institútis profícere, ut prǽmia consequámur ætérna. Per Dóminum.

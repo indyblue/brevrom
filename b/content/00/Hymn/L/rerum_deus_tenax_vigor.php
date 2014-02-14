@@ -8,10 +8,10 @@ Succéssibus detérminans:
 
 Largíre lumen véspere,
 Quo vita nusquam décidat,
-Sed præmium mortis sacræ
+Sed prǽmium mortis sacræ
 Perénnis instet glória.
 
 Præsta, Pater piíssime,
-Patríque compar Unice,
+Patríque compar Únice,
 Cum Spíritu Paráclito
-Regnans per omne sæculum. Amen.
+Regnans per omne sǽculum. Amen.

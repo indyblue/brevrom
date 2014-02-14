@@ -9,7 +9,7 @@ who was predestined by the Most High
 to bear in her womb the Son;
 
 Tu perpes hostis fémina
-Prænuntiáta dæmonis,
+Prænuntiáta dǽmonis,
 Oppléris una grátia
 Intamináta orígine.
 
@@ -61,4 +61,4 @@ which we seek/pursue through our patroness
 Jesu, tibi sit glória,
 Qui natus es de Vírgine,
 Cum Patre et almo Spíritu,
-In sempitérna sæcula. Amen.
+In sempitérna sǽcula. Amen.

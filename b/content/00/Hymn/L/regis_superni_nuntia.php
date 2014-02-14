@@ -19,4 +19,4 @@ Avérni ab igne líbera.
 Sit laus Patri cum Fílio
 Et Spíritu Paráclito,
 Tibíque, sancta Trínitas,
-Nunc et per omne sæculum. Amen.
+Nunc et per omne sǽculum. Amen.

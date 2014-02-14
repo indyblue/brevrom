@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Blessed Virgin Mary</p>
-<?php echo bookmark('csBVM'); ?>
+<?php bookmark('csBVM'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Virgin Mary')
 ?></p>
@@ -25,7 +25,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php ant('csBVML.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('csBVML.php','02222'); ?>
-<?php echo bookmark('csBVMLlc'); ?>
+<?php bookmark('csBVMLlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_14.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
@@ -35,7 +35,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php ant('beata_es_maria_quae_credidisti.php','B'); ?>
    <p:BodySm/>
 
-<?php echo bookmark('csBVMLH'); ?>
+<?php bookmark('csBVMLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
 <?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
@@ -49,7 +49,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php vrS('adjuvabit_eam_deus_vultu_suo.php'); ?>
    <p:BodySm/>
 
-<?php echo bookmark('csBVMS'); ?>
+<?php bookmark('csBVMS'); ?>
 <?php rubrics('head/Sext.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_15.php'); ?>
@@ -67,7 +67,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
    <p:BodySm/>
 
 <?php rubrics('head/2Vespers.php'); ?>
-<?php echo bookmark('PsComBVM'); ?>
+<?php bookmark('PsComBVM'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('csBVML.php','20000'); ?>
 <?php psalm('109.php'); ?>
@@ -85,11 +85,11 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php psalm('147.php'); ?>
    <p:Spacer/>
 <?php ant('csBVML.php','00002'); ?>
-<?php echo bookmark('csBVMVlc'); ?>
+<?php bookmark('csBVMVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_14.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
-<?php echo bookmark('ave_maris_stella'); ?>
+<?php bookmark('ave_maris_stella'); ?>
 <?php hymn('ave_maris_stella.php'); ?>
 <?php vrS('dignare_me_laudare_te_virgo_sacrata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>

@@ -23,7 +23,7 @@ Virtúte firmans pérpeti.
 
 Hostem repéllas lóngius,
 Pacémque dones prótinus:
-Ductóre sic te prævio
+Ductóre sic te prǽvio
 Vitémus omne nóxium.
 
 Per te sciámus da Patrem,
@@ -34,4 +34,4 @@ Credámus omni témpore.
 Deo Patri sit glória,
 Et Fílio, qui a mórtuis
 Surréxit, ac Paráclito,
-In sæculórum sæcula. Amen.
+In sæculórum sǽcula. Amen.

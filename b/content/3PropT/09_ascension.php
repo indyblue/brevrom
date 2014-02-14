@@ -1,7 +1,7 @@
 <?php img('Tempore/t05_ascension.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Ascensionis</p>
-   <p:Body><s:VR/></p>
+   <p:Body/>
    <p:Hidden1>Ascensiontide</p>
    <p:Hidden2>The Ascension of the Lord</p>
    <p:Head1>in Ascensione Domini</p>
@@ -10,7 +10,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>CONCÉDE, quæsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum Redemptórem nostrum ad cælos ascendísse crédimus; ipse quoque mente in cæléstibus habitémus. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>CONCÉDE, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum Redemptórem nostrum ad cælos ascendísse crédimus; ipse quoque mente in cæléstibus habitémus. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, almighty God, that we who believe thy Only-begotten Son, our Redeemer, to have this day ascended into heaven, may ourselves also in mind dwell amid heavenly things. Through the same.</p>
@@ -23,7 +23,7 @@
 <?php rubrics('ps/SuV116.php'); ?>
    <p:Rubric>Little Chapter &amp; Hymn as in Ordinary of Ascensiontide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 17:6, 9</p>
+   <p:RubricHidden><t>Jn 17:6, 9</p>
    <table>
     <tr>
      <td:A1>
@@ -37,11 +37,11 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Acts 1:10,11 Lk 24:50</p>
+   <p:RubricHidden><t>Acts 1:10,11 Lk 24:50</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Viri Galilæi, * quid aspícitis in cælum? Hic Jesus qui assúmptus est a vobis in cælum, sic véniet, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Viri Galilǽi, * quid aspícitis in cælum? Hic Jesus qui assúmptus est a vobis in cælum, sic véniet, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>Ye men of Galilee, * why stand you looking up to heaven? This Jesus who is taken up from you into heaven, shall so come, alleluia.</p>
@@ -85,7 +85,7 @@
    </table>
    <p:Rubric>Little Chapter &amp; Hymn as in Ordinary of Ascensiontide.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 20:17</p>
+   <p:RubricHidden><t>Jn 20:17</p>
    <table>
     <tr>
      <td:A1>
@@ -151,7 +151,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 4:7-8</p>
+   <p:RubricHSm><t>1 Peter 4:7-8</p>
    <table>
     <tr>
      <td:A1>
@@ -166,7 +166,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Ascensiontide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 15:26</p>
+   <p:RubricHidden><t>Jn 15:26</p>
    <table>
     <tr>
      <td:A1>
@@ -190,7 +190,7 @@
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 4:9-10</p>
+   <p:RubricHSm><t>1 Peter 4:9-10</p>
    <table>
     <tr>
      <td:A1>
@@ -207,7 +207,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 4:11</p>
+   <p:RubricHSm><t>1 Peter 4:11</p>
    <table>
     <tr>
      <td:A1>
@@ -225,7 +225,7 @@
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV-A.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Peter 4:7-8</p>
+   <p:RubricHSm><t>1 Peter 4:7-8</p>
    <table>
     <tr>
      <td:A1>
@@ -240,7 +240,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Ascensiontide.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 16:4</p>
+   <p:RubricHidden><t>Jn 16:4</p>
    <table>
     <tr>
      <td:A1>
@@ -282,7 +282,7 @@
    <p:Rubric>Antiphons as in Lauds.</p>
 <?php rubrics('ps/SuV116.php'); ?>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 2:1-2</p>
+   <p:RubricHSm><t>Acts 2:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -297,7 +297,7 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('veni_creator_spiritus.php'); ?>
-	<p:RubricHidden><text:tab/>Acts 2:4</p>
+	<p:RubricHidden><t>Acts 2:4</p>
    <table>
     <tr>
      <td:A1>
@@ -311,7 +311,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 14:18,28, 16:22</p>
+   <p:RubricHidden><t>Jn 14:18,28, 16:22</p>
    <table>
     <tr>
      <td:A1>
@@ -325,7 +325,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Acts 2:1,4,11, Wis 1:6, Dan 3:77,79</p>
+   <p:RubricHidden><t>Acts 2:1,4,11, Wis 1:6, Dan 3:77,79</p>
    <table>
     <tr>
      <td:A1>
@@ -374,7 +374,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Head3>Hymn</p>
 <?php hymn('beata_nobis_gaudia.php'); ?>
-   <p:RubricHidden><text:tab/>Acts 2:4</p>
+   <p:RubricHidden><t>Acts 2:4</p>
    <table>
     <tr>
      <td:A1>
@@ -388,7 +388,7 @@
     </tr>
    </table>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 20:22</p>
+   <p:RubricHidden><t>Jn 20:22</p>
    <table>
     <tr>
      <td:A1>
@@ -409,7 +409,7 @@
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Head3>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Sap 1:7, Jn 14:26</p>
+   <p:RubricHidden><t>Sap 1:7, Jn 14:26</p>
    <table>
     <tr>
      <td:A1>
@@ -480,7 +480,7 @@
    <p:Head2>ad Séxtam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 2:6</p>
+   <p:RubricHSm><t>Acts 2:6</p>
    <table>
     <tr>
      <td:A1>
@@ -494,7 +494,7 @@
     </tr>
    </table>
    <p:Head3>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Jn 14:26, Acts 2:4</p>
+   <p:RubricHidden><t>Jn 14:26, Acts 2:4</p>
    <table>
     <tr>
      <td:A1>
@@ -565,11 +565,11 @@
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Acts 2:11</p>
+   <p:RubricHSm><t>Acts 2:11</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>JUDÆI quoque, et Prosélyti, Cretes, et Árabes: audívimus eos loquéntes nostris linguis magnália Dei.</p>
+      <p:BodyLDrop>JUDǼI quoque, et Prosélyti, Cretes, et Árabes: audívimus eos loquéntes nostris linguis magnália Dei.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -579,7 +579,7 @@
     </tr>
    </table>
    <p:Head3>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Acts 2:4,11</p>
+   <p:RubricHidden><t>Acts 2:4,11</p>
    <table>
     <tr>
      <td:A1>
@@ -680,7 +680,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 3:16</p>
+   <p:RubricHidden><t>Jn 3:16</p>
    <table>
     <tr>
      <td:A1>
@@ -692,7 +692,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 14:23</p>
+   <p:RubricHidden><t>Jn 14:23</p>
    <table>
     <tr>
      <td:A1>
@@ -711,7 +711,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ADSIT nobis, quæsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</p>
+      <p:BodyLDrop>ADSIT nobis, quǽsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>WE BESEECH thee, O Lord, let the power of the Holy Spirit be always with us; let it mercifully purify our hearts, and safeguard us from all harm. Through our Lord...in the unity of the same Holy Spirit.</p>
@@ -719,7 +719,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 10:9</p>
+   <p:RubricHidden><t>Jn 10:9</p>
    <table>
     <tr>
      <td:A1>
@@ -731,7 +731,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 14:27</p>
+   <p:RubricHidden><t>Jn 14:27</p>
    <table>
     <tr>
      <td:A1>
@@ -750,7 +750,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>MENTES nostras, quæsumus, Dómine, Paráclitus, qui a te procédit, illúminet: et indúcat in omnem, sicut tuus promísit Fílius, veritátem: Qui tecum vivit.</p>
+      <p:BodyLDrop>MENTES nostras, quǽsumus, Dómine, Paráclitus, qui a te procédit, illúminet: et indúcat in omnem, sicut tuus promísit Fílius, veritátem: Qui tecum vivit.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY the Comforter, who proceeds from thee, enlighten our minds, we beseech thee, O Lord, and guide us, as thy Son has promised, into all truth. Who liveth.</p>
@@ -758,7 +758,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Jn 6:51</p>
+   <p:RubricHidden><t>Jn 6:51</p>
    <table>
     <tr>
      <td:A1>
@@ -770,7 +770,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 6:51-52</p>
+   <p:RubricHidden><t>Jn 6:51-52</p>
    <table>
     <tr>
      <td:A1>
@@ -797,7 +797,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 9:1-2</p>
+   <p:RubricHidden><t>Lk 9:1-2</p>
    <table>
     <tr>
      <td:A1>
@@ -809,7 +809,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 15:26</p>
+   <p:RubricHidden><t>Jn 15:26</p>
    <table>
     <tr>
      <td:A1>
@@ -828,7 +828,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA, QUÆSUMUS, Ecclésiæ tuæ, miséricors Deus: ut Sancto Spíritu congregáta, hostíli nullátenus incursióne turbétur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</p>
+      <p:BodyLDrop>DA, QUǼSUMUS, Ecclésiæ tuæ, miséricors Deus: ut Sancto Spíritu congregáta, hostíli nullátenus incursióne turbétur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT to thy Church, we beseech thee, O merciful God, that, being gathered together in the Holy Spirit, she may in no way be troubled by any hostile attacks. Through our Lord...in the unity of the same Holy Spirit.</p>
@@ -836,7 +836,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 5:24</p>
+   <p:RubricHidden><t>Lk 5:24</p>
    <table>
     <tr>
      <td:A1>
@@ -848,7 +848,7 @@
     </tr>
    </table>
    <p:Head2>Magnificat</p>
-   <p:RubricHidden><text:tab/>Jn 14:26</p>
+   <p:RubricHidden><t>Jn 14:26</p>
    <table>
     <tr>
      <td:A1>
@@ -867,7 +867,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>MÉNTIBUS nostris, quæsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</p>
+      <p:BodyLDrop>MÉNTIBUS nostris, quǽsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur. Per Dóminum...in unitáte ejúsdem Spíritus Sancti.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>DEIGN, we beseech thee, O Lord, to pour forth thy Holy Spirit into our souls, by whose wisdom we were created, and by whose providence we are governed. Through our Lord...in the unity of the same Holy Spirit.</p>
@@ -875,7 +875,7 @@
     </tr>
    </table>
    <p:Head2>Benedictus</p>
-   <p:RubricHidden><text:tab/>Rom 5:5</p>
+   <p:RubricHidden><t>Rom 5:5</p>
    <table>
     <tr>
      <td:A1>

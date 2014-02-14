@@ -8,12 +8,12 @@ Terras in imas décidens,
 Domus supérnæ et ínfimæ
 Utrúmque junxit ángulum.
 
-Sed illa sedes Cælitum
+Sed illa sedes Cǽlitum
 Semper resúltat láudibus,
 Deúmque trinum et únicum
-Jugi canóre prædicat:
+Jugi canóre prǽdicat:
 Illi canéntes júngimur
-Almæ Siónis æmuli.
+Almæ Siónis ǽmuli.
 
 Hæc templa, Rex cæléstium,
 Imple benígno lúmine:
@@ -34,4 +34,4 @@ Sit usquequáque Altíssimo,
 Natóque Patris único,
 Et ínclyto Paráclito,
 Cui laus, potéstas, glória
-Ætérna sit per sæcula. Amen.
+Ætérna sit per sǽcula. Amen.

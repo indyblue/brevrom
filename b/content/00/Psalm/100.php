@@ -3,7 +3,7 @@ Misericórdiam, et judícium * cantábo tibi, Dómine:
 Psallam, et intélligam in via immaculáta, * quando vénies ad me.
 Perambulábam in innocéntia cordis mei, * in médio domus meæ.
 Non proponébam ante óculos meos rem injústam: * faciéntes prævaricatiónes odívi.
-Non adhæsit mihi cor pravum: * declinántem a me malígnum non cognoscébam.
+Non adhǽsit mihi cor pravum: * declinántem a me malígnum non cognoscébam.
 Detrahéntem secréto próximo suo, * hunc persequébar.
 Supérbo óculo, et insatiábili corde, * cum hoc non edébam.
 Óculi mei ad fidéles terræ ut sédeant mecum: * ámbulans in via immaculáta, hic mihi ministrábat.

@@ -1,6 +1,6 @@
 Ps 106 ii. Confiteántur Dómino
 Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.
-Quia contrívit portas æreas: * et vectes férreos confrégit.
+Quia contrívit portas ǽreas: * et vectes férreos confrégit.
 Suscépit eos de via iniquitátis eórum: * propter injustítias enim suas humiliáti sunt.
 Omnem escam abomináta est ánima eórum: * et appropinquavérunt usque ad portas mortis.
 Et clamavérunt ad Dóminum cum tribularéntur: * et de necessitátibus eórum liberávit eos.

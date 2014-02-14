@@ -1,1 +1,1 @@
-Deus, qui beátum Felícem Confessórem tuum ex erémo ad munus rediméndi captívos cælitus vocáre dignátus es: præsta, quæsumus; ut per grátiam tuam ex peccatórum nostrórum captivitáte, ejus intercessióne, liberáti, ad cæléstem pátriam perducámur. Per Dóminum.
+Deus, qui beátum Felícem Confessórem tuum ex erémo ad munus rediméndi captívos cǽlitus vocáre dignátus es: præsta, quǽsumus; ut per grátiam tuam ex peccatórum nostrórum captivitáte, ejus intercessióne, liberáti, ad cæléstem pátriam perducámur. Per Dóminum.

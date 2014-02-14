@@ -32,12 +32,12 @@ function vrS($file, $option=0) {
 		echo '   <tr><td:A1>
     <p:BodyL>'. style_first_letter($L1,'sb') .'</p>
    </td><td:B1>
-    <p:BodyL>'. style_first_letter($E1,'sb') .'</p>
+    <p:BodyE>'. style_first_letter($E1,'sb') .'</p>
    </td></tr>
    <tr><td:A1>
     <p:BodyL>'. style_first_letter($L2,'sb') .'</p>
    </td><td:B1>
-    <p:BodyL>'. style_first_letter($E2,'sb') .'</p>
+    <p:BodyE>'. style_first_letter($E2,'sb') .'</p>
    </td></tr>
 ';
 		else {

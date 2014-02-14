@@ -1,5 +1,5 @@
 Ps 106 i. Confitémini Dómino
-Confitémini Dómino quóniam bonus: * quóniam in sæculum misericórdia ejus.
+Confitémini Dómino quóniam bonus: * quóniam in sǽculum misericórdia ejus.
 Dicant qui redémpti sunt a Dómino, quos redémit de manu inimíci: * et de regiónibus congregávit eos:
 A solis ortu, et occásu: * ab aquilóne, et mari.
 Erravérunt in solitúdine in inaquóso: * viam civitátis habitáculi non invenérunt.

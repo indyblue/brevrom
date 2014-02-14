@@ -3160,8 +3160,8 @@
    <p:BodyEIndent>3. If a feast of our Lord of the 1st or 2nd class concurs with any Sunday, or vice versa, Vespers are ordered according to the table of concurrence, but a commemoration is never made of a concurring Sunday in Vespers of the feast of our Lord, nor vice versa.</p>
    <p:BodySm/>
    <p:Head2>When to Make the Sign of the Cross, Stand, Kneel, and Sit in the Recitation of the Divine Office</p>
-   <p:BodyEIndent><s:T10>261. </s>What is said here about the sign of the cross and the position of the body in the recitation of the Divine Office holds for the recitation in choir or in common. <text:s/>It is fitting, however, that those who recite the Divine Office alone conform to what is said about the sign of the cross.</p>
-   <p:BodyEIndent><s:T10>262. </s>The special rules for the hebdomadary and the chanters are found in the books of ceremonies. <text:s/>Therefore only those things which concern the &quot;choir members&quot; in general are indicated here.</p>
+   <p:BodyEIndent><s:T10>261. </s>What is said here about the sign of the cross and the position of the body in the recitation of the Divine Office holds for the recitation in choir or in common. It is fitting, however, that those who recite the Divine Office alone conform to what is said about the sign of the cross.</p>
+   <p:BodyEIndent><s:T10>262. </s>The special rules for the hebdomadary and the chanters are found in the books of ceremonies. Therefore only those things which concern the &quot;choir members&quot; in general are indicated here.</p>
    <p:BodyEIndent><s:T10>263. </s>All make the sign of the cross from the forehead to the breast and from the left shoulder to the right:</p>
    <p:BodyEIndent>a) at the beginning of all the Hours, when the <s:T4>Deus, in adjutorium </s>(&quot;O God, come to my assistance&quot;) is said;</p>
    <p:BodyEIndent>b) at the verse <s:T4>Adjutorium nostrum </s>(&quot;Our help&quot;);</p>
@@ -3183,7 +3183,7 @@
    <p:BodyEIndent>i) at the final antiphon of the Blessed Virgin Mary, after Compline, on Saturday and Sunday, even if the Office is not of the Sunday, and throughout Paschaltide.</p>
    <p:BodyEIndent><s:T10>267. </s>All kneel:</p>
    <p:BodyEIndent>a) at the words <s:T4>venite, adoremus et procidamus</s>, etc. (&quot;Come, let us adore and fall down,&quot; etc.) in the psalm <s:T4>Venite, exultemus</s> at the beginning of Matins.</p>
-   <p:BodyEIndent>b) at the verse <s:T4>Te ergo quæsumus</s> (&quot;We beseech the, therefore&quot;) in the hymn <s:T4>Te Deum</s>;</p>
+   <p:BodyEIndent>b) at the verse <s:T4>Te ergo quǽsumus</s> (&quot;We beseech the, therefore&quot;) in the hymn <s:T4>Te Deum</s>;</p>
    <p:BodyEIndent>c) at the preces when they are to be said;</p>
    <p:BodyEIndent>d) in the ferial Office of Advent, Lent and passiontide and also of the Ember Days in September, and of vigils of the 2nd and 3rd class, except the vigil of the Ascension, in all Hours at the collect and any commemorations that may follow; the hebdomadary, however, stands;</p>
    <p:BodyEIndent>e) at the final antiphon of the Blessed Virgin Mary, after Compline, except on Saturday and Sunday and throughout Paschaltide; the hebdomadary stands, however, while he says the prayer;</p>

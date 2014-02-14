@@ -18,10 +18,10 @@ Cæli potítur gáudiis.
 
 Rex Christe, virtus fórtium,
 Qui magna solus éfficis,
-Hujus precátu, quæsumus,
+Hujus precátu, quǽsumus,
 Audi benígnus súpplices.
 
 Deo Patri sit glória,
 Ejúsque soli Fílio,
 Cum Spíritu Paráclito,
-Nunc, et per omne sæculum. Amen.
+Nunc, et per omne sǽculum. Amen.

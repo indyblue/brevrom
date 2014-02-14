@@ -1,1 +1,1 @@
-Deus, qui præ ómnibus Sanctis tuis beátum Jóachim Genitrícis Fílii tui patrem esse voluísti: concéde, quæsumus; ut, cujus festa venerámur, ejus quoque perpétuo patrocínia sentiámus. Per eúmdem Dóminum.
+Deus, qui præ ómnibus Sanctis tuis beátum Jóachim Genitrícis Fílii tui patrem esse voluísti: concéde, quǽsumus; ut, cujus festa venerámur, ejus quoque perpétuo patrocínia sentiámus. Per eúmdem Dóminum.

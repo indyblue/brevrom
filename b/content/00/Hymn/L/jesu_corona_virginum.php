@@ -9,7 +9,7 @@ Hæc vota clemens áccipe:
 Qui pergis inter lília
 Septus choréis Vírginum,
 Sponsus decórus glória
-Sponsísque reddens præmia.
+Sponsísque reddens prǽmia.
 
 Quocúmque tendis, Vírgines
 Sequúntur, atque láudibus
@@ -24,4 +24,4 @@ Corruptiónis vúlnera.
 Virtus, honor, laus, glória
 Deo Patri cum Fílio,
 Sancto simul Paráclito,
-In sæculórum sæcula. Amen.
+In sæculórum sǽcula. Amen.

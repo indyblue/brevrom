@@ -24,4 +24,4 @@ Ovíle nos pastor regat.
 Deo Patri sit glória,
 Qui, quos redémit Fílius,
 Et Sanctus unxit Spíritus,
-Per Angelos custódiat. Amen.
+Per Ángelos custódiat. Amen.

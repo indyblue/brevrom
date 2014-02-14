@@ -9,7 +9,7 @@ g/E486/-2,d
 g/lines,/d
 %s/<[^>]*>/<>/ig
 
-s/^.*bookmark[^"]*"\([^"]*\).*$/<%php echo bookmark(\'\1\'); %>/
+s/^.*bookmark[^"]*"\([^"]*\).*$/<%php bookmark(\'\1\'); %>/
 
 Check for whitespace and bad accents:
 (Some whitespace is necessary in Prayers!!!!)
@@ -42,7 +42,7 @@ $_GET['L'] = 1;
 //     'L4' for Lulu 4.25 x 6.875
 //     'L5' for Lulu 5.5 x 8.5
 //     'L6' for Lulu 6 x 9
-$_GET['Style'] = 'L5';
+$_GET['Style'] = '';
 
 //Switch to determine size of headings:
 // 0 = smaller headings (used in propers)
@@ -66,7 +66,7 @@ $_GET['O'] = 0;
 // echo '   </text:section>';
 
 // require 'temp/210_part_proper_seasons.php';
- require 'temp/510_part_proper_saints.php';
+// require 'temp/510_part_proper_saints.php';
 // require 'temp/610_part_common_saints.php';
 
 //hymn('vexilla_regis_prodeunt.php');
@@ -75,19 +75,19 @@ $_GET['O'] = 0;
 // echo '   <p:Head1NI/>';
 
 
-// require '100_intro.php';
-// require '150_calendar.php';
-// require '3PropT/index.php';
-// $_GET['O'] = 1;
-// require '1Ordinary/index.php';
-// require '2Psalter/index.php';
-// $_GET['O'] = 0;
-// 
-// require '5PropS/index.php';
-// require '6ComS/index.php';
-// 
-// require '7App/index.php';
-// require '998_indices.php';
+require '100_intro.php';
+require '150_calendar.php';
+require '3PropT/index.php';
+$_GET['O'] = 1;
+require '1Ordinary/index.php';
+require '2Psalter/index.php';
+$_GET['O'] = 0;
+
+require '5PropS/index.php';
+require '6ComS/index.php';
+
+require '7App/index.php';
+require '998_indices.php';
 
 require '999_end.php';
 ?>

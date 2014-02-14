@@ -8,7 +8,7 @@ Vos efferémus cántico.
 
 Quos Roma plaudens éxcipit,
 Compléxa mater fílios,
-Auget coróna præsulum
+Auget coróna prǽsulum
 Novóque firmat róbore.
 
 Terras ad usque bárbaras
@@ -18,17 +18,17 @@ Almo replétis lúmine.
 
 Noxis solúta péctora
 Ardor supérnus ábripit;
-Mutátur horror veprium
+Mutátur horror véprium
 In sanctitátis flósculos.
 
-Et nunc seréna Cælitum
+Et nunc seréna Cǽlitum
 Locáti in aula, súpplici
 Adéste voto: Slávicas
 Serváte gentes Númini.
 
 Erróre mersos únicum
 Ovíle Christi cóngreget;
-Factis ávitis æmula
+Factis ávitis ǽmula
 Fides viréscat púlchrior.
 
 Tu nos, beáta Trínitas,

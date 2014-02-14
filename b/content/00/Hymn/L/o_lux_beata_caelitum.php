@@ -1,7 +1,7 @@
 Pope Leo XIII
 
 
-O lux beáta Cælitum
+O lux beáta Cǽlitum
 Et summa spes mortálium,
 Jesu, o cui doméstica
 Arrísit orto cáritas:

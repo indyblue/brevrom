@@ -158,7 +158,7 @@ feast_saint(1009,3,'S. Joannis Leonardi','St. John Leonard','C',0,
 <?php ant('prudentes_virgines_aptate_vestras_lampades.php'); ?>
 <?php vrS('adducentur_regi_virgines_post_eam.php'); ?>
 <?php rubrics('oremus.php'); ?>
-<?php prayer('csVirginsMartyrs1.php','Ursulæ et Sociárum','Ursula and her Companions'); ?>
+<?php prayer('csVirginsMartyrs1.php','Úrsulæ et Sociárum','Ursula and her Companions'); ?>
    <p:BodySm/>
 
 <?php img(); ?>

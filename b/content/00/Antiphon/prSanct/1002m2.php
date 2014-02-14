@@ -1,1 +1,1 @@
-Sancti Angeli, * custódes nostri, deféndite nos in prælio, ut non pereámus in treméndo judício.
+Sancti Ángeli, * custódes nostri, deféndite nos in prǽlio, ut non pereámus in treméndo judício.

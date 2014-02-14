@@ -1,7 +1,7 @@
 <?php img('ihs.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Adventus</p>
-   <p:Body><s:VR/></p>
+   <p:Body/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent I</p>
    <p:Head1>Dominica I Adventus</p>
@@ -10,7 +10,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</p>
+      <p:BodyLDrop>ÉXCITA, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who livest.</p>
@@ -22,7 +22,7 @@
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:11</p>
+   <p:RubricHSm><t>Rom. 13:11</p>
    <table>
     <tr>
      <td:A1>
@@ -37,7 +37,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Is 30:27</p>
+   <p:RubricHidden><t>Is 30:27</p>
    <table>
     <tr>
      <td:A1>
@@ -51,7 +51,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Joel 3:18, Zach 9:8, Is 55:1,6</p>
+   <p:RubricHidden><t>Joel 3:18, Zach 9:8, Is 55:1,6</p>
    <table>
     <tr>
      <td:A1>
@@ -82,7 +82,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Omnes sitiéntes, * veníte ad aquas: quærite Dóminum, dum inveníri potest, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Omnes sitiéntes, * veníte ad aquas: quǽrite Dóminum, dum inveníri potest, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 4. </s>All you that thirst, * come to the waters: seek ye the Lord, while he may be found, alleluia.</p>
@@ -122,7 +122,7 @@
    <p:Head2>ad Sextam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:12</p>
+   <p:RubricHSm><t>Rom. 13:12</p>
    <table>
     <tr>
      <td:A1>
@@ -140,7 +140,7 @@
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 13:13-14</p>
+   <p:RubricHSm><t>Rom. 13:13-14</p>
    <table>
     <tr>
      <td:A1>
@@ -161,7 +161,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 1:30</p>
+   <p:RubricHidden><t>Lk 1:30</p>
    <table>
     <tr>
      <td:A1>
@@ -177,7 +177,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</p>
+      <p:BodyLDrop>ÉXCITA, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O LORD, we beseech thee, stir up thy power, and come; that by thy protection we may deserve to be rescued from the threatening dangers of our sins, and to be saved by thy deliverance. Who livest.</p>
@@ -213,7 +213,7 @@
    <p:Head2>Feria Tertia</p>
    <p:Head3>III classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 1:18</p>
+   <p:RubricHidden><t>Mt 1:18</p>
    <table>
     <tr>
      <td:A1>
@@ -225,11 +225,11 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Is 55:6</p>
+   <p:RubricHidden><t>Is 55:6</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Quærite Dóminum, * dum inveníri potest: invocáte eum, dum prope est, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Quǽrite Dóminum, * dum inveníri potest: invocáte eum, dum prope est, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Seek ye the Lord, * while he may be found: call upon him, while he is near, alleluia.</p>
@@ -241,7 +241,7 @@
    <p:Head3>III classis</p>
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Is 2:3</p>
+   <p:RubricHidden><t>Is 2:3</p>
    <table>
     <tr>
      <td:A1>
@@ -253,7 +253,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Lk 3:16</p>
+   <p:RubricHidden><t>Lk 3:16</p>
    <table>
     <tr>
      <td:A1>
@@ -268,7 +268,7 @@
    <p:Head2>Feria Quinta</p>
    <p:Head3>III classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Lk 1:28,42</p>
+   <p:RubricHidden><t>Lk 1:28,42</p>
    <table>
     <tr>
      <td:A1>
@@ -280,7 +280,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Is 8:17</p>
+   <p:RubricHidden><t>Is 8:17</p>
    <table>
     <tr>
      <td:A1>
@@ -307,7 +307,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Os 11:1</p>
+   <p:RubricHidden><t>Os 11:1</p>
    <table>
     <tr>
      <td:A1>
@@ -345,7 +345,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit.</p>
+      <p:BodyLDrop>ÉXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>STIR up our hearts, O Lord, to prepare the ways of thy Only-begotten Son, that we may attain to serve thee with purified minds, through his advent. Who liveth.</p>
@@ -357,7 +357,7 @@
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 15:4</p>
+   <p:RubricHSm><t>Rom. 15:4</p>
    <table>
     <tr>
      <td:A1>
@@ -385,7 +385,7 @@
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
-   <p:RubricHidden><text:tab/>Is 26:1-2, Hab 2:3, Is 55:12</p>
+   <p:RubricHidden><t>Is 26:1-2, Hab 2:3, Is 55:12</p>
    <table>
     <tr>
      <td:A1>
@@ -434,7 +434,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mt 11:2-3</p>
+   <p:RubricHidden><t>Mt 11:2-3</p>
    <table>
     <tr>
      <td:A1>
@@ -457,7 +457,7 @@
    <p:Head2>ad Sextam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 15:5-6</p>
+   <p:RubricHSm><t>Rom. 15:5-6</p>
    <table>
     <tr>
      <td:A1>
@@ -475,7 +475,7 @@
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 15:13</p>
+   <p:RubricHSm><t>Rom. 15:13</p>
    <table>
     <tr>
      <td:A1>
@@ -496,7 +496,7 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Mt 11:3-5</p>
+   <p:RubricHidden><t>Mt 11:3-5</p>
    <table>
     <tr>
      <td:A1>
@@ -512,7 +512,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit.</p>
+      <p:BodyLDrop>ÉXCITA, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut per ejus advéntum purificátis tibi méntibus servíre mereámur: Qui tecum vivit.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>STIR up our hearts, O Lord, to prepare the ways of thy Only-begotten Son, that we may attain to serve thee with purified minds, through his advent. Who liveth.</p>
@@ -548,7 +548,7 @@
    <p:Head2>Feria Tertia</p>
    <p:Head3>III classis</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Is 60:2</p>
+   <p:RubricHidden><t>Is 60:2</p>
    <table>
     <tr>
      <td:A1>
@@ -560,7 +560,7 @@
     </tr>
    </table>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Is 40:3</p>
+   <p:RubricHidden><t>Is 40:3</p>
    <table>
     <tr>
      <td:A1>
@@ -576,7 +576,7 @@
    <p:Head3>III classis</p>
    <p:Rubric>Preces are said at Lauds and Vespers.</p>
    <p:Head3>Benedictus</p>
-   <p:RubricHidden><text:tab/>Mal 3:1</p>
+   <p:RubricHidden><t>Mal 3:1</p>
    <table>
     <tr>
      <td:A1>
@@ -665,7 +665,7 @@
    </table>
    <p:BodySm/>
 <?php img(); ?>
-   <p:Body><s:VR/></p>
+   <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Advent</p>
@@ -676,7 +676,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>AUREM tuam, quæsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras grátia tuæ visitatiónis illústra: Qui vivis.</p>
+      <p:BodyLDrop>AUREM tuam, quǽsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras grátia tuæ visitatiónis illústra: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>INCLINE thine ear to our prayers, we beseech thee, O Lord, and brighten the darkness of our minds by the grace of thy visitation. Who livest.</p>
@@ -688,7 +688,7 @@
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Phil. 4:4-5</p>
+   <p:RubricHSm><t>Phil. 4:4-5</p>
    <table>
     <tr>
      <td:A1>
@@ -703,7 +703,7 @@
    </table>
    <p:Rubric>Hymn as in Ordinary of Advent</p>
    <p:Head3>Magnificat</p>
-   <p:RubricHidden><text:tab/>Is. 43:10, 45:23</p>
+   <p:RubricHidden><t>Is. 43:10, 45:23</p>
    <table>
     <tr>
      <td:A1>
@@ -782,7 +782,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Phil. 4:6</p>
+   <p:RubricHSm><t>Phil. 4:6</p>
    <table>
     <tr>
      <td:A1>
@@ -799,7 +799,7 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Phil. 4:7</p>
+   <p:RubricHSm><t>Phil. 4:7</p>
    <table>
     <tr>
      <td:A1>
@@ -835,7 +835,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>AUREM tuam, quæsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras grátia tuæ visitatiónis illústra: Qui vivis.</p>
+      <p:BodyLDrop>AUREM tuam, quǽsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras grátia tuæ visitatiónis illústra: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>INCLINE thine ear to our prayers, we beseech thee, O Lord, and brighten the darkness of our minds by the grace of thy visitation. Who livest.</p>
@@ -900,7 +900,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>PRÆSTA, quæsumus, omnípotens Deus: ut redemptiónis nostræ ventúra solémnitas, et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis præmia largiátur. Per Dóminum.</p>
+      <p:BodyLDrop>PRÆSTA, quǽsumus, omnípotens Deus: ut redemptiónis nostræ ventúra solémnitas, et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis prǽmia largiátur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT, we beseech thee, Almighty God, that the coming solemnity of our redemption may both confer upon us assistance in this present life and bestow upon us the rewards of everlasting happiness. Through our Lord.</p>
@@ -962,7 +962,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: ut hi, qui in tua pietáte confídunt, ab omni cítius adversitáte liberéntur: Qui vivis.</p>
+      <p:BodyLDrop>ÉXCITA, quǽsumus, Dómine, poténtiam tuam, et veni: ut hi, qui in tua pietáte confídunt, ab omni cítius adversitáte liberéntur: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>ROUSE, thy power, we beseech thee, O Lord, and come: that they who trust in thy goodness may be the sooner freed from all adversity. Who livest.</p>
@@ -1018,7 +1018,7 @@
    </table>
    <p:BodySm/>
 <?php img(); ?>
-   <p:Body><s:VR/></p>
+   <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
@@ -1098,7 +1098,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>O ORIENS, * splendor lucis ætérnæ, et sol justítiæ: veni, et illúmina sedéntes in ténebris, et umbra mortis.</p>
+      <p:BodyLDrop>O ÓRIENS, * splendor lucis ætérnæ, et sol justítiæ: veni, et illúmina sedéntes in ténebris, et umbra mortis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O DAY-SPRING, * Brightness of the everlasting Light, Sun of Righteousness, come, to give light to them that sit in darkness, and in the shadow of death!</p>
@@ -1146,7 +1146,7 @@
    </table>
    <p:BodySm/>
 <?php img(); ?>
-   <p:Body><s:VR/></p>
+   <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
@@ -1157,7 +1157,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret: Qui vivis.</p>
+      <p:BodyLDrop>ÉXCITA, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>STIR UP thy power, we beseech thee, O Lord, and come, and succor us with great might, that, by the help of thy grace, what is hindered by our sins, may be hastened by the bounty of thy mercy. Who livest.</p>
@@ -1169,11 +1169,11 @@
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/> 1 Cor. 4:1-2</p>
+   <p:RubricHSm><t> 1 Cor. 4:1-2</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>FRATRES: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic jam quæritur inter dispensatóres, ut fidélis quis inveniátur.</p>
+      <p:BodyLDrop>FRATRES: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic jam quǽritur inter dispensatóres, ut fidélis quis inveniátur.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -1252,7 +1252,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 4:3</p>
+   <p:RubricHSm><t>1 Cor. 4:3</p>
    <table>
     <tr>
      <td:A1>
@@ -1269,11 +1269,11 @@
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>1 Cor. 4:5</p>
+   <p:RubricHSm><t>1 Cor. 4:5</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>ITAQUE nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicuíque a Deo.</p>
+      <p:BodyLDrop>ÍTAQUE nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicuíque a Deo.</p>
       <p:BodyL><s:VR>R. </s>Deo grátias.</p>
      </td>
      <td:B1>
@@ -1295,7 +1295,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>EXCITA, quæsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret: Qui vivis.</p>
+      <p:BodyLDrop>ÉXCITA, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret: Qui vivis.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>STIR UP thy power, we beseech thee, O Lord, and come, and succor us with great might, that, by the help of thy grace, what is hindered by our sins, may be hastened by the bounty of thy mercy. Who livest.</p>
@@ -1386,7 +1386,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Judæa et Jerúsalem, * nolíte timére: cras egrediémini, et Dóminus erit vobíscum, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Judǽa et Jerúsalem, * nolíte timére: cras egrediémini, et Dóminus erit vobíscum, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>O Judah and Jerusalem, * fear not: tomorrow ye shall go out, and the Lord will be with you.</p>
@@ -1429,7 +1429,7 @@
     </tr>
    </table>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 1:1-3</p>
+   <p:RubricHSm><t>Rom. 1:1-3</p>
    <table>
     <tr>
      <td:A1>
@@ -1527,7 +1527,7 @@
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 1:4</p>
+   <p:RubricHSm><t>Rom. 1:4</p>
    <table>
     <tr>
      <td:A1>
@@ -1610,7 +1610,7 @@
    <p:Body/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rom. 1:5-6</p>
+   <p:RubricHSm><t>Rom. 1:5-6</p>
    <table>
     <tr>
      <td:A1>

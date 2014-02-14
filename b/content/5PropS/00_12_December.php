@@ -16,7 +16,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, ómnium largítor bonórum, qui in fámula tua Bibiána cum virginitátis flore martýrii palmam conjunxísti: mentes nostras ejus intercessióne tibi caritáte conjúnge; ut, amótis perículis, præmia consequámur ætérna. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, ómnium largítor bonórum, qui in fámula tua Bibiána cum virginitátis flore martýrii palmam conjunxísti: mentes nostras ejus intercessióne tibi caritáte conjúnge; ut, amótis perículis, prǽmia consequámur ætérna. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, the giver of all good things, who in thy servant Bibiana didst unite the flower of virginity with the palm of martyrdom; so unite our souls unto thee in the bond of charity, by virtue of her intercession, that, being delivered from all dangers, we may obtain the rewards of everlasting life. Through our Lord.</p>
@@ -54,7 +54,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui beátum Petrum Chrysólogum Doctórem egrégium, divínitus præmonstrátum, ad regéndam et instruéndam Ecclésiam tuam éligi voluísti: præsta, quæsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui beátum Petrum Chrysólogum Doctórem egrégium, divínitus præmonstrátum, ad regéndam et instruéndam Ecclésiam tuam éligi voluísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst miraculously point out the glorious doctor Peter Chrysologus, and choose him to be a ruler and teacher of thy Church; grant, we beseech thee, that as on earth he taught us the way of life, so in heaven he may be our continual intercessor with thee. Through our Lord.</p>
@@ -106,7 +106,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
+      <p:BodyL><sr>Ant. </s>Éuge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Well done, good servant, * and faithful, because thou hast been faithful over a few things, enter thou into the joy of thy Lord.</p>
@@ -130,7 +130,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INTERCÉSSIO nos, quæsumus, Dómine, beáti Sabbæ Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per Dóminum.</p>
+      <p:BodyLDrop>INTERCÉSSIO nos, quǽsumus, Dómine, beáti Sabbæ Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>LET THE intercession of the blessed Abbot Sabbas, we beseech thee, O Lord, commend us unto thee, that what by our own merits we are unworthy to receive, we may obtain by his patronage. Through our Lord.</p>
@@ -149,7 +149,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui beátum Nicoláum Pontíficem innúmeris decorásti miráculis: tríbue, quæsumus; ut ejus méritis et précibus a gehénnæ incéndiis líberemur. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui beátum Nicoláum Pontíficem innúmeris decorásti miráculis: tríbue, quǽsumus; ut ejus méritis et précibus a gehénnæ incéndiis líberemur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst glorify the blessed Bishop Nicholas with innumerable miracles; grant, we beseech thee, that, by his merits and prayers, we may be saved from the fires of hell. Through our Lord.</p>
@@ -168,7 +168,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui pópulo tuo ætérnæ salútis beátum Ambrósium minístrum tribuísti: præsta , quæsumus; ut, quem Doctórem vitæ hábuimus in terris, intercessórem habére mereámur in cælis. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui pópulo tuo ætérnæ salútis beátum Ambrósium minístrum tribuísti: præsta , quǽsumus; ut, quem Doctórem vitæ hábuimus in terris, intercessórem habére mereámur in cælis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who didst give unto thy people blessed Ambrose to be a minister of eternal salvation; grant, we beseech thee, that we may be found worthy to have the same as an intercessor in heaven, whom we have had for a teacher of life upon earth. Through our Lord.</p>
@@ -187,7 +187,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: quæsumus; ut qui ex morte ejúsdem Fílii tui prævisa, eam ab omni labe præservásti, nos quoque mundos ejus intercessióne ad te perveníre concédas. Per eúmdem Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: quǽsumus; ut qui ex morte ejúsdem Fílii tui prævísa, eam ab omni labe præservásti, nos quoque mundos ejus intercessióne ad te perveníre concédas. Per eúmdem Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, by the Immaculate Conception of the Virgin, you prepared a worthy habitation for thy Son; we beseech thee, that, as by the foreseen death of thy same Son you preserved her from all stain of sin, so you would grant us also, through her intercession, to come to thee with pure hearts. Through the same.</p>
@@ -200,7 +200,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
 <?php rubrics('ps/ComBVM.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Prov. 8:22-24</p>
+   <p:RubricHSm><t>Prov. 8:22-24</p>
    <table>
     <tr>
      <td:A1>
@@ -322,11 +322,11 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Head3>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 17:33, 40:12</p>
+   <p:RubricHidden><t>Ps 17:33, 40:12</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Deus omnípotens * Præcinxit me virtúte.</p>
+      <p:BodyL><s:VR>V. </s>Deus omnípotens * Præcínxit me virtúte.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>God Almighty * hath girt me with strength.</p>
@@ -350,7 +350,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>R. </s>Præcinxit me virtúte.</p>
+      <p:BodyL><s:VR>R. </s>Præcínxit me virtúte.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>R. </s>Hath girt me with strength.</p>
@@ -393,7 +393,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <p:Head2>ad Sextam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Ezech. 44:2-3</p>
+   <p:RubricHSm><t>Ezech. 44:2-3</p>
    <table>
     <tr>
      <td:A1>
@@ -407,7 +407,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:Head3>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 40:12, 29:2</p>
+   <p:RubricHidden><t>Ps 40:12, 29:2</p>
    <table>
     <tr>
      <td:A1>
@@ -478,7 +478,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
    <p:Head3>Little Chapter</p>
-   <p:RubricHSm><text:tab/>Rev. 12:1</p>
+   <p:RubricHSm><t>Rev. 12:1</p>
    <table>
     <tr>
      <td:A1>
@@ -492,7 +492,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:Head3>Brief Respond</p>
-   <p:RubricHidden><text:tab/>Ps 29:2</p>
+   <p:RubricHidden><t>Ps 29:2</p>
    <table>
     <tr>
      <td:A1>
@@ -552,7 +552,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>R. </s>Gaudium annuntiávit univérso mundo.</p>
+      <p:BodyL><s:VR>R. </s>Gáudium annuntiávit univérso mundo.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>R. </s>Was a message of joy to the whole world.</p>
@@ -660,7 +660,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Orante sancta Lúcia, * appáruit ei beáta Ágatha, et consolabántur ancíllam Christi.</p>
+      <p:BodyL><sr>Ant 1. </s>Oránte sancta Lúcia, * appáruit ei beáta Ágatha, et consolabántur ancíllam Christi.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 1. </s>While St. Lucy was praying, * the blessed Agatha appeared unto her, and consoled the handmaiden of Christ.</p>
@@ -671,7 +671,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Lúcia virgo, * quid a me petis quod ipsa póteris præstare contínuo matri tuæ?</p>
+      <p:BodyL><sr>Ant 2. </s>Lúcia virgo, * quid a me petis quod ipsa póteris præstáre contínuo matri tuæ?</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 2. </s>O virgin Lucy, * wherefore askest thou of me what thou canst thyself forwith obtain for thy mother?</p>
@@ -695,7 +695,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Soror mea, Lúcia, * virgo Deo devóta, quid a me petis, quod ipsa póteris præstare contínuo matri tuæ?</p>
+      <p:BodyL><sr>Ant 5. </s>Soror mea, Lúcia, * virgo Deo devóta, quid a me petis, quod ipsa póteris præstáre contínuo matri tuæ?</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant 5. </s>Lucy my sister, * thou virgin consecrated to God, wherefore askest thou of me what thou canst thyself forthwith obtain for thy mother?</p>
@@ -749,7 +749,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui nos beáti Eusébii Mártyris tui atque Pontíficis annua solemnitáte lætificas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus. Per Dóminum.</p>
+      <p:BodyLDrop>DEUS, qui nos beáti Eusébii Mártyris tui atque Pontíficis ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalítia cólimus, de ejúsdem étiam protectióne gaudeámus. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>O GOD, who year by year dost gladden us by the solemn feast day of thy Blessed Martyr and Bishop Eusebius, mercifully grant that we who keep his birthday, may ever feel the joyful effects of his protection. Through our Lord.</p>
@@ -765,7 +765,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DA NOBIS, quæsumus, Dómine, beáti Apóstoli tui Thomæ solemnitátibus gloriári: ut ejus semper et patrocíniis sublevémur; et fidem congrua devotióne sectémur. <text:s/>Per Dóminum.</p>
+      <p:BodyLDrop>DA NOBIS, quǽsumus, Dómine, beáti Apóstoli tui Thomæ solemnitátibus gloriári: ut ejus semper et patrocíniis sublevémur; et fidem cóngrua devotióne sectémur. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>GRANT us, Lord, we beseech thee, to glory in the solemnity of thy blessed Apostle Thomas, that we may ever be aided by his patronage, and follow his faith with true devotion. Through our Lord.</p>

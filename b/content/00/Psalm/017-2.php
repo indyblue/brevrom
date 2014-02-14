@@ -17,4 +17,4 @@ Deus meus, impollúta via ejus: elóquia Dómini igne examináta: * protéctor e
 Quóniam quis Deus præter Dóminum? * aut quis Deus præter Deum nostrum?
 Deus, qui præcínxit me virtúte: * et pósuit immaculátam viam meam.
 Qui perfécit pedes meos tamquam cervórum, * et super excélsa státuens me.
-Qui docet manus meas ad prælium: * et posuísti, ut arcum æreum, bráchia mea.
+Qui docet manus meas ad prǽlium: * et posuísti, ut arcum ǽreum, bráchia mea.

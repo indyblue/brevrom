@@ -8,7 +8,7 @@ Et prótulit primórdia.
 
 Sol, qui perérrat áureo
 Terras jacéntes lúmine,
-Nil grátius per sæcula
+Nil grátius per sǽcula
 Hac vidit æde, aut sánctius.
 
 Ad hanc frequéntes cónvolant
@@ -22,14 +22,14 @@ Quo Virgo gestit gáudio
 Matérna obíre múnera!
 
 Adest amóris párticeps
-Curæque Joseph cónjugi,
+Curǽque Joseph cónjugi,
 Quos mille jungit néxibus
 Virtútis auctor grátia.
 
 Hi diligéntes ínvicem
 In Jesu amórem cónfluunt,
 Utríque Jesus mútuæ
-Dat caritátis præmia.
+Dat caritátis prǽmia.
 
 Sic fiat, ut nos cáritas
 Jungat perénni fœdere,
