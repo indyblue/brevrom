@@ -1,0 +1,1 @@
+Deus, qui in tuæ caritátis exémplum, ad fidélium redemptiónem sanctum Petrum Ecclésiam tuam nova prole fœcundáre divínitus docuísti: ipsíus nobis intercessióne concéde; a peccáti servitúte solútis, in cælésti pátria perpétua libertáte gaudére: Qui vivis.

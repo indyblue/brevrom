@@ -15,7 +15,7 @@
 	prayer('prSanct/0511.php'); 
 
 	space();
-	rubrics('prSanct/horas_from.php','csApPTLH',2);
+	rubrics('prSanct/horas_from.php','csApPTLH',2,'');
 
 	space();
 	hour('V'); 

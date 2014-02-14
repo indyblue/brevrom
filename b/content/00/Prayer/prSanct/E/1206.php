@@ -1,0 +1,1 @@
+O God, who hast vouchsafed to glorify the blessed Bishop Nicholas with innumerable miracles; grant, we beseech thee, that, by his merits and prayers, we may be saved from the fires of hell. Through our Lord.

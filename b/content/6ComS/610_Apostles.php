@@ -13,9 +13,7 @@
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
-//	rubrics('asIn.php','csApLlc','Lauds','Little Chapter &amp; Hymn <snr>Exsúltet orbis gáudiis</s>');
-	lc('eph2_19.php','csApLlc');
-	hymn('exsultet_orbis_gaudiis.php',1);
+	lc('eph2_19.php','csApLlc','h','exsultet_orbis_gaudiis.php');
 	vrS('in_omnem_terram_exivit_sonus_eorum.php');
 	ant('tradent_enim_vos_in_conciliis.php','M');
 	rubrics('cs/1Compline.php');
@@ -75,8 +73,7 @@
 	space('Spacer');
 	ant('csApV.php','00001');
 	lc('eph2_19.php');
-//	rubrics('asIn.php','exsultet_orbis_gaudiis','Lauds','Hymn <snr>Exsúltet orbis gáudiis</s>');
-	hymn('exsultet_orbis_gaudiis.php',1);
+	hymn('exsultet_orbis_gaudiis.php',0);
 	vrS('annuntiaverunt_opera_dei.php');
 	ant('estote_fortes_in_bello.php','M');
 	rubrics('cs/Compline.php');

@@ -1,0 +1,1 @@
+Give ear, O Lord, to our supplications, and grant that we, who by reason of our sinfulness know that we are guilty, may, by the intercession of thy blessed Martyrs Vincent and Anastasius, be mercifully delivered. Through our Lord.

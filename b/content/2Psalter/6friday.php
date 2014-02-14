@@ -56,7 +56,7 @@
 	canticle('isaiah45.php');
 	space(2);
 	ant('Psalter/6Fri/1L1.php','00012');
-	bookmark('ps147');
+	bookmark('Ps147');
 	psalm(147,0,1);
 	space(2);
 	ant('Psalter/6Fri/1L1.php','00001');

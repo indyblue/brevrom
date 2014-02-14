@@ -1,0 +1,1 @@
+O God, who, by the Immaculate Conception of the Virgin, didst prepare a worthy habitation for thy Son; we beseech thee that, as by the foreseen death of thy same Son, thou didst preserve her from all stain of sin, so thou wouldst enable us, being made pure by her intercession, to come unto thee. Through the same.

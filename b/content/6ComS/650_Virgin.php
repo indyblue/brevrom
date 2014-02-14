@@ -12,7 +12,7 @@
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php');
-	rubrics('asIn.php','csVVlc','II Vespers','Little Chapter &amp; Hymn <snr>Jesu, coróna Vírginum</s>');
+	lc('2cor10_17.php','csVLlc','h','jesu_corona_virginum.php');
 	vrS('specie_tua_et_pulcritudine_tua.php',2);
 	ant('veni_sponsa_christi_accipe_coronam.php','M',2);
   	space('Line');
@@ -27,6 +27,7 @@
 	ant('csVL.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('csVL.php','02222');
+	bookmark('csVLlc');
 	lc('2cor10_17.php');
 	rubrics('head/HymnVerse.php');
 	hymn('jesu_corona_virginum.php');
@@ -92,8 +93,7 @@
 	bookmark('csVVlc');
 	lc('2cor10_17.php');
 	rubrics('head/HymnVerse.php');
-	bookmark('jesu_corona_virginum');
-	hymn('jesu_corona_virginum.php');
+	hymn('jesu_corona_virginum.php',0);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
 	ant('veni_sponsa_christi_accipe_coronam.php','M');
   	space('Line');

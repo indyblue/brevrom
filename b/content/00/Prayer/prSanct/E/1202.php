@@ -1,0 +1,1 @@
+O God, the bountiful giver of all good things, who in thy handmaid Bibiana didst unite the palm of martyrdom with the flower of virginity; do thou, by her intercession, so unite our souls unto thee in the bond of love, that, being delivered from all dangers, we may obtain the rewards of life everlasting. Through our Lord.

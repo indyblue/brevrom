@@ -12,7 +12,7 @@
 <?php prayer('prSanct/1015.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('prSanct/horas_from.php','csVLH',3); ?>
+<?php rubrics('prSanct/horas_from.php','csVLH',3,''); ?>
    <p:BodySm/>
 
 <?php hour('V'); ?>

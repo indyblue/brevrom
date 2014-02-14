@@ -54,9 +54,9 @@
 	vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php');
 
 	hour('N');
-	lc('jer23_6.php');
-	brS('PrTemp/ostende_nobis_domine_misericordiam_tuam.php');
-	vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php');
+	lc('is14_1.php');
+	brS('PrTemp/super_te_jerusalem_orietur_dominus.php');
+	vrS('PrTemp/veni_domine_et_noli_tardare.php');
 
 	hour('V');
 	lc('gen49_10.php');

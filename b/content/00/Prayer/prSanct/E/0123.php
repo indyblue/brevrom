@@ -1,0 +1,1 @@
+O God, who didst choose blessed Raymund to be an eminent minister of the Sacrament of Penance, and didst miraculously bear him across the waves of the sea; grant that, by his intercession, we may be enabled to bring forth worthy fruits of penance, and to attain unto the harbour of salvation. Through our Lord.

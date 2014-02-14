@@ -9,7 +9,8 @@ feast_saint(304,3,'Sancti Casimiri','Saint Casimir','C');
 feast_saint(306,3,'Ss. Perpetuæ et Felicitatis','Ss. Perpetua and Felicitas','HM+',
 		array('csHolyWomenMartyrs1.php','Perpétuæ et Felicitátis','Perpetua and Felicitas'));
 
-feast_saint(307,3,'S. Thomæ de Aquino','St. Thomas Aquinas','CD',0,0,array('Thoma','Thomas'));
+feast_saint(307,3,'S. Thomæ de Aquino','St. Thomas Aquinas','CD',0,0,
+	array('Thoma','Thomas'));
 
 feast_saint(308,3,'S. Joannis a Deo','St. John of God','C');
 

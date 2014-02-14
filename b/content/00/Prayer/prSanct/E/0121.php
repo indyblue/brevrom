@@ -1,0 +1,1 @@
+Almighty and eternal God, who choosest the weak things of the world that thou mayest confound the strong; mercifully grant that we who celebrate the feast of the blessed Agnes, thy Virgin and Martyr, may experience the benefit of her intercession with thee. Through our Lord.

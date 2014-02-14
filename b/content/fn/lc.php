@@ -51,9 +51,11 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 			$conclE = ' But thou, O Lord, have mercy upon us.'. $conclE;
 		}
 	} elseif($opt=='h' || $opt=='H') {
-		$dir2 = $_GET['root'] . "/00/Hymn/L/";
-		$pieces = file_load($dir2.$file2);
-		$ref2 = 'and hymn, <snr>'. trimP($pieces[3]) . '</s>, ';
+		if($file2) {
+			$dir2 = $_GET['root'] . "/00/Hymn/L/";
+			$pieces = file_load($dir2.$file2);
+			$ref2 = 'and hymn, <snr>'. trimP($pieces[3]) . '</s>, ';
+		} else $ref2 = 'and hymn ';
 	} elseif($opt=='br' || $opt=='BR') {
 		$dir2 = $_GET['root'] . "/00/VR/";
 		$pieces = file_load($dir2.$file2);

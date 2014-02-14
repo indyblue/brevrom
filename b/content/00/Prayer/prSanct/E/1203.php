@@ -1,0 +1,1 @@
+O God, who didst will to gather into thy Church the people of the Indies by the preaching and miracles of blessed Francis; mercifully grant that, as we honour his wonderful merits, we may also imitate the example of his virtues. Through our Lord.

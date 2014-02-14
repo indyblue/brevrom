@@ -12,7 +12,7 @@
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV.php');
-	rubrics('asIn.php','csCVlc','II Vespers','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>');
+	lc('ecclus31_8.php','csCVlc','h','iste_confessor_domini_colentes.php');
 	vrS('amavit_eum_dominus_et_ornavit_eum.php',2);
 	ant('similabo_eum_viro_sapienti.php','M',2);
 	rubrics('cs/1Compline.php');

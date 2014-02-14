@@ -56,6 +56,7 @@
 	canticle('david.php');
 	space('Spacer');
 	ant('Psalter/2Mon/1L1.php','00012');
+	bookmark('Ps116');
 	psalm(116,0,1);
 	space('Spacer');
 	ant('Psalter/2Mon/1L1.php','00001');
@@ -145,7 +146,7 @@
 	psalm(114);
 	space('Spacer');
 	ant('Psalter/2Mon/6V.php','12000');
-	bookmark('ps115');
+	bookmark('Ps115');
 	psalm(115);
 	space('Spacer');
 	ant('Psalter/2Mon/6V.php','01200');

@@ -26,9 +26,10 @@ feast_saint(207,3,'Sancti Romualdi','Saint Romuald','a',
 feast_saint(208,3,'S. Joannis de Matha','St. John of Matha','C');
 
 feast_saint(209,3,'S. Cyrilli, Ep. Alexandrini',
-	'St. Cyril, Bp. of Alexandria','ECD',0,
+	'St. Cyril, Bp. of Alexandria','-ECD',0,
 	'feast_saint(209,-1,"Sanctæ Apolloniæ","Saint Apollonia","VM",
-		array("csVirginMartyr2.php","Apollóniæ","Apollonia"));');
+		array("csVirginMartyr2.php","Apollóniæ","Apollonia"));',
+		array('Cyrílle','Cyril'));
 
 feast_saint(210,3,'Sanctæ Scholasticæ','Saint Scholastica','V');
 
@@ -46,7 +47,8 @@ feast_saint(218,0,'Sancti Simeonis','Saint Simeon','EM',
 
 require '0222-2_chair_st_peter.php';
 
-feast_saint(223,3,'S. Petri Damiani','St. Peter Damian','ECD');
+feast_saint(223,3,'S. Petri Damiani','St. Peter Damian','ECD',0,0,
+		array('Petre','Peter'));
 
 require '0224-2_matthias.php';
 

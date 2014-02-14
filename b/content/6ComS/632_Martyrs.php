@@ -13,7 +13,7 @@
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
-	rubrics('asIn.php','csMmVlc','II Vespers','Little Chapter &amp; Hymn <snr>Sanctórum méritis ínclita gáudia</s>');
+	lc('wis3_1.php','csMmVlc','h','sanctorum_meritis_inclyta_gaudia.php');
 	vrS('laetamini_in_domino_et_exultate_justi.php');
 	rubrics('head/Magnificat.php');
 	ant('istorum_est_enim_regnum_caelorum.php','M');

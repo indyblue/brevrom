@@ -163,7 +163,7 @@
 	psalm(130,0,1);
 	space(2);
 	ant('Psalter/4Wed/6V.php','00012');
-	bookmark('ps131');
+	bookmark('Ps131');
 	psalm(131);
 	space(2);
 	ant('Psalter/4Wed/6V.php','00001');

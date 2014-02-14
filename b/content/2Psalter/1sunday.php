@@ -173,7 +173,7 @@
 	ant('Psalter/alleluia.php','p');
 	space('Line');
 	rubp('<snr>¶</s> Loco psalmi quinti ad Vesperas in pluribus festis:','<snr>¶</s> On many feasts, the following is said in place of the fifth psalm, Ps. 113 <snr>In éxitu Israël</s>:');
-	bookmark('ps116');
+	bookmark('Ps116');
 	psalm(116);
 	space('Line');
 	rubrics('ps/hour_continues.php');

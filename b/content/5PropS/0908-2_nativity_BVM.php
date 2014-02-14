@@ -19,7 +19,7 @@
 <?php prayer('csMartyr1.php','Adriáni','Adrian'); ?>
    <p:BodySm/>
 
-<?php rubrics('prSanct/horas_from.php','csBVMLH',2); ?>
+<?php rubrics('prSanct/horas_from.php','csBVMLH',2,''); ?>
 <?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
    <p:BodySm/>
 

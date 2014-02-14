@@ -1,0 +1,1 @@
+O God, by whose gracious will the blessed Francis thy Confessor and Bishop became all things unto all men for the saving of their souls; mercifully grant that, being filled with the sweetness of thy love, we may, through the guidance of his counsel and by the aid of his merits, attain unto the joys of life eternal. Through our Lord.

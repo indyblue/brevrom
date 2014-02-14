@@ -12,7 +12,7 @@
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV147.php');
-	rubrics('asIn.php','csChurchVlc','II Vespers','Little Chapter &amp; Hymn <snr>Cæléstis urbs Jerúsalem</s>');
+	lc('apoc21_2.php','csChurchVlc','h','caelestis_urbs_jerusalem.php');
 	vrS('haec_est_domus_domini_firmiter_aedificata.php',2);
 	ant('sanctificavit_dominus_tabernaculum_suum.php','M',2);
 	rubrics('cs/1Compline.php');

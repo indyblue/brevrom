@@ -1,0 +1,1 @@
+Grant to us, we beseech thee, O Lord, to glory in the festival of thy blessed Apostle Thomas, and being defended by his protection, to follow with meet piety the example of his faith. Through our Lord.

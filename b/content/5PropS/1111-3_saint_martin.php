@@ -17,7 +17,7 @@
 <?php prayer('csMartyr1.php','Mennæ','Mennas'); ?>
 	<p:BodySm/>
 
-<?php rubrics('prSanct/horas_from.php','csCBLH',3); ?>
+<?php rubrics('prSanct/horas_from.php','csCBLH',3,''); ?>
    <p:BodySm/>
 
 <?php hour('V'); ?>

@@ -7,8 +7,7 @@
 
 	head('De antiphonis et psalmis','Antiphons and psalms',2);
 	rubp('<snr>13</s> Deinde sub congruentibus antiphonis dicuntur psalmi et canticum, prouti Officium occurrens requirit.', '<snr>13</s> Then with the corresponding antiphons, the psalms and canticle are said, according to the Office of the day.');
-	rubp('Alterum psalmorum schema adhibetur: (a) in dominicis temporis Septuagesimæ, Quadragesimæ et Passionis; (b) in omnibus feriis temporis Adventus, Septuagesimæ, Quadragesimæ et Passionis, Quatuor Temporum septembris, et in vigiliis II et III classis extra tempus paschale. Reliquis diebus, sumitur primum psalmorum schema.',
-		'Scheme II of the psalms is used: (a) on Sundays of the seasons of Septuagesima, Lent, and Passiontide; (b) on all ferias of the seasons of Advent, Septuagesima, Lent and Passiontide, the September Ember Days, and on vigils of the 2nd and 3rd class outside of Paschaltide. Scheme I is used at all other times.');
+	rubp('Alterum psalmorum schema adhibetur: (a) in dominicis temporis Septuagesimæ, Quadragesimæ et Passionis; (b) in omnibus feriis temporis Adventus, Septuagesimæ, Quadragesimæ et Passionis, Quatuor Temporum septembris, et in vigiliis II et III classis extra tempus paschale. Reliquis diebus, sumitur primum psalmorum schema.', 'Scheme II of the psalms is used: (a) on Sundays of the seasons of Septuagesima, Lent, and Passiontide; (b) on all ferias of the seasons of Advent, Septuagesima, Lent and Passiontide, the September Ember Days, and on vigils of the 2nd and 3rd class outside of Paschaltide. Scheme I is used at all other times.');
 	rubp('','The Psalms and Antiphons, unless proper, are given in the Psalter:');
 	rubp('','Scheme I: 
 		Sunday (<snr>p. '. bkref('psDL1') .'</s>) 

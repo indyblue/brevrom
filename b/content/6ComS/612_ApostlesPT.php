@@ -18,7 +18,7 @@
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
-	rubrics('asIn.php','csApPTVlc','II Vespers','Little Chapter &amp; Hymn <snr>Exsúltet orbis gáudiis</s>');
+	lc('wis5_1.php','csMVlc','h');
 	vrS('sancti_et_justi_in_domino_gaudete.php',1);
 	ant('lux_perpetua_lucebit_sanctis_tuis_domine.php','M',1);
 	rubrics('cs/1Compline.php');

@@ -1,0 +1,1 @@
+O God, who by the preaching of the blessed Apostle Paul didst teach the whole world; grant, we beseech thee, that we who this day celebrate his Conversion may by following his example advance in the way that leadeth unto thee. Through our Lord.

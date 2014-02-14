@@ -1,0 +1,1 @@
+O God, who for the honour of thy Church wert pleased to adorn the blessed King Canute with the palm of martyrdom, and with glorious miracles: mercifully grant that, by treading in the footsteps of one who followed the Lord in his sufferings, we also may deserve to attain unto everlasting joys. Through the same.

@@ -110,6 +110,10 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		elseif(518 <= $date && $date <= 611)
 			$pt = 2;
 
+		// advent commem. range
+		$advent = 0;
+		if(1130 <= $date && $date <= 1223)
+			$advent = 1;
 	} else {
 		$Ldate = $date;
 		$Edate = $date;
@@ -218,6 +222,8 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	else trigger_error('Problem parsing type string for '. $Edate
 	  	.' ('. $nameE .'): '. $type, E_USER_ERROR);
 
+	if(is_string($ant) && strlen($ant)>0) 
+		$Lant = $ant;
 	
 	// construct long form type
 	$Ltype = ''; $Etype = '';
@@ -262,6 +268,8 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			prayer($prayer[0],$prayer[1],$prayer[2]);
 		} else
 			prayer($prayer);
+		if($advent)
+			rubp('Et fit com. feriæ in Laudibus et in Vesperis',' And a commem. is made of the feria at Lauds and Vespers.');
 		if($commem) 
 			eval($commem);
 		if(is_array($ant)) {

@@ -103,7 +103,7 @@
 	head('Pro nec Virg. nec Mart.','For a Holy Woman, not a Martyr',-4);
 	lc('prov31_10.php');
 	rubrics('head/HymnVerse.php');
-	hymn('fortem_virili_pectore.php');
+	hymn('fortem_virili_pectore.php',0);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
 	ant('manum_suam_aperuit_inopi.php','M',2);
 	space('Line');

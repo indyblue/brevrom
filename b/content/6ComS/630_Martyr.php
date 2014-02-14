@@ -13,7 +13,7 @@
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
-	rubrics('asIn.php','csMVlc','II Vespers','Little Chapter &amp; Hymn <snr>Deus, tuórum mílitum</s>');
+	lc('jas1_12.php','csMVlc','h','deus_tuorum_militum.php');
 	vrS('gloria_et_honore_coronasti_eum_domine.php');
 	ant('iste_sanctus_pro_lege_dei_sui.php','M');
 	rubrics('cs/1Compline.php');

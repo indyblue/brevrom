@@ -212,6 +212,7 @@ function multiant($day, $hour, $incs='*') {
 		elseif($hour==5) $incs = '0000+';
 
 		space('Line');
+		rubp('In Officio feriali:','In the ferial Office:');
 		rubp('Infra hebd. I Adventus:','In the first week of Advent:',0,1);
 		ant('prTemp/advent01.php',$incs,0,'','',1);
 		rubp('Infra hebd. II Adventus:','In the second week of Advent:',0,1);

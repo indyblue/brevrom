@@ -1,0 +1,1 @@
+O God, who didst miraculously point out the glorious doctor Peter Chrysologus, and choose him to be a ruler and teacher of thy Church; grant, we beseech thee, that we may deserve to have him for an intercessor in heaven whom we have had as a teacher of life on earth. Through our Lord.

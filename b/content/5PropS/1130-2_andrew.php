@@ -1,47 +1,55 @@
-<?php img(); ?>
-	<p:BodySm/>
-<?php headSt('Nov. 30',2,'Sancti Andreæ','Saint Andrew','Apostle'); ?>
-   <p:BodySm/>
-<?php hour('L'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1130L.php','20000'); ?>
-<?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1130L.php','02222'); ?>
-<?php lc('rom10_10.php'); ?>
-<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Common of Apostles','Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>
-<?php vrS('annuntiaverunt_opera_dei.php'); ?>
-<?php ant('prSanct/1130b.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('prSanct/1130.php'); ?>
-   <p:BodySm/>
-<?php rubrics('ps/LittleHoursFeria.php'); ?>
-   <p:BodySm/>
+<?php
 
-<?php hour('T'); ?>
-<?php lc('rom10_10.php'); ?>
-<?php brS('in_omnem_terram_exivit_sonus_eorum.php'); ?>
-<?php vrS('constitues_eos_principes_super_omnem_terram.php'); ?>
-	<p:BodySm/>
+	img();
+	space();
+	feast_saint(1130,12,'Sancti Andreæ','Saint Andrew','A');
+	hour('L');
+	ant('prSanct/1130L.php','20000');
+	rubrics('ps/SuL1.php');
+	ant('prSanct/1130L.php','02222');
+	lc('rom10_10.php');
+	hymn('exsultet_orbis_gaudiis.php',1);
+	vrS('annuntiaverunt_opera_dei.php');
+	ant('prSanct/1130b.php','B');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/1130.php');
+	rubrics('prSanct/comm_feria.php');
+	space();
+	rubrics('ps/LittleHoursFeria.php');
+	space();
 
-<?php hour('S'); ?>
-<?php lc('rom10_12.php'); ?>
-<?php brS('constitues_eos_principes_super_omnem_terram.php'); ?>
-<?php vrS('nimis_honorati_sunt_amici_tui_deus.php'); ?>
-	<p:BodySm/>
+	hour('T');
+	lc('rom10_10.php');
+	brS('in_omnem_terram_exivit_sonus_eorum.php');
+	vrS('constitues_eos_principes_super_omnem_terram.php');
+	space();
 
-<?php hour('N'); ?>
-<?php lc('rom10_16.php'); ?>
-<?php brS('nimis_honorati_sunt_amici_tui_deus.php'); ?>
-<?php vrS('annuntiaverunt_opera_dei.php'); ?>
-   <p:BodySm/>
+	hour('S');
+	lc('rom10_12.php');
+	brS('constitues_eos_principes_super_omnem_terram.php');
+	vrS('nimis_honorati_sunt_amici_tui_deus.php');
+	space();
 
-<?php hour('V'); ?>
-<?php rubrics('ps/antLauds.php'); ?>
-<?php rubrics('ps/ComAp.php'); ?>
-<?php lc('rom10_10.php'); ?>
-<?php rubrics('asIn.php','exsultet_orbis_gaudiis','Common of Apostles','Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>
-<?php vrS('annuntiaverunt_opera_dei.php'); ?>
-<?php ant('prSanct/1130m2.php','M'); ?>
-<?php rubrics('prSanct/if1Vespers.php'); ?>
-<?php ant('prSanct/1130m1.php','M'); ?>
-<?php rubrics('prSanct/ComplineSun.php'); ?>
+	hour('N');
+	lc('rom10_16.php');
+	brS('nimis_honorati_sunt_amici_tui_deus.php');
+	vrS('annuntiaverunt_opera_dei.php');
+	space();
+
+	hour('V');
+	rubrics('ps/antLauds.php');
+	rubrics('ps/ComAp.php');
+	lc('rom10_10.php');
+	hymn('exsultet_orbis_gaudiis.php',1);
+	vrS('annuntiaverunt_opera_dei.php');
+	ant('prSanct/1130m2.php','M');
+	space('Line');
+	rubrics('prSanct/if1Vespers.php');
+	vrS('in_omnem_terram_exivit_sonus_eorum.php');
+	ant('prSanct/1130m1.php','M');
+	space('Line');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/1130.php');
+	rubrics('prSanct/comm_feria.php');
+	rubrics('prSanct/ComplineSun.php');
+?>
