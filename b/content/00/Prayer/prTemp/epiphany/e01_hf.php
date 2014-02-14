@@ -1,0 +1,1 @@
+Dómine, Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum: Qui vivis.

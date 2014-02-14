@@ -27,6 +27,7 @@ require '08_compline.php';
 bookmark('orSeason');
 require '11_advent.php';
 require '12_nativity.php';
+require '13_epiphany.php';
 
 ?>
 
@@ -76,7 +77,7 @@ require '12_nativity.php';
     </tr>
    </table>
    <p:Head3>Hymn</p>
-<?php hymn('o_sola_magnarum_urbium.php'); ?>
+<?php hymn('o_sola_magnarum_urbium.php',0); ?>
 <?php vrS('PrTemp/adorate_deum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>

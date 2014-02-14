@@ -42,7 +42,7 @@
 	head('De hymno et versu','The hymn and verse',3);
 	hymn('jesu_redemptor_omnium_quem.php');
 	vrS('PrTemp/notum_fecit_dominus.php',1);
-	ant('PrTemp/0101m2.php','M');
+	ant('PrTemp/nativity/0101m2.php','M');
 	rubp('Oratio ut supra ad Laudes','Prayer as above at Lauds');
 
 ?>

@@ -1,0 +1,1 @@
+We beseech thee, O Lord, to receive, in thy divine goodness, the prayers of thy suppliant people, that they may both know what things they ought to do and be strengthened in the accomplishment thereof. Through our Lord.
