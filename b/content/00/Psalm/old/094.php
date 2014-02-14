@@ -2,10 +2,10 @@
    <table>
     <tr>
 	  <td:A1>
-      <p:BodyL><s:Rubric>Dicitur conveniens Invitatorium, quod ante Psalmum bis integrum recitatur.</s></p>
+      <p:BodyL><sr>Dicitur conveniens Invitatorium, quod ante Psalmum bis integrum recitatur.</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>The proper Invitatory is said, which is recited twice in its entirety before the Psalm.</s></p>
+      <p:BodyE><sr>The proper Invitatory is said, which is recited twice in its entirety before the Psalm.</s></p>
      </td>
     </tr>
     <tr>
@@ -42,10 +42,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ad verba </s>veníte, adorémus, et procidámus ante Deum<s:Rubric>, genuflectitur.</s></p>
+      <p:BodyL><sr>Ad verba </s>veníte, adorémus, et procidámus ante Deum<sr>, genuflectitur.</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>At the words </s>Come let us adore and fall down before God<s:Rubric>, all genuflect.</s></p>
+      <p:BodyE><sr>At the words </s>Come let us adore and fall down before God<sr>, all genuflect.</s></p>
      </td>
     </tr>
     <tr>

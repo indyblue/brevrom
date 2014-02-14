@@ -28,7 +28,7 @@
     </tr>
    </table>
 <?php vr('deus_in_adjutorium.php'); ?>
-<?php bookmark('Ps94'); ?>
+<?php echo bookmark('Ps94'); ?>
 <?php psalm('094.php'); ?>
    <p:Head2>Table of Invitatories</p>
    <p:RubricH>Sunday, Winter:<text:tab/>From Sept 27 to Nov 27, Jan 13 to Septuagesima</p>
@@ -112,10 +112,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL>Ave, María, grátia plena; * Dóminus tecum <s:Rubric>(P.T.</s> allelúja<s:Rubric>)</s>.</p>
+      <p:BodyL>Ave, María, grátia plena; * Dóminus tecum <sr>(P.T.</s> allelúja<sr>)</s>.</p>
      </td>
      <td:B1>
-      <p:BodyE>Hail Mary, full of grace; * The Lord is with thee <s:Rubric>(P.T.</s> alleluia<s:Rubric>)</s>.</p>
+      <p:BodyE>Hail Mary, full of grace; * The Lord is with thee <sr>(P.T.</s> alleluia<sr>)</s>.</p>
      </td>
     </tr>
    </table>
@@ -257,7 +257,7 @@
    <p:Spacer/>
    <p:Head2>Hymn and Verse</p>
    <p:Spacer/>
-<?php bookmark('Benedictus'); ?>
+<?php echo bookmark('Benedictus'); ?>
 <?php canticle('benedictus.php'); ?>
 <?php vr('preces.php',1); ?>
    <p:Head2>Collect</p>
@@ -326,10 +326,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>[V.</s><s:Rubric> </s>Qui sedes ad déxteram Patris.<s:VR>]</s></p>
+      <p:BodyL><s:VR>[V.</s><sr> </s>Qui sedes ad déxteram Patris.<s:VR>]</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:VR>[V.</s><s:Rubric> </s>Who sits at the right hand of the Father.<s:VR>]</s></p>
+      <p:BodyE><s:VR>[V.</s><sr> </s>Who sits at the right hand of the Father.<s:VR>]</s></p>
      </td>
     </tr>
     <tr>
@@ -1194,7 +1194,7 @@
    <p:Spacer/>
    <p:Head2>Hymn and Verse</p>
    <p:Spacer><text:s/></p>
-<?php bookmark('Magnificat'); ?>
+<?php echo bookmark('Magnificat'); ?>
 <?php canticle('magnificat.php'); ?>
 <?php vr('preces.php'); ?>
    <p:Head2>Collect</p>
@@ -1266,14 +1266,14 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm>Pater noster. <s:Rubric>(secreto)</s></p>
+      <p:BodyLSm>Pater noster. <sr>(secreto)</s></p>
      </td>
      <td:B1>
-      <p:BodyESm>Our Father. <s:Rubric>(secretly)</s></p>
+      <p:BodyESm>Our Father. <sr>(secretly)</s></p>
      </td>
     </tr>
    </table>
-   <p:Body><s:Rubric>When Compline is said as the last prayer at the end of the day, the </s><s:NonRubric>Pater </s><s:Rubric>is not said and in its place, in choir and in common, an examination of conscience is made; which may also be observed in recitation alone.</s></p>
+   <p:Body><sr>When Compline is said as the last prayer at the end of the day, the </s><snr>Pater </s><sr>is not said and in its place, in choir and in common, an examination of conscience is made; which may also be observed in recitation alone.</s></p>
    <p:Head2>Examination of Conscience</p>
    <p:RubricH>In Private Recitation:</p>
    <table>
@@ -1287,10 +1287,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>(percute tibi pectus ter)</s></p>
+      <p:BodyLSm><sr>(percute tibi pectus ter)</s></p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>(they strike their breasts thrice)</s></p>
+      <p:BodyESm><sr>(they strike their breasts thrice)</s></p>
      </td>
     </tr>
     <tr>
@@ -1332,43 +1332,43 @@
    </table>
 	<p:BodySm/>
    <p:RubricHSm>In Choir:</p>
-   <p:BodySm><s:Rubric>The Officiant (Priest) prays the </s><s:NonRubric>Confíteor</s><s:Rubric> for himself.</s></p>
+   <p:BodySm><sr>The Officiant (Priest) prays the </s><snr>Confíteor</s><sr> for himself.</s></p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Choir: </s>Misereátur tui omnípotens Deus, et, dimíssis peccátis tuis, perdúcat te ad vitam ætérnam.</p>
-      <p:BodyLSm><s:Rubric>Officiant: </s>Amen</p>
+      <p:BodyLSm><sr>Choir: </s>Misereátur tui omnípotens Deus, et, dimíssis peccátis tuis, perdúcat te ad vitam ætérnam.</p>
+      <p:BodyLSm><sr>Officiant: </s>Amen</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Choir: </s>May almighty God have mercy on you, forgive you your sins, and bring you to life everlasting.</p>
-      <p:BodyESm><s:Rubric>Officiant: </s>Amen</p>
+      <p:BodyESm><sr>Choir: </s>May almighty God have mercy on you, forgive you your sins, and bring you to life everlasting.</p>
+      <p:BodyESm><sr>Officiant: </s>Amen</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Choir: </s>Confíteor...</p>
+      <p:BodyLSm><sr>Choir: </s>Confíteor...</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Choir: </s>I confess...</p>
+      <p:BodyESm><sr>Choir: </s>I confess...</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Officiant: </s>Misereátur vestri omnípotens Deus, et, dimíssis peccátis vestris, perdúcat vos ad vitam ætérnam.</p>
+      <p:BodyLSm><sr>Officiant: </s>Misereátur vestri omnípotens Deus, et, dimíssis peccátis vestris, perdúcat vos ad vitam ætérnam.</p>
       <p:BodyLSm><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Officiant: </s>May almighty God have mercy on you, forgive you your sins, and bring you to life everlasting.</p>
+      <p:BodyESm><sr>Officiant: </s>May almighty God have mercy on you, forgive you your sins, and bring you to life everlasting.</p>
       <p:BodyESm><s:VR>R. </s>Amen</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Officiant: </s>Indulgéntiam, † absolutiónem, et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus.</p>
+      <p:BodyLSm><sr>Officiant: </s>Indulgéntiam, † absolutiónem, et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus.</p>
       <p:BodyLSm><s:VR>R. </s>Amen.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Officiant: </s>May the Almighty and merciful Lord grant us pardon, † absolution, and remission of our sins.</p>
+      <p:BodyESm><sr>Officiant: </s>May the Almighty and merciful Lord grant us pardon, † absolution, and remission of our sins.</p>
       <p:BodyESm><s:VR>R. </s>Amen.</p>
      </td>
     </tr>
@@ -1475,7 +1475,7 @@
      </td>
     </tr>
    </table>
-   <p:Rubric>On the 1st and 2nd Sundays of the Passion the <s:NonRubric>Glória Patri </s>is omitted.</p>
+   <p:Rubric>On the 1st and 2nd Sundays of the Passion the <snr>Glória Patri </s>is omitted.</p>
    <p:BodySm/>
    <p:RubricH>The following form is used in Paschaltide (through the Octave of Pentecost):</p>
    <table>
@@ -1548,10 +1548,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<s:Rubric>P.T. </s>Allelúja)</p>
+      <p:BodyL><sr>Ant. </s>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<sr>P.T. </s>Allelúja)</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Save us, * O Lord, waking, guard us sleeping, that awake we may watch with Christ, and asleep rest in peace. (<s:Rubric>P.T. </s>Alleluia)</p>
+      <p:BodyE><sr>Ant. </s>Save us, * O Lord, waking, guard us sleeping, that awake we may watch with Christ, and asleep rest in peace. (<sr>P.T. </s>Alleluia)</p>
      </td>
     </tr>
    </table>
@@ -1561,10 +1561,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<s:Rubric>P.T. </s>Allelúja)</p>
+      <p:BodyL><sr>Ant. </s>Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; ut vigilémus cum Christo, et requiescámus in pace. (<sr>P.T. </s>Allelúja)</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Save us, * O Lord, waking, guard us sleeping, that awake we may watch with Christ, and asleep rest in peace. (<s:Rubric>P.T. </s>Alleluia)</p>
+      <p:BodyE><sr>Ant. </s>Save us, * O Lord, waking, guard us sleeping, that awake we may watch with Christ, and asleep rest in peace. (<sr>P.T. </s>Alleluia)</p>
      </td>
     </tr>
    </table>
@@ -2181,10 +2181,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Mirábile mystérium * declarátur hódie: innovántur natúræ, Deus homo factus est: id quod fuit permánsit, et quod non erat assúmpsit non commixtiónem passus, neque divisiónem.</p>
+      <p:BodyL><sr>Ant. </s>Mirábile mystérium * declarátur hódie: innovántur natúræ, Deus homo factus est: id quod fuit permánsit, et quod non erat assúmpsit non commixtiónem passus, neque divisiónem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>A wondrous mystery * is this day set forth: a new thing hath been created in the earth: God is made man. That which He was He remaineth, and that which He was not He taketh, suffering therein neither confusion nor division. </p>
+      <p:BodyE><sr>Ant. </s>A wondrous mystery * is this day set forth: a new thing hath been created in the earth: God is made man. That which He was He remaineth, and that which He was not He taketh, suffering therein neither confusion nor division. </p>
      </td>
     </tr>
    </table>
@@ -2476,10 +2476,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magnum * hereditátis mystérium: templum Dei factus est úterus nesciéntis virum: non est pollútus ex ea carnem assúmens; omnes gentes vénient, dicéntes: Glória tibi, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Magnum * hereditátis mystérium: templum Dei factus est úterus nesciéntis virum: non est pollútus ex ea carnem assúmens; omnes gentes vénient, dicéntes: Glória tibi, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Great is * the mystery of our inheritance: the womb of her that knew not man is become the temple of God: in taking flesh of her flesh, he was not defiled; all nations shall come, and say: “Glory be to thee, O Lord!”</p>
+      <p:BodyE><sr>Ant. </s>Great is * the mystery of our inheritance: the womb of her that knew not man is become the temple of God: in taking flesh of her flesh, he was not defiled; all nations shall come, and say: “Glory be to thee, O Lord!”</p>
      </td>
     </tr>
    </table>
@@ -3181,7 +3181,7 @@
     </tr>
    </table>
    <p:Head3>Hymn</p>
-<?php bookmark('lustra_sex_qui_jam_peregit'); ?>
+<?php echo bookmark('lustra_sex_qui_jam_peregit'); ?>
 <?php hymn('lustra_sex_qui_jam_peregit.php'); ?>
    <p:RubricHidden><text:tab/>Ps 58:2</p>
    <table>
@@ -3440,7 +3440,7 @@
      </td>
     </tr>
    </table>
-<?php bookmark('vexilla_regis_prodeunt'); ?>
+<?php echo bookmark('vexilla_regis_prodeunt'); ?>
 	<p:Head3>Hymn</p>
 <?php hymn('vexilla_regis_prodeunt.php'); ?>
    <p:RubricHidden><text:tab/>Ps 139:2</p>
@@ -3467,24 +3467,24 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Allelúja, * Allelúja, Allelúja.</p>
+      <p:BodyLSm><sr>Ant. </s>Allelúja, * Allelúja, Allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Alleluia, * Alleluia, Alleluia</p>
+      <p:BodyESm><sr>Ant. </s>Alleluia, * Alleluia, Alleluia</p>
      </td>
     </tr>
    </table>
    <p:Rubric>The word Alleluia is added in certain places where it does not occur out of Paschaltide: it is added to the Invitatory; to each Antiphon when said entire (except, of course, when before a Psalm the Antiphon is the same as the opening words of a Psalm); and to each <s:VR>V</s>. and <s:VR>R</s>. (except those given without it in Common Forms and the Ordinary: i.e. the Opening Versicles, the Preces, etc.).</p>
    <p:Rubric/>
    <p:Rubric>All Brief Responds are said according to the following pattern:</p>
-      <p:Body><s:VR>V. </s><s:Rubric>Versicle as given, to which is added:</s> * Alleluia, alleluia.</p>
-      <p:Body><s:VR>R. </s><s:Rubric>The first versicle is repeated, as above.</s></p>
-      <p:Body><s:VR>V. </s><s:Rubric>Versicle said without modiification.</s></p>
+      <p:Body><s:VR>V. </s><sr>Versicle as given, to which is added:</s> * Alleluia, alleluia.</p>
+      <p:Body><s:VR>R. </s><sr>The first versicle is repeated, as above.</s></p>
+      <p:Body><s:VR>V. </s><sr>Versicle said without modiification.</s></p>
       <p:Body><s:VR>R. </s>Alleluia, alleluia.</p>
       <p:Body><s:VR>V. </s>Glória Patri...Sancto.</p>
-      <p:Body><s:VR>R. </s><s:Rubric>The first versicle is repeated, as above.</s></p>
-      <p:Body><s:VR>V. </s><s:Rubric>Versicle as given, to which is added:</s> alleluia.</p>
-      <p:Body><s:VR>R. </s><s:Rubric>Response as given, to which is added:</s> alleluia.</p>
+      <p:Body><s:VR>R. </s><sr>The first versicle is repeated, as above.</s></p>
+      <p:Body><s:VR>V. </s><sr>Versicle as given, to which is added:</s> alleluia.</p>
+      <p:Body><s:VR>R. </s><sr>Response as given, to which is added:</s> alleluia.</p>
    <p:Body/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Little Chapter</p>
@@ -3852,10 +3852,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ascéndo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ascéndo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I ascend to my Father * and your Father, to my God and your God, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>I ascend to my Father * and your Father, to my God and your God, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -4135,10 +4135,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>O Rex glóriæ, * Dómine virtútum, qui triumphátor hódie super omnes cælos ascendísti, ne derelínquas nos órphanos; sed mitte promíssum Patris in nos, Spíritum veritátis, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>O Rex glóriæ, * Dómine virtútum, qui triumphátor hódie super omnes cælos ascendísti, ne derelínquas nos órphanos; sed mitte promíssum Patris in nos, Spíritum veritátis, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O King of glory, * Lord of hosts, who hast this day ascended in triumph above all the heavens, leave us not orphans; but send unto us the Promise of the Father, even the Spirit of truth, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>O King of glory, * Lord of hosts, who hast this day ascended in triumph above all the heavens, leave us not orphans; but send unto us the Promise of the Father, even the Spirit of truth, alleluia.</p>
      </td>
     </tr>
    </table>

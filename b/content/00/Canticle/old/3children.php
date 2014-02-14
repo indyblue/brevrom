@@ -147,10 +147,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLIndent><s:Rubric>(Fit reveréntia:)</s></p>
+      <p:BodyLIndent><sr>(Fit reveréntia:)</s></p>
      </td>
      <td:B1>
-      <p:BodyEIndent><s:Rubric>(All bow:)</s></p>
+      <p:BodyEIndent><sr>(All bow:)</s></p>
      </td>
     </tr>
     <tr>

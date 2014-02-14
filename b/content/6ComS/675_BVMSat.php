@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>BVM Saturday</p>
-<?php bookmark('csBVMSat'); ?>
+<?php echo bookmark('csBVMSat'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Sanctæ Mariæ in Sabbato':'Office of the B.V.M. on Saturday')
 ?></p>
@@ -32,7 +32,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ in Sabbato':'Office of the B.V.M. on
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('regina_caeli_laetare_alleluia.php','B'); ?>
 <?php rubrics('head/Prayer.php'); ?>
-   <p:Rubric>Prayer <s:NonRubric>Concéde nos</s>, as above.</p>
+   <p:Rubric>Prayer <snr>Concéde nos</s>, as above.</p>
    <p:BodySm/>
 <?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
    <p:BodySm/>

@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Holy Women</p>
-<?php bookmark('csHW'); ?>
+<?php echo bookmark('csHW'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune non Virginum':'Common of Holy Women')
 ?></p>
@@ -43,7 +43,7 @@ echo ($_GET['L']==1?'Commune non Virginum':'Common of Holy Women')
    <p:RubricH>For several Martyrs not Virgins:</p>
 <?php ant('istorum_est_enim_regnum_caelorum.php','B'); ?>
    <p:BodySm/>
-<?php bookmark('csHWLH'); ?>
+<?php echo bookmark('csHWLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -74,7 +74,7 @@ echo ($_GET['L']==1?'Commune non Virginum':'Common of Holy Women')
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
-<?php bookmark('csHWVlc'); ?>
+<?php echo bookmark('csHWVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus51_1.php', 'For a Martyr not a Virgin:'); ?>
 <?php lc('prov31_10.php', 'For a Holy Woman not a Martyr:'); ?>

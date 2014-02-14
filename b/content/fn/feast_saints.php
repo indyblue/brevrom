@@ -96,5 +96,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 
 	// Add line naming the common:
 	// Commune vide p. / Common see p.
+	
 }
+
 ?>

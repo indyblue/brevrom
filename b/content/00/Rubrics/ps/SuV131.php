@@ -1,1 +1,1 @@
-   <p:Rubric>Psalms as in Sunday Vespers, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSuV"/></s>, but in the last place Ps. 131, <s:NonRubric>Meménto Dómine, p. <text:bookmark-ref text:reference-format="page" text:ref-name="Ps131"/></s>.</p>
+   <p:Rubric>Psalms as in Sunday Vespers, <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSuV"/></s>, but in the last place Ps. 131, <snr>Meménto Dómine, p. <text:bookmark-ref text:reference-format="page" text:ref-name="Ps131"/></s>.</p>

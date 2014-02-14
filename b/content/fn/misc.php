@@ -1,17 +1,10 @@
 <?php
 
-/* 
-<?php rubrics('asIn.php','csApLCLauds','Lauds','Little Chapter'); ?> 
-*/
-function rubrics($file, $link='', $location='I Vespers', $content='Psalms and antiphons') {
-	$dir = "/www/b/content/00/Rubrics/";
-		require $dir.$file;
-}
 function bookmark($link='') {
-	echo '<p:BkHidden><text:bookmark text:name="' . $link . '"/></p>';
+	return '<p:BkHidden><text:bookmark text:name="' . $link . '"/></p>';
 }
 function bkref($link='') {
-	echo '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '"/>';
+	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '"/>';
 }
 function PrV($file, $option=0) {
 	$dir = "/www/b/content/00/VR/prime/";

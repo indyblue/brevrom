@@ -42,10 +42,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce nomen Dómini * venit de longínquo, et cláritas ejus replet orbem terrárum.</p>
+      <p:BodyL><sr>Ant. </s>Ecce nomen Dómini * venit de longínquo, et cláritas ejus replet orbem terrárum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold the name of the Lord * cometh from afar, and the whole earth is full of his glory.</p>
+      <p:BodyE><sr>Ant. </s>Behold the name of the Lord * cometh from afar, and the whole earth is full of his glory.</p>
      </td>
     </tr>
    </table>
@@ -56,10 +56,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>In that day, * the mountains shall drop down sweetness, and the hills shall flow with milk and honey, alleluia.</p>
+      <p:BodyE><sr>Ant 1. </s>In that day, * the mountains shall drop down sweetness, and the hills shall flow with milk and honey, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -67,34 +67,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Jucundáre, * fília Sion, et exsúlta satis, fília Jerúsalem, allelúja.</p>
+      <p:BodyL><sr>Ant 2. </s>Jucundáre, * fília Sion, et exsúlta satis, fília Jerúsalem, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Take delight, * O daughter of Sion, and rejoice greatly, O daughter of Sion, alleluia.</p>
+      <p:BodyE><sr>Ant 2. </s>Take delight, * O daughter of Sion, and rejoice greatly, O daughter of Sion, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ecce Dóminus véniet, * et omnes Sancti ejus cum eo: et erit in die illa lux magna, allelúja.</p>
+      <p:BodyL><sr>Ant 3. </s>Ecce Dóminus véniet, * et omnes Sancti ejus cum eo: et erit in die illa lux magna, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Behold, the Lord shall come, * and all his saints with him; and it shall come to pass in that day that the light shall be great, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>Behold, the Lord shall come, * and all his saints with him; and it shall come to pass in that day that the light shall be great, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Omnes sitiéntes, * veníte ad aquas: quærite Dóminum, dum inveníri potest, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Omnes sitiéntes, * veníte ad aquas: quærite Dóminum, dum inveníri potest, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>All you that thirst, * come to the waters: seek ye the Lord, while he may be found, alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>All you that thirst, * come to the waters: seek ye the Lord, while he may be found, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Ecce véniet * Prophéta magnus, et ipse renovábit Jerúsalem, allelúja</p>
+      <p:BodyL><sr>Ant 5. </s>Ecce véniet * Prophéta magnus, et ipse renovábit Jerúsalem, allelúja</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Behold, there cometh * a great prophet, and he shall build up a new Jerusalem, alleluia.</p>
+      <p:BodyE><sr>Ant 5. </s>Behold, there cometh * a great prophet, and he shall build up a new Jerusalem, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -104,10 +104,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Spíritus Sanctus * in te descéndet, María: ne tímeas, habébis in útero Fílium Dei, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Spíritus Sanctus * in te descéndet, María: ne tímeas, habébis in útero Fílium Dei, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Holy Ghost * shall come upon thee, O Mary: fear not, thou shalt bear in thy womb the Son of God, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>The Holy Ghost * shall come upon thee, O Mary: fear not, thou shalt bear in thy womb the Son of God, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -166,10 +166,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne tímeas, María, * invenísti enim grátiam apud Dóminum: ecce concípies, et páries fílium, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ne tímeas, María, * invenísti enim grátiam apud Dóminum: ecce concípies, et páries fílium, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Fear not, Mary, * for thou hast found grace with the Lord: behold, thou shalt conceive in thy womb, and shalt bring forth a son, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Fear not, Mary, * for thou hast found grace with the Lord: behold, thou shalt conceive in thy womb, and shalt bring forth a son, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -192,10 +192,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ángelus Dómini * nuntiávit Maríæ, et concépit de Spíritu Sancto, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ángelus Dómini * nuntiávit Maríæ, et concépit de Spíritu Sancto, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Angel of the Lord * declared unto Mary, and she conceived by the Holy Spirit, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>The Angel of the Lord * declared unto Mary, and she conceived by the Holy Spirit, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -203,10 +203,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Leva, Jerúsalem, * óculos tuos, et vide poténtiam regis: ecce Salvátor venit sólvere te a vínculo.</p>
+      <p:BodyL><sr>Ant. </s>Leva, Jerúsalem, * óculos tuos, et vide poténtiam regis: ecce Salvátor venit sólvere te a vínculo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lift up , O Jerusalem, * thine eyes, and see that the king is mighty. Behold thy Saviour shall come and loose thee from thy chains.</p>
+      <p:BodyE><sr>Ant. </s>Lift up , O Jerusalem, * thine eyes, and see that the king is mighty. Behold thy Saviour shall come and loose thee from thy chains.</p>
      </td>
     </tr>
    </table>
@@ -218,10 +218,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ántequam convenírent, * invénta est María habens in útero de Spíritu Sancto, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ántequam convenírent, * invénta est María habens in útero de Spíritu Sancto, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Before they came together, * Mary was found with child, of the Holy Ghost, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Before they came together, * Mary was found with child, of the Holy Ghost, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -230,10 +230,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quærite Dóminum, * dum inveníri potest: invocáte eum, dum prope est, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Quærite Dóminum, * dum inveníri potest: invocáte eum, dum prope est, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Seek ye the Lord, * while he may be found: call upon him, while he is near, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Seek ye the Lord, * while he may be found: call upon him, while he is near, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -246,10 +246,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>De Sion * exíbit lex, et verbum Dómini de Jerúsalem.</p>
+      <p:BodyL><sr>Ant. </s>De Sion * exíbit lex, et verbum Dómini de Jerúsalem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The law shall come forth * from Sion, and the word of the Lord from Jerusalem.</p>
+      <p:BodyE><sr>Ant. </s>The law shall come forth * from Sion, and the word of the Lord from Jerusalem.</p>
      </td>
     </tr>
    </table>
@@ -258,10 +258,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Véniet * fórtior me post me, cujus non sum dignus sólvere corrígiam calceamentórum.</p>
+      <p:BodyL><sr>Ant. </s>Véniet * fórtior me post me, cujus non sum dignus sólvere corrígiam calceamentórum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>There shall come * after me one mightier than I, the lachet of whose shoes I am not worthy to loose.</p>
+      <p:BodyE><sr>Ant. </s>There shall come * after me one mightier than I, the lachet of whose shoes I am not worthy to loose.</p>
      </td>
     </tr>
    </table>
@@ -273,10 +273,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Benedícta * tu in muliéribus, et benedíctus fructus ventris tui.</p>
+      <p:BodyL><sr>Ant. </s>Benedícta * tu in muliéribus, et benedíctus fructus ventris tui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed art thou * among women, and blessed is the fruit of thy womb.</p>
+      <p:BodyE><sr>Ant. </s>Blessed art thou * among women, and blessed is the fruit of thy womb.</p>
      </td>
     </tr>
    </table>
@@ -285,10 +285,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exspectábo * Dóminum Salvatórem meum, et præstolábor eum dum prope est, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Exspectábo * Dóminum Salvatórem meum, et præstolábor eum dum prope est, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will wait * for the Lord my Saviour, and I will look for him while he is near, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>I will wait * for the Lord my Saviour, and I will look for him while he is near, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -300,10 +300,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce véniet * Deus et homo de domo David sedére in throno, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ecce véniet * Deus et homo de domo David sedére in throno, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold he that is both God and man * shall come of the house of David and sit upon the throne, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Behold he that is both God and man * shall come of the house of David and sit upon the throne, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -312,10 +312,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ex Ægýpto * vocávi Fílium meum: véniet, ut salvet pópulum suum.</p>
+      <p:BodyL><sr>Ant. </s>Ex Ægýpto * vocávi Fílium meum: véniet, ut salvet pópulum suum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Out of Egypt * have I called my Son: he shall come to save his people.</p>
+      <p:BodyE><sr>Ant. </s>Out of Egypt * have I called my Son: he shall come to save his people.</p>
      </td>
     </tr>
    </table>
@@ -326,10 +326,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Sion, noli timére, * ecce Deus tuus véniet, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Sion, noli timére, * ecce Deus tuus véniet, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Fear not Sion, * behold, thy God cometh, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Fear not Sion, * behold, thy God cometh, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -378,10 +378,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Veni, Dómine, * visitáre nos in pace, ut lætémur coram te corde perfécto.</p>
+      <p:BodyL><sr>Ant. </s>Veni, Dómine, * visitáre nos in pace, ut lætémur coram te corde perfécto.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Come, O Lord, * visit us in peace, that we may rejoice before thee with all our heart.</p>
+      <p:BodyE><sr>Ant. </s>Come, O Lord, * visit us in peace, that we may rejoice before thee with all our heart.</p>
      </td>
     </tr>
    </table>
@@ -392,10 +392,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Ecce in núbibus * cæli Dóminus véniet cum potestáte magna, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Ecce in núbibus * cæli Dóminus véniet cum potestáte magna, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Behold, the Lord * cometh in the clouds of heaven with great power, alleluia.</p>
+      <p:BodyE><sr>Ant 1. </s>Behold, the Lord * cometh in the clouds of heaven with great power, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -403,34 +403,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Urbs fortitúdinis * nostræ Sion, Salvátor ponétur in ea murus et antemurále: aperíte portas, quia nobíscum Deus, allelúja.</p>
+      <p:BodyL><sr>Ant 2. </s>Urbs fortitúdinis * nostræ Sion, Salvátor ponétur in ea murus et antemurále: aperíte portas, quia nobíscum Deus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Sion the city of our strength a saviour, a wall and a bulwark shall be set therein. Open ye the gates, for God is with us, alleluia.</p>
+      <p:BodyE><sr>Ant 2. </s>Sion the city of our strength a saviour, a wall and a bulwark shall be set therein. Open ye the gates, for God is with us, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ecce apparébit * Dóminus, et non mentiétur: si moram fécerit exspécta eum, quia véniet, et non tardábit, allelúja.</p>
+      <p:BodyL><sr>Ant 3. </s>Ecce apparébit * Dóminus, et non mentiétur: si moram fécerit exspécta eum, quia véniet, et non tardábit, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Behold the Lord * shall appear, and shall not lie. If he make any delay, wait for him, for he shall surely come, and he shall not be slack, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>Behold the Lord * shall appear, and shall not lie. If he make any delay, wait for him, for he shall surely come, and he shall not be slack, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Montes et colles * cantábunt coram Deo laudem, et ómnia ligna silvárum plaudent mánibus: quóniam véniet Dominátor Dóminus in regnum ætérnum, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Montes et colles * cantábunt coram Deo laudem, et ómnia ligna silvárum plaudent mánibus: quóniam véniet Dominátor Dóminus in regnum ætérnum, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The mountains and the hills * shall sing praise before God, and all the trees of the wood shall clap their hands: for the Lord the Ruler, cometh, and he shall reign forever, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>The mountains and the hills * shall sing praise before God, and all the trees of the wood shall clap their hands: for the Lord the Ruler, cometh, and he shall reign forever, alleluia, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Ecce Dóminus * noster cum virtúte véniet, et illuminábit óculos servórum suórum, allelúja.</p>
+      <p:BodyL><sr>Ant 5. </s>Ecce Dóminus * noster cum virtúte véniet, et illuminábit óculos servórum suórum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Behold our Lord * cometh with power, and shall lighten the eyes of his servants, allelua.</p>
+      <p:BodyE><sr>Ant 5. </s>Behold our Lord * cometh with power, and shall lighten the eyes of his servants, allelua.</p>
      </td>
     </tr>
    </table>
@@ -441,10 +441,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Joánnes autem * cum audísset in vínculis ópera Christi, mittens duos ex discípulis suis, ait illi: Tu es qui ventúrus es, an álium exspectámus?</p>
+      <p:BodyL><sr>Ant. </s>Joánnes autem * cum audísset in vínculis ópera Christi, mittens duos ex discípulis suis, ait illi: Tu es qui ventúrus es, an álium exspectámus?</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Now when John had heard in prison the works of Christ: sending two of his disciples he said to him: “Art thou he that art to come, or look we for another?”</p>
+      <p:BodyE><sr>Ant. </s>Now when John had heard in prison the works of Christ: sending two of his disciples he said to him: “Art thou he that art to come, or look we for another?”</p>
      </td>
     </tr>
    </table>
@@ -503,10 +503,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tu es, qui ventúrus es, * an álium exspectámus? Dícite Joánni quæ vidístis: Ad lumen rédeunt cæci, mórtui resúrgunt, páuperes evangelizántur, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Tu es, qui ventúrus es, * an álium exspectámus? Dícite Joánni quæ vidístis: Ad lumen rédeunt cæci, mórtui resúrgunt, páuperes evangelizántur, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Art thou he that art to come, or look we for another? Tell John what you have seen: the light returns to the blind, the dead rise again, the poor have the gospel preached to them, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Art thou he that art to come, or look we for another? Tell John what you have seen: the light returns to the blind, the dead rise again, the poor have the gospel preached to them, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -529,10 +529,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>De cælo véniet * Dominátor Dóminus, et in manu ejus honor et impérium.</p>
+      <p:BodyL><sr>Ant. </s>De cælo véniet * Dominátor Dóminus, et in manu ejus honor et impérium.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>From heaven cometh * The Lord the Ruler, and in his hand are honour and dominion.</p>
+      <p:BodyE><sr>Ant. </s>From heaven cometh * The Lord the Ruler, and in his hand are honour and dominion.</p>
      </td>
     </tr>
    </table>
@@ -540,10 +540,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce véniet Rex * Dóminus terræ, et ipse áuferet jugum captivitátis nostræ.</p>
+      <p:BodyL><sr>Ant. </s>Ecce véniet Rex * Dóminus terræ, et ipse áuferet jugum captivitátis nostræ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold the King cometh, * the Lord of all the earth, to take off from us the yoke of our captivity.</p>
+      <p:BodyE><sr>Ant. </s>Behold the King cometh, * the Lord of all the earth, to take off from us the yoke of our captivity.</p>
      </td>
     </tr>
    </table>
@@ -555,10 +555,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Super te, * Jerúsalem, oriétur Dóminus, et glória ejus in te vidébitur.</p>
+      <p:BodyL><sr>Ant. </s>Super te, * Jerúsalem, oriétur Dóminus, et glória ejus in te vidébitur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Upon thee, * O Jerusalem, the Lord shall arise, and his glory shall be seen upon thee.</p>
+      <p:BodyE><sr>Ant. </s>Upon thee, * O Jerusalem, the Lord shall arise, and his glory shall be seen upon thee.</p>
      </td>
     </tr>
    </table>
@@ -567,10 +567,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vox clamántis * in desérto, Paráte viam Dómini, rectas fácite sémitas Dei nostri.</p>
+      <p:BodyL><sr>Ant. </s>Vox clamántis * in desérto, Paráte viam Dómini, rectas fácite sémitas Dei nostri.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The voice of one crying * in the desert: Prepare ye the way of the Lord, make straight the paths of our God.</p>
+      <p:BodyE><sr>Ant. </s>The voice of one crying * in the desert: Prepare ye the way of the Lord, make straight the paths of our God.</p>
      </td>
     </tr>
    </table>
@@ -583,10 +583,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce ego mitto * Ángelum meum, qui præparábit viam meam ante fáciem tuam.</p>
+      <p:BodyL><sr>Ant. </s>Ecce ego mitto * Ángelum meum, qui præparábit viam meam ante fáciem tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold I send * my Angel, who shall prepare my way before thy face.</p>
+      <p:BodyE><sr>Ant. </s>Behold I send * my Angel, who shall prepare my way before thy face.</p>
      </td>
     </tr>
    </table>
@@ -594,10 +594,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Sion, renováberis, * et vidébis justum tuum, qui ventúrus est in te.</p>
+      <p:BodyL><sr>Ant. </s>Sion, renováberis, * et vidébis justum tuum, qui ventúrus est in te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou shalt yet be build anew, * O Zion, and thou shalt see thy Righteous One, who shall come in thee.</p>
+      <p:BodyE><sr>Ant. </s>Thou shalt yet be build anew, * O Zion, and thou shalt see thy Righteous One, who shall come in thee.</p>
      </td>
     </tr>
    </table>
@@ -608,10 +608,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tu es qui ventúrus es, * Dómine, quem exspectámus, ut salvum fácias pópulum tuum.</p>
+      <p:BodyL><sr>Ant. </s>Tu es qui ventúrus es, * Dómine, quem exspectámus, ut salvum fácias pópulum tuum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O Lord, thou art he that should come, * for whom we look, that thou shouldest save thy people.</p>
+      <p:BodyE><sr>Ant. </s>O Lord, thou art he that should come, * for whom we look, that thou shouldest save thy people.</p>
      </td>
     </tr>
    </table>
@@ -619,10 +619,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui post me véniet, * ante me factus es: cujus non sum dignus calceaménta sólvere.</p>
+      <p:BodyL><sr>Ant. </s>Qui post me véniet, * ante me factus es: cujus non sum dignus calceaménta sólvere.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He it is * who, coming after me, is preferred before me; whose shoe’s latchet I am not worthy to unloose.</p>
+      <p:BodyE><sr>Ant. </s>He it is * who, coming after me, is preferred before me; whose shoe’s latchet I am not worthy to unloose.</p>
      </td>
     </tr>
    </table>
@@ -634,10 +634,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dícite: Pusillánimes, * confortámini: ecce Dóminus Deus noster véniet.</p>
+      <p:BodyL><sr>Ant. </s>Dícite: Pusillánimes, * confortámini: ecce Dóminus Deus noster véniet.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Say: * Ye that are of a fearful heart, be strong; behold, the Lord our God will come.</p>
+      <p:BodyE><sr>Ant. </s>Say: * Ye that are of a fearful heart, be strong; behold, the Lord our God will come.</p>
      </td>
     </tr>
    </table>
@@ -645,10 +645,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cantáte Dómino * cánticum novum: laus ejus ab extrémis terræ.</p>
+      <p:BodyL><sr>Ant. </s>Cantáte Dómino * cánticum novum: laus ejus ab extrémis terræ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Sing unto the Lord * a new song: from the end of the earth let the voice of praise be heard.</p>
+      <p:BodyE><sr>Ant. </s>Sing unto the Lord * a new song: from the end of the earth let the voice of praise be heard.</p>
      </td>
     </tr>
    </table>
@@ -659,10 +659,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Levábit Dóminus signum, * in natiónibus, et congregábit dispérsos Israël.</p>
+      <p:BodyL><sr>Ant. </s>Levábit Dóminus signum, * in natiónibus, et congregábit dispérsos Israël.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord shall lift up a standard * unto the nations, and shall gather together the outcasts of Israel.</p>
+      <p:BodyE><sr>Ant. </s>The Lord shall lift up a standard * unto the nations, and shall gather together the outcasts of Israel.</p>
      </td>
     </tr>
    </table>
@@ -712,10 +712,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ante me * non est formátus Deus, et post me non erit: quia mihi curvábitur omne genu, et confitébitur omnis lingua.</p>
+      <p:BodyL><sr>Ant. </s>Ante me * non est formátus Deus, et post me non erit: quia mihi curvábitur omne genu, et confitébitur omnis lingua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Before me there was no God formed, and after me there shall be none: for every knee shall be bowed to me, and every tongue shall confess.</p>
+      <p:BodyE><sr>Ant. </s>Before me there was no God formed, and after me there shall be none: for every knee shall be bowed to me, and every tongue shall confess.</p>
      </td>
     </tr>
    </table>
@@ -725,10 +725,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Véniet Dóminus, * et non tardábit, et illuminábit abscóndita tenebrárum, et manifestábit se ad omnes gentes, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Véniet Dóminus, * et non tardábit, et illuminábit abscóndita tenebrárum, et manifestábit se ad omnes gentes, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The Lord will come, * and will not tarry; he both will bring to light the hidden things of darkness, and will make Himself manifest to all people, alleluia.</p>
+      <p:BodyE><sr>Ant 1. </s>The Lord will come, * and will not tarry; he both will bring to light the hidden things of darkness, and will make Himself manifest to all people, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -736,34 +736,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Jerúsalem, gaude * gáudio magno, quia véniet tibi Salvátor, allelúja.</p>
+      <p:BodyL><sr>Ant 2. </s>Jerúsalem, gaude * gáudio magno, quia véniet tibi Salvátor, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Rejoice greatly, O Jerusalem, * for thy Saviour cometh unto thee, alleluia.</p>
+      <p:BodyE><sr>Ant 2. </s>Rejoice greatly, O Jerusalem, * for thy Saviour cometh unto thee, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Dabo in Sion * salútem, et in Jerúsalem glóriam meam, allelúja.</p>
+      <p:BodyL><sr>Ant 3. </s>Dabo in Sion * salútem, et in Jerúsalem glóriam meam, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>I will place salvation in Zion, * and my glory in Jerusalem, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>I will place salvation in Zion, * and my glory in Jerusalem, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Montes et omnes colles * humiliabúntur: et erunt prava in dirécta, et áspera in vias planas: veni, Dómine, et noli tardáre, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Montes et omnes colles * humiliabúntur: et erunt prava in dirécta, et áspera in vias planas: veni, Dómine, et noli tardáre, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Every mountain and hill * shall be made low, and the crooked shall be made straight, and the rough places plain: O Lord, come and make no tarrying, alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>Every mountain and hill * shall be made low, and the crooked shall be made straight, and the rough places plain: O Lord, come and make no tarrying, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Juste et pie * vivámus, exspectántes beátam spem, et advéntum Dómini.</p>
+      <p:BodyL><sr>Ant 5. </s>Juste et pie * vivámus, exspectántes beátam spem, et advéntum Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>We should live * righteously and godly, looking for that blessed hope and the coming of the Lord.</p>
+      <p:BodyE><sr>Ant 5. </s>We should live * righteously and godly, looking for that blessed hope and the coming of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -773,10 +773,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Super sólium * David, et super regnum ejus sedébit in ætérnum, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Super sólium * David, et super regnum ejus sedébit in ætérnum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He shall sit * upon the throne of David, and upon his kingdom for ever, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>He shall sit * upon the throne of David, and upon his kingdom for ever, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -828,10 +828,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beáta es, María, * quæ credidísti Dómino: perficiéntur in te, quæ dicta sunt tibi a Dómino, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Beáta es, María, * quæ credidísti Dómino: perficiéntur in te, quæ dicta sunt tibi a Dómino, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed art thou, * O Mary, that hast believed the Lord: for there shall be a performance of those things which were told thee from the Lord, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Blessed art thou, * O Mary, that hast believed the Lord: for there shall be a performance of those things which were told thee from the Lord, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -854,10 +854,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Egrediétur * virga de radíce Jesse, et replébitur omnis terra glória Dómini: et vidébit omnis caro salutáre Dei.</p>
+      <p:BodyL><sr>Ant. </s>Egrediétur * virga de radíce Jesse, et replébitur omnis terra glória Dómini: et vidébit omnis caro salutáre Dei.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>There shall come forth * a rod out of the stem of Jesse, and the whole earth shall be filled with the glory of the Lord, and all flesh shall see the salvation of God.</p>
+      <p:BodyE><sr>Ant. </s>There shall come forth * a rod out of the stem of Jesse, and the whole earth shall be filled with the glory of the Lord, and all flesh shall see the salvation of God.</p>
      </td>
     </tr>
    </table>
@@ -865,10 +865,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beátam me dicent * omnes generatiónes, quia ancíllam húmilem respéxit Deus.</p>
+      <p:BodyL><sr>Ant. </s>Beátam me dicent * omnes generatiónes, quia ancíllam húmilem respéxit Deus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>All generations shall call me blessed, * for God hath regarded the lowliness of his hand-maiden.</p>
+      <p:BodyE><sr>Ant. </s>All generations shall call me blessed, * for God hath regarded the lowliness of his hand-maiden.</p>
      </td>
     </tr>
    </table>
@@ -879,10 +879,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tu Béthlehem * terra Juda, non eris mínima: ex te enim éxiet Dux, qui regat pópulum meum Israël.</p>
+      <p:BodyL><sr>Ant. </s>Tu Béthlehem * terra Juda, non eris mínima: ex te enim éxiet Dux, qui regat pópulum meum Israël.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou, Bethlehem, * in the land of Judah, shalt not be the least: for out of thee shall come a Ruler, that shall rule my people Israel.</p>
+      <p:BodyE><sr>Ant. </s>Thou, Bethlehem, * in the land of Judah, shalt not be the least: for out of thee shall come a Ruler, that shall rule my people Israel.</p>
      </td>
     </tr>
    </table>
@@ -890,10 +890,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Eleváre, eleváre, * consúrge Jerúsalem: solve víncula colli tui, captíva fília Sion.</p>
+      <p:BodyL><sr>Ant. </s>Eleváre, eleváre, * consúrge Jerúsalem: solve víncula colli tui, captíva fília Sion.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Awake, awake, * arise, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.</p>
+      <p:BodyE><sr>Ant. </s>Awake, awake, * arise, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.</p>
      </td>
     </tr>
    </table>
@@ -916,10 +916,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Missus est Gábriel * Ángelus ad Maríam Vírginem desponsátam Joseph.</p>
+      <p:BodyL><sr>Ant. </s>Missus est Gábriel * Ángelus ad Maríam Vírginem desponsátam Joseph.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Angel Gabriel * was sent to Mary, a virgin espoused to Joseph.</p>
+      <p:BodyE><sr>Ant. </s>The Angel Gabriel * was sent to Mary, a virgin espoused to Joseph.</p>
      </td>
     </tr>
    </table>
@@ -927,10 +927,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce ancílla Dómini: * fiat mihi secúndum verbum tuum.</p>
+      <p:BodyL><sr>Ant. </s>Ecce ancílla Dómini: * fiat mihi secúndum verbum tuum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold the handmaid of the Lord: * be it done unto me according to thy word.</p>
+      <p:BodyE><sr>Ant. </s>Behold the handmaid of the Lord: * be it done unto me according to thy word.</p>
      </td>
     </tr>
    </table>
@@ -941,10 +941,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vigiláte * ánimo, in próximo est Dóminus Deus noster.</p>
+      <p:BodyL><sr>Ant. </s>Vigiláte * ánimo, in próximo est Dóminus Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let your soul watch, * the Lord our God is nigh at hand.</p>
+      <p:BodyE><sr>Ant. </s>Let your soul watch, * the Lord our God is nigh at hand.</p>
      </td>
     </tr>
    </table>
@@ -952,10 +952,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Lætámini * cum Jerúsalem, et exsultáte in ea, omnes qui dilígitis eam, in ætérnam.</p>
+      <p:BodyL><sr>Ant. </s>Lætámini * cum Jerúsalem, et exsultáte in ea, omnes qui dilígitis eam, in ætérnam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Rejoice ye * with Jerusalem, and be glad with her, all ye that love her for ever.</p>
+      <p:BodyE><sr>Ant. </s>Rejoice ye * with Jerusalem, and be glad with her, all ye that love her for ever.</p>
      </td>
     </tr>
    </table>
@@ -978,10 +978,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ex quo facta est * vox salutatiónis tuæ in áuribus meis, exsultávit in gáudio infans in útero meo, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ex quo facta est * vox salutatiónis tuæ in áuribus meis, exsultávit in gáudio infans in útero meo, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>As soon as * the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>As soon as * the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -989,10 +989,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hoc est testimónium, * quod perhíbuit Joánnes: Qui post me venit, ante me factus est.</p>
+      <p:BodyL><sr>Ant. </s>Hoc est testimónium, * quod perhíbuit Joánnes: Qui post me venit, ante me factus est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>John bare witness of him, * saying: “He that cometh after me is preferred before me.”</p>
+      <p:BodyE><sr>Ant. </s>John bare witness of him, * saying: “He that cometh after me is preferred before me.”</p>
      </td>
     </tr>
    </table>
@@ -1014,10 +1014,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quómodo fiet istud, * Ángele Dei, quóniam virum non cognósco? Audi, María Virgo: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi.</p>
+      <p:BodyL><sr>Ant. </s>Quómodo fiet istud, * Ángele Dei, quóniam virum non cognósco? Audi, María Virgo: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O thou Angel of God, * how shall this be, seeing I know not a man? Hear, O Virgin Mary! the Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee!</p>
+      <p:BodyE><sr>Ant. </s>O thou Angel of God, * how shall this be, seeing I know not a man? Hear, O Virgin Mary! the Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee!</p>
      </td>
     </tr>
    </table>
@@ -1094,10 +1094,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Nolíte timére: * quinta enim die véniet ad vos Dóminus noster.</p>
+      <p:BodyL><sr>Ant. </s>Nolíte timére: * quinta enim die véniet ad vos Dóminus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Fear not: * yet five days and the Lord shall come unto you.</p>
+      <p:BodyE><sr>Ant. </s>Fear not: * yet five days and the Lord shall come unto you.</p>
      </td>
     </tr>
    </table>
@@ -1133,10 +1133,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce compléta sunt * ómnia, quæ dicta sunt per Ángelum de Vírgine María.</p>
+      <p:BodyL><sr>Ant. </s>Ecce compléta sunt * ómnia, quæ dicta sunt per Ángelum de Vírgine María.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold, all things are fulfilled, * which were spoken by the Angel concerning the Virgin Mary.</p>
+      <p:BodyE><sr>Ant. </s>Behold, all things are fulfilled, * which were spoken by the Angel concerning the Virgin Mary.</p>
      </td>
     </tr>
    </table>
@@ -1199,10 +1199,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Cánite tuba * in Sion, quia prope est dies Dómini: ecce véniet ad salvándum nos, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Cánite tuba * in Sion, quia prope est dies Dómini: ecce véniet ad salvándum nos, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Blow ye the trumpet * in Zion, for the day of the Lord is nigh at hand: behold, he cometh to save us, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant 1. </s>Blow ye the trumpet * in Zion, for the day of the Lord is nigh at hand: behold, he cometh to save us, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1210,34 +1210,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Ecce véniet * desiderátus cunctis Géntibus: et replébitur glória domus Dómini, allelúja.</p>
+      <p:BodyL><sr>Ant 2. </s>Ecce véniet * desiderátus cunctis Géntibus: et replébitur glória domus Dómini, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Behold, the desire * of all nations shall come; and the house of the Lord shall be filled with glory, alleluia.</p>
+      <p:BodyE><sr>Ant 2. </s>Behold, the desire * of all nations shall come; and the house of the Lord shall be filled with glory, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Erunt prava * in dirécta, et áspera in vias planas: veni, Dómine, et noli tardáre, allelúja.</p>
+      <p:BodyL><sr>Ant 3. </s>Erunt prava * in dirécta, et áspera in vias planas: veni, Dómine, et noli tardáre, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The crooked * shall be made straight, and the rough places plain; O Lord, come, and make no tarrying, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>The crooked * shall be made straight, and the rough places plain; O Lord, come, and make no tarrying, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Dóminus véniet, * occúrrite illi, dicéntes: Magnum princípium, et regni ejus non erit finis: Deus, Fortis, Dominátor, Princeps pacis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Dóminus véniet, * occúrrite illi, dicéntes: Magnum princípium, et regni ejus non erit finis: Deus, Fortis, Dominátor, Princeps pacis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Lord cometh! * Go ye out to meet him, and say: How great is his dominion, and of his kingdom there shall be no end! He is the mighty God, the Ruler, the Prince of Peace, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>The Lord cometh! * Go ye out to meet him, and say: How great is his dominion, and of his kingdom there shall be no end! He is the mighty God, the Ruler, the Prince of Peace, alleluia, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Omnípotens Sermo tuus, Dómine, a regálibus sédibus véniet, allelúja.</p>
+      <p:BodyL><sr>Ant 5. </s>Omnípotens Sermo tuus, Dómine, a regálibus sédibus véniet, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Thine almighty Word, * O Lord, shall leap down out of thy royal throne, alleluia.</p>
+      <p:BodyE><sr>Ant 5. </s>Thine almighty Word, * O Lord, shall leap down out of thy royal throne, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1247,10 +1247,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ave, María, * grátia plena: Dóminus tecum: benedícta tu in muliéribus, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ave, María, * grátia plena: Dóminus tecum: benedícta tu in muliéribus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Hail, Mary, * full of grace: the Lord is with thee. Blessed art thou among women, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Hail, Mary, * full of grace: the Lord is with thee. Blessed art thou among women, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1318,10 +1318,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dicit Dóminus: * Pœniténtiam ágite: appropinquávit enim regnum cælórum, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Dicit Dóminus: * Pœniténtiam ágite: appropinquávit enim regnum cælórum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thus saith the Lord, * Repent ye, for the kingdom of heaven is at hand, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Thus saith the Lord, * Repent ye, for the kingdom of heaven is at hand, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1332,10 +1332,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Consúrge, consúrge, * indúere fortitúdinem bráchium Dómini.</p>
+      <p:BodyL><sr>Ant. </s>Consúrge, consúrge, * indúere fortitúdinem bráchium Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Awake, awake, * put on strength, O arm of the Lord!</p>
+      <p:BodyE><sr>Ant. </s>Awake, awake, * put on strength, O arm of the Lord!</p>
      </td>
     </tr>
    </table>
@@ -1347,10 +1347,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ponam in Sion * salútem, et in Jerúsalem glóriam meam, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ponam in Sion * salútem, et in Jerúsalem glóriam meam, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will place salvation * in Zion, and my glory in Jerusalem, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>I will place salvation * in Zion, and my glory in Jerusalem, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1361,10 +1361,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Consolámini, consolámini, * pópule meus, dicit Dóminus Deus vester.</p>
+      <p:BodyL><sr>Ant. </s>Consolámini, consolámini, * pópule meus, dicit Dóminus Deus vester.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Comfort ye, comfort ye, * my people, saith the Lord your God.</p>
+      <p:BodyE><sr>Ant. </s>Comfort ye, comfort ye, * my people, saith the Lord your God.</p>
      </td>
     </tr>
    </table>
@@ -1397,10 +1397,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Judæa et Jerúsalem, * nolíte timére: cras egrediémini, et Dóminus erit vobíscum, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Judæa et Jerúsalem, * nolíte timére: cras egrediémini, et Dóminus erit vobíscum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>O Judah and Jerusalem, * fear not: tomorrow ye shall go out, and the Lord will be with you.</p>
+      <p:BodyE><sr>Ant 1. </s>O Judah and Jerusalem, * fear not: tomorrow ye shall go out, and the Lord will be with you.</p>
      </td>
     </tr>
    </table>
@@ -1408,34 +1408,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Hódie sciétis * quia véniet Dóminus: et mane vidébitis glóriam ejus.</p>
+      <p:BodyL><sr>Ant 2. </s>Hódie sciétis * quia véniet Dóminus: et mane vidébitis glóriam ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>This day ye shall know * that the Lord cometh: and in the morning, then ye shall see His glory.</p>
+      <p:BodyE><sr>Ant 2. </s>This day ye shall know * that the Lord cometh: and in the morning, then ye shall see His glory.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Crástina die * delébitur iníquitas terræ: et regnábit super nos Salvátor mundi.</p>
+      <p:BodyL><sr>Ant 3. </s>Crástina die * delébitur iníquitas terræ: et regnábit super nos Salvátor mundi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>On the morrow * the sins of the earth shall be washed away, and the Saviour of the world will be our King.</p>
+      <p:BodyE><sr>Ant 3. </s>On the morrow * the sins of the earth shall be washed away, and the Saviour of the world will be our King.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Dóminus véniet, * occúrrite illi, dicéntes: Magnum princípium, et regni ejus non erit finis: Deus, Fortis, Dominátor, Princeps pacis, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Dóminus véniet, * occúrrite illi, dicéntes: Magnum princípium, et regni ejus non erit finis: Deus, Fortis, Dominátor, Princeps pacis, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Lord cometh! * Go ye out to meet him, and say: How great is his dominion, and of his kingdom there shall be no end: he is the Mighty God, the Ruler, the Prince of Peace, alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>The Lord cometh! * Go ye out to meet him, and say: How great is his dominion, and of his kingdom there shall be no end: he is the Mighty God, the Ruler, the Prince of Peace, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Crástina erit * vobis salus, dicit Dóminus Deus exercítuum.</p>
+      <p:BodyL><sr>Ant 5. </s>Crástina erit * vobis salus, dicit Dóminus Deus exercítuum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>On the morrow * ye shall be saved, saith the Lord God of hosts.</p>
+      <p:BodyE><sr>Ant 5. </s>On the morrow * ye shall be saved, saith the Lord God of hosts.</p>
      </td>
     </tr>
    </table>
@@ -1458,10 +1458,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Oriétur * sicut sol Salvátor mundi: et descéndet in úterum Vírginis, sicut imber super gramen, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Oriétur * sicut sol Salvátor mundi: et descéndet in úterum Vírginis, sicut imber super gramen, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Saviour of the world * shall rise like the sun, and come down into the womb of the Virgin as the showers upon the grass, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>The Saviour of the world * shall rise like the sun, and come down into the womb of the Virgin as the showers upon the grass, alleluia.</p>
      </td>
     </tr>
    </table>

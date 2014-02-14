@@ -3,11 +3,11 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Pope</p>
-<?php bookmark('csPope'); ?>
+<?php echo bookmark('csPope'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Unius aut Plurium Summorum Pontificum':'Common of One or Many Supreme Pontiffs') 
 ?></p>
-   <p:Rubric>All as in the Common of one or several Martyrs, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="csMm"/></s>, or of a Confessor Bishop, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="csCB"/></s> except for the following:</p>
+   <p:Rubric>All as in the Common of one or several Martyrs, <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="csMm"/></s>, or of a Confessor Bishop, <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="csCB"/></s> except for the following:</p>
 <?php prayer('csPope1r.php') ?>
    <p:RubricH>Or in the plural:</p>
 <?php prayer('csPope2r.php') ?>

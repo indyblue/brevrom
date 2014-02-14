@@ -232,7 +232,7 @@ echo ($_GET['L']==1?'Festa Augusti':'Feasts of August')
 <?php prayer('prSanct/0917.php'); ?>
    <p:BodySm/>
 
-	<p:Rubric>The September Ember days, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="SeptEmber"/></s>, occur on the Wednesday, Friday &amp; Saturday following the third Sunday in September.  Unless a first or second class Feast occurs on one of these days, the office of the feria (Ember day) is to be said. Only one commemoration is permitted.</p>
+	<p:Rubric>The September Ember days, <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="SeptEmber"/></s>, occur on the Wednesday, Friday &amp; Saturday following the third Sunday in September.  Unless a first or second class Feast occurs on one of these days, the office of the feria (Ember day) is to be said. Only one commemoration is permitted.</p>
    <p:BodySm/>
 
 <?php img(); ?>

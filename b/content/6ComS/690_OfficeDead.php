@@ -4,7 +4,7 @@
    <p:RubricH/>
    <p:Hidden1>Office of the Dead</p>
    <p:Hidden2>Office of the Dead</p>
-<?php bookmark('offDef'); ?>
+<?php echo bookmark('offDef'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 ?></p>
@@ -15,7 +15,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:Rubric>It is always said in the plural.</p>
 
 <?php rubrics('head/Matins.php'); ?>
-<?php bookmark('offDefM'); ?>
+<?php echo bookmark('offDefM'); ?>
 	<p:RubricH>Matins begins immediatly with the invitatory:</p>
 <?php ant('regem_cui_omnia_vivunt_venite_adoremus.php','+'); ?>
 <?php rubrics('asIn.php','Ps94','Ordinary of Matins','The invitatory is said with Psalm 94,'); ?> 
@@ -25,12 +25,12 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
    <p:Rubric>If only one Nocturn is said: On the day of burial, the First Nocturn is always said. Otherwise, the Nocturn is selected by day of week:</p>
 	<p:BodyEIndent><sr>Sun., Mon. &amp; Thurs.:</s> First Nocturn, as follows.</p>
-	<p:BodyEIndent><sr>Tue. &amp; Fri.:</s> Second Nocturn, p. <?php bkref('offDefMn2'); ?>.</p>
-	<p:BodyEIndent><sr>Wed. &amp; Sat.:</s> Third Nocturn, p. <?php bkref('offDefMn3'); ?>.</p>
+	<p:BodyEIndent><sr>Tue. &amp; Fri.:</s> Second Nocturn, p. <?php echo bkref('offDefMn2'); ?>.</p>
+	<p:BodyEIndent><sr>Wed. &amp; Sat.:</s> Third Nocturn, p. <?php echo bkref('offDefMn3'); ?>.</p>
 
    <p:Head2>First Nocturn</p>
 	<p:Head3>(Sunday, Monday, and Thursday)</p>
-<?php bookmark('offDefMn1'); ?>
+<?php echo bookmark('offDefMn1'); ?>
    <p:BodySm/>
 
 <?php ant('offDefMatins.php','200000000'); ?>
@@ -65,7 +65,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 	<p:Head2>Second Nocturn</p>
 	<p:Head3>(Tuesday and Friday)</p>
-<?php bookmark('offDefMn2'); ?>
+<?php echo bookmark('offDefMn2'); ?>
 <?php ant('offDefMatins.php','000200000'); ?>
 <?php psalm('022.php'); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
@@ -98,7 +98,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
    <p:Head2>Third Nocturn</p>
    <p:Head3>(Wednesday and Saturday)</p>
-<?php bookmark('offDefMn3'); ?>
+<?php echo bookmark('offDefMn3'); ?>
 <?php ant('offDefMatins.php','000000200'); ?>
 <?php psalm(39); ?>
 <?php vrS('requiem_aeternam.php',2); ?>
@@ -134,14 +134,14 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php brS('offDef9n3.php',0,1,1) ?>
    <p:BodySm/>
 
-	<p:Rubric>If Lauds is not said at all, the Preces are said, as at Lauds <snr>p. <?php bkref('offDefLpr'); ?></s></p>
+	<p:Rubric>If Lauds is not said at all, the Preces are said, as at Lauds <snr>p. <?php echo bkref('offDefLpr'); ?></s></p>
 
 <p:Rubric>If Matins is separated from Lauds, the following is added after the last Responsory:</p>
 <?php rubrics('offDef/mConcl.php'); ?>
 
 
 	<p:Head1NI>ad Laudes</p>
-<?php bookmark('offDefL'); ?>
+<?php echo bookmark('offDefL'); ?>
    <p:Rubric>Lauds begins at once with the first antiphon.</p>
 <?php ant('offDefL.php','20000'); ?>
 <?php psalm('050.php'); ?>
@@ -170,16 +170,16 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('offDefb.php','B'); ?>
-<p:RubricH>The <snr>Benedictus</s> is then said <snr>(p. <?php bkref('Benedictus'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
+<p:RubricH>The <snr>Benedictus</s> is then said <snr>(p. <?php echo bkref('Benedictus'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
 <?php vrS('requiem_aeternam.php',2); ?>
 <p:Rubric>The antiphon is then repeated.</p>
 	<p:BodySm/>
 
-<?php bkref('offDefLpr'); ?>
+<?php echo bkref('offDefLpr'); ?>
 <?php rubrics('offDef/preces_concl.php'); ?>
 
 	<p:Head1NI>Collects</p>
-<?php bookmark('offDefPrayer'); ?>
+<?php echo bookmark('offDefPrayer'); ?>
 <p:Rubric>In the following prayers, masculine variations are denoted by “m.”; feminine variations by “f.”; plural variations by “pl.”</p>
 	<p:RubricH>On the day of the burial:</p>
 <?php prayer('offDef/burial1.php'); ?>
@@ -252,7 +252,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
    <p:BodySm/>
    <p:Head1NI>ad Vésperas</p>
-<?php bookmark('offDefV'); ?>
+<?php echo bookmark('offDefV'); ?>
    <p:Rubric>Vespers begins at once with the first antiphon.</p>
 <?php ant('offDefV.php','20000'); ?>
 <?php psalm('114.php'); ?>
@@ -281,7 +281,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('offDefm.php','M'); ?>
-<p:RubricH>The <snr>Magnificat</s> is then said <snr>(p. <?php bkref('Magnificat'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
+<p:RubricH>The <snr>Magnificat</s> is then said <snr>(p. <?php echo bkref('Magnificat'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
 <?php vrS('requiem_aeternam.php',2); ?>
 <p:Rubric>The antiphon is then repeated.</p>
 	<p:BodySm/>

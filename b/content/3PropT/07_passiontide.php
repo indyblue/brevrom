@@ -41,10 +41,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ego sum * qui testimónium perhíbeo de meípso: et testimónium pérhibet de me, qui misit me, Pater.</p>
+      <p:BodyL><sr>Ant. </s>Ego sum * qui testimónium perhíbeo de meípso: et testimónium pérhibet de me, qui misit me, Pater.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I am one * that give testimony of myself: and the Father that sent me giveth testimony of me.</p>
+      <p:BodyE><sr>Ant. </s>I am one * that give testimony of myself: and the Father that sent me giveth testimony of me.</p>
      </td>
     </tr>
    </table>
@@ -55,10 +55,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Vide, Dómine, * afflictiónem meam, quóniam eréctus est inimícus meus.</p>
+      <p:BodyL><sr>Ant 1. </s>Vide, Dómine, * afflictiónem meam, quóniam eréctus est inimícus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Behold, O Lord, * my affliction, because the enemy is lifted up.</p>
+      <p:BodyE><sr>Ant 1. </s>Behold, O Lord, * my affliction, because the enemy is lifted up.</p>
      </td>
     </tr>
    </table>
@@ -66,34 +66,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>In tribulatióne * invocávi Dóminum, et exaudívit me in latitúdine.</p>
+      <p:BodyL><sr>Ant 2. </s>In tribulatióne * invocávi Dóminum, et exaudívit me in latitúdine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>In my trouble * I called upon the Lord: and the Lord heard me, and enlarged me.</p>
+      <p:BodyE><sr>Ant 2. </s>In my trouble * I called upon the Lord: and the Lord heard me, and enlarged me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Judicásti, Dómine, * causam ánimæ meæ, defénsor vitæ meæ, Dómine Deus meus.</p>
+      <p:BodyL><sr>Ant 3. </s>Judicásti, Dómine, * causam ánimæ meæ, defénsor vitæ meæ, Dómine Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Thou hast judged, O Lord, * the cause of my soul, thou the Redeemer of my life.</p>
+      <p:BodyE><sr>Ant 3. </s>Thou hast judged, O Lord, * the cause of my soul, thou the Redeemer of my life.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Pópule meus, * quid feci tibi, aut quid moléstus fui? Respónde mihi.</p>
+      <p:BodyL><sr>Ant 4. </s>Pópule meus, * quid feci tibi, aut quid moléstus fui? Respónde mihi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>O my people, * what have I done to thee, or in what have I molested thee? Answer thou me.</p>
+      <p:BodyE><sr>Ant 4. </s>O my people, * what have I done to thee, or in what have I molested thee? Answer thou me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Numquid rédditur * pro bono malum, quia fodérunt fóveam ánimæ meæ.</p>
+      <p:BodyL><sr>Ant 5. </s>Numquid rédditur * pro bono malum, quia fodérunt fóveam ánimæ meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Shall evil be rendered * for good, because they have digged a pit for my soul?</p>
+      <p:BodyE><sr>Ant 5. </s>Shall evil be rendered * for good, because they have digged a pit for my soul?</p>
      </td>
     </tr>
    </table>
@@ -104,10 +104,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dicébat Jesus * turbis Judæórum, et princípibus sacerdótum: Qui ex Deo est, verba Dei audit: proptérea vos non áuditis, quia ex Deo non estis.</p>
+      <p:BodyL><sr>Ant. </s>Dicébat Jesus * turbis Judæórum, et princípibus sacerdótum: Qui ex Deo est, verba Dei audit: proptérea vos non áuditis, quia ex Deo non estis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Jesus said * to the multitude of the Jews and to the chief priests: “He that is of God, heareth the words of God. Therefore you hear them not, because you are not of God.”</p>
+      <p:BodyE><sr>Ant. </s>Jesus said * to the multitude of the Jews and to the chief priests: “He that is of God, heareth the words of God. Therefore you hear them not, because you are not of God.”</p>
      </td>
     </tr>
    </table>
@@ -117,10 +117,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ego dæmónium non hábeo, * sed honorífico Patrem meum, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Ego dæmónium non hábeo, * sed honorífico Patrem meum, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“I have not a devil: * but I honour my Father,” says the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“I have not a devil: * but I honour my Father,” says the Lord.</p>
      </td>
     </tr>
    </table>
@@ -130,10 +130,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ego glóriam meam * non quæro: est qui quæret, et júdicet.</p>
+      <p:BodyL><sr>Ant. </s>Ego glóriam meam * non quæro: est qui quæret, et júdicet.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I seek not * my own glory: there is one that seeketh and judgeth.</p>
+      <p:BodyE><sr>Ant. </s>I seek not * my own glory: there is one that seeketh and judgeth.</p>
      </td>
     </tr>
    </table>
@@ -145,10 +145,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Amen, amen, dico vobis: * si quis sermónem meum serváverit, mortem non gustábit in ætérnum.</p>
+      <p:BodyL><sr>Ant. </s>Amen, amen, dico vobis: * si quis sermónem meum serváverit, mortem non gustábit in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Amen, amen, I say to you: * If any man keep my word, he shall not see death for ever.</p>
+      <p:BodyE><sr>Ant. </s>Amen, amen, I say to you: * If any man keep my word, he shall not see death for ever.</p>
      </td>
     </tr>
    </table>
@@ -173,10 +173,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tulérunt lápides * Judæi ut jácerent in eum: Jesus autem abscóndit se, et exívit de templo.</p>
+      <p:BodyL><sr>Ant. </s>Tulérunt lápides * Judæi ut jácerent in eum: Jesus autem abscóndit se, et exívit de templo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Jews took up stones * to cast at him, but Jesus hid himself, and went out of the temple.</p>
+      <p:BodyE><sr>Ant. </s>The Jews took up stones * to cast at him, but Jesus hid himself, and went out of the temple.</p>
      </td>
     </tr>
    </table>
@@ -205,10 +205,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ábraham pater vester * exsultávit ut vidéret diem meum: vidit, et gavísus est.</p>
+      <p:BodyL><sr>Ant. </s>Ábraham pater vester * exsultávit ut vidéret diem meum: vidit, et gavísus est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Abraham, your father * rejoiced that he might see my day: he saw it, and was glad.</p>
+      <p:BodyE><sr>Ant. </s>Abraham, your father * rejoiced that he might see my day: he saw it, and was glad.</p>
      </td>
     </tr>
    </table>
@@ -221,10 +221,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In die magno * festivitátis stabat Jesus, et clamábat dicens: Si quis sitit, véniat ad me, et bibat.</p>
+      <p:BodyL><sr>Ant. </s>In die magno * festivitátis stabat Jesus, et clamábat dicens: Si quis sitit, véniat ad me, et bibat.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>On the great day * of the festivity, Jesus stood and cried, saying: “If any man thirst, let him come to me, and drink.”</p>
+      <p:BodyE><sr>Ant. </s>On the great day * of the festivity, Jesus stood and cried, saying: “If any man thirst, let him come to me, and drink.”</p>
      </td>
     </tr>
    </table>
@@ -246,10 +246,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Si quis sitit, * véniat ad me, et bibat: et de ventre ejus fluent aquæ vivæ, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Si quis sitit, * véniat ad me, et bibat: et de ventre ejus fluent aquæ vivæ, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“If any man thirst, * let him come to me, and drink, and out of his belly shall flow rivers of living water., ” says the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“If any man thirst, * let him come to me, and drink, and out of his belly shall flow rivers of living water., ” says the Lord.</p>
      </td>
     </tr>
    </table>
@@ -273,10 +273,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tempus meum * nondum advénit, tempus autem vestrum semper est parátum.</p>
+      <p:BodyL><sr>Ant. </s>Tempus meum * nondum advénit, tempus autem vestrum semper est parátum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My time * is not yet come; but your time is always ready.</p>
+      <p:BodyE><sr>Ant. </s>My time * is not yet come; but your time is always ready.</p>
      </td>
     </tr>
    </table>
@@ -298,10 +298,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vos ascéndite * ad diem festum hunc: ego autem non ascéndam, quia tempus meum nondum advénit.</p>
+      <p:BodyL><sr>Ant. </s>Vos ascéndite * ad diem festum hunc: ego autem non ascéndam, quia tempus meum nondum advénit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Go you up * to this festival day, but I go not up to this festival day: because my time is not accomplished.</p>
+      <p:BodyE><sr>Ant. </s>Go you up * to this festival day, but I go not up to this festival day: because my time is not accomplished.</p>
      </td>
     </tr>
    </table>
@@ -326,10 +326,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Oves meæ * vocem meam áudiunt: et ego Dóminus agnósco eas.</p>
+      <p:BodyL><sr>Ant. </s>Oves meæ * vocem meam áudiunt: et ego Dóminus agnósco eas.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My sheep * hear my voice: and I, the Lord, know them.</p>
+      <p:BodyE><sr>Ant. </s>My sheep * hear my voice: and I, the Lord, know them.</p>
      </td>
     </tr>
    </table>
@@ -351,10 +351,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Multa bona ópera * operátus sum vobis: propter quod opus vultis me occídere?</p>
+      <p:BodyL><sr>Ant. </s>Multa bona ópera * operátus sum vobis: propter quod opus vultis me occídere?</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Many good works * I have shewed you; for which of these works do you stone me?</p>
+      <p:BodyE><sr>Ant. </s>Many good works * I have shewed you; for which of these works do you stone me?</p>
      </td>
     </tr>
    </table>
@@ -378,10 +378,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magíster dicit: * Tempus meum prope est, apud te fácio Pascha cum discípulis meis.</p>
+      <p:BodyL><sr>Ant. </s>Magíster dicit: * Tempus meum prope est, apud te fácio Pascha cum discípulis meis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The master saith: “My time is near at hand, with thee I make the pasch with my disciples.”</p>
+      <p:BodyE><sr>Ant. </s>The master saith: “My time is near at hand, with thee I make the pasch with my disciples.”</p>
      </td>
     </tr>
    </table>
@@ -403,10 +403,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Desidério desiderávi * hoc Pascha manducáre vobíscum, ántequam pátiar.</p>
+      <p:BodyL><sr>Ant. </s>Desidério desiderávi * hoc Pascha manducáre vobíscum, ántequam pátiar.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>With desire I have desired * to eat this pasch with you, before I suffer.</p>
+      <p:BodyE><sr>Ant. </s>With desire I have desired * to eat this pasch with you, before I suffer.</p>
      </td>
     </tr>
    </table>
@@ -431,10 +431,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Appropinquábat autem * dies festus Judæórum: et quærébant príncipes sacerdótum quómodo Jesum interfícerent, sed timébant plebem.</p>
+      <p:BodyL><sr>Ant. </s>Appropinquábat autem * dies festus Judæórum: et quærébant príncipes sacerdótum quómodo Jesum interfícerent, sed timébant plebem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Now the feast of the Jews * was at hand, And the chief priests sought how they might put Jesus to death: but they feared the people.</p>
+      <p:BodyE><sr>Ant. </s>Now the feast of the Jews * was at hand, And the chief priests sought how they might put Jesus to death: but they feared the people.</p>
      </td>
     </tr>
    </table>
@@ -456,10 +456,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Príncipes sacerdótum * consílium fecérunt ut Jesum occíderent: dicébant autem: Non in die festo, ne forte tumúltus fíeret in pópulo.</p>
+      <p:BodyL><sr>Ant. </s>Príncipes sacerdótum * consílium fecérunt ut Jesum occíderent: dicébant autem: Non in die festo, ne forte tumúltus fíeret in pópulo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The chief priests * consulted that they might kill Jesus; but they said: “Not on the festival day, lest perhaps there should be a tumult among the people.”</p>
+      <p:BodyE><sr>Ant. </s>The chief priests * consulted that they might kill Jesus; but they said: “Not on the festival day, lest perhaps there should be a tumult among the people.”</p>
      </td>
     </tr>
    </table>
@@ -483,10 +483,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Clarífica me, Pater, * apud temetípsum claritáte, quam hábui priúsquam mundus fíeret.</p>
+      <p:BodyL><sr>Ant. </s>Clarífica me, Pater, * apud temetípsum claritáte, quam hábui priúsquam mundus fíeret.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Glorify me, O Father, * with thyself, with the glory which I had, before the world was, with thee.</p>
+      <p:BodyE><sr>Ant. </s>Glorify me, O Father, * with thyself, with the glory which I had, before the world was, with thee.</p>
      </td>
     </tr>
    </table>
@@ -547,10 +547,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Pater juste, * mundus te non cognóvit: ego autem novi te, quia tu me misísti.</p>
+      <p:BodyL><sr>Ant. </s>Pater juste, * mundus te non cognóvit: ego autem novi te, quia tu me misísti.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O just Father, * the world hath not known thee; but I have known thee, because thou hast sent me.</p>
+      <p:BodyE><sr>Ant. </s>O just Father, * the world hath not known thee; but I have known thee, because thou hast sent me.</p>
      </td>
     </tr>
    </table>
@@ -561,10 +561,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Dóminus Deus * auxiliátor meus: et ídeo non sum confúsus.</p>
+      <p:BodyL><sr>Ant 1. </s>Dóminus Deus * auxiliátor meus: et ídeo non sum confúsus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The Lord God * is my helper, therefore am I not confounded.</p>
+      <p:BodyE><sr>Ant 1. </s>The Lord God * is my helper, therefore am I not confounded.</p>
      </td>
     </tr>
    </table>
@@ -572,34 +572,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Circumdántes * circumdedérunt me: et in nómine Dómini vindicábor in eis.</p>
+      <p:BodyL><sr>Ant 2. </s>Circumdántes * circumdedérunt me: et in nómine Dómini vindicábor in eis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Surrounding me; * they compassed me about: and in the name of the Lord I have been revenged on them.</p>
+      <p:BodyE><sr>Ant 2. </s>Surrounding me; * they compassed me about: and in the name of the Lord I have been revenged on them.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Júdica causam meam: * defénde, quia potens es, Dómine.</p>
+      <p:BodyL><sr>Ant 3. </s>Júdica causam meam: * defénde, quia potens es, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Judge thou my cause: * defend me, for thou art mighty, O Lord.</p>
+      <p:BodyE><sr>Ant 3. </s>Judge thou my cause: * defend me, for thou art mighty, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Cum Ángelis * et púeris fidéles inveniámur, triumphatóri mortis clamántes: Hosánna in excélsis.</p>
+      <p:BodyL><sr>Ant 4. </s>Cum Ángelis * et púeris fidéles inveniámur, triumphatóri mortis clamántes: Hosánna in excélsis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>With the Angels * and men in faith go we to meet the Redeemer, hailing the Slayer of death with joyful shouts: “Hosanna in the highest.”</p>
+      <p:BodyE><sr>Ant 4. </s>With the Angels * and men in faith go we to meet the Redeemer, hailing the Slayer of death with joyful shouts: “Hosanna in the highest.”</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Confundántur * qui me persequúntur, et non confúndar ego, Dómine, Deus meus.</p>
+      <p:BodyL><sr>Ant 5. </s>Confundántur * qui me persequúntur, et non confúndar ego, Dómine, Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Let them be confounded * that persecute me, and let not me be confounded, O Lord, my God.</p>
+      <p:BodyE><sr>Ant 5. </s>Let them be confounded * that persecute me, and let not me be confounded, O Lord, my God.</p>
      </td>
     </tr>
    </table>
@@ -610,10 +610,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Turba multa, * quæ convénerat ad diem festum, clamábat Dómino: Benedíctus qui venit in nómine Dómini: Hosánna in excélsis.</p>
+      <p:BodyL><sr>Ant. </s>Turba multa, * quæ convénerat ad diem festum, clamábat Dómino: Benedíctus qui venit in nómine Dómini: Hosánna in excélsis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The multitudes * that had come for the feast, cried out to the Lord: “Blessed is he that cometh in the name of the Lord: Hosanna in the highest.”</p>
+      <p:BodyE><sr>Ant. </s>The multitudes * that had come for the feast, cried out to the Lord: “Blessed is he that cometh in the name of the Lord: Hosanna in the highest.”</p>
      </td>
     </tr>
    </table>
@@ -622,10 +622,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Pueri Hebræórum * tolléntes ramos olivárum, obviavérunt Dómino clamántes et dicéntes: Hosánna in excélsis.</p>
+      <p:BodyL><sr>Ant. </s>Pueri Hebræórum * tolléntes ramos olivárum, obviavérunt Dómino clamántes et dicéntes: Hosánna in excélsis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Hebrew children, * took branches of olive trees, and met the Lord, crying and saying: “Hosanna in the highest.”</p>
+      <p:BodyE><sr>Ant. </s>The Hebrew children, * took branches of olive trees, and met the Lord, crying and saying: “Hosanna in the highest.”</p>
      </td>
     </tr>
    </table>
@@ -634,10 +634,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Pueri Hebræórum * vestiménta prosternébant in via, et clamábant, dicéntes: Hosánna Fílio David: benedíctus qui venit in nómine Dómini.</p>
+      <p:BodyL><sr>Ant. </s>Pueri Hebræórum * vestiménta prosternébant in via, et clamábant, dicéntes: Hosánna Fílio David: benedíctus qui venit in nómine Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Hebrew children * spread their garments in the way, and cried, saying, “Hosanna to the Son of David; blessed is he that cometh in the name of the Lord.”</p>
+      <p:BodyE><sr>Ant. </s>The Hebrew children * spread their garments in the way, and cried, saying, “Hosanna to the Son of David; blessed is he that cometh in the name of the Lord.”</p>
      </td>
     </tr>
    </table>
@@ -649,10 +649,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tibi revelávi * causam meam, defénsor vitæ meæ, Dómine, Deus meus.</p>
+      <p:BodyL><sr>Ant. </s>Tibi revelávi * causam meam, defénsor vitæ meæ, Dómine, Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>To thee I have laid open * my cause., O Lord my God, the defender of my life.</p>
+      <p:BodyE><sr>Ant. </s>To thee I have laid open * my cause., O Lord my God, the defender of my life.</p>
      </td>
     </tr>
    </table>
@@ -676,10 +676,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Invocábo * nomen tuum, Dómine: ne avértas fáciem tuam a clamóre meo.</p>
+      <p:BodyL><sr>Ant. </s>Invocábo * nomen tuum, Dómine: ne avértas fáciem tuam a clamóre meo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will call upon * thy name, O Lord: hide not thy face at my cry.</p>
+      <p:BodyE><sr>Ant. </s>I will call upon * thy name, O Lord: hide not thy face at my cry.</p>
      </td>
     </tr>
    </table>
@@ -708,10 +708,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Scriptum est enim: * Percútiam pastórem, et dispergéntur oves gregis: postquam autem resurréxero, præcédam vos in Galilæam: ibi me vidébitis, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Scriptum est enim: * Percútiam pastórem, et dispergéntur oves gregis: postquam autem resurréxero, præcédam vos in Galilæam: ibi me vidébitis, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“For it is written: * ‘I will strike the shepherd, and the sheep of the flock shall be dispersed’; but after I shall be risen again, I will go before you into Galilee; there you shall see me,” saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“For it is written: * ‘I will strike the shepherd, and the sheep of the flock shall be dispersed’; but after I shall be risen again, I will go before you into Galilee; there you shall see me,” saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -724,10 +724,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Clarífica me, Pater, * apud temetípsum claritáte, quam hábui priúsquam mundus fíeret.</p>
+      <p:BodyL><sr>Ant. </s>Clarífica me, Pater, * apud temetípsum claritáte, quam hábui priúsquam mundus fíeret.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Glorify me, O Father, * with thyself, with the glory which I had, before the world was made.</p>
+      <p:BodyE><sr>Ant. </s>Glorify me, O Father, * with thyself, with the glory which I had, before the world was made.</p>
      </td>
     </tr>
    </table>
@@ -749,10 +749,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Non habéres * in me potestátem, nisi désuper tibi datum fuísset.</p>
+      <p:BodyL><sr>Ant. </s>Non habéres * in me potestátem, nisi désuper tibi datum fuísset.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou shouldst not have any power against me, unless it were given thee from above.</p>
+      <p:BodyE><sr>Ant. </s>Thou shouldst not have any power against me, unless it were given thee from above.</p>
      </td>
     </tr>
    </table>
@@ -776,10 +776,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ante diem festum * Paschæ, sciens Jesus quia venit hora ejus, cum dilexísset suos, in finem diléxit eos.</p>
+      <p:BodyL><sr>Ant. </s>Ante diem festum * Paschæ, sciens Jesus quia venit hora ejus, cum dilexísset suos, in finem diléxit eos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Before the festival day * of the pasch, Jesus knowing that his hour was come, having loved his own, he loved them unto the end.</p>
+      <p:BodyE><sr>Ant. </s>Before the festival day * of the pasch, Jesus knowing that his hour was come, having loved his own, he loved them unto the end.</p>
      </td>
     </tr>
    </table>
@@ -801,10 +801,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Potestátem hábeo * ponéndi ánimam meam, et íterum suméndi eam.</p>
+      <p:BodyL><sr>Ant. </s>Potestátem hábeo * ponéndi ánimam meam, et íterum suméndi eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I have power * to lay down my life: and to take it up again</p>
+      <p:BodyE><sr>Ant. </s>I have power * to lay down my life: and to take it up again</p>
      </td>
     </tr>
    </table>
@@ -829,10 +829,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Simon, dormis? * non potuísti una hora vigiláre mecum?</p>
+      <p:BodyL><sr>Ant. </s>Simon, dormis? * non potuísti una hora vigiláre mecum?</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Simon, sleepest thou? * Couldst thou not watch one hour?</p>
+      <p:BodyE><sr>Ant. </s>Simon, sleepest thou? * Couldst thou not watch one hour?</p>
      </td>
     </tr>
    </table>
@@ -854,10 +854,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ancílla dixit * Petro: Vere tu ex illis es: nam et loquéla tua maniféstum te facit.</p>
+      <p:BodyL><sr>Ant. </s>Ancílla dixit * Petro: Vere tu ex illis es: nam et loquéla tua maniféstum te facit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The maid said * to Peter: “Surely thou also art one of them; for even thy speech doth discover thee.”</p>
+      <p:BodyE><sr>Ant. </s>The maid said * to Peter: “Surely thou also art one of them; for even thy speech doth discover thee.”</p>
      </td>
     </tr>
    </table>
@@ -883,7 +883,7 @@
    <p:Hidden2>Holy Thursday</p>
    <p:Head1>Feria Quinta in Cena Domini</p>
    <p:Head2>I classis</p>
-   <p:Rubric>From Matins of this feria up until Compline of Holy Saturday, at all the Hours, the <s:NonRubric>Glória Patri</s> is omitted at the end of the psalms.</p>
+   <p:Rubric>From Matins of this feria up until Compline of Holy Saturday, at all the Hours, the <snr>Glória Patri</s> is omitted at the end of the psalms.</p>
    <p:Head2>ad Laudes</p>
    <p:Rubric>Lauds are begun immediately from the first antiphon. <text:s/>The psalms and proper antiphons are given in Thursday Lauds II of the Psalter.</p>
    <p:Rubric>The little chapter and hymn are not said.</p>
@@ -905,27 +905,27 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tráditor autem * dedit eis signum, dicens: Quem osculátus fúero, ipse est, tenéte eum.</p>
+      <p:BodyL><sr>Ant. </s>Tráditor autem * dedit eis signum, dicens: Quem osculátus fúero, ipse est, tenéte eum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>And he that betrayed him * gave them a sign, saying: “Whomsoever I shall kiss, that is he, hold him fast.”</p>
+      <p:BodyE><sr>Ant. </s>And he that betrayed him * gave them a sign, saying: “Whomsoever I shall kiss, that is he, hold him fast.”</p>
      </td>
     </tr>
    </table>
    <p:Rubric>By this time all the candles on the triangular candlestick have been put out, except the one at the top, and, while the Song of Zacharias is being sung, every light throughout the Church is put out, as are also the six on the Altar, one by one, so that the last is put out at the last verse.</p>
-	<p:RubricH>The antiphon having been repeated after the <s:NonRubric>Benedictus</s>, there is said, kneeling:</p>
+	<p:RubricH>The antiphon having been repeated after the <snr>Benedictus</s>, there is said, kneeling:</p>
 	<p:RubricHidden><text:tab/>Phil 2:8</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us.</p>
      </td>
     </tr>
    </table>
-   <p:RubricH>And when this is finished, the whole of the <s:NonRubric>Pater</s> is said silently; then in a loud voice, without <s:NonRubric>Orémus</s>, there is said:</p>
+   <p:RubricH>And when this is finished, the whole of the <snr>Pater</s> is said silently; then in a loud voice, without <snr>Orémus</s>, there is said:</p>
    <table>
     <tr>
      <td:A1>
@@ -949,10 +949,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us.</p>
      </td>
     </tr>
    </table>
@@ -966,10 +966,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Cálicem * salutáris accípiam, et nomen Dómini invocábo.</p>
+      <p:BodyL><sr>Ant 1. </s>Cálicem * salutáris accípiam, et nomen Dómini invocábo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>I will take the chalice of salvation; * and I will call upon the name of the Lord.</p>
+      <p:BodyE><sr>Ant 1. </s>I will take the chalice of salvation; * and I will call upon the name of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -980,10 +980,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cœnántibus autem illis, * accépit Jesus panem, et benedíxit, ac fregit, dedítque discípulis suis.</p>
+      <p:BodyL><sr>Ant. </s>Cœnántibus autem illis, * accépit Jesus panem, et benedíxit, ac fregit, dedítque discípulis suis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>And whilst they were at supper, * Jesus took bread, and blessed, and broke: and gave to his disciples</p>
+      <p:BodyE><sr>Ant. </s>And whilst they were at supper, * Jesus took bread, and blessed, and broke: and gave to his disciples</p>
      </td>
     </tr>
    </table>
@@ -991,10 +991,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us.</p>
      </td>
     </tr>
    </table>
@@ -1005,15 +1005,15 @@
    <p:RubricH>Examination of Conscience, followed by:</p>
    <p:Body>Confíteor. Miserátur. Indulgéntiam.</p>
 <?php rubrics('ps/SuC.php'); ?>
-   <p:Rubric>After the psalms, the <s:NonRubric>Nunc dimittis </s>is said immediately, without antiphon.</p>
+   <p:Rubric>After the psalms, the <snr>Nunc dimittis </s>is said immediately, without antiphon.</p>
    <p:RubricH>then the following is said kneeling:</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us.</p>
      </td>
     </tr>
    </table>
@@ -1051,26 +1051,26 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Posuérunt * super caput ejus causam ipsíus scriptam: Jesus Nazarénus, Rex Judæórum.</p>
+      <p:BodyL><sr>Ant. </s>Posuérunt * super caput ejus causam ipsíus scriptam: Jesus Nazarénus, Rex Judæórum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>They put * over his head the charge, written: “Jesus of Nazareth, King of the Jews.”</p>
+      <p:BodyE><sr>Ant. </s>They put * over his head the charge, written: “Jesus of Nazareth, King of the Jews.”</p>
      </td>
     </tr>
    </table>
-	<p:RubricH>The antiphon having been repeated after the <s:NonRubric>Benedictus</s>, there is said, kneeling:</p>
+	<p:RubricH>The antiphon having been repeated after the <snr>Benedictus</s>, there is said, kneeling:</p>
 	<p:RubricHidden><text:tab/>Phil 2:8</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
      </td>
     </tr>
    </table>
-   <p:RubricH>And when this is finished, the whole of the <s:NonRubric>Pater</s> is said silently; then in a loud voice, without <s:NonRubric>Orémus</s>, there is said:</p>
+   <p:RubricH>And when this is finished, the whole of the <snr>Pater</s> is said silently; then in a loud voice, without <snr>Orémus</s>, there is said:</p>
    <table>
     <tr>
      <td:A1>
@@ -1094,10 +1094,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
      </td>
     </tr>
    </table>
@@ -1111,10 +1111,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Cálicem * salutáris accípiam, et nomen Dómini invocábo.</p>
+      <p:BodyL><sr>Ant 1. </s>Cálicem * salutáris accípiam, et nomen Dómini invocábo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>I will take the chalice of salvation; * and I will call upon the name of the Lord.</p>
+      <p:BodyE><sr>Ant 1. </s>I will take the chalice of salvation; * and I will call upon the name of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1125,21 +1125,21 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cum accepísset acétum, * dixit: Consummátum est: et inclináto cápite, emísit spíritum.</p>
+      <p:BodyL><sr>Ant. </s>Cum accepísset acétum, * dixit: Consummátum est: et inclináto cápite, emísit spíritum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>When Jesus had taken the vinegar, * said: “It is consummated.” And bowing his head, he gave up the ghost.</p>
+      <p:BodyE><sr>Ant. </s>When Jesus had taken the vinegar, * said: “It is consummated.” And bowing his head, he gave up the ghost.</p>
      </td>
     </tr>
    </table>
-   <p:RubricH>The antiphon having been repeated after the <s:NonRubric>Magnificat</s>, there is said, kneeling:</p>
+   <p:RubricH>The antiphon having been repeated after the <snr>Magnificat</s>, there is said, kneeling:</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
      </td>
     </tr>
    </table>
@@ -1150,15 +1150,15 @@
    <p:RubricH>Examination of Conscience, followed by:</p>
    <p:Body>Confíteor. Miserátur. Indulgéntiam.</p>
 <?php rubrics('ps/SuC.php'); ?>
-   <p:Rubric>After the psalms, the <s:NonRubric>Nunc dimittis </s>is said immediately, without antiphon.</p>
+   <p:Rubric>After the psalms, the <snr>Nunc dimittis </s>is said immediately, without antiphon.</p>
    <p:RubricH>then the following is said kneeling:</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us, even to the death of the cross.</p>
      </td>
     </tr>
    </table>
@@ -1194,26 +1194,26 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Mulíeres * sedéntes ad monuméntum lamentabántur, flentes Dóminum.</p>
+      <p:BodyL><sr>Ant. </s>Mulíeres * sedéntes ad monuméntum lamentabántur, flentes Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>There were women * sitting over against the sepulchre, weeping, and making lamentation for the Lord.</p>
+      <p:BodyE><sr>Ant. </s>There were women * sitting over against the sepulchre, weeping, and making lamentation for the Lord.</p>
      </td>
     </tr>
    </table>
-	<p:RubricH>The antiphon having been repeated after the <s:NonRubric>Benedictus</s>, there is said, kneeling:</p>
+	<p:RubricH>The antiphon having been repeated after the <snr>Benedictus</s>, there is said, kneeling:</p>
    <p:RubricHidden><text:tab/>Phil 2:8</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis: propter quod et Deus exaltávit illum, et dedit illi nomen, quod est super omne nomen.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis: propter quod et Deus exaltávit illum, et dedit illi nomen, quod est super omne nomen.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names.</p>
      </td>
     </tr>
    </table>
-   <p:RubricH>And when this is finished, the whole of the <s:NonRubric>Pater </s>is said silently; then in a loud voice, without <s:NonRubric>Orémus</s>, there is said:</p>
+   <p:RubricH>And when this is finished, the whole of the <snr>Pater </s>is said silently; then in a loud voice, without <snr>Orémus</s>, there is said:</p>
    <table>
     <tr>
      <td:A1>
@@ -1237,10 +1237,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis: propter quod et Deus exaltávit illum, et dedit illi nomen, quod est super omne nomen.</p>
+      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis: propter quod et Deus exaltávit illum, et dedit illi nomen, quod est super omne nomen.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Christ became obedient unto death for us, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names.</p>
+      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names.</p>
      </td>
     </tr>
    </table>
@@ -1255,10 +1255,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Cálicem * salutáris accípiam, et nomen Dómini invocábo.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Cálicem * salutáris accípiam, et nomen Dómini invocábo.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>I will take the chalice of salvation; * and I will call upon the name of the Lord.</p>
+      <p:BodyESm><sr>Ant 1. </s>I will take the chalice of salvation; * and I will call upon the name of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1266,23 +1266,23 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Hódie afflíctus sum valde, sed cras solvam víncula mea.</p>
+      <p:BodyL><sr>Ant 1. </s>Hódie afflíctus sum valde, sed cras solvam víncula mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Today I am greatly afflicted, but tomorrow I will break my bonds.</p>
+      <p:BodyE><sr>Ant 1. </s>Today I am greatly afflicted, but tomorrow I will break my bonds.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('PsPrHolySat'); ?>
+<?php echo bookmark('PsPrHolySat'); ?>
 <?php psalm('115.php'); ?>
    <p:RubricHSm>Holy Thursday and Good Friday:</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Cálicem salutáris accípiam, et nomen Dómini invocábo.</p>
+      <p:BodyLSm><sr>Ant. </s>Cálicem salutáris accípiam, et nomen Dómini invocábo.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>I will take the chalice of salvation; and I will call upon the name of the Lord.</p>
+      <p:BodyESm><sr>Ant. </s>I will take the chalice of salvation; and I will call upon the name of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1290,18 +1290,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hódie afflíctus sum valde, sed cras solvam víncula mea.</p>
+      <p:BodyL><sr>Ant. </s>Hódie afflíctus sum valde, sed cras solvam víncula mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Today I am greatly afflicted, but tomorrow I will break my bonds.</p>
+      <p:BodyE><sr>Ant. </s>Today I am greatly afflicted, but tomorrow I will break my bonds.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Cum his, * qui odérunt pacem, eram pacíficus: dum loquébar illis impugnábant me gratis.</p>
+      <p:BodyL><sr>Ant 2. </s>Cum his, * qui odérunt pacem, eram pacíficus: dum loquébar illis impugnábant me gratis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>With them * that hated peace I was peaceable: when I spoke to them they fought against me without cause.</p>
+      <p:BodyE><sr>Ant 2. </s>With them * that hated peace I was peaceable: when I spoke to them they fought against me without cause.</p>
      </td>
     </tr>
    </table>
@@ -1310,18 +1310,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cum his, qui odérunt pacem, eram pacíficus: dum loquébar illis impugnábant me gratis.</p>
+      <p:BodyL><sr>Ant. </s>Cum his, qui odérunt pacem, eram pacíficus: dum loquébar illis impugnábant me gratis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>With them that hated peace I was peaceable: when I spoke to them they fought against me without cause.</p>
+      <p:BodyE><sr>Ant. </s>With them that hated peace I was peaceable: when I spoke to them they fought against me without cause.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ab homínibus * iníquis líbera me, Dómine.</p>
+      <p:BodyL><sr>Ant 3. </s>Ab homínibus * iníquis líbera me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>From unjust men * deliver me, O Lord.</p>
+      <p:BodyE><sr>Ant 3. </s>From unjust men * deliver me, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -1330,18 +1330,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ab homínibus iníquis líbera me, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Ab homínibus iníquis líbera me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>From unjust men deliver me, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>From unjust men deliver me, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Custódi me * a láqueo, quem statuérunt mihi, et a scándalis operántium iniquitátem.</p>
+      <p:BodyL><sr>Ant 4. </s>Custódi me * a láqueo, quem statuérunt mihi, et a scándalis operántium iniquitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Keep me * from the snare, which they have laid for me, and from the stumblingblocks of them that work iniquity.</p>
+      <p:BodyE><sr>Ant 4. </s>Keep me * from the snare, which they have laid for me, and from the stumblingblocks of them that work iniquity.</p>
      </td>
     </tr>
    </table>
@@ -1350,18 +1350,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Custódi me a láqueo, quem statuérunt mihi, et a scándalis operántium iniquitátem.</p>
+      <p:BodyL><sr>Ant. </s>Custódi me a láqueo, quem statuérunt mihi, et a scándalis operántium iniquitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Keep me from the snare, which they have laid for me, and from the stumblingblocks of them that work iniquity.</p>
+      <p:BodyE><sr>Ant. </s>Keep me from the snare, which they have laid for me, and from the stumblingblocks of them that work iniquity.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Considerábam * ad déxteram, et vidébam, et non erat qui cognósceret me.</p>
+      <p:BodyL><sr>Ant 5. </s>Considerábam * ad déxteram, et vidébam, et non erat qui cognósceret me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>I looked * on my right hand, and beheld, and there was no one that would know me.</p>
+      <p:BodyE><sr>Ant 5. </s>I looked * on my right hand, and beheld, and there was no one that would know me.</p>
      </td>
     </tr>
    </table>
@@ -1370,10 +1370,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Considerábam ad déxteram, et vidébam, et non erat qui cognósceret me.</p>
+      <p:BodyL><sr>Ant. </s>Considerábam ad déxteram, et vidébam, et non erat qui cognósceret me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I looked on my right hand, and beheld, and there was no one that would know me.</p>
+      <p:BodyE><sr>Ant. </s>I looked on my right hand, and beheld, and there was no one that would know me.</p>
      </td>
     </tr>
    </table>
@@ -1384,14 +1384,14 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Príncipes sacerdótum * et pharisæi muniérunt sepúlcrum, signántes lápidem, cum custódibus.</p>
+      <p:BodyL><sr>Ant. </s>Príncipes sacerdótum * et pharisæi muniérunt sepúlcrum, signántes lápidem, cum custódibus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The chief priests * and the Pharisees made the sepulcher sure, sealing the stone and setting guards.</p>
+      <p:BodyE><sr>Ant. </s>The chief priests * and the Pharisees made the sepulcher sure, sealing the stone and setting guards.</p>
      </td>
     </tr>
    </table>
-   <p:RubricH>The antiphon having been repeated after the <s:NonRubric>Magnificat</s>, the following is said immediately:</p>
+   <p:RubricH>The antiphon having been repeated after the <snr>Magnificat</s>, the following is said immediately:</p>
    <table>
     <tr>
      <td:A1>
@@ -1414,8 +1414,8 @@
    <p:RubricH>Examination of Conscience, followed by:</p>
    <p:Body>Confíteor. Miserátur. Indulgéntiam.</p>
 <?php rubrics('ps/SuC.php'); ?>
-   <p:Rubric>After the psalms, the <s:NonRubric>Nunc dimittis </s>is said immediately, without antiphon.</p>
-   <p:RubricH>And when this is finished, the whole of the <s:NonRubric>Pater </s>is said silently; then in a loud voice, without <s:NonRubric>Orémus</s>, there is said:</p>
+   <p:Rubric>After the psalms, the <snr>Nunc dimittis </s>is said immediately, without antiphon.</p>
+   <p:RubricH>And when this is finished, the whole of the <snr>Pater </s>is said silently; then in a loud voice, without <snr>Orémus</s>, there is said:</p>
    <table>
     <tr>
      <td:A1>
@@ -1432,7 +1432,7 @@
    </table>
    <p:Rubric>Then all arise and depart in silence.</p>
 	<p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><s:Rubric><draw:frame draw:style-name="fr8" draw:name="graphics83" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <text:h text:style-name="Head3" text:outline-level="4"><sr><draw:frame draw:style-name="fr8" draw:name="graphics83" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
              </draw:frame></s></text:h>
    <p:Body/>
 

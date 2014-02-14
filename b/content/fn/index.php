@@ -4,6 +4,7 @@ require '/www/b/content/fn/first_word.php';
 require '/www/b/content/fn/style_first_letter.php';
 require '/www/b/content/fn/misc.php';
 
+require '/www/b/content/fn/rubrics.php';
 require '/www/b/content/fn/antiphon.php';
 require '/www/b/content/fn/vr.php';
 require '/www/b/content/fn/br_resp.php';

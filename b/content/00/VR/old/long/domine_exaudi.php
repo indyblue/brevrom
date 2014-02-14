@@ -10,7 +10,7 @@
     </tr>
    </table>
 <?php if ($option==0): ?>
-   <p:BodySm><s:Rubric>Or if a Priest or Deacon presides: </s>Dóminus vobíscum, p. <text:bookmark-ref text:reference-format="page" text:ref-name="vrDominusVobiscum"/></p>
+   <p:BodySm><sr>Or if a Priest or Deacon presides: </s>Dóminus vobíscum, p. <text:bookmark-ref text:reference-format="page" text:ref-name="vrDominusVobiscum"/></p>
 <?php else: ?>
    <p:RubricH>Or if a Priest or Deacon presides the following is said:</p>
    <table>

@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Dedication of a Church</p>
-<?php bookmark('csChurch'); ?>
+<?php echo bookmark('csChurch'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication of a Church')
 ?></p>
@@ -36,7 +36,7 @@ echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication o
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('zachaee_festinans_descende.php','B'); ?>
    <p:BodySm/>
-<?php bookmark('csChurchLH'); ?>
+<?php echo bookmark('csChurchLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -64,7 +64,7 @@ echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication o
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV147.php'); ?>
-<?php bookmark('csChurchVlc'); ?>
+<?php echo bookmark('csChurchVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc21_2.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

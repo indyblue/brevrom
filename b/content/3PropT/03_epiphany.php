@@ -28,10 +28,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magi * vidéntes stellam, dixérunt ad ínvicem: Hoc signum magni Regis est: eámus et inquirámus eum, et offerámus ei múnera, aurum, thus, et myrrham, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Magi * vidéntes stellam, dixérunt ad ínvicem: Hoc signum magni Regis est: eámus et inquirámus eum, et offerámus ei múnera, aurum, thus, et myrrham, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>When the Wise Men * saw the star, they said one to another, This is the sign of the great King, let us go and search for him, and offer him gifts, gold, frankincense, and myrrh, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>When the Wise Men * saw the star, they said one to another, This is the sign of the great King, let us go and search for him, and offer him gifts, gold, frankincense, and myrrh, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -44,10 +44,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Ante lucíferum génitus, * et ante sæcula, Dóminus Salvátor noster hódie mundo appáruit.</p>
+      <p:BodyL><sr>Ant 1. </s>Ante lucíferum génitus, * et ante sæcula, Dóminus Salvátor noster hódie mundo appáruit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Begotten before the day-star * and the ages, the Lord our Saviour on this day appeared to the world.</p>
+      <p:BodyE><sr>Ant 1. </s>Begotten before the day-star * and the ages, the Lord our Saviour on this day appeared to the world.</p>
      </td>
     </tr>
    </table>
@@ -55,34 +55,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Venit lumen tuum, * Jerúsalem, et glória Dómini super te orta est, et ambulábunt Gentes in lúmine tuo, allelúja.</p>
+      <p:BodyL><sr>Ant 2. </s>Venit lumen tuum, * Jerúsalem, et glória Dómini super te orta est, et ambulábunt Gentes in lúmine tuo, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Thy light is come, O Jerusalem, * and the glory of the Lord is risen upon thee: and the Gentiles shall walk in thy light, alleluia.</p>
+      <p:BodyE><sr>Ant 2. </s>Thy light is come, O Jerusalem, * and the glory of the Lord is risen upon thee: and the Gentiles shall walk in thy light, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Apértis thesáuris suis, * obtulérunt Magi Dómino aurum, thus et myrrham, allelúja.</p>
+      <p:BodyL><sr>Ant 3. </s>Apértis thesáuris suis, * obtulérunt Magi Dómino aurum, thus et myrrham, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The Wise Men having opened their treasures, * offered unto the Lord gold, frankincense, and myrrh, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>The Wise Men having opened their treasures, * offered unto the Lord gold, frankincense, and myrrh, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Mária et flúmina, * benedícite Dómino: hymnum dícite, fontes, Dómino, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Mária et flúmina, * benedícite Dómino: hymnum dícite, fontes, Dómino, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>O ye seas and rivers, * bless ye the Lord. Ye fountains, sing a hymn to the Lord, alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>O ye seas and rivers, * bless ye the Lord. Ye fountains, sing a hymn to the Lord, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Stella ista * sicut flamma corúscat, et Regem regum Deum demónstrat: Magi eam vidérunt, et magno Regi múnera obtulérunt.</p>
+      <p:BodyL><sr>Ant 5. </s>Stella ista * sicut flamma corúscat, et Regem regum Deum demónstrat: Magi eam vidérunt, et magno Regi múnera obtulérunt.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>This star shineth * as a flame of fire, and pointeth out God, the King of kings: the Wise Men beheld it, and offered gifts unto the great King.</p>
+      <p:BodyE><sr>Ant 5. </s>This star shineth * as a flame of fire, and pointeth out God, the King of kings: the Wise Men beheld it, and offered gifts unto the great King.</p>
      </td>
     </tr>
    </table>
@@ -92,10 +92,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hódie * cælésti sponso juncta est Ecclésia, quóniam in Jordáne lavit Christus ejus crímina: currunt cum munéribus Magi ad regáles núptias, et ex aqua facto vino lætántur convívæ, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Hódie * cælésti sponso juncta est Ecclésia, quóniam in Jordáne lavit Christus ejus crímina: currunt cum munéribus Magi ad regáles núptias, et ex aqua facto vino lætántur convívæ, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>This day * is the Church joined unto the Heavenly Bridegroom, since Christ hath washed away her sins in Jordan; the wise men hasten with gifts to the marriage supper of the King; and they that sit at meat together make merry with water turned into wine, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>This day * is the Church joined unto the Heavenly Bridegroom, since Christ hath washed away her sins in Jordan; the wise men hasten with gifts to the marriage supper of the King; and they that sit at meat together make merry with water turned into wine, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -124,10 +124,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tribus miráculis * ornátum diem sanctum cólimus: hódie stella Magos duxit ad præsépium: hódie vinum ex aqua factum est ad núptias: hódie in Jordáne a Joánne Christus baptizári vóluit, ut salváret nos, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Tribus miráculis * ornátum diem sanctum cólimus: hódie stella Magos duxit ad præsépium: hódie vinum ex aqua factum est ad núptias: hódie in Jordáne a Joánne Christus baptizári vóluit, ut salváret nos, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>A holy day we celebrate, * adorned with miracles. On this day a star led the Wise Men to the manger; on this day water was made wine at the marriage feast; on this day Christ willed to be baptized of John in the Jordan, that he might save us, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>A holy day we celebrate, * adorned with miracles. On this day a star led the Wise Men to the manger; on this day water was made wine at the marriage feast; on this day Christ willed to be baptized of John in the Jordan, that he might save us, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -169,10 +169,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Jacob autem * génuit Joseph virum Maríæ; de qua natus est Jesus, qui vocátur Christus.</p>
+      <p:BodyL><sr>Ant 1. </s>Jacob autem * génuit Joseph virum Maríæ; de qua natus est Jesus, qui vocátur Christus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>And Jacob * begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ.</p>
+      <p:BodyE><sr>Ant 1. </s>And Jacob * begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ.</p>
      </td>
     </tr>
    </table>
@@ -180,34 +180,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Ángelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est.</p>
+      <p:BodyL><sr>Ant 2. </s>Ángelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The Angel of the Lord * appeared to Joseph in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.</p>
+      <p:BodyE><sr>Ant 2. </s>The Angel of the Lord * appeared to Joseph in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Pastóres venérunt * festinántes, et invenérunt Maríam, et Joseph, et Infántem pósitum in præsépio.</p>
+      <p:BodyL><sr>Ant 3. </s>Pastóres venérunt * festinántes, et invenérunt Maríam, et Joseph, et Infántem pósitum in præsépio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The shepherds came * with haste; and they found Mary and Joseph, and the infant lying in the manger.</p>
+      <p:BodyE><sr>Ant 3. </s>The shepherds came * with haste; and they found Mary and Joseph, and the infant lying in the manger.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.</p>
+      <p:BodyL><sr>Ant 4. </s>Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Magi, entering into the house, * found the child with Mary his mother</p>
+      <p:BodyE><sr>Ant 4. </s>The Magi, entering into the house, * found the child with Mary his mother</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Erat Pater ejus * et Mater mirántes super his quæ dicebántur de illo.</p>
+      <p:BodyL><sr>Ant 5. </s>Erat Pater ejus * et Mater mirántes super his quæ dicebántur de illo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>His father * and mother were wondering at those things which were spoken concerning him.</p>
+      <p:BodyE><sr>Ant 5. </s>His father * and mother were wondering at those things which were spoken concerning him.</p>
      </td>
     </tr>
    </table>
@@ -245,10 +245,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Verbum caro * factum est, et habitávit in nobis, plenum grátiæ et veritátis; de cujus plenitúdine omnes nos accépimus, et grátiam pro grátia, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Verbum caro * factum est, et habitávit in nobis, plenum grátiæ et veritátis; de cujus plenitúdine omnes nos accépimus, et grátiam pro grátia, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>the Word was made flesh, * and dwelt among us, full of grace and truth; and of his fulness we all have received, and grace for grace, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>the Word was made flesh, * and dwelt among us, full of grace and truth; and of his fulness we all have received, and grace for grace, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -262,10 +262,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Post tríduum * invenérunt Jesum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos.</p>
+      <p:BodyL><sr>Ant 1. </s>Post tríduum * invenérunt Jesum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>After three days, * they found him in the temple, sitting in the midst of the doctors, hearing them, and asking them questions.</p>
+      <p:BodyE><sr>Ant 1. </s>After three days, * they found him in the temple, sitting in the midst of the doctors, hearing them, and asking them questions.</p>
      </td>
     </tr>
    </table>
@@ -273,34 +273,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Dixit mater Jesu * ad illum: Fili, quid fecísti nobis sic? Ecce pater tuus et ego doléntes quærebámus te.</p>
+      <p:BodyL><sr>Ant 2. </s>Dixit mater Jesu * ad illum: Fili, quid fecísti nobis sic? Ecce pater tuus et ego doléntes quærebámus te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The mother of Jesus said * to him: Son, why hast thou done so to us? Behold thy father and I have sought thee sorrowing.</p>
+      <p:BodyE><sr>Ant 2. </s>The mother of Jesus said * to him: Son, why hast thou done so to us? Behold thy father and I have sought thee sorrowing.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis.</p>
+      <p:BodyL><sr>Ant 3. </s>Descéndit Jesus * cum eis, et venit Názareth, et erat súbditus illis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Jesus went down * with them, and came to Nazareth, and was subject to them.</p>
+      <p:BodyE><sr>Ant 3. </s>Jesus went down * with them, and came to Nazareth, and was subject to them.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Et Jesus proficiébat * sapiéntia, et ætáte, et grátia apud Deum et hómines.</p>
+      <p:BodyL><sr>Ant 4. </s>Et Jesus proficiébat * sapiéntia, et ætáte, et grátia apud Deum et hómines.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>And Jesus advanced * in wisdom, and age, and grace with God and men.</p>
+      <p:BodyE><sr>Ant 4. </s>And Jesus advanced * in wisdom, and age, and grace with God and men.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fílius?</p>
+      <p:BodyL><sr>Ant 5. </s>Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fílius?</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>And they said: * How came this man by this wisdom and miracles? Is not this the carpenter’s son?</p>
+      <p:BodyE><sr>Ant 5. </s>And they said: * How came this man by this wisdom and miracles? Is not this the carpenter’s son?</p>
      </td>
     </tr>
    </table>
@@ -324,10 +324,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Illúmina nos, Dómine, * exémplis famíliæ tuæ, et dírige pedes nostros in viam pacis.</p>
+      <p:BodyL><sr>Ant. </s>Illúmina nos, Dómine, * exémplis famíliæ tuæ, et dírige pedes nostros in viam pacis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Enlighten us, O Lord, * by the example of thy family, and direct our feet into the way of peace.</p>
+      <p:BodyE><sr>Ant. </s>Enlighten us, O Lord, * by the example of thy family, and direct our feet into the way of peace.</p>
      </td>
     </tr>
    </table>
@@ -614,10 +614,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>María autem * conservábat ómnia verba hæc, cónferens in corde suo.</p>
+      <p:BodyL><sr>Ant. </s>María autem * conservábat ómnia verba hæc, cónferens in corde suo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>But Mary * kept all these words, pondering them in her heart.</p>
+      <p:BodyE><sr>Ant. </s>But Mary * kept all these words, pondering them in her heart.</p>
      </td>
     </tr>
    </table>
@@ -640,10 +640,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ab Oriénte * venérunt Magi in Béthlehem adoráre Dóminum: et apértis thesáuris suis, pretiósa múnera obtulérunt: aurum, sicut Regi magno; thus, sicut Deo vero; myrrham, sepultúræ ejus, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ab Oriénte * venérunt Magi in Béthlehem adoráre Dóminum: et apértis thesáuris suis, pretiósa múnera obtulérunt: aurum, sicut Regi magno; thus, sicut Deo vero; myrrham, sepultúræ ejus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>From the East * there came wise men to Bethlehem to adore the Lord: and opening their treasures, they offered him gifts; gold, as unto the Great King; frankincense, as unto the true God; and myrrh, for his burying, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>From the East * there came wise men to Bethlehem to adore the Lord: and opening their treasures, they offered him gifts; gold, as unto the Great King; frankincense, as unto the true God; and myrrh, for his burying, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -665,10 +665,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vidéntes stellam Magi, * gavísi sunt gáudio magno: et intrántes domum, obtulérunt Dómino aurum, thus, et myrrham, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Vidéntes stellam Magi, * gavísi sunt gáudio magno: et intrántes domum, obtulérunt Dómino aurum, thus, et myrrham, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Seeing the star, the Magi * rejoiced with exceeding great joy: and entering into the house, they offered the Lord gold, frankincense, and myrrh.</p>
+      <p:BodyE><sr>Ant. </s>Seeing the star, the Magi * rejoiced with exceeding great joy: and entering into the house, they offered the Lord gold, frankincense, and myrrh.</p>
      </td>
     </tr>
    </table>
@@ -685,10 +685,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tria sunt múnera, * quæ obtulérunt Magi Dómino, aurum, thus et myrrham, Fílio Dei, Regi magno, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Tria sunt múnera, * quæ obtulérunt Magi Dómino, aurum, thus et myrrham, Fílio Dei, Regi magno, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The three gifts, * which the wise men offered unto the Lord: gold, frankincense, and myrrh; as unto the Son of God, the Great King, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>The three gifts, * which the wise men offered unto the Lord: gold, frankincense, and myrrh; as unto the Son of God, the Great King, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -721,10 +721,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Lux de luce * apparuísti, Christe, cui Magi múnera ófferunt, allelúja, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Lux de luce * apparuísti, Christe, cui Magi múnera ófferunt, allelúja, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Light of light, * thou hast manifested thyself, O Christ, and to thee the Wise men offer gifts, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Light of light, * thou hast manifested thyself, O Christ, and to thee the Wise men offer gifts, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -742,25 +742,25 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vídimus stellam ejus * in Oriénte, et vénimus cum munéribus adoráre Dóminum.</p>
+      <p:BodyL><sr>Ant. </s>Vídimus stellam ejus * in Oriénte, et vénimus cum munéribus adoráre Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>We have seen his star * in the East, and are come with gifts to adore the Lord.</p>
+      <p:BodyE><sr>Ant. </s>We have seen his star * in the East, and are come with gifts to adore the Lord.</p>
      </td>
     </tr>
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <s:NonRubric>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <s:NonRubric>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
    <p:BodySm/>
    <p:Head2>Magnificat</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Interrogábat * Magos Heródes: Quod signum vidístis super natum Regem? Stellam vídimus fulgéntem, cujus splendor illúminat mundum.</p>
+      <p:BodyL><sr>Ant. </s>Interrogábat * Magos Heródes: Quod signum vidístis super natum Regem? Stellam vídimus fulgéntem, cujus splendor illúminat mundum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Herod asked * the Wise Men, What sign saw ye over the King that is born? We saw a star shining, the brightness whereof enlighteneth the world.</p>
+      <p:BodyE><sr>Ant. </s>Herod asked * the Wise Men, What sign saw ye over the King that is born? We saw a star shining, the brightness whereof enlighteneth the world.</p>
      </td>
     </tr>
    </table>
@@ -777,26 +777,26 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Omnes natiónes * vénient a longe, portántes múnera sua, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Omnes natiónes * vénient a longe, portántes múnera sua, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>All nations * shall come from afar, bringing their gifts, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>All nations * shall come from afar, bringing their gifts, alleluia.</p>
      </td>
     </tr>
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <s:NonRubric>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <s:NonRubric>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
    <p:BodySm/>
    <p:Head2>Magnificat</p>
    <p:RubricHidden><text:tab/>Is. 60:6</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Omnes de Saba * vénient, aurum et thus deferéntes, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Omnes de Saba * vénient, aurum et thus deferéntes, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>All they from Saba * shall come, bringing gold and frankincense, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>All they from Saba * shall come, bringing gold and frankincense, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -814,26 +814,26 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vénient ad te, * qui detrahébant tibi, et adorábunt vestígia pedum tuórum.</p>
+      <p:BodyL><sr>Ant. </s>Vénient ad te, * qui detrahébant tibi, et adorábunt vestígia pedum tuórum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>They shall come to thee, * that slandered thee, and shall worship the steps of thy feet.</p>
+      <p:BodyE><sr>Ant. </s>They shall come to thee, * that slandered thee, and shall worship the steps of thy feet.</p>
      </td>
     </tr>
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <s:NonRubric>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <s:NonRubric>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
    <p:BodySm/>
    <p:RubricH>Commemoration is made ad Lauds of St. Hyginus, Pope and Martyr:</p>
    <p:RubricHSm><text:tab/>Jn 12:25</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
+      <p:BodyL><sr>Ant. </s>Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that hateth * his life in this world, keepeth it to life eternal.</p>
+      <p:BodyE><sr>Ant. </s>He that hateth * his life in this world, keepeth it to life eternal.</p>
      </td>
     </tr>
    </table>
@@ -867,10 +867,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Admóniti Magi * in somnis, per áliam viam revérsi sunt in regiónem suam.</p>
+      <p:BodyL><sr>Ant. </s>Admóniti Magi * in somnis, per áliam viam revérsi sunt in regiónem suam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Wise Men, being warned * in a dream, went back another way into their country.</p>
+      <p:BodyE><sr>Ant. </s>The Wise Men, being warned * in a dream, went back another way into their country.</p>
      </td>
     </tr>
    </table>
@@ -888,25 +888,25 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Maniféste magnum est * pietátis sacraméntum, quod manifestátum est in carne, justificátum est in spíritu, appáruit Ángelis, prædicátum est Géntibus, créditum est in mundo, assúmptum est in glória, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Maniféste magnum est * pietátis sacraméntum, quod manifestátum est in carne, justificátum est in spíritu, appáruit Ángelis, prædicátum est Géntibus, créditum est in mundo, assúmptum est in glória, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Evidently great is * the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto Angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory.</p>
+      <p:BodyE><sr>Ant. </s>Evidently great is * the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto Angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory.</p>
      </td>
     </tr>
    </table>
    <p:BodySm/>
    <p:Head2>Collect</p>
-   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <s:NonRubric>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <s:NonRubric>Vota, quæsumus</s>, as above.</p>
+   <p:RubricH>Before the first Sunday after the Epiphany, the prayer, <snr>Deus, qui hodiérna</s>, as above; after the first Sunday after the Epiphany, the prayer, <snr>Vota, quæsumus</s>, as above.</p>
    <p:BodySm/>
    <p:Head2>Magnificat</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tribus miráculis * ornátum diem sanctum cólimus: hódie stella Magos duxit ad præsépium: hódie vinum ex aqua factum est ad núptias: hódie in Jordáne a Joánne Christus baptizári vóluit, ut salváret nos, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Tribus miráculis * ornátum diem sanctum cólimus: hódie stella Magos duxit ad præsépium: hódie vinum ex aqua factum est ad núptias: hódie in Jordáne a Joánne Christus baptizári vóluit, ut salváret nos, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>A holy day we celebrate, * adorned with miracles. On this day a star led the Wise Men to the manger; on this day water was made wine at the marriage feast; on this day Christ willed to be baptized of John in the Jordan, that he might save us, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>A holy day we celebrate, * adorned with miracles. On this day a star led the Wise Men to the manger; on this day water was made wine at the marriage feast; on this day Christ willed to be baptized of John in the Jordan, that he might save us, alleluia.</p>
      </td>
     </tr>
    </table>

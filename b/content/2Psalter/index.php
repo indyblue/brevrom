@@ -17,10 +17,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Beátus vir, * qui in lege Dómini meditátur.</p>
+      <p:BodyL><sr>Ant 1. </s>Beátus vir, * qui in lege Dómini meditátur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Blessed is the man, * who meditates on the law of the Lord.</p>
+      <p:BodyE><sr>Ant 1. </s>Blessed is the man, * who meditates on the law of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -29,18 +29,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beátus vir, qui in lege Dómini meditátur.</p>
+      <p:BodyL><sr>Ant. </s>Beátus vir, qui in lege Dómini meditátur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed is the man, who meditates on the law of the Lord.</p>
+      <p:BodyE><sr>Ant. </s>Blessed is the man, who meditates on the law of the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Servíte Dómino * in timóre: et exsultáte ei cum tremóre.</p>
+      <p:BodyL><sr>Ant 2. </s>Servíte Dómino * in timóre: et exsultáte ei cum tremóre.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Serve ye the Lord * with fear: and rejoice unto him with trembling.</p>
+      <p:BodyE><sr>Ant 2. </s>Serve ye the Lord * with fear: and rejoice unto him with trembling.</p>
      </td>
     </tr>
    </table>
@@ -49,18 +49,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Servíte Dómino in timóre: et exsultáte ei cum tremóre.</p>
+      <p:BodyL><sr>Ant. </s>Servíte Dómino in timóre: et exsultáte ei cum tremóre.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Serve ye the Lord with fear: and rejoice unto him with trembling.</p>
+      <p:BodyE><sr>Ant. </s>Serve ye the Lord with fear: and rejoice unto him with trembling.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Exsúrge, * Dómine, salvum me fac, Deus meus.</p>
+      <p:BodyL><sr>Ant 3. </s>Exsúrge, * Dómine, salvum me fac, Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Arise, * O Lord; save me, O my God.</p>
+      <p:BodyE><sr>Ant 3. </s>Arise, * O Lord; save me, O my God.</p>
      </td>
     </tr>
    </table>
@@ -69,10 +69,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsúrge, Dómine, salvum me fac, Deus meus.</p>
+      <p:BodyL><sr>Ant. </s>Exsúrge, Dómine, salvum me fac, Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Arise, O Lord; save me, O my God.</p>
+      <p:BodyE><sr>Ant. </s>Arise, O Lord; save me, O my God.</p>
      </td>
     </tr>
    </table>
@@ -80,10 +80,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Quam admirábile * est nomen tuum, Dómine, in univérsa terra!</p>
+      <p:BodyL><sr>Ant 4. </s>Quam admirábile * est nomen tuum, Dómine, in univérsa terra!</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>How admirable * is thy name, O Lord, in the whole earth! </p>
+      <p:BodyE><sr>Ant 4. </s>How admirable * is thy name, O Lord, in the whole earth! </p>
      </td>
     </tr>
    </table>
@@ -92,18 +92,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quam admirábile est nomen tuum, Dómine, in univérsa terra!</p>
+      <p:BodyL><sr>Ant. </s>Quam admirábile est nomen tuum, Dómine, in univérsa terra!</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>How admirable is thy name, O Lord, in the whole earth! </p>
+      <p:BodyE><sr>Ant. </s>How admirable is thy name, O Lord, in the whole earth! </p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Sedísti super thronum, * qui júdicas justítiam.</p>
+      <p:BodyL><sr>Ant 5. </s>Sedísti super thronum, * qui júdicas justítiam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Thou hast sat on the throne, * who judgest justice</p>
+      <p:BodyE><sr>Ant 5. </s>Thou hast sat on the throne, * who judgest justice</p>
      </td>
     </tr>
    </table>
@@ -112,18 +112,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Sedísti super thronum, qui júdicas justítiam.</p>
+      <p:BodyL><sr>Ant. </s>Sedísti super thronum, qui júdicas justítiam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou hast sat on the throne, who judgest justice</p>
+      <p:BodyE><sr>Ant. </s>Thou hast sat on the throne, who judgest justice</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 6. </s>Exsúrge, Dómine, * non præváleat homo.</p>
+      <p:BodyL><sr>Ant 6. </s>Exsúrge, Dómine, * non præváleat homo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>Arise, O Lord, * let not man prevail.</p>
+      <p:BodyE><sr>Ant 6. </s>Arise, O Lord, * let not man prevail.</p>
      </td>
     </tr>
    </table>
@@ -158,10 +158,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsúrge, Dómine, non præváleat homo.</p>
+      <p:BodyL><sr>Ant. </s>Exsúrge, Dómine, non præváleat homo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Arise, O Lord, let not man prevail.</p>
+      <p:BodyE><sr>Ant. </s>Arise, O Lord, let not man prevail.</p>
      </td>
     </tr>
    </table>
@@ -169,10 +169,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Ut quid, Dómine, * recessísti longe?‡</p>
+      <p:BodyL><sr>Ant 7. </s>Ut quid, Dómine, * recessísti longe?‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>Why, O Lord, * hast thou retired afar off?‡</p>
+      <p:BodyE><sr>Ant 7. </s>Why, O Lord, * hast thou retired afar off?‡</p>
      </td>
     </tr>
    </table>
@@ -181,18 +181,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ut quid, Dómine, recessísti longe?</p>
+      <p:BodyL><sr>Ant. </s>Ut quid, Dómine, recessísti longe?</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Why, O Lord, hast thou retired afar off?</p>
+      <p:BodyE><sr>Ant. </s>Why, O Lord, hast thou retired afar off?</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Exsúrge, * Dómine Deus, exaltétur manus tua.‡</p>
+      <p:BodyL><sr>Ant 8. </s>Exsúrge, * Dómine Deus, exaltétur manus tua.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>Arise, * O Lord God, let thy hand be exalted.‡</p>
+      <p:BodyE><sr>Ant 8. </s>Arise, * O Lord God, let thy hand be exalted.‡</p>
      </td>
     </tr>
    </table>
@@ -201,18 +201,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsúrge, Dómine Deus, exaltétur manus tua.</p>
+      <p:BodyL><sr>Ant. </s>Exsúrge, Dómine Deus, exaltétur manus tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Arise, O Lord God, let thy hand be exalted.</p>
+      <p:BodyE><sr>Ant. </s>Arise, O Lord God, let thy hand be exalted.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Justus Dóminus, * et justítiam diléxit.</p>
+      <p:BodyL><sr>Ant 9. </s>Justus Dóminus, * et justítiam diléxit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord is just, * and hath loved justice.</p>
+      <p:BodyE><sr>Ant. </s>The Lord is just, * and hath loved justice.</p>
      </td>
     </tr>
    </table>
@@ -221,10 +221,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Justus Dóminus, et justítiam diléxit</p>
+      <p:BodyL><sr>Ant. </s>Justus Dóminus, et justítiam diléxit</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord is just, and hath loved justice.</p>
+      <p:BodyE><sr>Ant. </s>The Lord is just, and hath loved justice.</p>
      </td>
     </tr>
    </table>
@@ -239,10 +239,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Allelúja, * Allelúja, Allelúja.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Allelúja, * Allelúja, Allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Alleluia, * Alleluia, Alleluia</p>
+      <p:BodyESm><sr>Ant 1. </s>Alleluia, * Alleluia, Alleluia</p>
      </td>
     </tr>
    </table>
@@ -250,31 +250,31 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Allelúja, * Dóminus regnávit, decórem índuit, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Allelúja, * Dóminus regnávit, decórem índuit, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Alleluia, * the Lord has reigned, he hath clothed himself with beauty, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant 1. </s>Alleluia, * the Lord has reigned, he hath clothed himself with beauty, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('PsSuL1'); ?>
+<?php echo bookmark('PsSuL1'); ?>
 <?php psalm('092.php'); ?>
    <p:Spacer/>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, Dóminus regnávit, decórem índuit, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, Dóminus regnávit, decórem índuit, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, the Lord has reigned, he has clothed himself with beauty, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, the Lord has reigned, he has clothed himself with beauty, alleluia, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Jubiláte * Deo, omnis terra, allelúja.</p>
+      <p:BodyL><sr>Ant 2. </s>Jubiláte * Deo, omnis terra, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Sing joyfully * to God, all the earth, alleluia.</p>
+      <p:BodyE><sr>Ant 2. </s>Sing joyfully * to God, all the earth, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -283,18 +283,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Jubiláte Deo, omnis terra, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Jubiláte Deo, omnis terra, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Sing joyfully to God, all the earth, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Sing joyfully to God, all the earth, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Benedícam te * in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.</p>
+      <p:BodyL><sr>Ant 3. </s>Benedícam te * in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>I will bless * thee all my life long, O Lord; and in thy name I will lift up my hands, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>I will bless * thee all my life long, O Lord; and in thy name I will lift up my hands, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -303,18 +303,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Benedícam te in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Benedícam te in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>I will bless thee all my life long, O Lord; and in thy name I will lift up my hands, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>I will bless thee all my life long, O Lord; and in thy name I will lift up my hands, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Tres púeri * jussu regis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Tres púeri * jussu regis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The three children * at the king’s command were cast into the furnace, fearing not the flame of the fire, but saying: “Blessed be God,” alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>The three children * at the king’s command were cast into the furnace, fearing not the flame of the fire, but saying: “Blessed be God,” alleluia.</p>
      </td>
     </tr>
    </table>
@@ -323,18 +323,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tres púeri jussu regis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Tres púeri jussu regis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The three children at the king’s command were cast into the furnace, fearing not the flame of the fire, but saying: “Blessed be God,” alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>The three children at the king’s command were cast into the furnace, fearing not the flame of the fire, but saying: “Blessed be God,” alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Allelúja, * laudáte Dóminum de cælis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant 5. </s>Allelúja, * laudáte Dóminum de cælis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Alleluia, * praise the Lord from the heavens, alleluia, alleluia</p>
+      <p:BodyE><sr>Ant 5. </s>Alleluia, * praise the Lord from the heavens, alleluia, alleluia</p>
      </td>
     </tr>
    </table>
@@ -343,10 +343,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, laudáte Dóminum de cælis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, laudáte Dóminum de cælis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, praise the Lord from the heavens, alleluia, alleluia</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, praise the Lord from the heavens, alleluia, alleluia</p>
      </td>
     </tr>
    </table>
@@ -354,10 +354,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Allelúja, Allelúja, Allelúja.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Allelúja, Allelúja, Allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Alleluia, Alleluia, Alleluia</p>
+      <p:BodyESm><sr>Ant 1. </s>Alleluia, Alleluia, Alleluia</p>
      </td>
     </tr>
    </table>
@@ -399,7 +399,7 @@
    <p:Hidden2>Lauds II</p>
    <p:Head1>Domínica ad Laudes II</p>
    <p:Rubric>Antiphons given in Proper of Seasons</p>
-<?php bookmark('PsSuL2'); ?>
+<?php echo bookmark('PsSuL2'); ?>
 <?php psalm('050.php'); ?>
 <?php psalm('117.php'); ?>
 <?php psalm('062.php'); ?>
@@ -421,10 +421,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, * confitémini Dómino quóniam in sæculum misericórdia ejus, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, * confitémini Dómino quóniam in sæculum misericórdia ejus, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, * give praise to the Lord, for his mercy endureth forever, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, * give praise to the Lord, for his mercy endureth forever, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -439,10 +439,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, confitémini Dómino quóniam in sæculum misericórdia ejus, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, confitémini Dómino quóniam in sæculum misericórdia ejus, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, give praise to the Lord, for his mercy endureth forever, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, give praise to the Lord, for his mercy endureth forever, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -456,10 +456,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, * deduc me, Dómine, in sémitam mandatórum tuórum, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, * deduc me, Dómine, in sémitam mandatórum tuórum, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, * lead me, O Lord, into the path of thy commandments, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, * lead me, O Lord, into the path of thy commandments, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -470,10 +470,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, deduc me, Dómine, in sémitam mandatórum tuórum, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, deduc me, Dómine, in sémitam mandatórum tuórum, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, lead me, O Lord, into the path of thy commandments, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, lead me, O Lord, into the path of thy commandments, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -569,10 +569,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, * tuus sum ego, salvum me fac, Dómine, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, * tuus sum ego, salvum me fac, Dómine, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, * I am thine, save thou me, O Lord, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, * I am thine, save thou me, O Lord, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -583,10 +583,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, tuus sum ego, salvum me fac, Dómine, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, tuus sum ego, salvum me fac, Dómine, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, I am thine, save thou me, O Lord, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, I am thine, save thou me, O Lord, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -682,10 +682,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, * fáciem tuam, Dómine, illúmina super servum tuum, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, * fáciem tuam, Dómine, illúmina super servum tuum, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, * make thy face, O Lord, to shine upon thy servant, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, * make thy face, O Lord, to shine upon thy servant, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -696,10 +696,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Allelúja, fáciem tuam, Dómine, illúmina super servum tuum, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Allelúja, fáciem tuam, Dómine, illúmina super servum tuum, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Alleluia, make thy face, O Lord, to shine upon thy servant, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Alleluia, make thy face, O Lord, to shine upon thy servant, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -795,32 +795,32 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Dixit Dóminus * Dómino meo: Sede a dextris meis.‡</p>
+      <p:BodyL><sr>Ant 1. </s>Dixit Dóminus * Dómino meo: Sede a dextris meis.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The Lord said * to my Lord: Sit thou at my right hand.‡</p>
+      <p:BodyE><sr>Ant 1. </s>The Lord said * to my Lord: Sit thou at my right hand.‡</p>
      </td>
     </tr>
    </table>
    <p:Rubric>The antiphon is not repeated in the psalm. This is always the case when the antiphon begins with the words of the psalm or canticle. The Psalm or canticle begins from the point that the antiphon stops, and no Alleluia is added to the antiphon.</p>
-<?php bookmark('PsSuV'); ?>
+<?php echo bookmark('PsSuV'); ?>
 <?php psalm('109.php',0,1); ?>
    <p:Spacer/>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dixit Dóminus Dómino meo: Sede a dextris meis.</p>
+      <p:BodyL><sr>Ant. </s>Dixit Dóminus Dómino meo: Sede a dextris meis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord said to my Lord: Sit thou at my right hand.</p>
+      <p:BodyE><sr>Ant. </s>The Lord said to my Lord: Sit thou at my right hand.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Magna ópera Dómini: * exquisíta in omnes voluntátes ejus.</p>
+      <p:BodyL><sr>Ant 2. </s>Magna ópera Dómini: * exquisíta in omnes voluntátes ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Great are the works of the Lord, * sought out according to all his wills.</p>
+      <p:BodyE><sr>Ant 2. </s>Great are the works of the Lord, * sought out according to all his wills.</p>
      </td>
     </tr>
    </table>
@@ -829,18 +829,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magna ópera Dómini: exquisíta in omnes voluntátes ejus.</p>
+      <p:BodyL><sr>Ant. </s>Magna ópera Dómini: exquisíta in omnes voluntátes ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Great are the works of the Lord, sought out according to all his wills.</p>
+      <p:BodyE><sr>Ant. </s>Great are the works of the Lord, sought out according to all his wills.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Qui timet Dóminum, * in mandátis ejus cupit nimis.</p>
+      <p:BodyL><sr>Ant 3. </s>Qui timet Dóminum, * in mandátis ejus cupit nimis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The man that feareth the Lord * shall desire exceedingly his commandments.</p>
+      <p:BodyE><sr>Ant 3. </s>The man that feareth the Lord * shall desire exceedingly his commandments.</p>
      </td>
     </tr>
    </table>
@@ -849,18 +849,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui timet Dóminum, in mandátis ejus cupit nimis.</p>
+      <p:BodyL><sr>Ant. </s>Qui timet Dóminum, in mandátis ejus cupit nimis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The man that feareth the Lord shall desire exceedingly his commandments.</p>
+      <p:BodyE><sr>Ant. </s>The man that feareth the Lord shall desire exceedingly his commandments.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Sit nomen Dómini * benedíctum in sæcula.</p>
+      <p:BodyL><sr>Ant 4. </s>Sit nomen Dómini * benedíctum in sæcula.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Blessed be the name * of the Lord forever.</p>
+      <p:BodyE><sr>Ant 4. </s>Blessed be the name * of the Lord forever.</p>
      </td>
     </tr>
    </table>
@@ -869,18 +869,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Sit nomen Dómini benedíctum in sæcula.</p>
+      <p:BodyL><sr>Ant. </s>Sit nomen Dómini benedíctum in sæcula.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed be the name of the Lord forever.</p>
+      <p:BodyE><sr>Ant. </s>Blessed be the name of the Lord forever.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Deus autem noster * in cælo: ómnia quæcúmque vóluit, fecit.</p>
+      <p:BodyL><sr>Ant 5. </s>Deus autem noster * in cælo: ómnia quæcúmque vóluit, fecit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>But our God * is in heaven; he hath done all things whatsoever he would.</p>
+      <p:BodyE><sr>Ant 5. </s>But our God * is in heaven; he hath done all things whatsoever he would.</p>
      </td>
     </tr>
    </table>
@@ -889,24 +889,24 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus autem noster in cælo: ómnia quæcúmque vóluit, fecit.</p>
+      <p:BodyL><sr>Ant. </s>Deus autem noster in cælo: ómnia quæcúmque vóluit, fecit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>But our God is in heaven; he hath done all things whatsoever he would.</p>
+      <p:BodyE><sr>Ant. </s>But our God is in heaven; he hath done all things whatsoever he would.</p>
      </td>
     </tr>
    </table>
    <p:P191/>
    <p:RubricH>The following psalms are included for convenience. They are only used on feasts, as specified in the Propers. When used, one of the following will be said in place of Ps 113. At all other times, they are omitted, and Vespers continues with the little chapter.</p>
-<?php bookmark('Ps116'); ?>
+<?php echo bookmark('Ps116'); ?>
 <?php psalm('116.php'); ?>
-<?php bookmark('Ps115'); ?>
+<?php echo bookmark('Ps115'); ?>
 <?php psalm('115.php'); ?>
-<?php bookmark('Ps131'); ?>
+<?php echo bookmark('Ps131'); ?>
 <?php psalm('131.php'); ?>
-<?php bookmark('Ps137'); ?>
+<?php echo bookmark('Ps137'); ?>
 <?php psalm('137.php'); ?>
-<?php bookmark('Ps147'); ?>
+<?php echo bookmark('Ps147'); ?>
 <?php psalm('147.php'); ?>
    <p:P191/>
 	<p:BodySm/>
@@ -949,10 +949,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Miserére * mihi, Dómine, et exáudi oratiónem meam.</p>
+      <p:BodyL><sr>Ant. </s>Miserére * mihi, Dómine, et exáudi oratiónem meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Have mercy * on me, O Lord, and hear my prayer.</p>
+      <p:BodyE><sr>Ant. </s>Have mercy * on me, O Lord, and hear my prayer.</p>
      </td>
     </tr>
    </table>
@@ -963,10 +963,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Miserére mihi, Dómine, et exáudi oratiónem meam.</p>
+      <p:BodyL><sr>Ant. </s>Miserére mihi, Dómine, et exáudi oratiónem meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Have mercy on me, O Lord, and hear my prayer.</p>
+      <p:BodyE><sr>Ant. </s>Have mercy on me, O Lord, and hear my prayer.</p>
      </td>
     </tr>
    </table>
@@ -981,10 +981,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Dóminus de cælo * prospéxit super fílios hóminum.</p>
+      <p:BodyL><sr>Ant 1. </s>Dóminus de cælo * prospéxit super fílios hóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The Lord from heaven * hath looked down upon the children of men.</p>
+      <p:BodyE><sr>Ant 1. </s>The Lord from heaven * hath looked down upon the children of men.</p>
      </td>
     </tr>
    </table>
@@ -993,18 +993,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dóminus de cælo prospéxit super fílios hóminum.</p>
+      <p:BodyL><sr>Ant. </s>Dóminus de cælo prospéxit super fílios hóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord from heaven hath looked down upon the children of men.</p>
+      <p:BodyE><sr>Ant. </s>The Lord from heaven hath looked down upon the children of men.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Qui operátur justítiam, * requiéscet in monte sancto tuo, Dómine.</p>
+      <p:BodyL><sr>Ant 2. </s>Qui operátur justítiam, * requiéscet in monte sancto tuo, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>He that worketh justice, * shall rest in thy holy hill, O Lord.</p>
+      <p:BodyE><sr>Ant 2. </s>He that worketh justice, * shall rest in thy holy hill, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -1013,18 +1013,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui operátur justítiam, requiéscet in monte sancto tuo, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Qui operátur justítiam, requiéscet in monte sancto tuo, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that worketh justice, shall rest in thy holy hill, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>He that worketh justice, shall rest in thy holy hill, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Inclína, Dómine, * aurem tuam mihi, et exáudi verba mea.</p>
+      <p:BodyL><sr>Ant 3. </s>Inclína, Dómine, * aurem tuam mihi, et exáudi verba mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Incline thy ear unto me, O Lord, * and hear my words.</p>
+      <p:BodyE><sr>Ant 3. </s>Incline thy ear unto me, O Lord, * and hear my words.</p>
      </td>
     </tr>
    </table>
@@ -1033,10 +1033,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Inclína, Dómine, aurem tuam mihi, et exáudi verba mea.</p>
+      <p:BodyL><sr>Ant. </s>Inclína, Dómine, aurem tuam mihi, et exáudi verba mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Incline thy ear unto me, O Lord, and hear my words.</p>
+      <p:BodyE><sr>Ant. </s>Incline thy ear unto me, O Lord, and hear my words.</p>
      </td>
     </tr>
    </table>
@@ -1044,10 +1044,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Díligam te, * Dómine, virtus mea.</p>
+      <p:BodyL><sr>Ant 4. </s>Díligam te, * Dómine, virtus mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>I will love thee, * O Lord, my strength.</p>
+      <p:BodyE><sr>Ant 4. </s>I will love thee, * O Lord, my strength.</p>
      </td>
     </tr>
    </table>
@@ -1056,18 +1056,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Díligam te, Dómine, virtus mea.</p>
+      <p:BodyL><sr>Ant. </s>Díligam te, Dómine, virtus mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will love thee, O Lord, my strength.</p>
+      <p:BodyE><sr>Ant. </s>I will love thee, O Lord, my strength.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Retríbuet mihi Dóminus, * secúndum justítiam meam.</p>
+      <p:BodyL><sr>Ant 5. </s>Retríbuet mihi Dóminus, * secúndum justítiam meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>The Lord will reward me, * according to my justice.</p>
+      <p:BodyE><sr>Ant 5. </s>The Lord will reward me, * according to my justice.</p>
      </td>
     </tr>
    </table>
@@ -1076,18 +1076,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Retríbuet mihi Dóminus, secúndum justítiam meam.</p>
+      <p:BodyL><sr>Ant. </s>Retríbuet mihi Dóminus, secúndum justítiam meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord will reward me, according to my justice.</p>
+      <p:BodyE><sr>Ant. </s>The Lord will reward me, according to my justice.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 6. </s>Vivit Dóminus, * et benedíctus Deus salútis meæ.</p>
+      <p:BodyL><sr>Ant 6. </s>Vivit Dóminus, * et benedíctus Deus salútis meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>The Lord liveth, * and blessed be the God of my salvation.</p>
+      <p:BodyE><sr>Ant 6. </s>The Lord liveth, * and blessed be the God of my salvation.</p>
      </td>
     </tr>
    </table>
@@ -1096,10 +1096,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vivit Dóminus, et benedíctus Deus salútis meæ.</p>
+      <p:BodyL><sr>Ant. </s>Vivit Dóminus, et benedíctus Deus salútis meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord liveth, and blessed be the God of my salvation.</p>
+      <p:BodyE><sr>Ant. </s>The Lord liveth, and blessed be the God of my salvation.</p>
      </td>
     </tr>
    </table>
@@ -1107,10 +1107,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Exáudiat te * Dóminus in die tribulatiónis.‡</p>
+      <p:BodyL><sr>Ant 7. </s>Exáudiat te * Dóminus in die tribulatiónis.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>May the Lord hear thee * in the day of tribulation.‡</p>
+      <p:BodyE><sr>Ant 7. </s>May the Lord hear thee * in the day of tribulation.‡</p>
      </td>
     </tr>
    </table>
@@ -1119,18 +1119,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exáudiat te Dóminus in die tribulatiónis.</p>
+      <p:BodyL><sr>Ant. </s>Exáudiat te Dóminus in die tribulatiónis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>May the Lord hear thee in the day of tribulation.</p>
+      <p:BodyE><sr>Ant. </s>May the Lord hear thee in the day of tribulation.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Dómine, * in virtúte tua lætábitur rex.‡</p>
+      <p:BodyL><sr>Ant 8. </s>Dómine, * in virtúte tua lætábitur rex.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>In thy strength, * O Lord, the king shall joy.‡</p>
+      <p:BodyE><sr>Ant 8. </s>In thy strength, * O Lord, the king shall joy.‡</p>
      </td>
     </tr>
    </table>
@@ -1139,18 +1139,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, in virtúte tua lætábitur rex.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, in virtúte tua lætábitur rex.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In thy strength, O Lord, the king shall joy.</p>
+      <p:BodyE><sr>Ant. </s>In thy strength, O Lord, the king shall joy.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Exaltábo te, * Dómine, quóniam suscepísti me.‡</p>
+      <p:BodyL><sr>Ant 9. </s>Exaltábo te, * Dómine, quóniam suscepísti me.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 9. </s>I will extol thee, * O Lord, for thou hast upheld me.‡</p>
+      <p:BodyE><sr>Ant 9. </s>I will extol thee, * O Lord, for thou hast upheld me.‡</p>
      </td>
     </tr>
    </table>
@@ -1159,10 +1159,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exaltábo te, Dómine, quóniam suscepísti me.</p>
+      <p:BodyL><sr>Ant. </s>Exaltábo te, Dómine, quóniam suscepísti me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will extol thee, O Lord, for thou hast upheld me.</p>
+      <p:BodyE><sr>Ant. </s>I will extol thee, O Lord, for thou hast upheld me.</p>
      </td>
     </tr>
    </table>
@@ -1176,10 +1176,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Jubiláte * Deo in voce exsultatiónis.</p>
+      <p:BodyL><sr>Ant 1. </s>Jubiláte * Deo in voce exsultatiónis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Shout * unto God with the voice of joy.</p>
+      <p:BodyE><sr>Ant 1. </s>Shout * unto God with the voice of joy.</p>
      </td>
     </tr>
    </table>
@@ -1188,39 +1188,39 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Jubiláte Deo in voce exsultatiónis.</p>
+      <p:BodyL><sr>Ant. </s>Jubiláte Deo in voce exsultatiónis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Shout unto God with the voice of joy.</p>
+      <p:BodyE><sr>Ant. </s>Shout unto God with the voice of joy.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Inténde * voci oratiónis meæ, Rex meus et Deus meus.</p>
+      <p:BodyL><sr>Ant 2. </s>Inténde * voci oratiónis meæ, Rex meus et Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Hearken * to the voice of my prayer, O my King and my God.</p>
+      <p:BodyE><sr>Ant 2. </s>Hearken * to the voice of my prayer, O my King and my God.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('Ps5'); ?>
+<?php echo bookmark('Ps5'); ?>
 <?php psalm('005.php'); ?>
    <p:Spacer/>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Inténde voci oratiónis meæ, Rex meus et Deus meus.</p>
+      <p:BodyL><sr>Ant. </s>Inténde voci oratiónis meæ, Rex meus et Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Hearken to the voice of my prayer, O my King and my God.</p>
+      <p:BodyE><sr>Ant. </s>Hearken to the voice of my prayer, O my King and my God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Deus majestátis * intónuit: afférte glóriam nómini ejus.</p>
+      <p:BodyL><sr>Ant 3. </s>Deus majestátis * intónuit: afférte glóriam nómini ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The God of majesty * has thundered: bring to the Lord glory to his name</p>
+      <p:BodyE><sr>Ant 3. </s>The God of majesty * has thundered: bring to the Lord glory to his name</p>
      </td>
     </tr>
    </table>
@@ -1229,18 +1229,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus majestátis intónuit: afférte glóriam nómini ejus.</p>
+      <p:BodyL><sr>Ant. </s>Deus majestátis intónuit: afférte glóriam nómini ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The God of majesty has thundered: bring to the Lord glory to his name</p>
+      <p:BodyE><sr>Ant. </s>The God of majesty has thundered: bring to the Lord glory to his name</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Laudámus nomen tuum * ínclytum, Deus noster.</p>
+      <p:BodyL><sr>Ant 4. </s>Laudámus nomen tuum * ínclytum, Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>We praise thy glorious name, * O our God.</p>
+      <p:BodyE><sr>Ant 4. </s>We praise thy glorious name, * O our God.</p>
      </td>
     </tr>
    </table>
@@ -1249,18 +1249,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudámus nomen tuum ínclytum, Deus noster.</p>
+      <p:BodyL><sr>Ant. </s>Laudámus nomen tuum ínclytum, Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>We praise thy glorious name, O our God.</p>
+      <p:BodyE><sr>Ant. </s>We praise thy glorious name, O our God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudáte * Dóminum, omnes gentes.‡</p>
+      <p:BodyL><sr>Ant 5. </s>Laudáte * Dóminum, omnes gentes.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>O praise the Lord, * all ye nations.‡</p>
+      <p:BodyE><sr>Ant 5. </s>O praise the Lord, * all ye nations.‡</p>
      </td>
     </tr>
    </table>
@@ -1269,10 +1269,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudáte Dóminum, omnes gentes.</p>
+      <p:BodyL><sr>Ant. </s>Laudáte Dóminum, omnes gentes.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O praise the Lord, all ye nations.</p>
+      <p:BodyE><sr>Ant. </s>O praise the Lord, all ye nations.</p>
      </td>
     </tr>
    </table>
@@ -1309,10 +1309,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Benedíctus, * Dóminus, Deus Israël, quia visitávit et liberávit nos.</p>
+      <p:BodyL><sr>Ant. </s>Benedíctus, * Dóminus, Deus Israël, quia visitávit et liberávit nos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed be * the Lord God of Israel; because he hath visited and delivered us.</p>
+      <p:BodyE><sr>Ant. </s>Blessed be * the Lord God of Israel; because he hath visited and delivered us.</p>
      </td>
     </tr>
    </table>
@@ -1326,10 +1326,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Miserére * mei, Deus, secúndum magnam misericórdiam tuam.‡</p>
+      <p:BodyL><sr>Ant 1. </s>Miserére * mei, Deus, secúndum magnam misericórdiam tuam.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Have mercy * on me, O God, according to thy great mercy.‡</p>
+      <p:BodyE><sr>Ant 1. </s>Have mercy * on me, O God, according to thy great mercy.‡</p>
      </td>
     </tr>
    </table>
@@ -1337,10 +1337,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Ecce véniet * Dóminus princeps regum terræ: beáti, qui paráti sunt occúrrere illi.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Ecce véniet * Dóminus princeps regum terræ: beáti, qui paráti sunt occúrrere illi.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Behold the Lord cometh, * the Prince of the kings of the earth: blessed are they, who are prepared to meet him.</p>
+      <p:BodyESm><sr>Ant 1. </s>Behold the Lord cometh, * the Prince of the kings of the earth: blessed are they, who are prepared to meet him.</p>
      </td>
     </tr>
    </table>
@@ -1348,10 +1348,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Fáciem meam * non avérti ab increpántibus et conspuéntibus in me.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Fáciem meam * non avérti ab increpántibus et conspuéntibus in me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>I hid not my face * from shame and spitting.</p>
+      <p:BodyESm><sr>Ant 1. </s>I hid not my face * from shame and spitting.</p>
      </td>
     </tr>
    </table>
@@ -1360,18 +1360,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Miserére * mei, Deus, secúndum magnam misericórdiam tuam.</p>
+      <p:BodyL><sr>Ant. </s>Miserére * mei, Deus, secúndum magnam misericórdiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Have mercy * on me, O God, according to thy great mercy.</p>
+      <p:BodyE><sr>Ant. </s>Have mercy * on me, O God, according to thy great mercy.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Deduc me * in justítia tua, Dómine.</p>
+      <p:BodyL><sr>Ant 2. </s>Deduc me * in justítia tua, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Conduct me * in thy justice, O Lord.</p>
+      <p:BodyE><sr>Ant 2. </s>Conduct me * in thy justice, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -1379,18 +1379,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ecce véniet Dóminus princeps regum terræ: beáti, qui paráti sunt occúrrere illi.</p>
+      <p:BodyLSm><sr>Ant. </s>Ecce véniet Dóminus princeps regum terræ: beáti, qui paráti sunt occúrrere illi.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Behold the Lord cometh, the Prince of the kings of the earth: blessed are they, who are prepared to meet him.</p>
+      <p:BodyESm><sr>Ant. </s>Behold the Lord cometh, the Prince of the kings of the earth: blessed are they, who are prepared to meet him.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Cum vénerit * Fílius hóminis, putas invéniet fidem super terram?</p>
+      <p:BodyLSm><sr>Ant 2. </s>Cum vénerit * Fílius hóminis, putas invéniet fidem super terram?</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>When the Son of man * cometh, shall he find faith on the earth?</p>
+      <p:BodyESm><sr>Ant 2. </s>When the Son of man * cometh, shall he find faith on the earth?</p>
      </td>
     </tr>
    </table>
@@ -1398,18 +1398,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Fáciem meam non avérti ab increpántibus et conspuéntibus in me.</p>
+      <p:BodyLSm><sr>Ant. </s>Fáciem meam non avérti ab increpántibus et conspuéntibus in me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>I hid not my face from shame and spitting.</p>
+      <p:BodyESm><sr>Ant. </s>I hid not my face from shame and spitting.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Frámea, suscitáre * advérsus eos, qui dispérgunt gregem meum.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Frámea, suscitáre * advérsus eos, qui dispérgunt gregem meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>Awake, O sword, * against them that scatter my flock.</p>
+      <p:BodyESm><sr>Ant 2. </s>Awake, O sword, * against them that scatter my flock.</p>
      </td>
     </tr>
    </table>
@@ -1418,18 +1418,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deduc me in justítia tua, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Deduc me in justítia tua, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Conduct me in thy justice, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Conduct me in thy justice, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Dóminus dabit virtútem * et benedícet pópulo suo in pace.</p>
+      <p:BodyL><sr>Ant 3. </s>Dóminus dabit virtútem * et benedícet pópulo suo in pace.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The Lord will give strength, * and will bless his people with peace.</p>
+      <p:BodyE><sr>Ant 3. </s>The Lord will give strength, * and will bless his people with peace.</p>
      </td>
     </tr>
    </table>
@@ -1437,18 +1437,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Cum vénerit Fílius hóminis, putas invéniet fidem super terram?</p>
+      <p:BodyLSm><sr>Ant. </s>Cum vénerit Fílius hóminis, putas invéniet fidem super terram?</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>When the Son of man cometh, shall he find faith on the earth?</p>
+      <p:BodyESm><sr>Ant. </s>When the Son of man cometh, shall he find faith on the earth?</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Ecce jam venit * plenitúdo témporis, in quo misit Deus Fílium suum in terras.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Ecce jam venit * plenitúdo témporis, in quo misit Deus Fílium suum in terras.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>Behold, the fulness of time, * is come, when God sent forth his Son into the world.</p>
+      <p:BodyESm><sr>Ant 3. </s>Behold, the fulness of time, * is come, when God sent forth his Son into the world.</p>
      </td>
     </tr>
    </table>
@@ -1456,18 +1456,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Frámea, suscitáre advérsus eos, qui dispérgunt gregem meum.</p>
+      <p:BodyLSm><sr>Ant. </s>Frámea, suscitáre advérsus eos, qui dispérgunt gregem meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Awake, O sword, against them that scatter my flock.</p>
+      <p:BodyESm><sr>Ant. </s>Awake, O sword, against them that scatter my flock.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Appendérunt * mercédem meam trigínta argénteis: quibus appretiátus sum ab eis.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Appendérunt * mercédem meam trigínta argénteis: quibus appretiátus sum ab eis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>They took * the thirty pieces of silver, my price, that I was prized at of them.</p>
+      <p:BodyESm><sr>Ant 3. </s>They took * the thirty pieces of silver, my price, that I was prized at of them.</p>
      </td>
     </tr>
    </table>
@@ -1476,18 +1476,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dóminus dabit virtútem et benedícet pópulo suo in pace.</p>
+      <p:BodyL><sr>Ant. </s>Dóminus dabit virtútem et benedícet pópulo suo in pace.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord will give strength, and will bless his people with peace.</p>
+      <p:BodyE><sr>Ant. </s>The Lord will give strength, and will bless his people with peace.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Convérsus est furor tuus, * Dómine, et consolátus es me.</p>
+      <p:BodyL><sr>Ant 4. </s>Convérsus est furor tuus, * Dómine, et consolátus es me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Thy wrath is turned away, * O Lord, and thou hast comforted me.</p>
+      <p:BodyE><sr>Ant 4. </s>Thy wrath is turned away, * O Lord, and thou hast comforted me.</p>
      </td>
     </tr>
    </table>
@@ -1495,18 +1495,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ecce jam venit plenitúdo témporis, in quo misit Deus Fílium suum in terras.</p>
+      <p:BodyLSm><sr>Ant. </s>Ecce jam venit plenitúdo témporis, in quo misit Deus Fílium suum in terras.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Behold, the fulness of time, is come, when God sent forth his Son into the world.</p>
+      <p:BodyESm><sr>Ant. </s>Behold, the fulness of time, is come, when God sent forth his Son into the world.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Hauriétis aquas * in gáudio de fóntibus Salvatóris.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Hauriétis aquas * in gáudio de fóntibus Salvatóris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>With joy * shall ye draw water out of the wells of the Saviour.</p>
+      <p:BodyESm><sr>Ant 4. </s>With joy * shall ye draw water out of the wells of the Saviour.</p>
      </td>
     </tr>
    </table>
@@ -1514,18 +1514,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Appendérunt mercédem meam trigínta argénteis: quibus appretiátus sum ab eis.</p>
+      <p:BodyLSm><sr>Ant. </s>Appendérunt mercédem meam trigínta argénteis: quibus appretiátus sum ab eis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>They took the thirty pieces of silver, my price, that I was prized at of them.</p>
+      <p:BodyESm><sr>Ant. </s>They took the thirty pieces of silver, my price, that I was prized at of them.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Inundavérunt aquæ * super caput meum: dixi, Périi, invocábo nomen tuum, Dómine Deus.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Inundavérunt aquæ * super caput meum: dixi, Périi, invocábo nomen tuum, Dómine Deus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>Waters flowed * over mine head. I said: “I am cut off; I will call upon thy name, O Lord God.”</p>
+      <p:BodyESm><sr>Ant 4. </s>Waters flowed * over mine head. I said: “I am cut off; I will call upon thy name, O Lord God.”</p>
      </td>
     </tr>
    </table>
@@ -1534,18 +1534,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Convérsus est furor tuus, Dómine, et consolátus es me.</p>
+      <p:BodyL><sr>Ant. </s>Convérsus est furor tuus, Dómine, et consolátus es me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thy wrath is turned away, O Lord, and thou hast comforted me.</p>
+      <p:BodyE><sr>Ant. </s>Thy wrath is turned away, O Lord, and thou hast comforted me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudáte * Dóminum, quóniam confirmáta est super nos misericórdia ejus.</p>
+      <p:BodyL><sr>Ant 5. </s>Laudáte * Dóminum, quóniam confirmáta est super nos misericórdia ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise * the Lord, for his mercy is confirmed upon us</p>
+      <p:BodyE><sr>Ant 5. </s>Praise * the Lord, for his mercy is confirmed upon us</p>
      </td>
     </tr>
    </table>
@@ -1553,18 +1553,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Hauriétis aquas in gáudio de fóntibus Salvatóris.</p>
+      <p:BodyLSm><sr>Ant. </s>Hauriétis aquas in gáudio de fóntibus Salvatóris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>With joy shall ye draw water out of the wells of the Saviour.</p>
+      <p:BodyESm><sr>Ant. </s>With joy shall ye draw water out of the wells of the Saviour.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Egrediétur * Dóminus de loco sancto suo: véniet ut salvet pópulum suum.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Egrediétur * Dóminus de loco sancto suo: véniet ut salvet pópulum suum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>The Lord goeth forth * from his holy place. He cometh to save his people.</p>
+      <p:BodyESm><sr>Ant 5. </s>The Lord goeth forth * from his holy place. He cometh to save his people.</p>
      </td>
     </tr>
    </table>
@@ -1572,18 +1572,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Inundavérunt aquæ super caput meum: dixi, Périi, invocábo nomen tuum, Dómine Deus.</p>
+      <p:BodyLSm><sr>Ant. </s>Inundavérunt aquæ super caput meum: dixi, Périi, invocábo nomen tuum, Dómine Deus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Waters flowed over mine head. I said: “I am cut off; I will call upon thy name, O Lord God.”</p>
+      <p:BodyESm><sr>Ant. </s>Waters flowed over mine head. I said: “I am cut off; I will call upon thy name, O Lord God.”</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Lábia insurgéntium, * et cogitatiónes eórum vide, Dómine.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Lábia insurgéntium, * et cogitatiónes eórum vide, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>O Lord, behold the lips * of those that rose up against me, and their device.</p>
+      <p:BodyESm><sr>Ant 5. </s>O Lord, behold the lips * of those that rose up against me, and their device.</p>
      </td>
     </tr>
    </table>
@@ -1592,10 +1592,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudáte Dóminum, quóniam confirmáta est super nos misericórdia ejus.</p>
+      <p:BodyL><sr>Ant. </s>Laudáte Dóminum, quóniam confirmáta est super nos misericórdia ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise the Lord, for his mercy is confirmed upon us</p>
+      <p:BodyE><sr>Ant. </s>Praise the Lord, for his mercy is confirmed upon us</p>
      </td>
     </tr>
    </table>
@@ -1603,10 +1603,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Egrediétur Dóminus de loco sancto suo: véniet ut salvet pópulum suum.</p>
+      <p:BodyLSm><sr>Ant. </s>Egrediétur Dóminus de loco sancto suo: véniet ut salvet pópulum suum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>The Lord goeth forth from his holy place. He cometh to save his people.</p>
+      <p:BodyESm><sr>Ant. </s>The Lord goeth forth from his holy place. He cometh to save his people.</p>
      </td>
     </tr>
    </table>
@@ -1614,10 +1614,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Lábia insurgéntium, et cogitatiónes eórum vide, Dómine.</p>
+      <p:BodyLSm><sr>Ant. </s>Lábia insurgéntium, et cogitatiónes eórum vide, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>O Lord, behold the lips of those that rose up against me, and their device.</p>
+      <p:BodyESm><sr>Ant. </s>O Lord, behold the lips of those that rose up against me, and their device.</p>
      </td>
     </tr>
    </table>
@@ -1711,10 +1711,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ínnocens mánibus * et mundo corde ascéndet in montem Dómini.</p>
+      <p:BodyL><sr>Ant. </s>Ínnocens mánibus * et mundo corde ascéndet in montem Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The innocent in hands * and clean of heart shall ascend into the mountain of the Lord.</p>
+      <p:BodyE><sr>Ant. </s>The innocent in hands * and clean of heart shall ascend into the mountain of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1725,10 +1725,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ínnocens mánibus et mundo corde ascéndet in montem Dómini.</p>
+      <p:BodyL><sr>Ant. </s>Ínnocens mánibus et mundo corde ascéndet in montem Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The innocent in hands and clean of heart shall ascend into the mountain of the Lord.</p>
+      <p:BodyE><sr>Ant. </s>The innocent in hands and clean of heart shall ascend into the mountain of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1820,14 +1820,14 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Illuminátio mea, * et salus mea Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Illuminátio mea, * et salus mea Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My light, * and my salvation is the Lord.</p>
+      <p:BodyE><sr>Ant. </s>My light, * and my salvation is the Lord.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('Ps26'); ?>
+<?php echo bookmark('Ps26'); ?>
 <?php psalm('026-1.php'); ?>
 <?php psalm('026-2.php'); ?>
 <?php psalm('027.php'); ?>
@@ -1835,10 +1835,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Illuminátio mea, et salus mea Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Illuminátio mea, et salus mea Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My light, and my salvation is the Lord.</p>
+      <p:BodyE><sr>Ant. </s>My light, and my salvation is the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1930,10 +1930,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In tua justítia * líbera me, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>In tua justítia * líbera me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In thy justice * deliver me, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>In thy justice * deliver me, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -1944,10 +1944,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In tua justítia líbera me, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>In tua justítia líbera me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In thy justice deliver me, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>In thy justice deliver me, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -2039,10 +2039,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsultáte, justi, * et gloriámini, omnes recti corde.</p>
+      <p:BodyL><sr>Ant. </s>Exsultáte, justi, * et gloriámini, omnes recti corde.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Rejoice, ye just, * and glory, all ye upright of heart.</p>
+      <p:BodyE><sr>Ant. </s>Rejoice, ye just, * and glory, all ye upright of heart.</p>
      </td>
     </tr>
    </table>
@@ -2053,10 +2053,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsultáte, justi, et gloriámini, omnes recti corde.</p>
+      <p:BodyL><sr>Ant. </s>Exsultáte, justi, et gloriámini, omnes recti corde.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Rejoice, ye just, and glory, all ye upright of heart.</p>
+      <p:BodyE><sr>Ant. </s>Rejoice, ye just, and glory, all ye upright of heart.</p>
      </td>
     </tr>
    </table>
@@ -2071,10 +2071,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Inclinávit Dóminus * aurem suam mihi.</p>
+      <p:BodyL><sr>Ant 1. </s>Inclinávit Dóminus * aurem suam mihi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The Lord hath inclined * his ear unto me.</p>
+      <p:BodyE><sr>Ant 1. </s>The Lord hath inclined * his ear unto me.</p>
      </td>
     </tr>
    </table>
@@ -2083,18 +2083,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Inclinávit Dóminus aurem suam mihi.</p>
+      <p:BodyL><sr>Ant. </s>Inclinávit Dóminus aurem suam mihi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath inclined his ear unto me.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath inclined his ear unto me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Vota mea * Dómino reddam coram omni pópulo ejus.</p>
+      <p:BodyL><sr>Ant 2. </s>Vota mea * Dómino reddam coram omni pópulo ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>I will pay * my vows to the Lord before all his people</p>
+      <p:BodyE><sr>Ant 2. </s>I will pay * my vows to the Lord before all his people</p>
      </td>
     </tr>
    </table>
@@ -2103,18 +2103,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vota mea Dómino reddam coram omni pópulo ejus.</p>
+      <p:BodyL><sr>Ant. </s>Vota mea Dómino reddam coram omni pópulo ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will pay my vows to the Lord before all his people</p>
+      <p:BodyE><sr>Ant. </s>I will pay my vows to the Lord before all his people</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Clamávi, * et Dóminus exaudívit me.</p>
+      <p:BodyL><sr>Ant 3. </s>Clamávi, * et Dóminus exaudívit me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>I cried, * and the Lord heard me.</p>
+      <p:BodyE><sr>Ant 3. </s>I cried, * and the Lord heard me.</p>
      </td>
     </tr>
    </table>
@@ -2123,18 +2123,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Clamávi, et Dóminus exaudívit me.</p>
+      <p:BodyL><sr>Ant. </s>Clamávi, et Dóminus exaudívit me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I cried, and the Lord heard me.</p>
+      <p:BodyE><sr>Ant. </s>I cried, and the Lord heard me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Auxílium meum * a Dómino, qui fecit cælum et terram.</p>
+      <p:BodyL><sr>Ant 4. </s>Auxílium meum * a Dómino, qui fecit cælum et terram.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>My help * is from the Lord, who made heaven and earth.</p>
+      <p:BodyE><sr>Ant 4. </s>My help * is from the Lord, who made heaven and earth.</p>
      </td>
     </tr>
    </table>
@@ -2143,18 +2143,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Auxílium meum a Dómino, qui fecit cælum et terram.</p>
+      <p:BodyL><sr>Ant. </s>Auxílium meum a Dómino, qui fecit cælum et terram.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My help is from the Lord, who made heaven and earth.</p>
+      <p:BodyE><sr>Ant. </s>My help is from the Lord, who made heaven and earth.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Lætátus sum * in his, quæ dicta sunt mihi. ‡</p>
+      <p:BodyL><sr>Ant 5. </s>Lætátus sum * in his, quæ dicta sunt mihi. ‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>I rejoiced * at the things that were said to me. ‡</p>
+      <p:BodyE><sr>Ant 5. </s>I rejoiced * at the things that were said to me. ‡</p>
      </td>
     </tr>
    </table>
@@ -2163,10 +2163,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Lætátus sum in his, quæ dicta sunt mihi.</p>
+      <p:BodyL><sr>Ant. </s>Lætátus sum in his, quæ dicta sunt mihi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I rejoiced at the things that were said to me.</p>
+      <p:BodyE><sr>Ant. </s>I rejoiced at the things that were said to me.</p>
      </td>
     </tr>
    </table>
@@ -2203,10 +2203,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magníficat * ánima mea Dóminum, quia respéxit Deus humilitátem meam.</p>
+      <p:BodyL><sr>Ant. </s>Magníficat * ánima mea Dóminum, quia respéxit Deus humilitátem meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My soul doth magnify * the Lord, because he hath regarded the humility of his handmaid.</p>
+      <p:BodyE><sr>Ant. </s>My soul doth magnify * the Lord, because he hath regarded the humility of his handmaid.</p>
      </td>
     </tr>
    </table>
@@ -2220,26 +2220,26 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salvum me fac, * Dómine, propter misericórdiam tuam.</p>
+      <p:BodyL><sr>Ant. </s>Salvum me fac, * Dómine, propter misericórdiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Save me, * O Lord, for thy mercy’s sake.</p>
+      <p:BodyE><sr>Ant. </s>Save me, * O Lord, for thy mercy’s sake.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('Ps6'); ?>
+<?php echo bookmark('Ps6'); ?>
 <?php psalm('006.php'); ?>
-<?php bookmark('Ps7'); ?>
+<?php echo bookmark('Ps7'); ?>
 <?php psalm('007-1.php'); ?>
 <?php psalm('007-2.php'); ?>
    <p:Spacer/>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salvum me fac, Dómine, propter misericórdiam tuam.</p>
+      <p:BodyL><sr>Ant. </s>Salvum me fac, Dómine, propter misericórdiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Save me, O Lord, for thy mercy’s sake.</p>
+      <p:BodyE><sr>Ant. </s>Save me, O Lord, for thy mercy’s sake.</p>
      </td>
     </tr>
    </table>
@@ -2254,10 +2254,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Expúgna, Dómine, * impugnántes me.</p>
+      <p:BodyL><sr>Ant 1. </s>Expúgna, Dómine, * impugnántes me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Overthrow, O Lord, * them that fight against me.</p>
+      <p:BodyE><sr>Ant 1. </s>Overthrow, O Lord, * them that fight against me.</p>
      </td>
     </tr>
    </table>
@@ -2266,18 +2266,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Expúgna, Dómine, impugnántes me.</p>
+      <p:BodyL><sr>Ant. </s>Expúgna, Dómine, impugnántes me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Overthrow, O Lord, them that fight against me.</p>
+      <p:BodyE><sr>Ant. </s>Overthrow, O Lord, them that fight against me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Restítue ánimam meam * a malefáctis eórum, Dómine. </p>
+      <p:BodyL><sr>Ant 2. </s>Restítue ánimam meam * a malefáctis eórum, Dómine. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Rescue thou soul * from their malice, O Lord.</p>
+      <p:BodyE><sr>Ant 2. </s>Rescue thou soul * from their malice, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -2286,18 +2286,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Restítue ánimam meam a malefáctis eórum, Dómine. </p>
+      <p:BodyL><sr>Ant. </s>Restítue ánimam meam a malefáctis eórum, Dómine. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Rescue thou soul from their malice, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Rescue thou soul from their malice, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Exsúrge, Dómine, * et inténde judício meo.</p>
+      <p:BodyL><sr>Ant 3. </s>Exsúrge, Dómine, * et inténde judício meo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Arise, O Lord, * and be attentive to my judgment</p>
+      <p:BodyE><sr>Ant 3. </s>Arise, O Lord, * and be attentive to my judgment</p>
      </td>
     </tr>
    </table>
@@ -2306,10 +2306,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsúrge, Dómine, et inténde judício meo.</p>
+      <p:BodyL><sr>Ant. </s>Exsúrge, Dómine, et inténde judício meo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Arise, O Lord, and be attentive to my judgment</p>
+      <p:BodyE><sr>Ant. </s>Arise, O Lord, and be attentive to my judgment</p>
      </td>
     </tr>
    </table>
@@ -2317,10 +2317,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Noli æmulári * in eo, qui prosperátur, et facit iniquitátem.</p>
+      <p:BodyL><sr>Ant 4. </s>Noli æmulári * in eo, qui prosperátur, et facit iniquitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Envy not * the man who prospereth in his way, and doth unjust things.</p>
+      <p:BodyE><sr>Ant 4. </s>Envy not * the man who prospereth in his way, and doth unjust things.</p>
      </td>
     </tr>
    </table>
@@ -2329,18 +2329,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Noli æmulári in eo, qui prosperátur, et facit iniquitátem.</p>
+      <p:BodyL><sr>Ant. </s>Noli æmulári in eo, qui prosperátur, et facit iniquitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Envy not the man who prospereth in his way, and doth unjust things.</p>
+      <p:BodyE><sr>Ant. </s>Envy not the man who prospereth in his way, and doth unjust things.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Bráchia peccatórum * conteréntur: confírmat autem justos Dóminus.</p>
+      <p:BodyL><sr>Ant 5. </s>Bráchia peccatórum * conteréntur: confírmat autem justos Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>The arms of the wicked * shall be broken in pieces; but the Lord strengtheneth the just.</p>
+      <p:BodyE><sr>Ant 5. </s>The arms of the wicked * shall be broken in pieces; but the Lord strengtheneth the just.</p>
      </td>
     </tr>
    </table>
@@ -2349,18 +2349,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Bráchia peccatórum conteréntur: confírmat autem justos Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Bráchia peccatórum conteréntur: confírmat autem justos Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The arms of the wicked shall be broken in pieces; but the Lord strengtheneth the just.</p>
+      <p:BodyE><sr>Ant. </s>The arms of the wicked shall be broken in pieces; but the Lord strengtheneth the just.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 6. </s>Custódi innocéntiam, * et vide æquitátem.</p>
+      <p:BodyL><sr>Ant 6. </s>Custódi innocéntiam, * et vide æquitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>Keep innocence, * and behold justice.</p>
+      <p:BodyE><sr>Ant 6. </s>Keep innocence, * and behold justice.</p>
      </td>
     </tr>
    </table>
@@ -2369,10 +2369,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Custódi innocéntiam, et vide æquitátem.</p>
+      <p:BodyL><sr>Ant. </s>Custódi innocéntiam, et vide æquitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Keep innocence, and behold justice.</p>
+      <p:BodyE><sr>Ant. </s>Keep innocence, and behold justice.</p>
      </td>
     </tr>
    </table>
@@ -2380,10 +2380,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Ne in ira tua * corrípias me, Dómine.</p>
+      <p:BodyL><sr>Ant 7. </s>Ne in ira tua * corrípias me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>Chastise me not * in thy wrath, O Lord.</p>
+      <p:BodyE><sr>Ant 7. </s>Chastise me not * in thy wrath, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -2392,18 +2392,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne in ira tua corrípias me, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Ne in ira tua corrípias me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Chastise me not in thy wrath, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Chastise me not in thy wrath, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Inténde in adjutórium meum, * Dómine, virtus salútis meæ.</p>
+      <p:BodyL><sr>Ant 8. </s>Inténde in adjutórium meum, * Dómine, virtus salútis meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>Attend unto my help, * O Lord, the strength of my salvation.</p>
+      <p:BodyE><sr>Ant 8. </s>Attend unto my help, * O Lord, the strength of my salvation.</p>
      </td>
     </tr>
    </table>
@@ -2412,18 +2412,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Inténde in adjutórium meum, Dómine, virtus salútis meæ.</p>
+      <p:BodyL><sr>Ant. </s>Inténde in adjutórium meum, Dómine, virtus salútis meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Attend unto my help, O Lord, the strength of my salvation.</p>
+      <p:BodyE><sr>Ant. </s>Attend unto my help, O Lord, the strength of my salvation.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Ámove, Dómine, * a me plagas tuas.</p>
+      <p:BodyL><sr>Ant 9. </s>Ámove, Dómine, * a me plagas tuas.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 9. </s>Remove, O Lord, * thy scourges from me.</p>
+      <p:BodyE><sr>Ant 9. </s>Remove, O Lord, * thy scourges from me.</p>
      </td>
     </tr>
    </table>
@@ -2432,10 +2432,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ámove, Dómine, a me plagas tuas.</p>
+      <p:BodyL><sr>Ant. </s>Ámove, Dómine, a me plagas tuas.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Remove, O Lord, thy scourges from me.</p>
+      <p:BodyE><sr>Ant. </s>Remove, O Lord, thy scourges from me.</p>
      </td>
     </tr>
    </table>
@@ -2449,10 +2449,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Cantáte * Dómino, et benedícite nómini ejus.</p>
+      <p:BodyL><sr>Ant 1. </s>Cantáte * Dómino, et benedícite nómini ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Sing ye * to the Lord and bless his name</p>
+      <p:BodyE><sr>Ant 1. </s>Sing ye * to the Lord and bless his name</p>
      </td>
     </tr>
    </table>
@@ -2461,18 +2461,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cantáte Dómino, et benedícite nómini ejus.</p>
+      <p:BodyL><sr>Ant. </s>Cantáte Dómino, et benedícite nómini ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Sing ye to the Lord and bless his name</p>
+      <p:BodyE><sr>Ant. </s>Sing ye to the Lord and bless his name</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Salutáre vultus mei * Deus meus.</p>
+      <p:BodyL><sr>Ant 2. </s>Salutáre vultus mei * Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The salvation of my countenance, * my God.</p>
+      <p:BodyE><sr>Ant 2. </s>The salvation of my countenance, * my God.</p>
      </td>
     </tr>
    </table>
@@ -2481,18 +2481,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salutáre vultus mei Deus meus.</p>
+      <p:BodyL><sr>Ant. </s>Salutáre vultus mei Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The salvation of my countenance, my God.</p>
+      <p:BodyE><sr>Ant. </s>The salvation of my countenance, my God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Illúmina, Dómine, * vultum tuum super nos.</p>
+      <p:BodyL><sr>Ant 3. </s>Illúmina, Dómine, * vultum tuum super nos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Cause the light, O Lord, * of thy countenance to shine upon us.</p>
+      <p:BodyE><sr>Ant 3. </s>Cause the light, O Lord, * of thy countenance to shine upon us.</p>
      </td>
     </tr>
    </table>
@@ -2501,18 +2501,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Illúmina, Dómine, vultum tuum super nos.</p>
+      <p:BodyL><sr>Ant. </s>Illúmina, Dómine, vultum tuum super nos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Cause the light, O Lord, of thy countenance to shine upon us.</p>
+      <p:BodyE><sr>Ant. </s>Cause the light, O Lord, of thy countenance to shine upon us.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Exaltáte * Regem sæculórum in opéribus vestris.</p>
+      <p:BodyL><sr>Ant 4. </s>Exaltáte * Regem sæculórum in opéribus vestris.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Extol * the eternal King of worlds in your works.</p>
+      <p:BodyE><sr>Ant 4. </s>Extol * the eternal King of worlds in your works.</p>
      </td>
     </tr>
    </table>
@@ -2521,18 +2521,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exaltáte Regem sæculórum in opéribus vestris.</p>
+      <p:BodyL><sr>Ant. </s>Exaltáte Regem sæculórum in opéribus vestris.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Extol the eternal King of worlds in your works.</p>
+      <p:BodyE><sr>Ant. </s>Extol the eternal King of worlds in your works.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudáte * nomen Dómini, qui statis in domo Dómini.</p>
+      <p:BodyL><sr>Ant 5. </s>Laudáte * nomen Dómini, qui statis in domo Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise ye * the name of the Lord, you that stand in the house of the Lord.</p>
+      <p:BodyE><sr>Ant 5. </s>Praise ye * the name of the Lord, you that stand in the house of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -2541,10 +2541,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudáte nomen Dómini, qui statis in domo Dómini.</p>
+      <p:BodyL><sr>Ant. </s>Laudáte nomen Dómini, qui statis in domo Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise ye the name of the Lord, you that stand in the house of the Lord.</p>
+      <p:BodyE><sr>Ant. </s>Praise ye the name of the Lord, you that stand in the house of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -2581,10 +2581,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Eréxit nobis * Dóminus cornu salútis in domo David, púeri sui.</p>
+      <p:BodyL><sr>Ant. </s>Eréxit nobis * Dóminus cornu salútis in domo David, púeri sui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath raised up * a horn of salvation to us, in the house of David his servant.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath raised up * a horn of salvation to us, in the house of David his servant.</p>
      </td>
     </tr>
    </table>
@@ -2598,10 +2598,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Dele iniquitátem meam, * Dómine, secúndum multitúdinem miseratiónum tuárum.</p>
+      <p:BodyL><sr>Ant 1. </s>Dele iniquitátem meam, * Dómine, secúndum multitúdinem miseratiónum tuárum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Blot out my iniquity, O Lord, * according to the multitude of thy tender mercies.</p>
+      <p:BodyE><sr>Ant 1. </s>Blot out my iniquity, O Lord, * according to the multitude of thy tender mercies.</p>
      </td>
     </tr>
    </table>
@@ -2609,10 +2609,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Roráte, cæli, désuper, * et nubes pluant justum: aperiátur terra, et gérminet Salvatórem.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Roráte, cæli, désuper, * et nubes pluant justum: aperiátur terra, et gérminet Salvatórem.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Drop down, ye heavens, from above, * and let the skies pour down the Righteous One: let the earth open and let her bring forth a Savior.</p>
+      <p:BodyESm><sr>Ant 1. </s>Drop down, ye heavens, from above, * and let the skies pour down the Righteous One: let the earth open and let her bring forth a Savior.</p>
      </td>
     </tr>
    </table>
@@ -2620,10 +2620,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Vide, Dómine, * et consídera, quóniam tríbulor: velóciter exáudi me.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Vide, Dómine, * et consídera, quóniam tríbulor: velóciter exáudi me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Behold, O Lord, * and see: for I am in trouble; hear me speedily.</p>
+      <p:BodyESm><sr>Ant 1. </s>Behold, O Lord, * and see: for I am in trouble; hear me speedily.</p>
      </td>
     </tr>
    </table>
@@ -2632,18 +2632,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dele iniquitátem meam, Dómine, secúndum multitúdinem miseratiónum tuárum.</p>
+      <p:BodyL><sr>Ant. </s>Dele iniquitátem meam, Dómine, secúndum multitúdinem miseratiónum tuárum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blot out my iniquity, O Lord, according to the multitude of thy tender mercies.</p>
+      <p:BodyE><sr>Ant. </s>Blot out my iniquity, O Lord, according to the multitude of thy tender mercies.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Discérne causam meam, * Deus, de gente non sancta.</p>
+      <p:BodyL><sr>Ant 2. </s>Discérne causam meam, * Deus, de gente non sancta.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Distinguish my cause, * O God, from the nation that is not holy</p>
+      <p:BodyE><sr>Ant 2. </s>Distinguish my cause, * O God, from the nation that is not holy</p>
      </td>
     </tr>
    </table>
@@ -2651,18 +2651,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Roráte, cæli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem.</p>
+      <p:BodyLSm><sr>Ant. </s>Roráte, cæli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Drop down, ye heavens, from above, and let the skies pour down the Righteous One: let the earth open and let her bring forth a Savior.</p>
+      <p:BodyESm><sr>Ant. </s>Drop down, ye heavens, from above, and let the skies pour down the Righteous One: let the earth open and let her bring forth a Savior.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Emítte Agnum, Dómine, * Dominatórem terræ, de Petra desérti, ad montem fíliæ Sion.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Emítte Agnum, Dómine, * Dominatórem terræ, de Petra desérti, ad montem fíliæ Sion.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>Send forth the Lamb, O Lord: * the Ruler of the land, from rock of the wilderness unto the mount of the daughter of Sion.</p>
+      <p:BodyESm><sr>Ant 2. </s>Send forth the Lamb, O Lord: * the Ruler of the land, from rock of the wilderness unto the mount of the daughter of Sion.</p>
      </td>
     </tr>
    </table>
@@ -2670,18 +2670,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Vide, Dómine, et consídera, quóniam tríbulor: velóciter exáudi me.</p>
+      <p:BodyLSm><sr>Ant. </s>Vide, Dómine, et consídera, quóniam tríbulor: velóciter exáudi me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Behold, O Lord, and see: for I am in trouble; hear me speedily.</p>
+      <p:BodyESm><sr>Ant. </s>Behold, O Lord, and see: for I am in trouble; hear me speedily.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Discérne causam meam, Dómine: * ab hómine iníquo et dolóso éripe me.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Discérne causam meam, Dómine: * ab hómine iníquo et dolóso éripe me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>Plead my cause, O Lord; * deliver me from the unjust and deceitful man.</p>
+      <p:BodyESm><sr>Ant 2. </s>Plead my cause, O Lord; * deliver me from the unjust and deceitful man.</p>
      </td>
     </tr>
    </table>
@@ -2690,18 +2690,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Discérne causam meam, * Deus, de gente non sancta.</p>
+      <p:BodyL><sr>Ant. </s>Discérne causam meam, * Deus, de gente non sancta.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Distinguish my cause, O God, from the nation that is not holy</p>
+      <p:BodyE><sr>Ant. </s>Distinguish my cause, O God, from the nation that is not holy</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Deus misereátur * nostri, et benedícat nobis. ‡</p>
+      <p:BodyL><sr>Ant 3. </s>Deus misereátur * nostri, et benedícat nobis. ‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>May God have mercy * on us and bless us. ‡</p>
+      <p:BodyE><sr>Ant 3. </s>May God have mercy * on us and bless us. ‡</p>
      </td>
     </tr>
    </table>
@@ -2709,18 +2709,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Emítte Agnum, Dómine, Dominatórem terræ, de Petra desérti, ad montem fíliæ Sion.</p>
+      <p:BodyLSm><sr>Ant. </s>Emítte Agnum, Dómine, Dominatórem terræ, de Petra desérti, ad montem fíliæ Sion.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Send forth the Lamb, O Lord: the Ruler of the land, from rock of the wilderness unto the mount of the daughter of Sion.</p>
+      <p:BodyESm><sr>Ant. </s>Send forth the Lamb, O Lord: the Ruler of the land, from rock of the wilderness unto the mount of the daughter of Sion.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Ut cognoscámus, Dómine, * in terra viam tuam, in ómnibus Géntibus salutáre tuum.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Ut cognoscámus, Dómine, * in terra viam tuam, in ómnibus Géntibus salutáre tuum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>That thy way, O Lord, * may be known upon the earth, thy saving health among all nations.</p>
+      <p:BodyESm><sr>Ant 3. </s>That thy way, O Lord, * may be known upon the earth, thy saving health among all nations.</p>
      </td>
     </tr>
    </table>
@@ -2728,18 +2728,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Discérne causam meam, Dómine: ab hómine iníquo et dolóso éripe me.</p>
+      <p:BodyLSm><sr>Ant. </s>Discérne causam meam, Dómine: ab hómine iníquo et dolóso éripe me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Plead my cause, O Lord; deliver me from the unjust and deceitful man.</p>
+      <p:BodyESm><sr>Ant. </s>Plead my cause, O Lord; deliver me from the unjust and deceitful man.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Dum tribulárer, * clamávi ad Dóminum de ventre ínferi, et exaudívit me.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Dum tribulárer, * clamávi ad Dóminum de ventre ínferi, et exaudívit me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>I cried by reason of mine affliction unto the Lord, * and he heard me out of the belly of hell.</p>
+      <p:BodyESm><sr>Ant 3. </s>I cried by reason of mine affliction unto the Lord, * and he heard me out of the belly of hell.</p>
      </td>
     </tr>
    </table>
@@ -2748,18 +2748,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus misereátur nostri, et benedícat nos.</p>
+      <p:BodyL><sr>Ant. </s>Deus misereátur nostri, et benedícat nos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>May God have mercy on us and bless us.</p>
+      <p:BodyE><sr>Ant. </s>May God have mercy on us and bless us.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Corrípies me, Dómine, * et vivificábis me.</p>
+      <p:BodyL><sr>Ant 4. </s>Corrípies me, Dómine, * et vivificábis me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Thou shalt correct me, O Lord, * and make me to live.</p>
+      <p:BodyE><sr>Ant 4. </s>Thou shalt correct me, O Lord, * and make me to live.</p>
      </td>
     </tr>
    </table>
@@ -2767,18 +2767,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ut cognoscámus, Dómine, in terra viam tuam, in ómnibus Géntibus salutáre tuum.</p>
+      <p:BodyLSm><sr>Ant. </s>Ut cognoscámus, Dómine, in terra viam tuam, in ómnibus Géntibus salutáre tuum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>That thy way, O Lord, may be known upon the earth, thy saving health among all nations.</p>
+      <p:BodyESm><sr>Ant. </s>That thy way, O Lord, may be known upon the earth, thy saving health among all nations.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Da mercédem, Dómine, * sustinéntibus te, ut prophétæ tui fidéles inveniántur.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Da mercédem, Dómine, * sustinéntibus te, ut prophétæ tui fidéles inveniántur.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>Reward them, O Lord, * that wait for thee, and let thy Prophets be found faithful.</p>
+      <p:BodyESm><sr>Ant 4. </s>Reward them, O Lord, * that wait for thee, and let thy Prophets be found faithful.</p>
      </td>
     </tr>
    </table>
@@ -2786,18 +2786,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Dum tribulárer, clamávi ad Dóminum de ventre ínferi, et exaudívit me.</p>
+      <p:BodyLSm><sr>Ant. </s>Dum tribulárer, clamávi ad Dóminum de ventre ínferi, et exaudívit me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>I cried by reason of mine affliction unto the Lord, and he heard me out of the belly of hell.</p>
+      <p:BodyESm><sr>Ant. </s>I cried by reason of mine affliction unto the Lord, and he heard me out of the belly of hell.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Dómine, vim pátior, * respónde pro me: quia néscio quid dicam inimícis meis.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Dómine, vim pátior, * respónde pro me: quia néscio quid dicam inimícis meis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>O Lord, I am oppressed; * undertake thou for me, for I know not what to say unto mine enemies.</p>
+      <p:BodyESm><sr>Ant 4. </s>O Lord, I am oppressed; * undertake thou for me, for I know not what to say unto mine enemies.</p>
      </td>
     </tr>
    </table>
@@ -2806,18 +2806,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Corrípies me, Dómine, et vivificábis me.</p>
+      <p:BodyL><sr>Ant. </s>Corrípies me, Dómine, et vivificábis me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou shalt correct me, O Lord, and make me to live.</p>
+      <p:BodyE><sr>Ant. </s>Thou shalt correct me, O Lord, and make me to live.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudáte * Dóminum, quia benígnus est, et in servis suis deprecábitur.</p>
+      <p:BodyL><sr>Ant 5. </s>Laudáte * Dóminum, quia benígnus est, et in servis suis deprecábitur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise * the Lord, for he is kind, and will be entreated in favour of his servants.</p>
+      <p:BodyE><sr>Ant 5. </s>Praise * the Lord, for he is kind, and will be entreated in favour of his servants.</p>
      </td>
     </tr>
    </table>
@@ -2825,18 +2825,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Da mercédem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur.</p>
+      <p:BodyLSm><sr>Ant. </s>Da mercédem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Reward them, O Lord, that wait for thee, and let thy Prophets be found faithful.</p>
+      <p:BodyESm><sr>Ant. </s>Reward them, O Lord, that wait for thee, and let thy Prophets be found faithful.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Lex per Móysen data est, * grátia et véritas per Jesum Christum facta est.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Lex per Móysen data est, * grátia et véritas per Jesum Christum facta est.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>The law was given by Moses, * but grace and truth came by Jesus Christ.</p>
+      <p:BodyESm><sr>Ant 5. </s>The law was given by Moses, * but grace and truth came by Jesus Christ.</p>
      </td>
     </tr>
    </table>
@@ -2844,18 +2844,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Dómine, vim pátior, respónde pro me: quia néscio quid dicam inimícis meis.</p>
+      <p:BodyLSm><sr>Ant. </s>Dómine, vim pátior, respónde pro me: quia néscio quid dicam inimícis meis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>O Lord, I am oppressed; undertake thou for me, for I know not what to say unto mine enemies.</p>
+      <p:BodyESm><sr>Ant. </s>O Lord, I am oppressed; undertake thou for me, for I know not what to say unto mine enemies.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Dixérunt ímpii: * Opprimámus virum justum, quóniam contrárius est opéribus nostris.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Dixérunt ímpii: * Opprimámus virum justum, quóniam contrárius est opéribus nostris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>The ungodly said: * “Let us oppress the righteous man, because he is contrary to our doings.”</p>
+      <p:BodyESm><sr>Ant 5. </s>The ungodly said: * “Let us oppress the righteous man, because he is contrary to our doings.”</p>
      </td>
     </tr>
    </table>
@@ -2864,10 +2864,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudáte Dóminum, quia benígnus est, et in servis suis deprecábitur.</p>
+      <p:BodyL><sr>Ant. </s>Laudáte Dóminum, quia benígnus est, et in servis suis deprecábitur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise the Lord, for he is kind, and will be entreated in favour of his servants.</p>
+      <p:BodyE><sr>Ant. </s>Praise the Lord, for he is kind, and will be entreated in favour of his servants.</p>
      </td>
     </tr>
    </table>
@@ -2875,10 +2875,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Lex per Móysen data est, * grátia et véritas per Jesum Christum facta est.</p>
+      <p:BodyLSm><sr>Ant. </s>Lex per Móysen data est, * grátia et véritas per Jesum Christum facta est.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>The law was given by Moses, but grace and truth came by Jesus Christ.</p>
+      <p:BodyESm><sr>Ant. </s>The law was given by Moses, but grace and truth came by Jesus Christ.</p>
      </td>
     </tr>
    </table>
@@ -2886,10 +2886,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Dixérunt ímpii: Opprimámus virum justum, quóniam contrárius est opéribus nostris.</p>
+      <p:BodyLSm><sr>Ant. </s>Dixérunt ímpii: Opprimámus virum justum, quóniam contrárius est opéribus nostris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>The ungodly said: “Let us oppress the righteous man, because he is contrary to our doings.”</p>
+      <p:BodyESm><sr>Ant. </s>The ungodly said: “Let us oppress the righteous man, because he is contrary to our doings.”</p>
      </td>
     </tr>
    </table>
@@ -2983,14 +2983,14 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus meus, * in te confído, non erubéscam.</p>
+      <p:BodyL><sr>Ant. </s>Deus meus, * in te confído, non erubéscam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In thee, * O my God, I put my trust; let me not be ashamed.</p>
+      <p:BodyE><sr>Ant. </s>In thee, * O my God, I put my trust; let me not be ashamed.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('Ps24'); ?>
+<?php echo bookmark('Ps24'); ?>
 <?php psalm('024-1.php'); ?>
 <?php psalm('024-2.php'); ?>
 <?php psalm('024-3.php'); ?>
@@ -2998,10 +2998,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus meus, in te confído, non erubéscam.</p>
+      <p:BodyL><sr>Ant. </s>Deus meus, in te confído, non erubéscam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In thee, O my God, I put my trust; let me not be ashamed.</p>
+      <p:BodyE><sr>Ant. </s>In thee, O my God, I put my trust; let me not be ashamed.</p>
      </td>
     </tr>
    </table>
@@ -3093,14 +3093,14 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Respéxit me, * et exaudívit deprecatiónem meam Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Respéxit me, * et exaudívit deprecatiónem meam Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath looked upon me, * and hath heard my supplication.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath looked upon me, * and hath heard my supplication.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('Ps39'); ?>
+<?php echo bookmark('Ps39'); ?>
 <?php psalm('039-1.php'); ?>
 <?php psalm('039-2.php'); ?>
 <?php psalm('039-3.php'); ?>
@@ -3108,10 +3108,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Respéxit me, et exaudívit deprecatiónem meam Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Respéxit me, et exaudívit deprecatiónem meam Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath looked upon me, and hath heard my supplication.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath looked upon me, and hath heard my supplication.</p>
      </td>
     </tr>
    </table>
@@ -3203,26 +3203,26 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Suscepísti me, Dómine: * et confirmásti me in conspéctu tuo.</p>
+      <p:BodyL><sr>Ant. </s>Suscepísti me, Dómine: * et confirmásti me in conspéctu tuo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou hast upheld me, O Lord: * and hast established me in thy sight.</p>
+      <p:BodyE><sr>Ant. </s>Thou hast upheld me, O Lord: * and hast established me in thy sight.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('Ps40'); ?>
+<?php echo bookmark('Ps40'); ?>
 <?php psalm('040.php'); ?>
-<?php bookmark('Ps41'); ?>
+<?php echo bookmark('Ps41'); ?>
 <?php psalm('041-1.php'); ?>
 <?php psalm('041-2.php'); ?>
    <p:Spacer/>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Suscepísti me, Dómine: et confirmásti me in conspéctu tuo.</p>
+      <p:BodyL><sr>Ant. </s>Suscepísti me, Dómine: et confirmásti me in conspéctu tuo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou hast upheld me, O Lord: and hast established me in thy sight.</p>
+      <p:BodyE><sr>Ant. </s>Thou hast upheld me, O Lord: and hast established me in thy sight.</p>
      </td>
     </tr>
    </table>
@@ -3314,10 +3314,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salvásti nos, * Dómine: et in nómine tuo confitébimur in sæcula.</p>
+      <p:BodyL><sr>Ant. </s>Salvásti nos, * Dómine: et in nómine tuo confitébimur in sæcula.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou hast saved us, * O Lord, and in thy name we will give praise forever.</p>
+      <p:BodyE><sr>Ant. </s>Thou hast saved us, * O Lord, and in thy name we will give praise forever.</p>
      </td>
     </tr>
    </table>
@@ -3328,10 +3328,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salvásti nos, Dómine: et in nómine tuo confitébimur in sæcula.</p>
+      <p:BodyL><sr>Ant. </s>Salvásti nos, Dómine: et in nómine tuo confitébimur in sæcula.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou hast saved us, O Lord, and in thy name we will give praise forever.</p>
+      <p:BodyE><sr>Ant. </s>Thou hast saved us, O Lord, and in thy name we will give praise forever.</p>
      </td>
     </tr>
    </table>
@@ -3345,10 +3345,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Qui hábitas in cælis, * miserére nobis.</p>
+      <p:BodyL><sr>Ant 1. </s>Qui hábitas in cælis, * miserére nobis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Thou who dwellest in heaven, * have mercy on us.</p>
+      <p:BodyE><sr>Ant 1. </s>Thou who dwellest in heaven, * have mercy on us.</p>
      </td>
     </tr>
    </table>
@@ -3357,18 +3357,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui hábitas in cælis, miserére nobis.</p>
+      <p:BodyL><sr>Ant. </s>Qui hábitas in cælis, miserére nobis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou who dwellest in heaven, have mercy on us.</p>
+      <p:BodyE><sr>Ant. </s>Thou who dwellest in heaven, have mercy on us.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Adjutórium nostrum * in nómine Dómini.</p>
+      <p:BodyL><sr>Ant 2. </s>Adjutórium nostrum * in nómine Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Our help * is in the name of the Lord.</p>
+      <p:BodyE><sr>Ant 2. </s>Our help * is in the name of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -3377,18 +3377,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Adjutórium nostrum in nómine Dómini.</p>
+      <p:BodyL><sr>Ant. </s>Adjutórium nostrum in nómine Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Our help is in the name of the Lord.</p>
+      <p:BodyE><sr>Ant. </s>Our help is in the name of the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>In circúitu pópuli sui * Dóminus, ex hoc nunc et usque in sæculum.</p>
+      <p:BodyL><sr>Ant 3. </s>In circúitu pópuli sui * Dóminus, ex hoc nunc et usque in sæculum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The Lord is round about his people, * from henceforth now and for ever.</p>
+      <p:BodyE><sr>Ant 3. </s>The Lord is round about his people, * from henceforth now and for ever.</p>
      </td>
     </tr>
    </table>
@@ -3397,18 +3397,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In circúitu pópuli sui Dóminus, ex hoc nunc et usque in sæculum.</p>
+      <p:BodyL><sr>Ant. </s>In circúitu pópuli sui Dóminus, ex hoc nunc et usque in sæculum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord is round about his people, from henceforth now and for ever.</p>
+      <p:BodyE><sr>Ant. </s>The Lord is round about his people, from henceforth now and for ever.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Magnificávit Dóminus * fácere nobíscum: facti sumus lætántes.</p>
+      <p:BodyL><sr>Ant 4. </s>Magnificávit Dóminus * fácere nobíscum: facti sumus lætántes.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Lord hath done great things * for us: we are become joyful.</p>
+      <p:BodyE><sr>Ant 4. </s>The Lord hath done great things * for us: we are become joyful.</p>
      </td>
     </tr>
    </table>
@@ -3417,18 +3417,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magnificávit Dóminus fácere nobíscum: facti sumus lætántes.</p>
+      <p:BodyL><sr>Ant. </s>Magnificávit Dóminus fácere nobíscum: facti sumus lætántes.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath done great things for us: we are become joyful.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath done great things for us: we are become joyful.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Dóminus ædíficet * nobis domum, et custódiat civitátem.</p>
+      <p:BodyL><sr>Ant 5. </s>Dóminus ædíficet * nobis domum, et custódiat civitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>May the Lord build * our house, and may he keep the city.</p>
+      <p:BodyE><sr>Ant 5. </s>May the Lord build * our house, and may he keep the city.</p>
      </td>
     </tr>
    </table>
@@ -3437,10 +3437,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dóminus ædíficet nobis domum, et custódiat civitátem.</p>
+      <p:BodyL><sr>Ant. </s>Dóminus ædíficet nobis domum, et custódiat civitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>May the Lord build our house, and may he keep the city.</p>
+      <p:BodyE><sr>Ant. </s>May the Lord build our house, and may he keep the city.</p>
      </td>
     </tr>
    </table>
@@ -3477,10 +3477,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsultávit * spíritus meus in Deo, salutári meo.</p>
+      <p:BodyL><sr>Ant. </s>Exsultávit * spíritus meus in Deo, salutári meo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My spirit hath rejoiced * in God my Saviour.</p>
+      <p:BodyE><sr>Ant. </s>My spirit hath rejoiced * in God my Saviour.</p>
      </td>
     </tr>
    </table>
@@ -3494,10 +3494,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tu, Dómine, * servábis nos: et custódies nos in ætérnum.</p>
+      <p:BodyL><sr>Ant. </s>Tu, Dómine, * servábis nos: et custódies nos in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou, O Lord, * wilt preserve us, and keep us forever.</p>
+      <p:BodyE><sr>Ant. </s>Thou, O Lord, * wilt preserve us, and keep us forever.</p>
      </td>
     </tr>
    </table>
@@ -3508,10 +3508,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tu, Dómine, servábis nos: et custódies nos in ætérnum.</p>
+      <p:BodyL><sr>Ant. </s>Tu, Dómine, servábis nos: et custódies nos in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou, O Lord, wilt preserve us, and keep us forever.</p>
+      <p:BodyE><sr>Ant. </s>Thou, O Lord, wilt preserve us, and keep us forever.</p>
      </td>
     </tr>
    </table>
@@ -3526,10 +3526,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.</p>
+      <p:BodyL><sr>Ant 1. </s>Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Thou art beautiful * above the sons of men: grace is poured abroad in thy lips.</p>
+      <p:BodyE><sr>Ant 1. </s>Thou art beautiful * above the sons of men: grace is poured abroad in thy lips.</p>
      </td>
     </tr>
    </table>
@@ -3538,18 +3538,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Speciósus forma præ fíliis hóminum, diffúsa est grátia in lábiis tuis</p>
+      <p:BodyL><sr>Ant. </s>Speciósus forma præ fíliis hóminum, diffúsa est grátia in lábiis tuis</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou art beautiful * above the sons of men: grace is poured abroad in thy lips.</p>
+      <p:BodyE><sr>Ant. </s>Thou art beautiful * above the sons of men: grace is poured abroad in thy lips.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Confitebúntur tibi * pópuli, Deus, in ætérnum.</p>
+      <p:BodyL><sr>Ant 2. </s>Confitebúntur tibi * pópuli, Deus, in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>A</s><s:Rubric>nt 2. </s>People shall praise thee, * O God, for ever.</p>
+      <p:BodyE><sr>A</s><sr>nt 2. </s>People shall praise thee, * O God, for ever.</p>
      </td>
     </tr>
    </table>
@@ -3558,18 +3558,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Confitebúntur tibi pópuli, Deus, in ætérnum.</p>
+      <p:BodyL><sr>Ant. </s>Confitebúntur tibi pópuli, Deus, in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>A</s><s:Rubric>nt. </s>People shall praise thee, O God, for ever.</p>
+      <p:BodyE><sr>A</s><sr>nt. </s>People shall praise thee, O God, for ever.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Adjútor in tribulatiónibus * Deus noster.</p>
+      <p:BodyL><sr>Ant 3. </s>Adjútor in tribulatiónibus * Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>A helper in troubles, * O our God.</p>
+      <p:BodyE><sr>Ant 3. </s>A helper in troubles, * O our God.</p>
      </td>
     </tr>
    </table>
@@ -3578,10 +3578,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Adjútor in tribulatiónibus Deus noster.</p>
+      <p:BodyL><sr>Ant. </s>Adjútor in tribulatiónibus Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>A helper in troubles, O our God.</p>
+      <p:BodyE><sr>Ant. </s>A helper in troubles, O our God.</p>
      </td>
     </tr>
    </table>
@@ -3589,10 +3589,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Magnus Dóminus, * et laudábilis nimis in civitáte Dei nostri.‡</p>
+      <p:BodyL><sr>Ant 4. </s>Magnus Dóminus, * et laudábilis nimis in civitáte Dei nostri.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Great is the Lord, * and exceedingly to be praised in the city of our God.‡</p>
+      <p:BodyE><sr>Ant 4. </s>Great is the Lord, * and exceedingly to be praised in the city of our God.‡</p>
      </td>
     </tr>
    </table>
@@ -3601,18 +3601,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magnus Dóminus, et laudábilis nimis in civitáte Dei nostri.</p>
+      <p:BodyL><sr>Ant. </s>Magnus Dóminus, et laudábilis nimis in civitáte Dei nostri.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Great is the Lord, and exceedingly to be praised in the city of our God.</p>
+      <p:BodyE><sr>Ant. </s>Great is the Lord, and exceedingly to be praised in the city of our God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Os meum loquétur * sapiéntiam: et meditátio cordis mei prudéntiam.</p>
+      <p:BodyL><sr>Ant 5. </s>Os meum loquétur * sapiéntiam: et meditátio cordis mei prudéntiam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>My mouth shall speak wisdom: * and the meditation of my heart understanding. </p>
+      <p:BodyE><sr>Ant 5. </s>My mouth shall speak wisdom: * and the meditation of my heart understanding. </p>
      </td>
     </tr>
    </table>
@@ -3621,18 +3621,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Os meum loquétur sapiéntiam: et meditátio cordis mei prudéntiam.</p>
+      <p:BodyL><sr>Ant. </s>Os meum loquétur sapiéntiam: et meditátio cordis mei prudéntiam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My mouth shall speak wisdom: and the meditation of my heart understanding. </p>
+      <p:BodyE><sr>Ant. </s>My mouth shall speak wisdom: and the meditation of my heart understanding. </p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 6. </s>Ne timúeris: * cum dívite non descéndet in sepúlcrum glória ejus.</p>
+      <p:BodyL><sr>Ant 6. </s>Ne timúeris: * cum dívite non descéndet in sepúlcrum glória ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>Be not thou afraid: * he that hath riches shall not descend in the grave with his glory.</p>
+      <p:BodyE><sr>Ant 6. </s>Be not thou afraid: * he that hath riches shall not descend in the grave with his glory.</p>
      </td>
     </tr>
    </table>
@@ -3641,10 +3641,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne timúeris: cum dívite non descéndet in sepúlcrum glória ejus.</p>
+      <p:BodyL><sr>Ant. </s>Ne timúeris: cum dívite non descéndet in sepúlcrum glória ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Be not thou afraid: he that hath riches shall not descend in the grave with his glory.</p>
+      <p:BodyE><sr>Ant. </s>Be not thou afraid: he that hath riches shall not descend in the grave with his glory.</p>
      </td>
     </tr>
    </table>
@@ -3653,10 +3653,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Deus deórum, * Dóminus locútus est.‡</p>
+      <p:BodyL><sr>Ant 7. </s>Deus deórum, * Dóminus locútus est.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>The God of gods, * the Lord hath spoken.‡</p>
+      <p:BodyE><sr>Ant 7. </s>The God of gods, * the Lord hath spoken.‡</p>
      </td>
     </tr>
    </table>
@@ -3665,18 +3665,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus deórum, Dóminus locútus est.</p>
+      <p:BodyL><sr>Ant. </s>Deus deórum, Dóminus locútus est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The God of gods, the Lord hath spoken.</p>
+      <p:BodyE><sr>Ant. </s>The God of gods, the Lord hath spoken.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Intellígite, * qui obliviscímini Deum.</p>
+      <p:BodyL><sr>Ant 8. </s>Intellígite, * qui obliviscímini Deum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>Understand, * you that forget God.</p>
+      <p:BodyE><sr>Ant 8. </s>Understand, * you that forget God.</p>
      </td>
     </tr>
    </table>
@@ -3685,18 +3685,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Intellígite, qui obliviscímini Deum.</p>
+      <p:BodyL><sr>Ant. </s>Intellígite, qui obliviscímini Deum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Understand, you that forget God.</p>
+      <p:BodyE><sr>Ant. </s>Understand, you that forget God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Acceptábis sacrifícium * justítiæ super altáre tuum, Dómine</p>
+      <p:BodyL><sr>Ant 9. </s>Acceptábis sacrifícium * justítiæ super altáre tuum, Dómine</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 9. </s>Thou shalt accept the sacrifice * of justice upon thy altar, O Lord.</p>
+      <p:BodyE><sr>Ant 9. </s>Thou shalt accept the sacrifice * of justice upon thy altar, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -3705,10 +3705,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Acceptábis sacrifícium justítiæ super altáre tuum, Dómine</p>
+      <p:BodyL><sr>Ant. </s>Acceptábis sacrifícium justítiæ super altáre tuum, Dómine</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou shalt accept the sacrifice of justice upon thy altar, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Thou shalt accept the sacrifice of justice upon thy altar, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -3718,10 +3718,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Deus deórum, * Dóminus locútus est.‡</p>
+      <p:BodyL><sr>Ant 7. </s>Deus deórum, * Dóminus locútus est.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>The God of gods, * the Lord hath spoken.‡</p>
+      <p:BodyE><sr>Ant 7. </s>The God of gods, * the Lord hath spoken.‡</p>
      </td>
     </tr>
    </table>
@@ -3730,18 +3730,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus deórum, Dóminus locútus est.</p>
+      <p:BodyL><sr>Ant. </s>Deus deórum, Dóminus locútus est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The God of gods, the Lord hath spoken.</p>
+      <p:BodyE><sr>Ant. </s>The God of gods, the Lord hath spoken.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Ímmola Deo * sacrifícium laudis.</p>
+      <p:BodyL><sr>Ant 8. </s>Ímmola Deo * sacrifícium laudis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>Offer to God * the sacrifice of praise.</p>
+      <p:BodyE><sr>Ant 8. </s>Offer to God * the sacrifice of praise.</p>
      </td>
     </tr>
    </table>
@@ -3750,18 +3750,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ímmola Deo sacrifícium laudis.</p>
+      <p:BodyL><sr>Ant. </s>Ímmola Deo sacrifícium laudis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Offer to God the sacrifice of praise.</p>
+      <p:BodyE><sr>Ant. </s>Offer to God the sacrifice of praise.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Intellígite, * qui obliviscímini Deum.</p>
+      <p:BodyL><sr>Ant 9. </s>Intellígite, * qui obliviscímini Deum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 9. </s>Understand, * you that forget God.</p>
+      <p:BodyE><sr>Ant 9. </s>Understand, * you that forget God.</p>
      </td>
     </tr>
    </table>
@@ -3770,10 +3770,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Intellígite, qui obliviscímini Deum.</p>
+      <p:BodyL><sr>Ant. </s>Intellígite, qui obliviscímini Deum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Understand, you that forget God.</p>
+      <p:BodyE><sr>Ant. </s>Understand, you that forget God.</p>
      </td>
     </tr>
    </table>
@@ -3787,10 +3787,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Dóminus regnávit, * exsúltet terra.‡</p>
+      <p:BodyL><sr>Ant 1. </s>Dóminus regnávit, * exsúltet terra.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The Lord hath reigned, * let the earth rejoice.‡</p>
+      <p:BodyE><sr>Ant 1. </s>The Lord hath reigned, * let the earth rejoice.‡</p>
      </td>
     </tr>
    </table>
@@ -3799,18 +3799,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dóminus regnávit, exsúltet terra.</p>
+      <p:BodyL><sr>Ant. </s>Dóminus regnávit, exsúltet terra.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath reigned, let the earth rejoice.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath reigned, let the earth rejoice.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Te decet hymnus, * Deus, in Sion. ‡</p>
+      <p:BodyL><sr>Ant 2. </s>Te decet hymnus, * Deus, in Sion. ‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>A hymn, O God, becometh thee in Sion. ‡</p>
+      <p:BodyE><sr>Ant 2. </s>A hymn, O God, becometh thee in Sion. ‡</p>
      </td>
     </tr>
    </table>
@@ -3819,18 +3819,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Te decet hymnus, Deus, in Sion.</p>
+      <p:BodyL><sr>Ant. </s>Te decet hymnus, Deus, in Sion.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>A hymn, O God, becometh thee in Sion</p>
+      <p:BodyE><sr>Ant. </s>A hymn, O God, becometh thee in Sion</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Tibi, Dómine, psallam, * et intélligam in via immaculáta.</p>
+      <p:BodyL><sr>Ant 3. </s>Tibi, Dómine, psallam, * et intélligam in via immaculáta.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>To thee, O Lord, I will sing, * and I will understand in the unspotted way.</p>
+      <p:BodyE><sr>Ant 3. </s>To thee, O Lord, I will sing, * and I will understand in the unspotted way.</p>
      </td>
     </tr>
    </table>
@@ -3839,18 +3839,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tibi, Dómine, psallam, et intélligam in via immaculáta.</p>
+      <p:BodyL><sr>Ant. </s>Tibi, Dómine, psallam, et intélligam in via immaculáta.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>To thee, O Lord, I will sing, and I will understand in the unspotted way.</p>
+      <p:BodyE><sr>Ant. </s>To thee, O Lord, I will sing, and I will understand in the unspotted way.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Dómine, magnus es tu, * et præclárus in virtúte tua.</p>
+      <p:BodyL><sr>Ant 4. </s>Dómine, magnus es tu, * et præclárus in virtúte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>O Lord, great art thou * and glorious in thy power.</p>
+      <p:BodyE><sr>Ant 4. </s>O Lord, great art thou * and glorious in thy power.</p>
      </td>
     </tr>
    </table>
@@ -3859,18 +3859,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, magnus es tu, et præclárus in virtúte tua.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, magnus es tu, et præclárus in virtúte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O Lord, great art thou and glorious in thy power.</p>
+      <p:BodyE><sr>Ant. </s>O Lord, great art thou and glorious in thy power.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudábo Deum meum * in vita mea.</p>
+      <p:BodyL><sr>Ant 5. </s>Laudábo Deum meum * in vita mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>I will praise my God * in my life.</p>
+      <p:BodyE><sr>Ant 5. </s>I will praise my God * in my life.</p>
      </td>
     </tr>
    </table>
@@ -3879,10 +3879,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudábo Deum meum in vita mea.</p>
+      <p:BodyL><sr>Ant. </s>Laudábo Deum meum in vita mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will praise my God in my life.</p>
+      <p:BodyE><sr>Ant. </s>I will praise my God in my life.</p>
      </td>
     </tr>
    </table>
@@ -3919,10 +3919,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>De manu ómnium, * qui odérunt nos, liberávit nos Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>De manu ómnium, * qui odérunt nos, liberávit nos Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>From the hand of all * that hate us, thou hast delivered us, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>From the hand of all * that hate us, thou hast delivered us, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -3936,10 +3936,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Amplius lava me, * Dómine, ab injustítia mea.</p>
+      <p:BodyL><sr>Ant 1. </s>Amplius lava me, * Dómine, ab injustítia mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Wash me yet more, * O Lord, from my iniquity.</p>
+      <p:BodyE><sr>Ant 1. </s>Wash me yet more, * O Lord, from my iniquity.</p>
      </td>
     </tr>
    </table>
@@ -3947,10 +3947,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Prophetæ prædicavérunt * nasci Salvatórem de Vírgine María.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Prophetæ prædicavérunt * nasci Salvatórem de Vírgine María.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>The Prophets foretold * that the Saviour should be born of the Virgin Mary.</p>
+      <p:BodyESm><sr>Ant 1. </s>The Prophets foretold * that the Saviour should be born of the Virgin Mary.</p>
      </td>
     </tr>
    </table>
@@ -3958,10 +3958,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Líbera me * de sanguínibus, Deus, Deus meus: et exsultábit lingua mea justítiam tuam.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Líbera me * de sanguínibus, Deus, Deus meus: et exsultábit lingua mea justítiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Deliver me * from blood-guiltiness, O God, my God; and my tongue shall sing aloud of thy righteousness.</p>
+      <p:BodyESm><sr>Ant 1. </s>Deliver me * from blood-guiltiness, O God, my God; and my tongue shall sing aloud of thy righteousness.</p>
      </td>
     </tr>
    </table>
@@ -3970,18 +3970,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Amplius lava me, Dómine, ab injustítia mea.</p>
+      <p:BodyL><sr>Ant. </s>Amplius lava me, Dómine, ab injustítia mea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Wash me yet more, O Lord, from my iniquity.</p>
+      <p:BodyE><sr>Ant. </s>Wash me yet more, O Lord, from my iniquity.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Impietátibus nostris * tu propitiáberis, Deus.</p>
+      <p:BodyL><sr>Ant 2. </s>Impietátibus nostris * tu propitiáberis, Deus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Thou wilt pardon * our transgressions, O God.</p>
+      <p:BodyE><sr>Ant 2. </s>Thou wilt pardon * our transgressions, O God.</p>
      </td>
     </tr>
    </table>
@@ -3989,18 +3989,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Prophetæ prædicavérunt nasci Salvatórem de Vírgine María.</p>
+      <p:BodyLSm><sr>Ant. </s>Prophetæ prædicavérunt nasci Salvatórem de Vírgine María.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>The Prophets foretold that the Saviour should be born of the Virgin Mary.</p>
+      <p:BodyESm><sr>Ant. </s>The Prophets foretold that the Saviour should be born of the Virgin Mary.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Spíritus * Dómini super me, evangelizáre paupéribus misit me.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Spíritus * Dómini super me, evangelizáre paupéribus misit me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>The Spirit * of the Lord is upon me, because he hath anointed me to preach the Gospel to the poor.</p>
+      <p:BodyESm><sr>Ant 2. </s>The Spirit * of the Lord is upon me, because he hath anointed me to preach the Gospel to the poor.</p>
      </td>
     </tr>
    </table>
@@ -4008,18 +4008,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Líbera me de sanguínibus, Deus, Deus meus: et exsultábit lingua mea justítiam tuam.</p>
+      <p:BodyLSm><sr>Ant. </s>Líbera me de sanguínibus, Deus, Deus meus: et exsultábit lingua mea justítiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Deliver me from blood-guiltiness, O God, my God; and my tongue shall sing aloud of thy righteousness.</p>
+      <p:BodyESm><sr>Ant. </s>Deliver me from blood-guiltiness, O God, my God; and my tongue shall sing aloud of thy righteousness.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Contumélias * et terróres passum sum ab eis: et Dóminus mecum est tamquam bellátor fortis.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Contumélias * et terróres passum sum ab eis: et Dóminus mecum est tamquam bellátor fortis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>I have suffered defaming * and fear from them: but the Lord is with me as a Mighty Terrible One.</p>
+      <p:BodyESm><sr>Ant 2. </s>I have suffered defaming * and fear from them: but the Lord is with me as a Mighty Terrible One.</p>
      </td>
     </tr>
    </table>
@@ -4028,18 +4028,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Impietátibus nostris tu propitiáberis, Deus.</p>
+      <p:BodyL><sr>Ant. </s>Impietátibus nostris tu propitiáberis, Deus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou wilt pardon our transgressions, O God.</p>
+      <p:BodyE><sr>Ant. </s>Thou wilt pardon our transgressions, O God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>In innocéntia * cordis mei perambulábo, Dómine.</p>
+      <p:BodyL><sr>Ant 3. </s>In innocéntia * cordis mei perambulábo, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>In the innocence * of my heart I will walk, O Lord.</p>
+      <p:BodyE><sr>Ant 3. </s>In the innocence * of my heart I will walk, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -4047,18 +4047,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Spíritus Dómini super me, evangelizáre paupéribus misit me.</p>
+      <p:BodyLSm><sr>Ant. </s>Spíritus Dómini super me, evangelizáre paupéribus misit me.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>The Spirit of the Lord is upon me, because he hath anointed me to preach the Gospel to the poor.</p>
+      <p:BodyESm><sr>Ant. </s>The Spirit of the Lord is upon me, because he hath anointed me to preach the Gospel to the poor.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Propter Sion * non tacébo, donec egrediátur ut splendor justus ejus.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Propter Sion * non tacébo, donec egrediátur ut splendor justus ejus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>For Sion’s sake * I will not hold my peace, until her Righteous One go forth as brightness.</p>
+      <p:BodyESm><sr>Ant 3. </s>For Sion’s sake * I will not hold my peace, until her Righteous One go forth as brightness.</p>
      </td>
     </tr>
    </table>
@@ -4066,18 +4066,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Contumélias et terróres passum sum ab eis: et Dóminus mecum est tamquam bellátor fortis.</p>
+      <p:BodyLSm><sr>Ant. </s>Contumélias et terróres passum sum ab eis: et Dóminus mecum est tamquam bellátor fortis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>I have suffered defaming and fear from them: but the Lord is with me as a Mighty Terrible One.</p>
+      <p:BodyESm><sr>Ant. </s>I have suffered defaming and fear from them: but the Lord is with me as a Mighty Terrible One.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Tu autem, Dómine, * scis omne consílium eórum advérsum me in mortem.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Tu autem, Dómine, * scis omne consílium eórum advérsum me in mortem.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>But thou, O Lord, * knowest all their counsel against me unto death.</p>
+      <p:BodyESm><sr>Ant 3. </s>But thou, O Lord, * knowest all their counsel against me unto death.</p>
      </td>
     </tr>
    </table>
@@ -4086,18 +4086,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In innocéntia cordis mei perambulábo, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>In innocéntia cordis mei perambulábo, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In the innocence of my heart I will walk, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>In the innocence of my heart I will walk, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Exsultávit cor meum * in Dómino, qui humíliat et súblevat.</p>
+      <p:BodyL><sr>Ant 4. </s>Exsultávit cor meum * in Dómino, qui humíliat et súblevat.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>My heart hath rejoiced * in the Lord, who humbleth and exalteth.</p>
+      <p:BodyE><sr>Ant 4. </s>My heart hath rejoiced * in the Lord, who humbleth and exalteth.</p>
      </td>
     </tr>
    </table>
@@ -4105,18 +4105,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Propter Sion non tacébo, donec egrediátur ut splendor justus ejus.</p>
+      <p:BodyLSm><sr>Ant. </s>Propter Sion non tacébo, donec egrediátur ut splendor justus ejus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>For Sion’s sake I will not hold my peace, until her Righteous One go forth as brightness.</p>
+      <p:BodyESm><sr>Ant. </s>For Sion’s sake I will not hold my peace, until her Righteous One go forth as brightness.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Ecce véniet * Dóminus, ut sédeat cum princípibus, et solium glóriæ ténuit.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Ecce véniet * Dóminus, ut sédeat cum princípibus, et solium glóriæ ténuit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>Behold the Lord cometh, * to sit among princes, and to inherit the throne of glory.</p>
+      <p:BodyESm><sr>Ant 4. </s>Behold the Lord cometh, * to sit among princes, and to inherit the throne of glory.</p>
      </td>
     </tr>
    </table>
@@ -4124,18 +4124,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Tu autem, Dómine, scis omne consílium eórum advérsum me in mortem.</p>
+      <p:BodyLSm><sr>Ant. </s>Tu autem, Dómine, scis omne consílium eórum advérsum me in mortem.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>But thou, O Lord, knowest all their counsel against me unto death.</p>
+      <p:BodyESm><sr>Ant. </s>But thou, O Lord, knowest all their counsel against me unto death.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Omnes inimíci mei * audiérunt malum meum: Dómine, lætáti sunt, quóniam tu fecísti.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Omnes inimíci mei * audiérunt malum meum: Dómine, lætáti sunt, quóniam tu fecísti.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>All mine enemies * heard of my affliction; O Lord, they have rejoiced that thou hadst done it.</p>
+      <p:BodyESm><sr>Ant 4. </s>All mine enemies * heard of my affliction; O Lord, they have rejoiced that thou hadst done it.</p>
      </td>
     </tr>
    </table>
@@ -4144,18 +4144,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsultávit cor meum in Dómino, qui humíliat et súblevat.</p>
+      <p:BodyL><sr>Ant. </s>Exsultávit cor meum in Dómino, qui humíliat et súblevat.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My heart hath rejoiced in the Lord, who humbleth and exalteth.</p>
+      <p:BodyE><sr>Ant. </s>My heart hath rejoiced in the Lord, who humbleth and exalteth.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Lauda, * ánima mea, Dóminum, qui érigit elísos, et díligit justos.</p>
+      <p:BodyL><sr>Ant 5. </s>Lauda, * ánima mea, Dóminum, qui érigit elísos, et díligit justos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise, * O my soul, the Lord, who setteth up all that are cast down, and loveth the just.</p>
+      <p:BodyE><sr>Ant 5. </s>Praise, * O my soul, the Lord, who setteth up all that are cast down, and loveth the just.</p>
      </td>
     </tr>
    </table>
@@ -4163,18 +4163,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ecce véniet Dóminus, ut sédeat cum princípibus, et solium glóriæ ténuit.</p>
+      <p:BodyLSm><sr>Ant. </s>Ecce véniet Dóminus, ut sédeat cum princípibus, et solium glóriæ ténuit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Behold the Lord cometh, to sit among princes, and to inherit the throne of glory.</p>
+      <p:BodyESm><sr>Ant. </s>Behold the Lord cometh, to sit among princes, and to inherit the throne of glory.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Annuntiáte * pópulis, et dícite: Ecce Deus Salvátor noster véniet.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Annuntiáte * pópulis, et dícite: Ecce Deus Salvátor noster véniet.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>Tell it out * among the people, and say: “Behold, God our Saviour cometh.”</p>
+      <p:BodyESm><sr>Ant 5. </s>Tell it out * among the people, and say: “Behold, God our Saviour cometh.”</p>
      </td>
     </tr>
    </table>
@@ -4182,18 +4182,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Omnes inimíci mei audiérunt malum meum: Dómine, lætáti sunt, quóniam tu fecísti.</p>
+      <p:BodyLSm><sr>Ant. </s>Omnes inimíci mei audiérunt malum meum: Dómine, lætáti sunt, quóniam tu fecísti.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>All mine enemies heard of my affliction; O Lord, they have rejoiced that thou hadst done it.</p>
+      <p:BodyESm><sr>Ant. </s>All mine enemies heard of my affliction; O Lord, they have rejoiced that thou hadst done it.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Fac, Dómine, * judícium injúriam patiéntibus: et vias peccatórum dispérde.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Fac, Dómine, * judícium injúriam patiéntibus: et vias peccatórum dispérde.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>Execute judgment, O Lord, * for all that suffer wrong, and destroy the ways of sinners.</p>
+      <p:BodyESm><sr>Ant 5. </s>Execute judgment, O Lord, * for all that suffer wrong, and destroy the ways of sinners.</p>
      </td>
     </tr>
    </table>
@@ -4202,10 +4202,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Lauda, ánima mea, Dóminum, qui érigit elísos, et díligit justos.</p>
+      <p:BodyL><sr>Ant. </s>Lauda, ánima mea, Dóminum, qui érigit elísos, et díligit justos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise, O my soul, the Lord, who setteth up all that are cast down, and loveth the just.</p>
+      <p:BodyE><sr>Ant. </s>Praise, O my soul, the Lord, who setteth up all that are cast down, and loveth the just.</p>
      </td>
     </tr>
    </table>
@@ -4213,10 +4213,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Annuntiáte pópulis, et dícite: Ecce Deus Salvátor noster véniet.</p>
+      <p:BodyLSm><sr>Ant. </s>Annuntiáte pópulis, et dícite: Ecce Deus Salvátor noster véniet.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Tell it out among the people, and say: “Behold, God our Saviour cometh.”</p>
+      <p:BodyESm><sr>Ant. </s>Tell it out among the people, and say: “Behold, God our Saviour cometh.”</p>
      </td>
     </tr>
    </table>
@@ -4224,10 +4224,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Fac, Dómine, judícium injúriam patiéntibus: et vias peccatórum dispérde.</p>
+      <p:BodyLSm><sr>Ant. </s>Fac, Dómine, judícium injúriam patiéntibus: et vias peccatórum dispérde.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Execute judgment, O Lord, for all that suffer wrong, and destroy the ways of sinners.</p>
+      <p:BodyESm><sr>Ant. </s>Execute judgment, O Lord, for all that suffer wrong, and destroy the ways of sinners.</p>
      </td>
     </tr>
    </table>
@@ -4321,10 +4321,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Misericórdia tua, * Dómine, ante óculos meos: et complácui in veritáte tua.</p>
+      <p:BodyL><sr>Ant. </s>Misericórdia tua, * Dómine, ante óculos meos: et complácui in veritáte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thy mercy, * O Lord is before my eyes, and I am well pleased with thy truth.</p>
+      <p:BodyE><sr>Ant. </s>Thy mercy, * O Lord is before my eyes, and I am well pleased with thy truth.</p>
      </td>
     </tr>
    </table>
@@ -4335,10 +4335,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Misericórdia tua, Dómine, ante óculos meos: et complácui in veritáte tua.</p>
+      <p:BodyL><sr>Ant. </s>Misericórdia tua, Dómine, ante óculos meos: et complácui in veritáte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thy mercy, O Lord is before my eyes, and I am well pleased with thy truth.</p>
+      <p:BodyE><sr>Ant. </s>Thy mercy, O Lord is before my eyes, and I am well pleased with thy truth.</p>
      </td>
     </tr>
    </table>
@@ -4430,10 +4430,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus ádjuvat me: * et Dóminus suscéptor est ánimæ meæ.</p>
+      <p:BodyL><sr>Ant. </s>Deus ádjuvat me: * et Dóminus suscéptor est ánimæ meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>God is my helper, * and the Lord is the protector of my soul.</p>
+      <p:BodyE><sr>Ant. </s>God is my helper, * and the Lord is the protector of my soul.</p>
      </td>
     </tr>
    </table>
@@ -4444,10 +4444,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus ádjuvat me: et Dóminus suscéptor est ánimæ meæ.</p>
+      <p:BodyL><sr>Ant. </s>Deus ádjuvat me: et Dóminus suscéptor est ánimæ meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>God is my helper, and the Lord is the protector of my soul.</p>
+      <p:BodyE><sr>Ant. </s>God is my helper, and the Lord is the protector of my soul.</p>
      </td>
     </tr>
    </table>
@@ -4539,10 +4539,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In Deo sperávi, * non timébo quid fáciat mihi homo.</p>
+      <p:BodyL><sr>Ant. </s>In Deo sperávi, * non timébo quid fáciat mihi homo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In God have I hoped, * I will not fear what man can do to me.</p>
+      <p:BodyE><sr>Ant. </s>In God have I hoped, * I will not fear what man can do to me.</p>
      </td>
     </tr>
    </table>
@@ -4553,10 +4553,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In Deo sperávi, non timébo quid fáciat mihi homo.</p>
+      <p:BodyL><sr>Ant. </s>In Deo sperávi, non timébo quid fáciat mihi homo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In God have I hoped, I will not fear what man can do to me.</p>
+      <p:BodyE><sr>Ant. </s>In God have I hoped, I will not fear what man can do to me.</p>
      </td>
     </tr>
    </table>
@@ -4648,10 +4648,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus meus, * misericórdia tua prævéniet me.</p>
+      <p:BodyL><sr>Ant. </s>Deus meus, * misericórdia tua prævéniet me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My God, * thy mercy shall prevent me.</p>
+      <p:BodyE><sr>Ant. </s>My God, * thy mercy shall prevent me.</p>
      </td>
     </tr>
    </table>
@@ -4662,10 +4662,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus meus, misericórdia tua prævéniet me.</p>
+      <p:BodyL><sr>Ant. </s>Deus meus, misericórdia tua prævéniet me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>My God, thy mercy shall prevent me.</p>
+      <p:BodyE><sr>Ant. </s>My God, thy mercy shall prevent me.</p>
      </td>
     </tr>
    </table>
@@ -4679,10 +4679,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Beáti omnes, * qui timent Dóminum.‡</p>
+      <p:BodyL><sr>Ant 1. </s>Beáti omnes, * qui timent Dóminum.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Blessed are all they * that fear the Lord.‡</p>
+      <p:BodyE><sr>Ant 1. </s>Blessed are all they * that fear the Lord.‡</p>
      </td>
     </tr>
    </table>
@@ -4691,18 +4691,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beáti omnes, qui timent Dóminum.</p>
+      <p:BodyL><sr>Ant. </s>Beáti omnes, qui timent Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed are all they that fear the Lord.</p>
+      <p:BodyE><sr>Ant. </s>Blessed are all they that fear the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Confundántur omnes, * qui odérunt Sion.</p>
+      <p:BodyL><sr>Ant 2. </s>Confundántur omnes, * qui odérunt Sion.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Let them all be confounded * that hate Sion.</p>
+      <p:BodyE><sr>Ant 2. </s>Let them all be confounded * that hate Sion.</p>
      </td>
     </tr>
    </table>
@@ -4711,18 +4711,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Confundántur omnes, qui odérunt Sion.</p>
+      <p:BodyL><sr>Ant. </s>Confundántur omnes, qui odérunt Sion.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let them all be confounded that hate Sion.</p>
+      <p:BodyE><sr>Ant. </s>Let them all be confounded that hate Sion.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>De profúndis * clamávi ad te, Dómine.‡</p>
+      <p:BodyL><sr>Ant 3. </s>De profúndis * clamávi ad te, Dómine.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Out of the depths * I have cried to thee, O Lord.‡</p>
+      <p:BodyE><sr>Ant 3. </s>Out of the depths * I have cried to thee, O Lord.‡</p>
      </td>
     </tr>
    </table>
@@ -4731,18 +4731,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>De profúndis clamávi ad te, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>De profúndis clamávi ad te, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Out of the depths I have cried to thee, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Out of the depths I have cried to thee, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Dómine, * non est exaltátum cor meum.‡</p>
+      <p:BodyL><sr>Ant 4. </s>Dómine, * non est exaltátum cor meum.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Lord, * my heart is not exalted.‡</p>
+      <p:BodyE><sr>Ant 4. </s>Lord, * my heart is not exalted.‡</p>
      </td>
     </tr>
    </table>
@@ -4751,18 +4751,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, non est exaltátum cor meum.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, non est exaltátum cor meum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lord, my heart is not exalted.</p>
+      <p:BodyE><sr>Ant. </s>Lord, my heart is not exalted.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Elégit Dóminus * Sion in habitatiónem sibi.</p>
+      <p:BodyL><sr>Ant 5. </s>Elégit Dóminus * Sion in habitatiónem sibi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>The Lord hath chosen * Sion for his dwelling.</p>
+      <p:BodyE><sr>Ant 5. </s>The Lord hath chosen * Sion for his dwelling.</p>
      </td>
     </tr>
    </table>
@@ -4771,10 +4771,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Elégit Dóminus Sion in habitatiónem sibi.</p>
+      <p:BodyL><sr>Ant. </s>Elégit Dóminus Sion in habitatiónem sibi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath chosen Sion for his dwelling.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath chosen Sion for his dwelling.</p>
      </td>
     </tr>
    </table>
@@ -4811,10 +4811,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Respéxit Dóminus * humilitátem meam, et fecit in me magna, qui potens est.</p>
+      <p:BodyL><sr>Ant. </s>Respéxit Dóminus * humilitátem meam, et fecit in me magna, qui potens est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath regarded * my humility, and he that is mighty hath done great things in me.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath regarded * my humility, and he that is mighty hath done great things in me.</p>
      </td>
     </tr>
    </table>
@@ -4828,10 +4828,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Immíttet Ángelus Dómini * in circúitu timéntium eum: et erípiet eos.</p>
+      <p:BodyL><sr>Ant. </s>Immíttet Ángelus Dómini * in circúitu timéntium eum: et erípiet eos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Angel of the Lord shall encamp * round about them that fear him: and shall deliver them.</p>
+      <p:BodyE><sr>Ant. </s>The Angel of the Lord shall encamp * round about them that fear him: and shall deliver them.</p>
      </td>
     </tr>
    </table>
@@ -4842,10 +4842,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Immíttet Ángelus Dómini in circúitu timéntium eum: et erípiet eos.</p>
+      <p:BodyL><sr>Ant. </s>Immíttet Ángelus Dómini in circúitu timéntium eum: et erípiet eos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Angel of the Lord shall encamp round about them that fear him: and shall deliver them.</p>
+      <p:BodyE><sr>Ant. </s>The Angel of the Lord shall encamp round about them that fear him: and shall deliver them.</p>
      </td>
     </tr>
    </table>
@@ -4860,10 +4860,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>In Deo salutáre meum, * et glória mea: et spes mea in Deo est.</p>
+      <p:BodyL><sr>Ant 1. </s>In Deo salutáre meum, * et glória mea: et spes mea in Deo est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>In God is my salvation * and my glory: and my hope is in God.</p>
+      <p:BodyE><sr>Ant 1. </s>In God is my salvation * and my glory: and my hope is in God.</p>
      </td>
     </tr>
    </table>
@@ -4872,18 +4872,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In Deo salutáre meum, et glória mea: et spes mea in Deo est.</p>
+      <p:BodyL><sr>Ant. </s>In Deo salutáre meum, et glória mea: et spes mea in Deo est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In God is my salvation and my glory: and my hope is in God.</p>
+      <p:BodyE><sr>Ant. </s>In God is my salvation and my glory: and my hope is in God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Vidéte ópera Dómini, * et audítam fácite vocem laudis ejus.</p>
+      <p:BodyL><sr>Ant 2. </s>Vidéte ópera Dómini, * et audítam fácite vocem laudis ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Behold ye the works of the Lord, * and make the voice of his praise to be heard.</p>
+      <p:BodyE><sr>Ant 2. </s>Behold ye the works of the Lord, * and make the voice of his praise to be heard.</p>
      </td>
     </tr>
    </table>
@@ -4892,18 +4892,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vidéte ópera Dómini, * et audítam fácite vocem laudis ejus.</p>
+      <p:BodyL><sr>Ant. </s>Vidéte ópera Dómini, * et audítam fácite vocem laudis ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold ye the works of the Lord, and make the voice of his praise to be heard.</p>
+      <p:BodyE><sr>Ant. </s>Behold ye the works of the Lord, and make the voice of his praise to be heard.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Audíte, omnes, * qui timétis Deum, quanta fecit ánimæ meæ.</p>
+      <p:BodyL><sr>Ant 3. </s>Audíte, omnes, * qui timétis Deum, quanta fecit ánimæ meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Hear, all ye * that fear God, what great things he hath done for my soul.</p>
+      <p:BodyE><sr>Ant 3. </s>Hear, all ye * that fear God, what great things he hath done for my soul.</p>
      </td>
     </tr>
    </table>
@@ -4912,10 +4912,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Audíte, omnes, qui timétis Deum, quanta fecit ánimæ meæ.</p>
+      <p:BodyL><sr>Ant. </s>Audíte, omnes, qui timétis Deum, quanta fecit ánimæ meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Hear, all ye that fear God, what great things he hath done for my soul.</p>
+      <p:BodyE><sr>Ant. </s>Hear, all ye that fear God, what great things he hath done for my soul.</p>
      </td>
     </tr>
    </table>
@@ -4923,10 +4923,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Exsúrgat Deus, * et dissipéntur inimíci ejus.‡</p>
+      <p:BodyL><sr>Ant 4. </s>Exsúrgat Deus, * et dissipéntur inimíci ejus.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Let God arise, * and let his enemies be scattered.‡</p>
+      <p:BodyE><sr>Ant 4. </s>Let God arise, * and let his enemies be scattered.‡</p>
      </td>
     </tr>
    </table>
@@ -4935,18 +4935,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exsúrgat Deus, et dissipéntur inimíci ejus.</p>
+      <p:BodyL><sr>Ant. </s>Exsúrgat Deus, et dissipéntur inimíci ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let God arise, * and let his enemies be scattered.</p>
+      <p:BodyE><sr>Ant. </s>Let God arise, * and let his enemies be scattered.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Deus noster, * Deus salvos faciéndi: et Dómini sunt éxitus mortis.</p>
+      <p:BodyL><sr>Ant 5. </s>Deus noster, * Deus salvos faciéndi: et Dómini sunt éxitus mortis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Our God * is the God of salvation: and of the Lord are the issues from death. </p>
+      <p:BodyE><sr>Ant 5. </s>Our God * is the God of salvation: and of the Lord are the issues from death. </p>
      </td>
     </tr>
    </table>
@@ -4955,18 +4955,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus noster, Deus salvos faciéndi: et Dómini sunt éxitus mortis.</p>
+      <p:BodyL><sr>Ant. </s>Deus noster, Deus salvos faciéndi: et Dómini sunt éxitus mortis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Our God is the God of salvation: and of the Lord are the issues from death. </p>
+      <p:BodyE><sr>Ant. </s>Our God is the God of salvation: and of the Lord are the issues from death. </p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 6. </s>In ecclésiis * benedícite Dómino Deo.</p>
+      <p:BodyL><sr>Ant 6. </s>In ecclésiis * benedícite Dómino Deo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>In the churches * bless ye God the Lord.</p>
+      <p:BodyE><sr>Ant 6. </s>In the churches * bless ye God the Lord.</p>
      </td>
     </tr>
    </table>
@@ -4975,10 +4975,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In ecclésiis * benedícite Dómino Deo.</p>
+      <p:BodyL><sr>Ant. </s>In ecclésiis * benedícite Dómino Deo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>In the churches * bless ye God the Lord.</p>
+      <p:BodyE><sr>Ant 6. </s>In the churches * bless ye God the Lord.</p>
      </td>
     </tr>
    </table>
@@ -4986,10 +4986,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Salvum me fac, * Deus: quóniam intravérunt aquæ usque ad ánimam meam.‡</p>
+      <p:BodyL><sr>Ant 7. </s>Salvum me fac, * Deus: quóniam intravérunt aquæ usque ad ánimam meam.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>Save me, O God: * for the waters are come in even unto my soul.‡</p>
+      <p:BodyE><sr>Ant 7. </s>Save me, O God: * for the waters are come in even unto my soul.‡</p>
      </td>
     </tr>
    </table>
@@ -4998,18 +4998,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salvum me fac, Deus: quóniam intravérunt aquæ usque ad ánimam meam.</p>
+      <p:BodyL><sr>Ant. </s>Salvum me fac, Deus: quóniam intravérunt aquæ usque ad ánimam meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Save me, O God: for the waters are come in even unto my soul.</p>
+      <p:BodyE><sr>Ant. </s>Save me, O God: for the waters are come in even unto my soul.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Propter inimícos meos * éripe me, Dómine.</p>
+      <p:BodyL><sr>Ant 8. </s>Propter inimícos meos * éripe me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>Save me * because of my enemies, O Lord.</p>
+      <p:BodyE><sr>Ant 8. </s>Save me * because of my enemies, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -5018,18 +5018,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Propter inimícos meos éripe me, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Propter inimícos meos éripe me, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Save me because of my enemies, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Save me because of my enemies, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Quærite Dóminum, * et vivet ánima vestra.</p>
+      <p:BodyL><sr>Ant 9. </s>Quærite Dóminum, * et vivet ánima vestra.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 9. </s>Seek ye the Lord, * and your soul shall live.</p>
+      <p:BodyE><sr>Ant 9. </s>Seek ye the Lord, * and your soul shall live.</p>
      </td>
     </tr>
    </table>
@@ -5038,10 +5038,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quærite Dóminum, et vivet ánima vestra.</p>
+      <p:BodyL><sr>Ant. </s>Quærite Dóminum, et vivet ánima vestra.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Seek ye the Lord, and your soul shall live.</p>
+      <p:BodyE><sr>Ant. </s>Seek ye the Lord, and your soul shall live.</p>
      </td>
     </tr>
    </table>
@@ -5055,10 +5055,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Jubiláte * in conspéctu regis Dómini.</p>
+      <p:BodyL><sr>Ant 1. </s>Jubiláte * in conspéctu regis Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Make a joyful noise * before the Lord our king:</p>
+      <p:BodyE><sr>Ant 1. </s>Make a joyful noise * before the Lord our king:</p>
      </td>
     </tr>
    </table>
@@ -5067,18 +5067,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Jubiláte in conspéctu regis Dómini.</p>
+      <p:BodyL><sr>Ant. </s>Jubiláte in conspéctu regis Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Make a joyful noise before the Lord our king:</p>
+      <p:BodyE><sr>Ant. </s>Make a joyful noise before the Lord our king:</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Dómine, * refúgium factus es nobis.‡</p>
+      <p:BodyL><sr>Ant 2. </s>Dómine, * refúgium factus es nobis.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Lord, * thou hast been our refuge.‡</p>
+      <p:BodyE><sr>Ant 2. </s>Lord, * thou hast been our refuge.‡</p>
      </td>
     </tr>
    </table>
@@ -5087,18 +5087,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, refúgium factus es nobis.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, refúgium factus es nobis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lord, thou hast been our refuge.</p>
+      <p:BodyE><sr>Ant. </s>Lord, thou hast been our refuge.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Dómine, * in cælo misericórdia tua.</p>
+      <p:BodyL><sr>Ant 3. </s>Dómine, * in cælo misericórdia tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>O Lord, * thy mercy is in heaven</p>
+      <p:BodyE><sr>Ant 3. </s>O Lord, * thy mercy is in heaven</p>
      </td>
     </tr>
    </table>
@@ -5107,18 +5107,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, in cælo misericórdia tua.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, in cælo misericórdia tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O Lord, thy mercy is in heaven</p>
+      <p:BodyE><sr>Ant. </s>O Lord, thy mercy is in heaven</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Pópulus meus, * ait Dóminus, bonis meis adimplébitur.</p>
+      <p:BodyL><sr>Ant 4. </s>Pópulus meus, * ait Dóminus, bonis meis adimplébitur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>“My people,” * says the Lord, “shall be filled with my good things.”</p>
+      <p:BodyE><sr>Ant 4. </s>“My people,” * says the Lord, “shall be filled with my good things.”</p>
      </td>
     </tr>
    </table>
@@ -5127,18 +5127,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Pópulus meus, ait Dóminus, bonis meis adimplébitur.</p>
+      <p:BodyL><sr>Ant. </s>Pópulus meus, ait Dóminus, bonis meis adimplébitur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“My people,” says the Lord, “shall be filled with my good things.”</p>
+      <p:BodyE><sr>Ant. </s>“My people,” says the Lord, “shall be filled with my good things.”</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Deo nostro * jucúnda sit laudátio.</p>
+      <p:BodyL><sr>Ant 5. </s>Deo nostro * jucúnda sit laudátio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>To our God * be joyful praise.</p>
+      <p:BodyE><sr>Ant 5. </s>To our God * be joyful praise.</p>
      </td>
     </tr>
    </table>
@@ -5147,10 +5147,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deo nostro jucúnda sit laudátio.</p>
+      <p:BodyL><sr>Ant. </s>Deo nostro jucúnda sit laudátio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>To our God be joyful praise.</p>
+      <p:BodyE><sr>Ant. </s>To our God be joyful praise.</p>
      </td>
     </tr>
    </table>
@@ -5187,10 +5187,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In sanctitáte * serviámus Dómino, et liberábit nos ab inimícis nostris.</p>
+      <p:BodyL><sr>Ant. </s>In sanctitáte * serviámus Dómino, et liberábit nos ab inimícis nostris.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In holiness * let us serve the Lord, and he will deliver us from our enemies.</p>
+      <p:BodyE><sr>Ant. </s>In holiness * let us serve the Lord, and he will deliver us from our enemies.</p>
      </td>
     </tr>
    </table>
@@ -5204,10 +5204,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Tibi soli peccávi, * Dómine: miserére mei.</p>
+      <p:BodyL><sr>Ant 1. </s>Tibi soli peccávi, * Dómine: miserére mei.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>To thee only have I sinned, * O Lord: have mercy on me.</p>
+      <p:BodyE><sr>Ant 1. </s>To thee only have I sinned, * O Lord: have mercy on me.</p>
      </td>
     </tr>
    </table>
@@ -5215,10 +5215,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>De Sion * véniet Dóminus omnípotens, ut salvum fáciat pópulum suum.</p>
+      <p:BodyLSm><sr>Ant 1. </s>De Sion * véniet Dóminus omnípotens, ut salvum fáciat pópulum suum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Out of Sion * cometh the Lord, the Almighty, to save his people.</p>
+      <p:BodyESm><sr>Ant 1. </s>Out of Sion * cometh the Lord, the Almighty, to save his people.</p>
      </td>
     </tr>
    </table>
@@ -5226,10 +5226,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Justificéris, Dómine, * in sermónibus tuis, et vincas cum judicáris.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Justificéris, Dómine, * in sermónibus tuis, et vincas cum judicáris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Thou shalt be justified, O Lord, * when thou speakest, and be victorious when thou art judged.</p>
+      <p:BodyESm><sr>Ant 1. </s>Thou shalt be justified, O Lord, * when thou speakest, and be victorious when thou art judged.</p>
      </td>
     </tr>
    </table>
@@ -5238,18 +5238,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tibi soli peccávi, Dómine: miserére mei.</p>
+      <p:BodyL><sr>Ant. </s>Tibi soli peccávi, Dómine: miserére mei.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>To thee only have I sinned, O Lord: have mercy on me.</p>
+      <p:BodyE><sr>Ant. </s>To thee only have I sinned, O Lord: have mercy on me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Convértere, Dómine, * et deprecábilis esto super servos tuos.</p>
+      <p:BodyL><sr>Ant 2. </s>Convértere, Dómine, * et deprecábilis esto super servos tuos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Return, O Lord, * and be entreated in favour of thy servants.</p>
+      <p:BodyE><sr>Ant 2. </s>Return, O Lord, * and be entreated in favour of thy servants.</p>
      </td>
     </tr>
    </table>
@@ -5257,18 +5257,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>De Sion véniet Dóminus omnípotens, ut salvum fáciat pópulum suum.</p>
+      <p:BodyLSm><sr>Ant. </s>De Sion véniet Dóminus omnípotens, ut salvum fáciat pópulum suum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Out of Sion cometh the Lord, the Almighty, to save his people.</p>
+      <p:BodyESm><sr>Ant. </s>Out of Sion cometh the Lord, the Almighty, to save his people.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Convértere, Dómine, * aliquántulum, et ne tardes veníre ad servos tuos.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Convértere, Dómine, * aliquántulum, et ne tardes veníre ad servos tuos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>Turn thee, O Lord, * at the last, and tarry not to come unto thy servants.</p>
+      <p:BodyESm><sr>Ant 2. </s>Turn thee, O Lord, * at the last, and tarry not to come unto thy servants.</p>
      </td>
     </tr>
    </table>
@@ -5276,18 +5276,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Justificéris, Dómine, in sermónibus tuis, et vincas cum judicáris.</p>
+      <p:BodyLSm><sr>Ant. </s>Justificéris, Dómine, in sermónibus tuis, et vincas cum judicáris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Thou shalt be justified, O Lord, when thou speakest, and be victorious when thou art judged.</p>
+      <p:BodyESm><sr>Ant. </s>Thou shalt be justified, O Lord, when thou speakest, and be victorious when thou art judged.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Dóminus * tamquam ovis ad víctimam ductus est, et non apéruit os suum.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Dóminus * tamquam ovis ad víctimam ductus est, et non apéruit os suum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>The Lord * was brought as a lamb to the slaughter, and he opened not his mouth.</p>
+      <p:BodyESm><sr>Ant 2. </s>The Lord * was brought as a lamb to the slaughter, and he opened not his mouth.</p>
      </td>
     </tr>
    </table>
@@ -5296,18 +5296,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Convértere, Dómine, et deprecábilis esto super servos tuos.</p>
+      <p:BodyL><sr>Ant. </s>Convértere, Dómine, et deprecábilis esto super servos tuos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Return, O Lord, and be entreated in favour of thy servants.</p>
+      <p:BodyE><sr>Ant. </s>Return, O Lord, and be entreated in favour of thy servants.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Multiplicásti, Deus, * misericórdiam tuam.</p>
+      <p:BodyL><sr>Ant 3. </s>Multiplicásti, Deus, * misericórdiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Thou hast multiplied, O God, * thy mercy.</p>
+      <p:BodyE><sr>Ant 3. </s>Thou hast multiplied, O God, * thy mercy.</p>
      </td>
     </tr>
    </table>
@@ -5315,18 +5315,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Convértere, Dómine, aliquántulum, et ne tardes veníre ad servos tuos.</p>
+      <p:BodyLSm><sr>Ant. </s>Convértere, Dómine, aliquántulum, et ne tardes veníre ad servos tuos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Turn thee, O Lord, at the last, and tarry not to come unto thy servants.</p>
+      <p:BodyESm><sr>Ant. </s>Turn thee, O Lord, at the last, and tarry not to come unto thy servants.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>De Sion * véniet, qui regnatúrus est Dóminus, Emmánuel magnum nomen ejus.</p>
+      <p:BodyLSm><sr>Ant 3. </s>De Sion * véniet, qui regnatúrus est Dóminus, Emmánuel magnum nomen ejus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>Out of Sion * shall come forth the Lord that shall rule, Emmanuel is his name, and his name is great.</p>
+      <p:BodyESm><sr>Ant 3. </s>Out of Sion * shall come forth the Lord that shall rule, Emmanuel is his name, and his name is great.</p>
      </td>
     </tr>
    </table>
@@ -5334,18 +5334,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Dóminus tamquam ovis ad víctimam ductus est, et non apéruit os suum.</p>
+      <p:BodyLSm><sr>Ant. </s>Dóminus tamquam ovis ad víctimam ductus est, et non apéruit os suum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>The Lord was brought as a lamb to the slaughter, and he opened not his mouth.</p>
+      <p:BodyESm><sr>Ant. </s>The Lord was brought as a lamb to the slaughter, and he opened not his mouth.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Contrítum est * cor meum in médio mei, contremuérunt ómnia ossa mea.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Contrítum est * cor meum in médio mei, contremuérunt ómnia ossa mea.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>Mine heart is broken * within me; all my bones tremble.</p>
+      <p:BodyESm><sr>Ant 3. </s>Mine heart is broken * within me; all my bones tremble.</p>
      </td>
     </tr>
    </table>
@@ -5354,18 +5354,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Multiplicásti, Deus, misericórdiam tuam.</p>
+      <p:BodyL><sr>Ant. </s>Multiplicásti, Deus, misericórdiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou hast multiplied, O God, thy mercy.</p>
+      <p:BodyE><sr>Ant. </s>Thou hast multiplied, O God, thy mercy.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Fortitúdo mea, * et laus mea Dóminus: et factus est mihi in salútem.</p>
+      <p:BodyL><sr>Ant 4. </s>Fortitúdo mea, * et laus mea Dóminus: et factus est mihi in salútem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Lord is my strength * and my praise, and he is become salvation to me.</p>
+      <p:BodyE><sr>Ant 4. </s>The Lord is my strength * and my praise, and he is become salvation to me.</p>
      </td>
     </tr>
    </table>
@@ -5373,18 +5373,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>De Sion véniet, qui regnatúrus est Dóminus, Emmánuel magnum nomen ejus.</p>
+      <p:BodyLSm><sr>Ant. </s>De Sion véniet, qui regnatúrus est Dóminus, Emmánuel magnum nomen ejus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Out of Sion shall come forth the Lord that shall rule, Emmanuel is his name, and his name is great.</p>
+      <p:BodyESm><sr>Ant. </s>Out of Sion shall come forth the Lord that shall rule, Emmanuel is his name, and his name is great.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Ecce Deus meus, * et honorábo eum: Deus patris mei, et exaltábo eum.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Ecce Deus meus, * et honorábo eum: Deus patris mei, et exaltábo eum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>Behold, he is my God, * and I will glorify him; my father’s God, and I will exalt him.</p>
+      <p:BodyESm><sr>Ant 4. </s>Behold, he is my God, * and I will glorify him; my father’s God, and I will exalt him.</p>
      </td>
     </tr>
    </table>
@@ -5392,18 +5392,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Contrítum est cor meum in médio mei, contremuérunt ómnia ossa mea.</p>
+      <p:BodyLSm><sr>Ant. </s>Contrítum est cor meum in médio mei, contremuérunt ómnia ossa mea.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Mine heart is broken within me; all my bones tremble.</p>
+      <p:BodyESm><sr>Ant. </s>Mine heart is broken within me; all my bones tremble.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Exhortátus es * in virtúte tua, et in refectióne sancta tua, Dómine.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Exhortátus es * in virtúte tua, et in refectióne sancta tua, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>Thou hast spoken unto us * in thy strength, and in thy holy banquet, O Lord.</p>
+      <p:BodyESm><sr>Ant 4. </s>Thou hast spoken unto us * in thy strength, and in thy holy banquet, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -5412,18 +5412,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Fortitúdo mea, et laus mea Dóminus: et factus est mihi in salútem.</p>
+      <p:BodyL><sr>Ant. </s>Fortitúdo mea, et laus mea Dóminus: et factus est mihi in salútem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord is my strength and my praise, and he is become salvation to me.</p>
+      <p:BodyE><sr>Ant. </s>The Lord is my strength and my praise, and he is become salvation to me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudáte * Dóminum, qui sanat contrítos corde, et álligat contritiónes eórum.</p>
+      <p:BodyL><sr>Ant 5. </s>Laudáte * Dóminum, qui sanat contrítos corde, et álligat contritiónes eórum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise ye * the Lord, who healeth the broken of heart, and bindeth up their bruises.</p>
+      <p:BodyE><sr>Ant 5. </s>Praise ye * the Lord, who healeth the broken of heart, and bindeth up their bruises.</p>
      </td>
     </tr>
    </table>
@@ -5431,18 +5431,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ecce Deus meus, et honorábo eum: Deus patris mei, et exaltábo eum.</p>
+      <p:BodyLSm><sr>Ant. </s>Ecce Deus meus, et honorábo eum: Deus patris mei, et exaltábo eum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Behold, he is my God, and I will glorify him; my father’s God, and I will exalt him.</p>
+      <p:BodyESm><sr>Ant. </s>Behold, he is my God, and I will glorify him; my father’s God, and I will exalt him.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Dóminus * légifer noster, Dóminus Rex noster, ipse véniet, et salvábit nos.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Dóminus * légifer noster, Dóminus Rex noster, ipse véniet, et salvábit nos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>The Lord * our lawgiver, the Lord our King, cometh to save us.</p>
+      <p:BodyESm><sr>Ant 5. </s>The Lord * our lawgiver, the Lord our King, cometh to save us.</p>
      </td>
     </tr>
    </table>
@@ -5450,18 +5450,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Exhortátus es in virtúte tua, et in refectióne sancta tua, Dómine.</p>
+      <p:BodyLSm><sr>Ant. </s>Exhortátus es in virtúte tua, et in refectióne sancta tua, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Thou hast spoken unto us in thy strength, and in thy holy banquet, O Lord.</p>
+      <p:BodyESm><sr>Ant. </s>Thou hast spoken unto us in thy strength, and in thy holy banquet, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Oblátus est * quia ipse vóluit, et peccáta nostra ipse portávit.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Oblátus est * quia ipse vóluit, et peccáta nostra ipse portávit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>He was offered up * because he willed it, and he bore our sins.</p>
+      <p:BodyESm><sr>Ant 5. </s>He was offered up * because he willed it, and he bore our sins.</p>
      </td>
     </tr>
    </table>
@@ -5470,10 +5470,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudáte Dóminum, qui sanat contrítos corde, et álligat contritiónes eórum.</p>
+      <p:BodyL><sr>Ant. </s>Laudáte Dóminum, qui sanat contrítos corde, et álligat contritiónes eórum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise ye the Lord, who healeth the broken of heart, and bindeth up their bruises.</p>
+      <p:BodyE><sr>Ant. </s>Praise ye the Lord, who healeth the broken of heart, and bindeth up their bruises.</p>
      </td>
     </tr>
    </table>
@@ -5481,10 +5481,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Dóminus légifer noster, Dóminus Rex noster, ipse véniet, et salvábit nos.</p>
+      <p:BodyLSm><sr>Ant. </s>Dóminus légifer noster, Dóminus Rex noster, ipse véniet, et salvábit nos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>The Lord our lawgiver, the Lord our King, cometh to save us.</p>
+      <p:BodyESm><sr>Ant. </s>The Lord our lawgiver, the Lord our King, cometh to save us.</p>
      </td>
     </tr>
    </table>
@@ -5492,10 +5492,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Oblátus est quia ipse vóluit, et peccáta nostra ipse portávit.</p>
+      <p:BodyLSm><sr>Ant. </s>Oblátus est quia ipse vóluit, et peccáta nostra ipse portávit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>He was offered up because he willed it, and he bore our sins.</p>
+      <p:BodyESm><sr>Ant. </s>He was offered up because he willed it, and he bore our sins.</p>
      </td>
     </tr>
    </table>
@@ -5578,14 +5578,14 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In loco páscuæ, * ibi Dóminus me collocávit.</p>
+      <p:BodyL><sr>Ant. </s>In loco páscuæ, * ibi Dóminus me collocávit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In a place of pasture * the Lord hath set me.</p>
+      <p:BodyE><sr>Ant. </s>In a place of pasture * the Lord hath set me.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('Ps22'); ?>
+<?php echo bookmark('Ps22'); ?>
 <?php psalm('022.php'); ?>
 <?php psalm('071-1.php'); ?>
 <?php psalm('071-2.php'); ?>
@@ -5593,10 +5593,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In loco páscuæ, ibi Dóminus me collocávit.</p>
+      <p:BodyL><sr>Ant. </s>In loco páscuæ, ibi Dóminus me collocávit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In a place of pasture the Lord hath set me.</p>
+      <p:BodyE><sr>Ant. </s>In a place of pasture the Lord hath set me.</p>
      </td>
     </tr>
    </table>
@@ -5677,10 +5677,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quam bonus * Israël Deus, his, qui recto sunt corde!‡</p>
+      <p:BodyL><sr>Ant. </s>Quam bonus * Israël Deus, his, qui recto sunt corde!‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>How good * is God to Israel, to them that are of a right heart!‡</p>
+      <p:BodyE><sr>Ant. </s>How good * is God to Israel, to them that are of a right heart!‡</p>
      </td>
     </tr>
    </table>
@@ -5691,10 +5691,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quam bonus Israël Deus, his, qui recto sunt corde!</p>
+      <p:BodyL><sr>Ant. </s>Quam bonus Israël Deus, his, qui recto sunt corde!</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>How good is God to Israel, to them that are of a right heart!</p>
+      <p:BodyE><sr>Ant. </s>How good is God to Israel, to them that are of a right heart!</p>
      </td>
     </tr>
    </table>
@@ -5775,10 +5775,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Memor esto * congregatiónis tuæ, Dómine, quam possedísti ab inítio.</p>
+      <p:BodyL><sr>Ant. </s>Memor esto * congregatiónis tuæ, Dómine, quam possedísti ab inítio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Remember * thy congregation, O Lord, which thou hast possessed from the beginning.</p>
+      <p:BodyE><sr>Ant. </s>Remember * thy congregation, O Lord, which thou hast possessed from the beginning.</p>
      </td>
     </tr>
    </table>
@@ -5789,10 +5789,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Memor esto congregatiónis tuæ, Dómine, quam possedísti ab inítio.</p>
+      <p:BodyL><sr>Ant. </s>Memor esto congregatiónis tuæ, Dómine, quam possedísti ab inítio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Remember thy congregation, O Lord, which thou hast possessed from the beginning.</p>
+      <p:BodyE><sr>Ant. </s>Remember thy congregation, O Lord, which thou hast possessed from the beginning.</p>
      </td>
     </tr>
    </table>
@@ -5873,10 +5873,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Invocábimus * nomen tuum, Dómine: narrábimus mirabília tua.</p>
+      <p:BodyL><sr>Ant. </s>Invocábimus * nomen tuum, Dómine: narrábimus mirabília tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>We will call * upon thy name, O Lord. We will relate thy wondrous works.</p>
+      <p:BodyE><sr>Ant. </s>We will call * upon thy name, O Lord. We will relate thy wondrous works.</p>
      </td>
     </tr>
    </table>
@@ -5887,10 +5887,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Invocábimus nomen tuum, Dómine: narrábimus mirabília tua.</p>
+      <p:BodyL><sr>Ant. </s>Invocábimus nomen tuum, Dómine: narrábimus mirabília tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>We will call upon thy name, O Lord. We will relate thy wondrous works.</p>
+      <p:BodyE><sr>Ant. </s>We will call upon thy name, O Lord. We will relate thy wondrous works.</p>
      </td>
     </tr>
    </table>
@@ -5904,10 +5904,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Ecce, quam bonum * et quam jucúndum, habitáre fratres in unum!‡</p>
+      <p:BodyL><sr>Ant 1. </s>Ecce, quam bonum * et quam jucúndum, habitáre fratres in unum!‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Behold, how good * and how pleasant it is, for brethren to dwell together in unity.‡</p>
+      <p:BodyE><sr>Ant 1. </s>Behold, how good * and how pleasant it is, for brethren to dwell together in unity.‡</p>
      </td>
     </tr>
    </table>
@@ -5916,18 +5916,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce, quam bonum * et quam jucúndum, habitáre fratres in unum!</p>
+      <p:BodyL><sr>Ant. </s>Ecce, quam bonum * et quam jucúndum, habitáre fratres in unum!</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold, how good * and how pleasant it is, for brethren to dwell together in unity.</p>
+      <p:BodyE><sr>Ant. </s>Behold, how good * and how pleasant it is, for brethren to dwell together in unity.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Confitémini Dómino, * quóniam in ætérnum misericórdia ejus.</p>
+      <p:BodyL><sr>Ant 2. </s>Confitémini Dómino, * quóniam in ætérnum misericórdia ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Praise the Lord, * for his mercy endureth forever.</p>
+      <p:BodyE><sr>Ant 2. </s>Praise the Lord, * for his mercy endureth forever.</p>
      </td>
     </tr>
    </table>
@@ -5936,18 +5936,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Confitémini Dómino, quóniam in ætérnum misericórdia ejus.</p>
+      <p:BodyL><sr>Ant. </s>Confitémini Dómino, quóniam in ætérnum misericórdia ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise the Lord, for his mercy endureth forever.</p>
+      <p:BodyE><sr>Ant. </s>Praise the Lord, for his mercy endureth forever.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Confitémini Dómino, * quia in humilitáte nostra memor fuit nostri.</p>
+      <p:BodyL><sr>Ant 3. </s>Confitémini Dómino, * quia in humilitáte nostra memor fuit nostri.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Praise the Lord, * who was mindful of us in our affliction</p>
+      <p:BodyE><sr>Ant 3. </s>Praise the Lord, * who was mindful of us in our affliction</p>
      </td>
     </tr>
    </table>
@@ -5956,18 +5956,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Confitémini Dómino, quia in humilitáte nostra memor fuit nostri.</p>
+      <p:BodyL><sr>Ant. </s>Confitémini Dómino, quia in humilitáte nostra memor fuit nostri.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise the Lord, who was mindful of us in our affliction</p>
+      <p:BodyE><sr>Ant. </s>Praise the Lord, who was mindful of us in our affliction</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Adhæreat lingua mea * fáucibus meis, si non memínero tui, Jerúsalem.</p>
+      <p:BodyL><sr>Ant 4. </s>Adhæreat lingua mea * fáucibus meis, si non memínero tui, Jerúsalem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Let my tongue cleave * to my jaws, if do not I remember thee, O Jerusalem.</p>
+      <p:BodyE><sr>Ant 4. </s>Let my tongue cleave * to my jaws, if do not I remember thee, O Jerusalem.</p>
      </td>
     </tr>
    </table>
@@ -5976,18 +5976,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Adhæreat lingua mea fáucibus meis, si non memínero tui, Jerúsalem.</p>
+      <p:BodyL><sr>Ant. </s>Adhæreat lingua mea fáucibus meis, si non memínero tui, Jerúsalem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let my tongue cleave to my jaws, if do not I remember thee, O Jerusalem.</p>
+      <p:BodyE><sr>Ant. </s>Let my tongue cleave to my jaws, if do not I remember thee, O Jerusalem.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Confitébor * nómini tuo, Dómine, super misericórdia et veritáte tua.</p>
+      <p:BodyL><sr>Ant 5. </s>Confitébor * nómini tuo, Dómine, super misericórdia et veritáte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>I will praise * thy name, O Lord, for thy mercy and for thy truth.</p>
+      <p:BodyE><sr>Ant 5. </s>I will praise * thy name, O Lord, for thy mercy and for thy truth.</p>
      </td>
     </tr>
    </table>
@@ -5996,10 +5996,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Confitébor nómini tuo, Dómine, super misericórdia et veritáte tua.</p>
+      <p:BodyL><sr>Ant. </s>Confitébor nómini tuo, Dómine, super misericórdia et veritáte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will praise thy name, O Lord, for thy mercy and for thy truth.</p>
+      <p:BodyE><sr>Ant. </s>I will praise thy name, O Lord, for thy mercy and for thy truth.</p>
      </td>
     </tr>
    </table>
@@ -6036,10 +6036,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Fecit Deus * poténtiam in bráchio suo: dispérsit supérbos mente cordis sui.</p>
+      <p:BodyL><sr>Ant. </s>Fecit Deus * poténtiam in bráchio suo: dispérsit supérbos mente cordis sui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>God hath shewed * might in his arm; he hath scattered the proud in the conceit of their heart.</p>
+      <p:BodyE><sr>Ant. </s>God hath shewed * might in his arm; he hath scattered the proud in the conceit of their heart.</p>
      </td>
     </tr>
    </table>
@@ -6053,10 +6053,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Adjútor meus, * et liberátor meus esto, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Adjútor meus, * et liberátor meus esto, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Be thou my helper * and my deliverer, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Be thou my helper * and my deliverer, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -6067,10 +6067,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Adjútor meus, et liberátor meus esto, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Adjútor meus, et liberátor meus esto, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Be thou my helper and my deliverer, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Be thou my helper and my deliverer, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -6085,10 +6085,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Suscitávit Dóminus * testimónium in Jacob: et legem pósuit in Israël. </p>
+      <p:BodyL><sr>Ant 1. </s>Suscitávit Dóminus * testimónium in Jacob: et legem pósuit in Israël. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The Lord set up * a testimony in Jacob: and made a law in Israel.</p>
+      <p:BodyE><sr>Ant 1. </s>The Lord set up * a testimony in Jacob: and made a law in Israel.</p>
      </td>
     </tr>
    </table>
@@ -6097,18 +6097,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Suscitávit Dóminus testimónium in Jacob: et legem pósuit in Israël. </p>
+      <p:BodyL><sr>Ant. </s>Suscitávit Dóminus testimónium in Jacob: et legem pósuit in Israël. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord set up a testimony in Jacob: and made a law in Israel.</p>
+      <p:BodyE><sr>Ant. </s>The Lord set up a testimony in Jacob: and made a law in Israel.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Coram pátribus eórum * fecit Deus mirabília. </p>
+      <p:BodyL><sr>Ant 2. </s>Coram pátribus eórum * fecit Deus mirabília. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Wonderful things did God do * in the sight of their fathers.</p>
+      <p:BodyE><sr>Ant 2. </s>Wonderful things did God do * in the sight of their fathers.</p>
      </td>
     </tr>
    </table>
@@ -6117,18 +6117,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Coram pátribus eórum fecit Deus mirabília. </p>
+      <p:BodyL><sr>Ant. </s>Coram pátribus eórum fecit Deus mirabília. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Wonderful things did God do in the sight of their fathers.</p>
+      <p:BodyE><sr>Ant. </s>Wonderful things did God do in the sight of their fathers.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Jánuas cæli apéruit * Dóminus, et pluit illis manna ad manducándum. </p>
+      <p:BodyL><sr>Ant 3. </s>Jánuas cæli apéruit * Dóminus, et pluit illis manna ad manducándum. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Thou had opened the doors of heaven, * O Lord, and had rained down manna upon them to eat</p>
+      <p:BodyE><sr>Ant 3. </s>Thou had opened the doors of heaven, * O Lord, and had rained down manna upon them to eat</p>
      </td>
     </tr>
    </table>
@@ -6137,10 +6137,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Jánuas cæli apéruit Dóminus, et pluit illis manna ad manducándum. </p>
+      <p:BodyL><sr>Ant. </s>Jánuas cæli apéruit Dóminus, et pluit illis manna ad manducándum. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou had opened the doors of heaven, O Lord, and had rained down manna upon them to eat</p>
+      <p:BodyE><sr>Ant. </s>Thou had opened the doors of heaven, O Lord, and had rained down manna upon them to eat</p>
      </td>
     </tr>
    </table>
@@ -6148,10 +6148,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Deus adjútor * est eórum: et Excélsus redémptor eórum est. </p>
+      <p:BodyL><sr>Ant 4. </s>Deus adjútor * est eórum: et Excélsus redémptor eórum est. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>God was * their helper: and the most high God their redeemer</p>
+      <p:BodyE><sr>Ant 4. </s>God was * their helper: and the most high God their redeemer</p>
      </td>
     </tr>
    </table>
@@ -6160,18 +6160,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus adjútor est eórum: et Excélsus redémptor eórum est.</p>
+      <p:BodyL><sr>Ant. </s>Deus adjútor est eórum: et Excélsus redémptor eórum est.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>God was their helper: and the most high God their redeemer</p>
+      <p:BodyE><sr>Ant. </s>God was their helper: and the most high God their redeemer</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Redémit eos * Dóminus de manu tribulántis.</p>
+      <p:BodyL><sr>Ant 5. </s>Redémit eos * Dóminus de manu tribulántis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Thou redeemed them, * O Lord, from the hand of him that afflicted them.</p>
+      <p:BodyE><sr>Ant 5. </s>Thou redeemed them, * O Lord, from the hand of him that afflicted them.</p>
      </td>
     </tr>
    </table>
@@ -6180,18 +6180,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Redémit eos Dóminus de manu tribulántis.</p>
+      <p:BodyL><sr>Ant. </s>Redémit eos Dóminus de manu tribulántis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou redeemed them, O Lord, from the hand of him that afflicted them.</p>
+      <p:BodyE><sr>Ant. </s>Thou redeemed them, O Lord, from the hand of him that afflicted them.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 6. </s>Ædificávit * Deus sanctifícium suum in terra. </p>
+      <p:BodyL><sr>Ant 6. </s>Ædificávit * Deus sanctifícium suum in terra. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>The Lord built * his sanctuary in the land.</p>
+      <p:BodyE><sr>Ant 6. </s>The Lord built * his sanctuary in the land.</p>
      </td>
     </tr>
    </table>
@@ -6200,10 +6200,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ædificávit Deus sanctifícium suum in terra. </p>
+      <p:BodyL><sr>Ant. </s>Ædificávit Deus sanctifícium suum in terra. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord built his sanctuary in the land.</p>
+      <p:BodyE><sr>Ant. </s>The Lord built his sanctuary in the land.</p>
      </td>
     </tr>
    </table>
@@ -6211,10 +6211,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Ádjuva nos, * Deus, salutáris noster: et propítius esto peccátis nostris. </p>
+      <p:BodyL><sr>Ant 7. </s>Ádjuva nos, * Deus, salutáris noster: et propítius esto peccátis nostris. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>Help us, * O God, our saviour: and forgive us our sins.</p>
+      <p:BodyE><sr>Ant 7. </s>Help us, * O God, our saviour: and forgive us our sins.</p>
      </td>
     </tr>
    </table>
@@ -6223,18 +6223,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ádjuva nos, Deus, salutáris noster: et propítius esto peccátis nostris. </p>
+      <p:BodyL><sr>Ant. </s>Ádjuva nos, Deus, salutáris noster: et propítius esto peccátis nostris. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>Help us, * O God, our saviour: and forgive us our sins.</p>
+      <p:BodyE><sr>Ant 7. </s>Help us, * O God, our saviour: and forgive us our sins.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Ego sum Dóminus * Deus tuus, Israël, qui edúxi te de terra Ægýpti. </p>
+      <p:BodyL><sr>Ant 8. </s>Ego sum Dóminus * Deus tuus, Israël, qui edúxi te de terra Ægýpti. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>For I am the Lord * thy God, O Israel, who brought thee out of the land of Egypt.</p>
+      <p:BodyE><sr>Ant 8. </s>For I am the Lord * thy God, O Israel, who brought thee out of the land of Egypt.</p>
      </td>
     </tr>
    </table>
@@ -6243,18 +6243,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ego sum Dóminus Deus tuus, Israël, qui edúxi te de terra Ægýpti. </p>
+      <p:BodyL><sr>Ant. </s>Ego sum Dóminus Deus tuus, Israël, qui edúxi te de terra Ægýpti. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>For I am the Lord thy God, O Israel, who brought thee out of the land of Egypt.</p>
+      <p:BodyE><sr>Ant. </s>For I am the Lord thy God, O Israel, who brought thee out of the land of Egypt.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Ne táceas, Deus, * quóniam inimíci tui extulérunt caput. </p>
+      <p:BodyL><sr>Ant 9. </s>Ne táceas, Deus, * quóniam inimíci tui extulérunt caput. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 9. </s>hold not thy peace, O God, * for lo, thy enemies have lifted up the head.</p>
+      <p:BodyE><sr>Ant 9. </s>hold not thy peace, O God, * for lo, thy enemies have lifted up the head.</p>
      </td>
     </tr>
    </table>
@@ -6263,10 +6263,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne táceas, Deus, quóniam inimíci tui extulérunt caput. </p>
+      <p:BodyL><sr>Ant. </s>Ne táceas, Deus, quóniam inimíci tui extulérunt caput. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>hold not thy peace, O God, for lo, thy enemies have lifted up the head.</p>
+      <p:BodyE><sr>Ant. </s>hold not thy peace, O God, for lo, thy enemies have lifted up the head.</p>
      </td>
     </tr>
    </table>
@@ -6280,10 +6280,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Exaltáte * Dóminum, Deum nostrum, et adoráte in monte sancto ejus.</p>
+      <p:BodyL><sr>Ant 1. </s>Exaltáte * Dóminum, Deum nostrum, et adoráte in monte sancto ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Exalt ye * the Lord our God, and adore at his holy mountain.</p>
+      <p:BodyE><sr>Ant 1. </s>Exalt ye * the Lord our God, and adore at his holy mountain.</p>
      </td>
     </tr>
    </table>
@@ -6292,18 +6292,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exaltáte Dóminum, Deum nostrum, et adoráte in monte sancto ejus.</p>
+      <p:BodyL><sr>Ant. </s>Exaltáte Dóminum, Deum nostrum, et adoráte in monte sancto ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Exalt ye the Lord our God, and adore at his holy mountain.</p>
+      <p:BodyE><sr>Ant. </s>Exalt ye the Lord our God, and adore at his holy mountain.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Éripe me * de inimícis meis, Dómine: ad te confúgi.</p>
+      <p:BodyL><sr>Ant 2. </s>Éripe me * de inimícis meis, Dómine: ad te confúgi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Deliver me * from my enemies. O Lord, to thee have I fled.</p>
+      <p:BodyE><sr>Ant 2. </s>Deliver me * from my enemies. O Lord, to thee have I fled.</p>
      </td>
     </tr>
    </table>
@@ -6312,18 +6312,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Éripe me de inimícis meis, Dómine: ad te confúgi.</p>
+      <p:BodyL><sr>Ant. </s>Éripe me de inimícis meis, Dómine: ad te confúgi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Deliver me from my enemies. O Lord, to thee have I fled.</p>
+      <p:BodyE><sr>Ant. </s>Deliver me from my enemies. O Lord, to thee have I fled.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Benedixísti, * Dómine, terram tuam: remisísti iniquitátem plebis tuæ.</p>
+      <p:BodyL><sr>Ant 3. </s>Benedixísti, * Dómine, terram tuam: remisísti iniquitátem plebis tuæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Lord, thou hast blessed * thy land; thou hast forgiven the iniquity of thy people.</p>
+      <p:BodyE><sr>Ant 3. </s>Lord, thou hast blessed * thy land; thou hast forgiven the iniquity of thy people.</p>
      </td>
     </tr>
    </table>
@@ -6332,18 +6332,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Benedixísti, Dómine, terram tuam: remisísti iniquitátem plebis tuæ.</p>
+      <p:BodyL><sr>Ant. </s>Benedixísti, Dómine, terram tuam: remisísti iniquitátem plebis tuæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lord, thou hast blessed thy land; thou hast forgiven the iniquity of thy people.</p>
+      <p:BodyE><sr>Ant. </s>Lord, thou hast blessed thy land; thou hast forgiven the iniquity of thy people.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>In Dómino justificábitur, * et laudábitur omne semen Israël.</p>
+      <p:BodyL><sr>Ant 4. </s>In Dómino justificábitur, * et laudábitur omne semen Israël.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>In the Lord shall all the seed * of Israel be justified and praised.</p>
+      <p:BodyE><sr>Ant 4. </s>In the Lord shall all the seed * of Israel be justified and praised.</p>
      </td>
     </tr>
    </table>
@@ -6352,18 +6352,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In Dómino justificábitur, et laudábitur omne semen Israël.</p>
+      <p:BodyL><sr>Ant. </s>In Dómino justificábitur, et laudábitur omne semen Israël.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In the Lord shall all the seed of Israel be justified and praised.</p>
+      <p:BodyE><sr>Ant. </s>In the Lord shall all the seed of Israel be justified and praised.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Lauda, * Jerúsalem, Dóminum.‡</p>
+      <p:BodyL><sr>Ant 5. </s>Lauda, * Jerúsalem, Dóminum.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise * the Lord, O Jerusalem.‡</p>
+      <p:BodyE><sr>Ant 5. </s>Praise * the Lord, O Jerusalem.‡</p>
      </td>
     </tr>
    </table>
@@ -6372,10 +6372,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Lauda, Jerúsalem, Dóminum.</p>
+      <p:BodyL><sr>Ant. </s>Lauda, Jerúsalem, Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise the Lord, O Jerusalem.</p>
+      <p:BodyE><sr>Ant. </s>Praise the Lord, O Jerusalem.</p>
      </td>
     </tr>
    </table>
@@ -6412,10 +6412,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Per víscera misericórdiæ * Dei nostri visitávit nos Oriens ex alto.</p>
+      <p:BodyL><sr>Ant. </s>Per víscera misericórdiæ * Dei nostri visitávit nos Oriens ex alto.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Through bowels of the mercy * of our God, the Orient from on high hath visited us.</p>
+      <p:BodyE><sr>Ant. </s>Through bowels of the mercy * of our God, the Orient from on high hath visited us.</p>
      </td>
     </tr>
    </table>
@@ -6429,10 +6429,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Cor contrítum, * et humiliátum, Deus, non despícies.</p>
+      <p:BodyL><sr>Ant 1. </s>Cor contrítum, * et humiliátum, Deus, non despícies.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>A contrite and humbled heart, * O God, thou wilt not despise.</p>
+      <p:BodyE><sr>Ant 1. </s>A contrite and humbled heart, * O God, thou wilt not despise.</p>
      </td>
     </tr>
    </table>
@@ -6440,10 +6440,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Constántes estóte, * vidébitis auxílium Dómini super vos.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Constántes estóte, * vidébitis auxílium Dómini super vos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Be ye steadfast, * and see the salvation of the Lord.</p>
+      <p:BodyESm><sr>Ant 1. </s>Be ye steadfast, * and see the salvation of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -6451,10 +6451,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Próprio * Fílio suo non pepércit Deus, sed pro nobis ómnibus trádidit illum.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Próprio * Fílio suo non pepércit Deus, sed pro nobis ómnibus trádidit illum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>God spared not * his own Son, but delivered him up for us all.</p>
+      <p:BodyESm><sr>Ant 1. </s>God spared not * his own Son, but delivered him up for us all.</p>
      </td>
     </tr>
    </table>
@@ -6463,18 +6463,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cor contrítum, et humiliátum, Deus, non despícies.</p>
+      <p:BodyL><sr>Ant. </s>Cor contrítum, et humiliátum, Deus, non despícies.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>A contrite and humbled heart, O God, thou wilt not despise.</p>
+      <p:BodyE><sr>Ant. </s>A contrite and humbled heart, O God, thou wilt not despise.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Propter nomen tuum, * Dómine, vivificábis me, in æquitáte tua.</p>
+      <p:BodyL><sr>Ant 2. </s>Propter nomen tuum, * Dómine, vivificábis me, in æquitáte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>For thy name’s sake, * O Lord, thou wilt quicken me in thy justice.</p>
+      <p:BodyE><sr>Ant 2. </s>For thy name’s sake, * O Lord, thou wilt quicken me in thy justice.</p>
      </td>
     </tr>
    </table>
@@ -6482,18 +6482,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Constántes estóte, vidébitis auxílium Dómini super vos.</p>
+      <p:BodyLSm><sr>Ant. </s>Constántes estóte, vidébitis auxílium Dómini super vos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Be ye steadfast, and see the salvation of the Lord.</p>
+      <p:BodyESm><sr>Ant. </s>Be ye steadfast, and see the salvation of the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Ad te, Dómine, * levávi ánimam meam: veni, et éripe me, Dómine, ad te confúgi.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Ad te, Dómine, * levávi ánimam meam: veni, et éripe me, Dómine, ad te confúgi.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>Unto thee, O Lord, * I lift up my soul: come and deliver me, O Lord, in thee do I put my trust.</p>
+      <p:BodyESm><sr>Ant 2. </s>Unto thee, O Lord, * I lift up my soul: come and deliver me, O Lord, in thee do I put my trust.</p>
      </td>
     </tr>
    </table>
@@ -6501,18 +6501,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Próprio Fílio suo non pepércit Deus, sed pro nobis ómnibus trádidit illum.</p>
+      <p:BodyLSm><sr>Ant. </s>Próprio Fílio suo non pepércit Deus, sed pro nobis ómnibus trádidit illum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>God spared not his own Son, but delivered him up for us all.</p>
+      <p:BodyESm><sr>Ant. </s>God spared not his own Son, but delivered him up for us all.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Anxiátus est super me * spíritus meus, in me turbátum est cor meum.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Anxiátus est super me * spíritus meus, in me turbátum est cor meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>My spirit is overwhelmed * within me, my heart within me is troubled.</p>
+      <p:BodyESm><sr>Ant 2. </s>My spirit is overwhelmed * within me, my heart within me is troubled.</p>
      </td>
     </tr>
    </table>
@@ -6521,18 +6521,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Propter nomen tuum, Dómine, vivificábis me, in æquitáte tua.</p>
+      <p:BodyL><sr>Ant. </s>Propter nomen tuum, Dómine, vivificábis me, in æquitáte tua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>For thy name’s sake, O Lord, thou wilt quicken me in thy justice.</p>
+      <p:BodyE><sr>Ant. </s>For thy name’s sake, O Lord, thou wilt quicken me in thy justice.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Deus, tu convérsus * vivificábis nos: et plebs tua lætábitur in te.</p>
+      <p:BodyL><sr>Ant 3. </s>Deus, tu convérsus * vivificábis nos: et plebs tua lætábitur in te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Thou wilt turn, O God, * and bring us to life; and thy people shall rejoice in thee.</p>
+      <p:BodyE><sr>Ant 3. </s>Thou wilt turn, O God, * and bring us to life; and thy people shall rejoice in thee.</p>
      </td>
     </tr>
    </table>
@@ -6540,18 +6540,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ad te, Dómine, levávi ánimam meam: veni, et éripe me, Dómine, ad te confúgi.</p>
+      <p:BodyLSm><sr>Ant. </s>Ad te, Dómine, levávi ánimam meam: veni, et éripe me, Dómine, ad te confúgi.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Unto thee, O Lord, I lift up my soul: come and deliver me, O Lord, in thee do I put my trust.</p>
+      <p:BodyESm><sr>Ant. </s>Unto thee, O Lord, I lift up my soul: come and deliver me, O Lord, in thee do I put my trust.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Veni, Dómine, * et noli tardáre: reláxa facínora plebi tuæ Israël.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Veni, Dómine, * et noli tardáre: reláxa facínora plebi tuæ Israël.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>Come, O Lord, * and tarry not: loosen the bonds of thy people Israel.</p>
+      <p:BodyESm><sr>Ant 3. </s>Come, O Lord, * and tarry not: loosen the bonds of thy people Israel.</p>
      </td>
     </tr>
    </table>
@@ -6559,18 +6559,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Anxiátus est super me spíritus meus, in me turbátum est cor meum.</p>
+      <p:BodyLSm><sr>Ant. </s>Anxiátus est super me spíritus meus, in me turbátum est cor meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>My spirit is overwhelmed within me, my heart within me is troubled.</p>
+      <p:BodyESm><sr>Ant. </s>My spirit is overwhelmed within me, my heart within me is troubled.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Ait latro ad latrónem: * Nos quidem digna factis recípimus, hic autem quid fecit? Meménto mei, Dómine, dum véneris in regnum tuum.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Ait latro ad latrónem: * Nos quidem digna factis recípimus, hic autem quid fecit? Meménto mei, Dómine, dum véneris in regnum tuum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>One thief said unto the other: * “We indeed receive the due reward of our deeds; but what hath this man done? Lord, remember me, when thou comest into thy kingdom.”</p>
+      <p:BodyESm><sr>Ant 3. </s>One thief said unto the other: * “We indeed receive the due reward of our deeds; but what hath this man done? Lord, remember me, when thou comest into thy kingdom.”</p>
      </td>
     </tr>
    </table>
@@ -6579,18 +6579,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deus, tu convérsus vivificábis nos: et plebs tua lætábitur in te.</p>
+      <p:BodyL><sr>Ant. </s>Deus, tu convérsus vivificábis nos: et plebs tua lætábitur in te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou wilt turn, O God, and bring us to life; and thy people shall rejoice in thee.</p>
+      <p:BodyE><sr>Ant. </s>Thou wilt turn, O God, and bring us to life; and thy people shall rejoice in thee.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Cum irátus fúeris, * Dómine, misericórdiæ recordáberis.</p>
+      <p:BodyL><sr>Ant 4. </s>Cum irátus fúeris, * Dómine, misericórdiæ recordáberis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>When thou art angry, * O Lord, thou wilt remember mercy.</p>
+      <p:BodyE><sr>Ant 4. </s>When thou art angry, * O Lord, thou wilt remember mercy.</p>
      </td>
     </tr>
    </table>
@@ -6598,18 +6598,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Veni, Dómine, et noli tardáre: reláxa facínora plebi tuæ Israël.</p>
+      <p:BodyLSm><sr>Ant. </s>Veni, Dómine, et noli tardáre: reláxa facínora plebi tuæ Israël.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Come, O Lord, and tarry not: loosen the bonds of thy people Israel.</p>
+      <p:BodyESm><sr>Ant. </s>Come, O Lord, and tarry not: loosen the bonds of thy people Israel.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Deus a Líbano véniet, * et splendor ejus sicut lumen erit.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Deus a Líbano véniet, * et splendor ejus sicut lumen erit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>God shall come from Lebanon, * and his splendor shall be as the light.</p>
+      <p:BodyESm><sr>Ant 4. </s>God shall come from Lebanon, * and his splendor shall be as the light.</p>
      </td>
     </tr>
    </table>
@@ -6617,18 +6617,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ait latro ad latrónem: Nos quidem digna factis recípimus, hic autem quid fecit? Meménto mei, Dómine, dum véneris in regnum tuum.</p>
+      <p:BodyLSm><sr>Ant. </s>Ait latro ad latrónem: Nos quidem digna factis recípimus, hic autem quid fecit? Meménto mei, Dómine, dum véneris in regnum tuum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>One thief said unto the other: “We indeed receive the due reward of our deeds; but what hath this man done? Lord, remember me, when thou comest into thy kingdom.”</p>
+      <p:BodyESm><sr>Ant. </s>One thief said unto the other: “We indeed receive the due reward of our deeds; but what hath this man done? Lord, remember me, when thou comest into thy kingdom.”</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Cum conturbáta fúerit * ánima mea, Dómine, misericórdiæ memor eris.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Cum conturbáta fúerit * ánima mea, Dómine, misericórdiæ memor eris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>When my soul is troubled, * O Lord, thou wilt remember mercy.</p>
+      <p:BodyESm><sr>Ant 4. </s>When my soul is troubled, * O Lord, thou wilt remember mercy.</p>
      </td>
     </tr>
    </table>
@@ -6637,18 +6637,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cum irátus fúeris, Dómine, misericórdiæ recordáberis.</p>
+      <p:BodyL><sr>Ant. </s>Cum irátus fúeris, Dómine, misericórdiæ recordáberis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>When thou art angry, O Lord, thou wilt remember mercy.</p>
+      <p:BodyE><sr>Ant. </s>When thou art angry, O Lord, thou wilt remember mercy.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Lauda * Deum tuum, Sion, qui annúntiat judícia sua Israël.</p>
+      <p:BodyL><sr>Ant 5. </s>Lauda * Deum tuum, Sion, qui annúntiat judícia sua Israël.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise * thy God, O Sion, who declareth his judgments to Israel.</p>
+      <p:BodyE><sr>Ant 5. </s>Praise * thy God, O Sion, who declareth his judgments to Israel.</p>
      </td>
     </tr>
    </table>
@@ -6656,18 +6656,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Deus a Líbano véniet, et splendor ejus sicut lumen erit.</p>
+      <p:BodyLSm><sr>Ant. </s>Deus a Líbano véniet, et splendor ejus sicut lumen erit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>God shall come from Lebanon, and his splendor shall be as the light.</p>
+      <p:BodyESm><sr>Ant. </s>God shall come from Lebanon, and his splendor shall be as the light.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Ego autem * ad Dóminum aspíciam, et exspectábo Deum Salvatórem meum.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Ego autem * ad Dóminum aspíciam, et exspectábo Deum Salvatórem meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>But as for me, * I will look unto the Lord, and I will wait for the God of my Salvation.</p>
+      <p:BodyESm><sr>Ant 5. </s>But as for me, * I will look unto the Lord, and I will wait for the God of my Salvation.</p>
      </td>
     </tr>
    </table>
@@ -6675,18 +6675,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Cum conturbáta fúerit ánima mea, Dómine, misericórdiæ memor eris.</p>
+      <p:BodyLSm><sr>Ant. </s>Cum conturbáta fúerit ánima mea, Dómine, misericórdiæ memor eris.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>When my soul is troubled, O Lord, thou wilt remember mercy.</p>
+      <p:BodyESm><sr>Ant. </s>When my soul is troubled, O Lord, thou wilt remember mercy.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Meménto mei, * Dómine, dum véneris in regnum tuum.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Meménto mei, * Dómine, dum véneris in regnum tuum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>Remember me, * O Lord, when thou comest into thy kingdom.</p>
+      <p:BodyESm><sr>Ant 5. </s>Remember me, * O Lord, when thou comest into thy kingdom.</p>
      </td>
     </tr>
    </table>
@@ -6695,10 +6695,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Lauda Deum tuum, Sion, qui annúntiat judícia sua Israël.</p>
+      <p:BodyL><sr>Ant. </s>Lauda Deum tuum, Sion, qui annúntiat judícia sua Israël.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise thy God, O Sion, who declareth his judgments to Israel.</p>
+      <p:BodyE><sr>Ant. </s>Praise thy God, O Sion, who declareth his judgments to Israel.</p>
      </td>
     </tr>
    </table>
@@ -6706,10 +6706,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ego autem ad Dóminum aspíciam, et exspectábo Deum Salvatórem meum.</p>
+      <p:BodyLSm><sr>Ant. </s>Ego autem ad Dóminum aspíciam, et exspectábo Deum Salvatórem meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>But as for me, I will look unto the Lord, and I will wait for the God of my Salvation.</p>
+      <p:BodyESm><sr>Ant. </s>But as for me, I will look unto the Lord, and I will wait for the God of my Salvation.</p>
      </td>
     </tr>
    </table>
@@ -6717,10 +6717,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Meménto mei, Dómine, dum véneris in regnum tuum.</p>
+      <p:BodyLSm><sr>Ant. </s>Meménto mei, Dómine, dum véneris in regnum tuum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>Remember me, O Lord, when thou comest into thy kingdom.</p>
+      <p:BodyESm><sr>Ant 5. </s>Remember me, O Lord, when thou comest into thy kingdom.</p>
      </td>
     </tr>
    </table>
@@ -6803,10 +6803,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne discédas a me, * Dómine: quóniam tribulátio próxima est: quóniam non est qui ádjuvet.</p>
+      <p:BodyL><sr>Ant. </s>Ne discédas a me, * Dómine: quóniam tribulátio próxima est: quóniam non est qui ádjuvet.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Depart not from me, * O Lord: for tribulation is very near: for there is none to help me.</p>
+      <p:BodyE><sr>Ant. </s>Depart not from me, * O Lord: for tribulation is very near: for there is none to help me.</p>
      </td>
     </tr>
    </table>
@@ -6817,10 +6817,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne discédas a me, Dómine: quóniam tribulátio próxima est: quóniam non est qui ádjuvet.</p>
+      <p:BodyL><sr>Ant. </s>Ne discédas a me, Dómine: quóniam tribulátio próxima est: quóniam non est qui ádjuvet.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Depart not from me, O Lord: for tribulation is very near: for there is none to help me.</p>
+      <p:BodyE><sr>Ant. </s>Depart not from me, O Lord: for tribulation is very near: for there is none to help me.</p>
      </td>
     </tr>
    </table>
@@ -6901,10 +6901,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Éxcita, Dómine, * poténtiam tuam, ut salvos fácias nos.</p>
+      <p:BodyL><sr>Ant. </s>Éxcita, Dómine, * poténtiam tuam, ut salvos fácias nos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Stir up, O Lord, * thy might, and come to save us.</p>
+      <p:BodyE><sr>Ant. </s>Stir up, O Lord, * thy might, and come to save us.</p>
      </td>
     </tr>
    </table>
@@ -6915,10 +6915,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Éxcita, Dómine, poténtiam tuam, ut salvos fácias nos.</p>
+      <p:BodyL><sr>Ant. </s>Éxcita, Dómine, poténtiam tuam, ut salvos fácias nos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Stir up, O Lord, thy might, and come to save us.</p>
+      <p:BodyE><sr>Ant. </s>Stir up, O Lord, thy might, and come to save us.</p>
      </td>
     </tr>
    </table>
@@ -6999,10 +6999,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beáti, qui hábitant * in domo tua, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Beáti, qui hábitant * in domo tua, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed are they that dwell * in thy house, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Blessed are they that dwell * in thy house, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -7013,10 +7013,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beáti, qui hábitant in domo tua, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Beáti, qui hábitant in domo tua, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed are they that dwell in thy house, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Blessed are they that dwell in thy house, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -7097,10 +7097,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Misericórdia et véritas * præcédent fáciem tuam, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Misericórdia et véritas * præcédent fáciem tuam, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Mercy and truth * shall go before thy face, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Mercy and truth * shall go before thy face, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -7111,10 +7111,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Misericórdia et véritas præcédent fáciem tuam, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Misericórdia et véritas præcédent fáciem tuam, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Mercy and truth shall go before thy face, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Mercy and truth shall go before thy face, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -7128,10 +7128,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Dómine, * probásti me, et cognovísti me.‡</p>
+      <p:BodyL><sr>Ant 1. </s>Dómine, * probásti me, et cognovísti me.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Lord, * thou hast proved me, and known me.‡</p>
+      <p:BodyE><sr>Ant 1. </s>Lord, * thou hast proved me, and known me.‡</p>
      </td>
     </tr>
    </table>
@@ -7140,18 +7140,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, probásti me, et cognovísti me.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, probásti me, et cognovísti me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lord, thou hast proved me, and known me.</p>
+      <p:BodyE><sr>Ant. </s>Lord, thou hast proved me, and known me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.</p>
+      <p:BodyL><sr>Ant 2. </s>Mirabília ópera tua, * Dómine, et ánima mea cognóscit nimis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Wonderful are thy works, * O Lord, and my soul knoweth right well.</p>
+      <p:BodyE><sr>Ant 2. </s>Wonderful are thy works, * O Lord, and my soul knoweth right well.</p>
      </td>
     </tr>
    </table>
@@ -7160,18 +7160,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Mirabília ópera tua, Dómine, et ánima mea cognóscit nimis.</p>
+      <p:BodyL><sr>Ant. </s>Mirabília ópera tua, Dómine, et ánima mea cognóscit nimis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Wonderful are thy works, O Lord, and my soul knoweth right well.</p>
+      <p:BodyE><sr>Ant. </s>Wonderful are thy works, O Lord, and my soul knoweth right well.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ne derelínquas me, * Dómine, virtus salútis meæ.</p>
+      <p:BodyL><sr>Ant 3. </s>Ne derelínquas me, * Dómine, virtus salútis meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Do not thou forsake me, * O Lord, the strength of my salvation.</p>
+      <p:BodyE><sr>Ant 3. </s>Do not thou forsake me, * O Lord, the strength of my salvation.</p>
      </td>
     </tr>
    </table>
@@ -7180,18 +7180,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne derelínquas me, Dómine, virtus salútis meæ.</p>
+      <p:BodyL><sr>Ant. </s>Ne derelínquas me, Dómine, virtus salútis meæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Do not thou forsake me, O Lord, the strength of my salvation.</p>
+      <p:BodyE><sr>Ant. </s>Do not thou forsake me, O Lord, the strength of my salvation.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Dómine, * clamávi ad te, exáudi me.‡</p>
+      <p:BodyL><sr>Ant 4. </s>Dómine, * clamávi ad te, exáudi me.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>I have cried to thee, O Lord, * hear me.‡</p>
+      <p:BodyE><sr>Ant 4. </s>I have cried to thee, O Lord, * hear me.‡</p>
      </td>
     </tr>
    </table>
@@ -7200,18 +7200,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, clamávi ad te, exáudi me.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, clamávi ad te, exáudi me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I have cried to thee, O Lord, hear me.</p>
+      <p:BodyE><sr>Ant. </s>I have cried to thee, O Lord, hear me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo.</p>
+      <p:BodyL><sr>Ant 5. </s>Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Bring my soul * out of prison, O Lord, that I may praise thy name.</p>
+      <p:BodyE><sr>Ant 5. </s>Bring my soul * out of prison, O Lord, that I may praise thy name.</p>
      </td>
     </tr>
    </table>
@@ -7220,10 +7220,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Educ de custódia ánimam meam, Dómine, ad confiténdum nómini tuo.</p>
+      <p:BodyL><sr>Ant. </s>Educ de custódia ánimam meam, Dómine, ad confiténdum nómini tuo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Bring my soul out of prison, O Lord, that I may praise thy name.</p>
+      <p:BodyE><sr>Ant. </s>Bring my soul out of prison, O Lord, that I may praise thy name.</p>
      </td>
     </tr>
    </table>
@@ -7260,10 +7260,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.</p>
+      <p:BodyL><sr>Ant. </s>Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath put down * the mighty from their seat, and hath exalted the humble.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath put down * the mighty from their seat, and hath exalted the humble.</p>
      </td>
     </tr>
    </table>
@@ -7277,10 +7277,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Voce mea * ad Dóminum clamávi: neque obliviscétur miseréri Deus.</p>
+      <p:BodyL><sr>Ant. </s>Voce mea * ad Dóminum clamávi: neque obliviscétur miseréri Deus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I cried to the Lord * with my voice: and God will not forget to show mercy.</p>
+      <p:BodyE><sr>Ant. </s>I cried to the Lord * with my voice: and God will not forget to show mercy.</p>
      </td>
     </tr>
    </table>
@@ -7291,10 +7291,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Voce mea ad Dóminum clamávi: neque obliviscétur miseréri Deus.</p>
+      <p:BodyL><sr>Ant. </s>Voce mea ad Dóminum clamávi: neque obliviscétur miseréri Deus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I cried to the Lord with my voice: and God will not forget to show mercy.</p>
+      <p:BodyE><sr>Ant. </s>I cried to the Lord with my voice: and God will not forget to show mercy.</p>
      </td>
     </tr>
    </table>
@@ -7309,10 +7309,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Memor fuit in sæculum * testaménti sui Dóminus Deus noster. </p>
+      <p:BodyL><sr>Ant 1. </s>Memor fuit in sæculum * testaménti sui Dóminus Deus noster. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>He hath remembered his covenant for ever, * the Lord our </p>
+      <p:BodyE><sr>Ant 1. </s>He hath remembered his covenant for ever, * the Lord our </p>
       <p:BodyE>God</p>
      </td>
     </tr>
@@ -7322,19 +7322,19 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Memor fuit in sæculum testaménti sui Dóminus Deus noster. </p>
+      <p:BodyL><sr>Ant. </s>Memor fuit in sæculum testaménti sui Dóminus Deus noster. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He hath remembered his covenant for ever, the Lord our </p>
+      <p:BodyE><sr>Ant. </s>He hath remembered his covenant for ever, the Lord our </p>
       <p:BodyE>God</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Auxit Dóminus * pópulum suum: et firmávit eum super inimícos ejus. </p>
+      <p:BodyL><sr>Ant 2. </s>Auxit Dóminus * pópulum suum: et firmávit eum super inimícos ejus. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The Lord increased * his people exceedingly: and strengthened them over their enemies</p>
+      <p:BodyE><sr>Ant 2. </s>The Lord increased * his people exceedingly: and strengthened them over their enemies</p>
      </td>
     </tr>
    </table>
@@ -7343,18 +7343,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Auxit Dóminus pópulum suum: et firmávit eum super inimícos ejus. </p>
+      <p:BodyL><sr>Ant. </s>Auxit Dóminus pópulum suum: et firmávit eum super inimícos ejus. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord increased his people exceedingly: and strengthened them over their enemies</p>
+      <p:BodyE><sr>Ant. </s>The Lord increased his people exceedingly: and strengthened them over their enemies</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Edúxit Deus * pópulum suum in exsultatióne, et eléctos suos in lætítia. </p>
+      <p:BodyL><sr>Ant 3. </s>Edúxit Deus * pópulum suum in exsultatióne, et eléctos suos in lætítia. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>God brought forth * his people with joy, and his chosen with gladness.</p>
+      <p:BodyE><sr>Ant 3. </s>God brought forth * his people with joy, and his chosen with gladness.</p>
      </td>
     </tr>
    </table>
@@ -7363,10 +7363,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Edúxit Deus pópulum suum in exsultatióne, et eléctos suos in lætítia. </p>
+      <p:BodyL><sr>Ant. </s>Edúxit Deus pópulum suum in exsultatióne, et eléctos suos in lætítia. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>God brought forth his people with joy, and his chosen with gladness.</p>
+      <p:BodyE><sr>Ant. </s>God brought forth his people with joy, and his chosen with gladness.</p>
      </td>
     </tr>
    </table>
@@ -7374,10 +7374,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Salvávit eos Dóminus * propter nomen suum. </p>
+      <p:BodyL><sr>Ant 4. </s>Salvávit eos Dóminus * propter nomen suum. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Lord saved them * for his own name’s sake.</p>
+      <p:BodyE><sr>Ant 4. </s>The Lord saved them * for his own name’s sake.</p>
      </td>
     </tr>
    </table>
@@ -7386,18 +7386,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Salvávit eos Dóminus propter nomen suum. </p>
+      <p:BodyL><sr>Ant. </s>Salvávit eos Dóminus propter nomen suum. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord saved them for his own name’s sake.</p>
+      <p:BodyE><sr>Ant. </s>The Lord saved them for his own name’s sake.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Oblíti sunt Deum, * qui salvávit eos. </p>
+      <p:BodyL><sr>Ant 5. </s>Oblíti sunt Deum, * qui salvávit eos. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>They forgot God, * who saved them.</p>
+      <p:BodyE><sr>Ant 5. </s>They forgot God, * who saved them.</p>
      </td>
     </tr>
    </table>
@@ -7406,18 +7406,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Oblíti sunt Deum, qui salvávit eos. </p>
+      <p:BodyL><sr>Ant. </s>Oblíti sunt Deum, qui salvávit eos. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>They forgot God, who saved them.</p>
+      <p:BodyE><sr>Ant. </s>They forgot God, who saved them.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 6. </s>Cum tribularéntur, * vidit Dóminus: et audívit oratiónem eórum. </p>
+      <p:BodyL><sr>Ant 6. </s>Cum tribularéntur, * vidit Dóminus: et audívit oratiónem eórum. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 6. </s>When they were in tribulation, * the Lord saw: and he heard their prayer.</p>
+      <p:BodyE><sr>Ant 6. </s>When they were in tribulation, * the Lord saw: and he heard their prayer.</p>
      </td>
     </tr>
    </table>
@@ -7426,10 +7426,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cum tribularéntur, vidit Dóminus: et audívit oratiónem eórum. </p>
+      <p:BodyL><sr>Ant. </s>Cum tribularéntur, vidit Dóminus: et audívit oratiónem eórum. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>When they were in tribulation, the Lord saw: and he heard their prayer.</p>
+      <p:BodyE><sr>Ant. </s>When they were in tribulation, the Lord saw: and he heard their prayer.</p>
      </td>
     </tr>
    </table>
@@ -7437,10 +7437,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 7. </s>Clamavérunt ad Dóminum: * et de necessitátibus eórum liberávit eos. </p>
+      <p:BodyL><sr>Ant 7. </s>Clamavérunt ad Dóminum: * et de necessitátibus eórum liberávit eos. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 7. </s>Then they cried to the Lord: * and he delivered them out of their distresses</p>
+      <p:BodyE><sr>Ant 7. </s>Then they cried to the Lord: * and he delivered them out of their distresses</p>
      </td>
     </tr>
    </table>
@@ -7449,18 +7449,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Clamavérunt ad Dóminum: et de necessitátibus eórum liberávit eos. </p>
+      <p:BodyL><sr>Ant. </s>Clamavérunt ad Dóminum: et de necessitátibus eórum liberávit eos. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Then they cried to the Lord: and he delivered them out of their distresses</p>
+      <p:BodyE><sr>Ant. </s>Then they cried to the Lord: and he delivered them out of their distresses</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 8. </s>Ipsi vidérunt * ópera Dei, et mirabília ejus. </p>
+      <p:BodyL><sr>Ant 8. </s>Ipsi vidérunt * ópera Dei, et mirabília ejus. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 8. </s>These have seen * the works of God, and his wonders in the deep.</p>
+      <p:BodyE><sr>Ant 8. </s>These have seen * the works of God, and his wonders in the deep.</p>
      </td>
     </tr>
    </table>
@@ -7469,18 +7469,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ipsi vidérunt ópera Dei, et mirabília ejus. </p>
+      <p:BodyL><sr>Ant. </s>Ipsi vidérunt ópera Dei, et mirabília ejus. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>These have seen the works of God, and his wonders in the deep.</p>
+      <p:BodyE><sr>Ant. </s>These have seen the works of God, and his wonders in the deep.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 9. </s>Vidébunt recti, * et lætabúntur, et intélligent misericórdias Dómini. </p>
+      <p:BodyL><sr>Ant 9. </s>Vidébunt recti, * et lætabúntur, et intélligent misericórdias Dómini. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 9. </s>The just shall see, * and shall rejoice, and will understand the mercies of the Lord.</p>
+      <p:BodyE><sr>Ant 9. </s>The just shall see, * and shall rejoice, and will understand the mercies of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -7489,10 +7489,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vidébunt recti, et lætabúntur, et intélligent misericórdias Dómini. </p>
+      <p:BodyL><sr>Ant. </s>Vidébunt recti, et lætabúntur, et intélligent misericórdias Dómini. </p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The just shall see, and shall rejoice, and will understand the mercies of the Lord.</p>
+      <p:BodyE><sr>Ant. </s>The just shall see, and shall rejoice, and will understand the mercies of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -7503,14 +7503,14 @@
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Lauds I</p>
    <p:Head1>Sábbato ad Laudes I</p>
-<?php bookmark('PsSaL1'); ?>
+<?php echo bookmark('PsSaL1'); ?>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Fílii Sion * exsúltent in Rege suo.</p>
+      <p:BodyL><sr>Ant 1. </s>Fílii Sion * exsúltent in Rege suo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Let the children of Sion * be joyful in their King.</p>
+      <p:BodyE><sr>Ant 1. </s>Let the children of Sion * be joyful in their King.</p>
      </td>
     </tr>
    </table>
@@ -7519,18 +7519,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Fílii Sion exsúltent in Rege suo.</p>
+      <p:BodyL><sr>Ant. </s>Fílii Sion exsúltent in Rege suo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let the children of Sion be joyful in their King.</p>
+      <p:BodyE><sr>Ant. </s>Let the children of Sion be joyful in their King.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Quam magnificáta * sunt ópera tua, Dómine!</p>
+      <p:BodyL><sr>Ant 2. </s>Quam magnificáta * sunt ópera tua, Dómine!</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>O Lord, how great * are thy works!</p>
+      <p:BodyE><sr>Ant 2. </s>O Lord, how great * are thy works!</p>
      </td>
     </tr>
    </table>
@@ -7539,18 +7539,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quam magnificáta sunt ópera tua, Dómine!</p>
+      <p:BodyL><sr>Ant. </s>Quam magnificáta sunt ópera tua, Dómine!</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O Lord, how great are thy works!</p>
+      <p:BodyE><sr>Ant. </s>O Lord, how great are thy works!</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Lætábitur justus * in Dómino, et sperábit in eo.</p>
+      <p:BodyL><sr>Ant 3. </s>Lætábitur justus * in Dómino, et sperábit in eo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The just shall rejoice * in the Lord, and shall hope in him.</p>
+      <p:BodyE><sr>Ant 3. </s>The just shall rejoice * in the Lord, and shall hope in him.</p>
      </td>
     </tr>
    </table>
@@ -7559,18 +7559,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Lætábitur justus in Dómino, et sperábit in eo.</p>
+      <p:BodyL><sr>Ant. </s>Lætábitur justus in Dómino, et sperábit in eo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The just shall rejoice in the Lord, and shall hope in him.</p>
+      <p:BodyE><sr>Ant. </s>The just shall rejoice in the Lord, and shall hope in him.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Osténde nobis, Dómine, * lucem miseratiónum tuárum.</p>
+      <p:BodyL><sr>Ant 4. </s>Osténde nobis, Dómine, * lucem miseratiónum tuárum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Shew us, O Lord, * the light of thy mercies.</p>
+      <p:BodyE><sr>Ant 4. </s>Shew us, O Lord, * the light of thy mercies.</p>
      </td>
     </tr>
    </table>
@@ -7579,18 +7579,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Osténde nobis, Dómine, lucem miseratiónum tuárum.</p>
+      <p:BodyL><sr>Ant. </s>Osténde nobis, Dómine, lucem miseratiónum tuárum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Shew us, O Lord, the light of thy mercies.</p>
+      <p:BodyE><sr>Ant. </s>Shew us, O Lord, the light of thy mercies.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Omnis spíritus * laudet Dóminum.</p>
+      <p:BodyL><sr>Ant 5. </s>Omnis spíritus * laudet Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Let every spirit * praise the Lord.</p>
+      <p:BodyE><sr>Ant 5. </s>Let every spirit * praise the Lord.</p>
      </td>
     </tr>
    </table>
@@ -7599,10 +7599,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Omnis spíritus laudet Dóminum.</p>
+      <p:BodyL><sr>Ant. </s>Omnis spíritus laudet Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let every spirit praise the Lord.</p>
+      <p:BodyE><sr>Ant. </s>Let every spirit praise the Lord.</p>
      </td>
     </tr>
    </table>
@@ -7639,10 +7639,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Illúmina, Dómine, * sedéntes in ténebris et umbra mortis, et dírige pedes nostros in viam pacis.</p>
+      <p:BodyL><sr>Ant. </s>Illúmina, Dómine, * sedéntes in ténebris et umbra mortis, et dírige pedes nostros in viam pacis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Enlighten, O Lord * them that sit in darkness and in the shadow of death, and direct our feet into the way of peace.</p>
+      <p:BodyE><sr>Ant. </s>Enlighten, O Lord * them that sit in darkness and in the shadow of death, and direct our feet into the way of peace.</p>
      </td>
     </tr>
    </table>
@@ -7656,10 +7656,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Benígne fac, Dómine, * in bona voluntáte tua Sion.</p>
+      <p:BodyL><sr>Ant 1. </s>Benígne fac, Dómine, * in bona voluntáte tua Sion.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Deal favourably, O Lord, * in thy good will, with Sion.</p>
+      <p:BodyE><sr>Ant 1. </s>Deal favourably, O Lord, * in thy good will, with Sion.</p>
      </td>
     </tr>
    </table>
@@ -7667,10 +7667,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>Intuémini, * quam sit gloriósus iste, qui ingréditur ad salvándos pópulos.</p>
+      <p:BodyLSm><sr>Ant 1. </s>Intuémini, * quam sit gloriósus iste, qui ingréditur ad salvándos pópulos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>Consider * how glorious he is, who entereth in to save his people.</p>
+      <p:BodyESm><sr>Ant 1. </s>Consider * how glorious he is, who entereth in to save his people.</p>
      </td>
     </tr>
    </table>
@@ -7678,10 +7678,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 1. </s>O mors, * ero mors tua, morsus tuus ero, inférne.</p>
+      <p:BodyLSm><sr>Ant 1. </s>O mors, * ero mors tua, morsus tuus ero, inférne.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 1. </s>O death, * I will be thy death; O grave, I will be thy destruction!</p>
+      <p:BodyESm><sr>Ant 1. </s>O death, * I will be thy death; O grave, I will be thy destruction!</p>
      </td>
     </tr>
    </table>
@@ -7690,18 +7690,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Benígne fac, Dómine, in bona voluntáte tua Sion.</p>
+      <p:BodyL><sr>Ant. </s>Benígne fac, Dómine, in bona voluntáte tua Sion.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Deal favourably, O Lord, in thy good will, with Sion.</p>
+      <p:BodyE><sr>Ant. </s>Deal favourably, O Lord, in thy good will, with Sion.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Rectus Dóminus, * Deus noster: et non est iníquitas in eo.</p>
+      <p:BodyL><sr>Ant 2. </s>Rectus Dóminus, * Deus noster: et non est iníquitas in eo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The Lord our God * is righteous, and there is no iniquity in him.</p>
+      <p:BodyE><sr>Ant 2. </s>The Lord our God * is righteous, and there is no iniquity in him.</p>
      </td>
     </tr>
    </table>
@@ -7709,18 +7709,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Intuémini, quam sit gloriósus iste, qui ingréditur ad salvándos pópulos.</p>
+      <p:BodyLSm><sr>Ant. </s>Intuémini, quam sit gloriósus iste, qui ingréditur ad salvándos pópulos.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Consider how glorious he is, who entereth in to save his people.</p>
+      <p:BodyESm><sr>Ant. </s>Consider how glorious he is, who entereth in to save his people.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Multiplicábitur * ejus impérium, et pacis non erit finis.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Multiplicábitur * ejus impérium, et pacis non erit finis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>His dominion * shall be increased, and of peace there shall be no end.</p>
+      <p:BodyESm><sr>Ant 2. </s>His dominion * shall be increased, and of peace there shall be no end.</p>
      </td>
     </tr>
    </table>
@@ -7728,18 +7728,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>O mors, ero mors tua, morsus tuus ero, inférne.</p>
+      <p:BodyLSm><sr>Ant. </s>O mors, ero mors tua, morsus tuus ero, inférne.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>O death, I will be thy death; O grave, I will be thy destruction!</p>
+      <p:BodyESm><sr>Ant. </s>O death, I will be thy death; O grave, I will be thy destruction!</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 2. </s>Plangent eum * quasi unigénitum, quia ínnocens Dóminus occísus est.</p>
+      <p:BodyLSm><sr>Ant 2. </s>Plangent eum * quasi unigénitum, quia ínnocens Dóminus occísus est.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 2. </s>They shall mourn for him * as one mourneth for his only son, for the innocent Lord hath been put to death.</p>
+      <p:BodyESm><sr>Ant 2. </s>They shall mourn for him * as one mourneth for his only son, for the innocent Lord hath been put to death.</p>
      </td>
     </tr>
    </table>
@@ -7748,18 +7748,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Rectus Dóminus, Deus noster: et non est iníquitas in eo.</p>
+      <p:BodyL><sr>Ant. </s>Rectus Dóminus, Deus noster: et non est iníquitas in eo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord our God is righteous, and there is no iniquity in him.</p>
+      <p:BodyE><sr>Ant. </s>The Lord our God is righteous, and there is no iniquity in him.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>A timóre inimíci * éripe, Dómine, ánimam meam.</p>
+      <p:BodyL><sr>Ant 3. </s>A timóre inimíci * éripe, Dómine, ánimam meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Deliver my soul, * O Lord, from the fear of the enemy.</p>
+      <p:BodyE><sr>Ant 3. </s>Deliver my soul, * O Lord, from the fear of the enemy.</p>
      </td>
     </tr>
    </table>
@@ -7767,18 +7767,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Multiplicábitur ejus impérium, et pacis non erit finis.</p>
+      <p:BodyLSm><sr>Ant. </s>Multiplicábitur ejus impérium, et pacis non erit finis.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>His dominion shall be increased, and of peace there shall be no end.</p>
+      <p:BodyESm><sr>Ant. </s>His dominion shall be increased, and of peace there shall be no end.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Ego Dóminus * prope feci justítiam meam, non elongábitur, et salus mea non morábitur.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Ego Dóminus * prope feci justítiam meam, non elongábitur, et salus mea non morábitur.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>I, the Lord * bring near my justice; it shall not be far off, and my salvation shall not tarry.</p>
+      <p:BodyESm><sr>Ant 3. </s>I, the Lord * bring near my justice; it shall not be far off, and my salvation shall not tarry.</p>
      </td>
     </tr>
    </table>
@@ -7786,18 +7786,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Plangent eum quasi unigénitum, quia ínnocens Dóminus occísus est.</p>
+      <p:BodyLSm><sr>Ant. </s>Plangent eum quasi unigénitum, quia ínnocens Dóminus occísus est.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>They shall mourn for him as one mourneth for his only son, for the innocent Lord hath been put to death.</p>
+      <p:BodyESm><sr>Ant. </s>They shall mourn for him as one mourneth for his only son, for the innocent Lord hath been put to death.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 3. </s>Atténdite, * univérsi pópuli, et vidéte dolórem meum.</p>
+      <p:BodyLSm><sr>Ant 3. </s>Atténdite, * univérsi pópuli, et vidéte dolórem meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 3. </s>Behold, * all ye nations, and see my sorrow.</p>
+      <p:BodyESm><sr>Ant 3. </s>Behold, * all ye nations, and see my sorrow.</p>
      </td>
     </tr>
    </table>
@@ -7806,18 +7806,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>A timóre inimíci éripe, Dómine, ánimam meam.</p>
+      <p:BodyL><sr>Ant. </s>A timóre inimíci éripe, Dómine, ánimam meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Deliver my soul, O Lord, from the fear of the enemy.</p>
+      <p:BodyE><sr>Ant. </s>Deliver my soul, O Lord, from the fear of the enemy.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>In servis suis * miserébitur Dóminus: et propítius erit terræ pópuli sui.</p>
+      <p:BodyL><sr>Ant 4. </s>In servis suis * miserébitur Dóminus: et propítius erit terræ pópuli sui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Lord will have mercy * on his servants: and he will be merciful to the land of his people.</p>
+      <p:BodyE><sr>Ant 4. </s>The Lord will have mercy * on his servants: and he will be merciful to the land of his people.</p>
      </td>
     </tr>
    </table>
@@ -7825,39 +7825,39 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Ego Dóminus prope feci justítiam meam, non elongábitur, et salus mea non morábitur.</p>
+      <p:BodyLSm><sr>Ant. </s>Ego Dóminus prope feci justítiam meam, non elongábitur, et salus mea non morábitur.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>I, the Lord bring near my justice; it shall not be far off, and my salvation shall not tarry.</p>
+      <p:BodyESm><sr>Ant. </s>I, the Lord bring near my justice; it shall not be far off, and my salvation shall not tarry.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>Exspectétur, * sicut plúvia, elóquium Dómini: et descéndat, sicut ros, super nos Deus noster.</p>
+      <p:BodyLSm><sr>Ant 4. </s>Exspectétur, * sicut plúvia, elóquium Dómini: et descéndat, sicut ros, super nos Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>Let the word of the Lord * be expected as the rain: and let our God descend upon us as the dew.</p>
+      <p:BodyESm><sr>Ant 4. </s>Let the word of the Lord * be expected as the rain: and let our God descend upon us as the dew.</p>
      </td>
     </tr>
    </table>
-   <p:RubricHSm>Holy Saturday: see <s:NonRubric>Canticum Ezechiæ (Ego dixi)</s> below.</p>
+   <p:RubricHSm>Holy Saturday: see <snr>Canticum Ezechiæ (Ego dixi)</s> below.</p>
 <?php canticle('moses32.php'); ?>
    <p:Spacer/>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In servis suis miserébitur Dóminus: et propítius erit terræ pópuli sui.</p>
+      <p:BodyL><sr>Ant. </s>In servis suis miserébitur Dóminus: et propítius erit terræ pópuli sui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord will have mercy on his servants: and he will be merciful to the land of his people.</p>
+      <p:BodyE><sr>Ant. </s>The Lord will have mercy on his servants: and he will be merciful to the land of his people.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudáte * Dóminum secúndum multitúdinem magnitúdinis ejus.</p>
+      <p:BodyL><sr>Ant 5. </s>Laudáte * Dóminum secúndum multitúdinem magnitúdinis ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise ye * the Lord, according to the multitude of his greatness.</p>
+      <p:BodyE><sr>Ant 5. </s>Praise ye * the Lord, according to the multitude of his greatness.</p>
      </td>
     </tr>
    </table>
@@ -7865,18 +7865,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Exspectétur, sicut plúvia, elóquium Dómini: et descéndat, sicut ros, super nos Deus noster.</p>
+      <p:BodyLSm><sr>Ant. </s>Exspectétur, sicut plúvia, elóquium Dómini: et descéndat, sicut ros, super nos Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Let the word of the Lord be expected as the rain: and let our God descend upon us as the dew.</p>
+      <p:BodyESm><sr>Ant. </s>Let the word of the Lord be expected as the rain: and let our God descend upon us as the dew.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>Parátus esto, * Israël, in occúrsum Dómini, quóniam venit.</p>
+      <p:BodyLSm><sr>Ant 5. </s>Parátus esto, * Israël, in occúrsum Dómini, quóniam venit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>Be prepared, * O Israel, to meet thy Lord, for he cometh.</p>
+      <p:BodyESm><sr>Ant 5. </s>Be prepared, * O Israel, to meet thy Lord, for he cometh.</p>
      </td>
     </tr>
    </table>
@@ -7885,18 +7885,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Atténdite, univérsi pópuli, et vidéte dolórem meum.</p>
+      <p:BodyLSm><sr>Ant. </s>Atténdite, univérsi pópuli, et vidéte dolórem meum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Behold, all ye nations, and see my sorrow.</p>
+      <p:BodyESm><sr>Ant. </s>Behold, all ye nations, and see my sorrow.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 4. </s>A porta ínferi * érue, Dómine, ánimam meam.</p>
+      <p:BodyLSm><sr>Ant 4. </s>A porta ínferi * érue, Dómine, ánimam meam.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 4. </s>From the gate of the grave, * O Lord, deliver my soul.</p>
+      <p:BodyESm><sr>Ant 4. </s>From the gate of the grave, * O Lord, deliver my soul.</p>
      </td>
     </tr>
    </table>
@@ -7905,18 +7905,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>A porta ínferi érue, Dómine, ánimam meam.</p>
+      <p:BodyLSm><sr>Ant. </s>A porta ínferi érue, Dómine, ánimam meam.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>From the gate of the grave, O Lord, deliver my soul.</p>
+      <p:BodyESm><sr>Ant. </s>From the gate of the grave, O Lord, deliver my soul.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant 5. </s>O vos omnes, * qui transítis per viam, atténdite, et vidéte si est dolor sicut dolor meus.</p>
+      <p:BodyLSm><sr>Ant 5. </s>O vos omnes, * qui transítis per viam, atténdite, et vidéte si est dolor sicut dolor meus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant 5. </s>O all ye * that pass by, behold, and see if there be any sorrow like unto my sorrow.</p>
+      <p:BodyESm><sr>Ant 5. </s>O all ye * that pass by, behold, and see if there be any sorrow like unto my sorrow.</p>
      </td>
     </tr>
    </table>
@@ -7926,10 +7926,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Laudáte Dóminum secúndum multitúdinem magnitúdinis ejus.</p>
+      <p:BodyL><sr>Ant. </s>Laudáte Dóminum secúndum multitúdinem magnitúdinis ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Praise ye the Lord, according to the multitude of his greatness.</p>
+      <p:BodyE><sr>Ant. </s>Praise ye the Lord, according to the multitude of his greatness.</p>
      </td>
     </tr>
    </table>
@@ -7937,10 +7937,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>Parátus esto, Israël, in occúrsum Dómini, quóniam venit.</p>
+      <p:BodyLSm><sr>Ant. </s>Parátus esto, Israël, in occúrsum Dómini, quóniam venit.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>Be prepared, O Israel, to meet thy Lord, for he cometh.</p>
+      <p:BodyESm><sr>Ant. </s>Be prepared, O Israel, to meet thy Lord, for he cometh.</p>
      </td>
     </tr>
    </table>
@@ -7948,10 +7948,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Ant. </s>O vos omnes, qui transítis per viam, atténdite, et vidéte si est dolor sicut dolor meus.</p>
+      <p:BodyLSm><sr>Ant. </s>O vos omnes, qui transítis per viam, atténdite, et vidéte si est dolor sicut dolor meus.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>Ant. </s>O all ye that pass by, behold, and see if there be any sorrow like unto my sorrow.</p>
+      <p:BodyESm><sr>Ant. </s>O all ye that pass by, behold, and see if there be any sorrow like unto my sorrow.</p>
      </td>
     </tr>
    </table>
@@ -8034,10 +8034,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exaltáre, Dómine, * qui júdicas terram: redde retributiónem supérbis.</p>
+      <p:BodyL><sr>Ant. </s>Exaltáre, Dómine, * qui júdicas terram: redde retributiónem supérbis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lift up thyself, O Lord, * thou that judgest the earth: render a reward to the proud.</p>
+      <p:BodyE><sr>Ant. </s>Lift up thyself, O Lord, * thou that judgest the earth: render a reward to the proud.</p>
      </td>
     </tr>
    </table>
@@ -8048,10 +8048,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exaltáre, Dómine, qui júdicas terram: redde retributiónem supérbis.</p>
+      <p:BodyL><sr>Ant. </s>Exaltáre, Dómine, qui júdicas terram: redde retributiónem supérbis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lift up thyself, O Lord, thou that judgest the earth: render a reward to the proud.</p>
+      <p:BodyE><sr>Ant. </s>Lift up thyself, O Lord, thou that judgest the earth: render a reward to the proud.</p>
      </td>
     </tr>
    </table>
@@ -8132,10 +8132,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Clamor meus, * Dómine, ad te pervéniat: non avértas fáciem tuam a me.</p>
+      <p:BodyL><sr>Ant. </s>Clamor meus, * Dómine, ad te pervéniat: non avértas fáciem tuam a me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let my cry, * O Lord, come to thee: turn not away thy face from me.</p>
+      <p:BodyE><sr>Ant. </s>Let my cry, * O Lord, come to thee: turn not away thy face from me.</p>
      </td>
     </tr>
    </table>
@@ -8146,10 +8146,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Clamor meus, Dómine, ad te pervéniat: non avértas fáciem tuam a me.</p>
+      <p:BodyL><sr>Ant. </s>Clamor meus, Dómine, ad te pervéniat: non avértas fáciem tuam a me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let my cry, O Lord, come to thee: turn not away thy face from me.</p>
+      <p:BodyE><sr>Ant. </s>Let my cry, O Lord, come to thee: turn not away thy face from me.</p>
      </td>
     </tr>
    </table>
@@ -8230,10 +8230,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, Deus meus, * magnificátus es veheménter.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, Deus meus, * magnificátus es veheménter.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O Lord, my God, * thou art exceedingly great.</p>
+      <p:BodyE><sr>Ant. </s>O Lord, my God, * thou art exceedingly great.</p>
      </td>
     </tr>
    </table>
@@ -8244,10 +8244,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, Deus meus, magnificátus es veheménter.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, Deus meus, magnificátus es veheménter.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>O Lord, my God, thou art exceedingly great.</p>
+      <p:BodyE><sr>Ant. </s>O Lord, my God, thou art exceedingly great.</p>
      </td>
     </tr>
    </table>
@@ -8328,10 +8328,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne tacúeris, Deus, * quia sermónibus ódii circumdedérunt me.</p>
+      <p:BodyL><sr>Ant. </s>Ne tacúeris, Deus, * quia sermónibus ódii circumdedérunt me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Be not thou silent, O God, * for they have compassed me about with words of hatred.</p>
+      <p:BodyE><sr>Ant. </s>Be not thou silent, O God, * for they have compassed me about with words of hatred.</p>
      </td>
     </tr>
    </table>
@@ -8342,10 +8342,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne tacúeris, Deus, quia sermónibus ódii circumdedérunt me.</p>
+      <p:BodyL><sr>Ant. </s>Ne tacúeris, Deus, quia sermónibus ódii circumdedérunt me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Be not thou silent, O God, for they have compassed me about with words of hatred.</p>
+      <p:BodyE><sr>Ant. </s>Be not thou silent, O God, for they have compassed me about with words of hatred.</p>
      </td>
     </tr>
    </table>
@@ -8359,31 +8359,31 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Benedíctus Dóminus, * suscéptor meus, et liberátor meus.</p>
+      <p:BodyL><sr>Ant 1. </s>Benedíctus Dóminus, * suscéptor meus, et liberátor meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Blessed be the Lord, * my support and my deliverer.</p>
+      <p:BodyE><sr>Ant 1. </s>Blessed be the Lord, * my support and my deliverer.</p>
      </td>
     </tr>
    </table>
-<?php bookmark('PsSaV'); ?>
+<?php echo bookmark('PsSaV'); ?>
 <?php psalm('143-1.php'); ?>
    <p:Spacer/>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Benedíctus Dóminus, suscéptor meus, et liberátor meus.</p>
+      <p:BodyL><sr>Ant. </s>Benedíctus Dóminus, suscéptor meus, et liberátor meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Blessed be the Lord, my support and my deliverer.</p>
+      <p:BodyE><sr>Ant. </s>Blessed be the Lord, my support and my deliverer.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Beátus pópulus, * cujus Dóminus Deus ejus.</p>
+      <p:BodyL><sr>Ant 2. </s>Beátus pópulus, * cujus Dóminus Deus ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Happy is that people * whose God is the Lord.</p>
+      <p:BodyE><sr>Ant 2. </s>Happy is that people * whose God is the Lord.</p>
      </td>
     </tr>
    </table>
@@ -8392,18 +8392,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beátus pópulus, cujus Dóminus Deus ejus.</p>
+      <p:BodyL><sr>Ant. </s>Beátus pópulus, cujus Dóminus Deus ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Happy is that people whose God is the Lord.</p>
+      <p:BodyE><sr>Ant. </s>Happy is that people whose God is the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Magnus Dóminus, * et laudábilis nimis: et magnitúdinis ejus non est finis.</p>
+      <p:BodyL><sr>Ant 3. </s>Magnus Dóminus, * et laudábilis nimis: et magnitúdinis ejus non est finis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Great is the Lord, * and greatly to be praised: and of his greatness there is no end.</p>
+      <p:BodyE><sr>Ant 3. </s>Great is the Lord, * and greatly to be praised: and of his greatness there is no end.</p>
      </td>
     </tr>
    </table>
@@ -8412,18 +8412,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Magnus Dóminus, et laudábilis nimis: et magnitúdinis ejus non est finis.</p>
+      <p:BodyL><sr>Ant. </s>Magnus Dóminus, et laudábilis nimis: et magnitúdinis ejus non est finis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Great is the Lord, and greatly to be praised: and of his greatness there is no end.</p>
+      <p:BodyE><sr>Ant. </s>Great is the Lord, and greatly to be praised: and of his greatness there is no end.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Suávis Dóminus * univérsis: et miseratiónes ejus super ómnia ópera ejus.</p>
+      <p:BodyL><sr>Ant 4. </s>Suávis Dóminus * univérsis: et miseratiónes ejus super ómnia ópera ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The Lord is sweet * to all: and his tender mercies are over all his works.</p>
+      <p:BodyE><sr>Ant 4. </s>The Lord is sweet * to all: and his tender mercies are over all his works.</p>
      </td>
     </tr>
    </table>
@@ -8432,18 +8432,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Suávis Dóminus univérsis: et miseratiónes ejus super ómnia ópera ejus.</p>
+      <p:BodyL><sr>Ant. </s>Suávis Dóminus univérsis: et miseratiónes ejus super ómnia ópera ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord is sweet to all: and his tender mercies are over all his works.</p>
+      <p:BodyE><sr>Ant. </s>The Lord is sweet to all: and his tender mercies are over all his works.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.‡</p>
+      <p:BodyL><sr>Ant 5. </s>Fidélis Dóminus * in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>The Lord is faithful * in all his words: and holy in all his works.‡</p>
+      <p:BodyE><sr>Ant 5. </s>The Lord is faithful * in all his words: and holy in all his works.‡</p>
      </td>
     </tr>
    </table>
@@ -8452,10 +8452,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Fidélis Dóminus in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.</p>
+      <p:BodyL><sr>Ant. </s>Fidélis Dóminus in ómnibus verbis suis: et sanctus in ómnibus opéribus suis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord is faithful in all his words: and holy in all his works.</p>
+      <p:BodyE><sr>Ant. </s>The Lord is faithful in all his words: and holy in all his works.</p>
      </td>
     </tr>
    </table>
@@ -8493,10 +8493,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sæculum.</p>
+      <p:BodyL><sr>Ant. </s>Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sæculum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>God hath received * Israel his servant, being mindful of his mercy: as he spoke to our fathers, to Abraham and to his seed for ever.</p>
+      <p:BodyE><sr>Ant. </s>God hath received * Israel his servant, being mindful of his mercy: as he spoke to our fathers, to Abraham and to his seed for ever.</p>
      </td>
     </tr>
    </table>
@@ -8510,10 +8510,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Intret orátio mea * in conspéctu tuo, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Intret orátio mea * in conspéctu tuo, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let my prayer come in * before thee, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Let my prayer come in * before thee, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -8524,10 +8524,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Intret orátio mea in conspéctu tuo, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Intret orátio mea in conspéctu tuo, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Let my prayer come in before thee, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Let my prayer come in before thee, O Lord.</p>
      </td>
     </tr>
    </table>

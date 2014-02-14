@@ -18,7 +18,7 @@ Benedícat Israël Dóminum: * laudet et superexáltet eum in sæcula.
 Benedícite, sacerdótes Dómini, Dómino: * benedícite, servi Dómini, Dómino.
 Benedícite, spíritus, et ánimæ justórum, Dómino: * benedícite, sancti, et húmiles corde, Dómino.
 Benedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte eum in sæcula.
-<s:Rubric>(Fit reveréntia:)</s>
+<sr>(Fit reveréntia:)</s>
 Benedicámus Patrem et Fílium cum Sancto Spíritu: * laudémus et superexaltémus eum in sæcula.
 Benedíctus es, Dómine, in firmaménto cæli: * et laudábilis, et gloriósus, et superexaltátus in sæcula.
 Hic non dicitur Glória Patri, neque Amen.

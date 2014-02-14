@@ -24,10 +24,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Rex pacíficus * magnificátus est, cujus vultum desíderat univérsa terra.</p>
+      <p:BodyL><sr>Ant 1. </s>Rex pacíficus * magnificátus est, cujus vultum desíderat univérsa terra.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The King of Peace * is magnified, whose face the whole earth desireth.</p>
+      <p:BodyE><sr>Ant 1. </s>The King of Peace * is magnified, whose face the whole earth desireth.</p>
      </td>
     </tr>
    </table>
@@ -35,34 +35,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Magnificátus est * Rex pacíficus super omnes reges univérsæ terræ.</p>
+      <p:BodyL><sr>Ant 2. </s>Magnificátus est * Rex pacíficus super omnes reges univérsæ terræ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The King of peace is magnified * above all the kings of the whole earth.</p>
+      <p:BodyE><sr>Ant 2. </s>The King of peace is magnified * above all the kings of the whole earth.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Compléti sunt * dies Maríæ, ut páreret Fílium suum primogénitum.</p>
+      <p:BodyL><sr>Ant 3. </s>Compléti sunt * dies Maríæ, ut páreret Fílium suum primogénitum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The days of Mary were accomplished, * that she should bring forth her first born son.</p>
+      <p:BodyE><sr>Ant 3. </s>The days of Mary were accomplished, * that she should bring forth her first born son.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Scitóte * quia prope est regnum Dei: amen dico vobis, quia non tardábit.</p>
+      <p:BodyL><sr>Ant 4. </s>Scitóte * quia prope est regnum Dei: amen dico vobis, quia non tardábit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Know ye that the kingdom of God is at hand. Amen, I say unto you, it shall not be delayed.</p>
+      <p:BodyE><sr>Ant 4. </s>Know ye that the kingdom of God is at hand. Amen, I say unto you, it shall not be delayed.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Leváte cápita vestra: * ecce appropínquat redémptio vestra.</p>
+      <p:BodyL><sr>Ant 5. </s>Leváte cápita vestra: * ecce appropínquat redémptio vestra.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Lift up your heads. * Behold, your redemption draweth near.</p>
+      <p:BodyE><sr>Ant 5. </s>Lift up your heads. * Behold, your redemption draweth near.</p>
      </td>
     </tr>
    </table>
@@ -98,10 +98,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cum ortus fúerit * sol de cælo, vidébitis Regem regum procedéntem a Patre, tamquam sponsum de thálamo suo.</p>
+      <p:BodyL><sr>Ant. </s>Cum ortus fúerit * sol de cælo, vidébitis Regem regum procedéntem a Patre, tamquam sponsum de thálamo suo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>When the sun shall have risen * from heaven, ye shall see the King of kings proceeding from the Father, as a bridegroom from his chamber.</p>
+      <p:BodyE><sr>Ant. </s>When the sun shall have risen * from heaven, ye shall see the King of kings proceeding from the Father, as a bridegroom from his chamber.</p>
      </td>
     </tr>
    </table>
@@ -113,10 +113,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Quem vidístis, * pastóres? dícite, annuntiáte nobis, in terris quis appáruit? Natum vídimus, et choros Angelórum collaudántes Dóminum, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant 1. </s>Quem vidístis, * pastóres? dícite, annuntiáte nobis, in terris quis appáruit? Natum vídimus, et choros Angelórum collaudántes Dóminum, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Whom have ye seen, * O Shepherds? Say, tell us, who is it has appeared on the earth?—We have seen the Child that is born, and choirs of Angels praising the Lord, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant 1. </s>Whom have ye seen, * O Shepherds? Say, tell us, who is it has appeared on the earth?—We have seen the Child that is born, and choirs of Angels praising the Lord, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -124,34 +124,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Génuit puérpera * Regem, cui nomen ætérnum, et gáudia matris habens cum virginitátis honóre: nec primam símilem visa est, nec habére sequéntem, allelúja.</p>
+      <p:BodyL><sr>Ant 2. </s>Génuit puérpera * Regem, cui nomen ætérnum, et gáudia matris habens cum virginitátis honóre: nec primam símilem visa est, nec habére sequéntem, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The Mother has given birth to the King, whose name is eternal: she has both a Mother’s joy and a Virgin’s privilege: not one has ever been, or shall ever be, like her, alleluia.</p>
+      <p:BodyE><sr>Ant 2. </s>The Mother has given birth to the King, whose name is eternal: she has both a Mother’s joy and a Virgin’s privilege: not one has ever been, or shall ever be, like her, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ángelus ad pastóres * ait: Annúntio vobis gáudium magnum: quia natus est vobis hódie Salvátor mundi, allelúja.</p>
+      <p:BodyL><sr>Ant 3. </s>Ángelus ad pastóres * ait: Annúntio vobis gáudium magnum: quia natus est vobis hódie Salvátor mundi, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The Angel said unto the Shepherds: * I bring you tidings of great joy; for, this day, is born unto you the Saviour of the world, alleluia.</p>
+      <p:BodyE><sr>Ant 3. </s>The Angel said unto the Shepherds: * I bring you tidings of great joy; for, this day, is born unto you the Saviour of the world, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Facta est cum Ángelo * multitúdo cæléstis exércitus laudántium Deum, et dicéntium: Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja.</p>
+      <p:BodyL><sr>Ant 4. </s>Facta est cum Ángelo * multitúdo cæléstis exércitus laudántium Deum, et dicéntium: Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>With the Angel * was a multitude of the heavenly army, praising God and saying: Glory to God in the highest; and on earth, peace to men of good will, alleluia.</p>
+      <p:BodyE><sr>Ant 4. </s>With the Angel * was a multitude of the heavenly army, praising God and saying: Glory to God in the highest; and on earth, peace to men of good will, alleluia.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Párvulus fílius * hódie natus est nobis: et vocábitur Deus, Fortis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant 5. </s>Párvulus fílius * hódie natus est nobis: et vocábitur Deus, Fortis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>A Little Child * is, this day, born unto us, and he shall be called God, the Mighty One, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant 5. </s>A Little Child * is, this day, born unto us, and he shall be called God, the Mighty One, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -187,10 +187,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Glória in excélsis Deo, * et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Glória in excélsis Deo, * et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -210,10 +210,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Tecum princípium * in die virtútis tuæ, in splendóribus sanctórum, ex útero ante lucíferum génui te.</p>
+      <p:BodyL><sr>Ant 1. </s>Tecum princípium * in die virtútis tuæ, in splendóribus sanctórum, ex útero ante lucíferum génui te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>With thee is the principality * in the day of thy strength, in the brightness of thy Saints, from the womb before the day star I begot thee.</p>
+      <p:BodyE><sr>Ant 1. </s>With thee is the principality * in the day of thy strength, in the brightness of thy Saints, from the womb before the day star I begot thee.</p>
      </td>
     </tr>
    </table>
@@ -222,18 +222,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tecum princípium * in die virtútis tuæ, in splendóribus sanctórum, ex útero ante lucíferum génui te.</p>
+      <p:BodyL><sr>Ant. </s>Tecum princípium * in die virtútis tuæ, in splendóribus sanctórum, ex útero ante lucíferum génui te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>With thee is the principality in the day of thy strength, in the brightness of thy Saints, from the womb before the day star I begot thee.</p>
+      <p:BodyE><sr>Ant. </s>With thee is the principality in the day of thy strength, in the brightness of thy Saints, from the womb before the day star I begot thee.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Redemptiónem * misit Dóminus pópulo suo: mandávit in ætérnum testaméntum suum.</p>
+      <p:BodyL><sr>Ant 2. </s>Redemptiónem * misit Dóminus pópulo suo: mandávit in ætérnum testaméntum suum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The Lord hath sent * redemption unto his people, he hath commanded his covenant for ever.</p>
+      <p:BodyE><sr>Ant 2. </s>The Lord hath sent * redemption unto his people, he hath commanded his covenant for ever.</p>
      </td>
     </tr>
    </table>
@@ -242,18 +242,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Redemptiónem * misit Dóminus pópulo suo: mandávit in ætérnum testaméntum suum.</p>
+      <p:BodyL><sr>Ant. </s>Redemptiónem * misit Dóminus pópulo suo: mandávit in ætérnum testaméntum suum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath sent redemption unto his people, he hath commanded his covenant for ever.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath sent redemption unto his people, he hath commanded his covenant for ever.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Exórtum est * in ténebris lumen rectis corde: miséricors, et miserátor, et justus Dóminus.</p>
+      <p:BodyL><sr>Ant 3. </s>Exórtum est * in ténebris lumen rectis corde: miséricors, et miserátor, et justus Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Unto the true of heart * a light is risen up in darkness. The Lord is merciful, and compassionate, and just.</p>
+      <p:BodyE><sr>Ant 3. </s>Unto the true of heart * a light is risen up in darkness. The Lord is merciful, and compassionate, and just.</p>
      </td>
     </tr>
    </table>
@@ -262,18 +262,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exórtum est * in ténebris lumen rectis corde: miséricors, et miserátor, et justus Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Exórtum est * in ténebris lumen rectis corde: miséricors, et miserátor, et justus Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Unto the true of heart a light is risen up in darkness. The Lord is merciful, and compassionate, and just.</p>
+      <p:BodyE><sr>Ant. </s>Unto the true of heart a light is risen up in darkness. The Lord is merciful, and compassionate, and just.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Apud Dóminum * misericórdia, et copiósa apud eum redémptio.</p>
+      <p:BodyL><sr>Ant 4. </s>Apud Dóminum * misericórdia, et copiósa apud eum redémptio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>With the Lord * there is mercy, and with him is plentiful redemption.</p>
+      <p:BodyE><sr>Ant 4. </s>With the Lord * there is mercy, and with him is plentiful redemption.</p>
      </td>
     </tr>
    </table>
@@ -282,18 +282,18 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Apud Dóminum * misericórdia, et copiósa apud eum redémptio.</p>
+      <p:BodyL><sr>Ant. </s>Apud Dóminum * misericórdia, et copiósa apud eum redémptio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>With the Lord there is mercy, and with him is plentiful redemption.</p>
+      <p:BodyE><sr>Ant. </s>With the Lord there is mercy, and with him is plentiful redemption.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>De fructu * ventris tui ponam super sedem tuam.</p>
+      <p:BodyL><sr>Ant 5. </s>De fructu * ventris tui ponam super sedem tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Of the fruit * of thy womb I will set upon thy throne.</p>
+      <p:BodyE><sr>Ant 5. </s>Of the fruit * of thy womb I will set upon thy throne.</p>
      </td>
     </tr>
    </table>
@@ -302,10 +302,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>De fructu * ventris tui ponam super sedem tuam.</p>
+      <p:BodyL><sr>Ant. </s>De fructu * ventris tui ponam super sedem tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Of the fruit of thy womb I will set upon thy throne.</p>
+      <p:BodyE><sr>Ant. </s>Of the fruit of thy womb I will set upon thy throne.</p>
      </td>
     </tr>
    </table>
@@ -330,10 +330,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -397,10 +397,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dum médium siléntium * tenérent ómnia, et nox in suo cursu médium iter perágeret, omnípotens Sermo tuus, Dómine, a regálibus sédibus venit, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Dum médium siléntium * tenérent ómnia, et nox in suo cursu médium iter perágeret, omnípotens Sermo tuus, Dómine, a regálibus sédibus venit, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>While all things were in quiet silence, * and the night was in the midst of her course, thy Almighty Word, O Lord, came down from thy royal throne, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>While all things were in quiet silence, * and the night was in the midst of her course, thy Almighty Word, O Lord, came down from thy royal throne, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -428,10 +428,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dum médium siléntium * tenérent ómnia, et nox in suo cursu médium iter perágeret, omnípotens Sermo tuus, Dómine, a regálibus sédibus venit, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Dum médium siléntium * tenérent ómnia, et nox in suo cursu médium iter perágeret, omnípotens Sermo tuus, Dómine, a regálibus sédibus venit, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>While all things were in quiet silence, * and the night was in the midst of her course, thy Almighty Word, O Lord, came down from thy royal throne, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>While all things were in quiet silence, * and the night was in the midst of her course, thy Almighty Word, O Lord, came down from thy royal throne, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -502,10 +502,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Puer Jesus * proficiébat ætáte et sapiéntia coram Deo et homínibus.</p>
+      <p:BodyL><sr>Ant. </s>Puer Jesus * proficiébat ætáte et sapiéntia coram Deo et homínibus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The child Jesus advanced in age and wisdom, before God and men.</p>
+      <p:BodyE><sr>Ant. </s>The child Jesus advanced in age and wisdom, before God and men.</p>
      </td>
     </tr>
    </table>
@@ -539,10 +539,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Stéphanus autem plenus grátia et fortitúdine, faciébat signa magna in pópulo.</p>
+      <p:BodyL><sr>Ant. </s>Stéphanus autem plenus grátia et fortitúdine, faciébat signa magna in pópulo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>And Stephen, full of grace and fortitude, did great signs among the people.</p>
+      <p:BodyE><sr>Ant. </s>And Stephen, full of grace and fortitude, did great signs among the people.</p>
      </td>
     </tr>
    </table>
@@ -565,10 +565,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Lapidavérunt Stéphanum, * et ipse invocábat Dóminum, dicens: Ne státuas illis hoc peccátum.</p>
+      <p:BodyL><sr>Ant 1. </s>Lapidavérunt Stéphanum, * et ipse invocábat Dóminum, dicens: Ne státuas illis hoc peccátum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>They stoned Stephen, * and he called upon the Lord, saying: “Lay not this sin to their charge.”</p>
+      <p:BodyE><sr>Ant 1. </s>They stoned Stephen, * and he called upon the Lord, saying: “Lay not this sin to their charge.”</p>
      </td>
     </tr>
    </table>
@@ -576,34 +576,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Lápides torréntis * illi dulces fuérunt: ipsum sequúntur omnes ánimæ justæ.</p>
+      <p:BodyL><sr>Ant 2. </s>Lápides torréntis * illi dulces fuérunt: ipsum sequúntur omnes ánimæ justæ.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>The stones of the torrent * were sweet unto him; all just souls follow him.</p>
+      <p:BodyE><sr>Ant 2. </s>The stones of the torrent * were sweet unto him; all just souls follow him.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Adhæsit ánima mea * post te, quia caro mea lapidáta est pro te, Deus meus.</p>
+      <p:BodyL><sr>Ant 3. </s>Adhæsit ánima mea * post te, quia caro mea lapidáta est pro te, Deus meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>My soul cleaveth * unto thee, for my flesh hath been stoned for thy sake, O my God.</p>
+      <p:BodyE><sr>Ant 3. </s>My soul cleaveth * unto thee, for my flesh hath been stoned for thy sake, O my God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.</p>
+      <p:BodyL><sr>Ant 4. </s>Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Stephen saw * the heavens opened, he saw and entered: blessed man, to whom the heavens were opened.</p>
+      <p:BodyE><sr>Ant 4. </s>Stephen saw * the heavens opened, he saw and entered: blessed man, to whom the heavens were opened.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Ecce vídeo * cælos apértos, et Jesum stantem a dextris virtútis Dei.</p>
+      <p:BodyL><sr>Ant 5. </s>Ecce vídeo * cælos apértos, et Jesum stantem a dextris virtútis Dei.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Behold, I see * the heavens opened, and Jesus standing at the right hand of the power of God.</p>
+      <p:BodyE><sr>Ant 5. </s>Behold, I see * the heavens opened, and Jesus standing at the right hand of the power of God.</p>
      </td>
     </tr>
    </table>
@@ -641,10 +641,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Stéphanus autem * plenus grátia et fortitúdine, faciébat signa magna in pópulo.</p>
+      <p:BodyL><sr>Ant. </s>Stéphanus autem * plenus grátia et fortitúdine, faciébat signa magna in pópulo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>And Stephen, full of grace and fortitude, did great signs among the people.</p>
+      <p:BodyE><sr>Ant. </s>And Stephen, full of grace and fortitude, did great signs among the people.</p>
      </td>
     </tr>
    </table>
@@ -653,10 +653,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -745,10 +745,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum.</p>
+      <p:BodyL><sr>Ant. </s>Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Devout men buried Stephen * and made great mourning over him.</p>
+      <p:BodyE><sr>Ant. </s>Devout men buried Stephen * and made great mourning over him.</p>
      </td>
     </tr>
    </table>
@@ -757,10 +757,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -792,7 +792,7 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad I Vésperas</p>
-   <p:Rubric>If I Vespers of Saint John are said, antiphons and psalms are of Christmas; from the little chapter to the end of the Office is of St. John as in II Vespers, except antiphon of Magnificat, <s:NonRubric>Iste est Joánnes</s>, is taken from Lauds. </p>
+   <p:Rubric>If I Vespers of Saint John are said, antiphons and psalms are of Christmas; from the little chapter to the end of the Office is of St. John as in II Vespers, except antiphon of Magnificat, <snr>Iste est Joánnes</s>, is taken from Lauds. </p>
    <p:Rubric>And commemoration is made of the octave of Christmas as above.</p>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
@@ -800,10 +800,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Valde honorándus est * beátus Joánnes, qui supra pectus Dómini in cœna recúbuit.</p>
+      <p:BodyL><sr>Ant 1. </s>Valde honorándus est * beátus Joánnes, qui supra pectus Dómini in cœna recúbuit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Greatly to be honoured is * the blessed John, who leaned at supper on the bosom of the Lord.</p>
+      <p:BodyE><sr>Ant 1. </s>Greatly to be honoured is * the blessed John, who leaned at supper on the bosom of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -811,34 +811,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Hic est discípulus ille * qui testimónium pérhibet de his: et scimus quia verum est testimónium ejus.</p>
+      <p:BodyL><sr>Ant 2. </s>Hic est discípulus ille * qui testimónium pérhibet de his: et scimus quia verum est testimónium ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>This is that disciple * who giveth testimony of these things, and we know that his testimony is true.</p>
+      <p:BodyE><sr>Ant 2. </s>This is that disciple * who giveth testimony of these things, and we know that his testimony is true.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Hic est discípulus meus: * sic eum volo manére, donec véniam.</p>
+      <p:BodyL><sr>Ant 3. </s>Hic est discípulus meus: * sic eum volo manére, donec véniam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>This is my disciple: * so I will have him remain till I come.</p>
+      <p:BodyE><sr>Ant 3. </s>This is my disciple: * so I will have him remain till I come.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Sunt de hic stántibus, * qui non gustábunt mortem, donec vídeant Fílium hóminis in regno suo.</p>
+      <p:BodyL><sr>Ant 4. </s>Sunt de hic stántibus, * qui non gustábunt mortem, donec vídeant Fílium hóminis in regno suo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>There are some of them that stand here * who shall not taste death until they see the Son of Man coming in his kingdom.</p>
+      <p:BodyE><sr>Ant 4. </s>There are some of them that stand here * who shall not taste death until they see the Son of Man coming in his kingdom.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Ecce puer meus, * eléctus, quem elégi, pósui super eum Spíritum meum.</p>
+      <p:BodyL><sr>Ant 5. </s>Ecce puer meus, * eléctus, quem elégi, pósui super eum Spíritum meum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Behold mine elect, * a child whom I have chosen: I have put my spirit upon him.</p>
+      <p:BodyE><sr>Ant 5. </s>Behold mine elect, * a child whom I have chosen: I have put my spirit upon him.</p>
      </td>
     </tr>
    </table>
@@ -874,10 +874,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Iste est Joánnes, * qui supra pectus Dómini in cœna recúbuit: beátus Apóstolus, cui reveláta sunt secréta cæléstia.</p>
+      <p:BodyL><sr>Ant. </s>Iste est Joánnes, * qui supra pectus Dómini in cœna recúbuit: beátus Apóstolus, cui reveláta sunt secréta cæléstia.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>This is John * who leaned at supper on the bosom of the Lord. Blessed Apostle, to whom heavenly secrets were revealed.</p>
+      <p:BodyE><sr>Ant. </s>This is John * who leaned at supper on the bosom of the Lord. Blessed Apostle, to whom heavenly secrets were revealed.</p>
      </td>
     </tr>
    </table>
@@ -886,10 +886,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -978,10 +978,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Exiit * sermo inter fratres, quod discípulus ille non móritur; et non dixit Jesus, Non móritur: sed, Sic eum volo manére, donec véniam.</p>
+      <p:BodyL><sr>Ant. </s>Exiit * sermo inter fratres, quod discípulus ille non móritur; et non dixit Jesus, Non móritur: sed, Sic eum volo manére, donec véniam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>A saying went abroad * among the brethren, that that disciple should not die; and Jesus did not say that he should not die, but so will I have him remain till I come.</p>
+      <p:BodyE><sr>Ant. </s>A saying went abroad * among the brethren, that that disciple should not die; and Jesus did not say that he should not die, but so will I have him remain till I come.</p>
      </td>
     </tr>
    </table>
@@ -990,10 +990,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1033,10 +1033,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Heródes irátus * occídit multos púeros in Béthlehem Judæ civitáte David.</p>
+      <p:BodyL><sr>Ant 1. </s>Heródes irátus * occídit multos púeros in Béthlehem Judæ civitáte David.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Herod being wroth, * slew many children in Bethlehem of Juda, the city of David.</p>
+      <p:BodyE><sr>Ant 1. </s>Herod being wroth, * slew many children in Bethlehem of Juda, the city of David.</p>
      </td>
     </tr>
    </table>
@@ -1044,34 +1044,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>A bimátu * et infra occídit multos púeros Heródes propter Dóminum.</p>
+      <p:BodyL><sr>Ant 2. </s>A bimátu * et infra occídit multos púeros Heródes propter Dóminum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Herod slew * many children from two years old and under, on account of the Lord.</p>
+      <p:BodyE><sr>Ant 2. </s>Herod slew * many children from two years old and under, on account of the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ángeli eórum * semper vident fáciem Patris.</p>
+      <p:BodyL><sr>Ant 3. </s>Ángeli eórum * semper vident fáciem Patris.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Their Angels * always see the face of the Father.</p>
+      <p:BodyE><sr>Ant 3. </s>Their Angels * always see the face of the Father.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Vox in Rama * audíta est, plorátus et ululátus, Rachel plorans fílios suos.</p>
+      <p:BodyL><sr>Ant 4. </s>Vox in Rama * audíta est, plorátus et ululátus, Rachel plorans fílios suos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>A voice was heard * in Rama, lamentation and great mourning, Rachel bewailing her children.</p>
+      <p:BodyE><sr>Ant 4. </s>A voice was heard * in Rama, lamentation and great mourning, Rachel bewailing her children.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Sub throno Dei * omnes Sancti clamant: Víndica sánguinem nostrum, Deus noster.</p>
+      <p:BodyL><sr>Ant 5. </s>Sub throno Dei * omnes Sancti clamant: Víndica sánguinem nostrum, Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>From beneath the throne of God * all the Saints cry out: Avenge our blood, O our God.</p>
+      <p:BodyE><sr>Ant 5. </s>From beneath the throne of God * all the Saints cry out: Avenge our blood, O our God.</p>
      </td>
     </tr>
    </table>
@@ -1107,10 +1107,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hi sunt, * qui cum muliéribus non sunt coinquináti: vírgines enim sunt, et sequúntur Agnum quocúmque íerit.</p>
+      <p:BodyL><sr>Ant. </s>Hi sunt, * qui cum muliéribus non sunt coinquináti: vírgines enim sunt, et sequúntur Agnum quocúmque íerit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>These are they * who were not defiled with women; for they are virgins, and follow the Lamb whithersoever he goeth.</p>
+      <p:BodyE><sr>Ant. </s>These are they * who were not defiled with women; for they are virgins, and follow the Lamb whithersoever he goeth.</p>
      </td>
     </tr>
    </table>
@@ -1119,10 +1119,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúja, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Glory be to God in the highest; * and on earth, peace to men of good will, alleluia, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1211,10 +1211,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Innocéntes pro Christo * infántes occísi sunt, ab iníquo rege lacténtes interfécti sunt: ipsum sequúntur Agnum sine mácula, et dicunt semper: Glória tibi, Dómine.</p>
+      <p:BodyL><sr>Ant. </s>Innocéntes pro Christo * infántes occísi sunt, ab iníquo rege lacténtes interfécti sunt: ipsum sequúntur Agnum sine mácula, et dicunt semper: Glória tibi, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Innocent babies * were slain for Christ, sucklings were killed by a wicked king. Now they follow the Lamb without spot and cry without ceasing, Glory be to thee, O Lord.</p>
+      <p:BodyE><sr>Ant. </s>Innocent babies * were slain for Christ, sucklings were killed by a wicked king. Now they follow the Lamb without spot and cry without ceasing, Glory be to thee, O Lord.</p>
      </td>
     </tr>
    </table>
@@ -1223,10 +1223,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Hódie * Christus natus est: hódie Salvátor appáruit: hódie in terra canunt Ángeli, lætántur Archángeli: hódie exsúltant justi, dicéntes: Glória in excélsis Deo, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>This day * Christ was born: this day the Saviour appeared: this day the Angels sing on earth, and the Archangels rejoice: this day the just exult, saying, Glory to God in the highest, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1264,10 +1264,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
+      <p:BodyL><sr>Ant. </s>Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that hateth * his life in this world, keepeth it to life eternal.</p>
+      <p:BodyE><sr>Ant. </s>He that hateth * his life in this world, keepeth it to life eternal.</p>
      </td>
     </tr>
    </table>
@@ -1275,8 +1275,8 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>V. </s>Justus ut palma florébit.</p>
-      <p:BodyL><s:Rubric>R. </s>Sicut cedrus Líbani multiplicábitur.</p>
+      <p:BodyL><sr>V. </s>Justus ut palma florébit.</p>
+      <p:BodyL><sr>R. </s>Sicut cedrus Líbani multiplicábitur.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>The just shall flourish like the palm tree.</p>
@@ -1370,10 +1370,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“Well done, good and faithful servant, * because thou hast been faithful over a few things, I will place thee over many things,” saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“Well done, good and faithful servant, * because thou hast been faithful over a few things, I will place thee over many things,” saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1381,8 +1381,8 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>V. </s>Justum dedúxit Dóminus per vias rectas.</p>
-      <p:BodyL><s:Rubric>R. </s>Et osténdit illi regnum Dei.</p>
+      <p:BodyL><sr>V. </s>Justum dedúxit Dóminus per vias rectas.</p>
+      <p:BodyL><sr>R. </s>Et osténdit illi regnum Dei.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>The Lord conducted the just through the right ways.</p>
@@ -1451,10 +1451,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Propter nímiam * caritátem suam, qua diléxit nos Deus, Fílium suum misit in similitúdinem carnis peccáti, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Propter nímiam * caritátem suam, qua diléxit nos Deus, Fílium suum misit in similitúdinem carnis peccáti, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Through the exceeding * love wherewith God loved us, he sent his son in the likeness of sinful flesh, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Through the exceeding * love wherewith God loved us, he sent his son in the likeness of sinful flesh, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1466,10 +1466,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>O admirábile commércium: * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est; et procédens homo sine sémine, largítus est nobis suam Deitátem.</p>
+      <p:BodyL><sr>Ant 1. </s>O admirábile commércium: * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est; et procédens homo sine sémine, largítus est nobis suam Deitátem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>O wondrous fellowship! * The Creator of the human race, taking unto himself a living body, deigns to be born of a Virgin, and becoming man, from no human generation, hath bestowed upon us his divinity.</p>
+      <p:BodyE><sr>Ant 1. </s>O wondrous fellowship! * The Creator of the human race, taking unto himself a living body, deigns to be born of a Virgin, and becoming man, from no human generation, hath bestowed upon us his divinity.</p>
      </td>
     </tr>
    </table>
@@ -1477,34 +1477,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.</p>
+      <p:BodyL><sr>Ant 2. </s>Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>When thou wast born * after an unspeakable manner of a vigin, then were the Scriptures fulfilled: thou camest down as rain into fleece, to save the children of men. We praise thee, O our God.</p>
+      <p:BodyE><sr>Ant 2. </s>When thou wast born * after an unspeakable manner of a vigin, then were the Scriptures fulfilled: thou camest down as rain into fleece, to save the children of men. We praise thee, O our God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Rubum, quem víderat Móyses * incombústum, conservátam agnóvimus tuam laudábilem virginitátem: Dei Génitrix, intercéde pro nobis.</p>
+      <p:BodyL><sr>Ant 3. </s>Rubum, quem víderat Móyses * incombústum, conservátam agnóvimus tuam laudábilem virginitátem: Dei Génitrix, intercéde pro nobis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>In the bush which Moses saw * unconsumed by the fire, we acknowledge the figure of thy glorious inviolate virginity. Mother of God, intercede for us.</p>
+      <p:BodyE><sr>Ant 3. </s>In the bush which Moses saw * unconsumed by the fire, we acknowledge the figure of thy glorious inviolate virginity. Mother of God, intercede for us.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Germinávit radix Jesse, * orta est stella ex Jacob: Virgo péperit Salvatórem; te laudámus, Deus noster.</p>
+      <p:BodyL><sr>Ant 4. </s>Germinávit radix Jesse, * orta est stella ex Jacob: Virgo péperit Salvatórem; te laudámus, Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>The root of Jesse hath budded forth, the Star is risen out of Jacob, a Virgin hath brought forth the Saviour. We praise thee, O our God.</p>
+      <p:BodyE><sr>Ant 4. </s>The root of Jesse hath budded forth, the Star is risen out of Jacob, a Virgin hath brought forth the Saviour. We praise thee, O our God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Ecce María génuit * nobis Salvatórem, quem Joánnes videns, exclamávit, dicens: Ecce Agnus Dei, ecce qui tollit peccáta mundi, allelúja.</p>
+      <p:BodyL><sr>Ant 5. </s>Ecce María génuit * nobis Salvatórem, quem Joánnes videns, exclamávit, dicens: Ecce Agnus Dei, ecce qui tollit peccáta mundi, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Behold, Mary hath brought forth * unto us the Saviour, whom, when John saw, he cried out, “Behold the Lamb of God, behold him who takes away the sins of the world,” alleluia.</p>
+      <p:BodyE><sr>Ant 5. </s>Behold, Mary hath brought forth * unto us the Saviour, whom, when John saw, he cried out, “Behold the Lamb of God, behold him who takes away the sins of the world,” alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1563,10 +1563,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Omnis * qui invocáverit nomen Dómini, salvus erit.</p>
+      <p:BodyL><sr>Ant 1. </s>Omnis * qui invocáverit nomen Dómini, salvus erit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Every one * that shall call upon the name of the Lord shall be saved</p>
+      <p:BodyE><sr>Ant 1. </s>Every one * that shall call upon the name of the Lord shall be saved</p>
      </td>
     </tr>
    </table>
@@ -1574,34 +1574,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Sanctum et terríbile * nomen ejus, inítium sapiéntiæ timor Dómini.</p>
+      <p:BodyL><sr>Ant 2. </s>Sanctum et terríbile * nomen ejus, inítium sapiéntiæ timor Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Holy and terrible is his name: the fear of the Lord is the beginning of wisdom</p>
+      <p:BodyE><sr>Ant 2. </s>Holy and terrible is his name: the fear of the Lord is the beginning of wisdom</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ego autem * in Dómino gaudébo, et exsultábo in Deo Jesu meo.</p>
+      <p:BodyL><sr>Ant 3. </s>Ego autem * in Dómino gaudébo, et exsultábo in Deo Jesu meo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>But I * will rejoice in the Lord: and I will joy in God my Jesus.</p>
+      <p:BodyE><sr>Ant 3. </s>But I * will rejoice in the Lord: and I will joy in God my Jesus.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>A solis ortu * usque ad occásum laudábile nomen Dómini.</p>
+      <p:BodyL><sr>Ant 4. </s>A solis ortu * usque ad occásum laudábile nomen Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>From the rising of the sun * unto the going down of the same, the name of the Lord is worthy of praise.</p>
+      <p:BodyE><sr>Ant 4. </s>From the rising of the sun * unto the going down of the same, the name of the Lord is worthy of praise.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Sacrificábo * hóstiam laudis, et nomen Dómini invocábo.</p>
+      <p:BodyL><sr>Ant 5. </s>Sacrificábo * hóstiam laudis, et nomen Dómini invocábo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>I will sacrifice * the sacrifice of praise, and I will call upon the name of the Lord.</p>
+      <p:BodyE><sr>Ant 5. </s>I will sacrifice * the sacrifice of praise, and I will call upon the name of the Lord.</p>
      </td>
     </tr>
    </table>
@@ -1638,10 +1638,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Fecit * mihi magna qui potens est, et sanctum nomen ejus, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Fecit * mihi magna qui potens est, et sanctum nomen ejus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that is mighty, * hath done great things to me; and holy is his name, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>He that is mighty, * hath done great things to me; and holy is his name, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1654,10 +1654,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Oleum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te.</p>
+      <p:BodyL><sr>Ant 1. </s>Oleum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Thy name * is as oil poured out: therefore young maidens have loved thee.</p>
+      <p:BodyE><sr>Ant 1. </s>Thy name * is as oil poured out: therefore young maidens have loved thee.</p>
      </td>
     </tr>
    </table>
@@ -1665,34 +1665,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Scitóte, * quia Dóminus ipse est Deus, cujus nomen in ætérnum.</p>
+      <p:BodyL><sr>Ant 2. </s>Scitóte, * quia Dóminus ipse est Deus, cujus nomen in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Know ye * that the Lord he is God, whose name is for ever.</p>
+      <p:BodyE><sr>Ant 2. </s>Know ye * that the Lord he is God, whose name is for ever.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Sitívit * ánima mea ad nomen sanctum tuum, Dómine.</p>
+      <p:BodyL><sr>Ant 3. </s>Sitívit * ánima mea ad nomen sanctum tuum, Dómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>My soul hath thirsted * after thy Holy Name, O Lord.</p>
+      <p:BodyE><sr>Ant 3. </s>My soul hath thirsted * after thy Holy Name, O Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Benedíctum * nomen glóriæ tuæ sanctum, et laudábile, et superexaltátum in sæcula.</p>
+      <p:BodyL><sr>Ant 4. </s>Benedíctum * nomen glóriæ tuæ sanctum, et laudábile, et superexaltátum in sæcula.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Blessed * is the holy name of thy glory: and worthy to be praised, and exalted above all in all ages.</p>
+      <p:BodyE><sr>Ant 4. </s>Blessed * is the holy name of thy glory: and worthy to be praised, and exalted above all in all ages.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Júvenes et vírgines, * senes cum junióribus, laudáte nomen Dómini: quia exaltátum est nomen ejus solíus.</p>
+      <p:BodyL><sr>Ant 5. </s>Júvenes et vírgines, * senes cum junióribus, laudáte nomen Dómini: quia exaltátum est nomen ejus solíus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Young men and maidens: * let the old with the younger, praise the name of the Lord: for his name alone is exalted.</p>
+      <p:BodyE><sr>Ant 5. </s>Young men and maidens: * let the old with the younger, praise the name of the Lord: for his name alone is exalted.</p>
      </td>
     </tr>
    </table>
@@ -1717,10 +1717,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He exposed himself * to deliver his people, and to get himself an everlasting name, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>He exposed himself * to deliver his people, and to get himself an everlasting name, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -1989,10 +1989,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vocábis * nomen ejus Jesum; ipse enim salvum fáciet pópulum suum a peccátis eórum, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Vocábis * nomen ejus Jesum; ipse enim salvum fáciet pópulum suum a peccátis eórum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou shalt call * his name JESUS. For he shall save his people from their sins.</p>
+      <p:BodyE><sr>Ant. </s>Thou shalt call * his name JESUS. For he shall save his people from their sins.</p>
      </td>
     </tr>
    </table>
@@ -2011,10 +2011,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
+      <p:BodyL><sr>Ant. </s>Qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that hateth his life in this world, keepeth it to life eternal.</p>
+      <p:BodyE><sr>Ant. </s>He that hateth his life in this world, keepeth it to life eternal.</p>
      </td>
     </tr>
    </table>

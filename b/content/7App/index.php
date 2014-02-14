@@ -8,10 +8,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne reminiscáris * Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <s:Rubric>(P.T. Allelúia.)</s></p>
+      <p:BodyL><sr>Ant. </s>Ne reminiscáris * Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <sr>(P.T. Allelúia.)</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Remember not, * Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <s:Rubric>(P.T. Alleluia.)</s></p>
+      <p:BodyE><sr>Ant. </s>Remember not, * Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <sr>(P.T. Alleluia.)</s></p>
      </td>
     </tr>
    </table>
@@ -26,10 +26,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ne reminiscáris Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <s:Rubric>(P.T. Allelúia.)</s></p>
+      <p:BodyL><sr>Ant. </s>Ne reminiscáris Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <sr>(P.T. Allelúia.)</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Remember not, Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <s:Rubric>(P.T. Alleluia.)</s></p>
+      <p:BodyE><sr>Ant. </s>Remember not, Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <sr>(P.T. Alleluia.)</s></p>
      </td>
     </tr>
    </table>
@@ -137,14 +137,14 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:T10><s:VR>R. </s>Ora <s:Rubric>(</s>Oráte<s:Rubric>)</s> pro nobis.</s></p>
+      <p:BodyLSm><s:T10><s:VR>R. </s>Ora <sr>(</s>Oráte<sr>)</s> pro nobis.</s></p>
      </td>
      <td:B1>
       <p:BodyESm><s:T10><s:VR>R. </s>Pray for us.</s></p>
      </td>
     </tr>
    </table>
-   <p:BodySm><s:Rubric>Said after the following versicles, until another response is given. <text:s/></s>Ora <s:Rubric>is used when a single Saint is invoked; </s>Oráte <s:Rubric>is used when more than one Saint is invoked at once.</s></p>
+   <p:BodySm><sr>Said after the following versicles, until another response is given. <text:s/></s>Ora <sr>is used when a single Saint is invoked; </s>Oráte <sr>is used when more than one Saint is invoked at once.</s></p>
    <table>
     <tr>
      <td:A1>
@@ -319,7 +319,7 @@
       <p:BodyLSm><s:VR>V. </s>Sancte Thaddæe.</p>
      </td>
      <td:B1>
-      <p:BodyESm><s:VR>V. </s>St. Thaddeus <s:Rubric>(</s>Jude<s:Rubric>)</s>.</p>
+      <p:BodyESm><s:VR>V. </s>St. Thaddeus <sr>(</s>Jude<sr>)</s>.</p>
      </td>
     </tr>
     <tr>
@@ -705,7 +705,7 @@
      </td>
     </tr>
    </table>
-   <p:BodySm><s:Rubric>Said after the following versicles, until another response is given.</s></p>
+   <p:BodySm><sr>Said after the following versicles, until another response is given.</s></p>
    <table>
     <tr>
      <td:A1>
@@ -887,7 +887,7 @@
      </td>
     </tr>
    </table>
-   <p:BodySm><s:Rubric>Said after the following versicles, until another response is given.</s></p>
+   <p:BodySm><sr>Said after the following versicles, until another response is given.</s></p>
    <table>
     <tr>
      <td:A1>
@@ -1110,10 +1110,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Secréto usque ad:</s></p>
+      <p:BodyLSm><sr>Secréto usque ad:</s></p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>And the rest secretly to:</s></p>
+      <p:BodyESm><sr>And the rest secretly to:</s></p>
      </td>
     </tr>
     <tr>
@@ -1204,10 +1204,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Orémus pro Pontífice nostro<s:Rubric> N.</s></p>
+      <p:BodyLSm><s:VR>V. </s>Orémus pro Pontífice nostro<sr> N.</s></p>
      </td>
      <td:B1>
-      <p:BodyESm><s:VR>V. </s>Let us pray for our Pope<s:Rubric> N.</s></p>
+      <p:BodyESm><s:VR>V. </s>Let us pray for our Pope<sr> N.</s></p>
      </td>
     </tr>
     <tr>
@@ -1220,10 +1220,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:Rubric>Vacante Apostólica Sede, Versus cum suo Responsório præteritur.</s></p>
+      <p:BodyLSm><sr>Vacante Apostólica Sede, Versus cum suo Responsório præteritur.</s></p>
      </td>
      <td:B1>
-      <p:BodyESm><s:Rubric>If the Holy See is vacant, the above Versicle with its Response is omitted.</s></p>
+      <p:BodyESm><sr>If the Holy See is vacant, the above Versicle with its Response is omitted.</s></p>
      </td>
     </tr>
     <tr>
@@ -1351,10 +1351,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, miserére fámulo tuo Pontífici nostro<s:Rubric> N.</s>, et dírige eum secúndum tuam cleméntiam in viam salútis ætérnæ: ut, te donánte, tibi plácita cúpiat, et tota virtúte perfíciat.</p>
+      <p:BodyLDrop>OMNÍPOTENS sempitérne Deus, miserére fámulo tuo Pontífici nostro<sr> N.</s>, et dírige eum secúndum tuam cleméntiam in viam salútis ætérnæ: ut, te donánte, tibi plácita cúpiat, et tota virtúte perfíciat.</p>
      </td>
      <td:B1>
-      <p:BodyEDrop>ALMIGHTY, everlasting God, have mercy upon thy servant<s:Rubric> N.</s>, our Sovereign Pontiff, and direct him according to thy clemency into the way of everlasting salvation, that by thy grace he may desire those things that are pleasing to thee, and perform them with all his strength.</p>
+      <p:BodyEDrop>ALMIGHTY, everlasting God, have mercy upon thy servant<sr> N.</s>, our Sovereign Pontiff, and direct him according to thy clemency into the way of everlasting salvation, that by thy grace he may desire those things that are pleasing to thee, and perform them with all his strength.</p>
      </td>
     </tr>
     <tr>

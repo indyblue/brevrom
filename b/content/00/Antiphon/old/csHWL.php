@@ -4,7 +4,7 @@ In odórem * unguentórum tuórum cúrrimus: adolescéntulus dilexérunt te nimi
 We will run after the odour * of thy ointments; young maidens have loved them exceedingly.
 Jam hiems tránsiit, * imber ábiit et recéssit: surge, amíca mea, et veni.
 The winter is now past, * the rain is over and gone. Arise, my beloved, and come.
-Veni, elécta mea, * et ponam in te thronum meum, <s:Rubric>(</s>allelúia<s:Rubric>)</s>.
-Come, my chosen one, * and I will establish my throne within thee <s:Rubric>(</s>alleluia<s:Rubric>)</s>.
+Veni, elécta mea, * et ponam in te thronum meum, <sr>(</s>allelúia<sr>)</s>.
+Come, my chosen one, * and I will establish my throne within thee <sr>(</s>alleluia<sr>)</s>.
 Ista est speciósa * inter filias Jerúsalem.
 She is beautiful * among the daughters of Jerusalem.

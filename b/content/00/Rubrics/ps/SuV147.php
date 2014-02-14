@@ -1,1 +1,1 @@
-   <p:Rubric>Psalms as in Sunday Vespers, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSuV"/></s>, but in the last place Ps. 147, <s:NonRubric>Lauda Jerúsalem, p. <text:bookmark-ref text:reference-format="page" text:ref-name="Ps147"/></s>.</p>
+   <p:Rubric>Psalms as in Sunday Vespers, <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSuV"/></s>, but in the last place Ps. 147, <snr>Lauda Jerúsalem, p. <text:bookmark-ref text:reference-format="page" text:ref-name="Ps147"/></s>.</p>

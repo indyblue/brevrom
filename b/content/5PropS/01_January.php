@@ -27,10 +27,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Similábo eum viro sapiénti, qui ædificávit domum suam supra petram.</p>
+      <p:BodyL><sr>Ant. </s>Similábo eum viro sapiénti, qui ædificávit domum suam supra petram.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>I will liken him to a wise man that built his house upon a rock.</p>
+      <p:BodyE><sr>Ant. </s>I will liken him to a wise man that built his house upon a rock.</p>
      </td>
     </tr>
    </table>
@@ -106,10 +106,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est regnum cælórum hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
+      <p:BodyL><sr>Ant. </s>Símile est regnum cælórum hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The kingdom of heaven is like to a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
+      <p:BodyE><sr>Ant. </s>The kingdom of heaven is like to a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
      </td>
     </tr>
    </table>
@@ -147,10 +147,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vestri capílli cápitis omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.</p>
+      <p:BodyL><sr>Ant. </s>Vestri capílli cápitis omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The very hairs of your head are all numbered; fear not: you are of more value than many sparrows.</p>
+      <p:BodyE><sr>Ant. </s>The very hairs of your head are all numbered; fear not: you are of more value than many sparrows.</p>
      </td>
     </tr>
    </table>
@@ -183,10 +183,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
+      <p:BodyL><sr>Ant. </s>Qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that hateth his life in this world, keepeth it to life eternal.</p>
+      <p:BodyE><sr>Ant. </s>He that hateth his life in this world, keepeth it to life eternal.</p>
      </td>
     </tr>
    </table>
@@ -256,10 +256,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Ingressa Agnes * turpitúdinis locum, Ángelum Dómini præparátum invénit.</p>
+      <p:BodyL><sr>Ant 1. </s>Ingressa Agnes * turpitúdinis locum, Ángelum Dómini præparátum invénit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>The blessed Agnes, entering in * the place of infamy, found an Angel of the Lord at hand to protect her.</p>
+      <p:BodyE><sr>Ant 1. </s>The blessed Agnes, entering in * the place of infamy, found an Angel of the Lord at hand to protect her.</p>
      </td>
     </tr>
    </table>
@@ -267,34 +267,34 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Mecum enim habeo * custódem córporis mei, Ángelum Dómini.</p>
+      <p:BodyL><sr>Ant 2. </s>Mecum enim habeo * custódem córporis mei, Ángelum Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>For I have with me, * as guardian of my body, an Angel of the Lord.</p>
+      <p:BodyE><sr>Ant 2. </s>For I have with me, * as guardian of my body, an Angel of the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ánulo suo * subarrhávit me Dóminus meus Jesus Christus, et tamquam sponsam decorávit me coróna.</p>
+      <p:BodyL><sr>Ant 3. </s>Ánulo suo * subarrhávit me Dóminus meus Jesus Christus, et tamquam sponsam decorávit me coróna.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>My Lord Jesus Christ * hath betrothed me with his ring, and as a bride hath he adorned me with a crown.</p>
+      <p:BodyE><sr>Ant 3. </s>My Lord Jesus Christ * hath betrothed me with his ring, and as a bride hath he adorned me with a crown.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Benedíco te, * Pater Dómini mei Jesu Christi, quia per Fílium tuum ignis exstínctus est a látere meo.</p>
+      <p:BodyL><sr>Ant 4. </s>Benedíco te, * Pater Dómini mei Jesu Christi, quia per Fílium tuum ignis exstínctus est a látere meo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>I bless thee, * O Father of my Lord Jesus Christ; for through thy Son the fire was quenched round about me.</p>
+      <p:BodyE><sr>Ant 4. </s>I bless thee, * O Father of my Lord Jesus Christ; for through thy Son the fire was quenched round about me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Congaudéte mecum * et congratulámini, quia cum his ómnibus lúcidas sedes accépi.</p>
+      <p:BodyL><sr>Ant 5. </s>Congaudéte mecum * et congratulámini, quia cum his ómnibus lúcidas sedes accépi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Rejoice with me * and be glad, for with all these that are here have I received a seat in glory.</p>
+      <p:BodyE><sr>Ant 5. </s>Rejoice with me * and be glad, for with all these that are here have I received a seat in glory.</p>
      </td>
     </tr>
    </table>
@@ -317,10 +317,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam teneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
+      <p:BodyL><sr>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam teneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold, now I see * that which I have desired; now I possess that for which I have hoped: now am I united in Heaven to him whom I have love with my whole heart upon earth.</p>
+      <p:BodyE><sr>Ant. </s>Behold, now I see * that which I have desired; now I possess that for which I have hoped: now am I united in Heaven to him whom I have love with my whole heart upon earth.</p>
      </td>
     </tr>
    </table>
@@ -374,10 +374,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Stans beáta Agnes * in médio flammæ, expánsis mánibus orábat ad Dóminum: Omnípotens, adoránde, colénde, treménde, benedíco te, et glorífico nomen tuum in ætérnum.</p>
+      <p:BodyL><sr>Ant. </s>Stans beáta Agnes * in médio flammæ, expánsis mánibus orábat ad Dóminum: Omnípotens, adoránde, colénde, treménde, benedíco te, et glorífico nomen tuum in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The blessed Agnes, * stretching out her hands as she stood in the midst of the flames, prayed unto the Lord, and said, “Almighty Being, who alone art to be worshipped, feared, and adored, I bless and glorify thy name, world without end.”</p>
+      <p:BodyE><sr>Ant. </s>The blessed Agnes, * stretching out her hands as she stood in the midst of the flames, prayed unto the Lord, and said, “Almighty Being, who alone art to be worshipped, feared, and adored, I bless and glorify thy name, world without end.”</p>
      </td>
     </tr>
    </table>
@@ -425,10 +425,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est regnum cælórum hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
+      <p:BodyL><sr>Ant. </s>Símile est regnum cælórum hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The kingdom of heaven is like to a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
+      <p:BodyE><sr>Ant. </s>The kingdom of heaven is like to a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
      </td>
     </tr>
    </table>
@@ -485,10 +485,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>DEUS, qui univérsum mundum beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quæsumus; ut, qui ejus hódie Conversiónem cólimus, per ejus ad te exémpla gradiámur. <s:Rubric>(</s>Per Dóminum.<s:Rubric>)</s></p>
+      <p:BodyLDrop>DEUS, qui univérsum mundum beáti Pauli Apóstoli prædicatióne docuísti: da nobis, quæsumus; ut, qui ejus hódie Conversiónem cólimus, per ejus ad te exémpla gradiámur. <sr>(</s>Per Dóminum.<sr>)</s></p>
      </td>
      <td:B1>
-      <p:BodyEDrop>O GOD, who didst teach the whole world by the preaching of blessed Paul the apostle; mercifully grant that we who this day celebrate the memory of his conversion, may, by following his example, advance in the way that leadeth unto thee. <s:Rubric>(</s>Through our Lord.<s:Rubric>)</s></p>
+      <p:BodyEDrop>O GOD, who didst teach the whole world by the preaching of blessed Paul the apostle; mercifully grant that we who this day celebrate the memory of his conversion, may, by following his example, advance in the way that leadeth unto thee. <sr>(</s>Through our Lord.<sr>)</s></p>
      </td>
     </tr>
    </table>
@@ -509,10 +509,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Ego plantávi, * Apóllo rigávit, Deus autem increméntum dedit <s:Rubric>(allelúja)</s>.</p>
+      <p:BodyL><sr>Ant 1. </s>Ego plantávi, * Apóllo rigávit, Deus autem increméntum dedit <sr>(allelúja)</s>.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>I have planted * and Apollo watered, but God gave the increase <s:Rubric>(alleluia)</s>.</p>
+      <p:BodyE><sr>Ant 1. </s>I have planted * and Apollo watered, but God gave the increase <sr>(alleluia)</s>.</p>
      </td>
     </tr>
    </table>
@@ -520,34 +520,34 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Libénter gloriábor * in infirmitátibus meis, ut inhábitet in me virtus Christi.</p>
+      <p:BodyL><sr>Ant 2. </s>Libénter gloriábor * in infirmitátibus meis, ut inhábitet in me virtus Christi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Gladly will I glory * in my infirmities, that the power of Christ may dwell in me.</p>
+      <p:BodyE><sr>Ant 2. </s>Gladly will I glory * in my infirmities, that the power of Christ may dwell in me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Gratia Dei * in me vacua non fuit, sed grátia ejus semper in me manet.</p>
+      <p:BodyL><sr>Ant 3. </s>Gratia Dei * in me vacua non fuit, sed grátia ejus semper in me manet.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>The grace of God * in me was not void, but his grace ever abideth in me.</p>
+      <p:BodyE><sr>Ant 3. </s>The grace of God * in me was not void, but his grace ever abideth in me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Damásci, præpósitus * gentis Arétæ regis vóluit me comprehéndere: a frátribus per murum demíssus sum in sporta, et sic evási manus ejus in nómine Dómini.</p>
+      <p:BodyL><sr>Ant 4. </s>Damásci, præpósitus * gentis Arétæ regis vóluit me comprehéndere: a frátribus per murum demíssus sum in sporta, et sic evási manus ejus in nómine Dómini.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>At Damascus, the governor of the nation, * under Aretas the king, would have apprehended me; but I was let down the wall in a basked by the brethren, and so escaped his hands, in the name of the Lord.</p>
+      <p:BodyE><sr>Ant 4. </s>At Damascus, the governor of the nation, * under Aretas the king, would have apprehended me; but I was let down the wall in a basked by the brethren, and so escaped his hands, in the name of the Lord.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Ter virgis cæsus sum, * semel lapidátus sum, ter naufrágium pértuli pro Christi nómine.</p>
+      <p:BodyL><sr>Ant 5. </s>Ter virgis cæsus sum, * semel lapidátus sum, ter naufrágium pértuli pro Christi nómine.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck, for the name of Christ.</p>
+      <p:BodyE><sr>Ant 5. </s>Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck, for the name of Christ.</p>
      </td>
     </tr>
    </table>
@@ -582,10 +582,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vos qui secúti estis me, * sedébitis super sedes, judicántes duódecim tribus Israël, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Vos qui secúti estis me, * sedébitis super sedes, judicántes duódecim tribus Israël, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“Ye, which have followed me, * shall sit upon twelve thrones, judging the twelve tribes of Israel,” saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“Ye, which have followed me, * shall sit upon twelve thrones, judging the twelve tribes of Israel,” saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -652,10 +652,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Sancte Paule Apóstole, * prædicator veritátis, et doctor Géntium, intercéde pro nobis ad Deum, qui te elégit.</p>
+      <p:BodyL><sr>Ant. </s>Sancte Paule Apóstole, * prædicator veritátis, et doctor Géntium, intercéde pro nobis ad Deum, qui te elégit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Holy Apostle Paul, * thou preacher of the truth and doctor of the Gentiles, intercede for us with God, who chose thee.</p>
+      <p:BodyE><sr>Ant. </s>Holy Apostle Paul, * thou preacher of the truth and doctor of the Gentiles, intercede for us with God, who chose thee.</p>
      </td>
     </tr>
    </table>
@@ -723,10 +723,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam teneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
+      <p:BodyL><sr>Ant. </s>Ecce, quod concupívi, * jam vídeo: quod sperávi jam teneo: ipsi sum juncta in cælis, quem in terris pósita, tota devotióne diléxi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold, now I see * that which I have desired; now I possess that for which I have hoped: now am I united in Heaven to him whom I have love with my whole heart upon earth.</p>
+      <p:BodyE><sr>Ant. </s>Behold, now I see * that which I have desired; now I possess that for which I have hoped: now am I united in Heaven to him whom I have love with my whole heart upon earth.</p>
      </td>
     </tr>
    </table>
@@ -826,10 +826,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est regnum cælórum * hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
+      <p:BodyL><sr>Ant. </s>Símile est regnum cælórum * hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The kingdom of heaven is like to * a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
+      <p:BodyE><sr>Ant. </s>The kingdom of heaven is like to * a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
      </td>
     </tr>
    </table>
@@ -841,10 +841,10 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.</p>
+      <p:BodyL><sr>Ant. </s>Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Come, Bride of Christ, * and take the everlasting crown which the Lord hath prepared for thee.</p>
+      <p:BodyE><sr>Ant. </s>Come, Bride of Christ, * and take the everlasting crown which the Lord hath prepared for thee.</p>
      </td>
     </tr>
    </table>

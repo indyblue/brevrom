@@ -41,10 +41,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dixit Dóminus * ad Adam: De ligno quod est in médio paradísi, ne cómedas: in qua hora coméderis, morte moriéris.</p>
+      <p:BodyL><sr>Ant. </s>Dixit Dóminus * ad Adam: De ligno quod est in médio paradísi, ne cómedas: in qua hora coméderis, morte moriéris.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lord said * unto Adam: of the tree which is in the midst of paradise, thou shalt not eat: for in the hour that thou eatest thereof, thou shalt die the death.</p>
+      <p:BodyE><sr>Ant. </s>Lord said * unto Adam: of the tree which is in the midst of paradise, thou shalt not eat: for in the hour that thou eatest thereof, thou shalt die the death.</p>
      </td>
     </tr>
    </table>
@@ -54,10 +54,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Miserére * mei, Deus, et a delícto meo munda me: quia tibi soli peccávi.</p>
+      <p:BodyL><sr>Ant 1. </s>Miserére * mei, Deus, et a delícto meo munda me: quia tibi soli peccávi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Have mercy * on me, O God, and cleanse me from my sin, for to thee only have I sinned.</p>
+      <p:BodyE><sr>Ant 1. </s>Have mercy * on me, O God, and cleanse me from my sin, for to thee only have I sinned.</p>
      </td>
     </tr>
    </table>
@@ -65,34 +65,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Confitébor * tibi, quóniam exaudísti me.</p>
+      <p:BodyL><sr>Ant 2. </s>Confitébor * tibi, quóniam exaudísti me.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>I will praise * thee, because thou hast heard me.</p>
+      <p:BodyE><sr>Ant 2. </s>I will praise * thee, because thou hast heard me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Deus, Deus meus, * ad te de luce vígilo, quia factus es adjútor meus.</p>
+      <p:BodyL><sr>Ant 3. </s>Deus, Deus meus, * ad te de luce vígilo, quia factus es adjútor meus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>O God, my God, * to thee do I watch at break of day, because thou hast been my helper.</p>
+      <p:BodyE><sr>Ant 3. </s>O God, my God, * to thee do I watch at break of day, because thou hast been my helper.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Benedíctus es * in firmaménto cæli, et laudábilis in sæcula, Deus noster.</p>
+      <p:BodyL><sr>Ant 4. </s>Benedíctus es * in firmaménto cæli, et laudábilis in sæcula, Deus noster.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Blessed art thou * in the firmament of heaven: and worthy of praise for ever, O our God.</p>
+      <p:BodyE><sr>Ant 4. </s>Blessed art thou * in the firmament of heaven: and worthy of praise for ever, O our God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Laudáte * Dóminum de cælis.‡</p>
+      <p:BodyL><sr>Ant 5. </s>Laudáte * Dóminum de cælis.‡</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Praise ye * the Lord from the heavens.‡</p>
+      <p:BodyE><sr>Ant 5. </s>Praise ye * the Lord from the heavens.‡</p>
      </td>
     </tr>
    </table>
@@ -103,10 +103,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est * regnum cælórum hómini patrifamílias, qui éxiit primo mane condúcere operários in víneam suam, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Símile est * regnum cælórum hómini patrifamílias, qui éxiit primo mane condúcere operários in víneam suam, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“The kingdom of heaven is like to an householder, who went out early in the morning to hire labourers into his vineyard,” saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“The kingdom of heaven is like to an householder, who went out early in the morning to hire labourers into his vineyard,” saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -115,10 +115,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Conventióne autem * facta cum operáriis ex denário diúrno, misit eos in víneam suam.</p>
+      <p:BodyL><sr>Ant. </s>Conventióne autem * facta cum operáriis ex denário diúrno, misit eos in víneam suam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>And having agreed * with the labourers for a penny a day, he sent them into his vineyard.</p>
+      <p:BodyE><sr>Ant. </s>And having agreed * with the labourers for a penny a day, he sent them into his vineyard.</p>
      </td>
     </tr>
    </table>
@@ -127,10 +127,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ite et vos * in víneam meam, et quod justum fúerit, dabo vobis.</p>
+      <p:BodyL><sr>Ant. </s>Ite et vos * in víneam meam, et quod justum fúerit, dabo vobis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Go you also * into my vineyard, and I will give you what shall be just.</p>
+      <p:BodyE><sr>Ant. </s>Go you also * into my vineyard, and I will give you what shall be just.</p>
      </td>
     </tr>
    </table>
@@ -141,10 +141,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quid hic statis * tota die otiósi? respondérunt, et dixérunt: Quia nemo nos condúxit.</p>
+      <p:BodyL><sr>Ant. </s>Quid hic statis * tota die otiósi? respondérunt, et dixérunt: Quia nemo nos condúxit.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“Why do you stand * here all the day idle?” They answered and said unto him: “Because no man hath hired us.”</p>
+      <p:BodyE><sr>Ant. </s>“Why do you stand * here all the day idle?” They answered and said unto him: “Because no man hath hired us.”</p>
      </td>
     </tr>
    </table>
@@ -168,10 +168,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Voca operários, * et redde illis mercédem suam, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Voca operários, * et redde illis mercédem suam, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“Call the labourers, * and pay them their hire,” saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“Call the labourers, * and pay them their hire,” saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -199,10 +199,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dixit paterfamílias * operáriis suis: Quid hic statis tota die otiósi? At illi respondéntes dixérunt: Quia nemo nos condúxit. Ite et vos in víneam meam: et quod justum fúerit, dabo vobis.</p>
+      <p:BodyL><sr>Ant. </s>Dixit paterfamílias * operáriis suis: Quid hic statis tota die otiósi? At illi respondéntes dixérunt: Quia nemo nos condúxit. Ite et vos in víneam meam: et quod justum fúerit, dabo vobis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The householder said * unto his laborers: “Why stand ye here all the day idle?” But they answering, said: “Because no man hath hired us.” “Go ye also into my vineyard, and I will give you what shall be just.”</p>
+      <p:BodyE><sr>Ant. </s>The householder said * unto his laborers: “Why stand ye here all the day idle?” But they answering, said: “Because no man hath hired us.” “Go ye also into my vineyard, and I will give you what shall be just.”</p>
      </td>
     </tr>
    </table>
@@ -225,10 +225,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hi novíssimi * una hora fecérunt, et pares illos nobis fecísti, qui portávimus pondus diéi, et æstus.</p>
+      <p:BodyL><sr>Ant. </s>Hi novíssimi * una hora fecérunt, et pares illos nobis fecísti, qui portávimus pondus diéi, et æstus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>These last * have worked but one hour, and thou hast made them equal to us, who have borne the burden of the day, and the heat.</p>
+      <p:BodyE><sr>Ant. </s>These last * have worked but one hour, and thou hast made them equal to us, who have borne the burden of the day, and the heat.</p>
      </td>
     </tr>
    </table>
@@ -239,10 +239,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dixit autem paterfamílias: * Amíce, non fácio tibi injúriam: nonne ex denário convenísti mecum? tolle quod tuum est, et vade</p>
+      <p:BodyL><sr>Ant. </s>Dixit autem paterfamílias: * Amíce, non fácio tibi injúriam: nonne ex denário convenísti mecum? tolle quod tuum est, et vade</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>But the householder said: * “Friend, I do thee no wrong; didst thou not agree with me for a penny? Take that which is thine, and go thy way.”</p>
+      <p:BodyE><sr>Ant. </s>But the householder said: * “Friend, I do thee no wrong; didst thou not agree with me for a penny? Take that which is thine, and go thy way.”</p>
      </td>
     </tr>
    </table>
@@ -253,10 +253,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tolle quod tuum est, * et vade; quia ego bonus sum, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Tolle quod tuum est, * et vade; quia ego bonus sum, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“Take that which is thine, * and go thy way; for I am gracious,” saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“Take that which is thine, * and go thy way; for I am gracious,” saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -267,10 +267,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Non licet mihi, * quod volo fácere? an óculus tuus nequam est? quia ego bonus sum, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Non licet mihi, * quod volo fácere? an óculus tuus nequam est? quia ego bonus sum, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“Is it not lawful for me * to do what I will? Is thine eye evil, because I am gracious?” saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>“Is it not lawful for me * to do what I will? Is thine eye evil, because I am gracious?” saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -281,10 +281,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.</p>
+      <p:BodyL><sr>Ant. </s>Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath put down * the mighty from their seat, and hath exalted the humble.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath put down * the mighty from their seat, and hath exalted the humble.</p>
      </td>
     </tr>
    </table>
@@ -336,10 +336,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dixit Dóminus * ad Noë: Finis univérsæ carnis venit coram me: fac tibi arcam de lignis lævigátis, ut salvétur univérsum semen in ea.</p>
+      <p:BodyL><sr>Ant. </s>Dixit Dóminus * ad Noë: Finis univérsæ carnis venit coram me: fac tibi arcam de lignis lævigátis, ut salvétur univérsum semen in ea.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord said * to Noe: “The end of all flesh is come before me; make thee an ark of timber planks, that all seed may be preserved in it.”</p>
+      <p:BodyE><sr>Ant. </s>The Lord said * to Noe: “The end of all flesh is come before me; make thee an ark of timber planks, that all seed may be preserved in it.”</p>
      </td>
     </tr>
    </table>
@@ -349,10 +349,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Secúndum magnam misericórdiam * tuam miserére mei, Deus.</p>
+      <p:BodyL><sr>Ant 1. </s>Secúndum magnam misericórdiam * tuam miserére mei, Deus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>According to thy great mercy, * have mercy on me, O God.</p>
+      <p:BodyE><sr>Ant 1. </s>According to thy great mercy, * have mercy on me, O God.</p>
      </td>
     </tr>
    </table>
@@ -360,34 +360,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Si mihi Dóminus * salvátor fúerit, non timébo quid fáciat mihi homo.</p>
+      <p:BodyL><sr>Ant 2. </s>Si mihi Dóminus * salvátor fúerit, non timébo quid fáciat mihi homo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>If the Lord * be my Saviour, I will not fear what man can do unto me.</p>
+      <p:BodyE><sr>Ant 2. </s>If the Lord * be my Saviour, I will not fear what man can do unto me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>In velaménto * clamávi valde dilúculo: Deus, Deus meus, ad te de luce vígilo.</p>
+      <p:BodyL><sr>Ant 3. </s>In velaménto * clamávi valde dilúculo: Deus, Deus meus, ad te de luce vígilo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Within the veil * I cried very early: “O God, my God, to thee do I watch at break of day.”</p>
+      <p:BodyE><sr>Ant 3. </s>Within the veil * I cried very early: “O God, my God, to thee do I watch at break of day.”</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Hymnum dicámus * Dómino Deo nostro.</p>
+      <p:BodyL><sr>Ant 4. </s>Hymnum dicámus * Dómino Deo nostro.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Let us sing a hymn * to the Lord our God.</p>
+      <p:BodyE><sr>Ant 4. </s>Let us sing a hymn * to the Lord our God.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>In excélsis * laudáte Deum.</p>
+      <p:BodyL><sr>Ant 5. </s>In excélsis * laudáte Deum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>In the high places, * praise ye God.</p>
+      <p:BodyE><sr>Ant 5. </s>In the high places, * praise ye God.</p>
      </td>
     </tr>
    </table>
@@ -398,10 +398,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cum turba * plúrima convenírent ad Jesum, et de civitátibus properárent ad eum, dixit per similitúdinem: Exiit qui séminat, semináre semen suum.</p>
+      <p:BodyL><sr>Ant. </s>Cum turba * plúrima convenírent ad Jesum, et de civitátibus properárent ad eum, dixit per similitúdinem: Exiit qui séminat, semináre semen suum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>When a very great multitude * was gathered together and hastened out of the cities unto him, he spoke by a similitude: “The sower went out to sow his seed.”</p>
+      <p:BodyE><sr>Ant. </s>When a very great multitude * was gathered together and hastened out of the cities unto him, he spoke by a similitude: “The sower went out to sow his seed.”</p>
      </td>
     </tr>
    </table>
@@ -410,10 +410,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Semen cécidit * in terram bonam, et áttulit fructum in patiéntia.</p>
+      <p:BodyL><sr>Ant. </s>Semen cécidit * in terram bonam, et áttulit fructum in patiéntia.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The seed fell * upon good ground, and brought forth its fruit in patience.</p>
+      <p:BodyE><sr>Ant. </s>The seed fell * upon good ground, and brought forth its fruit in patience.</p>
      </td>
     </tr>
    </table>
@@ -422,10 +422,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui verbum Dei * rétinent corde perfécto et óptimo, fructum afférunt in patiéntia.</p>
+      <p:BodyL><sr>Ant. </s>Qui verbum Dei * rétinent corde perfécto et óptimo, fructum afférunt in patiéntia.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>They who keep * the word of God with a good and perfect heart, bring forth fruit in patience.</p>
+      <p:BodyE><sr>Ant. </s>They who keep * the word of God with a good and perfect heart, bring forth fruit in patience.</p>
      </td>
     </tr>
    </table>
@@ -436,10 +436,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Semen cécidit * in terram bonam, et áttulit fructum, áliud centésimum, et áliud sexagésimum.</p>
+      <p:BodyL><sr>Ant. </s>Semen cécidit * in terram bonam, et áttulit fructum, áliud centésimum, et áliud sexagésimum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The seed fell * upon good ground and brought forth fruit, some a hundredfold and some sixtyfold.</p>
+      <p:BodyE><sr>Ant. </s>The seed fell * upon good ground and brought forth fruit, some a hundredfold and some sixtyfold.</p>
      </td>
     </tr>
    </table>
@@ -463,10 +463,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Si vere, fratres, * dívites esse cúpitis, veras divítias amáte.</p>
+      <p:BodyL><sr>Ant. </s>Si vere, fratres, * dívites esse cúpitis, veras divítias amáte.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>If then, brethren, * ye seek to be rich, earnestly desire the true riches.</p>
+      <p:BodyE><sr>Ant. </s>If then, brethren, * ye seek to be rich, earnestly desire the true riches.</p>
      </td>
     </tr>
    </table>
@@ -495,10 +495,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vobis datum est * nosse mystérium regni Dei, céteris autem in parábolis, dixit Jesus discípulis suis.</p>
+      <p:BodyL><sr>Ant. </s>Vobis datum est * nosse mystérium regni Dei, céteris autem in parábolis, dixit Jesus discípulis suis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>“To you it is given * to know the mystery of the kingdom of God, but to the rest in parables,” said Jesus to his disciples.</p>
+      <p:BodyE><sr>Ant. </s>“To you it is given * to know the mystery of the kingdom of God, but to the rest in parables,” said Jesus to his disciples.</p>
      </td>
     </tr>
    </table>
@@ -521,10 +521,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Si culmen * veri honóris quæritis, ad illam cæléstem pátriam quantócius properáte.</p>
+      <p:BodyL><sr>Ant. </s>Si culmen * veri honóris quæritis, ad illam cæléstem pátriam quantócius properáte.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>If you seek the summit * of true honour, hasten with all speed to that heavenly country.</p>
+      <p:BodyE><sr>Ant. </s>If you seek the summit * of true honour, hasten with all speed to that heavenly country.</p>
      </td>
     </tr>
    </table>
@@ -535,10 +535,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Semen est * verbum Dei, sator autem Christus: omnis qui invénit eum, manébit in ætérnum.</p>
+      <p:BodyL><sr>Ant. </s>Semen est * verbum Dei, sator autem Christus: omnis qui invénit eum, manébit in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The seed is * the word of God, the sower is Christ: whoso findeth him, shall abide for ever.</p>
+      <p:BodyE><sr>Ant. </s>The seed is * the word of God, the sower is Christ: whoso findeth him, shall abide for ever.</p>
      </td>
     </tr>
    </table>
@@ -549,10 +549,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quod autem cécidit * in terram bonam, hi sunt, qui in corde bono et óptimo fructum áfferunt in patiéntia.</p>
+      <p:BodyL><sr>Ant. </s>Quod autem cécidit * in terram bonam, hi sunt, qui in corde bono et óptimo fructum áfferunt in patiéntia.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>But that which fell * on the good ground are these who, in a good and very good heart bring forth fruit in patience.</p>
+      <p:BodyE><sr>Ant. </s>But that which fell * on the good ground are these who, in a good and very good heart bring forth fruit in patience.</p>
      </td>
     </tr>
    </table>
@@ -563,10 +563,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Fecit Deus * poténtiam in bráchio suo: dispérsit supérbos mente cordis sui.</p>
+      <p:BodyL><sr>Ant. </s>Fecit Deus * poténtiam in bráchio suo: dispérsit supérbos mente cordis sui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>God hath shewed * might in his arm; he hath scattered the proud in the conceit of their heart.</p>
+      <p:BodyE><sr>Ant. </s>God hath shewed * might in his arm; he hath scattered the proud in the conceit of their heart.</p>
      </td>
     </tr>
    </table>
@@ -577,10 +577,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.</p>
+      <p:BodyL><sr>Ant. </s>Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord hath put down * the mighty from their seat, and hath exalted the humble.</p>
+      <p:BodyE><sr>Ant. </s>The Lord hath put down * the mighty from their seat, and hath exalted the humble.</p>
      </td>
     </tr>
    </table>
@@ -632,10 +632,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Pater fídei nostræ * Ábraham summus, óbtulit holocáustum super altáre pro fílio.</p>
+      <p:BodyL><sr>Ant. </s>Pater fídei nostræ * Ábraham summus, óbtulit holocáustum super altáre pro fílio.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The father of our faith, * the mighty Abraham, offered a burnt offering on the altar for his son.</p>
+      <p:BodyE><sr>Ant. </s>The father of our faith, * the mighty Abraham, offered a burnt offering on the altar for his son.</p>
      </td>
     </tr>
    </table>
@@ -645,10 +645,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Secúndum multitúdinem * miseratiónum tuárum, Dómine, dele iniquitátem meam.</p>
+      <p:BodyL><sr>Ant 1. </s>Secúndum multitúdinem * miseratiónum tuárum, Dómine, dele iniquitátem meam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>According to the multitude * of thy tender mercies, O Lord, blot out my iniquity.</p>
+      <p:BodyE><sr>Ant 1. </s>According to the multitude * of thy tender mercies, O Lord, blot out my iniquity.</p>
      </td>
     </tr>
    </table>
@@ -656,34 +656,34 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Deus meus es tu, * et confitébor tibi: Deus meus es tu, et exaltábo te.</p>
+      <p:BodyL><sr>Ant 2. </s>Deus meus es tu, * et confitébor tibi: Deus meus es tu, et exaltábo te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Thou art my God, * and I will praise thee: thou art my God, and I will exalt thee.</p>
+      <p:BodyE><sr>Ant 2. </s>Thou art my God, * and I will praise thee: thou art my God, and I will exalt thee.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Ad te de luce * vígilo, Deus, ut vídeam virtútem tuam.</p>
+      <p:BodyL><sr>Ant 3. </s>Ad te de luce * vígilo, Deus, ut vídeam virtútem tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>To thee do I watch * at break of day, O God, that I may see thy power.</p>
+      <p:BodyE><sr>Ant 3. </s>To thee do I watch * at break of day, O God, that I may see thy power.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Hymnum dícite, * et superexaltáte eum in sæcula.</p>
+      <p:BodyL><sr>Ant 4. </s>Hymnum dícite, * et superexaltáte eum in sæcula.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>Sing a hymn, * and exalt him above all for ever.</p>
+      <p:BodyE><sr>Ant 4. </s>Sing a hymn, * and exalt him above all for ever.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Omnes Ángeli * ejus, laudáte Dóminum de cælis.</p>
+      <p:BodyL><sr>Ant 5. </s>Omnes Ángeli * ejus, laudáte Dóminum de cælis.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>All his Angels, * praise ye the Lord from the heavens.</p>
+      <p:BodyE><sr>Ant 5. </s>All his Angels, * praise ye the Lord from the heavens.</p>
      </td>
     </tr>
    </table>
@@ -693,10 +693,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ecce ascéndimus * Jerosólymam, et consummabúntur ómnia, quæ scripta sunt de Fílio hóminis: tradétur enim Géntibus, et illudétur, et conspuétur: et postquam flagellavérunt, occídent eum, et tértia die resúrget.</p>
+      <p:BodyL><sr>Ant. </s>Ecce ascéndimus * Jerosólymam, et consummabúntur ómnia, quæ scripta sunt de Fílio hóminis: tradétur enim Géntibus, et illudétur, et conspuétur: et postquam flagellavérunt, occídent eum, et tértia die resúrget.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Behold we go up * to Jerusalem, and all things that are written by the Prophets concerning the Son of man shall be accomplished: for he shall be delivered unto the Gentiles, and shall be mocked and spit upon; and they shall scourge him, and put him to death, and on the third day he shall rise again.</p>
+      <p:BodyE><sr>Ant. </s>Behold we go up * to Jerusalem, and all things that are written by the Prophets concerning the Son of man shall be accomplished: for he shall be delivered unto the Gentiles, and shall be mocked and spit upon; and they shall scourge him, and put him to death, and on the third day he shall rise again.</p>
      </td>
     </tr>
    </table>
@@ -705,10 +705,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Iter faciénte * Jesu, dum appropinquáret Jéricho, cæcus clamábat ad eum, ut lumen recípere mererétur.</p>
+      <p:BodyL><sr>Ant. </s>Iter faciénte * Jesu, dum appropinquáret Jéricho, cæcus clamábat ad eum, ut lumen recípere mererétur.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>As Jesus was journeying, * when he came near to Jericho, a blind man cried to him, that he might receive his sight.</p>
+      <p:BodyE><sr>Ant. </s>As Jesus was journeying, * when he came near to Jericho, a blind man cried to him, that he might receive his sight.</p>
      </td>
     </tr>
    </table>
@@ -717,10 +717,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Transeúnte * Dómino, clamábat cæcus ad eum: Miserére mei, Fili David.</p>
+      <p:BodyL><sr>Ant. </s>Transeúnte * Dómino, clamábat cæcus ad eum: Miserére mei, Fili David.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>As the Lord * passed by, the blind man cried unto him: “Son of David, have mercy on me.”</p>
+      <p:BodyE><sr>Ant. </s>As the Lord * passed by, the blind man cried unto him: “Son of David, have mercy on me.”</p>
      </td>
     </tr>
    </table>
@@ -731,10 +731,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Et qui præíbant, * increpábant eum ut táceret: ipse vero multo magis clamábat: Miserére mei, Fili David.</p>
+      <p:BodyL><sr>Ant. </s>Et qui præíbant, * increpábant eum ut táceret: ipse vero multo magis clamábat: Miserére mei, Fili David.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>And many angrily * tried to silence him; but he cried out all the louder: “Son of David, have mercy on me.”</p>
+      <p:BodyE><sr>Ant. </s>And many angrily * tried to silence him; but he cried out all the louder: “Son of David, have mercy on me.”</p>
      </td>
     </tr>
    </table>
@@ -758,10 +758,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cæcus magis * ac magis clamábat, ut eum Dóminus illumináret.</p>
+      <p:BodyL><sr>Ant. </s>Cæcus magis * ac magis clamábat, ut eum Dóminus illumináret.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The blind man * cried out more and more, that the Lord would give him his sight.</p>
+      <p:BodyE><sr>Ant. </s>The blind man * cried out more and more, that the Lord would give him his sight.</p>
      </td>
     </tr>
    </table>
@@ -789,10 +789,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Stans autem Jesus, * jussit cæcum addúci ad se, et ait illi: Quid vis ut fáciam tibi? Dómine, ut vídeam. Et Jesus ait illi: Réspice, fides tua te salvum fecit. Et conféstim vidit, et sequebátur illum, magníficans Deum.</p>
+      <p:BodyL><sr>Ant. </s>Stans autem Jesus, * jussit cæcum addúci ad se, et ait illi: Quid vis ut fáciam tibi? Dómine, ut vídeam. Et Jesus ait illi: Réspice, fides tua te salvum fecit. Et conféstim vidit, et sequebátur illum, magníficans Deum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>But Jesus, standing, * commanded the blind man to be brought unto him, and saith to him: “What wilt thou that I should do unto thee?” “Lord, that I may see.” Jesus saith unto him: “Receive thy sight: thy faith has made thee whole.” And immediately he saw and followed him, glorifying God.</p>
+      <p:BodyE><sr>Ant. </s>But Jesus, standing, * commanded the blind man to be brought unto him, and saith to him: “What wilt thou that I should do unto thee?” “Lord, that I may see.” Jesus saith unto him: “Receive thy sight: thy faith has made thee whole.” And immediately he saw and followed him, glorifying God.</p>
      </td>
     </tr>
    </table>
@@ -815,10 +815,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Et qui præíbant, * increpábant eum ut táceret: ipse vero multo magis clamábat: Miserére mei, Fili David.</p>
+      <p:BodyL><sr>Ant. </s>Et qui præíbant, * increpábant eum ut táceret: ipse vero multo magis clamábat: Miserére mei, Fili David.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>And they that went before * rebuked him, that he should hold his peace. But he cried out so much the more: “Have mercy on me, thou Son of David.”</p>
+      <p:BodyE><sr>Ant. </s>And they that went before * rebuked him, that he should hold his peace. But he cried out so much the more: “Have mercy on me, thou Son of David.”</p>
      </td>
     </tr>
    </table>
@@ -829,10 +829,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Miserére mei, * Fili David. Quid vis ut fáciam tibi? Dómine, ut vídeam.</p>
+      <p:BodyL><sr>Ant. </s>Miserére mei, * Fili David. Quid vis ut fáciam tibi? Dómine, ut vídeam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Have mercy on me, * thou Son of David. What wouldst thou that I should do unto thee? Lord, that I may receive my sight.</p>
+      <p:BodyE><sr>Ant. </s>Have mercy on me, * thou Son of David. What wouldst thou that I should do unto thee? Lord, that I may receive my sight.</p>
      </td>
     </tr>
    </table>

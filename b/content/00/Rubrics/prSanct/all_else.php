@@ -1,6 +1,6 @@
    <p:Rubric>All else from Common of <?php 
 
-$ref1 = ', <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="';
+$ref1 = ', <snr>p. <text:bookmark-ref text:reference-format="page" text:ref-name="';
 $ref2 = '"/></s>.';
 
 if(strpos($link,'sApPT'))

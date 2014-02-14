@@ -4,7 +4,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Apostles</p>
-<?php bookmark('csAp'); ?>
+<?php echo bookmark('csAp'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Apostolorum':'Common of Apostles') 
 ?></p>
@@ -26,17 +26,17 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php ant('csApL.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('csApL.php','02222'); ?>
-<?php bookmark('csApLlc'); ?>
+<?php echo bookmark('csApLlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('eph2_19.php'); ?>
-<?php bookmark('exsultet_orbis_gaudiis'); ?>
+<?php echo bookmark('exsultet_orbis_gaudiis'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
 <?php hymn('exsultet_orbis_gaudiis.php'); ?>
 <?php vrS('annuntiaverunt_opera_dei.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('vos_qui_reliquistis_omnia.php','B'); ?>
    <p:BodySm/>
-<?php bookmark('PsComApLH'); ?>
+<?php echo bookmark('PsComApLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -62,7 +62,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php vrS('annuntiaverunt_opera_dei.php'); ?>
    <p:BodySm/>
 <?php rubrics('head/2Vespers.php'); ?>
-<?php bookmark('PsComAp'); ?>
+<?php echo bookmark('PsComAp'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('csApL.php','20000'); ?>
 <?php psalm('109.php'); ?>

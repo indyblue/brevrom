@@ -52,10 +52,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>In sanctitáte * et justítia serviérunt Dómino ómnibus diébus suis: ídeo stolam glóriæ índuit illos Dóminus, Deus Israël.</p>
+      <p:BodyL><sr>Ant. </s>In sanctitáte * et justítia serviérunt Dómino ómnibus diébus suis: ídeo stolam glóriæ índuit illos Dóminus, Deus Israël.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>In holiness * and justice they served the Lord all the days of their life; therefore the Lord, the God of Israel, clothed them with a robe of glory.</p>
+      <p:BodyE><sr>Ant. </s>In holiness * and justice they served the Lord all the days of their life; therefore the Lord, the God of Israel, clothed them with a robe of glory.</p>
      </td>
     </tr>
    </table>
@@ -85,10 +85,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Isti sunt * viri sancti facti amíci Dei, divínæ veritátis præconio gloriósi: linguæ eórum claves cæli factæ sunt.</p>
+      <p:BodyL><sr>Ant. </s>Isti sunt * viri sancti facti amíci Dei, divínæ veritátis præconio gloriósi: linguæ eórum claves cæli factæ sunt.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>These are * the holy men become the friends of God and made glorious by the preaching of divine truth; their tongues have become the keys of heaven.</p>
+      <p:BodyE><sr>Ant. </s>These are * the holy men become the friends of God and made glorious by the preaching of divine truth; their tongues have become the keys of heaven.</p>
      </td>
     </tr>
    </table>
@@ -144,10 +144,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tu glória Jerúsalem, * tu lætítia Israël, tu honorificéntia pópuli tui.</p>
+      <p:BodyL><sr>Ant. </s>Tu glória Jerúsalem, * tu lætítia Israël, tu honorificéntia pópuli tui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou art the glory of Jerusalem, * thou art the joy of Israel, thou art the honour of thy people.</p>
+      <p:BodyE><sr>Ant. </s>Thou art the glory of Jerusalem, * thou art the joy of Israel, thou art the honour of thy people.</p>
      </td>
     </tr>
    </table>
@@ -177,10 +177,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Elísabeth, * pacis et pátriæ mater, in cælo triúmphans, dona nobis pacem.</p>
+      <p:BodyL><sr>Ant. </s>Elísabeth, * pacis et pátriæ mater, in cælo triúmphans, dona nobis pacem.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Elizabeth, * mother of peace and of thy country, now triumphant in heaven, give us peace.</p>
+      <p:BodyE><sr>Ant. </s>Elizabeth, * mother of peace and of thy country, now triumphant in heaven, give us peace.</p>
      </td>
     </tr>
    </table>
@@ -215,10 +215,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
+      <p:BodyL><sr>Ant. </s>Qui odit * ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that hateth * his life in this world, keepeth it to life eternal.</p>
+      <p:BodyE><sr>Ant. </s>He that hateth * his life in this world, keepeth it to life eternal.</p>
      </td>
     </tr>
    </table>
@@ -271,10 +271,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vestri capílli cápitis * omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.</p>
+      <p:BodyL><sr>Ant. </s>Vestri capílli cápitis * omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The very hairs of your head * are all numbered; fear not: you are of more value than many sparrows.</p>
+      <p:BodyE><sr>Ant. </s>The very hairs of your head * are all numbered; fear not: you are of more value than many sparrows.</p>
      </td>
     </tr>
    </table>
@@ -351,10 +351,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Caput tuum * ut Carmélus, et comæ cápitis tui sicut púrpura Regis vincta canálibus, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Caput tuum * ut Carmélus, et comæ cápitis tui sicut púrpura Regis vincta canálibus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thy head * is like Carmel, and the hair of thy head as the purple of the king bound in the channel, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Thy head * is like Carmel, and the hair of thy head as the purple of the king bound in the channel, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -392,10 +392,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
+      <p:BodyL><sr>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Well done, good servant, * and faithful, because thou hast been faithful over a few things, enter thou into the joy of thy Lord.</p>
+      <p:BodyE><sr>Ant. </s>Well done, good servant, * and faithful, because thou hast been faithful over a few things, enter thou into the joy of thy Lord.</p>
      </td>
     </tr>
    </table>
@@ -447,10 +447,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Vestri capílli cápitis * omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.</p>
+      <p:BodyL><sr>Ant. </s>Vestri capílli cápitis * omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The very hairs of your head * are all numbered; fear not: you are of more value than many sparrows.</p>
+      <p:BodyE><sr>Ant. </s>The very hairs of your head * are all numbered; fear not: you are of more value than many sparrows.</p>
      </td>
     </tr>
    </table>
@@ -521,10 +521,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est regnum cælórum * hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
+      <p:BodyL><sr>Ant. </s>Símile est regnum cælórum * hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The kingdom of heaven is like to * a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
+      <p:BodyE><sr>Ant. </s>The kingdom of heaven is like to * a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
      </td>
     </tr>
    </table>

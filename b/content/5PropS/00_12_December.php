@@ -68,10 +68,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est regnum cælórum * hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
+      <p:BodyL><sr>Ant. </s>Símile est regnum cælórum * hómini negotiatóri quærénti bonas margarítas: invénta una pretiósa, dedit ómnia sua, et comparávit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The kingdom of heaven is like to * a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
+      <p:BodyE><sr>Ant. </s>The kingdom of heaven is like to * a merchant seeking good pearls: when he finds one pearl of great price, he gives all that he has and buys it.</p>
      </td>
     </tr>
    </table>
@@ -109,10 +109,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
+      <p:BodyL><sr>Ant. </s>Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Well done, good servant, * and faithful, because thou hast been faithful over a few things, enter thou into the joy of thy Lord.</p>
+      <p:BodyE><sr>Ant. </s>Well done, good servant, * and faithful, because thou hast been faithful over a few things, enter thou into the joy of thy Lord.</p>
      </td>
     </tr>
    </table>
@@ -237,10 +237,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Beátam me dicent * omnes generatiónes, quia fecit mihi magna qui potens est, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Beátam me dicent * omnes generatiónes, quia fecit mihi magna qui potens est, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>All generations * shall call me blessed, because he that is mighty, hath done great things to me, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>All generations * shall call me blessed, because he that is mighty, hath done great things to me, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -253,10 +253,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Tota pulchra * es, María, et mácula originális non est in te.</p>
+      <p:BodyL><sr>Ant 1. </s>Tota pulchra * es, María, et mácula originális non est in te.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>Thou art all fair, * O Mary, there is no spot of original sin in thee.</p>
+      <p:BodyE><sr>Ant 1. </s>Thou art all fair, * O Mary, there is no spot of original sin in thee.</p>
      </td>
     </tr>
    </table>
@@ -264,34 +264,34 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Vestiméntum tuum * cándidum quasi nix, et fácies tua sicut sol.</p>
+      <p:BodyL><sr>Ant 2. </s>Vestiméntum tuum * cándidum quasi nix, et fácies tua sicut sol.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>Thy raiment * is white as snow, and thy countenance as the sun.</p>
+      <p:BodyE><sr>Ant 2. </s>Thy raiment * is white as snow, and thy countenance as the sun.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Tu glória Jerúsalem, * tu lætítia Israël, tu honorificéntia pópuli nostri.</p>
+      <p:BodyL><sr>Ant 3. </s>Tu glória Jerúsalem, * tu lætítia Israël, tu honorificéntia pópuli nostri.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Thou art the glory of Jerusalem, * thou art the joy of Israel, thou art the honour of our people:</p>
+      <p:BodyE><sr>Ant 3. </s>Thou art the glory of Jerusalem, * thou art the joy of Israel, thou art the honour of our people:</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Benedícta es tu, * Virgo María, a Dómino Deo excélso præ ómnibus muliéribus super terram.</p>
+      <p:BodyL><sr>Ant 4. </s>Benedícta es tu, * Virgo María, a Dómino Deo excélso præ ómnibus muliéribus super terram.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>O Virgin Mary, * blessed art thou of the Most High God, above all the women upon the earth.</p>
+      <p:BodyE><sr>Ant 4. </s>O Virgin Mary, * blessed art thou of the Most High God, above all the women upon the earth.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Trahe nos, * Virgo immaculáta, post te currémus in odórem unguentórum tuórum.</p>
+      <p:BodyL><sr>Ant 5. </s>Trahe nos, * Virgo immaculáta, post te currémus in odórem unguentórum tuórum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Draw us, * Maiden undefiled, we will run after thee in the odour of thy perfumes.</p>
+      <p:BodyE><sr>Ant 5. </s>Draw us, * Maiden undefiled, we will run after thee in the odour of thy perfumes.</p>
      </td>
     </tr>
    </table>
@@ -301,10 +301,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ait Dóminus Deus * ad serpéntem: Inimicítias ponam inter te et mulíerem, et semen tuum et semen illíus: ipsa cónteret caput tuum, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Ait Dóminus Deus * ad serpéntem: Inimicítias ponam inter te et mulíerem, et semen tuum et semen illíus: ipsa cónteret caput tuum, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The Lord God said * to the serpent: I will put enmities between thee and the woman, and thy seed and her seed: she shall crush thy head, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>The Lord God said * to the serpent: I will put enmities between thee and the woman, and thy seed and her seed: she shall crush thy head, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -576,10 +576,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Hódie egréssa est * virga de radíce Jesse: hódie sine ulla peccáti labe concépta est María: hódie contrítum est ab ea caput serpéntis antíqui, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Hódie egréssa est * virga de radíce Jesse: hódie sine ulla peccáti labe concépta est María: hódie contrítum est ab ea caput serpéntis antíqui, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>This day is a rod * sprung from the root of Jesse: this day is Mary conceived without any stain of sin: this day hath she bruised the head of the old serpent, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>This day is a rod * sprung from the root of Jesse: this day is Mary conceived without any stain of sin: this day hath she bruised the head of the old serpent, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -596,10 +596,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
+      <p:BodyL><sr>Ant. </s>Qui odit ánimam suam in hoc mundo, in vitam ætérnam custódit eam.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>He that hateth his life in this world, keepeth it to life eternal.</p>
+      <p:BodyE><sr>Ant. </s>He that hateth his life in this world, keepeth it to life eternal.</p>
      </td>
     </tr>
    </table>
@@ -670,10 +670,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 1. </s>Orante sancta Lúcia, * appáruit ei beáta Ágatha, et consolabántur ancíllam Christi.</p>
+      <p:BodyL><sr>Ant 1. </s>Orante sancta Lúcia, * appáruit ei beáta Ágatha, et consolabántur ancíllam Christi.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 1. </s>While St. Lucy was praying, * the blessed Agatha appeared unto her, and consoled the handmaiden of Christ.</p>
+      <p:BodyE><sr>Ant 1. </s>While St. Lucy was praying, * the blessed Agatha appeared unto her, and consoled the handmaiden of Christ.</p>
      </td>
     </tr>
    </table>
@@ -681,34 +681,34 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 2. </s>Lúcia virgo, * quid a me petis quod ipsa póteris præstare contínuo matri tuæ?</p>
+      <p:BodyL><sr>Ant 2. </s>Lúcia virgo, * quid a me petis quod ipsa póteris præstare contínuo matri tuæ?</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 2. </s>O virgin Lucy, * wherefore askest thou of me what thou canst thyself forwith obtain for thy mother?</p>
+      <p:BodyE><sr>Ant 2. </s>O virgin Lucy, * wherefore askest thou of me what thou canst thyself forwith obtain for thy mother?</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 3. </s>Per te, Lúcia virgo, * cívitas Syracusána decorábitur a Dómino Jesu Christo.</p>
+      <p:BodyL><sr>Ant 3. </s>Per te, Lúcia virgo, * cívitas Syracusána decorábitur a Dómino Jesu Christo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 3. </s>Through thee, O virgin Lucy, * the city of Syracuse shall be made glorious by the Lord Jesus Christ.</p>
+      <p:BodyE><sr>Ant 3. </s>Through thee, O virgin Lucy, * the city of Syracuse shall be made glorious by the Lord Jesus Christ.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 4. </s>Benedíco te, * Pater Dómini mei Jesu Christi, quia per Fílium tuum ignis exstínctus est a látere meo.</p>
+      <p:BodyL><sr>Ant 4. </s>Benedíco te, * Pater Dómini mei Jesu Christi, quia per Fílium tuum ignis exstínctus est a látere meo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 4. </s>I bless thee, * O Father of my Lord Jesus Christ, for through thy Son the fire was extinguished round about me.</p>
+      <p:BodyE><sr>Ant 4. </s>I bless thee, * O Father of my Lord Jesus Christ, for through thy Son the fire was extinguished round about me.</p>
      </td>
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant 5. </s>Soror mea, Lúcia, * virgo Deo devóta, quid a me petis, quod ipsa póteris præstare contínuo matri tuæ?</p>
+      <p:BodyL><sr>Ant 5. </s>Soror mea, Lúcia, * virgo Deo devóta, quid a me petis, quod ipsa póteris præstare contínuo matri tuæ?</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant 5. </s>Lucy my sister, * thou virgin consecrated to God, wherefore askest thou of me what thou canst thyself forthwith obtain for thy mother?</p>
+      <p:BodyE><sr>Ant 5. </s>Lucy my sister, * thou virgin consecrated to God, wherefore askest thou of me what thou canst thyself forthwith obtain for thy mother?</p>
      </td>
     </tr>
    </table>
@@ -717,10 +717,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Colúmna es * immóbilis, Lúcia, sponsa Christi: quia omnis plebs te exspéctat, ut accípias corónam vitæ, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Colúmna es * immóbilis, Lúcia, sponsa Christi: quia omnis plebs te exspéctat, ut accípias corónam vitæ, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Thou art become as a pillar * that cannot be shaken, Lucy, O Bride of Christ: all the people wait for thee, until thou receive the crown of life, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>Thou art become as a pillar * that cannot be shaken, Lucy, O Bride of Christ: all the people wait for thee, until thou receive the crown of life, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -738,10 +738,10 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Tanto póndere * eam fixit Spíritus Sanctus, ut Virgo Christi immóbilis permanéret.</p>
+      <p:BodyL><sr>Ant. </s>Tanto póndere * eam fixit Spíritus Sanctus, ut Virgo Christi immóbilis permanéret.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>With such power * did the Holy Spirit fix her to the ground, that the virgin of Christ remained immovable.</p>
+      <p:BodyE><sr>Ant. </s>With such power * did the Holy Spirit fix her to the ground, that the virgin of Christ remained immovable.</p>
      </td>
     </tr>
    </table>
@@ -785,14 +785,14 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <p:RubricH>All as in Common of Apostles, except the following antiphon, which is said at the <s:NonRubric>Benedictus </s>in Lauds, and the <s:NonRubric>Magnificat </s>in Vespers:</p>
+   <p:RubricH>All as in Common of Apostles, except the following antiphon, which is said at the <snr>Benedictus </s>in Lauds, and the <snr>Magnificat </s>in Vespers:</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Quia vidísti me, * Thoma, credidísti: beáti qui non vidérunt, et credidérunt, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Quia vidísti me, * Thoma, credidísti: beáti qui non vidérunt, et credidérunt, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Because thou hast seen me, * Thomas, thou hast believed: blessed are they that have not seen and have believed.</p>
+      <p:BodyE><sr>Ant. </s>Because thou hast seen me, * Thomas, thou hast believed: blessed are they that have not seen and have believed.</p>
      </td>
     </tr>
    </table>

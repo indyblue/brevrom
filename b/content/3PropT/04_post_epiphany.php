@@ -32,10 +32,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Núptiæ factæ sunt * in Cana Galilææ, et erat ibi Jesus cum María matre sua.</p>
+      <p:BodyL><sr>Ant. </s>Núptiæ factæ sunt * in Cana Galilææ, et erat ibi Jesus cum María matre sua.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>There was a marriage * in Cana of Galilee: and Jesus was there, with Mary, his mother.</p>
+      <p:BodyE><sr>Ant. </s>There was a marriage * in Cana of Galilee: and Jesus was there, with Mary, his mother.</p>
      </td>
     </tr>
    </table>
@@ -45,10 +45,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Deficiénte vino, * jussit Jesus impléri hydrias aqua, quæ in vinum convérsum est, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Deficiénte vino, * jussit Jesus impléri hydrias aqua, quæ in vinum convérsum est, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The wine failing, * Jesus commanded the water pots to be filled with water, which was changed into wine, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>The wine failing, * Jesus commanded the water pots to be filled with water, which was changed into wine, alleluia.</p>
      </td>
     </tr>
    </table>
@@ -82,10 +82,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Cum descendísset Jesus * de monte, ecce leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre: et exténdens manum, tétigit eum, dicens: Volo, mundáre.</p>
+      <p:BodyL><sr>Ant. </s>Cum descendísset Jesus * de monte, ecce leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre: et exténdens manum, tétigit eum, dicens: Volo, mundáre.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>when Jesus was come down * from the mountain, behold a leper came and adored him, saying: Lord, if thou wilt, thou canst make me clean: and stretching forth his hand, touched him, saying: I will, be thou made clean.</p>
+      <p:BodyE><sr>Ant. </s>when Jesus was come down * from the mountain, behold a leper came and adored him, saying: Lord, if thou wilt, thou canst make me clean: and stretching forth his hand, touched him, saying: I will, be thou made clean.</p>
      </td>
     </tr>
    </table>
@@ -96,10 +96,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, * si vis, potes me mundáre: et exténdens manum, tétigit eum, dicens: Volo, mundáre.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, * si vis, potes me mundáre: et exténdens manum, tétigit eum, dicens: Volo, mundáre.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lord, if thou wilt, thou canst make me clean: And stretching forth his hand, touched him, saying: I will, be thou made clean.</p>
+      <p:BodyE><sr>Ant. </s>Lord, if thou wilt, thou canst make me clean: And stretching forth his hand, touched him, saying: I will, be thou made clean.</p>
      </td>
     </tr>
    </table>
@@ -132,10 +132,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Ascendénte Jesu * in navículam, ecce motus magnus factus est in mari: et suscitavérunt eum discípuli ejus, dicéntes: Dómine, salva nos, perímus.</p>
+      <p:BodyL><sr>Ant. </s>Ascendénte Jesu * in navículam, ecce motus magnus factus est in mari: et suscitavérunt eum discípuli ejus, dicéntes: Dómine, salva nos, perímus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>When Jesus entered * into the boat, behold a great tempest arose in the sea: and his disciples awaked him, saying: Lord, save us, we perish.</p>
+      <p:BodyE><sr>Ant. </s>When Jesus entered * into the boat, behold a great tempest arose in the sea: and his disciples awaked him, saying: Lord, save us, we perish.</p>
      </td>
     </tr>
    </table>
@@ -146,10 +146,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, salva nos, * perímus: ímpera, et fac, Deus, tranquillitátem</p>
+      <p:BodyL><sr>Ant. </s>Dómine, salva nos, * perímus: ímpera, et fac, Deus, tranquillitátem</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Lord, save us, we perish: command, O God, and make a great calm.</p>
+      <p:BodyE><sr>Ant. </s>Lord, save us, we perish: command, O God, and make a great calm.</p>
      </td>
     </tr>
    </table>
@@ -182,10 +182,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Dómine, * nonne bonum semen seminásti in agro tuo? unde ergo habet zizánia? et ait illis: hoc fecit inimícus homo.</p>
+      <p:BodyL><sr>Ant. </s>Dómine, * nonne bonum semen seminásti in agro tuo? unde ergo habet zizánia? et ait illis: hoc fecit inimícus homo.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Sir, * didst thou not sow good seed in thy field? whence then hath it cockle? And he said to them: An enemy hath done this.</p>
+      <p:BodyE><sr>Ant. </s>Sir, * didst thou not sow good seed in thy field? whence then hath it cockle? And he said to them: An enemy hath done this.</p>
      </td>
     </tr>
    </table>
@@ -196,10 +196,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Collígite * primum zizánia, et alligáte ea in fascículos ad comburéndum: tríticum autem congregáte in hórreum meum, dicit Dóminus.</p>
+      <p:BodyL><sr>Ant. </s>Collígite * primum zizánia, et alligáte ea in fascículos ad comburéndum: tríticum autem congregáte in hórreum meum, dicit Dóminus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>Gather up * first the cockle, and bind it into bundles to burn, but the wheat gather ye into my barn, saith the Lord.</p>
+      <p:BodyE><sr>Ant. </s>Gather up * first the cockle, and bind it into bundles to burn, but the wheat gather ye into my barn, saith the Lord.</p>
      </td>
     </tr>
    </table>
@@ -232,10 +232,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est * regnum cælórum grano sinápis, quod mínimum est ómnibus semínibus: cum autem créverit, majus est ómnibus oléribus.</p>
+      <p:BodyL><sr>Ant. </s>Símile est * regnum cælórum grano sinápis, quod mínimum est ómnibus semínibus: cum autem créverit, majus est ómnibus oléribus.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The kingdom of heaven * is like to a grain of mustard seed, which is the least indeed of all seeds; but when it is grown up, it is greater than all herbs.</p>
+      <p:BodyE><sr>Ant. </s>The kingdom of heaven * is like to a grain of mustard seed, which is the least indeed of all seeds; but when it is grown up, it is greater than all herbs.</p>
      </td>
     </tr>
    </table>
@@ -246,10 +246,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>Ant. </s>Símile est * regnum cælórum ferménto, quod accéptum múlier abscóndit in farínæ satis tribus, donec fermentátum est totum.</p>
+      <p:BodyL><sr>Ant. </s>Símile est * regnum cælórum ferménto, quod accéptum múlier abscóndit in farínæ satis tribus, donec fermentátum est totum.</p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>Ant. </s>The kingdom of heaven * is like to leaven, which a woman took and hid in three measures of meal, until the whole was leavened.</p>
+      <p:BodyE><sr>Ant. </s>The kingdom of heaven * is like to leaven, which a woman took and hid in three measures of meal, until the whole was leavened.</p>
      </td>
     </tr>
    </table>

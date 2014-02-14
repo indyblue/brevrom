@@ -6,5 +6,5 @@ Córpora Sanctórum * in pace sepúlta sunt, et vivent nómina eórum in ætérn
 The bodies of the Saints * are buried in peace, and their names shall live for evermore.
 Mártyres Dómini, * Dóminum benedícite in ætérnum.
 O ye Martyrs of the Lord, * bless ye the Lord for ever and ever.
-Mártyrum chorus, * laudáte Dóminum de cælis, <s:Rubric>(</s>allelúja<s:Rubric>)</s>.
-O choir of Martyrs, * praise ye the Lord from the heavens, <s:Rubric>(</s>alleluia<s:Rubric>)</s>.
+Mártyrum chorus, * laudáte Dóminum de cælis, <sr>(</s>allelúja<sr>)</s>.
+O choir of Martyrs, * praise ye the Lord from the heavens, <sr>(</s>alleluia<sr>)</s>.

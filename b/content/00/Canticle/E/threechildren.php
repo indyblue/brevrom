@@ -18,7 +18,7 @@ O let Israel bless the Lord: * let them praise and exalt him above all for ever.
 O ye priests of the Lord, bless the Lord: * O ye servants of the Lord, bless the Lord.
 O ye spirits and souls of the just, bless the Lord: * O ye holy and humble of heart, bless the Lord.
 O Ananias, Azarias, and Misael, bless ye the Lord: * praise and exalt him above all for ever.
-<s:Rubric>(All bow:)</s>
+<sr>(All bow:)</s>
 Let us bless the Father and the Son, with the Holy Ghost; * let us praise and exalt him above all for ever.
 Blessed art thou, O Lord, <text:s/>in the firmament of heaven: * and worthy of praise, and glorious for ever.
 Hic non dicitur Glória Patri, neque Amen.

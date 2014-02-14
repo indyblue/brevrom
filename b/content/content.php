@@ -2,14 +2,14 @@
 require '001_start.php';
 /*
 !!!!!!BACKUP BEFORE USING!!!!!!!!
-set backup | set nomore | ar *.php *\*.php *\*\*.php *\*\*\*.php
+set backup | set nomore | ar *.php *\*.php *\*\*.php *\*\*\*.php *\*\*\*\*.php *\*\*\*\*\*.php
 ar *.php~ *\*.php~ *\*\*.php~ *\*\*\*.php~
 redir >das.txt | argdo g/\vBodyL.*\v\c<(<u|\w*[b-pr-zæœ]u|\w*[aeioyæœ]){3,}\w*>
 g/E486/-2,d
 g/lines,/d
 %s/<[^>]*>/<>/ig
 
-s/^.*bookmark[^"]*"\([^"]*\).*$/<%php bookmark(\'\1\'); %>/
+s/^.*bookmark[^"]*"\([^"]*\).*$/<%php echo bookmark(\'\1\'); %>/
 
 Check for whitespace and bad accents:
 (Some whitespace is necessary in Prayers!!!!)

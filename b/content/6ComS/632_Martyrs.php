@@ -3,7 +3,7 @@
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Several Martyrs</p>
-<?php bookmark('csMm'); ?>
+<?php echo bookmark('csMm'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Commune Plurimorum Martyrum':'Common of Several Martyrs') 
 ?></p>
@@ -37,14 +37,14 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php ant('csMmL.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('wis3_1.php'); ?>
-<?php bookmark('csMmLh'); ?>
+<?php echo bookmark('csMmLh'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
 <?php hymn('rex_gloriose_martyrum.php'); ?>
 <?php vrS('exultabunt_sancti_in_gloria.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('vestri_capilli_capitis_omnes_numerati_sunt.php','B'); ?>
 	<p:BodySm/>
-<?php bookmark('csMmLH'); ?>
+<?php echo bookmark('csMmLH'); ?>
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('cs/LittleHours.php'); ?>
    <p:BodySm/>
@@ -72,7 +72,7 @@ echo ($_GET['L']==1?'extra Tempus Paschale':'outside Paschaltide')
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV115.php'); ?>
-<?php bookmark('csMVlc'); ?>
+<?php echo bookmark('csMVlc'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('wis3_1.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

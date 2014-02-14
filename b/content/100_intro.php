@@ -14,10 +14,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Dómine, in unióne illíus divínæ intentiónis, qua ipse in terris laudes Deo persolvísti, has tibi Horas <s:Rubric>(vel </s>hanc tibi Horam<s:Rubric>)</s> persólvo.</p>
+      <p:BodyLIndent>Dómine, in unióne illíus divínæ intentiónis, qua ipse in terris laudes Deo persolvísti, has tibi Horas <sr>(vel </s>hanc tibi Horam<sr>)</s> persólvo.</p>
      </td>
      <td:B1>
-      <p:BodyEIndent>O Lord, in union with that Divine Intention wherewith thou didst thyself praise God, while as thou wast on earth, I offer these Hours <s:Rubric>(or </s>this Hour<s:Rubric>)</s> unto thee.</p>
+      <p:BodyEIndent>O Lord, in union with that Divine Intention wherewith thou didst thyself praise God, while as thou wast on earth, I offer these Hours <sr>(or </s>this Hour<sr>)</s> unto thee.</p>
      </td>
     </tr>
     <tr>
@@ -97,17 +97,17 @@
    <p:P1/>
    <p:Head1NI>Common Forms</p>
    <p:Head2>Salutations</p>
-<?php bookmark('vrDominusVobiscum'); ?>
+<?php echo bookmark('vrDominusVobiscum'); ?>
 <?php vr('domine_exaudi.php',1); ?>
 	<p:Head2>The Collect</p>
    <p:RubricH>To a Prayer addressed to God the Father:</p>
    <table>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Per <s:Rubric>[eúmdem]</s> Dóminum nostrum, Jesum Christum, Fílium tuum, qui tecum vivit et regnat, in unitáte <s:Rubric>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sæcula sæculórum.</p>
+      <p:BodyLIndent>Per <sr>[eúmdem]</s> Dóminum nostrum, Jesum Christum, Fílium tuum, qui tecum vivit et regnat, in unitáte <sr>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sæcula sæculórum.</p>
      </td>
      <td:B1>
-      <p:BodyEIndent>Through <s:Rubric>[the same] </s>our Lord Jesus Christ, thy Son, who liveth and reigneth with thee in the unity of the <s:Rubric>[same] </s>Holy Spirit, one God, world without end.</p>
+      <p:BodyEIndent>Through <sr>[the same] </s>our Lord Jesus Christ, thy Son, who liveth and reigneth with thee in the unity of the <sr>[same] </s>Holy Spirit, one God, world without end.</p>
      </td>
     </tr>
    </table>
@@ -115,10 +115,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Qui tecum vivit et regnat in unitáte <s:Rubric>[ejúsdem]</s> Spíritus Sancti, Deus per ómnia sæcula sæculórum.</p>
+      <p:BodyLIndent>Qui tecum vivit et regnat in unitáte <sr>[ejúsdem]</s> Spíritus Sancti, Deus per ómnia sæcula sæculórum.</p>
      </td>
      <td:B1>
-      <p:BodyEIndent>Who liveth and reigneth with thee in the unity of the <s:Rubric>[same]</s> Holy Spirit, one God, world without end.</p>
+      <p:BodyEIndent>Who liveth and reigneth with thee in the unity of the <sr>[same]</s> Holy Spirit, one God, world without end.</p>
      </td>
     </tr>
    </table>
@@ -126,10 +126,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLIndent>Qui vivis et regnas cum Deo Patre, in unitáte <s:Rubric>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sæcula sæculórum.</p>
+      <p:BodyLIndent>Qui vivis et regnas cum Deo Patre, in unitáte <sr>[ejúsdem]</s> Spíritus Sancti Deus, per ómnia sæcula sæculórum.</p>
      </td>
      <td:B1>
-      <p:BodyEIndent>Who livest and reignest with God the Father in the unity of the <s:Rubric>[same]</s> Holy Spirit, one God, world without end.</p>
+      <p:BodyEIndent>Who livest and reignest with God the Father in the unity of the <sr>[same]</s> Holy Spirit, one God, world without end.</p>
      </td>
     </tr>
    </table>
@@ -138,11 +138,11 @@
     <tr>
      <td:A1>
       <p:BodyL><s:VR>V. </s>Glória Patri, et Fílio, et Spirítui Sancto.</p>
-      <p:BodyL><s:VR>R. </s>Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Amen. <s:Rubric>(</s>Allelúia<s:Rubric>)</s></p>
+      <p:BodyL><s:VR>R. </s>Sicut erat in princípio, et nunc, et semper, et in sæcula sæculórum. Amen. <sr>(</s>Allelúia<sr>)</s></p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Glory be to the Father, and to the Son, and to the Holy Spirit.</p>
-      <p:BodyE><s:VR>R. </s>As it was in the beginning, is now, and ever shall be, world without end. Amen. <s:Rubric>(</s>Alleluia<s:Rubric>)</s></p>
+      <p:BodyE><s:VR>R. </s>As it was in the beginning, is now, and ever shall be, world without end. Amen. <sr>(</s>Alleluia<sr>)</s></p>
      </td>
     </tr>
    </table>

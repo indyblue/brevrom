@@ -45,7 +45,7 @@
       <p:Body/>
      </td>
      <table:table-cell table:style-name="TableKalendar.A1" office:value-type="string">
-      <p:Body>The Holy Name of Jesus, II cl. <s:Rubric>(Sunday between the Octave day of Christmas and Epiphany, or Jan. 2, if no Sunday occurs)</s></p>
+      <p:Body>The Holy Name of Jesus, II cl. <sr>(Sunday between the Octave day of Christmas and Epiphany, or Jan. 2, if no Sunday occurs)</s></p>
      </td>
     </tr>
     <table:table-row table:style-name="TableKalendar.1">
@@ -1965,7 +1965,7 @@
       <p:Body/>
      </td>
      <table:table-cell table:style-name="TableKalendar.A1" office:value-type="string">
-      <p:Body><s:Rubric>Last Sunday of Oct. </s>- Feast of Our Lord Jesus Christ the King, I cl.</p>
+      <p:Body><sr>Last Sunday of Oct. </s>- Feast of Our Lord Jesus Christ the King, I cl.</p>
      </td>
     </tr>
    </table>
@@ -2284,7 +2284,7 @@
       <p:Body>25</p>
      </td>
      <table:table-cell table:style-name="TableKalendar.A1" office:value-type="string">
-      <p:Body>Christmas Day, I cl. — St. Anastasia, M., Cm. <s:Rubric>(In second Mass)</s></p>
+      <p:Body>Christmas Day, I cl. — St. Anastasia, M., Cm. <sr>(In second Mass)</s></p>
      </td>
     </tr>
     <table:table-row table:style-name="TableKalendar.1">

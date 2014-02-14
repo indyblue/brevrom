@@ -27,10 +27,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:Rubric>quod dícitur a solo Hebdomadário totum clara voce, usque ad:</s></p>
+      <p:BodyL><sr>quod dícitur a solo Hebdomadário totum clara voce, usque ad:</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:Rubric>And the whole is said aloud by the Officiant through:</s></p>
+      <p:BodyE><sr>And the whole is said aloud by the Officiant through:</s></p>
      </td>
     </tr>
     <tr>
@@ -115,10 +115,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Orémus pro beatíssimo Papa nostro <s:Rubric>N.</s></p>
+      <p:BodyL><s:VR>V. </s>Orémus pro beatíssimo Papa nostro <sr>N.</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us pray for our most blessed Pope <s:Rubric>N.</s></p>
+      <p:BodyE><s:VR>V. </s>Let us pray for our most blessed Pope <sr>N.</s></p>
      </td>
     </tr>
     <tr>
@@ -131,10 +131,10 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Orémus et pro Antístite nostro <s:Rubric>N.</s></p>
+      <p:BodyL><s:VR>V. </s>Orémus et pro Antístite nostro <sr>N.</s></p>
      </td>
      <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us pray also for our Bishop <s:Rubric>N.</s></p>
+      <p:BodyE><s:VR>V. </s>Let us pray also for our Bishop <sr>N.</s></p>
      </td>
     </tr>
     <tr>
@@ -354,5 +354,5 @@
      </td>
     </tr>
    </table>
-   <p:BodySm><s:Rubric>The </s>Dómine, exáudi<s:Rubric> is not repeated before the Collect if the preces are said.</s></p>
+   <p:BodySm><sr>The </s>Dómine, exáudi<sr> is not repeated before the Collect if the preces are said.</s></p>
 
