@@ -1,4 +1,3 @@
-...
-O God, you mercifully deign to bestow on us in the Heart of thy Son, wounded by our sins, an infinite treasure of love; grant, we beseech thee, that rendering it the devout homage of our affection, we may also make a worthy reparation for our sins. Through the same.
+O God, who in the Heart of thy Son, wounded by our sins, dost mercifully bestow on us infinite treasures of love: grant, we beseech thee, that whilst we render it the devout homage of our affection, we may also fulfil our duty of worthy satisfaction. Through the same.
 
-> ???
+> Laverty
