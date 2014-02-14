@@ -2,7 +2,7 @@
    <p:BodySm/>
 <?php headSt('Aug. 29',3,'in Decollatione S. Joannis Baptistæ','The Beheading of St. John the Baptist','Virgin, Martyr'); ?>
 
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php ant('prSanct/0829L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('prSanct/0829L.php','02222'); ?>
@@ -22,7 +22,7 @@
 <?php rubrics('prSanct/horas_from.php','csMLH',3); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV115.php'); ?>
 <?php rubrics('asIn.php','csMVlc','II Vespers of the Common of One Martyr','Little Chapter &amp; Hymn <snr>Deus tuórum mílitum</s>'); ?>

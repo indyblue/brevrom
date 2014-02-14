@@ -3,7 +3,7 @@
 	img('Saints/0501_st_joseph_patron_of_church.tif',100);
 	headSt('501',1,'S. Joseph Opificis',
 		'St. Joseph the Workman','Conf., Spouse of the B.V.M.');
-	rubrics('head/1Vespers.php');
+	hour('1V');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
 	rubrics('head/LittleChapter.php');
@@ -17,7 +17,7 @@
 	rubrics('prSanct/ComplineSun.php');
 	
 	space();
-	rubrics('head/Lauds.php');
+	hour('L');
 	ant('prSanct/0501L.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('prSanct/0501L.php','02222');
@@ -34,7 +34,7 @@
 	space();
 	rubrics('prSanct/1classLittleHours.php');
 
-	rubrics('head/Terce.php');
+	hour('T');
 	rubrics('head/LittleChapter.php');
 	lc('col3_14.php');
 	rubrics('head/BriefRespond.php');
@@ -42,7 +42,7 @@
 	vrS('prSanct/o_magnam_dignitatem_laboris.php',1);
 	
 	space();
-	rubrics('head/Sext.php');
+	hour('S');
 	rubrics('head/LittleChapter.php');
 	lc('col3_17.php');
 	rubrics('head/BriefRespond.php');
@@ -50,7 +50,7 @@
 	vrS('prSanct/verbum_dei_per_quod_facta_sunt_omnia.php',1);
 
 	space();
-	rubrics('head/None.php');
+	hour('N');
 	rubrics('head/LittleChapter.php');
 	lc('col3_23.php');
 	rubrics('head/BriefRespond.php');
@@ -58,7 +58,7 @@
 	vrS('prSanct/ora_pro_nobis_sancte_joseph.php',1);
 
 	space();
-	rubrics('head/2Vespers.php');
+	hour('2V');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
 	rubrics('head/LittleChapter.php');

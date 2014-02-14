@@ -1,7 +1,7 @@
 <?php img(); ?>
 	<p:BodySm/>
 <?php headSt('Oct. 2',3,'Ss. Angelorum Custodum','The Holy Guardian Angels'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/1002L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -19,28 +19,28 @@
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>
 	<p:BodySm/>
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('exod23_20.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/stetit_angelus_juxta_aram_templi.php'); ?>
 <?php vrS('prSanct/ascendit_fumus_aromatum_in_conspectu_domini.php'); ?>
    <p:BodySm/>
-<?php rubrics('head/Sext.php'); ?>
+<?php hour('S'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('exod23_21.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/ascendit_fumus_aromatum_in_conspectu_domini.php'); ?>
 <?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
    <p:BodySm/>
-<?php rubrics('head/None.php'); ?>
+<?php hour('N'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('exod23_22.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
 <?php vrS('prSanct/adorate_deum_omnes_angeli_ejus.php'); ?>
    <p:BodySm/>
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV137.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>

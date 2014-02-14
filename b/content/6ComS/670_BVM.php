@@ -9,7 +9,6 @@
 		'Common of Saints','Bl. Virgin Mary');
 
 	hour('L');
-	rubrics('head/Psalms.php');
 	ant('csBVML.php','20000',2);
 	rubrics('ps/SuL1.php');
 	ant('csBVML.php','02222',2);
@@ -61,7 +60,7 @@
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',0,1);
 	space();
 
-	rubrics('head/Vespers.php');
+	hour('V');
 	bookmark('PsComBVM');
 	ant('csBVML.php','20000');
 	psalm('109.php');

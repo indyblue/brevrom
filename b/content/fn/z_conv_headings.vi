@@ -1,0 +1,5 @@
+ar *.php | set nomore 
+
+----- change all hour headings -----
+argdo %s/rubrics('head\/Lauds.php')/hour('L')/e | %s/rubrics('head\/Prime.php')/hour('P')/e | %s/rubrics('head\/Terce.php')/hour('T')/e | %s/rubrics('head\/Sext.php')/hour('S')/e | %s/rubrics('head\/None.php')/hour('N')/e | %s/rubrics('head\/Vespers.php')/hour('V')/e | %s/rubrics('head\/1Vespers.php')/hour('1V')/e  | %s/rubrics('head\/2Vespers.php')/hour('2V')/e | %s/rubrics('head\/Compline.php')/hour('C')/e |w
+

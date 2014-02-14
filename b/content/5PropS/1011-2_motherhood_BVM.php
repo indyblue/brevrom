@@ -1,7 +1,7 @@
 <?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Oct. 11',2,'Maternitatis B. Mariæ Virg.','Motherhood of the B.V.M.'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/1011L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -23,7 +23,7 @@
 <?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_12.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -34,7 +34,7 @@
 <?php rubrics('prSanct/sext_none_from.php','csBVMS'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>

@@ -1,7 +1,7 @@
 <?php img(); ?>
    <p:BodySm/>
 <?php headSt('Nov. 11',3,'Sancti Martini','Saint Martin','Bishop, Conf.'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php ant('prSanct/1111L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('prSanct/1111L.php','02222'); ?>
@@ -21,7 +21,7 @@
 <?php rubrics('prSanct/horas_from.php','csCBLH',3); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV131.php'); ?>
 <?php rubrics('asIn.php','csCBVlc','II Vespers of the Common of Confessor Bishops','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>'); ?>

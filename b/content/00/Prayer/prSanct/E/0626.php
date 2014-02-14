@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that we may experience the twofold joy which flows down on this festival from the glory of blessed John and Paul, whom one faith and one martyrdom made to be true brothers. Through our Lord.

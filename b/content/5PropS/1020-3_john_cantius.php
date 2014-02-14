@@ -1,7 +1,7 @@
 <?php img(); ?>
    <p:BodySm/>
 <?php headSt('Oct. 20',3,'S. Joannis Cantii','St. John Cantius','Confessor'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('ps/Feria.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus31_8.php'); ?>
@@ -17,7 +17,7 @@
 <?php rubrics('prSanct/horas_from.php','csCLH',3); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/Feria.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus31_8.php'); ?>

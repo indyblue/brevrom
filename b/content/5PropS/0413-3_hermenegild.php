@@ -6,7 +6,7 @@
 	rubrics('ps/feria.php');	
 	rubrics('prSanct/all_else.php','csApPT');
 
-	rubrics('head/Lauds.php');
+	hour('L');
 	rubrics('head/HymnVerse.php');
 	hymn('nullis_te_genitor_blanditiis_trahit.php');
 	rubrics('prSanct/comm_nonPT_mart.php');
@@ -14,7 +14,7 @@
 	prayer('prSanct/0413.php'); 
 
 	space();
-	rubrics('head/Vespers.php'); 
+	hour('V'); 
 	rubrics('head/HymnVerse.php');
 	hymn('regali_solio_fortis_iberiae.php');
 

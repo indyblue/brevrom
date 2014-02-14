@@ -5,7 +5,7 @@
 		'Annunciation of the B.V.M.');
 	rubrics('prSanct/all_from.php','csBVM');
 
-	rubrics('head/1Vespers.php'); 
+	hour('1V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
 	lc('is7_14-15.php');
@@ -17,7 +17,7 @@
 	rubrics('prSanct/ComplineSun.php'); 
 // -----------------------------------------	
 	space();
-	rubrics('head/Lauds.php'); 
+	hour('L'); 
 	ant('prSanct/0325L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0325L.php','02222'); 
@@ -36,7 +36,7 @@
 	rubrics('prSanct/1classLittleHours.php'); 
 	PrV('qui_natus_es_de_maria_virgine.php'); 
 
-	rubrics('head/Terce.php'); 
+	hour('T'); 
 	lc('is7_14-15.php');
 	rubrics('head/PTnot.php'); 
 	brS('specie_tua_et_pulcritudine_tua.php'); 
@@ -46,7 +46,7 @@
 	vrS('adjuvabit_eam_deus_vultu_suo.php',0,1); 
 	
 	space();
-	rubrics('head/Sext.php'); 
+	hour('S'); 
 	lc('luke1_32-33.php'); 
 	rubrics('head/PTnot.php'); 
 	brS('adjuvabit_eam_deus_vultu_suo.php'); 
@@ -56,7 +56,7 @@
 	vrS('elegit_eam_deus_et_praeelegit_eam.php',0,1); 
 
 	space();
-	rubrics('head/None.php'); 
+	hour('N'); 
 	lc('is11_1-2.php'); 
 	rubrics('head/PTnot.php'); 
 	brS('elegit_eam_deus_et_praeelegit_eam.php'); 
@@ -66,7 +66,7 @@
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',0,1); 
 
 	space();
-	rubrics('head/2Vespers.php'); 
+	hour('2V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
 	rubrics('head/LittleChapter.php'); 

@@ -2,7 +2,7 @@
 	<p:BodySm/>
 <?php headSt('Nov. 30',2,'Sancti Andreæ','Saint Andrew','Apostle'); ?>
    <p:BodySm/>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/1130L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -20,7 +20,7 @@
 <?php rubrics('ps/Feria.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('rom10_10.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -28,7 +28,7 @@
 <?php vrS('constitues_eos_principes_super_omnem_terram.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Sext.php'); ?>
+<?php hour('S'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('rom10_12.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -36,7 +36,7 @@
 <?php vrS('nimis_honorati_sunt_amici_tui_deus.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/None.php'); ?>
+<?php hour('N'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('rom10_16.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -44,7 +44,7 @@
 <?php vrS('annuntiaverunt_opera_dei.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComAp.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>

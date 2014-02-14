@@ -1,0 +1,1 @@
+These are * the two olive trees, and the two candlesticks giving light before the Lord: they have power to close heaven that the clouds rain not, and to open the gates thereof: for their tongues are made keys of heaven.

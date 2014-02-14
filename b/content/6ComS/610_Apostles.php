@@ -57,7 +57,6 @@
 	space();
 	hour('2V');
 	bookmark('PsComAp');
-	rubrics('head/Psalms.php');
 	ant('csApL.php','20000');
 	psalm('109.php');
 	space('Spacer');

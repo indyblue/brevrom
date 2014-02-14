@@ -2,7 +2,7 @@
 	<p:RubricH/>
 <?php headSt('Aug. 22',2,'Immaculati Cordis B. Mariæ Virg.','Immaculate Heart of the B.V.M.'); ?>
 <?php rubrics('prSanct/all_from.php','csBVM'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php vrS('diffusa_est_gratia_in_labiis_tuis.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('prSanct/0822b.php','B'); ?>
@@ -16,7 +16,7 @@
 <?php prayer('prSanct/0822c.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php vrS('dignare_me_laudare_te_virgo_sacrata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/0822m.php','M'); ?>

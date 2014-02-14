@@ -1,0 +1,1 @@
+O God, who to aid our weakness hast given us thy Saints to be our example and protection in the way of eternal life; grant us so to venerate the merits of blessed Abbot William, that we may both obtain his help and follow in his footsteps. Through our Lord.

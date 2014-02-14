@@ -2,7 +2,7 @@
 	<p:RubricH/>
 <?php headSt('Nov. 1',1,'in Festo Omnium Sanctorum','Feast of All Saints'); ?>
 
-<?php rubrics('head/1Vespers.php'); ?>
+<?php hour('1V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV116.php'); ?>
    <p:Rubric>Little Chapter &amp; Hymn as in II Vespers.</p>
@@ -12,7 +12,7 @@
 <?php rubrics('prSanct/ComplineSun.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/1101L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -31,11 +31,11 @@
 <?php rubrics('ps/LittleHoursFeast.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Prime.php'); ?>
+<?php hour('P'); ?>
 <?php ant('prSanct/1101L.php','*0000'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 <?php ant('prSanct/1101L.php','0*000'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc7_2.php'); ?>
@@ -44,7 +44,7 @@
 <?php vrS('prSanct/exultent_justi_in_conspectu_dei.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Sext.php'); ?>
+<?php hour('S'); ?>
 <?php ant('prSanct/1101L.php','00*00'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc7_9.php'); ?>
@@ -53,7 +53,7 @@
 <?php vrS('prSanct/justi_autem_in_perpetuum_vivent.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/None.php'); ?>
+<?php hour('N'); ?>
 <?php ant('prSanct/1101L.php','0000*'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc7_12.php'); ?>
@@ -62,7 +62,7 @@
 <?php vrS('prSanct/exultabunt_sancti_in_gloria.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/2Vespers.php'); ?>
+<?php hour('2V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV115.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>

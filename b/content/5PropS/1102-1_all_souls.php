@@ -6,11 +6,11 @@
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('offDef/offDef.php'); ?>
 
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('asIn.php','offDefL','Office of the Dead.','Lauds'); ?> 
 	<p:BodySm/>
 
-<?php rubrics('head/Prime.php'); ?>
+<?php hour('P'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('087.php'); ?>
 <?php vrS('requiem_aeternam.php',6); ?>
@@ -42,7 +42,7 @@
 <?php vrS('requiescant_in_pace.php') ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('037-1.php'); ?>
 <?php vrS('requiem_aeternam.php',6); ?>
@@ -53,7 +53,7 @@
 <?php rubrics('offDef/1102_preces_concl.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Sext.php'); ?>
+<?php hour('S'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('069.php'); ?>
 <?php vrS('requiem_aeternam.php',6); ?>
@@ -64,7 +64,7 @@
 <?php rubrics('offDef/1102_preces_concl.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/None.php'); ?>
+<?php hour('N'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('101-1.php'); ?>
 <?php vrS('requiem_aeternam.php',6); ?>
@@ -75,10 +75,10 @@
 <?php rubrics('offDef/1102_preces_concl.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('asIn.php','offDefV','Office of the Dead.','Vespers'); ?> 
 
-<?php rubrics('head/Compline.php'); ?>
+<?php hour('C'); ?>
 	<p:RubricH>The hour begins with the <snr>Confiteor, Misereatur, and Indulgentiam</s>, immediately followed by the first Psalm (without Antiphon):</p>
 <?php psalm('122.php'); ?>
 <?php vrS('requiem_aeternam.php',6); ?>

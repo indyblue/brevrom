@@ -5,7 +5,7 @@
 		'Apparition of the Bl. Virg. Mary Immaculate','Lourdes');
 	rubrics('prSanct/all_from.php','csBVM');
 
-	rubrics('head/Lauds.php');
+	hour('L');
 	ant('prSanct/0211L.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('prSanct/0211L.php','02222');
@@ -24,7 +24,7 @@
 	rubrics('ps/Feria.php');
 	PrV('qui_natus_es_de_maria_virgine.php');
 
-	rubrics('head/Terce.php');
+	hour('T');
 	rubrics('head/LittleChapter.php');
 	lc('cant2_13.php');
 	rubrics('head/BriefRespond.php');
@@ -32,7 +32,7 @@
 	vrS('prSanct/viderunt_eam_filiae_sion.php');
 	
 	space();
-	rubrics('head/Sext.php');
+	hour('S');
 	rubrics('head/LittleChapter.php');
 	lc('prov8_18.php');
 	rubrics('head/BriefRespond.php');
@@ -40,7 +40,7 @@
 	vrS('prSanct/in_me_omnis_gratia_viae_et_veritatis.php');
 
 	space();
-	rubrics('head/None.php');
+	hour('N');
 	rubrics('head/LittleChapter.php');
 	lc('ecclus24_25-26.php');
 	rubrics('head/BriefRespond.php');
@@ -48,7 +48,7 @@
 	vrS('prSanct/transite_ad_me_omnes_qui_concupiscitis_me.php');
 
 	space();
-	rubrics('head/Vespers.php');
+	hour('V');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php');
 	rubrics('head/LittleChapter.php');

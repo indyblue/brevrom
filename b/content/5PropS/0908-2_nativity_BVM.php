@@ -1,7 +1,7 @@
 <?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Sept. 8',2,'in Nativitate B. Mariæ Virg.','Nativity of the B.V.M.'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/0908L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -25,7 +25,7 @@
 <?php rubrics('prSanct/horas_from.php','csBVMLH'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('asIn.php','csBVMVlc','Common of B.V.M.','Little Chapter &amp; Hymn <snr>Ave, maris stella</s>'); ?>

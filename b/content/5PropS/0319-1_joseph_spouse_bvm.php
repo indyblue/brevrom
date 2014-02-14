@@ -3,7 +3,7 @@
 	img('Saints/0319_st_joseph.tif',100);
 	headSt('Mar. 19',1,'S. Joseph, Sponsi B. Mariæ Virg.',
 		'St. Joseph, Spouse of the B.V.M.','Conf., Universal Patron of the Church');
-	rubrics('head/1Vespers.php');
+	hour('1V');
 	ant('prSanct/0319V1.php','20000');
 	rubrics('ps/SuV116.php');
 	ant('prSanct/0319V1.php','02222');
@@ -19,7 +19,7 @@
 	rubrics('prSanct/ComplineSun.php');
 	
 	space();
-	rubrics('head/Lauds.php');
+	hour('L');
 	ant('prSanct/0319L.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('prSanct/0319L.php','02222');
@@ -37,7 +37,7 @@
 	space();
 	rubrics('prSanct/1classLittleHours.php');
 
-	rubrics('head/Terce.php');
+	hour('T');
 	rubrics('head/LittleChapter.php');
 	lc('prov28_20_27_18.php');
 	rubrics('head/BriefRespond.php');
@@ -48,7 +48,7 @@
 	vrS('prSanct/magna_est_gloria_ejus_in_salutari_tuo.php',0,1);
 	
 	space();
-	rubrics('head/Sext.php');
+	hour('S');
 	rubrics('head/LittleChapter.php');
 	lc('eccli45_1_4.php');
 	rubrics('head/BriefRespond.php');
@@ -59,7 +59,7 @@
 	vrS('prSanct/justus_germinabit_sicut_lilium.php',0,1);
 
 	space();
-	rubrics('head/None.php');
+	hour('N');
 	rubrics('head/LittleChapter.php');
 	lc('sap10_10.php');
 	rubrics('head/BriefRespond.php');
@@ -70,7 +70,7 @@
 	vrS('prSanct/plantatus_in_domo_domini.php',0,1);
 
 	space();
-	rubrics('head/2Vespers.php');
+	hour('2V');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
 	rubrics('head/LittleChapter.php');

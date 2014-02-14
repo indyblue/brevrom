@@ -1,7 +1,7 @@
 <?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Sept. 15',2,'Septem Dolorum B. Mariæ Virg.','The Seven Sorrows of the B.V.M.'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/0915L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -28,7 +28,7 @@
 <?php PrV('qui_passus_es_propter_nostram_salutem.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam2_13.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -36,7 +36,7 @@
 <?php vrS('prSanct/defecerunt_prae_lacrimis_oculi_mei.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Sext.php'); ?>
+<?php hour('S'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam1_2.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -44,7 +44,7 @@
 <?php vrS('prSanct/fasciculus_myrrhae_dilectus_meus_mihi.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/None.php'); ?>
+<?php hour('N'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam2_18.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -52,7 +52,7 @@
 <?php vrS('prSanct/anima_mea_liquefacta_est.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>

@@ -2,7 +2,7 @@
 	<p:RubricH/>
 <?php headSt('Oct. 7',2,'Beatæ Mariæ Virg. a Rosario','The Most Holy Rosary of the B.V.M.'); ?>
 
-<?php rubrics('head/1Vespers.php'); ?>
+<?php hour('1V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
@@ -15,7 +15,7 @@
 <?php rubrics('prSanct/ComplineSun.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/1007L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -42,7 +42,7 @@
 <?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_25.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -50,7 +50,7 @@
 <?php vrS('prSanct/post_partum_virgo_inviolata_permansisti.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Sext.php'); ?>
+<?php hour('S'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus39_19.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -58,7 +58,7 @@
 <?php vrS('prSanct/speciosa_facta_es_et_suavis.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/None.php'); ?>
+<?php hour('N'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_17.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -66,7 +66,7 @@
 <?php vrS('prSanct/elegit_eam_deus_et_praeelegit_eam_et.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/2Vespers.php'); ?>
+<?php hour('2V'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/1007V.php','20000'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>

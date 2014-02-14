@@ -1,0 +1,1 @@
+These are the holy ones, * who for Christ’s love contemned the threats of men: in the kingdom of heaven the holy martyrs exult with the angels: oh! how precious is the death of the Saints, who constantly stand before the Lord, and are never separated from one another.

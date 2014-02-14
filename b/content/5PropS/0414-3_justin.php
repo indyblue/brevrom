@@ -6,7 +6,7 @@
 	rubrics('ps/feria.php');	
 	rubrics('prSanct/all_else.php','csApPT');
 
-	rubrics('head/Lauds.php');
+	hour('L');
 	rubrics('prSanct/comm_nonPT_mart.php');
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0414.php'); 

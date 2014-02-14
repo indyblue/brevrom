@@ -7,7 +7,7 @@
 		'This feast of the B.V.M. is observed as a feast of our Lord.');
 	rubrics('prSanct/all_from.php','csBVM');
 
-	rubrics('head/1Vespers.php'); 
+	hour('1V'); 
 	rubrics('prSanct/Sun1Vespers.php'); 
 	rubrics('asIn.php','pt0101L',
 		'Lauds of Jan. 1, the Feast of the Circumcision', 'Antiphons'); 
@@ -22,7 +22,7 @@
 	rubrics('prSanct/ComplineSun.php'); 
 	
 	space();
-	rubrics('head/Lauds.php'); 
+	hour('L'); 
 	ant('prSanct/0202L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0202L.php','02222'); 
@@ -43,7 +43,7 @@
 	rubp('Quando hoc festum occurrit in dominicis in Septuagesima, aut Sexagesima, aut Quinquagesima, ad horas sumuntur ant. de Laudibus, pss. vero de dominica, retentis tamen ad primam pss. 117, 118 i, 118 ii.',
 		'When this feast occurs on the Sunday of Septuagesima, Sexagesima or Quinquagesima, at the little hours the ant. are selected from Lauds, and the psalms from Sunday; retaining at Prime pss. 117, 118 i, 118 ii.');
 
-	rubrics('head/Terce.php'); 
+	hour('T'); 
 	rubrics('head/LittleChapter.php'); 
 	lc('malach3_1.php'); 
 	rubrics('head/BriefRespond.php'); 
@@ -51,7 +51,7 @@
 	vrS('adjuvabit_eam_deus_vultu_suo.php'); 
 	
 	space();
-	rubrics('head/Sext.php'); 
+	hour('S'); 
 	rubrics('head/LittleChapter.php'); 
 	lc('malach3_1-2.php'); 
 	rubrics('head/BriefRespond.php'); 
@@ -59,7 +59,7 @@
 	vrS('elegit_eam_deus_et_praeelegit_eam.php'); 
 
 	space();
-	rubrics('head/None.php'); 
+	hour('N'); 
 	rubrics('head/LittleChapter.php'); 
 	lc('malach3_4.php'); 
 	rubrics('head/BriefRespond.php'); 
@@ -67,7 +67,7 @@
 	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
 
 	space();
-	rubrics('head/2Vespers.php'); 
+	hour('2V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php'); 
 	rubrics('head/LittleChapter.php'); 

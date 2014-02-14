@@ -3,7 +3,7 @@
 	img(); 
 	feast_saint(205,13,'Sanctæ Agathæ','Saint Agatha','VM');
 
-	rubrics('head/Lauds.php'); 
+	hour('L'); 
 	ant('prSanct/0205L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0205L.php','02222'); 
@@ -21,7 +21,7 @@
 	rubrics('prSanct/horas_from.php','csHWLH',3,'with the readings for a Martyr (<snr>Ecclus. 51</s>)');
 
 	space();
-	rubrics('head/Vespers.php'); 
+	hour('V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV147.php'); 
 	rubrics('head/LittleChapter.php'); 

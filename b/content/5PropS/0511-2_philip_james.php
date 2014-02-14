@@ -3,7 +3,7 @@
 	img(); 
 	feast_saint(0511,12,'Ss. Philippi et Jacobi','Ss. Philip and James','Ae+');
 
-	rubrics('head/Lauds.php'); 
+	hour('L'); 
 	ant('prSanct/0511L.php','20000'); 
 	rubrics('ps/SuL1.php'); 
 	ant('prSanct/0511L.php','02222'); 
@@ -19,7 +19,7 @@
 	rubrics('prSanct/horas_from.php','csApPTLH',2);
 
 	space();
-	rubrics('head/Vespers.php'); 
+	hour('V'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComAp.php'); 
 	rubrics('asIn.php','csApPTVlc','Common of Ap. (P.T.)',

@@ -28,7 +28,6 @@
 
 	space();
 	hour('L');
-	rubrics('head/Psalms.php');
 	ant('csCL.php','20000',2);
 	rubrics('ps/SuL1.php');
 	ant('csCL.php','02222',2);

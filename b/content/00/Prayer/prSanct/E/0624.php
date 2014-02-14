@@ -1,0 +1,1 @@
+O God, who hast made this day glorious unto us by the nativity of blessed John; grant to thy people the grace of spiritual joys, and direct the souls of all the faithful into the way of eternal salvation. Through our Lord.

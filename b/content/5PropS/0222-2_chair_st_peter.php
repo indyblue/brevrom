@@ -5,7 +5,7 @@
 		'Chair of St. Peter','A');
 	rubrics('prSanct/all_from.php','csCB');
 
-	rubrics('head/Lauds.php');
+	hour('L');
 	rubrics('asIn.php','csCBL',
 		'Common of Confessor Bishop', 
 		'Psalms, Antiphons &amp; Little Chapter'); 
@@ -25,7 +25,7 @@
 	rubrics('ps/Feria.php'); 
 
 	space();
-	rubrics('head/Vespers.php'); 
+	hour('V'); 
 	rubrics('asIn.php','csCBV',
 		'Common of Confessor Bishop', 
 		'Psalms, Antiphons &amp; Little Chapter'); 

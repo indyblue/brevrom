@@ -1,7 +1,7 @@
 <?php img(); ?>
    <p:BodySm/>
 <?php headSt('Nov. 23',3,'Sancti Clementis I','Saint Clement I','Pope, Martyr'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php ant('prSanct/1123L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('prSanct/1123L.php','02222'); ?>
@@ -21,7 +21,7 @@
 <?php rubrics('prSanct/horas_from.php','csMLH',3); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('asIn.php','csMVlc','II Vespers of the Common of one Martyr','Little Chapter &amp; Hymn <snr>Deus, tuórum mílitum</s>'); ?>

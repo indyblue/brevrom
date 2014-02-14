@@ -1,0 +1,1 @@
+Deus, qui infirmitáte nostræ ad teréndam salútis viam in Sanctis tuis exémplum et præsídium collocásti: da nobis, ita beáti Guliélmi abbátis mérita venerári; ut ejúsdem excipiámus suffrágia, et vestígia prosequámur. Per Dóminum.

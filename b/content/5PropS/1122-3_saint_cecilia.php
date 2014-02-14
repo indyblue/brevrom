@@ -1,7 +1,7 @@
 <?php img(); ?>
    <p:BodySm/>
 <?php headSt('Nov. 22',3,'Sanctæ Cæciliæ','Saint Cecilia','Virgin, Martyr'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php ant('prSanct/1122L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
 <?php ant('prSanct/1122L.php','02222'); ?>
@@ -16,7 +16,7 @@
 <?php rubrics('prSanct/horas_from.php','csVLH',3); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/ComBVM.php'); ?>
 <?php rubrics('asIn.php','csVVlc','II Vespers of the Common of Virgins','Little Chapter &amp; Hymn <snr>Jesu, coróna Vírginum</s>'); ?>

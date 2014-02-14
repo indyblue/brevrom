@@ -25,9 +25,9 @@
 
 	space();
 	hour('L');
-	ant('csApPTL.php','20000');
+	ant('csApPTL.php','20000',1);
 	rubrics('ps/SuL1.php');
-	ant('csApPTL.php','02222');
+	ant('csApPTL.php','02222',1);
 	bookmark('csApPTLlc');
 	lc('wis5_1.php');
 	rubrics('head/HymnVerse.php');

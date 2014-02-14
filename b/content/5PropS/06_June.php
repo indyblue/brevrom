@@ -55,6 +55,14 @@ require '0623-2_vigil_john_baptist.php';
 
 require '0624-1_john_baptist.php';
 
+feast_saint(625,3,'Sancti Gulielmi','Saint William','A');
+
+require '0626-3_john_paul.php';
+
+require '0628-2_vigil_peter_paul.php';
+
+require '0629-1_peter_paul.php';
+
 /*
 require '0501-1_joseph_worker.php';
 

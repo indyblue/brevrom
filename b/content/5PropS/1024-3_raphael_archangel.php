@@ -1,7 +1,7 @@
 <?php img(); ?>
 	<p:BodySm/>
 <?php headSt('Oct. 24',3,'S. Raphaelis Archangeli','St. Raphael the Archangel'); ?>
-<?php rubrics('head/Lauds.php'); ?>
+<?php hour('L'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('prSanct/1024L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
@@ -21,7 +21,7 @@
 <?php rubrics('ps/Feria.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/Terce.php'); ?>
+<?php hour('T'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('tob12_12.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -29,7 +29,7 @@
 <?php vrS('prSanct/ascendit_fumus_aromatum_in_conspectu_domini.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Sext.php'); ?>
+<?php hour('S'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('tob12_14.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -37,7 +37,7 @@
 <?php vrS('prSanct/in_conspectu_angelorum_psallam_tibi_deus_meus.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/None.php'); ?>
+<?php hour('N'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('tob12_20.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -45,7 +45,7 @@
 <?php vrS('prSanct/adorate_deum_omnes_angeli_ejus.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/Vespers.php'); ?>
+<?php hour('V'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV137.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>

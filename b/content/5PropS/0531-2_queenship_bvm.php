@@ -5,7 +5,7 @@
 		'Bl. Virgin Mary, Queen');
 	rubrics('prSanct/all_from.php','csBVM');
 
-	rubrics('head/Lauds.php');
+	hour('L');
 	lc('ecclus24_5_7.php');
 	hymn('o_gloriosa_virginum.php',1);
 	vrS('prSanct/maria_virgo_caelos_ascendit.php',2);
@@ -24,7 +24,7 @@
 	rubrics('ps/Feria.php');
 	PrV('qui_natus_es_de_maria_virgine.php');
 
-	rubrics('head/Terce.php');
+	hour('T');
 	lc('ecclus24_5_7.php');
 	rubrics('head/PTnot.php');
 	brS('prSanct/salve_regina_misericordiae.php');
@@ -34,7 +34,7 @@
 	vrS('prSanct/stabat_juxta_crucem_jesu_mater_ejus.php',0,1);
 	
 	space();
-	rubrics('head/Sext.php');
+	hour('S');
 	lc('ecclus24_9-11.php');
 	rubrics('head/PTnot.php');
 	brS('prSanct/stabat_juxta_crucem_jesu_mater_ejus.php');
@@ -44,7 +44,7 @@
 	vrS('prSanct/beatam_me_dicent_omnes_generationes.php',0,1);
 
 	space();
-	rubrics('head/None.php');
+	hour('N');
 	rubrics('head/LittleChapter.php');
 	lc('ecclus24_30-31.php');
 	rubrics('head/PTnot.php');
@@ -55,7 +55,7 @@
 	vrS('prSanct/maria_virgo_caelos_ascendit.php',0,1);
 
 	space();
-	rubrics('head/Vespers.php');
+	hour('V');
 	lc('ecclus24_5_7.php');
 	rubrics('head/HymnVerse.php');
 	hymn('ave_maris_stella.php',1);
