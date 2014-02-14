@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('benedicamus_domino.tif',35);
+	img('benedicamus_domino.png',35);
 	space();
 	bookmark('ps2M');
 	dayhour(2,'M');

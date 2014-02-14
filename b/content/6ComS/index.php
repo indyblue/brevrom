@@ -1,5 +1,5 @@
    <p:P182/>
-<?php img('CS/00_common_of_saints.tif',100); ?>
+<?php img('CS/00_common_of_saints.png',100); ?>
 	<p:Head1NI/>
 	<p:Head0><?php 
 echo ($_GET['L']==1?'Commune Sanctorum':'Common of Saints') 

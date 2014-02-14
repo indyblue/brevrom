@@ -1,6 +1,6 @@
 <?php
 
-	img('Saints/1101_all_saints.tif',100);
+	img('Saints/1101_all_saints.png',100);
 	space('RubricH');
 	headSt(1101,1,'in Festo Omnium Sanctorum','Feast of All Saints');
 

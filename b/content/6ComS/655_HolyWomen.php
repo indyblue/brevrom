@@ -1,7 +1,7 @@
 <?php
 
 	space('Body');
-	img('separator3.tif',100);
+	img('separator3.png',100);
 	space('RubricH');
 	bookmark('csHW');
 	head('Commune non Virginum',

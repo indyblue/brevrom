@@ -4,7 +4,7 @@
 	$old = $_GET['old'];
 
 	space();
-	img('Saints/0908_nativity_of_bvm.tif',100);
+	img('Saints/0908_nativity_of_bvm.png',100);
 	space('RubricH');
 	bookmark('csBVMp');
 	head('Officium parvum B. Mariæ Virginis',

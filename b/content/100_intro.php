@@ -28,9 +28,9 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 
 ?>
 	<p:Spacer/>
-   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics2" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.2701in" style:rel-height="scale" draw:z-index="44"><draw:image xlink:href="../Images/FP_Trinity_Saints.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics2" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.2701in" style:rel-height="scale" draw:z-index="44"><draw:image xlink:href="../Images/FP_Trinity_Saints.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
     </draw:frame></p>
-   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics1" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.5in" style:rel-height="scale" draw:z-index="40"><draw:image xlink:href="../Images/border.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics1" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.5in" style:rel-height="scale" draw:z-index="40"><draw:image xlink:href="../Images/border.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
     </draw:frame><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="2.3937in" style:rel-width="70%" draw:z-index="43">
      <draw:text-box fo:min-height="2in">
       <p:Head1NI>Diurnale Romanum</p>
@@ -38,7 +38,7 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 		<p:P160>REFORMED BY ORDER OF THE<text:line-break/>HOLY ECUMENICAL COUNCIL OF TRENT<text:line-break/>REVISED RITE<text:line-break/>IN ACCORD WITH MOTU PROPRIO<text:line-break/><s:T4>RUBRICARUM INSTRUCTUM</s><text:line-break/>JOHN XXIII<text:line-break/>IV FEBRUARII MCMLXI</p>
 		<p:P160>***PROOF COPY***</p>
       <p:P159/>
-<?php img('Title_JR.tif',35); ?>
+<?php img('Title_JR.png',35); ?>
       <p:P159/>
 		<p:P160>***PROOF COPY***</p>
 		<p:P201>This copy is intended for proof-reading

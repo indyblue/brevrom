@@ -1,7 +1,7 @@
 <?php 
 
 space();
-img('separator3.tif',100);
+img('separator3.png',100);
 head('Festa Junii', 'Feasts of June',1);
 
 feast_saint(601,3,'S. Angelæ Mericiæ','St. Angela Merici','V');

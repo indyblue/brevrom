@@ -35,6 +35,6 @@
 	rubp('Preces (<snr>p. '. bkref('preces') .'</s>) dicuntur: in Vesperis feriæ IV et VI Quatuor Temporum mensis septembris.', 'The preces (<snr>p. '. bkref('preces') .'</s>) are said: in Vespers of the Ember Wed. and Fri. in September.');
 
 	space(2);
-	img('amen.tif',35);
+	img('amen.png',35);
 	space(2);
 ?>

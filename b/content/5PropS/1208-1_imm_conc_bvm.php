@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img('Saints/1208_immaculate_conception.tif',100); 
+	img('Saints/1208_immaculate_conception.png',100); 
 	headSt(1208,1,'in Conceptione Immaculata B. Mariæ Virg.', 'Immaculate Conception of the B.V.M.');
 
 	hour('1V'); 

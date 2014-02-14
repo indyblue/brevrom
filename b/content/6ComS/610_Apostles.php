@@ -1,7 +1,7 @@
 <?php
 	space('P181');
 	space();
-	img('separator3.tif',100);
+	img('separator3.png',100);
 	space('RubricH');
 	bookmark('csAp');
 	head('Commune Apostolorum',

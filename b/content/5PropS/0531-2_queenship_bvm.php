@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('Saints/0908_nativity_of_bvm.tif',100);
+	img('Saints/0908_nativity_of_bvm.png',100);
 	headSt(531,2,'B. Mariæ Virg. Reginæ',
 		'Bl. Virgin Mary, Queen');
 	csref('csBVM',0,11);

@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('separator3.tif',100);
+	img('separator3.png',100);
 	space('RubricH');
 	bookmark('csApPT');
 	head('Commune Apostolorum aut Martyrum PT',

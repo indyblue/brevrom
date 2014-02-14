@@ -25,7 +25,7 @@ function psref($num, $parts=0, $dir = false) {
 		$ptE = ' (Parts i, ii &amp; iii)';
 	}
 
-	$title = str_replace(' i.','.',$Lpieces[0]);
+	$title = str_replace(' i','',$Lpieces[0]);
 	rubp(
 		$title .', p. ' . bkref('Ps' . $num) . $ptL,
 		$title .', p. ' . bkref('Ps' . $num) . $ptE,1);

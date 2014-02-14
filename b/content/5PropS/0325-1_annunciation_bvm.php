@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img('Saints/0325_annunciation.tif',100); 
+	img('Saints/0325_annunciation.png',100); 
 	headSt(325,1,'in Annunciatione B. Mariæ Virg.',
 		'Annunciation of the B.V.M.');
 

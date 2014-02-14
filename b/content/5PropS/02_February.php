@@ -1,7 +1,7 @@
 <?php 
 
 space();
-img('separator3.tif',100);
+img('separator3.png',100);
 head('Festa Februarii', 'Feasts of February',1);
 
 feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',

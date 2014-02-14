@@ -1,5 +1,5 @@
    <p:P182/>
-<?php img('Tempore/t00_proprium_tempore.tif',100); ?>
+<?php img('Tempore/t00_proprium_tempore.png',100); ?>
    <p:Head1NI/>
 	<p:Head0><?php 
 echo ($_GET['L']==1?'Proprium de Tempore':'Proper of Seasons')

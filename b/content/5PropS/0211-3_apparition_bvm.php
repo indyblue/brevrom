@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('Saints/0908_nativity_of_bvm.tif',100);
+	img('Saints/0908_nativity_of_bvm.png',100);
 	headSt(211,3,'in Apparitione B. Mariæ Virg. Immac.',
 		'Apparition of the Bl. Virgin Mary Immac.','at Lourdes');
 	hour('L');

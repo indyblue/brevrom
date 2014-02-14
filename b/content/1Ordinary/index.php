@@ -1,6 +1,6 @@
 <?php
 	space('PgH');
-	img('00_ordinary.tif',100);
+	img('00_ordinary.png',100);
 	space();
 	bookmark('OrOrdinary');
 	head('Ordinarium Divini Officii','Ordinary of the Divine Office',0);
@@ -21,7 +21,7 @@ require '07_vespers.php';
 require '08_compline.php';
 
 	space();
-	img('sanctus.tif',100);
+	img('sanctus.png',100);
 	head('<sr>Pars Specialis</s>','<sr>Special Part</s>',1);
 	space();
 bookmark('orSeason');

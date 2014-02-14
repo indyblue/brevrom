@@ -1,4 +1,4 @@
-<?php img('Tempore/t05_ascension.tif',100); ?>
+<?php img('Tempore/t05_ascension.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Ascensionis</p>
    <p:Body/>
@@ -130,7 +130,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Ascensiontide',1); ?>
 <?php hidden('The Sunday after the Ascension',2); ?>
@@ -261,7 +261,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t06_pentecost.tif',100); ?>
+<?php img('Tempore/t06_pentecost.png',100); ?>
    <p:RubricH/>
 <?php hidden('Pentecost',1); ?>
 <?php hidden('Pentecost',2); ?>

@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('dove.tif',35);
+	img('dove.png',35);
 	space();
 	bookmark('psSM');
 	dayhour(7,'M');
@@ -179,6 +179,6 @@
 	dayhourE(7,'C');
 
 	space(2);
-	img('amen.tif',35);
+	img('amen.png',35);
 	space(2);
 ?>

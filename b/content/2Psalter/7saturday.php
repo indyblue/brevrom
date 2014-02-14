@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('dove.tif',35);
+	img('dove.png',35);
 	space();
 	$matins = $_GET['matins'];
 if($matins) {
@@ -182,6 +182,6 @@ if($matins) {
 	dayhourE(7,'C');
 
 	space(2);
-	img('amen.tif',35);
+	img('amen.png',35);
 	space(2);
 ?>

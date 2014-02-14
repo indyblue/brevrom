@@ -28,7 +28,7 @@
 	canticle('vr/anima_christi.php');
 
 	space();
-	img('crucifix.tif',40);
+	img('crucifix.png',40);
 	head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',4);
 	prayer('App/mass_thanks_crucifix.php');
 

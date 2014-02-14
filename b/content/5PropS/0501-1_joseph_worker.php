@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('Saints/0501_st_joseph_patron_of_church.tif',100);
+	img('Saints/0501_st_joseph_patron_of_church.png',100);
 	headSt('501',1,'S. Joseph Opificis',
 		'St. Joseph the Workman','Conf., Spouse of the B.V.M.');
 	hour('1V');

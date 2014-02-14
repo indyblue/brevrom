@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img('Saints/0815_assumption_bvm.tif',100);
+	img('Saints/0815_assumption_bvm.png',100);
 	headSt(815,1,'in Assumptione B. Mariæ Virg.',
 		'the Assumption of the Bl. Virgin Mary');
 

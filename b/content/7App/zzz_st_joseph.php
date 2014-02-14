@@ -1,5 +1,5 @@
 <?php
-	img('Saints/0319_st_joseph.tif',66);
+	img('Saints/0319_st_joseph.png',66);
 	psalm(122);
 	reading('vr/gloria_patri-s.php',0);
 	space(2);

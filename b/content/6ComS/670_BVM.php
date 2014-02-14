@@ -1,7 +1,7 @@
 <?php
 
 	space('Body');
-	img('Saints/0908_nativity_of_bvm.tif',100);
+	img('Saints/0908_nativity_of_bvm.png',100);
 	space('RubricH');
 	bookmark('csBVM');
 	head('Commune Festorum Beatæ Mariæ Virginis',

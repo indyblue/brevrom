@@ -1,4 +1,4 @@
-<?php img('ihs.tif',100); ?>
+<?php img('ihs.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Quadragesimæ</p>
    <p:Body/>
@@ -193,7 +193,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
 <?php hidden('Lent',1); ?>
 <?php hidden('First Sunday of Lent',2); ?>
@@ -698,7 +698,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
 <?php hidden('Lent',1); ?>
 <?php hidden('Second Sunday of Lent',2); ?>
@@ -1189,7 +1189,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
 <?php hidden('Lent',1); ?>
 <?php hidden('Third Sunday of Lent',2); ?>
@@ -1691,7 +1691,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
 <?php hidden('Lent',1); ?>
 <?php hidden('Lætare Sunday',2); ?>

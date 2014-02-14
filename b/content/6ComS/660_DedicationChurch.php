@@ -1,7 +1,7 @@
 <?php
 
 	space('Body');
-	img('CS/01_dedication_of_church.tif',100);
+	img('CS/01_dedication_of_church.png',100);
 	space('RubricH');
 	bookmark('csChurch');
 	head('Commune Dedicationis Ecclesiæ',

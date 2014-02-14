@@ -1,7 +1,7 @@
 <?php 
 
 space();
-img('separator3.tif',100);
+img('separator3.png',100);
 head('Festa Novembris', 'Feasts of November',1);
 
 require '1101-1_all_saints.php';
@@ -54,6 +54,6 @@ feast_saint(1125,3,'Sanctæ Catharinæ','Saint Catharine','VM');
 feast_saint(1126,3,'Sancti Silvestri','Saint Sylvester','a',0,
 	"feast_saint(1126,-1,'S. Petri Alexandrini','St. Peter of Alexandria','EM',array('csMartyrBishop1.php','Petri','Peter'));");
 
-img('benedicamus_domino.tif',33);
+img('benedicamus_domino.png',33);
 
 ?>

@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img('Saints/0908_nativity_of_bvm.tif',100); 
+	img('Saints/0908_nativity_of_bvm.png',100); 
 	headSt(202,2,'in Purificatione B. Mariæ Virg.',
 		'Purification of the B.V.M.');
 	rubp('Festum B. Mariæ Virg. habetur tamquam festum Domini.', 'This feast of the B.V.M. is observed as a feast of our Lord.');

@@ -1,4 +1,4 @@
-<?php img('Tempore/t01_christmas.tif',100); ?>
+<?php img('Tempore/t01_christmas.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Nativitatis</p>
    <p:Body/>
@@ -290,7 +290,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('Sunday in Octave of Christmas',2); ?>
@@ -389,7 +389,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('Octave of Christmas - St. Stephen',2); ?>
@@ -568,7 +568,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('Octave of Christmas - St. John',2); ?>
@@ -732,7 +732,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('Octave of Christmas - Holy Innocents',2); ?>
@@ -935,7 +935,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('5th day in the Octave of Christmas',2); ?>
@@ -994,7 +994,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('6th day in the Octave of Christmas',2); ?>
@@ -1027,7 +1027,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('7th day in the Octave of Christmas',2); ?>
@@ -1083,7 +1083,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t02_circumcision.tif',100); ?>
+<?php img('Tempore/t02_circumcision.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('Octave of Christmas',2); ?>
@@ -1157,7 +1157,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Christmas',1); ?>
 <?php hidden('Holy Name of Jesus',2); ?>

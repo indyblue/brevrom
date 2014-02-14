@@ -1,6 +1,6 @@
 <?php
 
-	img('Saints/0908_nativity_of_bvm.tif',100);
+	img('Saints/0908_nativity_of_bvm.png',100);
 	space('RubricH');
 	headSt(1011,2,'Maternitatis B. Mariæ Virg.','Motherhood of the B.V.M.');
 

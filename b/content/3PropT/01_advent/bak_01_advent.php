@@ -1,4 +1,4 @@
-<?php img('ihs.tif',100); ?>
+<?php img('ihs.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Adventus</p>
    <p:Body/>
@@ -254,7 +254,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Advent',1); ?>
 <?php hidden('Advent II',2); ?>
@@ -504,7 +504,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
 <?php hidden('Advent',1); ?>
 <?php hidden('Advent III',2); ?>
@@ -777,7 +777,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Advent',1); ?>
 <?php hidden('Advent - Major Ant.',2); ?>
@@ -905,7 +905,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Advent',1); ?>
 <?php hidden('Advent IV',2); ?>
@@ -1040,7 +1040,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Advent',1); ?>
 <?php hidden('Vigil of the Nativity (Dec. 24)',2); ?>

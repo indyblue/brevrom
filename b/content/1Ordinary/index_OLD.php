@@ -1,5 +1,5 @@
    <p:P182/>
-<?php img('00_ordinary.tif',100); ?>
+<?php img('00_ordinary.png',100); ?>
    <p:Head1NI/>
    <p:Spacer><draw:frame draw:style-name="fr4" draw:name="Frame4" text:anchor-type="paragraph" svg:width="1.6756in" style:rel-width="49%" draw:z-index="58">
      <draw:text-box fo:min-height="0.2in">
@@ -1068,7 +1068,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    <p:Body/>
 <?php img(); ?>
    <p:Body/>
-<?php img('sanctus.tif',100); ?>
+<?php img('sanctus.png',100); ?>
    <p:RubricH/>
    <p:Head1NI>Pars Specialis</p>
    <p:BodySm/>

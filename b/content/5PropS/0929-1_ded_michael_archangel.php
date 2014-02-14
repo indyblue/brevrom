@@ -1,6 +1,6 @@
 <?php
 
-	img('Saints/0929_dedication_st_michael.tif',100);
+	img('Saints/0929_dedication_st_michael.png',100);
 	space();
 	headSt(929,1,'in Dedicatione S. Michaelis Archangeli','the Dedication of St. Michael the Archangel');
 

@@ -1,4 +1,4 @@
-<?php img('Tempore/t04_easter.tif',100); ?>
+<?php img('Tempore/t04_easter.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Paschatis</p>
    <p:Body/>
@@ -446,7 +446,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Paschaltide',1); ?>
 <?php hidden('Low Sunday',2); ?>
@@ -721,7 +721,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Paschaltide',1); ?>
 <?php hidden('Second Sunday after Easter',2); ?>
@@ -996,7 +996,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Paschaltide',1); ?>
 <?php hidden('Third Sunday after Easter',2); ?>
@@ -1270,7 +1270,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Paschaltide',1); ?>
 <?php hidden('Fourth Sunday after Easter',2); ?>
@@ -1545,7 +1545,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Paschaltide',1); ?>
 <?php hidden('Fifth Sunday after Easter',2); ?>

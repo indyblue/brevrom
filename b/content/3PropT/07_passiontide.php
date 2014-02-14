@@ -1,4 +1,4 @@
-<?php img('ihs.tif',100); ?>
+<?php img('ihs.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Passionis</p>
    <p:Body/>
@@ -503,7 +503,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Passiontide',1); ?>
 <?php hidden('Second Sunday of Passiontide',2); ?>
@@ -872,7 +872,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Passiontide',1); ?>
 <?php hidden('Holy Thursday',2); ?>
@@ -1005,7 +1005,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Passiontide',1); ?>
 <?php hidden('Good Friday',2); ?>
@@ -1137,7 +1137,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Passiontide',1); ?>
 <?php hidden('Holy Saturday',2); ?>

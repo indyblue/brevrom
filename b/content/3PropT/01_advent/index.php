@@ -1,5 +1,5 @@
 <?php
-	img('ihs.tif',100);
+	img('ihs.png',100);
 	head('Tempus Adventus', 'Season of Advent',0);
 
 	require '01.php';

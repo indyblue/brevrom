@@ -1,6 +1,6 @@
 <?php
 	space('PgH');
-	img('00_ordinary.tif',100);
+	img('00_ordinary.png',100);
 	space();
 	head('Ordinarium Divini Officii','Ordinary of the Divine Office',0);
 	space();

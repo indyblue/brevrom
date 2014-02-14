@@ -1,7 +1,7 @@
 <?php
 
 	space('Body');
-	img('separator2.tif',100);
+	img('separator2.png',100);
 	space('RubricH');
 	bookmark('csBVMSat');
 	head('Commune Sanctæ Mariæ in Sabbato',

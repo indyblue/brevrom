@@ -1,7 +1,7 @@
 <?php 
 
 space();
-img('separator3.tif',100);
+img('separator3.png',100);
 head('Festa Aprilis', 'Feasts of April',1);
 
 

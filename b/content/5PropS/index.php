@@ -1,7 +1,7 @@
 <?php
 /*
 	<p:P182/>
-<?php img('Saints/00_proper_of_saints.tif',100); ?>
+<?php img('Saints/00_proper_of_saints.png',100); ?>
    <p:Head1NI/>
 	<p:Head0><?php 
 echo ($_GET['L']==1?'Proprium Sanctorum':'Proper of Saints')
@@ -11,7 +11,7 @@ echo ($_GET['L']==1?'Proprium Sanctorum':'Proper of Saints')
    <p:Body/>
  */
 space('PgH');
-img('Saints/00_proper_of_saints.tif',100);
+img('Saints/00_proper_of_saints.png',100);
 head('Proprium Sanctorum','Proper of Saints',0,2);
 space('PgB');
 

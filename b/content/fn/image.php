@@ -1,6 +1,6 @@
 <?php
 
-function img($fname='separator4.tif', $pct='33') {
+function img($fname='separator4.png', $pct='33') {
 	$dir = $_GET['root'] . "/../Images/";
 	$tmp = getimagesize($dir . $fname);
 	if($tmp[0]==0)

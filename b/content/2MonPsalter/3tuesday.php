@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('dove.tif',35);
+	img('dove.png',35);
 	space();
 	bookmark('ps3M');
 	dayhour(3,'M');

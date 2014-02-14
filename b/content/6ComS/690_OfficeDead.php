@@ -5,7 +5,7 @@
 
 	space('PgB');
 	space();
-	img('sanctus.tif',100);
+	img('sanctus.png',100);
 	space('RubricH');
 	bookmark('offDef');
 	head('Officium Defunctorum',

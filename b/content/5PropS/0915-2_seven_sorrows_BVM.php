@@ -1,6 +1,6 @@
 <?php 
 
-img('Saints/0908_nativity_of_bvm.tif',100);
+img('Saints/0908_nativity_of_bvm.png',100);
 space();
 headSt(915,2,'Septem Dolorum B. Mariæ Virg.','The Seven Sorrows of the B.V.M.');
 

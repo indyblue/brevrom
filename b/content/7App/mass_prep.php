@@ -5,7 +5,7 @@
 	head('Præparatio ad Missam','Preparation for Mass',1);
 	ant('ne_reminiscaris.php','*',2);
 	if($long==0) {
-		psref(83);
+		psref(83,2);
 		rubp('Et in fine cujuslibet psalmi dicitur <snr>Glória Patri</s>.', 'And in conclusion of each psalm is said <snr>Glória Patri</s>.');
 		psref(84);
 		psref(85);

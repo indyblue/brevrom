@@ -1,6 +1,6 @@
 <?php
 	space();
-	img('Saints/0319_st_joseph.tif',100);
+	img('Saints/0319_st_joseph.png',100);
 	headSt(319,1,'S. Joseph, Sponsi B. Mariæ Virg.',
 		'St. Joseph, Spouse of the B.V.M.','Conf., Universal Patron of the Church');
 	hour('1V');

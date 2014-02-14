@@ -1,4 +1,4 @@
-<?php img('Tempore/t03_epiphany.tif',100); ?>
+<?php img('Tempore/t03_epiphany.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Epiphaniæ</p>
    <p:Body/>
@@ -138,7 +138,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Epiphany',1); ?>
 <?php hidden('Holy Family',2); ?>
@@ -391,7 +391,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Epiphany',1); ?>
 <?php hidden('Epiphanytide',2); ?>
@@ -661,7 +661,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Epiphany',1); ?>
 <?php hidden('Baptism of our Lord',2); ?>
@@ -694,7 +694,7 @@
    <p:Rubric/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Epiphany',1); ?>
 <?php hidden('First Sunday after the Epiphany',2); ?>

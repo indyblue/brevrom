@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img('Saints/1007_holy_rosary_bvm.tif',100); 
+	img('Saints/1007_holy_rosary_bvm.png',100); 
 	space('RubricH');
 	headSt(1007,2,'Beatæ Mariæ Virg. a Rosario','The Most Holy Rosary of the B.V.M.');
 

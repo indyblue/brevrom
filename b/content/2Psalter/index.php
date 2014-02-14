@@ -1,6 +1,6 @@
 <?php
 	space('PgH');
-	img('ihs.tif',100);
+	img('ihs.png',100);
 	head('Psalterium Breviarii Romani',
 		'Psalter of the Roman Breviary',0);
 	space('PgB');

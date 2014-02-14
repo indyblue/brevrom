@@ -1,4 +1,4 @@
-<?php img('ihs.tif',100); ?>
+<?php img('ihs.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Adventus</p>
    <p:Body/>
@@ -293,7 +293,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent II</p>
@@ -582,7 +582,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent III</p>
@@ -894,7 +894,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent - Major Ant.</p>
@@ -1022,7 +1022,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent IV</p>
@@ -1196,7 +1196,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Vigil of the Nativity (Dec. 24)</p>
@@ -1530,7 +1530,7 @@
 <?php img(); ?>
    <p:Body/>
 
-<?php img('Tempore/t01_christmas.tif',100); ?>
+<?php img('Tempore/t01_christmas.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Nativitatis</p>
    <p:Body/>
@@ -1874,7 +1874,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Sunday in Octave of Christmas</p>
@@ -2042,7 +2042,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - St. Stephen</p>
@@ -2298,7 +2298,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - St. John</p>
@@ -2529,7 +2529,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - Holy Innocents</p>
@@ -2760,7 +2760,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>5th day in the Octave of Christmas</p>
@@ -2829,7 +2829,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>6th day in the Octave of Christmas</p>
@@ -2862,7 +2862,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>7th day in the Octave of Christmas</p>
@@ -2928,7 +2928,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t02_circumcision.tif',100); ?>
+<?php img('Tempore/t02_circumcision.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas</p>
@@ -3012,7 +3012,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Holy Name of Jesus</p>
@@ -3523,7 +3523,7 @@
 <?php img(); ?>
    <p:Body/>
 
-<?php img('Tempore/t03_epiphany.tif',100); ?>
+<?php img('Tempore/t03_epiphany.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Epiphaniæ</p>
    <p:Body/>
@@ -3663,7 +3663,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Holy Family</p>
@@ -4147,7 +4147,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
@@ -4427,7 +4427,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Baptism of our Lord</p>
@@ -4460,7 +4460,7 @@
    <p:Rubric/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>First Sunday after the Epiphany</p>
@@ -4738,7 +4738,7 @@
 <?php img(); ?>
    <p:Body/>
 
-<?php img('ihs.tif',100); ?>
+<?php img('ihs.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Septuagesimæ</p>
    <p:Body/>
@@ -5034,7 +5034,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Septuagesima</p>
    <p:Hidden2>Sexagesima</p>
@@ -5328,7 +5328,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Septuagesima</p>
    <p:Hidden2>Quinquagesima</p>
@@ -5577,7 +5577,7 @@
 <?php img(); ?>
    <p:Body/>
 
-<?php img('ihs.tif',100); ?>
+<?php img('ihs.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Quadragesimæ</p>
    <p:Body/>
@@ -5772,7 +5772,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>First Sunday of Lent</p>
@@ -6277,7 +6277,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>Second Sunday of Lent</p>
@@ -6768,7 +6768,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>Third Sunday of Lent</p>
@@ -7270,7 +7270,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>Lætare Sunday</p>
@@ -7773,7 +7773,7 @@
 <?php img(); ?>
    <p:Body/>
 
-<?php img('ihs.tif',100); ?>
+<?php img('ihs.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Passionis</p>
    <p:Body/>
@@ -8278,7 +8278,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Second Sunday of Passiontide</p>
@@ -8647,7 +8647,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Holy Thursday</p>
@@ -8791,7 +8791,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Good Friday</p>
@@ -8934,7 +8934,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Holy Saturday</p>
@@ -9201,7 +9201,7 @@
 <?php img(); ?>
    <p:Body/>
 
-<?php img('Tempore/t04_easter.tif',100); ?>
+<?php img('Tempore/t04_easter.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Paschatis</p>
    <p:Body/>
@@ -9649,7 +9649,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Low Sunday</p>
@@ -9924,7 +9924,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Second Sunday after Easter</p>
@@ -10199,7 +10199,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Third Sunday after Easter</p>
@@ -10473,7 +10473,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Fourth Sunday after Easter</p>
@@ -10748,7 +10748,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Fifth Sunday after Easter</p>
@@ -10960,7 +10960,7 @@
 <?php img(); ?>
    <p:Body/>
 
-<?php img('Tempore/t05_ascension.tif',100); ?>
+<?php img('Tempore/t05_ascension.png',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Ascensionis</p>
    <p:Body/>
@@ -11092,7 +11092,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Ascensiontide</p>
    <p:Hidden2>The Sunday after the Ascension</p>
@@ -11223,7 +11223,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t06_pentecost.tif',100); ?>
+<?php img('Tempore/t06_pentecost.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Pentecost</p>
    <p:Hidden2>Pentecost</p>
@@ -11857,7 +11857,7 @@
    <p:Head0>Tempus Per Annum</p>
    <p:Body/>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Trinity Sunday</p>
@@ -12296,7 +12296,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t08_corpus_christi.tif',100); ?>
+<?php img('Tempore/t08_corpus_christi.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Corpus Christi</p>
@@ -12864,7 +12864,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t10_sacred_heart.tif',100); ?>
+<?php img('Tempore/t10_sacred_heart.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sacred Heart</p>
@@ -13928,7 +13928,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of August</p>
@@ -14023,7 +14023,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of September</p>
@@ -14216,7 +14216,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of October</p>
@@ -14300,7 +14300,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of November</p>
@@ -15328,7 +15328,7 @@
 <?php img(); ?>
    <p:Spacer/>
    <p:P182/>
-<?php img('Tempore/t00_proprium_tempore.tif',100); ?>
+<?php img('Tempore/t00_proprium_tempore.png',100); ?>
    <p:Head1NI/>
 	<p:Head0><?php 
 echo ($_GET['L']==1?'Proprium de Tempore':'Proper of Seasons')

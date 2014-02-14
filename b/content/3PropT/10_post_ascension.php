@@ -3,7 +3,7 @@
    <p:Head0>Tempus Per Annum</p>
    <p:Body/>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Trinity Sunday',2); ?>
@@ -225,7 +225,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t08_corpus_christi.tif',100); ?>
+<?php img('Tempore/t08_corpus_christi.png',100); ?>
    <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Corpus Christi',2); ?>
@@ -581,7 +581,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('Tempore/t10_sacred_heart.tif',100); ?>
+<?php img('Tempore/t10_sacred_heart.png',100); ?>
    <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Sacred Heart',2); ?>
@@ -1424,7 +1424,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Sundays of August',2); ?>
@@ -1519,7 +1519,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Sundays of September',2); ?>
@@ -1712,7 +1712,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Sundays of October',2); ?>
@@ -1796,7 +1796,7 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-<?php img('separator3.tif',100); ?>
+<?php img('separator3.png',100); ?>
    <p:RubricH/>
 <?php hidden('Trinitytide',1); ?>
 <?php hidden('Sundays of November',2); ?>

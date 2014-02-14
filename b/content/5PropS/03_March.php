@@ -1,7 +1,7 @@
 <?php 
 
 space();
-img('separator3.tif',100);
+img('separator3.png',100);
 head('Festa Martii', 'Feasts of March',1);
 
 feast_saint(304,3,'Sancti Casimiri','Saint Casimir','C',0,

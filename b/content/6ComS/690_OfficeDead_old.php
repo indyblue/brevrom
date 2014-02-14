@@ -1,6 +1,6 @@
    <p:P181/>
 	<p:Body/>
-<?php img('sanctus.tif',100); ?>
+<?php img('sanctus.png',100); ?>
    <p:RubricH/>
 <?php hidden('',1); ?>
 <?php hidden('Office of the Dead',2); ?>

@@ -151,13 +151,9 @@ echo '<html><head>
 	<div class="Hidden2" onClick="name10()"><a href="'.$uri.
 		($v?'':'&v=1').'">Toggle all tags</a></div>'. "\n";
 
-/*
-	NO TIFF SUPPORT IN WEB BROWSER...
-	'/<draw:frame.*rel-(width="[^"]*").*href="\.\.\/([^"]*").*<\/draw:frame>/',
-	'<img src="/b/\2 \1>',
-*/
 
 $regex=array(
+	'/<draw:frame.*rel-width="(\d*)%".*href="\.\.\/([^"]*").*<\/draw:frame>/',
 	'/<text:note.*text:label="([^"]*)".*<p:Footnote>(.*)<\/p>.*<\/text:note>/',
 	'/<l>/',
 	'/<r>/',
@@ -179,6 +175,7 @@ $regex=array(
 	'/\bÁ/', '/\bÉ/', '/\bÍ/', '/\bÓ/', '/\bÚ/', '/\bÝ/', '/\bǼ/',
 );
 $repl=array(
+	'<img src="/b/\2 width=\1%>',
 	'</td></tr><tr><td colspan=2><span style="font-size:100%;color:red">\1\2</span>',
 	'<s:L>',
 	'<s:Red>',
@@ -200,11 +197,12 @@ $repl=array(
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',
 );
 
-
 //'/<p:BodyLDrop>([^<]*)<t><br\/>(.*)
 //	<p:BodyEDrop>([^<]*)<t><br\/>(.*)'
 $txtContent = preg_replace($regex,$repl,$txtContent);
 
+// special function to wrap various sections in a div
+// this gives the ability to show/hide sections
 $txtContent = preg_replace_callback(
 	'/<div class="Hidden([12])">(.*)<\/div>/',
 	'hdiv',
