@@ -1,7 +1,7 @@
 <?php
 
 
-function brS($file,$short=0,$requiem=0,$matins=0) {
+function brS($file,$PT=0,$short=0,$requiem=0,$matins=0) {
 	$dir = "/www/b/content/00/VR/";
 
 	$Lpieces = file_load($dir.$file);
@@ -30,10 +30,14 @@ function brS($file,$short=0,$requiem=0,$matins=0) {
 		$vr1 = '<s:VR>V. </s>';
 		$vr2 = '<s:VR>R. </s>';
 	}
-	$L1 = br_divide($Lpieces);
+	$L1 = br_divide($Lpieces,$PT);
 	$L2 = $Lpieces[1];
-	$E1 = br_divide($Epieces);
+	$E1 = br_divide($Epieces,$PT);
 	$E2 = $Epieces[1];
+	if($PT) {
+		$L1[2] = 'Allelúja, Allelúja.';
+		$E1[2] = 'Alleluia, Alleluia.';
+	}
 	$L13 = '';
 	$E13 = '';
 	if(count($L1)==4 && count($E1==4)) {
@@ -66,16 +70,20 @@ function brS($file,$short=0,$requiem=0,$matins=0) {
 ';
 }
 
-function br_divide($pieces) {
+function br_divide($pieces,$PT) {
 	$first = first_word($pieces[0],4,1);
 	$second = first_word($pieces[1],4,1);
-	$ret = array_map('trim',explode('*',$first[1]));
-	if(count($ret)<2)
-		trigger_error('BrResp error, the line "'. $pieces[0] .'" does not have an astrisk.', E_USER_ERROR);
-
-	array_unshift($ret,$first[0]);
-	$ret[2] = style_first_letter($ret[2],'s:AllCaps');
+	if(!$PT) {
+		$ret = array_map('trim',explode('*',$first[1]));
+		if(count($ret)<2)
+			trigger_error('BrResp error, the line "'. $pieces[0] .'" does not have an astrisk.', E_USER_ERROR);
+	
+		array_unshift($ret,$first[0]);
+		$ret[2] = style_first_letter($ret[2],'s:AllCaps');
 		// mb_substr(mb_strtoupper($ret[2]),0,1) . mb_substr($ret[2],1);
+	} else
+		$ret = array($first[0],$first[1],'');
+
 	if(count($ret)==4)
 		$ret[3] = style_first_letter($ret[3],'s:AllCaps');
 	

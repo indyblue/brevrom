@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
+<?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Blessed Virgin Mary</p>
@@ -89,6 +89,7 @@ echo ($_GET['L']==1?'Commune Sanctæ Mariæ Virginis':'Common of the Blessed Vir
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_14.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
+<?php echo bookmark('ave_maris_stella'); ?>
 <?php hymn('ave_maris_stella.php'); ?>
 <?php vrS('dignare_me_laudare_te_virgo_sacrata.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>

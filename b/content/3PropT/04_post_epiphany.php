@@ -1,10 +1,8 @@
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics51" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Head0>Tempus Per Annum</p>
    <p:Body/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics52" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Second Sunday after the Epiphany</p>
@@ -53,8 +51,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics53" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Third Sunday after the Epiphany</p>
@@ -104,8 +101,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics54" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Fourth Sunday after the Epiphany</p>
@@ -154,8 +150,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics55" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Fifth Sunday after the Epiphany</p>
@@ -204,8 +199,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics56" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Sixth Sunday after the Epiphany</p>
@@ -256,7 +250,6 @@
    <p:BodySm/>
    <p:Rubric>After None on Saturday, the Season throughout the Year before Septuagesima ends, and the Season of Septuagesima begins.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics57" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
 

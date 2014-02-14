@@ -1,30 +1,25 @@
-	           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics4" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="15"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
-   <p:BodySm/>
-   <p:Head1>Festa Februarii</p>
-   <p:BodySm/>
    <p:Body/>
-     <p:Hidden1>Feb. 1 - St. Ignatius</p>
-   <p:Head1NI>Sancti Ignatii</p>
-   <p:Head2>Ep. et Mart. - III classis - Feb. 1</p>
-   <p:Rubric>Psalms and Antiphons of the current feria.</p>
-   <p:Rubric>All else from Common of one Martyr.</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>INFIRMITÁTEM nostram réspice, omnípotens Deus: et, quia pondus propriæ actiónis gravat, beáti Ignátii Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat. Per Dóminum.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>ALMIGHTY God, mercifully look upon our infirmity; and because the burden of our own actions does sorely hinder us, may the glorious intercession of blessed Ignatius, thy martyr and bishop, ever protect us. Through our Lord.</p>
-     </td>
-    </tr>
-   </table>
+<?php img('separator3.tif',100); ?>
+   <p:RubricH/>
+	<p:Head1NI><?php 
+echo ($_GET['L']==1?'Festa Februarii':'Feasts of February') 
+?></p>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics5" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="16"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
-   <p:Body><text:soft-page-break/></p>
-   <p:Head1NI><draw:frame draw:style-name="fr4" draw:name="graphics6" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.45in" style:rel-height="scale" draw:z-index="17"><draw:image xlink:href="../Images/Saints/s1208%20immaculate%20conception.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+
+<?php
+/*
+feast_saint(930,3,'Sancti Hieronymi','Saint Jerome','pCD');
+feast_saint(1009,3,'S. Joannis Leonardi','St. John Leonard','C',0,
+	'feast_saint(1009,-1,"","St. Dionysius, Bp., Rusticus and Eleutherius","M+");');
+ */
+
+feast_saint(201,3,'Sancti Ignatii','Saint Ignatius','EM',
+	array('csMartyrBishop1.php','Ignátii','Ignatius'));
+
+// require '0202-2_purification_bvm.php';
+
+?>
+<?php img('Saints/1208_immaculate_conception.tif',100); ?>
    <p:RubricH/>
      <p:Hidden1>Feb. 2 - Purification of the B.V.M.</p>
    <p:Head1>in Purificatione B. Mariæ Virg.</p>
@@ -244,8 +239,7 @@
    <p:Rubric/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics7" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="18"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>Feb. 3 - St. Blaise</p>
    <p:Head1NI>Sancti Blasii</p>
@@ -285,8 +279,7 @@
     </tr>
    </table>
    <p:Rubric/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics8" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="19"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>Feb. 4 - St. Andrew Corsini</p>
    <p:Head1NI>S. Andreæ Corsini</p>
@@ -304,8 +297,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics9" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="20"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>Feb. 5 - St. Agatha</p>
    <p:Head1NI>Sanctæ Agathæ</p>
@@ -453,7 +445,6 @@
    </table>
    <p:Rubric>Compline of the feria.</p>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics10" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="21"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:BodySm/>
 

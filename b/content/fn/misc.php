@@ -1,5 +1,11 @@
 <?php
 
+function space($type='BodySm') {
+	echo '
+  <p:'. $type .'/>
+';
+}
+
 function bookmark($link='') {
 	return '<p:BkHidden><text:bookmark text:name="' . $link . '"/></p>';
 }
@@ -23,9 +29,5 @@ function lc($file, $text='', $r=1) {
 }
 
 
-function img($name='separator4.tif', $width='619', $height='59', $pct='33') {
-	$dir = "/www/b/content/00/Rubrics/";
-	echo '   <p:Head3><draw:frame text:anchor-type="as-char" svg:width="' . $width .'" style:rel-width="' . $pct . '%" svg:height="' . $height . '" style:rel-height="scale"><draw:image xlink:href="../Images/' . $name . '" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></p>';
-}
 
 ?>

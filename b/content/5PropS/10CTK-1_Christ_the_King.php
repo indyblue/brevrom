@@ -1,4 +1,4 @@
-<?php img('01 Sunday Vespers.tif',1011,309,100); ?>
+<?php img('01_sunday_vespers.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Last Sunday in October',1,'D.N. Jesu Christi Regis','Christ the King'); ?>
 

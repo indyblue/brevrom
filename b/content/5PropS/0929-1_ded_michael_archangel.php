@@ -1,4 +1,4 @@
-<?php img('Saints/0929_dedication_st_michael.tif',1012,397,100); ?>
+<?php img('Saints/0929_dedication_st_michael.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Sept. 29',1,'in Dedicatione S. Michaelis Archangeli','the Dedication of St. Michael the Archangel'); ?>
 

@@ -1,5 +1,4 @@
-	           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics10" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="21"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Festa Julii</p>
    <p:BodySm/>
@@ -93,8 +92,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics11" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 8 - St. Elizabeth, Queen of Portugal</p>
    <p:Head1NI>Sanctae Elisabeth</p>
@@ -185,8 +183,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics12" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="1"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 10 - Seven Brothers, and Ss. Rufina and Secunda</p>
    <p:Head1NI>Ss. Septem Fratrum</p>
@@ -206,8 +203,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics13" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="2"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 11 - St. Pius I</p>
    <p:Head1NI>Sancti Pii I</p>
@@ -248,8 +244,7 @@
     </tr>
    </table>
    <p:Rubric/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics14" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="3"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 12 - St. John Gualbert</p>
    <p:Head1NI>Sancti Joannis Gualberti</p>
@@ -303,8 +298,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics15" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="4"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 14 - St. Bonaventure</p>
    <p:Head1NI>S. Bonaventuræ</p>
@@ -322,8 +316,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics16" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="5"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 15 - St. Henry</p>
    <p:Head1NI>Sancti Henrici</p>
@@ -341,8 +334,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics17" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="6"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 16 - Our Lady of Mount Carmel</p>
    <p:Head1NI>B. Mariæ Virg. de Monte Carmelo</p>
@@ -383,8 +375,7 @@
     </tr>
    </table>
    <p:Rubric/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics18" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="7"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 17 - St.Alexius</p>
    <p:Head1NI>Sancti Alexii</p>
@@ -424,8 +415,7 @@
     </tr>
    </table>
    <p:Rubric/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics19" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="8"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 18 - St. Camillius of Lellis</p>
    <p:Head1NI>S. Camilli de Lellis</p>
@@ -479,8 +469,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics20" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="9"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 19 - St. Vincent de Paul</p>
    <p:Head1NI>Sancti Vincentii a Paulo</p>
@@ -498,8 +487,7 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics21" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="10"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>July 20 - St. Jerome Emiliani</p>
    <p:Head1NI>Sancti Hieronymi Æmiliani</p>
@@ -553,5 +541,4 @@
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics22" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="11"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>

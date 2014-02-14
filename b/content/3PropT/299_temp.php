@@ -1,13 +1,11 @@
    <p:P180/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics4" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.6098in" style:rel-height="scale" draw:z-index="45"><draw:image xlink:href="../Images/Tempore/t00%20proprium%20tempore.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t00_proprium_tempore.tif',100); ?>
    <p:Head1NI/>
    <p:Head0>Proprium de Tempore</p>
    <p:Spacer/>
    <p:Spacer/>
    <p:P181/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics5" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.0598in" style:rel-height="scale" draw:z-index="49"><draw:image xlink:href="../Images/ihs.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('ihs.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Adventus</p>
    <p:Body><s:VR/></p>
@@ -342,11 +340,9 @@
     </tr>
    </table>
    <p:BodySm/>
-           <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics6" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="51"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics7" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="54"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent II</p>
@@ -675,11 +671,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics8" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="57"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics9" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="59"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent III</p>
@@ -1030,11 +1024,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics10" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="53"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics11" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="55"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent - Major Ant.</p>
@@ -1160,11 +1152,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics12" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="50"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics13" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="56"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent IV</p>
@@ -1377,11 +1367,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics14" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="48"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics15" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="52"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Vigil of the Nativity (Dec. 24)</p>
@@ -1712,11 +1700,9 @@
    <p:BodySm/>
    <p:Rubric>After the hour of None, the season of Christmas begins.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics16" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="46"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics17" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.7299in" style:rel-height="scale" draw:z-index="47"><draw:image xlink:href="../Images/Tempore/t01%20christmas.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t01_christmas.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Nativitatis</p>
    <p:Body/>
@@ -2057,11 +2043,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics18" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics19" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Sunday in Octave of Christmas</p>
@@ -2227,11 +2211,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics20" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics21" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - St. Stephen</p>
@@ -2485,11 +2467,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics22" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics23" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - St. John</p>
@@ -2718,11 +2698,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics24" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics25" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - Holy Innocents</p>
@@ -2951,11 +2929,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics26" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics27" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>5th day in the Octave of Christmas</p>
@@ -3022,11 +2998,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics28" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics29" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>6th day in the Octave of Christmas</p>
@@ -3057,11 +3031,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics30" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics31" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>7th day in the Octave of Christmas</p>
@@ -3125,11 +3097,9 @@
    <p:Rubric>Vespers are said of the following, without a commemoration. </p>
    <p:Rubric>However, where St. Sylvester may be honored with the rank of first class, at II Vespers, antiphons and psalms of Christmas are said, and from the little chapter the Office is of the occurring feast, and commemoration is made of the octave day.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics32" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics33" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t02%20circumcision.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t02_circumcision.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas</p>
@@ -3251,11 +3221,9 @@
    <p:BodySm/>
    <p:RubricH>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics34" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics35" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Holy Name of Jesus</p>
@@ -3763,11 +3731,9 @@
    <p:Rubric>After None, Christmastide ends and the Season of the Epiphany begins.</p>
    <p:Rubric>Vespers of the Epiphany, without a commemoration.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics36" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr9" draw:name="graphics37" text:anchor-type="as-char" svg:y="-1.3362in" svg:width="3.75in" style:rel-width="100%" svg:height="1.7299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t03%20epiphany.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t03_epiphany.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Epiphaniæ</p>
    <p:Body/>
@@ -3905,11 +3871,9 @@
    <p:Rubric>The days from January 7 to January 12 are ferias of the Season of the Epiphany of the Lord:</p>
    <p:Rubric>Antiphons and psalms, at all the Hours, are taken from the current day of the week, as in the Psalter. The short response at Prime, as on the feast of the Epiphany. The prayer is said as on the feast of the Epiphany: but on ferias occuring after the first Sunday, it is of the same Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics38" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics39" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Holy Family</p>
@@ -4392,11 +4356,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics40" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics41" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
@@ -4441,8 +4403,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics42" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
@@ -4497,8 +4458,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics43" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
@@ -4533,8 +4493,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics44" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
@@ -4569,8 +4528,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics45" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
@@ -4643,8 +4601,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics46" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Epiphanytide</p>
@@ -4679,11 +4636,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics47" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics48" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>Baptism of our Lord</p>
@@ -4714,11 +4669,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:Rubric/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics49" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics50" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Epiphany</p>
    <p:Hidden2>First Sunday after the Epiphany</p>
@@ -4740,13 +4693,11 @@
    <p:BodySm/>
    <p:Rubric>After Compline of January 13, the Season of the Epiphany ends and the Season throughout the Year before Septuagesima begins.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics51" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Head0>Tempus Per Annum</p>
    <p:Body/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics52" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Second Sunday after the Epiphany</p>
@@ -4795,8 +4746,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics53" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Third Sunday after the Epiphany</p>
@@ -4846,8 +4796,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics54" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Fourth Sunday after the Epiphany</p>
@@ -4896,8 +4845,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics55" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Fifth Sunday after the Epiphany</p>
@@ -4946,8 +4894,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics56" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Per Annum</p>
    <p:Hidden2>Sixth Sunday after the Epiphany</p>
@@ -4998,11 +4945,9 @@
    <p:BodySm/>
    <p:Rubric>After None on Saturday, the Season throughout the Year before Septuagesima ends, and the Season of Septuagesima begins.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics57" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics58" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.0598in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/ihs.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('ihs.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Septuagesimæ</p>
    <p:Body/>
@@ -5296,11 +5241,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics59" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics60" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Septuagesima</p>
    <p:Hidden2>Sexagesima</p>
@@ -5592,11 +5535,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics61" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics62" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Septuagesima</p>
    <p:Hidden2>Quinquagesima</p>
@@ -5842,11 +5783,9 @@
    <p:BodySm/>
    <p:Rubric>After Compline of Tuesday of the week of Quinquagesima the Season of Septuagesima ends, and Lent begins.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics63" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics64" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.0598in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/ihs.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('ihs.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Quadragesimæ</p>
    <p:Body/>
@@ -6039,11 +5978,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics65" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics66" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>First Sunday of Lent</p>
@@ -6546,11 +6483,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics67" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics68" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>Second Sunday of Lent</p>
@@ -7039,11 +6974,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics69" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics70" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>Third Sunday of Lent</p>
@@ -7543,11 +7476,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics71" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics72" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Lent</p>
    <p:Hidden2>Lætare Sunday</p>
@@ -8047,11 +7978,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics73" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics74" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.0598in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/ihs.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('ihs.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Passionis</p>
    <p:Body/>
@@ -8554,11 +8483,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics75" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics76" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Second Sunday of Passiontide</p>
@@ -8925,11 +8852,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics77" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics78" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Holy Thursday</p>
@@ -9071,11 +8996,9 @@
    </table>
    <p:Rubric>And the rest as in the conclusion of Lauds.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics79" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics80" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Good Friday</p>
@@ -9216,11 +9139,9 @@
    </table>
    <p:Rubric>And the rest as in the conclusion of Lauds.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics81" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics82" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Passiontide</p>
    <p:Hidden2>Holy Saturday</p>
@@ -9484,11 +9405,9 @@
    </table>
    <p:Rubric>Then all arise and depart in silence.</p>
 	<p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><sr><draw:frame draw:style-name="fr8" draw:name="graphics83" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-             </draw:frame></s></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics84" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.6in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t04%20Easter.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t04_easter.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Paschatis</p>
    <p:Body/>
@@ -9934,11 +9853,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics85" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics86" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Low Sunday</p>
@@ -10211,11 +10128,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics87" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics88" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Second Sunday after Easter</p>
@@ -10488,11 +10403,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics89" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics90" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Third Sunday after Easter</p>
@@ -10764,11 +10677,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics91" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics92" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Fourth Sunday after Easter</p>
@@ -11041,11 +10952,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics93" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics94" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Fifth Sunday after Easter</p>
@@ -11254,11 +11163,9 @@
    <p:Body/>
    <p:Rubric>After None, the Season of Paschaltide ends, and Ascensiontide begins.</p>
    <p:Body/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics95" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics96" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.4598in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t05%20ascension.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t05_ascension.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Ascensionis</p>
    <p:Body><s:VR/></p>
@@ -11388,11 +11295,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics97" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics98" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Ascensiontide</p>
    <p:Hidden2>The Sunday after the Ascension</p>
@@ -11514,19 +11419,16 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics99" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Head1NI/>
    <p:Head1NI>Sabbato in Vigilia Pentecostes</p>
    <p:Head3>I classis</p>
    <p:Rubric>At Lauds and the Little Hours, antiphons and psalms of Saturday; the rest as in the Ordinary of Ascensiontide. The Collect is of the preceding Sunday.</p>
    <p:Rubric>After None, Ascensiontide ends.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics100" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics101" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.5299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t06%20pentecost.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t06_pentecost.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Pentecost</p>
    <p:Hidden2>Pentecost</p>
@@ -12154,14 +12056,12 @@
    <p:BodySm/>
    <p:Body><sr>After None, the proper Office of the Octave ends, and Paschaltide is finished.</s></p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics102" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Head0>Tempus Per Annum</p>
    <p:Body/>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics103" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Trinity Sunday</p>
@@ -12598,11 +12498,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics104" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics105" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.6701in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t08%20corpus%20christi.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t08_corpus_christi.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Corpus Christi</p>
@@ -13108,8 +13006,7 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics106" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Second Sunday after Pentecost</p>
@@ -13169,11 +13066,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics107" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics108" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t10%20Sacred%20Heart.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t10_sacred_heart.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sacred Heart</p>
@@ -13691,8 +13586,7 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics109" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Third Sunday after Pentecost</p>
@@ -13752,8 +13646,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics110" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Fourth Sunday after Pentecost</p>
@@ -13813,8 +13706,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics111" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Fifth Sunday after Pentecost</p>
@@ -13874,8 +13766,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics112" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sixth Sunday after Pentecost</p>
@@ -13935,8 +13826,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics113" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Seventh Sunday after Pentecost</p>
@@ -13997,8 +13887,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics114" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Eighth Sunday after Pentecost</p>
@@ -14058,8 +13947,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics115" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Ninth Sunday after Pentecost</p>
@@ -14120,8 +14008,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics116" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Tenth Sunday after Pentecost</p>
@@ -14182,8 +14069,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics117" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Eleventh Sunday after Pentecost</p>
@@ -14244,11 +14130,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics118" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics119" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="0.6299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of August</p>
@@ -14269,8 +14153,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics120" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica II Augusti</p>
    <p:Head2>II classis</p>
@@ -14288,8 +14171,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics121" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica III Augusti</p>
    <p:Head2>II classis</p>
@@ -14307,8 +14189,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics122" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica IV Augusti</p>
    <p:Head2>II classis</p>
@@ -14325,8 +14206,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics123" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica V Augusti</p>
    <p:Head2>II classis</p>
@@ -14345,11 +14225,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics124" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics125" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="0.6299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of September</p>
@@ -14370,8 +14248,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics126" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica II Septembris</p>
    <p:Head2>II classis</p>
@@ -14389,8 +14266,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics127" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica III Septembris</p>
    <p:Head2>II classis</p>
@@ -14408,8 +14284,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics128" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
 <?php echo bookmark('SeptEmber'); ?>
    <p:Head2>Feria Quarta</p>
@@ -14443,8 +14318,7 @@
    <p:Head3>Magnificat</p>
    <p:Rubric>Antiphon as in <snr>Benedictus </s>at Lauds.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics129" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head2>Feria Sexta</p>
    <p:Head3>II classis, Quatuor Temporum Septembris</p>
@@ -14477,8 +14351,7 @@
    <p:Head3>Magnificat</p>
    <p:Rubric>Antiphon as in <snr>Benedictus </s>at Lauds.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics130" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head2>Sabbato</p>
    <p:Head3>II classis, Quatuor Temporum Septembris</p>
@@ -14508,8 +14381,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics131" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica IV Septembris</p>
    <p:Head2>II classis</p>
@@ -14527,8 +14399,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics132" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica V Septembris</p>
    <p:Head2>II classis</p>
@@ -14547,11 +14418,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics133" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics134" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="0.6299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of October</p>
@@ -14573,8 +14442,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics135" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica II Octobris</p>
    <p:Head2>II classis</p>
@@ -14592,8 +14460,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics136" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica III Octobris</p>
    <p:Head2>II classis</p>
@@ -14612,8 +14479,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics137" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica IV Octobris</p>
    <p:Head2>II classis</p>
@@ -14631,17 +14497,14 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics138" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica V Octobris</p>
    <p:Rubric>On the Sunday which occurs on a day from October 25 to October 31 inclusive, there is celebrated the feast of our Lord Jesus Christ the King, as noted in the Proper of the Saints, in which is made no commemoration of the occurring Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics139" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics140" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="0.6299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays of November</p>
@@ -14663,14 +14526,12 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics141" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica II Novembris</p>
    <p:Rubric>This Sunday together with its week is always omitted.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics142" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica III Novembris</p>
    <p:Head2>II classis</p>
@@ -14687,8 +14548,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics143" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica IV Novembris</p>
    <p:Head2>II classis</p>
@@ -14705,8 +14565,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics144" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Head1>Dominica V Novembris</p>
    <p:Head2>II classis</p>
@@ -14724,8 +14583,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics145" text:anchor-type="as-char" svg:width="1.3126in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Twelfth Sunday after Pentecost</p>
@@ -14774,8 +14632,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics146" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Thirteenth Sunday after Pentecost</p>
@@ -14824,8 +14681,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics147" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Fourteenth Sunday after Pentecost</p>
@@ -14874,8 +14730,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics148" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Fifteenth Sunday after Pentecost</p>
@@ -14924,8 +14779,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics149" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sixteenth Sunday after Pentecost</p>
@@ -14974,8 +14828,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics150" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Seventeenth Sunday after Pentecost</p>
@@ -15024,8 +14877,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics151" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Eighteenth Sunday after Pentecost</p>
@@ -15074,8 +14926,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics152" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Nineteenth Sunday after Pentecost</p>
@@ -15124,8 +14975,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics153" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Twentieth Sunday after Pentecost</p>
@@ -15174,8 +15024,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics154" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Twenty-first Sunday after Pentecost</p>
@@ -15224,8 +15073,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics155" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Twenty-second Sunday after Pentecost</p>
@@ -15274,8 +15122,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics156" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Twenty-third Sunday after Pentecost</p>
@@ -15324,8 +15171,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics157" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sundays after Epiphany</p>
@@ -15487,8 +15333,7 @@
    <p:BodySm/>
    <p:Rubric>The remaining things proper to this Sunday will be omitted, since if they are to be used up after Pentecost, the Sunday will always occur together with the feast of our Lord Jesus Christ the King.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics158" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Fourth Sunday after the Epiphany</p>
@@ -15537,8 +15382,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics159" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Fifth Sunday after the Epiphany</p>
@@ -15587,8 +15431,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics160" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Sixth Sunday after the Epiphany</p>
@@ -15637,8 +15480,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics161" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Trinitytide</p>
    <p:Hidden2>Twenty-fourth and Last Sunday after Pentecost</p>
@@ -15687,6 +15529,5 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics162" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Spacer/>

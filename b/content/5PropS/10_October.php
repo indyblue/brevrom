@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('separator3.tif',933,170,100); ?>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
 	<p:Head1NI><?php 
 echo ($_GET['L']==1?'Festa Octobris':'Feasts of October') 
@@ -67,6 +67,11 @@ echo ($_GET['L']==1?'Festa Octobris':'Feasts of October')
 <?php prayer('prSanct/1008c_e.php'); ?>
    <p:BodySm/>
 
+<?php
+feast_saint(1009,3,'S. Joannis Leonardi','St. John Leonard','C',0,
+	'feast_saint(1009,-1,"Ss. Dionysii Ep., Rustici et Eleutherii",
+			"St. Dionysius, Bp., Rusticus and Eleutherius","M+");');
+/*
 <?php img(); ?>
    <p:BodySm/>
 <?php headSt('Oct. 9',3,'S. Joannis Leonardi','St. John Leonard','Confessor'); ?>
@@ -79,6 +84,8 @@ echo ($_GET['L']==1?'Festa Octobris':'Feasts of October')
 <?php rubrics('oremus.php'); ?>
 <?php prayer('prSanct/1009c.php'); ?>
    <p:BodySm/>
+*/
+?>
 
 <?php img(); ?>
    <p:BodySm/>

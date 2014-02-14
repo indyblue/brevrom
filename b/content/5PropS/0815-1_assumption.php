@@ -1,4 +1,4 @@
-<?php img('Saints/1007_holy_rosary_bvm.tif',999,316,100); ?>
+<?php img('Saints/1007_holy_rosary_bvm.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Oct. 7',2,'Beatæ Mariæ Virg. a Rosario','The Most Holy Rosary of the B.V.M.'); ?>
 

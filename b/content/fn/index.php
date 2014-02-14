@@ -1,21 +1,12 @@
 <?php 
-require '/www/b/content/fn/file_load.php';
-require '/www/b/content/fn/first_word.php';
-require '/www/b/content/fn/style_first_letter.php';
-require '/www/b/content/fn/misc.php';
-
-require '/www/b/content/fn/rubrics.php';
-require '/www/b/content/fn/antiphon.php';
-require '/www/b/content/fn/vr.php';
-require '/www/b/content/fn/br_resp.php';
-require '/www/b/content/fn/prayer.php';
-require '/www/b/content/fn/psalm.php';
-
-require '/www/b/content/fn/feast_saints.php';
+require '/www/b/content/fn/0list.php';
 
 
 feast_saint(930,3,'Sancti Hieronymi','Saint Jerome','pCD');
-feast_saint(317,3,'Sancti Patricii','Saint Patrick','EC');
+// ,0,'feast_saint(930,-1,"","S. Dorothy","VM");');
+feast_saint(1009,3,'S. Joannis Leonardi','St. John Leonard','C',0,
+	'feast_saint(1009,-1,"","St. Dionysius, Bp., Rusticus and Eleutherius","M+");');
+// feast_saint(317,3,'Sancti Patricii','Saint Patrick','EC');
 
 ?>
 

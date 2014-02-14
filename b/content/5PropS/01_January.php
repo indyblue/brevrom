@@ -1,4 +1,4 @@
-	<?php img('separator3.tif',933,170,100); ?>
+	<?php img('separator3.tif',100); ?>
    <p:RubricH/>
 	<p:Head1NI><?php 
 echo ($_GET['L']==1?'Festa Januarii':'Feasts of January') 
@@ -59,8 +59,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics272" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 16 - St. Marcellus</p>
    <p:Head1NI>Sancti Marcelli I</p>
@@ -78,8 +77,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics273" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 17 - St. Anthony</p>
    <p:Head1NI>Sancti Antonii</p>
@@ -97,8 +95,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics274" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 18 - St. Prisca</p>
    <p:Head1NI>Sanctæ Priscæ</p>
@@ -138,8 +135,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics275" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 19 - Ss. Marius, Martha, Audifax &amp; Abachum</p>
    <p:Head1NI>Ss. Marii, Marthæ, Audifacis et Abachum</p>
@@ -215,8 +211,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:Rubric/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics276" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 20 - Ss. Fabian &amp; Sebastian</p>
    <p:Head1NI>Ss. Fabiani, Papæ, et Sebastiani</p>
@@ -234,8 +229,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics277" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 20 - St. Agnes</p>
    <p:Head1NI>Sanctæ Agnetis</p>
@@ -383,8 +377,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    </table>
    <p:Rubric>Compline of the feria.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics278" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 22 - Ss. Vincent &amp; Anastasius</p>
    <p:Head1NI>Ss. Vincentii et Anastasii</p>
@@ -402,8 +395,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics279" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 23 - St. Raymond of Pennafort</p>
    <p:Head1NI>Sancti Raymundi de Penafort</p>
@@ -457,8 +449,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:Rubric/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics280" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 24 - St. Timothy</p>
    <p:Head1NI>Sancti Timothei</p>
@@ -476,8 +467,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics281" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 25 - Conversion of St. Paul</p>
    <p:Head1NI>in Conversione Sancti Pauli</p>
@@ -661,8 +651,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    </table>
    <p:Rubric>Compline of the feria.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics282" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 26 - St. Polycarp</p>
    <p:Head1NI>Sancti Polycarpi</p>
@@ -680,8 +669,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics283" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Jan 27 - St.John Chrysostom</p>
    <p:Head1NI>Sancti Joannis Chrysostomi</p>
@@ -699,8 +687,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics284" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-				</draw:frame></text:h>
+<?php img(); ?>
    <p:BodySm/>
    <p:Body/>
      <p:Hidden1>Jan 28 - St.Peter Nolasco</p>
@@ -754,8 +741,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
      </td>
     </tr>
    </table>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics1" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="12"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>Jan 29 - St.Francis de Sales</p>
    <p:Head1NI>Sancti Francisci Salesii</p>
@@ -773,8 +759,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics2" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="13"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>Jan 30 - Martina</p>
    <p:Head1NI>Sanctæ Martinæ</p>
@@ -849,8 +834,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
     </tr>
    </table>
    <p:BodySm/>
-           <p:Head3><draw:frame draw:style-name="fr3" draw:name="graphics3" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="14"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></p>
+<?php img(); ?>
    <p:Body/>
      <p:Hidden1>Jan 31 - St. John Bosco</p>
    <p:Head1NI>Sancti Joannis Bosco</p>

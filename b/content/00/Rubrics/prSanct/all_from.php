@@ -27,4 +27,4 @@ elseif($link=='csBVM')
 	echo 'Blessed Virgin Mary' . $ref1 . $link .$ref2;
 else 	trigger_error('all_else refers to unknown bookmark: ' 
 	. $link . '.', E_USER_ERROR);
-?></p>
+?>, except that which is given here as proper.</p>

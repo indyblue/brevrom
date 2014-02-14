@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('CS/01_dedication_of_church.tif',1362,612,100); ?>
+<?php img('CS/01_dedication_of_church.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Dedication of a Church</p>

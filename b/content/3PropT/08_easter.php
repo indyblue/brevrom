@@ -1,5 +1,4 @@
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics84" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.6in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t04%20Easter.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t04_easter.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Paschatis</p>
    <p:Body/>
@@ -445,11 +444,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics85" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics86" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Low Sunday</p>
@@ -722,11 +719,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics87" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics88" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Second Sunday after Easter</p>
@@ -999,11 +994,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics89" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics90" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Third Sunday after Easter</p>
@@ -1275,11 +1268,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics91" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics92" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Fourth Sunday after Easter</p>
@@ -1552,11 +1543,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics93" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics94" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Paschaltide</p>
    <p:Hidden2>Fifth Sunday after Easter</p>
@@ -1765,7 +1754,6 @@
    <p:Body/>
    <p:Rubric>After None, the Season of Paschaltide ends, and Ascensiontide begins.</p>
    <p:Body/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics95" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
 

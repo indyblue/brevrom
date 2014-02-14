@@ -1,6 +1,5 @@
    <p:P182/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics192" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.9701in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/ihs.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('ihs.tif',100); ?>
    <p:Head1NI/>
    <p:Spacer><draw:frame draw:style-name="fr5" draw:name="Frame5" text:anchor-type="paragraph" svg:width="2.052in" style:rel-width="60%" draw:z-index="60">
      <draw:text-box fo:min-height="0.2in">
@@ -229,8 +228,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics193" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Lauds I</p>
@@ -392,8 +390,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics194" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Lauds II</p>
@@ -411,8 +408,7 @@
    <p:Head2>Hymn and Verse</p>
    <p:Rubric>If not proper, as in Lauds I</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics195" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Prime</p>
@@ -447,8 +443,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics196" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Terce</p>
@@ -560,8 +555,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics197" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Sext</p>
@@ -673,8 +667,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics198" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>None</p>
@@ -786,8 +779,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics199" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Vespers</p>
@@ -940,8 +932,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics200" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Compline</p>
@@ -971,8 +962,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr7" draw:name="graphics201" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.8201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/benedicamus%20domino.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img('benedicamus_domino.tif',35); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Matins</p>
@@ -1167,8 +1157,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics202" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Lauds I</p>
@@ -1317,8 +1306,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics203" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Lauds II</p>
@@ -1624,8 +1612,7 @@
    <p:BodySm/>
    <p:Rubric>For ferias, Little Chapter, Hymn and Verse, and Antiphon for Benedictus are taken from Lauds I.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics204" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Prime</p>
@@ -1733,8 +1720,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics205" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Terce</p>
@@ -1843,8 +1829,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics206" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Sext</p>
@@ -1952,8 +1937,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics207" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>None</p>
@@ -2061,8 +2045,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics208" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Vespers</p>
@@ -2211,8 +2194,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics209" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Compline</p>
@@ -2244,8 +2226,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr7" draw:name="graphics210" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.7299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/dove.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img('dove.tif',35); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Matins</p>
@@ -2440,8 +2421,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics211" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Lauds I</p>
@@ -2589,8 +2569,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics212" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Lauds II</p>
@@ -2896,8 +2875,7 @@
    <p:Body/>
    <p:Rubric>For ferias, Little Chapter, Hymn and Verse, and Antiphon for Benedictus are taken from Lauds I.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics213" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Prime</p>
@@ -3006,8 +2984,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics214" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Terce</p>
@@ -3116,8 +3093,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics215" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Sext</p>
@@ -3227,8 +3203,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics216" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>None</p>
@@ -3336,8 +3311,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics217" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Vespers</p>
@@ -3485,8 +3459,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics218" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Compline</p>
@@ -3516,8 +3489,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr7" draw:name="graphics219" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.7299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/dove.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img('dove.tif',35); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Matins</p>
@@ -3778,8 +3750,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics220" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Lauds I</p>
@@ -3927,8 +3898,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics221" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Lauds II</p>
@@ -4234,8 +4204,7 @@
    <p:BodySm/>
    <p:Rubric>For ferias, Little Chapter, Hymn and Verse, and Antiphon for Benedictus are taken from Lauds I.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics222" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Prime</p>
@@ -4343,8 +4312,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics223" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Terce</p>
@@ -4452,8 +4420,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics224" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Sext</p>
@@ -4561,8 +4528,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics225" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>None</p>
@@ -4670,8 +4636,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics226" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Vespers</p>
@@ -4819,8 +4784,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics227" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Compline</p>
@@ -4850,8 +4814,7 @@
     </tr>
    </table>
    <p:BodySm><s:VR/></p>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr7" draw:name="graphics228" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.7299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/dove.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img('dove.tif',35); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Matins</p>
@@ -5046,8 +5009,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics229" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Lauds I</p>
@@ -5195,8 +5157,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics230" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Lauds II</p>
@@ -5502,8 +5463,7 @@
    <p:BodySm/>
    <p:Rubric>For ferias, Little Chapter, Hymn and Verse, and Antiphon for Benedictus are taken from Lauds I.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics231" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Prime</p>
@@ -5601,8 +5561,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics232" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Terce</p>
@@ -5699,8 +5658,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics233" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Sext</p>
@@ -5797,8 +5755,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics234" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>None</p>
@@ -5895,8 +5852,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics235" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Vespers</p>
@@ -6044,8 +6000,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics236" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Compline</p>
@@ -6075,8 +6030,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr7" draw:name="graphics237" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.7299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/dove.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img('dove.tif',35); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Matins</p>
@@ -6271,8 +6225,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics238" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Lauds I</p>
@@ -6420,8 +6373,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics239" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Lauds II</p>
@@ -6727,8 +6679,7 @@
    <p:BodySm/>
    <p:Rubric>For ferias, Little Chapter, Hymn and Verse, and Antiphon for Benedictus are taken from Lauds I.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics240" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Prime</p>
@@ -6825,8 +6776,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics241" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Terce</p>
@@ -6923,8 +6873,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics242" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Sext</p>
@@ -7021,8 +6970,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics243" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>None</p>
@@ -7119,8 +7067,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics244" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Vespers</p>
@@ -7268,8 +7215,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics245" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Compline</p>
@@ -7299,8 +7245,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr7" draw:name="graphics246" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.7299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/dove.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img('dove.tif',35); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Matins</p>
@@ -7497,8 +7442,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics247" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Lauds I</p>
@@ -7647,8 +7591,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics248" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Lauds II</p>
@@ -7958,8 +7901,7 @@
    <p:BodySm/>
    <p:Rubric>For ferias, Little Chapter, Hymn and Verse, and Antiphon for Benedictus are taken from Lauds I.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics249" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Prime</p>
@@ -8056,8 +7998,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics250" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Terce</p>
@@ -8154,8 +8095,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics251" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Sext</p>
@@ -8252,8 +8192,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics252" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>None</p>
@@ -8350,8 +8289,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics253" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Vespers</p>
@@ -8501,8 +8439,7 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics254" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Compline</p>
@@ -8532,7 +8469,6 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr7" draw:name="graphics255" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.75in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/amen.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img('amen.tif',35); ?>
    <p:Spacer/>
 

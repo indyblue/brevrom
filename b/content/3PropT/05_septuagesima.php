@@ -1,5 +1,4 @@
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics58" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.0598in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/ihs.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('ihs.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Septuagesimæ</p>
    <p:Body/>
@@ -293,11 +292,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics59" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics60" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Septuagesima</p>
    <p:Hidden2>Sexagesima</p>
@@ -589,11 +586,9 @@
    <p:Head3>IV classis</p>
    <p:Rubric>Office of the feast or Saturday Office of BVM.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics61" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics62" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Septuagesima</p>
    <p:Hidden2>Quinquagesima</p>
@@ -839,7 +834,6 @@
    <p:BodySm/>
    <p:Rubric>After Compline of Tuesday of the week of Quinquagesima the Season of Septuagesima ends, and Lent begins.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics63" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
 

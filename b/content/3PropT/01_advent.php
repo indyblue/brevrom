@@ -1,5 +1,4 @@
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics5" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.0598in" style:rel-height="scale" draw:z-index="49"><draw:image xlink:href="../Images/ihs.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('ihs.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Adventus</p>
    <p:Body><s:VR/></p>
@@ -334,11 +333,9 @@
     </tr>
    </table>
    <p:BodySm/>
-           <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics6" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="51"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics7" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="54"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent II</p>
@@ -667,11 +664,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics8" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="57"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics9" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="59"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH></p>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent III</p>
@@ -1022,11 +1017,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics10" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="53"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics11" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="55"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent - Major Ant.</p>
@@ -1152,11 +1145,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics12" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="50"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body><s:VR/></p>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics13" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="56"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Advent IV</p>
@@ -1369,11 +1360,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics14" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="48"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics15" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="52"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Advent</p>
    <p:Hidden2>Vigil of the Nativity (Dec. 24)</p>
@@ -1704,7 +1693,6 @@
    <p:BodySm/>
    <p:Rubric>After the hour of None, the season of Christmas begins.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics16" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="46"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
 

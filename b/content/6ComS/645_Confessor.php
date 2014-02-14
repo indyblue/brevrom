@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('separator3.tif',933,170,100); ?>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Confessors</p>
@@ -38,7 +38,7 @@ echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 <?php hymn('jesu_corona_celsior.php'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
-<?php ant('euge_serve_bone_et_fidelis.php','B'); ?>
+<?php ant('euge_serve_bone_et_fidelis-tui.php','B'); ?>
    <p:BodySm/>
 
 <?php echo bookmark('csCLH'); ?>

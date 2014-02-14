@@ -18,9 +18,9 @@ function rubf($fname, $link='') {
 function rubp($Ltxt, $Etxt) {
 	echo '   <table>
    <tr><td:A1>
-    <p:BodyL><sr>'. $Ltxt .'</p>
+    <p:BodyL><sr>'. $Ltxt .'</s></p>
    </td></tr><tr><td:B1>
-    <p:BodyE><sr>'. $Etxt .'</p>
+    <p:BodyE><sr>'. $Etxt .'</s></p>
    </td></tr></table>';
 }
 

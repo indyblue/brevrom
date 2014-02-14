@@ -1,5 +1,5 @@
 	<p:Body/>
-<?php img('separator3.tif',933,170,100); ?>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
 	<p:Head1NI><?php 
 echo ($_GET['L']==1?'Festa Decembris':'Feasts of December') 
@@ -24,8 +24,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics259" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 3 - St. Francis Xavier</p>
    <p:Head1NI>Sancti Francisci Xaverii</p>
@@ -44,8 +43,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics260" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 4 - St. Peter Chrysologus</p>
    <p:Head1NI>Sancti Petri Chrysologi</p>
@@ -100,8 +98,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics261" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 5 - St. Sabbas</p>
    <p:Head1NI>Sancti Sabbæ</p>
@@ -141,8 +138,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics262" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 6 - St. Nicholas</p>
    <p:Head1NI>Sancti Nicolai</p>
@@ -161,8 +157,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics263" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 7 - St. Ambrose</p>
    <p:Head1NI>Sancti Ambrosii</p>
@@ -182,11 +177,9 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    </table>
    <p:Rubric>Vespers is said of the following, with a commemoration of the feria.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics264" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics265" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.45in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Saints/s1208%20immaculate%20conception.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Saints/1208_immaculate_conception.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Dec 8 - Immaculate Conception of the B.V.M.</p>
    <p:Head1>in Conceptione Immaculata B.M.V.</p>
@@ -587,8 +580,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics266" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 10 - St. Melchiades</p>
    <p:Head1NI>Sancti Melchiadis</p>
@@ -628,8 +620,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics267" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 11 - St. Damasus</p>
    <p:Head1NI>Sancti Damasi I</p>
@@ -648,8 +639,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics268" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 13 - St. Lucy</p>
    <p:Head1NI>Sanctæ Luciæ</p>
@@ -748,8 +738,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
    <p:Rubric>Commemoration is made of the feria.</p>
    <p:Rubric>Compline of the feria.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics269" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 16 - St. Eusebius</p>
    <p:Head1NI>Sancti Eusebii</p>
@@ -768,8 +757,7 @@ echo ($_GET['L']==1?'Festa Decembris':'Feasts of December')
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics270" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
    <p:Hidden1>Dec 21 - St. Thomas</p>
    <p:Head1>Sancti Thomae, Ap.</p>

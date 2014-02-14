@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('separator3.tif',933,170,100); ?>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Festa Septembris':'Feasts of September') 

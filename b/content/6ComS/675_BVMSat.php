@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('separator2.tif',1309,257,100); ?>
+<?php img('separator2.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>BVM Saturday</p>

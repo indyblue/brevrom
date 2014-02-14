@@ -1,4 +1,4 @@
-   <text:section text:style-name="Sect1" text:name="Section1" text:protected="true">
+   <text:section text:style-name="Sect1" text:name="Section1" text:protected="false">
 <p:P179/>
    <p:Head1NI>Prayer Before Office</p>
    <table>
@@ -166,8 +166,7 @@
       <p:Head1NI>Diurnale Romanum</p>
       <p:P160>REFORMED BY ORDER OF THE<text:line-break/>HOLY ECUMENICAL COUNCIL OF TRENT<text:line-break/>REVISED RITE<text:line-break/>IN ACCORD WITH MOTU PROPRIO<text:line-break/><s:T4>RUBRICARUM INSTRUCTUM</s><text:line-break/>JOHN XXIII<text:line-break/>IV FEBRUARII MCMLXI</p>
       <p:P159/>
-      <p:P159><draw:frame draw:style-name="fr7" draw:name="graphics3" text:anchor-type="as-char" svg:width="0.8374in" style:rel-width="35%" svg:height="0.3902in" style:rel-height="scale" draw:z-index="42"><draw:image xlink:href="../Images/Title%20JR.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-       </draw:frame></p>
+<?php img('Title_JR.tif',35); ?>
       <p:P159/>
       <p:P169>INCLUDES PSALTER FOR<text:line-break/>HOUR OF MATINS</p>
       <p:P159/>

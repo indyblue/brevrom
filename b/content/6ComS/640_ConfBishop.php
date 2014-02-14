@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('separator3.tif',933,170,100); ?>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Common of Saints</p>
    <p:Hidden2>Confessor Bishop</p>

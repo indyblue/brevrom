@@ -1,4 +1,4 @@
-<?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
+<?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Sept. 15',2,'Septem Dolorum B. Mariæ Virg.','The Seven Sorrows of the B.V.M.'); ?>
 <?php rubrics('head/Lauds.php'); ?>

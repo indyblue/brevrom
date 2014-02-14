@@ -1,4 +1,4 @@
-<?php img('Saints/1101_all_saints.tif',1363,605,100); ?>
+<?php img('Saints/1101_all_saints.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Nov. 1',1,'in Festo Omnium Sanctorum','Feast of All Saints'); ?>
 

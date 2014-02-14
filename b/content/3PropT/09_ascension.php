@@ -1,5 +1,4 @@
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics96" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.4598in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t05%20ascension.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t05_ascension.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Ascensionis</p>
    <p:Body><s:VR/></p>
@@ -129,11 +128,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics97" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics98" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Ascensiontide</p>
    <p:Hidden2>The Sunday after the Ascension</p>
@@ -255,19 +252,16 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics99" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Head1NI/>
    <p:Head1NI>Sabbato in Vigilia Pentecostes</p>
    <p:Head3>I classis</p>
    <p:Rubric>At Lauds and the Little Hours, antiphons and psalms of Saturday; the rest as in the Ordinary of Ascensiontide. The Collect is of the preceding Sunday.</p>
    <p:Rubric>After None, Ascensiontide ends.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics100" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics101" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="1.5299in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t06%20pentecost.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t06_pentecost.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Pentecost</p>
    <p:Hidden2>Pentecost</p>

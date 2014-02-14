@@ -1,5 +1,5 @@
    <p:Body/>
-<?php img('separator3.tif',933,170,100); ?>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
 	<p:Head1NI><?php 
 echo ($_GET['L']==1?'Festa Novembris':'Feasts of November') 
@@ -179,4 +179,4 @@ echo ($_GET['L']==1?'Festa Novembris':'Feasts of November')
 <?php prayer('csMartyrBishop1.php','Petri','Peter'); ?>
 	<p:BodySm/>
 
-<?php img('benedicamus domino.tif',604,415,33); ?>
+<?php img('benedicamus_domino.tif',33); ?>

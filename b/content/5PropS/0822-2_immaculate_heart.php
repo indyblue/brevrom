@@ -1,4 +1,4 @@
-<?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
+<?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Aug. 22',2,'Immaculati Cordis B. Mariæ Virg.','Immaculate Heart of the B.V.M.'); ?>
 <?php rubrics('prSanct/all_from.php','csBVM'); ?>

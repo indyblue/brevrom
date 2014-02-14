@@ -1,5 +1,4 @@
-      <p:Head1NI><draw:frame draw:style-name="fr7" draw:name="graphics17" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.7299in" style:rel-height="scale" draw:z-index="47"><draw:image xlink:href="../Images/Tempore/t01%20christmas.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t01_christmas.tif',100); ?>
    <p:RubricH/>
    <p:Head0>Tempus Nativitatis</p>
    <p:Body/>
@@ -340,11 +339,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics18" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics19" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Sunday in Octave of Christmas</p>
@@ -510,11 +507,9 @@
     </tr>
    </table>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics20" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics21" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - St. Stephen</p>
@@ -768,11 +763,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics22" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics23" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - St. John</p>
@@ -1001,11 +994,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics24" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics25" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas - Holy Innocents</p>
@@ -1234,11 +1225,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics26" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics27" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>5th day in the Octave of Christmas</p>
@@ -1305,11 +1294,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics28" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics29" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>6th day in the Octave of Christmas</p>
@@ -1340,11 +1327,9 @@
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics30" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics31" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>7th day in the Octave of Christmas</p>
@@ -1408,11 +1393,9 @@
    <p:Rubric>Vespers are said of the following, without a commemoration. </p>
    <p:Rubric>However, where St. Sylvester may be honored with the rank of first class, at II Vespers, antiphons and psalms of Christmas are said, and from the little chapter the Office is of the occurring feast, and commemoration is made of the octave day.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics32" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics33" text:anchor-type="as-char" svg:width="3.75in" style:rel-width="100%" svg:height="1.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/Tempore/t02%20circumcision.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('Tempore/t02_circumcision.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Octave of Christmas</p>
@@ -1462,52 +1445,12 @@
    <p:Rubric>Compline taken from Sunday</p>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
-   <p:Head3>Psalms with Antiphons</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 1. </s>O admirábile commércium: * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est; et procédens homo sine sémine, largítus est nobis suam Deitátem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 1. </s>O wondrous fellowship! * The Creator of the human race, taking unto himself a living body, deigns to be born of a Virgin, and becoming man, from no human generation, hath bestowed upon us his divinity.</p>
-     </td>
-    </tr>
-   </table>
+<?php echo bookmark('pt0101L'); ?>
+	<p:Head3>Psalms with Antiphons</p>
+<?php ant('prTemp/0101.php','20000'); ?>
+
 <?php rubrics('ps/SuL1.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 2. </s>Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 2. </s>When thou wast born * after an unspeakable manner of a vigin, then were the Scriptures fulfilled: thou camest down as rain into fleece, to save the children of men. We praise thee, O our God.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 3. </s>Rubum, quem víderat Móyses * incombústum, conservátam agnóvimus tuam laudábilem virginitátem: Dei Génitrix, intercéde pro nobis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 3. </s>In the bush which Moses saw * unconsumed by the fire, we acknowledge the figure of thy glorious inviolate virginity. Mother of God, intercede for us.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 4. </s>Germinávit radix Jesse, * orta est stella ex Jacob: Virgo péperit Salvatórem; te laudámus, Deus noster.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 4. </s>The root of Jesse hath budded forth, the Star is risen out of Jacob, a Virgin hath brought forth the Saviour. We praise thee, O our God.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 5. </s>Ecce María génuit * nobis Salvatórem, quem Joánnes videns, exclamávit, dicens: Ecce Agnus Dei, ecce qui tollit peccáta mundi, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 5. </s>Behold, Mary hath brought forth * unto us the Saviour, whom, when John saw, he cried out, “Behold the Lamb of God, behold him who takes away the sins of the world,” alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php ant('prTemp/0101.php','02222'); ?>
    <p:Rubric>Little Chapter, Hymn and Benedictus as in Ordinary of Christmas.</p>
    <p:BodySm/>
    <p:BodySm/>
@@ -1534,11 +1477,9 @@
    <p:BodySm/>
    <p:RubricH>Compline taken from Sunday</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics34" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
-   <p:Body><draw:frame draw:style-name="fr7" draw:name="graphics35" text:anchor-type="as-char" svg:width="3.4201in" style:rel-width="100%" svg:height="0.6201in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator3.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame></p>
+<?php img('separator3.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Christmas</p>
    <p:Hidden2>Holy Name of Jesus</p>
@@ -2046,7 +1987,6 @@
    <p:Rubric>After None, Christmastide ends and the Season of the Epiphany begins.</p>
    <p:Rubric>Vespers of the Epiphany, without a commemoration.</p>
    <p:BodySm/>
-   <text:h text:style-name="Head3" text:outline-level="4"><draw:frame draw:style-name="fr8" draw:name="graphics36" text:anchor-type="as-char" svg:width="1.1972in" style:rel-width="35%" svg:height="0.1098in" style:rel-height="scale" draw:z-index="0"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-            </draw:frame></text:h>
+<?php img(); ?>
    <p:Body/>
 

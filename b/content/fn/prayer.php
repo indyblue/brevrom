@@ -17,7 +17,6 @@ function prayer($file, $nameL='', $nameE='') {
 		$L = str_replace('<sr>P.</s>','<sr>N.</s> et <sr>N.</s>',$L);
 		$E = str_replace('<sr>P.</s>','<sr>N.</s> and <sr>N.</s>',$E);
 	}
-	echo 'test'. strpos($L,'P.');
 	echo '<table><tr><td:A1>
 <p:BodyLDrop>'. caps_first_word($L) .'</p>
 </td><td:B1>

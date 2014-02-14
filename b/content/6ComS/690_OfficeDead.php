@@ -1,6 +1,6 @@
    <p:P181/>
 	<p:Body/>
-<?php img('sanctus.tif',1348,437,100); ?>
+<?php img('sanctus.tif',100); ?>
    <p:RubricH/>
    <p:Hidden1>Office of the Dead</p>
    <p:Hidden2>Office of the Dead</p>
@@ -50,15 +50,15 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php lc('job7_16-21.php','Lesson i',0); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
-<?php brS('offDef1.php',2,1,1) ?>
+<?php brS('offDef1.php',0,2,1,1) ?>
    <p:BodySm/>
 
 <?php lc('job10_1-7.php','Lesson ii',0); ?>
-<?php brS('offDef2.php',2,1,1) ?>
+<?php brS('offDef2.php',0,2,1,1) ?>
    <p:BodySm/>
 
 <?php lc('job10_8-12.php','Lesson iii',0); ?>
-<?php brs('offDef3.php',0,1,1) ?>
+<?php brS('offDef3.php',0,1,1) ?>
 <?php rubrics('offDef/m1noctLauds.php'); ?>
    <p:BodySm/>
 
@@ -83,15 +83,15 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php lc('job13_22-28.php','Lesson iv',0); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
-<?php brS('offDef4.php',2,1,1) ?>
+<?php brS('offDef4.php',0,2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job14_1-6.php','Lesson v',0); ?>
-<?php brS('offDef5.php',2,1,1) ?>
+<?php brS('offDef5.php',0,2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job14_13-16.php','Lesson vi',0); ?>
-<?php brS('offDef6.php',0,1,1) ?>
+<?php brS('offDef6.php',0,0,1,1) ?>
 <?php rubrics('offDef/m1noctLauds.php'); ?>
    <p:BodySm/>
 
@@ -118,20 +118,20 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php lc('job17_1-3_11-15.php','Lesson vii',0); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
-<?php brS('offDef7.php',2,1,1) ?>
+<?php brS('offDef7.php',0,2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job19_20-27.php','Lesson viii',0); ?>
-<?php brS('offDef8.php',2,1,1) ?>
+<?php brS('offDef8.php',0,2,1,1) ?>
 <p:BodySm/>
 
 <?php lc('job10_18-22.php','Lesson ix',0); ?>
    <p:BodySm/>
 <p:RubricH>The following Respond is said when the Third Nocturn only is said:</p>
-<?php brS('offDef9n1.php',0,1,1) ?>
+<?php brS('offDef9n1.php',0,0,1,1) ?>
    <p:BodySm/>
    <p:RubricH>The following Respond is said when all three Nocturns have been said:</p>
-<?php brS('offDef9n3.php',0,1,1) ?>
+<?php brS('offDef9n3.php',0,0,1,1) ?>
    <p:BodySm/>
 
 	<p:Rubric>If Lauds is not said at all, the Preces are said, as at Lauds <snr>p. <?php echo bkref('offDefLpr'); ?></s></p>

@@ -1,4 +1,4 @@
-<?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
+<?php img('Saints/0908_nativity_of_bvm.tif',100); ?>
 	<p:RubricH/>
 <?php headSt('Oct. 11',2,'Maternitatis B. Mariæ Virg.','Motherhood of the B.V.M.'); ?>
 <?php rubrics('head/Lauds.php'); ?>
