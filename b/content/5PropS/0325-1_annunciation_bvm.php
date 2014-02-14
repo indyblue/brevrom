@@ -3,7 +3,6 @@
 	img('Saints/0325_annunciation.tif',100); 
 	headSt(325,1,'in Annunciatione B. Mariæ Virg.',
 		'Annunciation of the B.V.M.');
-	rubrics('prSanct/all_from.php','csBVM');
 
 	hour('1V'); 
 	rubrics('ps/antLauds.php');
@@ -30,7 +29,6 @@
 
 	space();
 	csref(0,3);
-	rubrics('ps/LittleHoursFeast.php');
 	PrV('qui_natus_es_de_maria_virgine.php'); 
 
 	hour('T'); 

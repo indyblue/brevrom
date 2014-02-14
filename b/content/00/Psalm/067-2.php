@@ -1,9 +1,9 @@
 Psalmus 67 ii
 Dóminus dabit verbum evangelizántibus, * virtúte multa.
-Rex virtútum dilécti dilécti: * et spéciei domus divídere spólia.
+Rex virtútum dilécti dilécti: * et speciéi domus divídere spólia.
 Si dormiátis inter médios cleros, pennæ colúmbæ deargentátæ, * et posterióra dorsi ejus in pallóre auri.
 Dum discérnit cæléstis reges super eam, nive dealbabúntur in Selmon: * mons Dei, mons pinguis.
-Mons coagulátus, mons pinguis: * ut quid suspicámini montes coagulátos?
+Mons coagulátus, mons pinguis: * ut quid suspicámini montes co­agu­lá­tos?
 Mons, in quo beneplácitum est Deo habitáre in eo: * étenim Dóminus habitábit in finem.
 Currus Dei decem míllibus múltiplex, míllia lætántium: * Dóminus in eis in Sina in sancto.
 Ascendísti in altum, cepísti captivitátem: * accepísti dona in homínibus.

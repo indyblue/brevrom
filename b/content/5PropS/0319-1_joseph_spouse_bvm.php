@@ -4,27 +4,27 @@
 	headSt(319,1,'S. Joseph, Sponsi B. Mariæ Virg.',
 		'St. Joseph, Spouse of the B.V.M.','Conf., Universal Patron of the Church');
 	hour('1V');
-	ant('prSanct/0319V1.php','20000');
+	ant('prSanct/0319V1.php','20000',2);
 	rubrics('ps/SuV116.php');
-	ant('prSanct/0319V1.php','02222');
+	ant('prSanct/0319V1.php','02222',2);
 	lc('prov28_20_27_18.php');
 	rubrics('head/HymnVerse.php');
 	hymn('te_joseph_celebrent_agmina_caelitum.php',0);
-	vrS('prSanct/constituit_eum_dominum_domus_suae.php');
-	ant('prSanct/0319m1.php','M');
+	vrS('prSanct/constituit_eum_dominum_domus_suae.php',2);
+	ant('prSanct/0319m1.php','M',2);
 	rubrics('prSanct/comm_lent.php');
 	rubrics('prSanct/ComplineSun.php');
 	
 	space();
 	hour('L');
-	ant('prSanct/0319L.php','20000');
+	ant('prSanct/0319L.php','20000',2);
 	rubrics('ps/SuL1.php');
-	ant('prSanct/0319L.php','02222');
+	ant('prSanct/0319L.php','02222',2);
 	lc('prov28_20_27_18.php');
 	rubrics('head/HymnVerse.php');
 	hymn('iste_quem_laeti_colimus_fideles.php');
-	vrS('os_justi_meditabitur_sapientiam.php');
-	ant('prSanct/0319b.php','B');
+	vrS('os_justi_meditabitur_sapientiam.php',2);
+	ant('prSanct/0319b.php','B',2);
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0319.php');
 	rubrics('prSanct/comm_lent.php');
@@ -67,8 +67,8 @@
 	rubrics('ps/SuV116.php');
 	lc('prov28_20_27_18.php');
 	hymn('te_joseph_celebrent_agmina_caelitum.php',1);
-	vrS('prSanct/gloria_et_divitiae_in_domo_ejus.php');
-	ant('prSanct/0202m2.php','M');
+	vrS('prSanct/gloria_et_divitiae_in_domo_ejus.php',2);
+	ant('prSanct/0319m2.php','M',2);
 	rubrics('head/Prayer.php');
 	prayer('prSanct/0319.php');
 	rubrics('prSanct/comm_lent.php');

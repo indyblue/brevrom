@@ -4,7 +4,8 @@ space();
 img('separator3.tif',100);
 head('Festa Martii', 'Feasts of March',1);
 
-feast_saint(304,3,'Sancti Casimiri','Saint Casimir','C');
+feast_saint(304,3,'Sancti Casimiri','Saint Casimir','C',0,
+	'feast_saint(304,-1,"S. Lucii I","St. Lucius","PM",array("csPope1m.php","Lúcium","Lucius"));');
 
 feast_saint(306,3,'Ss. Perpetuæ et Felicitatis','Ss. Perpetua and Felicitas','HM+',
 		array('csHolyWomenMartyrs1.php','Perpétuæ et Felicitátis','Perpetua and Felicitas'));

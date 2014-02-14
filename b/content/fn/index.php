@@ -14,7 +14,10 @@ echo '<pre>';
 // Everything above is needed; don't delete! //////////////
 ///////////////////////////////////////////////////////////
 
-	feast_saint(224,2,'Sancti Matthiæ','Saint Matthias','A');
+feast_saint(414,3,'Sancti Justini','Saint Justin','M',0,
+	'feast_saint(414,-1,"Ss. Tiburtii, Valeriani et Maximi","Ss. Tiburtius, Valerian and Maximius","M+",0,0,
+	array(0,0,0,0,"lux_perpetua_lucebit_sanctis_tuis_domine.php",
+		"sancti_et_justi_in_domino_gaudete.php"));');
 
 // require $root. '/5PropS/0202-2_purification_bvm.php';
 

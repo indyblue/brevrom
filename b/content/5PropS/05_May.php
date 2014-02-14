@@ -10,7 +10,7 @@ require '0501-1_joseph_worker.php';
 feast_saint(502,3,'Sancti Athanasii','Saint Athanasius','ECD',0,0,
 	array('Athanási','Athanasius'));
 
-feast_saint(503,0,'Ss. Alexandri, Eventii et Theoduli, Mm., ac Juvenalis, Ep. et Conf.','Ss. Alexander I., Eventius, Theodulus, Mm., and Juvenal, Bp., Conf.','M+e');
+feast_saint(503,0,'Ss. Alexandri, Eventii et Theoduli, Mm., ac Juvenalis, Ep. et Conf.','Ss. Alexander I., Eventius, Theodulus, Mm., and Juvenal, Bp., Conf.','-M+');
 
 feast_saint(504,3,'Sanctæ Monicæ','Saint Monica','W');
 

@@ -16,7 +16,7 @@
 	lc('wis3_1.php','csMmVlc','h','sanctorum_meritis_inclyta_gaudia.php');
 	vrS('laetamini_in_domino_et_exultate_justi.php');
 	rubrics('head/Magnificat.php');
-	ant('istorum_est_enim_regnum_caelorum.php','M');
+	ant('istarum_est_enim_regnum_caelorum.php','M');
 	rubrics('cs/1Compline.php');
 
 	space();

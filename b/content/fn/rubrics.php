@@ -58,10 +58,12 @@ function rubp($Ltxt, $Etxt, $par=0, $sm=0) {
 //       3 - little hours from common
 //       4 - sext/none from common
 //       +10 - ...except as follows
+//       +20 - P.T. ...
+//       +30 - Extra. T.P. ...
 function csref($cs=0, $ps=2, $opt=2) {
 	$csE = array(
 	0 => '',
-	'csApPT' => 'Apostles/Martyr(s) in P.T.',
+	'csApPT' => 'Apostles / Martyr(s) in P.T.',
 	'csAp' => 'Apostles',
 	'csP' => 'Supreme Pontiffs',
 	'csMm' => 'Several Martyrs',
@@ -75,7 +77,7 @@ function csref($cs=0, $ps=2, $opt=2) {
 
 	$csL = array(
 	0 => '',
-	'csApPT' => 'Apostolorum/Martyrum T.P.',
+	'csApPT' => 'Apostolorum / Martyrum T.P.',
 	'csAp' => 'Apostolorum',
 	'csP' => 'Summorum Pontificum',
 	'csMm' => 'Plurimorum Martyrum',
@@ -105,7 +107,16 @@ function csref($cs=0, $ps=2, $opt=2) {
 		$lh = 'LH';
 	}
 
-	if($opt>10) {
+	$ptL = ''; $ptE = '';
+	if($opt>30) {
+		$opt -= 30;
+		$ptL = 'Extra tempus paschale, ';
+		$ptE = 'Outside Paschaltide, ';
+	} elseif($opt>20) {
+		$opt -= 20;
+		$ptL = 'Tempore paschali, ';
+		$ptE = 'In Paschaltide, ';
+	} elseif($opt>10) {
 		$opt -= 10;
 		$L2 = ', præter sequentia.';
 		$E2 = ', except the following.';
@@ -137,7 +148,7 @@ function csref($cs=0, $ps=2, $opt=2) {
 	}
 
 	rubp(
-		$Lps . $L1 . $csL[$cs] . $pgref . $L2, 
-		$Eps . $E1 . $csE[$cs] . $pgref . $E2);
+		$Lps . $ptL . $L1 . $csL[$cs] . $pgref . $L2, 
+		$Eps . $ptE . $E1 . $csE[$cs] . $pgref . $E2);
 	}
 

@@ -13,6 +13,7 @@
 // N - adds appropriate "Nocturn" before antiphon
 // P - P.T. Ant. + astrisk
 // p - P.T. Ant., no astrisk
+// e - Extra T.P. Ant., no astrisk
 // I - Invit.
 
 //PT option
@@ -89,6 +90,8 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 				$ast=1; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
 			} elseif($inc=='p') {
 				$ast=0; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
+			} elseif($inc=='e') {
+				$ast=0; $ant='<sr>Extra T.P. Ant.</s> '; $ante = '<sr>Outside P.T. Ant.</s> ';
 			} elseif($inc=='I') {
 				$ast=1; $ant='<sr>Invit.</s> '; $ante = '<sr>Invit.</s> ';
 			} elseif($inc=='N') {

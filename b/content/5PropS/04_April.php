@@ -19,9 +19,13 @@ feast_saint(411,3,'Sancti Leonis I','Saint Leo I','PCD',
 
 require '0413-3_hermenegild.php';
 
-require '0414-3_justin.php';
+feast_saint(414,3,'Sancti Justini','Saint Justin','M',0,
+	'feast_saint(414,-1,"Ss. Tiburtii, Valeriani et Maximi","Ss. Tiburtius, Valerian and Maximius","M+",0,0,
+	array(0,0,0,0,"lux_perpetua_lucebit_sanctis_tuis_domine.php",
+		"sancti_et_justi_in_domino_gaudete.php"));');
 
-require '0417-0_anicetus.php';
+feast_saint(417,0,'Sancti Aniceti','Saint Anicetus','PM',
+	array('csPope1m.php','Anicétum','Anicetus'));
 
 feast_saint(421,3,'Sancti Anselmi','Saint Anselm','ECD',
 	array('csConfessorDoctor.php','Ansélmum','Anselm'),0,

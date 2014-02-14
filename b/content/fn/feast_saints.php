@@ -259,9 +259,9 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		$cs = 'csHW';
 		if($pl && $mart) {
 			$Lvr = 'gloria_et_honore_coronasti_eum_domine.php';
-			$Lant = 'istorum_est_enim_regnum_caelorum.php';
+			$Lant = 'istarum_est_enim_regnum_caelorum.php';
 			$Vvr = 'gloria_et_honore_coronasti_eum_domine.php';
-			$Vant = 'istorum_est_enim_regnum_caelorum.php';
+			$Vant = 'istarum_est_enim_regnum_caelorum.php';
 		} else {
 			$Lvr = 'diffusa_est_gratia_in_labiis_tuis.php';
 			$Lant = 'date_ei_de_fructu_manuum_suarum.php';
@@ -304,6 +304,10 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 				$Vant = $ant[3]; $custV = 1; }
 		elseif(count($ant)>=4 && $ant[3]===1) { 
 			$Vant = sprintf("prSanct/%04sm.php",$date); $custV = 1; }
+		if(count($ant)>=5 && strpos($ant[4],'.php')>0) {
+				$LantP = $ant[4]; $custL = 1; }
+		if(count($ant)>=6 && strpos($ant[5],'.php')>0) {
+				$LvrP = $ant[5]; $custL = 1; }
 	}
 
 	// construct long form type
@@ -350,11 +354,9 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		// lauds v/r & ant
 		if($class==0 || $lent==1) {
 			if($pta==2 && strlen($LantP)>0) {
-				rubrics('head/PT.php');
-				ant($LantP,1,1);
+				ant($LantP,'p',1);
 				vrS($LvrP,1);
-				rubrics('head/PTnot.php');
-				ant($Lant,1);
+				ant($Lant,'e');
 				vrS($Lvr);
 			} else {
 				if($lent==1 && $class>0) rubp('Tempore quadrageimali fit com. in Laudibus tantum.',
@@ -366,12 +368,22 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			rubrics('oremus.php');
 		} elseif(($long || $custL) && $class>0) {
 			if($pta==2 && strlen($LantP)>0) {
-				rubrics('head/PT.php');
-				vrS($LvrP,1,'L');
-				ant($LantP,'B',1);
-				rubrics('head/PTnot.php');
-				vrS($Lvr,0,'L');
-				ant($Lant,'B');
+				if($pt==-1) {
+					space('Line');
+					rubp('Pro commemoratione extra tempus paschale:', 'Before Easter, a comm. is made at Lauds using:');
+					ant($Lant,1);
+					vrS($Lvr,0);
+					space('Line');
+					vrS($LvrP,1,'L');
+					ant($LantP,'B',1);
+				} else {
+					rubrics('head/PT.php');
+					vrS($LvrP,1,'L');
+					ant($LantP,'B',1);
+					rubrics('head/PTnot.php');
+					vrS($Lvr,0,'L');
+					ant($Lant,'B');
+				}
 			} else {			
 				vrS($Lvr,$pta,'L');
 				ant($Lant,'B',$pta);
@@ -406,12 +418,17 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			// and it's not a doctor (handled differently, below)
 			if(($long || $custV) && $class>0 && !($lent==1 && $class==3) && !$doct) {
 				if($pta==2 && strlen($VantP)>0) {
-					rubrics('head/PT.php');
-					vrS($VvrP,1,'V');
-					ant($VantP,'M',1);
-					rubrics('head/PTnot.php');
-					vrS($Vvr,0,'V');
-					ant($Vant,'M');
+					if($pt==-1) {
+						vrS($VvrP,1,'V');
+						ant($VantP,'M',1);
+					} else {
+						rubrics('head/PT.php');
+						vrS($VvrP,1,'V');
+						ant($VantP,'M',1);
+						rubrics('head/PTnot.php');
+						vrS($Vvr,0,'V');
+						ant($Vant,'M');
+					}
 				} else {
 					if($Lvr===$Vvr) vrS($Vvr,3,'V');
 					else vrS($Vvr,$pta,'V');
@@ -438,11 +455,9 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			'Commem. is made of '. $nameE .', '. $Etype .':');
 
 		if($pta==2 && strlen($LantP)>0) {
-			rubrics('head/PT.php');
-			ant($LantP,1,1);
+			ant($LantP,'p',1);
 			vrS($LvrP,1);
-			rubrics('head/PTnot.php');
-			ant($Lant,1);
+			ant($Lant,'e');
 			vrS($Lvr);
 		} else {			
 			ant($Lant,1,$pta);

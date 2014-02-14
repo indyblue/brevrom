@@ -65,7 +65,7 @@ function vrS($file, $option=0, $option2=0) {
 			$E0 = first_word($E1,6,1);
 			$PTL = '';
 			$PTE = '';
-			if($option==1) {
+			if($option2==1) {
 				$PTL = '... allelúja.';
 				$PTE = '... alleluia.';
 			} elseif($option==3) {
