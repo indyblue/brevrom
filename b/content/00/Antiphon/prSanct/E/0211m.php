@@ -1,0 +1,1 @@
+Today the glorious Queen of heaven * appeared on earth; today her word brought to her people a pledge of peace and salvation; today the choirs of Angels and the faithful exult, celebrating with joy the immaculate Conception. <sr>(</s>Alleluia.<sr>)</s>

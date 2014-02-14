@@ -1,0 +1,1 @@
+Dómine Jesu Christe, qui ad recoléndam memóriam dolórum sanctíssimæ Genitrícis tuæ, per septem beátos Patres nova Servórum ejus família Ecclésiam tuam fœcundásti: concéde propítius; ita nos eórum consociári flétibus, ut perfruámur et gáudiis.  Qui vivis.

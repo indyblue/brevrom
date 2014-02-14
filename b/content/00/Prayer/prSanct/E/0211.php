@@ -1,0 +1,1 @@
+O God, who, by the Immaculate Conception of Mary ever Virgin, didst prepare a worthy dwelling-place for thy Son, we thy suppliants beseech thee that, as we celebrate that same Virgin’s apparition, we may obtain health of mind and body. Through the same.

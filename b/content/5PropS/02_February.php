@@ -40,5 +40,9 @@ feast_saint(209,3,'S. Cyrilli, Ep. Alexandrini',
 
 feast_saint(210,3,'Sanctæ Scholasticæ','Saint Scholastica','V');
 
+require '0211-3_apparition_bvm.php';
+
+require '0212-3_seven_founders_servites.php';
+
 ?>
 

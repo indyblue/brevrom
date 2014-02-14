@@ -1,0 +1,1 @@
+Deus, qui per immaculátam Vírginis Conceptiónem dignum Fílio tuo habitáculum præparásti: súpplices a te quǽsumus; ut ejúsdem Vírginis Apparitiónem celebrántes, salútem mentis et córporis consequámur.  Per eúmdem Dóminum.

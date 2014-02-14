@@ -1,0 +1,1 @@
+O Lord Jesus Christ, who to cherish the memory of the sorrows of thy most holy Mother, didst by means of the Seven holy Founders cause thy Church to bring forth a new family of her servants; mercifully grant unto us so to sorrow with them that we may likewise share in their joys. Who livest.
