@@ -1,0 +1,10 @@
+%s/\<[VR]\. \|^\s*\|<[^>]*>//ig | %s/\n\{1,}/\r/ig | %s/, allel\k\ka\.$/./eig | noh
+%s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | %s/\W\{1,}/_/eig | %s/_$//eig | noh
+
+s/\v(.*)\n(.*)/<?php brS('PrTemp\/\1.php'); ?>\r<?php vrS('PrTemp\/\2.php'); ?>/ | noh | />V\. <
+s/_/ /ig
+
+
+\v\c<[^aeiouæœ]{-}((au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
+
+

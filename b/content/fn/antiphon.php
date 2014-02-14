@@ -31,7 +31,7 @@ function ant($file, $incs='*', $nameL='', $nameE='') {
 		$L = $Lpieces[$i];
 		$E = $Epieces[$i];
 		$inc = substr($incs,$i,1);
-		$subst = array(' *','*');
+		$subst = array(' *','*','‡');
 		$ant = '';
 		$ante = '';
 

@@ -3,8 +3,14 @@ g!/BodyL\|HymnL\|Head2Ps/d
 %s/<[^>]*>//ig
 %s/\v<\k*>/\r\0\r/ig
 g!/\k/d
+g/\d/d
 sort
 %s/\v^(.*)$\n(\1\n)+/\1\r/ig
+
+%s/\v^(.*)$\n(\1\n)+//ig
+
+g/\v^(.*)$\n(\1\n)/j
+g/\v^(<.*>).*$\n(\1>)/j
 
 g/\c[áéíóúýǽ]/d
 

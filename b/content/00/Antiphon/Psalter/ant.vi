@@ -1,0 +1,5 @@
+%s/\v(Ant \d.*\nAnt \d.*)\nAnt\..*\nAnt\..*/\1/
+g/^Ant\.[^*]*$/d
+g/NOCTURN/d
+%s/\v(Ant (\d))(.*\n)\1/L\2\3E\2
+%s/\v(Ant\. )(.*\n)\1/L. \2E. /

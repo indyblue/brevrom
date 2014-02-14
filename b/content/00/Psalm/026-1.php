@@ -10,4 +10,3 @@ Ut vídeam voluptátem Dómini, * et vísitem templum ejus.
 Quóniam abscóndit me in tabernáculo suo: * in die malórum protéxit me in abscóndito tabernáculi sui.
 In petra exaltávit me: * et nunc exaltávit caput meum super inimícos meos.
 Circuívi, et immolávi in tabernáculo ejus hóstiam vociferatiónis: * cantábo, et psalmum dicam Dómino.
-

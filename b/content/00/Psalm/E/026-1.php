@@ -10,4 +10,3 @@ That I may see the delight of the Lord, * and may visit his temple.
 For he hath hidden me in his tabernacle; * in the day of evils, he hath protected me in the secret place of his tabernacle.
 He hath exalted me upon a rock: * and now he hath lifted up my head above my enemies.
 I have gone round, and have offered up in his tabernacle a sacrifice of jubilation: * I will sing, and recite a psalm to the Lord.
-

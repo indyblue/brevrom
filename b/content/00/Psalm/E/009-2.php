@@ -10,4 +10,3 @@ The wicked shall be turned into hell, * all the nations that forget God.
 For the poor man shall not be forgotten to the end: * the patience of the poor shall not perish for ever. 
 Arise, O Lord, let not man be strengthened: * let the Gentiles be judged in thy sight.
 Appoint, O Lord, a lawgiver over them: * that the Gentiles may know themselves to be but men.
-

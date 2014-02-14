@@ -30,6 +30,7 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php rubrics('cs/1Compline.php'); ?>
    <p:BodySm/>
 
+<?php bookmark('csCBL'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
 <?php ant('csCBL.php','20000'); ?>
@@ -69,6 +70,7 @@ echo ($_GET['L']==1?'Commune Confessoris Pontificis':'Common of Bishop Confessor
 <?php brS('tu_es_sacerdos_in_aeternum.php'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
    <p:BodySm/>
+<?php bookmark('csCBV'); ?>
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>
 <?php rubrics('ps/SuV131.php'); ?>

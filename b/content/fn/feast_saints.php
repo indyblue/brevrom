@@ -56,6 +56,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0)
 	$day = $date - $month*100;
 	$Ldate = $Lms[$month] . ' ' . $day;
 	$Edate = $Ems[$month] . ' ' . $day;
+	echo $date;
 	// if no prayer has already been inserted, 
 	// construct prayer name from date
 	if(!$prayer) 

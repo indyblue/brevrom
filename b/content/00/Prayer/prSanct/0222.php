@@ -1,0 +1,1 @@
+Deus, qui beáto Petro Apóstolo tuo, collátis clávibus regni cæléstis, ligándi atque solvéndi pontifícium tradidísti; concéde; ut intercessiónis ejus auxílio, a peccatórum nostrórum néxibus liberémur: <sr>(</s>Qui vivis.<sr>)</s>

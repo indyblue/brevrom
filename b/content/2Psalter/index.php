@@ -127,32 +127,6 @@
     </tr>
    </table>
 <?php psalm('009-2.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLIndent>Quóniam non in finem oblívio erit páuperis: * patiéntia páuperum non períbit in finem. </p>
-     </td>
-     <td:B1>
-      <p:BodyEIndent>For the poor man shall not be forgotten to the end: * the patience of the poor shall not perish for ever.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyLIndent>Exsúrge, Dómine, non confortétur homo: * judicéntur Gentes in conspéctu tuo.</p>
-     </td>
-     <td:B1>
-      <p:BodyEIndent>Arise, O Lord, let not man be strengthened: * let the Gentiles be judged in thy sight.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyLIndent>Constítue, Dómine, legislatórem super eos: * ut sciant Gentes quóniam hómines sunt. </p>
-     </td>
-     <td:B1>
-      <p:BodyEIndent>Appoint, O Lord, a lawgiver over them: * that the Gentiles may know themselves to be but men.</p>
-     </td>
-    </tr>
-   </table>
    <p:Spacer/>
    <table>
     <tr>
@@ -211,7 +185,7 @@
       <p:BodyL><sr>Ant 9. </s>Justus Dóminus, * et justítiam diléxit.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>The Lord is just, * and hath loved justice.</p>
+      <p:BodyE><sr>Ant 9. </s>The Lord is just, * and hath loved justice.</p>
      </td>
     </tr>
    </table>
@@ -304,7 +278,7 @@
       <p:BodyL><sr>Ant. </s>Benedícam te in vita mea, Dómine: et in nómine tuo levábo manus meas, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant 3. </s>I will bless thee all my life long, O Lord; and in thy name I will lift up my hands, alleluia.</p>
+      <p:BodyE><sr>Ant. </s>I will bless thee all my life long, O Lord; and in thy name I will lift up my hands, alleluia.</p>
      </td>
     </tr>
     <tr>
@@ -324,7 +298,7 @@
       <p:BodyL><sr>Ant. </s>Tres púeri jussu regis in fornácem missi sunt, non timéntes flammam ignis, dicéntes: Benedíctus Deus, allelúja.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant 4. </s>The three children at the king’s command were cast into the furnace, fearing not the flame of the fire, but saying: “Blessed be God,” alleluia.</p>
+      <p:BodyE><sr>Ant. </s>The three children at the king’s command were cast into the furnace, fearing not the flame of the fire, but saying: “Blessed be God,” alleluia.</p>
      </td>
     </tr>
     <tr>
@@ -1348,10 +1322,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Miserére * mei, Deus, secúndum magnam misericórdiam tuam.</p>
+      <p:BodyL><sr>Ant. </s>Miserére mei, Deus, secúndum magnam misericórdiam tuam.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>Have mercy * on me, O God, according to thy great mercy.</p>
+      <p:BodyE><sr>Ant. </s>Have mercy on me, O God, according to thy great mercy.</p>
      </td>
     </tr>
     <tr>
@@ -2669,7 +2643,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Discérne causam meam, * Deus, de gente non sancta.</p>
+      <p:BodyL><sr>Ant. </s>Discérne causam meam, Deus, de gente non sancta.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Distinguish my cause, O God, from the nation that is not holy</p>
@@ -2854,7 +2828,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><sr>Ant. </s>Lex per Móysen data est, * grátia et véritas per Jesum Christum facta est.</p>
+      <p:BodyLSm><sr>Ant. </s>Lex per Móysen data est, grátia et véritas per Jesum Christum facta est.</p>
      </td>
      <td:B1>
       <p:BodyESm><sr>Ant. </s>The law was given by Moses, but grace and truth came by Jesus Christ.</p>
@@ -3513,7 +3487,7 @@
       <p:BodyL><sr>Ant. </s>Speciósus forma præ fíliis hóminum, diffúsa est grátia in lábiis tuis</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>Thou art beautiful * above the sons of men: grace is poured abroad in thy lips.</p>
+      <p:BodyE><sr>Ant. </s>Thou art beautiful above the sons of men: grace is poured abroad in thy lips.</p>
      </td>
     </tr>
     <tr>
@@ -3521,7 +3495,7 @@
       <p:BodyL><sr>Ant 2. </s>Confitebúntur tibi * pópuli, Deus, in ætérnum.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>A</s><sr>nt 2. </s>People shall praise thee, * O God, for ever.</p>
+      <p:BodyE><sr>Ant 2. </s>People shall praise thee, * O God, for ever.</p>
      </td>
     </tr>
    </table>
@@ -4855,7 +4829,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Vidéte ópera Dómini, * et audítam fácite vocem laudis ejus.</p>
+      <p:BodyL><sr>Ant. </s>Vidéte ópera Dómini, et audítam fácite vocem laudis ejus.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Behold ye the works of the Lord, and make the voice of his praise to be heard.</p>
@@ -4901,7 +4875,7 @@
       <p:BodyL><sr>Ant. </s>Exsúrgat Deus, et dissipéntur inimíci ejus.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>Let God arise, * and let his enemies be scattered.</p>
+      <p:BodyE><sr>Ant. </s>Let God arise, and let his enemies be scattered.</p>
      </td>
     </tr>
     <tr>
@@ -4938,10 +4912,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>In ecclésiis * benedícite Dómino Deo.</p>
+      <p:BodyL><sr>Ant. </s>In ecclésiis benedícite Dómino Deo.</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant 6. </s>In the churches * bless ye God the Lord.</p>
+      <p:BodyE><sr>Ant. </s>In the churches bless ye God the Lord.</p>
      </td>
     </tr>
    </table>
@@ -5872,10 +5846,10 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Ecce, quam bonum * et quam jucúndum, habitáre fratres in unum!</p>
+      <p:BodyL><sr>Ant. </s>Ecce, quam bonum et quam jucúndum, habitáre fratres in unum!</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>Behold, how good * and how pleasant it is, for brethren to dwell together in unity.</p>
+      <p:BodyE><sr>Ant. </s>Behold, how good and how pleasant it is, for brethren to dwell together in unity.</p>
      </td>
     </tr>
     <tr>
@@ -6180,7 +6154,7 @@
       <p:BodyL><sr>Ant. </s>Ádjuva nos, Deus, salutáris noster: et propítius esto peccátis nostris. </p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant 7. </s>Help us, * O God, our saviour: and forgive us our sins.</p>
+      <p:BodyE><sr>Ant. </s>Help us, * O God, our saviour: and forgive us our sins.</p>
      </td>
     </tr>
     <tr>
@@ -6672,7 +6646,7 @@
       <p:BodyLSm><sr>Ant. </s>Meménto mei, Dómine, dum véneris in regnum tuum.</p>
      </td>
      <td:B1>
-      <p:BodyESm><sr>Ant 5. </s>Remember me, O Lord, when thou comest into thy kingdom.</p>
+      <p:BodyESm><sr>Ant. </s>Remember me, O Lord, when thou comest into thy kingdom.</p>
      </td>
     </tr>
    </table>

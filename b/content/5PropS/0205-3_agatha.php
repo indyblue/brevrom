@@ -1,7 +1,7 @@
 <?php 
 	space();
 	img(); 
-	feast_saint(0205,'H','Sanctæ Agathæ','Saint Agatha','VM');
+	feast_saint(205,'H','Sanctæ Agathæ','Saint Agatha','VM');
 
 	rubrics('head/Lauds.php'); 
 	ant('prSanct/0205L.php','20000'); 

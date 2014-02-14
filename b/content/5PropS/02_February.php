@@ -52,5 +52,7 @@ feast_saint(215,0,'Ss. Faustini et Jovitæ','Ss. Faustinus and Jovita','M+',
 feast_saint(218,0,'Sancti Simeonis','Saint Simeon','EM',
 	array('csMartyrBishop1.php','Simeónis','Simeon'));
 
+// require '0222-2_chair_st_peter.php';
+
 ?>
 

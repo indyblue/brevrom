@@ -10,4 +10,3 @@ Convertántur peccatóres in inférnum, * omnes Gentes quæ obliviscúntur Deum.
 Quóniam non in finem oblívio erit páuperis: * patiéntia páuperum non períbit in finem.
 Exsúrge, Dómine, non confortétur homo: * judicéntur Gentes in conspéctu tuo.
 Constítue, Dómine, legislatórem super eos: * ut sciant Gentes quóniam hómines sunt.
-
