@@ -3,6 +3,9 @@
 space();
 img('separator3.tif',100);
 head('Festa Julii', 'Feasts of July',1);
+
+require '0701-1_precious_blood.php';
+
 ?>
    <p:BodySm/>
    <p:Body/>
