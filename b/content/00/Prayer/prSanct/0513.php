@@ -1,0 +1,1 @@
+Deus, qui ad errórum insídias repelléndas et Apostólicæ Sedis jura propugnánda, beátum Robértum Pontíficem tuum atque Doctórem mira eruditióne et virtúte decorásti; ejus méritis et intercessióne concéde, ut nos in veritátis amóre crescámus et errántium corda ad Ecclésiæ tuæ rédeant unitátem. Per Dóminum.

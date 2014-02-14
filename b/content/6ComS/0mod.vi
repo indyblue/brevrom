@@ -1,0 +1,1 @@
+%s/<?php /\t/ | %s/ ?>// | %s/.*<p:\(.*\)\/>/\tspace('\1');/ |%s/space('BodySm')/space()/

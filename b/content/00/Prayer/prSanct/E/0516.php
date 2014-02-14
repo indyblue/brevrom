@@ -1,0 +1,1 @@
+Graciously help us, we beseech thee, O Lord, and by the intercession of blessed Ubaldus thy Confessor and Bishop stretch forth the right hand of thy mercy to shield us from the fiery darts of the wicked one. Through our Lord.

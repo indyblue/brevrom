@@ -8,6 +8,9 @@
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:automatic-styles>
+  <style:style style:name="TableParallelH" style:family="table" style:master-page-name="">
+   <style:table-properties style:page-number="0" table:align="margins" fo:keep-with-next="always"/>
+  </style:style>
   <style:style style:name="TableParallel" style:family="table" style:master-page-name="">
    <style:table-properties style:page-number="0" table:align="margins"/>
   </style:style>
@@ -24,7 +27,11 @@
   </style:style>
   <style:style style:name="TableParallel.B1" style:family="table-cell">
    <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.04in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="none">
-<?php /*   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.03in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="none"> */ ?>
+    <style:background-image/>
+   </style:table-cell-properties>
+  </style:style>
+  <style:style style:name="TableParallel.B2" style:family="table-cell">
+   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.04in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="none">
     <style:background-image/>
    </style:table-cell-properties>
   </style:style>

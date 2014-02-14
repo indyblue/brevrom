@@ -1,0 +1,1 @@
+O God, in defence of whose Church the glorious Bishop Stanislaus fell by the swords of the impious; grant, we beseech thee, that all who implore his help may obtain the salutary effect of their petition. Through our Lord.

@@ -9,9 +9,9 @@
 	<p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/0914.php','20000'); ?>
+<?php ant('prSanct/0914L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/0914.php','02222'); ?>
+<?php ant('prSanct/0914L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('phil2_5.php'); ?>
 <?php rubrics('asIn.php','lustra_sex_qui_jam_peregit','Ordinary of Passiontide','Hymn <snr>Lustra sex qui jam perégit</s>'); ?>

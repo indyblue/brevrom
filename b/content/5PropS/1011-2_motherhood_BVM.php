@@ -3,9 +3,9 @@
 <?php headSt('Oct. 11',2,'Maternitatis B. Mariæ Virg.','Motherhood of the B.V.M.'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1011.php','20000'); ?>
+<?php ant('prSanct/1011L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1011.php','02222'); ?>
+<?php ant('prSanct/1011L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus24_12.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

@@ -11,7 +11,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:Rubric>This Office is said in choir on the day of burial and at other times according to custom. Matins and Lauds are said after Lauds of the day, and Vespers after Vespers of the day. They are begun immediately after the versicle: <snr>Benedicámus Dómino, Deo grátias</s>.</p>
 
 	<p:RubricH>At the end of all the psalms, in place of the <snr>Glória Patri</s>, there is always said:</p>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Rubric>It is always said in the plural.</p>
 
 <?php rubrics('head/Matins.php'); ?>
@@ -20,7 +20,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php ant('regem_cui_omnia_vivunt_venite_adoremus.php','+'); ?>
 <?php rubrics('asIn.php','Ps94','Ordinary of Matins','The invitatory is said with Psalm 94,'); ?> 
 	<p:RubricH>But in place of the <snr>Glória Patri</s> at the end of the psalm is said:</p>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 	<p:BodySm/>
 
    <p:Rubric>If only one Nocturn is said: On the day of burial, the First Nocturn is always said. Otherwise, the Nocturn is selected by day of week:</p>
@@ -35,15 +35,15 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php ant('offDefMatins.php','200000000'); ?>
 <?php psalm('005.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','120000000'); ?>
 <?php psalm('006.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','012000000'); ?>
 <?php psalm(7); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','001000000'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>
@@ -68,15 +68,15 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php bookmark('offDefMn2'); ?>
 <?php ant('offDefMatins.php','000200000'); ?>
 <?php psalm('022.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000120000'); ?>
 <?php psalm(24); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000012000'); ?>
 <?php psalm(26); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000001000'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>
@@ -101,15 +101,15 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php bookmark('offDefMn3'); ?>
 <?php ant('offDefMatins.php','000000200'); ?>
 <?php psalm(39); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000120'); ?>
 <?php psalm('040.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000012'); ?>
 <?php psalm(41); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefMatins.php','000000001'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>
@@ -145,23 +145,23 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:Rubric>Lauds begins at once with the first antiphon.</p>
 <?php ant('offDefL.php','20000'); ?>
 <?php psalm('050.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefL.php','12000'); ?>
 <?php psalm('064.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefL.php','01200'); ?>
 <?php psalm('062.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefL.php','00120'); ?>
 <?php canticle('ezechiel.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefL.php','00012'); ?>
 <?php psalm('150.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefL.php','00001'); ?>
 	<p:BodySm/>
@@ -171,7 +171,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('offDefb.php','B'); ?>
 <p:RubricH>The <snr>Benedictus</s> is then said <snr>(p. <?php echo bkref('Benedictus'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <p:Rubric>The antiphon is then repeated.</p>
 	<p:BodySm/>
 
@@ -256,23 +256,23 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
    <p:Rubric>Vespers begins at once with the first antiphon.</p>
 <?php ant('offDefV.php','20000'); ?>
 <?php psalm('114.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefV.php','12000'); ?>
 <?php psalm('119.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefV.php','01200'); ?>
 <?php psalm('120.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefV.php','00120'); ?>
 <?php psalm('129.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefV.php','00012'); ?>
 <?php psalm('137.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
    <p:Spacer/>
 <?php ant('offDefV.php','00001'); ?>
 	<p:BodySm/>
@@ -282,7 +282,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('offDefm.php','M'); ?>
 <p:RubricH>The <snr>Magnificat</s> is then said <snr>(p. <?php echo bkref('Magnificat'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <p:Rubric>The antiphon is then repeated.</p>
 	<p:BodySm/>
 

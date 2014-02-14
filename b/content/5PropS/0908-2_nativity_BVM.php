@@ -3,9 +3,9 @@
 <?php headSt('Sept. 8',2,'in Nativitate B. Mariæ Virg.','Nativity of the B.V.M.'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/0908.php','20000'); ?>
+<?php ant('prSanct/0908L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/0908.php','02222'); ?>
+<?php ant('prSanct/0908L.php','02222'); ?>
 <?php rubrics('asIn.php','csBVMLlc','Common of B.V.M.','Little Chapter &amp; Hymn <snr>O Gloriósa vírginum</s>'); ?>
 <?php vrS('prSanct/nativitas_est_hodie_sanctae_mariae_virginis.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>

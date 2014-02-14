@@ -2,9 +2,9 @@
    <p:BodySm/>
 <?php headSt('Nov. 11',3,'Sancti Martini','Saint Martin','Bishop, Conf.'); ?>
 <?php rubrics('head/Lauds.php'); ?>
-<?php ant('prSanct/1111.php','20000'); ?>
+<?php ant('prSanct/1111L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1111.php','02222'); ?>
+<?php ant('prSanct/1111L.php','02222'); ?>
 <?php rubrics('asIn.php','csCBLlc','Lauds of the Common of Confessor Bishops','Little Chapter &amp; Hymn <snr>Jesu, Redémptor ómnium</s>'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>

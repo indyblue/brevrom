@@ -2,13 +2,46 @@
 	space();
 	img('separator3.tif',100); ?>
 	<p:Head1NI><?php 
-echo ($_GET['L']==1?'Festa Aprilis':'Feasts of April') 
+echo ($_GET['L']==1?'Festa Maii':'Feasts of May') 
 ?></p>
 
 <?php
 
 require '0501-1_joseph_worker.php';
 
+feast_saint(502,3,'Sancti Athanasii','Saint Athanasius','ECD',0,0,
+	array('Athanási','Athanasius'));
+
+feast_saint(503,0,'Ss. Alexandri, Eventii et Theoduli, Mm., ac Juvenalis, Ep. et Conf.','Ss. Alexander I., Eventius, Theodulus, Mm., and Juvenal, Bp., Conf.','M+e');
+
+feast_saint(504,3,'Sanctæ Monicæ','Saint Monica','W');
+
+feast_saint(505,3,'Sancti Pii V','Saint Pius V','PC');
+
+feast_saint(507,3,'Sancti Stanislai','Saint Stanislaus','EMe');
+
+feast_saint(509,3,'S. Gregorii Nazianzeni','St. Gregory Nazianzen','ECD',
+	array('csConfessorDoctor.php','Gregórium','Gregory'),0,
+	array('Gregóri','Gregory'));
+
+feast_saint(510,3,'Sancti Antonini','Saint Antoninus','EC',0,
+	'feast_saint(510,-1,"Ss. Gordiani et Epimachi","Ss. Gordian and Epimachus","M+e");');
+
+require '0511-2_philip_james.php';
+
+feast_saint(512,3,'Ss. Nerei, Achillei, et Domitillæ, V., atque Pancratii','Ss. Nereus Achilleus, and Domitilla, V., and Pancratii','M+e');
+
+feast_saint(513,3,'S. Roberti Bellarmino','St. Robert Bellarmine','ECD',0,0,
+	array('Robérte','Robert'));
+
+feast_saint(514,0,'Sancti Bonifatii','Saint Boniface','Me');
+
+feast_saint(515,3,'S. Joannis Baptistæ de la Salle','St. John Baptist de la Salle','C');
+
+feast_saint(516,3,'Sancti Ubaldi','Saint Ubaldus','EC');
+
+
+/*
 feast_saint(402,3,'S. Francisci de Paula','St. Francis of Paula','C');
 
 feast_saint(404,3,'Sancti Isidori','Saint Isidore','ECD',
@@ -50,6 +83,6 @@ feast_saint(428,3,'S. Pauli a Cruce','St. Paul of the Cross','C');
 feast_saint(429,3,'Sancti Petri','Saint Peter','Me');
 
 feast_saint(430,3,'S. Catharinæ Senensis','St. Catharine of Siena','V');
-
+ */
 ?>
 

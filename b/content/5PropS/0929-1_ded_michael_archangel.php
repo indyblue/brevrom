@@ -14,9 +14,9 @@
 
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/0929.php','20000'); ?>
+<?php ant('prSanct/0929L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/0929.php','02222'); ?>
+<?php ant('prSanct/0929L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc1_1.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

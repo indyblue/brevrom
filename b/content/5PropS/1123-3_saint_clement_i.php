@@ -2,9 +2,9 @@
    <p:BodySm/>
 <?php headSt('Nov. 23',3,'Sancti Clementis I','Saint Clement I','Pope, Martyr'); ?>
 <?php rubrics('head/Lauds.php'); ?>
-<?php ant('prSanct/1123.php','20000'); ?>
+<?php ant('prSanct/1123L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1123.php','02222'); ?>
+<?php ant('prSanct/1123L.php','02222'); ?>
 <?php rubrics('asIn.php','csMLlc','Lauds of the Common of one Martyr','Little Chapter &amp; Hymn <snr>Invícte Martyr, únicum</s>'); ?>
 <?php vrS('justus_ut_palma_florebit.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>

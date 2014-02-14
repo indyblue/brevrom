@@ -1,0 +1,1 @@
+O God, who, in order to crush the enemies of thy Church and to restore the divine worship, didst vouchsafe to raise the blessed Pius to the supreme Pontificate; grant that we may be defended by his patronage, and so cleave unto thy service that, overcoming all the snares of the enemy, we may rejoice in perpetual peace. Through our Lord.

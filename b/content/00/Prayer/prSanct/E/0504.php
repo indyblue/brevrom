@@ -1,0 +1,1 @@
+O God, who art the comforter of them that mourn, and the salvation of them that hope in thee: who didst graciously accept the pious tears which St. Monica poured forth for the conversion of her son Augustine; grant us by their united intercession to bewail our sins and to obtain thy merciful pardon. Through our Lord.

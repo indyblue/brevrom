@@ -6,6 +6,7 @@ require '/www/b/content/fn/image.php';
 require '/www/b/content/fn/misc.php';
 
 require '/www/b/content/fn/rubrics.php';
+require '/www/b/content/fn/head.php';
 require '/www/b/content/fn/antiphon.php';
 require '/www/b/content/fn/vr.php';
 require '/www/b/content/fn/br_resp.php';

@@ -1,0 +1,1 @@
+Auxílium tuum nobis, Dómine, quǽsumus, placátus inténde: et intercessióne beáti Ubáldi Confessóris tui atque Pontíficis, contra omnes diáboli nequítias déxteram super nos tuæ propitiatiónis exténde. Per Dóminum.

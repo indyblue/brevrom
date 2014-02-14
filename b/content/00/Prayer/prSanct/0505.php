@@ -1,0 +1,1 @@
+Deus, qui ad conteréndos Ecclésiæ tuæ hostes, et ad divínum cultum reparándum, beátum Pium Pontíficem máximum elígere dignátus es: fac nos ipsíus deféndi præsídiis, et ita tuis inhærére obséquiis; ut, ómnium hóstium superátis insídiis, perpétua pace lætémur. Per Dóminum.

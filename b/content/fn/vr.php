@@ -1,8 +1,10 @@
 <?php
 
 //$option:
-// 1 - Alleluia.
-// 2 - no V/R. 
+//0 - nothing added
+//1 - 'Alleluia' added
+//2 - '(P.T. Alleluia)' added
+//6 - no V/R. 
 
 function vr($file, $option=0) {
 	$dir = "/www/b/content/00/VR/long/";
@@ -18,7 +20,19 @@ function vrS($file, $option=0, $short=0) {
 	$iEfile = (int)(count($Epieces));
 	if($iLfile<2 || $iEfile<$iLfile)
 		trigger_error('VR line count problem (' . $file . '). Latin: ' . $iLfile . ', English: ' . $iEfile, E_USER_ERROR);
-	
+
+	if($option==0) {
+		$PTL = '';
+		$PTE = '';
+	} elseif($option==1) {
+		$PTL = ' Allelúja.';
+		$PTE = ' Alleluia.';
+	} elseif($option==2) {
+		$PTL = ' <sr>(T.P.</s> Allelúja.<sr>)</s>';
+		$PTE = ' <sr>(P.T.</s> Alleluia.<sr>)</s>';
+	}
+
+
 	echo '   <table>
 ';
 	
@@ -29,7 +43,7 @@ function vrS($file, $option=0, $short=0) {
 		$E2 = $Epieces[$i+1];
 		$subst = array(' *','*');
 
-		if($option==2)
+		if($option==6)
 			echo '   <tr><td:A1>
     <p:BodyL>'. style_first_letter($L1,'sb') .'</p>
    </td><td:B1>
@@ -51,10 +65,11 @@ function vrS($file, $option=0, $short=0) {
    </td></tr>
 ';
 		} else {
-			$L1 = str_replace($subst,'',$L1) .' Allelúja.';
-			$E1 = str_replace($subst,'',$E1) .' Alleluia.';
-			$L2 .= ' Allelúja.';
-			$E2 .= ' Alleluia.';
+			$L1 = str_replace($subst,'',$L1) . $PTL;
+			$E1 = str_replace($subst,'',$E1) . $PTE;
+			$L2 .= $PTL;
+			$E2 .= $PTE;
+
 			echo '   <tr><td:A1>
     <p:BodyL><s:VR>V. </s>'. $L1 .' <s:VR>R. </s>'. $L2 .'</p>
    </td><td:B1>

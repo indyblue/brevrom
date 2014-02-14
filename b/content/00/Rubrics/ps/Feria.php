@@ -1,1 +1,1 @@
-<p:Rubric><?php $link ?>Psalms and antiphons of the current feria.</p>
+<p:Rubric><?php echo $link ?>Psalms and antiphons of the current feria.</p>

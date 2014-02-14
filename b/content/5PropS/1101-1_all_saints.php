@@ -14,9 +14,9 @@
 
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1101.php','20000'); ?>
+<?php ant('prSanct/1101L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1101.php','02222'); ?>
+<?php ant('prSanct/1101L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc7_2.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>
@@ -32,11 +32,11 @@
 	<p:BodySm/>
 
 <?php rubrics('head/Prime.php'); ?>
-<?php ant('prSanct/1101.php','*0000'); ?>
+<?php ant('prSanct/1101L.php','*0000'); ?>
 	<p:BodySm/>
 
 <?php rubrics('head/Terce.php'); ?>
-<?php ant('prSanct/1101.php','0*000'); ?>
+<?php ant('prSanct/1101L.php','0*000'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc7_2.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -45,7 +45,7 @@
    <p:BodySm/>
 
 <?php rubrics('head/Sext.php'); ?>
-<?php ant('prSanct/1101.php','00*00'); ?>
+<?php ant('prSanct/1101L.php','00*00'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc7_9.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>
@@ -54,7 +54,7 @@
    <p:BodySm/>
 
 <?php rubrics('head/None.php'); ?>
-<?php ant('prSanct/1101.php','0000*'); ?>
+<?php ant('prSanct/1101L.php','0000*'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('apoc7_12.php'); ?>
 <?php rubrics('head/BriefRespond.php'); ?>

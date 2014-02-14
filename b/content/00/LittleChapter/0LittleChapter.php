@@ -12,26 +12,18 @@ $txtL = trim($pieces[1]);
 $txtE = trim($pieces[2]);
 
 ?>
-	<text:p text:style-name=<?php 
-echo ($text==''?'"RubricHSm">':'"RubricH">'.$text) . '<t>' . $cv;
+	<text:p text:style-name="RubricHSm">Capit. (Little Chapt.)<t><?php echo $cv;
 ?></p>
-   <table>
-    <tr>
-     <td:A1>
-	  <p:BodyLDrop><?php echo caps_first_word($txtL); ?></p>
-<?php 
+   <table> <tr> <td:A1>
+	  <p:BodyLDrop><?php echo caps_first_word($txtL); ?><t><?php 
+if($r==1)
+	echo ' <s:VR>R. </s>Deo grátias.</p>
+';
+?>
+     </td> <td:B1>
+		<p:BodyEDrop><?php echo caps_first_word($txtE); ?><t><?php 
 if($r==1) 
-	echo '<p:BodyL><s:VR>R. </s>Deo grátias.</p>
+	echo ' <s:VR>R. </s>Thanks be to God.</p>
 		';
 ?>
-     </td>
-     <td:B1>
-		<p:BodyEDrop><?php echo caps_first_word($txtE); ?></p>
-<?php 
-if($r==1) 
-	echo '      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-		';
-?>
-     </td>
-    </tr>
-   </table>
+     </td> </tr> </table>

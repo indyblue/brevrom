@@ -30,7 +30,7 @@ $regex=array(
 	'/<\/p>/',
 	'/<s:([^\/>]*)/',
 	'/<\/s>/',
-	'/<table>/',
+	'/<table([^>]*)>/',
 	'/<\/table>/',
 	'/<tr>/',
 	'/<\/tr>/',
@@ -52,7 +52,7 @@ $repl=array(
 	'</text:p>',
 	'<text:span text:style-name="\1"',
 	'</text:span>',
-	'<table:table table:name="Table2399" table:style-name="TableParallel">
+	'<table:table table:name="Table2399" table:style-name="TableParallel\1">
     <table:table-column table:style-name="TableParallel.A"/>
 	 <table:table-column table:style-name="TableParallel.B"/>',
 	'</table:table>',

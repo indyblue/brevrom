@@ -3,9 +3,9 @@
 <?php headSt('Sept. 15',2,'Septem Dolorum B. Mariæ Virg.','The Seven Sorrows of the B.V.M.'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/0915.php','20000'); ?>
+<?php ant('prSanct/0915L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/0915.php','02222'); ?>
+<?php ant('prSanct/0915L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('lam2_13.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

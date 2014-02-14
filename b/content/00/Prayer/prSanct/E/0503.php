@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that we who celebrate the festival of thy Saints Alexander, Eventius, Theodulus, and Juvenal, may by their intercession be delivered from all the dangers which threaten us. Through our Lord.

@@ -2,16 +2,16 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Deus † in adjutórium meum inténde.</p>
-      <p:BodyLSm><s:VR>R. </s>Dómine ad adjuvándum me festína.</p>
-      <p:BodyLSm>Glória Patri.</p>
-      <p:BodyLSm>Sicut erat. <sr>(</s>Allelúia <sr>vel</s> Laus tibi<sr>)</s></p>
+      <p:BodyL><s:VR>V. </s>Deus † in adjutórium meum inténde.</p>
+      <p:BodyL><s:VR>R. </s>Dómine ad adjuvándum me festína.</p>
+      <p:BodyL>Glória Patri. Sicut Erat. Amen.</p>
+      <p:BodyLSm><sr>(</s>Allelúja <sr>vel</s> Laus tibi Dómine, Rex ætérnæ glóriæ.<sr>)</s></p>
      </td>
      <td:B1>
-      <p:BodyESm><s:VR>V. </s>O God, † come to my assistance.</p>
-      <p:BodyESm><s:VR>R. </s>O Lord, make haste to help me.</p>
-      <p:BodyESm>Glory be.</p>
-      <p:BodyESm>As it was. <sr>(</s>Alleluia <sr>or</s> Praise be<sr>)</s></p>
+      <p:BodyE><s:VR>V. </s>O God, † come to my assistance.</p>
+      <p:BodyE><s:VR>R. </s>O Lord, make haste to help me.</p>
+      <p:BodyE>Glory be. As it was. Amen.</p>
+      <p:BodyESm><sr>(</s>Alleluia <sr>or</s> Praise be to thee, O Lord, King of eternal glory.<sr>)</s></p>
      </td>
     </tr>
    </table>

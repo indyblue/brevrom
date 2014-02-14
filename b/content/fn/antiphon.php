@@ -10,7 +10,12 @@
 // M - Ad Magnif.Ant. + astrisk
 // B - Ad Bened.Ant. + astrisk
 
-function ant($file, $incs='*', $nameL='', $nameE='') {
+//PT option
+//0 - nothing added
+//1 - 'Alleluia' added
+//2 - '(P.T. Alleluia)' added
+
+function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
 	$dir = "/www/b/content/00/Antiphon/";
 
 	$Lpieces = file_load($dir.$file);
@@ -26,7 +31,14 @@ function ant($file, $incs='*', $nameL='', $nameE='') {
 	
 	echo '   <table>
 ';
-	
+	if($PT==1) {
+		$PTL = ' Allelúja.';
+		$PTE = ' Alleluia.';
+	} elseif($PT==2) {
+		$PTL = ' <sr>(T.P.</s> Allelúja.<sr>)</s>';
+		$PTE = ' <sr>(P.T.</s> Alleluia.<sr>)</s>';
+	}
+
 	for($i=0;$i<$iSpec;$i++) {
 		$L = $Lpieces[$i];
 		$E = $Epieces[$i];
@@ -34,6 +46,17 @@ function ant($file, $incs='*', $nameL='', $nameE='') {
 		$subst = array(' *','*','‡');
 		$ant = '';
 		$ante = '';
+
+		//if Alleluias are to be added, check to make sure
+		//that there aren't already alleluia's in this ant.
+		//checks english first, and then throws an error
+		//if the english has one and latin doesn't
+		if($PT>0 && stristr($E,'alleluia')===false) {
+			if(mb_stristr($L,'allelúja')!==false)
+				trigger_error('Antiphon alleluia discrepancy: ' . $file, E_USER_ERROR);
+			$L .= $PTL;
+			$E .= $PTE;
+		}
 
 		if($inc) {
 			if($inc==1) {

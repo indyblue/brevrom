@@ -11,10 +11,9 @@
 	rubrics('head/HymnVerse.php');
 	rubrics('asIn.php','te_joseph_celebrent_agmina_caelitum',
 		'','Hymn <snr>Te, Joseph, célebrent ágmina cǽlitum</s>');
-	vrS('prSanct/.php');
+	vrS('prSanct/solemnitas_est_hodie_sancti_joseph.php',1);
 	rubrics('head/Magnificat.php');
 	ant('prSanct/0501m1.php','M');
-	rubrics('prSanct/comm_lent.php');
 	rubrics('prSanct/ComplineSun.php');
 	
 	space();
@@ -25,13 +24,12 @@
 	rubrics('head/LittleChapter.php');
 	lc('col3_14.php');
 	rubrics('head/HymnVerse.php');
-	hymn('.php');
-	vrS('os_justi_meditabitur_sapientiam.php');
+	hymn('aurora_solis_nuntia.php');
+	vrS('prSanct/ora_pro_nobis_sancte_joseph.php',1);
 	rubrics('head/Benedictus.php');
-	ant('prSanct/0319b.php','B');
+	ant('prSanct/0501b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('prSanct/0319.php');
-	rubrics('prSanct/comm_lent.php');
+	prayer('prSanct/0501.php');
 
 	space();
 	rubrics('prSanct/1classLittleHours.php');
@@ -40,33 +38,24 @@
 	rubrics('head/LittleChapter.php');
 	lc('col3_14.php');
 	rubrics('head/BriefRespond.php');
-	brS('prSanct/constituit_eum_dominum_domus_suae.php');
-	vrS('prSanct/magna_est_gloria_ejus_in_salutari_tuo.php');
-	rubrics('head/PT.php'); 
-	brS('prSanct/constituit_eum_dominum_domus_suae.php',1);
-	vrS('prSanct/magna_est_gloria_ejus_in_salutari_tuo.php',0,1);
+	brS('prSanct/gloria_et_exemplar_opificum_sancte_joseph.php',1);
+	vrS('prSanct/o_magnam_dignitatem_laboris.php',1);
 	
 	space();
 	rubrics('head/Sext.php');
 	rubrics('head/LittleChapter.php');
-	lc('eccli45_1_4.php');
+	lc('col3_17.php');
 	rubrics('head/BriefRespond.php');
-	brS('prSanct/magna_est_gloria_ejus_in_salutari_tuo.php');
-	vrS('prSanct/justus_germinabit_sicut_lilium.php');
-	rubrics('head/PT.php'); 
-	brS('prSanct/magna_est_gloria_ejus_in_salutari_tuo.php',1);
-	vrS('prSanct/justus_germinabit_sicut_lilium.php',0,1);
+	brS('prSanct/o_magnam_dignitatem_laboris.php',1);
+	vrS('prSanct/verbum_dei_per_quod_facta_sunt_omnia.php',1);
 
 	space();
 	rubrics('head/None.php');
 	rubrics('head/LittleChapter.php');
-	lc('sap10_10.php');
+	lc('col3_23.php');
 	rubrics('head/BriefRespond.php');
-	brS('prSanct/justus_germinabit_sicut_lilium.php');
-	vrS('prSanct/plantatus_in_domo_domini.php');
-	rubrics('head/PT.php'); 
-	brS('prSanct/justus_germinabit_sicut_lilium.php',1);
-	vrS('prSanct/plantatus_in_domo_domini.php',0,1);
+	brS('prSanct/verbum_dei_per_quod_facta_sunt_omnia.php',1);
+	vrS('prSanct/ora_pro_nobis_sancte_joseph.php',1);
 
 	space();
 	rubrics('head/2Vespers.php');
@@ -76,12 +65,11 @@
 	lc('col3_14.php');
 	rubrics('asIn.php','te_joseph_celebrent_agmina_caelitum',
 		'','Hymn <snr>Te, Joseph, célebrent ágmina cǽlitum</s>');
-	vrS('prSanct/gloria_et_divitiae_in_domo_ejus.php');
+	vrS('prSanct/ora_pro_nobis_sancte_joseph.php',1);
 	rubrics('head/Magnificat.php');
-	ant('prSanct/0202m2.php','M');
+	ant('prSanct/0501m2.php','M');
 	rubrics('head/Prayer.php');
-	prayer('prSanct/0319.php');
-	rubrics('prSanct/comm_lent.php');
+	prayer('prSanct/0501.php');
 	rubrics('prSanct/ComplineSun.php');
 
 ?>

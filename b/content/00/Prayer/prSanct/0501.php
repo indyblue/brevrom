@@ -1,0 +1,1 @@
+Rerum cónditor Deus, qui legem labóris humáno géneri statuísti: concéde propítius; ut, sancti Joseph exémplo et patrocínio, ópera perficiámus quæ prǽcipis, et prǽmia consequámur quæ promítis. Per Dóminum.

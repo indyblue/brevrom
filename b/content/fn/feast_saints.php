@@ -19,7 +19,22 @@ V (Virgin)
 W (Viduæ)(Widow)
 K (Regis)(King)
 Q (Reginæ)(Queen)
- */
+
+------------------------------
+Easter Date Range: 3/22 - 4/25
+
+--- Optional P.T. ranges ---
+
+3/29 (Earliest Low Sunday) to
+4/17 (Latest Saturday before Palm Sunday)
+
+-- and --
+
+5/18 (Earliest Monday after Trinity Sunday) to
+6/11 (Latest Friday before Pentecost Sunday)
+
+------------------------------ */
+
 function headSt($date, $class, $nameL, $nameE, $descr='') {
 	if($class==1) $clname = 'I class';
 	if($class==2) $clname = 'II class';
@@ -206,7 +221,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 					.' ('. $nameE .') ', E_USER_ERROR);
 			if($doct) {
 				space('Spacer');
-				ant('csConfessorDoctorAnt.php','M',$ant[0],$ant[1]);
+				ant('csConfessorDoctorAnt.php','M',$pt,$ant[0],$ant[1]);
 			}
 		}
 	} else {
@@ -216,7 +231,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		echo '
   <p:RubricH>Commemoration is made of '. $nameE .', '. $Etype .':</p>
 ';
-		ant($Lant,1);
+		ant($Lant,1,$pt);
 		vrS($Lvr,$pt);
 		rubrics('oremus.php');
 		if(is_array($prayer)) {

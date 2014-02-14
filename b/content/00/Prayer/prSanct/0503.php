@@ -1,0 +1,1 @@
+Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum tuórum Alexándri, Evéntii, Theodúli atque Juvenális natalítia cólimus; a cunctis malis imminéntibus, eórum intercessiónibus líberemur. Per Dóminum.

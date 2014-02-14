@@ -4,9 +4,9 @@
    <p:BodySm/>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1130.php','20000'); ?>
+<?php ant('prSanct/1130L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1130.php','02222'); ?>
+<?php ant('prSanct/1130L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('rom10_10.php'); ?>
 <?php rubrics('asIn.php','exsultet_orbis_gaudiis','Common of Apostles','Hymn <snr>Exsúltet orbis gáudiis</s>'); ?>

@@ -13,11 +13,11 @@
 <?php rubrics('head/Prime.php'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('087.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('027.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('031.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 	<p:BodySm/>
 	<p:RubricH>Then the following are said kneeling:</p>
 <?php rubrics('ord/pater_silent_vr.php'); ?>
@@ -45,33 +45,33 @@
 <?php rubrics('head/Terce.php'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('037-1.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('037-2.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('055.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php rubrics('offDef/1102_preces_concl.php'); ?>
    <p:BodySm/>
 
 <?php rubrics('head/Sext.php'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('069.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('084.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('085.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php rubrics('offDef/1102_preces_concl.php'); ?>
    <p:BodySm/>
 
 <?php rubrics('head/None.php'); ?>
 	<p:RubricH>The hour begins immediately with the first Psalm (without Antiphon):</p>
 <?php psalm('101-1.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('101-2.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('101-3.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php rubrics('offDef/1102_preces_concl.php'); ?>
    <p:BodySm/>
 
@@ -81,14 +81,14 @@
 <?php rubrics('head/Compline.php'); ?>
 	<p:RubricH>The hour begins with the <snr>Confiteor, Misereatur, and Indulgentiam</s>, immediately followed by the first Psalm (without Antiphon):</p>
 <?php psalm('122.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('141.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 <?php psalm('142.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 	<p:RubricH>This is followed by the Gospel canticle, without Antiphon:</p>
 <?php canticle('simeon.php'); ?>
-<?php vrS('requiem_aeternam.php',2); ?>
+<?php vrS('requiem_aeternam.php',6); ?>
 
 <?php rubrics('head/Preces.php'); ?>
 	<p:RubricH>Then the following are said kneeling:</p>

@@ -37,6 +37,9 @@ function brS($file,$PT=0,$short=0,$requiem=0,$matins=0) {
 	if($PT) {
 		$L1[2] = 'Allelúja, Allelúja.';
 		$E1[2] = 'Alleluia, Alleluia.';
+		$subst = array(' *','*');
+		$L1 = str_replace($subst,'',$L1);
+		$E1 = str_replace($subst,'',$E1);
 	}
 	$L13 = '';
 	$E13 = '';

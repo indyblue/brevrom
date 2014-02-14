@@ -3,9 +3,9 @@
 <?php headSt('Oct. 2',3,'Ss. Angelorum Custodum','The Holy Guardian Angels'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1002.php','20000'); ?>
+<?php ant('prSanct/1002L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1002.php','02222'); ?>
+<?php ant('prSanct/1002L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('exod23_20.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

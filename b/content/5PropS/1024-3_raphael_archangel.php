@@ -3,9 +3,9 @@
 <?php headSt('Oct. 24',3,'S. Raphaelis Archangeli','St. Raphael the Archangel'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
-<?php ant('prSanct/1024.php','20000'); ?>
+<?php ant('prSanct/1024L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/1024.php','02222'); ?>
+<?php ant('prSanct/1024L.php','02222'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('tob12_12.php'); ?>
 <?php rubrics('head/HymnVerse.php'); ?>

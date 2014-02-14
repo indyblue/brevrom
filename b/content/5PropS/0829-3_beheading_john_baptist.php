@@ -3,9 +3,9 @@
 <?php headSt('Aug. 29',3,'in Decollatione S. Joannis Baptistæ','The Beheading of St. John the Baptist','Virgin, Martyr'); ?>
 
 <?php rubrics('head/Lauds.php'); ?>
-<?php ant('prSanct/0829.php','20000'); ?>
+<?php ant('prSanct/0829L.php','20000'); ?>
 <?php rubrics('ps/SuL1.php'); ?>
-<?php ant('prSanct/0829.php','02222'); ?>
+<?php ant('prSanct/0829L.php','02222'); ?>
 <?php rubrics('asIn.php','csMLlc','Lauds of the Common of One Martyr','Little Chapter &amp; Hymn <snr>Invícte Martyr, únicum</s>'); ?>
 <?php vrS('justus_ut_palma_florebit.php'); ?>
 <?php rubrics('head/Benedictus.php'); ?>
