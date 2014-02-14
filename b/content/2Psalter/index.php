@@ -872,15 +872,15 @@
    </table>
    <p:P191/>
    <p:RubricH>The following psalms are included for convenience. They are only used on feasts, as specified in the Propers. When used, one of the following will be said in place of Ps 113. At all other times, they are omitted, and Vespers continues with the little chapter.</p>
-<?php bookmark('psD16'); ?>
+<?php bookmark('ps116'); ?>
 <?php psalm('116.php'); ?>
-<?php bookmark('psD15'); ?>
+<?php bookmark('ps115'); ?>
 <?php psalm('115.php'); ?>
-<?php bookmark('psD31'); ?>
+<?php bookmark('ps131'); ?>
 <?php psalm('131.php'); ?>
-<?php bookmark('psD37'); ?>
+<?php bookmark('ps137'); ?>
 <?php psalm('137.php'); ?>
-<?php bookmark('psD47'); ?>
+<?php bookmark('ps147'); ?>
 <?php psalm('147.php'); ?>
    <p:P191/>
 	<p:BodySm/>
@@ -2775,6 +2775,7 @@
      </td>
     </tr>
    </table>
+<?php bookmark('cant_ezechiel'); ?>
 <?php canticle('ezechiel.php'); ?>
    <p:Spacer/>
    <table>
@@ -7813,8 +7814,27 @@
       <p:BodyESm><sr>Ant 4. </s>Let the word of the Lord * be expected as the rain: and let our God descend upon us as the dew.</p>
      </td>
     </tr>
+	</table>
+   <p:RubricHSm>Holy Saturday:</p>
+   <table>
+    <tr>
+     <td:A1>
+      <p:BodyLSm><sr>Ant. </s>Atténdite, univérsi pópuli, et vidéte dolórem meum.</p>
+     </td>
+     <td:B1>
+      <p:BodyESm><sr>Ant. </s>Behold, all ye nations, and see my sorrow.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLSm><sr>Ant 4. </s>A porta ínferi * érue, Dómine, ánimam meam.</p>
+     </td>
+     <td:B1>
+      <p:BodyESm><sr>Ant 4. </s>From the gate of the grave, * O Lord, deliver my soul.</p>
+     </td>
+    </tr>
    </table>
-   <p:RubricHSm>Holy Saturday: see <snr>Canticum Ezechiæ (Ego dixi)</s> below.</p>
+	<p:RubricH>On Holy Saturday, <snr>Cant. Ezechiæ (Ego dixi), p. <?php echo bkref('cant_ezechiel'); ?></s> is said in place of the following.</p>
 <?php canticle('moses32.php'); ?>
    <p:Spacer/>
    <table>
@@ -7854,27 +7874,6 @@
      </td>
     </tr>
    </table>
-   <p:P191/>
-   <p:RubricHSm>Holy Saturday:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><sr>Ant. </s>Atténdite, univérsi pópuli, et vidéte dolórem meum.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><sr>Ant. </s>Behold, all ye nations, and see my sorrow.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyLSm><sr>Ant 4. </s>A porta ínferi * érue, Dómine, ánimam meam.</p>
-     </td>
-     <td:B1>
-      <p:BodyESm><sr>Ant 4. </s>From the gate of the grave, * O Lord, deliver my soul.</p>
-     </td>
-    </tr>
-   </table>
-<?php canticle('ezechiel.php'); ?>
    <p:RubricHSm>Holy Saturday:</p>
    <table>
     <tr>
