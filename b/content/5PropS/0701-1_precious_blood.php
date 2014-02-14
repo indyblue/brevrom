@@ -10,8 +10,7 @@
 	ant('prSanct/0701V.php','20000');
 	rubrics('ps/SuV116.php');
 	ant('prSanct/0701V.php','02222');
-	lc('hebr9_11-12.php');
-	hymn('festivis_resonent_compita_vocibus.php',1);
+	lc('hebr9_11-12.php','ps0701Vlc','h','festivis_resonent_compita_vocibus.php');
 	vrS('prSanct/redemisti_nos_domine_in_sanguine_tuo.php');
 	ant('prSanct/0701m1.php','M');
 
@@ -30,6 +29,8 @@
 
 	space();
 	csref(0,3);
+	PrV('qui_tuo_nos_sanguine_redemisti.php');
+	space();
 
 	hour('T'); 
 	lc('hebr9_11-12.php');
@@ -53,6 +54,7 @@
 	ant('prSanct/0701V.php','20000');
 	rubrics('ps/SuV147.php');
 	ant('prSanct/0701V.php','02222');
+	bookmark('ps0701Vlc');
 	lc('hebr9_11-12.php');
 	rubrics('head/HymnVerse.php');
 	hymn('festivis_resonent_compita_vocibus.php',0);

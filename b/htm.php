@@ -11,6 +11,10 @@ $root = $_GET['root'];
 
 ob_start(); // start buffer
 
+if(array_key_exists('v',$_GET))
+	$v = $_GET['v'];
+else $v = false;
+
 ///////////////////////////////////////////////////////////
 // Content goes here: /////////////////////////////////////
 ///////////////////////////////////////////////////////////
@@ -59,7 +63,8 @@ echo '<html><head>
 	div {margin:0px; padding:0px; text-align:justify;
 		vertical-align:top; font-size:'.$Body.'pt;}
 	div.h1 {visibility:visible; height:auto; overflow:hidden;}
-	div.h2 {visibility:hidden; height:1px; overflow:hidden;}
+	div.h2 {visibility:'.($v?'visible':'hidden').'; 
+		height:'.($v?'auto':'1px').'; overflow:hidden;}
 	div.Body, div.BodyL, div.BodyE {font-size:'.$Body.'pt;}
 	div.BodySm, div.BodyLSm, div.BodyESm {font-size:'.$BodySm.'pt}
 	div.BodyDrop:first-letter,
@@ -127,9 +132,23 @@ echo '<html><head>
 				}
 			}
 		}
+		function name10() {
+			divs = document.getElementsByName("h2");
+			for(var i=0;i<divs.length;i++) {
+				div2 = divs[i].style;
+				if(div2.visibility=="visible") {
+					div2.visibility="hidden";
+					div2.height="1px";
+				} else {
+					div2.visibility="visible";
+					div2.height="auto";
+				}
+			}
+		}
 	</script>
 	</head>
-	<body><div>'. "\n";
+	<body><div>
+	<div class="Hidden2" onClick="name10()">Toggle all tags</div>'. "\n";
 
 /*
 	NO TIFF SUPPORT IN WEB BROWSER...
@@ -155,6 +174,7 @@ $regex=array(
 	'/<td:([^\/>]*)/',
 	'/<t>/',
 	'/<br\/*>/',
+	'/\bÁ/', '/\bÉ/', '/\bÍ/', '/\bÓ/', '/\bÚ/', '/\bÝ/', '/\bǼ/',
 );
 $repl=array(
 	'</td></tr><tr><td colspan=2><span style="font-size:100%;color:red">\1\2</span>',
@@ -174,6 +194,7 @@ $repl=array(
 	'<td class="\1"',
 	'&nbsp;',
 	'<br/>',
+	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',
 );
 
 
@@ -195,7 +216,8 @@ function hdiv($matches)
 	$x=uniqid("t"); 
 	return '</div><div class="Hidden'.$matches[1].
 		'" onClick="h10(\''.$x.'\');">'.$matches[2].
-		'</div><div id="'.$x.'" class="h'.$matches[1].'">';
+		'</div><div id="'.$x.'" name="h'.$matches[1].
+		'" class="h'.$matches[1].'">';
 }
 
 ?>

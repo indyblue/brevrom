@@ -21,6 +21,8 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 	$title = '';
 	$conclL = '<t> <s:VR>R. </s><s:NH>Deo grátias.</s>';
 	$conclE = '<t> <s:VR>R. </s><s:NH>Thanks be to God.</s>';
+	$ref2L = '';
+	$ref2E = '';
 	$ref2 = '';
 
 	if($opt==1) {

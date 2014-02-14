@@ -7,6 +7,7 @@
 	hour('L'); 
 	bookmark('0707lc');
 	lc('ecclus44_16.php');
+	rubrics('head/HymnVerse.php');
 	hymn('lux_o_decora_patriae.php');
 	vrS('prSanct/sapientiam_sanctorum_narrent_populi.php'); 
 	ant('prSanct/0707b.php','B'); 
@@ -18,9 +19,9 @@
 
 	space();
 	hour('V'); 
-	lc('ecclus44_16.php','0707lc');
+	lc('ecclus44_16.php');
+	rubrics('head/HymnVerse.php');
 	hymn('sedibus_caeli_nitidis_receptos.php'); 
 	vrS('preces/sacerdotes.php'); 
 	ant('prSanct/0707m.php','M'); 
-	rubrics('prSanct/ComplineFeria.php');
 ?>

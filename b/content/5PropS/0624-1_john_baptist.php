@@ -8,12 +8,16 @@
 
 	hour('1V');
 	ant('prSanct/0624V1.php','20000');
-	rubrics('ps/ComAp.php');
+	rubrics('ps/SuV116.php');
 	ant('prSanct/0624V1.php','02222');
 	lc('is49_1.php');
+	rubrics('head/HymnVerse.php');
 	hymn('ut_queant_laxis_resonare_fibris.php',0);
 	vrS('prSanct/fuit_homo_missus_a_deo.php');
 	ant('prSanct/0624m1.php','M');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/0624.php');
+	rubrics('prSanct/ComplineSun.php'); 
 
 	space();
 	hour('L');
@@ -52,11 +56,13 @@
 	space();
 	hour('2V'); 
 	rubrics('ps/antLauds.php');
-	rubrics('ps/SuV115.php');
+	rubrics('ps/SuV116.php');
 	lc('is49_1.php');
 	hymn('ut_queant_laxis_resonare_fibris.php',1);
 	vrS('prSanct/iste_puer_magnus_coram_domino.php'); 
 	ant('prSanct/0624m2.php','M');
+	rubrics('head/Prayer.php');
+	prayer('prSanct/0624.php');
 	rubrics('prSanct/ComplineSun.php'); 
 
 ?>

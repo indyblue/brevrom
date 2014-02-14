@@ -95,11 +95,11 @@
 	rubrics('head/HymnVerse.php');
 	hymn('jesu_corona_virginum.php',0);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
-	ant('veni_sponsa_christi_accipe_coronam.php','M');
+	ant('veni_sponsa_christi_accipe_coronam.php','M',2);
   	space('Line');
 	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',-4);
-	vrS('adducentur_regi_virgines_post_eam.php');
-	ant('prudentes_virgines_aptate_vestras_lampades.php','M');
+	vrS('adducentur_regi_virgines_post_eam.php',2);
+	ant('prudentes_virgines_aptate_vestras_lampades.php','M',2);
 	space('Line');
 	rubrics('cs/Compline.php');
 

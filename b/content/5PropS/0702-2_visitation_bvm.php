@@ -4,7 +4,7 @@
 	img();
 	headst('702',2,'in Visitatione B. Mariæ Virg.',
 		'The Visitation of the Bl. Virgin Mary');
-	rubrics('prSanct/all_from.php','csBVM');
+	csref('csBVM',0,11);
 
 	hour('L');
 	ant('prSanct/0702L.php','20000');
@@ -18,6 +18,7 @@
 	feast_saint(702,-1,"Ss. Processi et Martiniani",
 		"Ss. Processus and Martinian","M+");
 
+	space();
 	csref('csBVM',2,2);
 	PrV('qui_natus_es_de_maria_virgine.php');
 

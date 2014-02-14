@@ -25,6 +25,7 @@
 	ant('csMmL.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('csMmL.php','02222');
+	bookmark('csMmLlc');
 	lc('wis3_1.php');
 	bookmark('csMmLh');
 	rubrics('head/HymnVerse.php');

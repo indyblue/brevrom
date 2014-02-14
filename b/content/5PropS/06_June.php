@@ -37,11 +37,14 @@ feast_saint(618,3,'S. Ephræm Syri','St. Ephrem the Syrian','dCD',0,
 	'feast_saint(618,-1,"Ss. Marci et Marcelliani","Ss. Mark and Mercellian","M+");',
 	array('Ephræm','Ephrem'));
 
+require '0619-3_juliana_falconieri.php';
+/*
 feast_saint(619,3,'S. Julianæ de Falconeriis','St. Juliana Falconieri','V',0,
 	'feast_saint(619,-1,"Ss. Gervasii et Protasii","Ss. Gervase and Protase","M+", array("csMartyrs2.php","Gervásii et Protásii","Gervase and Protase"));');
 	hour('V');
 	rubrics('head/HymnVerse.php');
 	hymn('caelestis_agni_nuptias.php');
+ */
 
 feast_saint(620,0,'Sancti Silverii','Saint Silverius','PM',
 	array('csPope1m.php','Silvérium','Silverius'));

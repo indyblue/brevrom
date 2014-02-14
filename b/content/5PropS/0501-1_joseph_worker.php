@@ -7,7 +7,6 @@
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV116.php');
 	lc('col3_14.php');
-	rubrics('head/HymnVerse.php');
 	hymn('te_joseph_celebrent_agmina_caelitum.php',1);
 	vrS('prSanct/solemnitas_est_hodie_sancti_joseph.php',1);
 	ant('prSanct/0501m1.php','M');
