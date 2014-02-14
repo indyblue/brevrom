@@ -14,88 +14,53 @@
 	rubp('Repetita antiphona ad <snr>Benedíctus</s>, dicitur, flexis genibus:', 'After the antiphon at the <snr>Benedictus</s> is repeated, the following is said while kneeling:');
 	ant('PrTemp/passiontide/25c.php','1');
 	rubp('Et, ea finita, additur <snr>Pater noster</s> totum sub silentio; postea, clara voce, sine <snr>Orémus</s>, subjungitur:', 'And, when this is finished, the <snr>Our Father</s> is added, all of which is said silently; afterwards, in a clear voice, without <snr>Let us pray</s>, is said:');
+	rubrics('head/Prayer.php');
 	prayer('PrTemp/passiontide/25.php');
 	rubp('Deinde omnes surgunt et cum silentio discedunt.', 'Then all arise and depart in silence.');
 
 	space();
 	hour('H');
-	rubp('', '');
-?>
+	rubp('Horæ minores dicuntur hora competenti, candelis extinctis et sine cantu.', 'The little Hours are said at a suitable hour, with candles extinguished and without chant.');
+	rubp('Absolute inchoatur a psalmis, qui erunt de dominica, ad Primam tamen ut in festis, <snr>p. '. bkref('psDP53') .'</s>.', 'They are begun immediately with the psalms, which are of Sunday, but a Prime as on feasts, <snr>p. '. bkref('psDP53') .'</s>.');
+	rubp('Psalmis expletis, dicitur, flexis genibus, ant. <snr>Christus factus est</s>, cum reliquis, ut supra ad Laudes.', 'Once the psalms are completed, the ant. <snr>Christ became</s>, and the rest, are said as above at Lauds.');
+	rubp('Ad Primam non legitur Martyrologium, nec dicuntur cetera omnia usque ad finem Horæ.', 'At Prime the Martyrology is not read, nor is said all that which follows it, up to the end of the Hour.');
 
-   <p:Rubric>The Little Hours are said at a suitable hour, with the candles extinguished and without chant. </p>
-   <p:Rubric>They are begun immediately from the psalms, which will be of Sunday, but at Prime as on feasts.</p>
-   <p:RubricH>After the psalms have been finished, there is said kneeling the antiphon:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Rubric>And the rest as in the conclusion of Lauds.</p>
-   <p:Rubric>At Prime, the Martyrology is not read, and all the rest up to the end of the Hour is not said.</p>
-   <p:BodySm/>
-   <p:Head2>ad Vésperas</p>
-<?php rubp('Vesperæ ab iis qui Missæ vespertinæ in Cena Domini intersunt, hodie non dicuntur.', 'Vespers is not said by those who take part in the evening Mass of the Lord’s Supper.'); ?>
-<?php rubrics('ps/HolySatV.php'); ?>
-	<p:RubricHidden><t>Ps 115:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant 1. </s>Cálicem * salutáris accípiam, et nomen Dómini invocábo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant 1. </s>I will take the chalice of salvation; * and I will call upon the name of the Lord.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Rubric>The little chapter, hymn and versicle are not said on these three days.</p>
-   <p:Head3>Magnificat</p>
-   <p:RubricHidden><t>Mt 26:26</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Cœnántibus autem illis, * accépit Jesus panem, et benedíxit, ac fregit, dedítque discípulis suis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>And whilst they were at supper, * Jesus took bread, and blessed, and broke: and gave to his disciples</p>
-     </td>
-    </tr>
-   </table>
-   <p:RubricH>then the following is said kneeling:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Rubric>And the rest as in the conclusion of Lauds.</p>
-   <p:Body/>
-   <p:Head2>ad Completorium</p>
-   <p:Rubric>Compline is said after the stripping of the altars, with the candles extinguished and without chant.</p>
-   <p:RubricH>Examination of Conscience, followed by:</p>
-   <p:Body>Confíteor. Misereátur. Indulgéntiam.</p>
-<?php rubrics('ps/SuC.php'); ?>
-   <p:Rubric>After the psalms, the <snr>Nunc dimittis </s>is said immediately, without antiphon.</p>
-   <p:RubricH>then the following is said kneeling:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>Ant. </s>Christus factus est pro nobis obédiens usque ad mortem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><sr>Ant. </s>Christ became obedient unto death for us.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Rubric>And the rest as in the conclusion of Lauds.</p>
-   <p:BodySm/>
-<?php img(); ?>
+	space();
+	hour('V');
+	rubp('Vesperæ ab iis qui Missæ vespertinæ in Cena Domini intersunt, hodie non dicuntur.', 'Vespers is not said by those who take part in the evening Mass of the Lord’s Supper.');
+	rubrics('ps/HolySatV.php');
+	ant('PrTemp/passiontide/25V.php','2');
+	ant('PrTemp/passiontide/25m.php','M');
+	rubp('Repetita antiphona ad <snr>Magníficat</s>, dicitur, flexis genibus, ant. <snr>Christus factus est</s>, cum reliquis, ut supra ad Laudes.', 'After the antiphon at the <snr>Magnificat</s> is repeated, the ant. <snr>Christ became</s>, and the rest, are said as above at Lauds.');
+	rubp('Deinde omnes surgunt et cum silentio discedunt.', 'Then all arise and depart in silence.');
+
+	space();
+	bookmark('ptHolyThursC');
+	hour('C');
+	rubp('Completorium dicitur post denudationem altarium, candelis extinctis et sine cantu.', 'Compline is said after the stripping of the altars, with candles extinguished and without chant.');
+
+	rubp('Ubi, juxta rubricas, Completorium dicitur tamquam ultima diei precatio, in qua fit examen conscientiæ, tunc, si recitatur in choro vel in communi, moderator chori vel communitatis, signo dato, indicat initiandum esse examen conscientiæ; quo absoluto, dicitur <snr>Confíteor, Misereátur, Indulgéntiam, p. '. bkref('confiteor') .'</s>, et fiunt reliqua ut infra.', 'When, according to the rubrics, Compline is said as the final prayer of the day and the examination of conscience is made, then, if said in choir or community, the leader of the choir or community gives a sign to indicate the beginning of the examination of conscience; when finished, the <snr>Confíteor, Misereátur, Indulgéntiam</s> are said, <snr>p. '. bkref('confiteor') .'</s>, and then the rest as below.');
+
+	if($_GET['long']==1) {
+		psalm(4);
+		psalm(90);
+		psalm(133);
+	} else {
+		space();
+		rubrics('ps/SuC.php');
+	}
+
+	space();
+	canticle('simeon.php');
+	space();
+	rubp('Deinde dicitur, flexis genibus:', 'Then the following is said while kneeling:');
+	rubp('(quæ non dicitur Sabbato sancto)', '(which is not said on Holy Saturday)');
+	ant('PrTemp/passiontide/25c.php','1');
+	rubp('Feria VI additur: <snr>Mortem autem crucis.</s>', 'On Friday is added: <snr>Even to the death of the Cross.</s>');
+	rubp('<snr>Pater noster</s> totum sub silentio. Postea, clara voce, sine <snr>Orémus</s>, subjungitur:', '<snr>Our Father</s>, all of which is said silently. Afterwards, in a clear voice, without <snr>Let us pray</s>, is said:');
+	rubrics('head/Prayer.php');
+	prayer('PrTemp/passiontide/25Compl.php');
+	rubp('Deinde omnes surgunt et cum silentio discedunt.', 'Then all arise and depart in silence.');
+
+?>
 
