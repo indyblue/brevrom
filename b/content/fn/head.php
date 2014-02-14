@@ -112,12 +112,14 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 	$par = $_GET['par'];
 
 	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis',
+		'IV classis',
 		181 => 'I classis cum octava I classis',
 		182 => 'I classis cum octava II classis');
 	$clnameE = array('Commemoration', 'I class', 'II class', 'III class',
+		'IV class',
 		181 => 'I class, with I class octave',
 		182 => 'I class, with II class octave');
-	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.');
+	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.', 'IV cl.');
 	
 	if($head1)
 		hidden($head1,1);
@@ -126,12 +128,8 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 
 	head($nameL,$nameE,1);
 	if(is_array($descr)) {
-		if(strlen($descr[0].$descr[1]) > 40) 
-			head($clname[$class] .' '. $descr[0], 
-				$clname[$class] .' '. $descr[1], 14);
-		else 
-			head('', $clname[$class] .' '. $descr[0] 
-				.' — '. $clname[$class] .' '. $descr[1], 4);
+		if($L) head($clnameL[$class] .' - '. $descr[0], '', 4);
+		else head('', $clnameE[$class] .' - '. $descr[1], 14);
 	} elseif($descr>100) {
 		$date = convert_date($descr);
 		if($L) head($clnameL[$class].' - '.$date[0],'', 4);
