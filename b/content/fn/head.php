@@ -111,8 +111,12 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 	$L = $_GET['L'];
 	$par = $_GET['par'];
 
-	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis');
-	$clnameE = array('Commemoration', 'I class', 'II class', 'III class');
+	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis',
+		181 => 'I classis cum octava I classis',
+		182 => 'I classis cum octava II classis');
+	$clnameE = array('Commemoration', 'I class', 'II class', 'III class',
+		181 => 'I class, with I class octave',
+		182 => 'I class, with II class octave');
 	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.');
 	
 	if($head1)
@@ -177,7 +181,7 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 		echo '  <p:Head'. $size .'>' . ($Llang==1?$L:$E) ."</p>\n";
 	} 	elseif($size<2 || $interl) { 
 		echo '  <p:Head'. $size .'>' . ($Llang==1?$L:$E) ."</p>\n".
-			'  <p:Head5>' . ($Llang==1?$E:$L) ."</p>\n";
+			'  <p:Head5>' . preg_replace('/<[^>]*>/','',($Llang==1?$E:$L)) ."</p>\n";
 	} 	else { 
 		echo "\n  <tableH><tr><td:A1>\n".
 			'   <p:Head'. $size .'>'. $L ."</p>\n".

@@ -7,9 +7,9 @@
 	head('De hymno et versu','The hymn and verse',3);
 	hymn('a_solis_ortus_cardine.php',0);
 	vrS('PrTemp/verbum_caro_factum_est.php');
-	ant('PrTemp/0101b.php','B');
+	ant('PrTemp/nativity/0101b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('prTemp/0101.php');
+	prayer('prTemp/nativity/0101.php');
 
 	space();
 	hour('P');

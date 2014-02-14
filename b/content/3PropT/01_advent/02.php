@@ -1,5 +1,4 @@
 <?php 
-	img();
 	space();
 	hidden('Advent',1);
 	hidden('Advent II',2);
@@ -101,7 +100,6 @@
 	feria(7);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/02/f7b.php','B');
-	space();
 
 ?>
 

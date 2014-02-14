@@ -1,5 +1,4 @@
 <?php 
-	img();
 	space();
 	hidden('Advent',1);
 	hidden('Advent III',2);
@@ -56,7 +55,6 @@
 	rubp('Ant. <snr>Beáta es</s> prætermittitur, si hodie ejus loco ponenda sit una ex antiphonis majoribus ut infra: quibus semper cedunt antiphonæ propriæ aliis diebus ad <snr>Magníficat</s> assignatæ.', 'Ant. <snr>Blessed art thou</s> is omitted, if today there is to be said one of the Great Antiphons given below: to which the proper Antiphons assigned for the <snr>Magnificat</s> on other days give place in like manner.');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/advent/03.php');
-	space();
 
 	require '03_major_ant.php';
 	space();
@@ -127,7 +125,6 @@
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/advent/03e7.php');
 	rubp('Et dicitur usque ad Nonam inclusive.', 'And this is said until None, inclusive.');
-	space();
 
 ?>
 

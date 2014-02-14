@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img(); 
+	// img(); 
 	feast_saint(212,13,'Ss. Septem Fundatorum Ordinis Servorum B.M.V.',
 		'The Seven Holy Founders of the Order of Servites','C+');
 	csref(0,1);

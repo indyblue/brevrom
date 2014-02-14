@@ -159,6 +159,7 @@ function csref($cs=0, $ps=2, $opt=2) {
 //       2 - Sunday psalms/antiphons
 //       3 - Sunday psalms
 //       4 - little hours feria
+//       4.1 - little hours feria
 //       5 - little hours Sunday
 //       6 - little hours feast
 // $opt: 1 - All from ordinary
@@ -231,6 +232,10 @@ $ordE = array(
 	} elseif($ps==4) {
 		$Lps = 'Ad Horas minores, ant. et psalmi de feria currenti. ';
 		$Eps = 'At the little Hours, ant. and psalms of the current feria. ';
+		$lh = 'LH';
+	} elseif($ps==4.1) {
+		$Lps = 'Ad Horas minores, ant. et psalmi de dominica. ';
+		$Eps = 'At the little Hours, ant. and psalms of Sunday. ';
 		$lh = 'LH';
 	} elseif($ps==5) {
 		$Lps = 'Ad Horas minores, psalmi de dominica; Antiphonæ 1, 2, 3 &amp; 5 e Laudibus. ';

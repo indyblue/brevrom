@@ -1,7 +1,7 @@
 <?php 
-img();
-space();
 
+space();
+// img();
 headSt(914,2,'in Exaltatione Sanctæ Crucis','Exaltation of the Holy Cross');
 
 hour('1V');

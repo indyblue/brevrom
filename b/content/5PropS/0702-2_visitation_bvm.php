@@ -1,8 +1,8 @@
 <?php
 
 	space(); 
-	img();
-	headst('702',2,'in Visitatione B. Mariæ Virg.',
+	// img();
+	headst(702,2,'in Visitatione B. Mariæ Virg.',
 		'The Visitation of the Bl. Virgin Mary');
 	csref('csBVM',0,11);
 

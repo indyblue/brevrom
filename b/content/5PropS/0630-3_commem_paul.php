@@ -1,7 +1,7 @@
 <?php
 
 	space(); 
-	img();
+	// img();
 	feast_saint(630,13,'in Commem. S. Pauli',
 		'Commem. of St. Paul','A');
 

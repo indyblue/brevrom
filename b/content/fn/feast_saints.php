@@ -373,7 +373,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		// add image... (the only image that can be added
 		// automatically is the default separator)
 		space();
-		img();
+		// img();
 	
 		// write heading
 		headSt(array($Ldate,$Edate), $class, $nameL, $nameE, $Etype);
@@ -537,8 +537,13 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		// this is the brief form of commemoration used if the above is negative.
 		// it will automatically insert the default V/R and Antiphon of Lauds 
 		// from the correct common.
-		rubp('Et fit com. '. preg_replace('/<[^>]*>/','',$nameL) .', '. $Ltype .':',
-			'Commem. is made of '. preg_replace('/<[^>]*>/','',$nameE) .', '. $Etype .':');
+		if($class==-1) 
+			rubp('Et fit com. '. preg_replace('/<[^>]*>/','',$nameL) .', '. $Ltype .':',
+				'Commem. is made of '. preg_replace('/<[^>]*>/','',$nameE) .', '. $Etype .':');
+		// if Class is other than -1, specify commem "At Lauds"
+		else
+			rubp('Ad Laudes fit com. '. preg_replace('/<[^>]*>/','',$nameL) .', '. $Ltype .':',
+				'At Lauds commem. is made of '. preg_replace('/<[^>]*>/','',$nameE) .', '. $Etype .':');
 
 		if($pta==2 && strlen($LantP)>0) {
 			ant($LantP,'p',1);

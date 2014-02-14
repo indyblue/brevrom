@@ -1,0 +1,1 @@
+Grant us, we beseech thee, O Lord, to imitate that which we celebrate, and to learn to love even our enemies: forasmuch as we keep the birthday of one to whom it was given to intercede for his persecutors with thy Son, our Lord Jesus Christ. Who liveth.

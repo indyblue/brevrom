@@ -410,7 +410,7 @@ if($weekly) rubp('','Full Psalter:
 	bvm_head(2);
 	ant('spiritus_sanctus_in_te_descendet.php','M',0,'','',1);
 	bvm_head(3);
-	ant('prTemp/0101m2.php','M',0,'','',1);
+	ant('prTemp/nativity/0101m2.php','M',0,'','',1);
 	if($long==0) {
 		rubp('Canticum <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>', 'The Canticle <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>',1);
 	} else {
@@ -425,7 +425,7 @@ if($weekly) rubp('','Full Psalter:
 		bvm_head(2);
 		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
 		bvm_head(3);
-		ant('prTemp/0101m2.php','1',0,'','',1);
+		ant('prTemp/nativity/0101m2.php','1',0,'','',1);
 	}
 	space();	
 	if($old==1) {
@@ -512,7 +512,7 @@ if($weekly) rubp('','Full Psalter:
 	bvm_head(2);
 	ant('spiritus_sanctus_in_te_descendet.php','*',0,'','',1);
 	bvm_head(3);
-	ant('prTemp/0101m2.php','*',0,'','',1);
+	ant('prTemp/nativity/0101m2.php','*',0,'','',1);
 	if($long==0) {
 		rubp('Canticum <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>', 'The Canticle <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>',1);
 	} else {
@@ -527,7 +527,7 @@ if($weekly) rubp('','Full Psalter:
 		bvm_head(2);
 		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
 		bvm_head(3);
-		ant('prTemp/0101m2.php','1',0,'','',1);
+		ant('prTemp/nativity/0101m2.php','1',0,'','',1);
 	}
 	space();	
 
@@ -633,7 +633,7 @@ function bvm_multiant($part, $vespers=0, $option=1) {
 	ant('prSanct/0325L.php',$part,0,'','',1);
 	if($option==1) {
 		bvm_head(3,1);
-		ant('prTemp/0101L.php',$part,0,'','',1);
+		ant('prTemp/nativity/0101L.php',$part,0,'','',1);
 	}
 	space('Line');
 }

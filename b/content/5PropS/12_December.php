@@ -1,7 +1,8 @@
 <?php 
 
 space();
-img('separator3.png',100);
+img();
+space();
 head('Festa Decembris', 'Feasts of December',1);
 
 feast_saint(1202,3,'Sanctæ Bibianæ','Saint Bibiana','VM');

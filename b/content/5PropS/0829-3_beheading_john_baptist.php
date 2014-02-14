@@ -1,7 +1,7 @@
 <?php 
 
-img();
 space();
+// img();
 headSt(829,3,'in Decollatione S. Joannis Baptistæ','The Beheading of St. John the Baptist');
 
 hour('L');

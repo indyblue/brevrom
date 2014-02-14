@@ -1,7 +1,7 @@
 <?php
 
 	space(); 
-	img();
+	// img();
 	headst('722',3,'S. Mariæ Magdalenæ',
 		'St. Mary Magdalene','Penitent');
 	csref(0,1);

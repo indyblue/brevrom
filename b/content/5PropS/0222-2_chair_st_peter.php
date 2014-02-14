@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img(); 
+	// img(); 
 	feast_saint(222,12,'Cathedræ S. Petri',
 		'Chair of St. Peter','A');
 	csref('csCB',0,11);

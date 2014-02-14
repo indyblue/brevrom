@@ -9,7 +9,7 @@ echo ($_GET['L']==1?'Proprium de Tempore':'Proper of Seasons')
    <p:Body/>
 <?php 
 require '01_advent/index.php';
-require '02_nativity.php';
+require '02_nativity/index.php';
 require '03_epiphany.php';
 require '04_post_epiphany.php';
 require '05_septuagesima.php';

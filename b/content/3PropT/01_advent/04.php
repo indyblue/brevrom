@@ -1,5 +1,4 @@
 <?php 
-	img();
 	space();
 	hidden('Advent',1);
 	hidden('Advent IV',2);
@@ -112,7 +111,6 @@
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	rubrics('et_dicuntur_preces.php');
-	space();
 
 
 ?>

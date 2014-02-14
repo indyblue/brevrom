@@ -1,7 +1,8 @@
 <?php 
 
 space();
-img('separator3.png',100);
+img();
+space();
 head('Festa Novembris', 'Feasts of November',1);
 
 require '1101-1_all_saints.php';

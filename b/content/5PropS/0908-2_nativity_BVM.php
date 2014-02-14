@@ -1,8 +1,7 @@
 <?php 
 
-img('Saints/0908_nativity_of_bvm.png',100);
 space();
-
+img('Saints/0908_nativity_of_bvm.png',100);
 headSt(908,2,'in Nativitate B. Mariæ Virg.','Nativity of the B.V.M.');
 
 hour('L');

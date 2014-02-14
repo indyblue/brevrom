@@ -1,7 +1,7 @@
 <?php
 
-	img();
 	space();
+	// img();
 	headSt(1024,3,'S. Raphaelis Archangeli','St. Raphael the Archangel');
 
 	hour('L');

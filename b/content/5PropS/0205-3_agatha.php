@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img(); 
+	// img(); 
 	feast_saint(205,13,'Sanctæ Agathæ','Saint Agatha','VM');
 
 	hour('L'); 

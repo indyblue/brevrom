@@ -1,6 +1,6 @@
 <?php 
 	space();
-	img(); 
+	// img(); 
 	headSt(array('Feria VI post Dominicam I Passionis',
 		'Friday after the 1st Sunday of Passiontide'),
 		0,'Septem Dolorum B. Mariæ Virg.',
