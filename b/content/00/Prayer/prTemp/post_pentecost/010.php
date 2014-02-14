@@ -1,1 +1,0 @@
-Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: et quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; ut in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus. Per Dóminum.

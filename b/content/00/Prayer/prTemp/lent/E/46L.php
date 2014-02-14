@@ -1,1 +1,0 @@
-O God, who renewest the world by thine ineffable sacraments; grant, we beseech thee, that thy Church may both profit by thy heavenly institutions, and may not be destitute of thine earthly succours. Through our Lord.

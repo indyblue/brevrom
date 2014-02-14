@@ -9,16 +9,15 @@ echo ($_GET['L']==1?'Proprium de Tempore':'Proper of Seasons')
    <p:Body/>
 <?php 
 require '01_advent/index.php';
-require '02_nativity/index.php';
-require '03_epiphany/index.php';
-require '04_post_epiphany/index.php';
-require '05_septuagesima/index.php';
-require '06_lent/index.php';
-require '07_passiontide/index.php';
-require '08_easter/index.php';
-require '09_ascension/index.php';
-require '10_pentecost.php';
-require '11_post_pentecost/index.php';
+require '02_nativity.php';
+require '03_epiphany.php';
+require '04_post_epiphany.php';
+require '05_septuagesima.php';
+require '06_lent.php';
+require '07_passiontide.php';
+require '08_easter.php';
+require '09_ascension.php';
+require '10_post_ascension.php';
 
 
 ?>

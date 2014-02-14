@@ -1,7 +1,7 @@
 <?php
 
+	img();
 	space();
-	// img();
 	feast_saint(1015,13,'Sanctæ Teresiæ','Saint Teresa','V');
 	csref(0,1);
 

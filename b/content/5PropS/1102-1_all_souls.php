@@ -1,7 +1,7 @@
 <?php
 
-	space();
-	// img();
+	img();
+	space('RubricH');
 	headSt(1102,1,'in Commem. Omnium Fidelium Defunctorum','the Commem. of all the Faithful Departed');
 	
 	rubp('<snr>¶</s> Commemoratio omnium Fidelium defunctorum excludit tum festa occurrentia, tum festa transferenda cujusvis ritus. Si tamen inciderit in dominicam, iisdem cum juribus, in seq. feria secunda celebratur, translato, vel penitus omisso, juxta rubricas, quolibet alio festa.','<snr>¶</s> This feast excludes all occuring feasts and also all transferred feasts of any rite. If it should fall on a Sunday, it is celebrated with the same privileges on the following Monday; any other feast being transferred or omitted, according to the rubrics.');

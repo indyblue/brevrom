@@ -30,7 +30,7 @@
 	head('De versu in responsorio brevi','The verse in the brief response',3);
 */
 	rubp('In omnibus Officiis tam de Tempore quam de Sanctis, nisi proprius assignetur, in responsorio brevi, dicitur cotidie sequens:', 'In all Offices, of the Season and of Saints, unless a proper verse is specified, in the brief response the following is said daily:');
-	PrV('qui_venturus_es_in_mundum.php',0);
+	PrV('qui_venturus_es_in_mundum.php',1);
 //	head('De lectione brevi','The brief lesson',3);
 	rubp('In omnibus Officiis tam de tempore quam de Sanctis, dicitur cotidie sequens:', 'In all Offices, of the Season and of Saints, the following is said daily:');
 	lc('is33_2.php',0,3);
@@ -62,7 +62,7 @@
 	hour('V');
 	lc('gen49_10.php');
 	head('De hymno et versu','The hymn and verse',3);
-	hymn('creator_alme_siderum.php',0);
+	hymn('creator_alme_siderum.php');
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
 	head('Preces','Preces',3);
 	rubp('Preces (<snr>p. '. bkref('preces') .'</s>) dicuntur: in Vesperis feriæ IV et VI temporis Adventus.', 'The preces (<snr>p. '. bkref('preces') .'</s>) are said: in Vespers of Wed. and Fri. in the season of Advent.');

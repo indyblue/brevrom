@@ -1,1 +1,0 @@
-When Jesus lifted up his eyes * and saw a very great multitude come unto him, he said to Philip: Whence shall we buy bread that these may eat? And this he said to prove him: for he himself knew what he would do.

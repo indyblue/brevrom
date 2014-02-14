@@ -1,10 +1,11 @@
 <?php 
+	img();
 	space();
 	hidden('Advent',1);
-	hidden('Fourth Sunday',2);
+	hidden('Advent IV',2);
 	head_temp(1,'Dominica IV Adventus', 'Fourth Sunday of Advent');
 
-	rubp('Si in dominica IV Adventus venerit vigilia Nativitatis Domini, Officium fit ut infra, ad vigiliam, ordinatur <snr>'.bkref('Advent24').'</s>.', 'If the fourth Sunday of Advent falls on the vigil of the Nativity of the Lord, the Office is said as directed at the vigil, <snr>p. '.bkref('Advent24').'</s>.');
+	rubp('Si in dominica IV Adventus venerit vigilia Nativitatis Domini, Officium fit ut infra, ad vigiliam, ordinatur <snr>'.bkref('advent24').'</s>.', 'If the fourth Sunday of Advent falls on the vigil of the Nativity of the Lord, the Office is said as directed at the vigil, <snr>p. '.bkref('advent24').'</s>.');
 	space();
 	bookmark('Advent4V1');
 	hour('1V');
@@ -104,13 +105,14 @@
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	space();
 
-	feria(6,12);
+	feria(6,-2);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('prTemp/advent/23b.php','B');
 	rubrics('et_dicuntur_preces.php');
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	rubrics('et_dicuntur_preces.php');
+	space();
 
 
 ?>

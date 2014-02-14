@@ -1,5 +1,6 @@
 <?php
 	space();
+	img();
 	bookmark('OrPerAnnum');
 	head('Per Annum','Throughout the Year',1,'Ordinary','Throughout the Year');
 	rubp('Hujusmodi Ordinarium adhibebitur etiam tempore Septuagesimæ, necnon feria IV cinerum ac tribus feriis subsequentibus.', 'This Ordinary is followed also in the Season of Septuagesima, and also on Ash Wednesday and the three days following.');

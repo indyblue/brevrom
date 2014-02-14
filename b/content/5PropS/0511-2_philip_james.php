@@ -1,6 +1,6 @@
 <?php 
 	space();
-	// img(); 
+	img(); 
 	feast_saint(511,12,'Ss. Philippi et Jacobi','Ss. Philip and James','Ae+');
 
 	hour('L'); 

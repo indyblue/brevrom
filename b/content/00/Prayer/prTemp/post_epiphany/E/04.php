@@ -1,1 +1,0 @@
-O God, who knowest that through human frailty we cannot stand firm in the dangers that surround us, give us health of mind and body, that by thine assistance we may be able to overcome whatsoever things we suffer on account of our sins. Through our Lord.

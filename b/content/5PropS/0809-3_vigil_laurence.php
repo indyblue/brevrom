@@ -1,6 +1,6 @@
 <?php 
 	space(); 
-	// img();
+	img();
 	feast_saint(809,13,'in Vigilia S. Laurentii',
 		'the Vigil of St. Laurence','M');
 	rubp('Officium de feria, ut in Psalterio, præter [lectiones et] orationem, ut infra.', 'Office of the feria as in the Psalter, except the [matins lessons and] prayer given below.');

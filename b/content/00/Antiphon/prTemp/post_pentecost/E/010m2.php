@@ -1,1 +1,0 @@
-Thee O God * the Father unbegotten, thee the only-begotten Son, thee the Holy Ghost, the Comforter, the holy and undivided Trinity, with all our heart and mouth we confess, we praise, we bless: glory be to thee for ever.

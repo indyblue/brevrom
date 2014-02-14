@@ -1,7 +1,7 @@
 <?php
 
+	img();
 	space();
-	// img();
 	feast_saint(1020,13,'S. Joannis Cantii','St. John Cantius','C');
 	csref(0,1);
 

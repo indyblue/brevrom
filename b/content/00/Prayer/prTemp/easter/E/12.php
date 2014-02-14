@@ -1,1 +1,0 @@
-O God, who, by the Paschal solemnity, didst give thy saving remedies to our fallen world: continue, we beseech thee, to bless thy people with thy heavenly gifts, that thereby they may attain unto perfect liberty here, and eternal life hereafter. Through our Lord.

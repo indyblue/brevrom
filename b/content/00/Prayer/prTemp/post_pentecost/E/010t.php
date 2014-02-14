@@ -1,1 +1,0 @@
-O almighty and everlasting God, who hast granted to thy servants, in the confession of the true faith, to acknowledge the glory of an eternal Trinity, and in the power of majesty to adore an Unity: grant that by steadfastness in the same faith we may ever be defended from all adversity. Through our Lord.

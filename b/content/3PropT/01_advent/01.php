@@ -1,7 +1,8 @@
 <?php 
+	img();
 	space();
 	hidden('Advent',1);
-	hidden('First Sunday',2);
+	hidden('Advent I',2);
 	head_temp(1,'Dominica I Adventus', 'First Sunday of Advent');
 
 	hour('1V');
@@ -28,8 +29,9 @@
 	ordref(0,5,0);
 
 	hour('P');
-	PrV('qui_venturus_es_in_mundum.php',2,
-		array(', et ad absolutionem capituli lectio brevis <snr>Dómine, miserére</s>, quæ dicitur cotidie toto tempore Adventus, etiam in festis.', ', and at the end of the hour the brief lesson <snr>O Lord, have mercy</s>, which are said every day for the entire season of Advent, even on feasts.' ));
+	PrV('qui_venturus_es_in_mundum.php',1);
+	rubp('et ad absolutionem capituli lectio brevis ut infra, quæ dicitur cotidie toto tempore Adventus, etiam in festis.', 'and at the end of the hour the brief lesson as below; these are said every day for the entire season of Advent, even on feasts.');
+	lc('is33_2.php',0,3);
 	space();
 
 	hour('T');
@@ -105,6 +107,7 @@
 	feria(7);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/01/f7b.php','B');
+	space();
 
 ?>
 

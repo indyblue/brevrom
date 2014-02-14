@@ -2,6 +2,7 @@
 
 	space(); 
 	img('Saints/0629_ss_peter_and_paul.png',100);
+	space('RubricH'); 
 	feast_saint(629,11,'Sanctorum Petri et Pauli',
 		'Saints Peter and Paul.','A+');
 

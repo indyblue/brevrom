@@ -1,1 +1,0 @@
-Deus virtútum, cujus est totum quod est óptimum: ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum; ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódias. Per Dóminum.

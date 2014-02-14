@@ -1,1 +1,0 @@
-I have compassion * on the multitude, for behold now they have been with me three days, having nothing to eat; and if I shall send them away fasting to their homes, they will faint on the way, alleluia.

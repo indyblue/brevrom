@@ -1,1 +1,0 @@
-May the flock that belongs to thee, O Lord, we beseech thee, grow in filial devotedness; that being disciplined by holy exercises, they may be so much the more enriched with spiritual gifts, as they become more acceptable to thy divine majesty. Through our Lord.

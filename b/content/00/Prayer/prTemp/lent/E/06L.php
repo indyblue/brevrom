@@ -1,1 +1,0 @@
-Assist us, we beseech thee, O Lord, with thy gracious favour, in the solemn fast we have begun; that the external observance which we offer may be united with true sincerity of heart. Through our Lord.

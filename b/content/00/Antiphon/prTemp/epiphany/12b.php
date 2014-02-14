@@ -1,1 +1,0 @@
-Maniféste magnum est * pietátis sacraméntum, quod manifestátum est in carne, justificátum est in spíritu, appáruit Ángelis, prædicátum est Géntibus, créditum est in mundo, assúmptum est in glória, allelúja.

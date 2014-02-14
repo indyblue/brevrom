@@ -1,1 +1,0 @@
-Deus, qui hodiérna die Unigénitum tuum Géntibus stella duce revelásti: concéde propítius; ut, qui jam te ex fide cognóvimus, usque ad contemplándam spéciem tuæ celsitúdinis perducámur. Per eúmdem Dóminum.

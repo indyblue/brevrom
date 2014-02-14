@@ -1,7 +1,7 @@
 <?php
 
+	img();
 	space();
-	// img();
 	feast_saint(1130,12,'Sancti Andreæ','Saint Andrew','A');
 
 	hour('L');

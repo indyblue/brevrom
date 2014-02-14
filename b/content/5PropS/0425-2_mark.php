@@ -1,6 +1,6 @@
 <?php 
 	space();
-	// img(); 
+	img(); 
 	feast_saint(425,12,'Sancti Marci',
 		'Saint Mark','Ge');
 	rubp('Litaniæ majores assignatæ sunt diei 25 aprilis; si vero eo die occurrit dominica Paschatis, vel feria II post Pascha, transeruntur in sequentem feriam III.',

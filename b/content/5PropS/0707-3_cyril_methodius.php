@@ -1,6 +1,6 @@
 <?php 
 	space();
-	// img(); 
+	img(); 
 	feast_saint(707,13,'Ss. Cyrilli et Methodii','Ss. Cyril and Methodius','EC');
 	csref(0,1);
 

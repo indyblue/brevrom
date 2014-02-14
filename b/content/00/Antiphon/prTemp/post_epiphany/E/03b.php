@@ -1,1 +1,0 @@
-When Jesus was come down * from the mountain, behold a leper came and worshipped him, saying: Lord, if thou wilt, thou canst make me clean: and he put forth his hand and touched him, saying: I will, be thou made clean.

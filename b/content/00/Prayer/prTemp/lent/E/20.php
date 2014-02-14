@@ -1,1 +1,0 @@
-O God, who seest us to be destitute of all strength, keep us both inwardly and outwardly: that our bodies may be protected from all adversity, and our hearts made pure from every evil thought. Through our Lord.

@@ -1,1 +1,0 @@
-We beseech thee, O Lord, mercifully to pour into our hearts thy Holy Spirit, by whose wisdom we were created, and by whose providence we are governed. Through our Lord...in the unity of the same Holy Spirit.

@@ -1,1 +1,0 @@
-A certain woman from the crowd, * lifting up her voice, said: Blessed is the womb that bore thee and the paps that gave thee suck. But Jesus said to her: Yea rather, blessed are they who hear the word of God, and keep it.

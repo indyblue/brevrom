@@ -1,3 +1,3 @@
 <?php
-rubp('<s:VR>V. </s><snr>Dóminus vobíscum</s> vel <snr>Dómine exáudi</s>.', '<s:VR>V. </s><snr>The Lord be with you</s> or <snr>O Lord, hear</s>.');
+rubp('<s:VR>V. </s><snr>Dómine exáudi</s> vel <snr>Dóminus vobíscum</s>.', '<s:VR>V. </s><snr>Dómine exáudi</s> or <snr>Dóminus vobíscum</s>.');
 ?>

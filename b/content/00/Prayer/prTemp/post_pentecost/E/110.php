@@ -1,1 +1,0 @@
-Almighty, eternal God, who in the abundance of thy loving-kindness dost exceed both the merits and the desires of thy suppliants: pour down upon us thy mercy, that thou mayst forgive that for which our conscience upbraids us, and grant us those good things which our prayer ventures not to ask. Through our Lord.

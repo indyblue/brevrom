@@ -1,1 +1,0 @@
-O God, who on this day didst instruct the hearts of the faithful by the light of the Holy Spirit; grant that by the gift of the same Spirit we may be always truly wise, and ever rejoice in his consolation. Through our Lord...in the unity of the same Holy Spirit.

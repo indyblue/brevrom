@@ -1,1 +1,0 @@
-O God, who art the lover and renewer of innocence, turn unto thyself the hearts of us thy servants: that, being enkindled with the fire of thy spirit, we may be found rooted in faith and fruitful in works. Through our Lord.

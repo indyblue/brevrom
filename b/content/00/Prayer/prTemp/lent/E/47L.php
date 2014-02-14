@@ -1,1 +1,0 @@
-We beseech thee, O Lord, that our earnest devotion may become fruitful through thy grace; for then will our fast be profitable unto us, if it is well-pleasing to thy loving-kindness. Through our Lord.

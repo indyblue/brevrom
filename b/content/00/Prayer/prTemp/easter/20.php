@@ -1,1 +1,0 @@
-Deus, qui in Fílii tui humilitáte jacéntem mundum erexísti: fidélibus tuis perpétuam concéde lætítiam; ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis. Per eúmdem Dóminum.

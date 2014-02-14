@@ -1,1 +1,0 @@
-O God, the strength of all who hope in thee, graciously give ear to our prayers; and since human infirmity is powerless without thee, grant us the help of thy grace, that in fulfilling thy commandments we may please thee in will and in deed. Through our Lord.

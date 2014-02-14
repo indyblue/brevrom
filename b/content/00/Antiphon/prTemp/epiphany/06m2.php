@@ -1,1 +1,0 @@
-Tribus miráculis * ornátum diem sanctum cólimus: hódie stella Magos duxit ad præsépium: hódie vinum ex aqua factum est ad núptias: hódie in Jordáne a Joánne Christus baptizári vóluit, ut salváret nos, allelúja.

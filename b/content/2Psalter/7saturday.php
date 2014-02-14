@@ -163,7 +163,7 @@ if($matins) {
 	rubrics('ps/hour_continues.php');
 	lc('rom11_33.php');
 	rubrics('head/HymnVerse.php');
-	hymn('jam_sol_recedit_igneus.php',0);
+	hymn('jam_sol_recedit_igneus.php');
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php');
 	ant('Psalter/7Sat/6m.php','M');
 	dayhourE(7,'V');

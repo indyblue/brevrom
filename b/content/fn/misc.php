@@ -50,50 +50,23 @@ function convert_date($date) {
 	return array($Ldate,$Edate);
 }
 function bookmark($link='') {
-	if(bklist(1)>0) bklist($link,1);
 	echo "<p:BkHidden><text:bookmark text:name=\"" . $link . "\"/></p>\n";
 }
 
-function bklist($bk=0, $anchor=0) {
+function bklist($bk=0) {
 	if(!array_key_exists('list',$_GET))
 		$_GET['list'] = '';
-	if(!array_key_exists('list_ref',$_GET))
-		$_GET['list_ref'] = array();
-	if(!array_key_exists('list_anc',$_GET))
-		$_GET['list_anc'] = array('test');
-
-
-	if($bk=='0LH') trigger_error('Here is that pesky 0LH!', E_USER_ERROR);
-
-
-	if($anchor==1) array_push($_GET['list_anc'],$bk);
-
-	elseif($bk===0) return $_GET['list'];
+	if($bk===0) return $_GET['list'];
 	elseif($bk===1) return strlen($_GET['list']);
-
-	// double-checking returns!
-	// all refs that don't have anchors (really important)
-	elseif($bk===-1) 
-		return array_unique(array_diff($_GET['list_ref'], $_GET['list_anc']));
-	// all anchors that don't have refs (not important)
-	elseif($bk===-2) 
-		return array_unique(array_diff($_GET['list_anc'], $_GET['list_ref']));
-	elseif($bk===-3) 
-		return $_GET['list_ref'];
-	elseif($bk===-4) 
-		return $_GET['list_anc'];
-	
-	else {
-		array_push($_GET['list_ref'],(string)$bk);
+	else
 		$_GET['list'] .= "<p:BkHidden><text:bookmark text:name=\"" . 
 			$bk . "\"/>". $bk ."</p>\n";
-	}
 }
 
 // regex search to check for bkref not in echo
 // \v(echo.*)@<!bkref\(
 function bkref($link='') {
-	if(bklist(1)>0) bklist($link,0);
+	if(bklist(1)>0) bklist($link);
 	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">1</text:bookmark-ref>';
 }
 

@@ -1,1 +1,0 @@
-Behold now is the acceptable time, * behold now is the day of salvation: therefore in these days let us exhibit ourselves as the ministers of God, in much patience, in fastings, in watchings, and in charity unfeigned.

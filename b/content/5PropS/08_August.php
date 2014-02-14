@@ -1,8 +1,7 @@
 <?php
 
 space();
-img();
-space();
+img('separator3.png',100);
 head('Festa Augusti', 'Feasts of August',1);
 
 

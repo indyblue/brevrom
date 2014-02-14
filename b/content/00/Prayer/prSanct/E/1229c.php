@@ -1,1 +1,0 @@
-O God, in defence of whose Church the glorious Bishop Thomas fell by the swords of the impius: grant, we beseech thee, that all who implore his assistance may obtain a salutary effect of their petition. Through our Lord.

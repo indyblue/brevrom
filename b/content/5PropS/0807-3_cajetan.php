@@ -1,6 +1,6 @@
 <?php 
+	img(); 
 	space();
-	// img(); 
 	feast_saint(807,13,'Sancti Cajetani',
 		'Saint Cajetan','C');
 	rubrics('ps/Feria.php');

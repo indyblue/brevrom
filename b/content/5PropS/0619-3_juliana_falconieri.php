@@ -1,7 +1,7 @@
 <?php 
 
 	space(); 
-	// img();
+	img();
 	feast_saint(619,13,'S. Julianæ de Falconeriis','St. Juliana Falconieri','V');
 	csref('csV',1,12);
 	hour('L');

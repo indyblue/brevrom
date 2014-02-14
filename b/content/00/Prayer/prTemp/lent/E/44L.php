@@ -1,1 +1,0 @@
-O God, who through fasting dost give unto the just the reward of their merits, and pardon unto sinners; have mercy on thy humble servants, and grant that the confession of our sinfulness may avail us for obtaining forgiveness of our sins. Through our Lord.

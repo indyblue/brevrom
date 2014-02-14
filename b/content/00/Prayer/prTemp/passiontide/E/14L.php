@@ -1,1 +1,0 @@
-Sanctify this our fast, O God, and mercifully enlighten the hearts of thy faithful servants: and as thou givest them an earnest desire to pray, so do thou graciously vouchsafe a favourable hearing to their supplications. Through our Lord.

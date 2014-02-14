@@ -1,1 +1,0 @@
-This day * is the Church united to the heavenly Spouse; for Christ, in the Jordan, washes away her sins: the Magi run to the royal nuptials with their gifts: and the guests of the feast are gladdened by the water changed into wine, alleluia.

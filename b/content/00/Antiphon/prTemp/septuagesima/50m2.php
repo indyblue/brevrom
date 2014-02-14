@@ -1,1 +1,0 @@
-Stans autem Jesus, * jussit cæcum addúci ad se, et ait illi: Quid vis ut fáciam tibi? Dómine, ut vídeam. Et Jesus ait illi: Réspice, fides tua te salvum fecit. Et conféstim vidit, et sequebátur illum, magníficans Deum.

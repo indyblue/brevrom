@@ -1,8 +1,7 @@
 <?php 
 
 space();
-img();
-space();
+img('separator3.png',100);
 head('Festa Martii', 'Feasts of March',1);
 
 feast_saint(304,3,'Sancti Casimiri','Saint Casimir','C',0,
@@ -40,7 +39,7 @@ feast_saint(327,3,'S. Joannis Damasceni','St. John Damascene','CD');
 
 feast_saint(328,3,'S. Joannis de Capistrano','St. John Capistran','C');
 
-feast_saint(array('Feria VI post Dominicam I Passionis',	'Friday after the 1st Sunday of Passiontide'), 0,'Septem Dolorum B. Mariæ Virg.','The Seven Dolours of the B.V.M.','B','prSanct/03-7dolours.php',0,array('prSanct/ora_pro_nobis_virgo_dolorosissima.php', 'prSanct/03-7dolours.php'));
+require '03-7dolours.php';
 
 ?>
 

@@ -1,1 +1,0 @@
-O God, who didst appoint thine only-begotten Son to be the Saviour of mankind, and didst command that he should be called Jesus: mercifully grant that we may enjoy in heaven the vision of him whose holy name we venerate on earth. Through the same.

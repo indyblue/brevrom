@@ -1,1 +1,0 @@
-Today * were the days of Pentecost accomplished, alleluia: today the Holy Ghost appeared, in the form of fire, to the disciples, and gave them gifts of his graces: he sent them throughout the whole world to preach and to testify: He that believeth, and is baptized, shall be saved, alleluia.

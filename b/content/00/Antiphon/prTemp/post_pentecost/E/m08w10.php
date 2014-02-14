@@ -1,1 +1,0 @@
-Wisdom * hath built herself a house; she hath hewn out her seven pillars; she hath subdued the nations under herself; the necks of the proud and the haughty she hath of her own power trodden under foot.

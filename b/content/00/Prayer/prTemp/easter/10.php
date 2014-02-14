@@ -1,1 +1,0 @@
-Præsta, quǽsumus, omnípotens Deus: ut, qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus. Per Dóminum.

@@ -71,8 +71,8 @@ if($matins) {
 	rubrics('ps/hour_continues.php');
 	lc('apoc7_12.php');
 	rubrics('head/HymnVerse.php');
-	hymn('aeterne_rerum_conditor.php',0);
-	hymn('ecce_jam_noctis_tenuatur_umbra.php',0);
+	hymn('aeterne_rerum_conditor.php');
+	hymn('ecce_jam_noctis_tenuatur_umbra.php');
 	vrS('Ord/dominus_regnavit_decorem_induit.php');
 	dayhourE(1,'L');
 
@@ -104,7 +104,6 @@ if($matins) {
 	psalm(117);
 	space('Line');
 	rubp('<snr>¶</s> In dominicis a Septuagesima usque ad dominicam II Passionis inclusive, in vigilia et die octavo Nativitatis Domini, in Triduo sacro, in festis I classis, diebus infra octavas Paschatis et Pentecostes, loco Ps. 117, <snr>Confitémini Dómino</s>, dicitur sequens:','<snr>¶</s> In sundays from Septuagesima until the second Sunday of Passiontide inclusive, in the vigil and octave day of the Nativity of the Lord, in the Sacred Triduum, in I class feasts, and days in the octaves of Easter and Pentecost, in place of Ps. 117, <snr>Confitémini Dómino</s>, say the following:');
-	bookmark('psDP53');
 	psalm(53);
 	space('Line');
 	psalm(118,1);
@@ -183,7 +182,7 @@ if($matins) {
 	rubrics('ps/hour_continues.php');
 	lc('2cor1_3-4.php');
 	rubrics('head/HymnVerse.php');
-	hymn('lucis_creator_optime.php',0);
+	hymn('lucis_creator_optime.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
 	dayhourE(1,'V');
 

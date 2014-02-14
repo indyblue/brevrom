@@ -1,1 +1,0 @@
-Ecce ascéndimus * Jerosólymam, et consummabúntur ómnia, quæ scripta sunt de Fílio hóminis: tradétur enim géntibus, et illudétur, et conspuétur: et postquam flagellavérunt, occídent eum, et tértia die resúrget.

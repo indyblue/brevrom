@@ -1,5 +1,5 @@
 Fr. E.Caswall
-<sr>The first strophe of this hymn is said kneeling:</s>
+<sr>The first strophe of this hymn is sung (or recited) kneeling:</s>
 
 Come, O Creator Spirit blest!
 And in our souls take up thy rest;

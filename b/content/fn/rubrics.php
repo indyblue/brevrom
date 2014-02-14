@@ -138,13 +138,13 @@ function csref($cs=0, $ps=2, $opt=2) {
 		$E1 = 'Sext &amp; None as in the Common of  ';
 		$lh = 'S';
 	}
+	$pgref = ', <snr>p. '. bkref($cs . $lh) .'</s>';
 
 	if($cs===0) {
 		$L1 = ''; $E1 = '';
 		$L2 = ''; $E2 = '';
 		$pgref = '';
-	} else
-		$pgref = ', <snr>p. '. bkref($cs . $lh) .'</s>';
+	}
 
 	rubp(
 		$Lps . $ptL . $L1 . $csL[$cs] . $pgref . $L2, 
@@ -159,11 +159,8 @@ function csref($cs=0, $ps=2, $opt=2) {
 //       2 - Sunday psalms/antiphons
 //       3 - Sunday psalms
 //       4 - little hours feria
-//       4.1 - little hours pss & ant of Sunday 
-//       4.2 - little hours pss of Sunday, ant alleluia 
-//       5 - little hours pss of Sunday, ant from Lauds
+//       5 - little hours Sunday
 //       6 - little hours feast
-//       6.1 - little hours sunday, prime ps 53 etc.
 // $opt: 1 - All from ordinary
 //       2 - All else from ordinary
 //       3 - little hours from ordinary
@@ -235,14 +232,6 @@ $ordE = array(
 		$Lps = 'Ad Horas minores, ant. et psalmi de feria currenti. ';
 		$Eps = 'At the little Hours, ant. and psalms of the current feria. ';
 		$lh = 'LH';
-	} elseif($ps==4.1) {
-		$Lps = 'Ad Horas minores, ant. et psalmi de dominica. ';
-		$Eps = 'At the little Hours, ant. and psalms of Sunday. ';
-		$lh = 'LH';
-	} elseif($ps==4.2) {
-		$Lps = 'Ad Horas minores, ant. <snr>Allelúja</s> cum psalmi de dominica. ';
-		$Eps = 'At the little Hours, ant. <snr>Alleluia</s>, with the psalms of Sunday. ';
-		$lh = 'LH';
 	} elseif($ps==5) {
 		$Lps = 'Ad Horas minores, psalmi de dominica; Antiphonæ 1, 2, 3 &amp; 5 e Laudibus. ';
 		$Eps = 'At the little Hours, psalms of Sunday. Antiphons 1, 2, 3 &amp; 5 of Lauds, respectively. ';
@@ -255,10 +244,6 @@ $ordE = array(
 			$Lps = 'Ad Horas minores, psalmi de dominica; sed ad Primam, loco psalmi 117 <snr>Confitémini</s>, dicitur ps. 53 <snr>Deus, in nómine</s>. Quod observatur in omnibus Officiis in quibus ponitur rubrica: ' . $Lps;
 			$Eps = 'At the Little Hours, psalms of Sunday; but at Prime, in place of psalm 117 <snr>Give praise</s>, is said ps. 53 <snr>Save me</s>. Which is observed in all Offices in which appears the following rubric: ' . $Eps;
 		}
-		$lh = 'LH';
-	} elseif($ps==6.1) {
-		$Lps = 'Ad Horas minores, psalmi de dominica, ad Primam tamen pss. 53, 118i et 118ii; Antiphonæ 1, 2, 3 &amp; 5 e Laudibus. ';
-		$Eps = 'At the little Hours, psalms of Sunday, but at Prime, pss. 53, 118i and 118ii. Antiphons 1, 2, 3 &amp; 5 of Lauds, respectively. ';
 		$lh = 'LH';
 	}
 
@@ -298,14 +283,13 @@ $ordE = array(
 		$E1 = 'Sext &amp; None as in the Ordinary  ';
 		$lh = 'S';
 	}
+	$pgref = ', <snr>p. '. bkref($ord . $lh) .'</s>';
 
 	if($ord===0) {
 		$L1 = ''; $E1 = '';
 		$L2 = ''; $E2 = '';
 		$pgref = '';
-	} else 
-		$pgref = ', <snr>p. '. bkref($ord . $lh) .'</s>';
-
+	}
 
 	rubp(
 		$Lps . $ptL . $L1 . $ordL[$ord] . $pgref . $L2, 

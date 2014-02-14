@@ -1,7 +1,5 @@
 <?php
 	$long = $_GET['long'];
-	$long = 1;
-
 	hour('M');
 	vrS('Ord/domine_labia_mea_aperies.php');
 	vr('deus_in_adjutorium.php');

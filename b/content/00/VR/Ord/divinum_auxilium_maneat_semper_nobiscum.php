@@ -1,2 +1,2 @@
-Divínum auxílium máneat semper nobíscum.
+Divínum auxílium † máneat semper nobíscum.
 Amen.

@@ -1,1 +1,0 @@
-Deus, qui ineffabílibus mundum rénovas sacraméntis: præsta, quǽsumus; ut Ecclésia tua et ætérnis profíciat institútis, et temporálibus non destituátur auxíliis. Per Dóminum.

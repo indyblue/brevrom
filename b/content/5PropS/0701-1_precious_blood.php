@@ -2,6 +2,7 @@
 
 	space(); 
 	img('Tempore/t10_sacred_heart.png',100);
+	space('RubricH'); 
 	headst('701',1,'Pretiosissimi Sanguinis D.N.J.C.',
 		'The Most Precious Blood of our Lord Jesus Christ');
 

@@ -4,7 +4,7 @@
 // 0 - hymn inserted in full, with bookmark
 // 1 - reference to hymn inserted
 // -1 - hymn inserted in full, no bookmark.
-function hymn($file, $byref=-1, $posttxt=0) {
+function hymn($file, $byref=-1) {
 	$dir = $_GET['root'] . "/00/Hymn/";
 
 
@@ -35,13 +35,8 @@ function hymn($file, $byref=-1, $posttxt=0) {
 		$Efl = trimP($Epieces[3]);
 		$bk = substr($file,0,strlen($file)-4);
 		$bkref = ', p. '. bkref($bk) .'</s>';
-		$Lpost = ''; $Epost = '';
-		if(is_array($posttxt)) {
-			$Lpost = $posttxt[0];
-			$Epost = $posttxt[1];
-		}
-		rubp('Hymnus <snr>'. $Lfl . $bkref . $Lpost,
-			'Hymn <snr>'. $Efl . $bkref . $Epost);
+		rubp('Hymnus <snr>'. $Lfl . $bkref,
+			'Hymn <snr>'. $Efl . $bkref);
 	}
 	else {
 		if($byref==0) {
@@ -74,11 +69,21 @@ function hymn($file, $byref=-1, $posttxt=0) {
 				if($strL) {
 					echo $strL . $strE . '</td></tr>';
 					if($i+1<$countL) {
-						if (substr($Lpieces[$i+1],0,1)!='>')
-							echo '<tr><td:A1><p:HymnS/></td><td:B1><p:HymnS/></td></tr>';
+						if (substr($Lpieces[$i+1],0,1)!='>') {
+		?>
+		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<?php
+						}
 					} else {
-						echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . 
-							'<t2>Trans. ' . trim($Epieces[0]) . '</s></p>';
+						echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . '<t>Trans. ' . trim($Epieces[0]) . '</s></p>';
+		
 					}
 				}
 				$new = 1;
@@ -87,10 +92,13 @@ function hymn($file, $byref=-1, $posttxt=0) {
 				$strE = '</td><td:B1>';
 			} elseif(mb_substr($txtL,0,1)=='>') {
 				$strL = ''; $strE = ''; 
-				echo '</table><p:RubricH>'. mb_substr(($_GET['L']?$txtL:$txtE),1).
-					'</p><table>';
+		?>
+			</table>
+			<p:RubricH><?php echo mb_substr(($_GET['L']?$txtL:$txtE),1) ?></p>
+			<table>
+		<?php
 			} else {
-				if($new && mb_substr($txtL,0,1)!='<') {
+				if($new) {
 					$strL .= '<p:HymnL' . ($i==3?'1':'') . '>'
 						. style_first_letter($txtL,"s:HymnR") . '</p>
 						';

@@ -1,1 +1,0 @@
-Jesus junxit se * discípulis suis in via, et ibat cum illis: óculi autem eórum tenebántur, ne eum agnóscerent: et increpávit eos, dicens: O stulti et tardi corde ad credéndum in his, quæ locúti sunt Prophétæ, allelúja.

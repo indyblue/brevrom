@@ -1,6 +1,6 @@
 <?php 
 	space();
-	// img(); 
+	img(); 
 	feast_saint(413,13,'S. Hermenegildi',
 		'St. Hermenegild','M');
 	csref(0,1);

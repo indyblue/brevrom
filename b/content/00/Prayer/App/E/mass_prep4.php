@@ -1,1 +1,2 @@
-We beseech thee, O Lord, that the Paraclete, who proceedeth from thee, may enlighten our minds, and lead us, as thy Son hath promised, into all truth.
+O Lord, we beseech thee that the Comforter which proceedeth from thee may enlighten our minds: and lead us into all truth, even as thy Son hath promised unto us.
+> Bute

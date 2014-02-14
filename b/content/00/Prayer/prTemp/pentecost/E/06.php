@@ -1,1 +1,0 @@
-Grant unto thy Church, we beseech thee, O merciful God, that being gathered together in thy Holy Spirit, it may not be troubled by any assaults of the enemy. Through our Lord...in the unity of the same Holy Spirit.

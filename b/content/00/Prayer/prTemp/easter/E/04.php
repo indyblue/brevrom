@@ -1,1 +1,0 @@
-O God, who dost gladden us with the annual solemnity of our Lord’s resurrection, mercifully grant that by the feasts which we celebrate on earth we may deserve to attain unto the eternal joys of heaven. Through our Lord.

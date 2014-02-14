@@ -1,2 +1,2 @@
-Fidélium ánimæ per misericórdiam Dei requiéscant in pace.
+Fidélium ánimæ † per misericórdiam Dei requiéscant in pace.
 Amen.

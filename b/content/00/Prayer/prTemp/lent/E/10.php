@@ -1,1 +1,0 @@
-O God, who dost purify thy Church by the Lenten fast, grant unto thy family, that the grace which by abstinence they seek to obtain of thee, they may bring forth in the fruits of good works. Through our Lord.

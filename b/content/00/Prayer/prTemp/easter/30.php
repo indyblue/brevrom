@@ -1,1 +1,0 @@
-Deus, qui errántibus, ut in viam possint redíre justítiæ, veritátis tuæ lumen osténdis: da cunctis qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; et ea, quæ sunt apta, sectári. Per Dóminum.

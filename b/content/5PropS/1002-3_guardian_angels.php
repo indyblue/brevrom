@@ -1,7 +1,7 @@
 <?php
 
+	img();
 	space();
-	// img();
 	headSt(1002,3,'Ss. Angelorum Custodum','The Holy Guardian Angels');
 
 	hour('L');

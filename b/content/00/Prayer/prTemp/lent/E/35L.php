@@ -1,1 +1,0 @@
-Mayst thou be honoured, O Lord, by the blessed solemnity of thy Saints Cosmas and Damian, wherein thou hast both added to their heavenly glory, and, by thy ineffable providence, bestowed thine aid upon us. Through our Lord.

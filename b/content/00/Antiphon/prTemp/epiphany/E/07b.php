@@ -1,1 +1,0 @@
-From the East * there came wise men to Bethlehem to worship the Lord: and when they had opened their treasures, they offered unto him precious gifts; gold as to the Great King; frankincense as to the true God; and myrrh for his burial, alleluia.

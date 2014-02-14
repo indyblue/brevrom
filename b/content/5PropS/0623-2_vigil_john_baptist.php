@@ -1,6 +1,6 @@
 <?php 
 	space(); 
-	// img();
+	img();
 	headSt('623',2,'in Vigilia S. Joannis Baptistæ',
 		'the Vigil of St. John the Baptist.');
 	rubp('Officium de feria, ut in Psalterio, præter [lectiones et] orationem, ut infra.', 'Office of the feria as in the Psalter, except the [matins lessons and] prayer given below.');

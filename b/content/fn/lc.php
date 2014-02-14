@@ -27,20 +27,17 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 
 	if($opt==1) {
 		$title = 'Capit. (Little Chapt.)';
-		$title = array('Capit.','Little Chapt.');
 	} elseif($opt==2) {
-		if($file2=='') {
+		if($file2=='') 
 			$title = 'Lectio Brevis (Brief Lesson)';
-			$title = array('Lectio Brevis','Brief Lesson');
-		} else
+		else
 			$title = $file2;
 		$conclL = ' Tu autem Dómine, miserére nobis.'. $conclL;
 		$conclE = ' But thou, O Lord, have mercy upon us.'. $conclE;
 	} elseif($opt==3) {
-		if($file2=='') {
+		if($file2=='') 
 			$title = 'Lectio Brevis (Brief Lesson)';
-			$title = array('Lectio Brevis','Brief Lesson');
-		} else
+		else
 			$title = $file2;
 		$conclL = ' Tu autem...';
 		$conclE = ' But thou...';
@@ -49,7 +46,6 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		$rn = array('','i','ii','iii','iv','v','vi','vii','viii','ix');
 		$i = substr($opt,1,1);
 		$title = 'Lectio (Lesson) '. $rn[$i];
-		$title = array('Lectio '. $rn[$i] , 'Lesson '. $rn[$i]);
 		// "Tu autem" is added except for office of the dead,
 		// which is signified by a "d" suffix as the 3rd char
 		if(strpos($opt,'d')===false) {
@@ -86,15 +82,8 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		rubp('Capit <snr>'. start_phrase($txtL,15) . '</s>, ('. $cv .'), '. $ref2L . $bkref,
 			'Little Chapt. <snr>'. start_phrase($txtE,15) . '</s>, ('. $cv .'), '. $ref2E . $bkref);
 	} else {
-		if(is_array($title)) {
-			$cvL = $cv; $cvE = $cv;
-			if(strpos($cv,'(')>0) {
-				$cvL = preg_replace('/\([^)]*\)/','',$cv);
-				$cvE = preg_replace(array('/^[^(]*\(/','/\)/'),'',$cv);
-			}
-			rubp($title[0] ."<t2>". $cvL, $title[1] ."<t2>". $cvE,0,1);
-		} else echo "  <p:RubricHSm>". $title ."<t2>". $cv ."</p>\n";
-		echo "  <table> <tr> <td:A1>\n".
+		echo "  <p:RubricHSm>". $title ."<t>". $cv ."</p>\n".
+			"  <table> <tr> <td:A1>\n".
 			"   <p:BodyLDrop>". caps_first_word($txtL) . $conclL . "</p>\n".
 			"  </td> <td:B1>\n".
 			"   <p:BodyEDrop>". caps_first_word($txtE) . $conclE . "</p>\n".

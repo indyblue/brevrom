@@ -1,8 +1,7 @@
 <?php 
 
 space();
-img();
-space();
+img('separator3.png',100);
 head('Festa Octobris', 'Feasts of October',1);
 
 feast_saint(1001,0,'Sancti Remigii','Saint Remigius','EC',array('csConfessorBishop1.php','Remígii','Remigius'));
