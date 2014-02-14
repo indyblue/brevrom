@@ -1,5 +1,5 @@
 0~This psalm is suitable to the just man who, seeing himself exposed here below to the temptations of the devil and to bad treatment on the part of impious men, seeks help from God.
-1~“<l>Judica</s>” Punish as they deserve.
+1~“<l>Judica.</s>” Punish as they deserve.
 2~“<l>Apprehende arma et scutum.</s>” Take Thy arms to strike my enemies, and Thy shield to protect me.
 3~“<l>Effunde.</s>” St. Jerome translates: <l>Evagina</s>—Unsheathe.
 4~“<l>Quærentes animam meam.</s>” Those that seek to take away my life.

@@ -8,7 +8,6 @@
 	rubrics('prSanct/all_else.php','csHW');
 
 	hour('L');
-	bookmark('ps0722Llc');
 	lc('prov31_10.php');
 	rubrics('head/HymnVerse.php');
 	hymn('summi_parentis_unice.php');
@@ -20,7 +19,6 @@
 	space();
 	hour('V');
 	lc('prov31_10.php');
-	lc('ecclus24_14.php','ps0722Llc');
 	rubrics('head/HymnVerse.php');
 	hymn('pater_superni_luminis.php');
 	vrS('elegit_eam_deus_et_praeelegit_eam.php');

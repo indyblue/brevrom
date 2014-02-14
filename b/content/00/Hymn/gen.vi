@@ -1,0 +1,40 @@
+"""""""""""""""""""""""""""""""""""""""""""
+"""  Generates the "sdi" files for the  """
+"""  hymns index in the Breviary        """
+"""""""""""""""""""""""""""""""""""""""""""
+
+ar L/*.php E/*.php | set nomore | redir! >titles.txt
+f!
+argdo g/\%1l\|\%4l/p
+redir END
+open titles.txt
+%s/[ ,;:!?.—]*$//ig
+g/^\s*$/d
+%s/^/|/
+g/\.php"$/d
+%s/\.php".*$/.php/
+%s/"\([LE]\)\\\(.*\)/\2\1/
+g/\.php/.,+2j
+sort
+g/.phpE/j
+%s/\s*|\s*/|/ig
+%s/Á/A/eg | %s/É/E/eg | %s/Í/I/eg | %s/Ó/O/eg | %s/Ú/U/eg | %s/Ý/Y/eg | %s/[ǼÆ]/AE/eg | %s/Œ/OE/eg |noh
+%s/á/a/eg | %s/é/e/eg | %s/í/i/eg | %s/ó/o/eg | %s/ú/u/eg | %s/ý/y/eg | %s/[ǽæ]/ae/eg | %s/œ/oe/eg | noh
+w
+" \1 = Translator, \2 = English
+" \3 = Author,     \4 = Latin
+%s/|[^|]*|\([^|]*\)|\([^|]*\)|[^|]*|\([^|]*\)|\([^|]*\)/\2;\4;;;1;1
+"set fenc=latin1
+sav! titlesL.sdi
+"enew!
+open titles.txt
+%s/|[^|]*|\([^|]*\)|\([^|]*\)|[^|]*|\([^|]*\)|\([^|]*\)/\2;\2;;;1;1
+sav! titlesE.sdi
+open titles.txt
+%s/|[^|]*|\([^|]*\)|\([^|]*\)|[^|]*|\([^|]*\)|\([^|]*\)/\2;\4;\3;;1;1
+sav! titlesLAu.sdi
+open titles.txt
+%s/|[^|]*|\([^|]*\)|\([^|]*\)|[^|]*|\([^|]*\)|\([^|]*\)/\2;\2;\1;;1;1
+sav! titlesETr.sdi
+open titles.txt
+

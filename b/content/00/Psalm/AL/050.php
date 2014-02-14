@@ -1,4 +1,4 @@
-0~David, contrite and humbled, bewails his sins. In this psalm is perfectly expressed the sorrow that a sinner feels when repenting of his faults he humbly asks God s pardon. It is the fourth penitential psalm.
+0~David, contrite and humbled, bewails his sins. In this psalm is perfectly expressed the sorrow that a sinner feels when repenting of his faults he humbly asks God’s pardon. It is the fourth penitential psalm.
 1~Show to me great mercy because I am a great sinner.
 2~“<l>Dele iniquitatem meam.</s>” Blot out from my soul all my sins.
 4~I well know the enormity of my sin, which is continually before my eyes, reproaching me with the evil that I have done.

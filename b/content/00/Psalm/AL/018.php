@@ -7,7 +7,7 @@
 9~“<l>Justitiæ Domini.</s>” The commandments of God. “<l>Illuminans oculos.</s>” This law is full of a heavenly light, which enlightens the mind: the mind is the eye of the soul.
 10~“<l>Timor Domini sanctus, permanens in sæculum sæculi.</s>” The divine law, which teaches holy fear, is permanent as to the eternal reward that it promises to him who observes it. “<l>Judicia.</s>” The precepts.
 11~The divine precepts are more agreeable to virtuous souls than anything in this world.
-13~“<l>Delicta quis intelligit?</s>” What man is there that knows all the sins, or, according to the translation of St. Jerome, all the errors into which we are exposed to fall, so as to be able to avoid them? “<l>Ab alienis parce servo tuo</s>” Do not permit Thy servant to associate with those that have strange, that is, bad manners. St. Jerome translates: <l>A superbis quoque libera servum tuum</s>—From the proud deliver Thy servant.
+13~“<l>Delicta quis intelligit?</s>” What man is there that knows all the sins, or, according to the translation of St. Jerome, all the errors into which we are exposed to fall, so as to be able to avoid them? “<l>Ab alienis parce servo tuo.</s>” Do not permit Thy servant to associate with those that have strange, that is, bad manners. St. Jerome translates: <l>A superbis quoque libera servum tuum</s>—From the proud deliver Thy servant.
 14~If I do not let my sins get the mastery over me, then I shall be free from every fault, and pure especially from grievous sins.
 15~My word, or my prayers will be agreeable to Thee as well as my meditations, which I shall ever make in Thy presence.
 16~It is Thou that aidest me in need and deliverest me in danger.

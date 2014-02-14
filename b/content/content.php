@@ -30,7 +30,6 @@ echo '   </text:section>';
  */
 
 require '/www/b/content/fn/0list.php';
-require '/www/b/content/fn/psalm-al.php';
 
 
 
@@ -70,8 +69,12 @@ $_GET['O'] = 0;
 // require '2Psalter/index.php';
 // require '2Psalter/index_OLD.php';
 
+$_GET['comm'] = 0;
+
 space('PgB');
-require 'psalms.php';
+
+require 'z_hymns.php';
+// require 'z_psalms.php';
 
 // require '100_intro.php';
 // require '110_toc.php';

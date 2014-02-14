@@ -159,7 +159,7 @@
 	rubrics('head/HymnVerse.php');
 	hymn('jam_sol_recedit_igneus.php');
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php');
-	ant('Psalter/7Sat/6m.php','B');
+	ant('Psalter/7Sat/6m.php','M');
 	dayhourE(7,'V');
 
 	space();

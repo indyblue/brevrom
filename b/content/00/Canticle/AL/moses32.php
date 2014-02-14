@@ -1,4 +1,4 @@
-0~It is by God s order that Moses, just before his death, intones this canticle in the presence of the people. In it he recounts the benefits done to the Israelites, the faults, and the chastisements sent by God to convert them (Deut. 32).
+0~It is by God’s order that Moses, just before his death, intones this canticle in the presence of the people. In it he recounts the benefits done to the Israelites, the faults, and the chastisements sent by God to convert them (Deut. 32).
 2~“<l>Concrescat.</s>” According to the Hebrew: <l>Stillet.</s> “<l>Fluat ut ros eloquium meum.</s>” Let my speech drop down as dew into the minds of those that hear me.
 3~“<l>Nomen Domini invocabo.</s>” I will invoke the name of the Lord, that my words may be of profit.
 5~God is faithful to his promises, and in him there is no iniquity, for he is just and righteous; but for all that, the Israelites have turned their back upon him, and by their shameful action have made themselves unworthy to be called his children.

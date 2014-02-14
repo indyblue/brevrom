@@ -157,7 +157,7 @@
 	rubrics('head/HymnVerse.php');
 	hymn('hominis_superne_conditor.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('Psalter/6Fri/6m.php','B');
+	ant('Psalter/6Fri/6m.php','M');
 	dayhourE(6,'V');
 
 	space();

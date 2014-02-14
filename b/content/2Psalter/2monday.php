@@ -159,7 +159,7 @@
 	rubrics('head/HymnVerse.php');
 	hymn('immense_caeli_conditor.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('Psalter/2Mon/6m.php','B');
+	ant('Psalter/2Mon/6m.php','M');
 	dayhourE(2,'V');
 
 	space();

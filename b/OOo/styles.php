@@ -78,7 +78,7 @@ Spacer			2
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="BodyESm" style:class="extra">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.1in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0.07in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
   </style:style>
   <style:style style:name="BodyLSm" style:family="paragraph" style:parent-style-name="BodyESm">
    <style:text-properties fo:language="la" fo:country="VA"/>
@@ -99,8 +99,10 @@ Spacer			2
   </style:style>
 
 
-  <style:style style:name="Rubric" style:family="paragraph" style:parent-style-name="Body" style:class="extra" style:master-page-name="">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="transparent"/>
+  <style:style style:name="Rubric" style:family="paragraph" style:parent-style-name="BodyE" style:class="extra" style:master-page-name="">
+<?php /*
+<style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="transparent"/>
+ */ ?>
    <style:text-properties fo:color="#ff0000" fo:font-style="italic"/>
   </style:style>
   <style:style style:name="RubricH" style:family="paragraph" style:parent-style-name="Rubric" style:master-page-name="">

@@ -4,7 +4,7 @@
 3~All his works are so many motives for us to praise and magnify him; he it is that does all things; and everything that he does is always just.
 4~The Lord, who is merciful and (according to the Hebrew text) full of paternal tenderness, has left the memorial of his admirable prodigies which he has wrought in favor of his people, especially in the miraculous food, the manna, which he gave to our fathers, who had the gift of his holy fear. Everyone knows that this manna was a figure of the Holy Eucharist, that most admirable work which Jesus Christ left on earth as a memorial of the death which he suffered for us.
 5~“<l>Virtutem.</s>” That is: The grandeur, the strength, the wisdom.
-6~“<l>Hæreditatem gentium.</s>” The Land of Promise in possession of the Gentiles. “<l>Opera manuum ejus, veritas et judicium.</s>” In a word, his works show forth to us his fidelity and his justice.
+6~“<l>Hereditatem gentium.</s>” The Land of Promise in possession of the Gentiles. “<l>Opera manuum ejus, veritas et judicium.</s>” In a word, his works show forth to us his fidelity and his justice.
 7~His laws ever righteous are unchangeable.
 8~He has sent redemption to his people, that is, the Redeemer, as St. Augustine and Euthymius explain, and he has made a covenant with them which shall never be broken.
 9~His name is holy and terrible; we must, therefore, greatly fear to violate his covenant, and be careful to preserve the fear of the Lord, without which we cannot possess wisdom.

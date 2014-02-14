@@ -1,4 +1,4 @@
-R.Littledale &amp; G.Palmer
+R.Littledale, G.Palmer
 
 
 O glorious King of martyr hosts,

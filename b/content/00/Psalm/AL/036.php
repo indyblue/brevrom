@@ -22,7 +22,7 @@
 25~If the just man happens to stumble, the Lord will not allow him to suffer hurt; for he himself, stretching out his hand, will support him.
 27~All day long having compassion on the poor, he helps them, at least by lending to them; and therefore his family shall always see itself blessed by God.
 28~“<l>Inhabita in sæculum sæculi.</s>” That is to say: Thou wilt be always happy.
-31~“<l>Terram</s>” The land of the blessed.
+31~“<l>Terram.</s>” The land of the blessed.
 32~“<l>Os justi meditabitur sapientiam.</s>” The words of the just man are always prudent and wise.
 34~The wicked man sees that the life of the just man is opposed to his own, and through the hatred that he bears him he seeks to do him evil.
 35~“<l>Nec damnabit eum, cum judicabitur illi.</s>” When he has to judge him, he will not condemn him, however great the calumnies laid to his charge by the wicked.

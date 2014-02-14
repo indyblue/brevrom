@@ -1,0 +1,112 @@
+|ad_regias_agni_dapes.phpE|Fr. E.Caswall|Now at the Lamb’s high royal feast|ad_regias_agni_dapes.phpL|St. Ambrose(?)|Ad régias Agni dapes
+|aeterna_caeli_gloria.phpE|Fr. E.Caswall|Eternal Glory of the heavens|aeterna_caeli_gloria.phpL|St. Ambrose(?)|Ætérna cæli glória
+|aeterne_rector_siderum.phpE|Fr. E.Caswall|Ruler of the dread immense|aeterne_rector_siderum.phpL|Card. R. Bellarmine|Ætérne Rector síderum
+|aeterne_rerum_conditor.phpE|Fr. E.Caswall|Dread Framer of the earth and sky|aeterne_rerum_conditor.phpL|St. Ambrose|Ætérne rerum Cónditor
+|ales_diei_nutius.phpE|Fr. E.Caswall|Now, while the herald bird of day|ales_diei_nutius.phpL|Prudentius|Ales diéi nútius
+|alto_ex_olympi_vertice.phpE|Fr. E.Caswall|From highest heav’n, the Father’s Son|alto_ex_olympi_vertice.phpL|Unk. 10-15th c|Alto ex Olýmpi vértice
+|audi_benigne_conditor.phpE|Fr. E.Caswall|Thou loving Maker of mankind|audi_benigne_conditor.phpL|St. Gregory|Audi, benígne Cónditor
+|aurora_caelum_purpurat.phpE|Fr. E.Caswall|The dawn was purpling o’er the sky|aurora_caelum_purpurat.phpL|St. Ambrose(?)|Auróra cælum púrpurat
+|aurora_jam_spargit_polum.phpE|Fr. E.Caswall|The dawn is sprinkling in the east|aurora_jam_spargit_polum.phpL|St. Ambrose(?)|Auróra jam spargit polum
+|aurora_soli_praevia.phpE|Dame A. Thomas, OSB, et al|O rosy dawn! that dost proclaim|aurora_soli_praevia.phpL|Unk. (Modern)|Auróra soli prǽvia
+|aurora_solis_nuntia.phpE|Editor|O dawn announcing the sun|aurora_solis_nuntia.phpL|Unk. (Modern)|Auróra, solis núntia
+|ave_maris_stella.phpE|Fr. E.Caswall|Hail thou Star of ocean|ave_maris_stella.phpL|Unk. 6-9th c|Ave, maris stella
+|beata_nobis_gaudia.phpE|Fr. E.Caswall|Again the slowly circling year|beata_nobis_gaudia.phpL|St. Hilary|Beáta nobis gáudia
+|beate_pastor_petre_clemens_accipe.phpE|Fr. E.Caswall|Peter, blest Shepherd! hearken to our cry|beate_pastor_petre_clemens_accipe.phpL|Elpis (wife of Boethius)|Beáte pastor, Petre, clemens áccipe
+|beate_pastor_petre_clemens_accipe2.phpE|Fr. E.Caswall|Peter, blest Shepherd! hearken to our cry|beate_pastor_petre_clemens_accipe2.phpL|Elpis (wife of Boethius)|Beáte pastor, Petre, clemens áccipe
+|caelestis_agni_nuptias.phpE|Fr. E.Caswall|To be the Lamb’s celestial bride|caelestis_agni_nuptias.phpL|Lorenzini (1719)|Cæléstis Agni núptias
+|caelestis_aulae_nuntius.phpE|Dame A. Thomas, OSB, et al|The heavenly messenger reveals|caelestis_aulae_nuntius.phpL|Thomas Ricchini|Cæléstis aulæ Núntius
+|caelestis_urbs_jerusalem.phpE|Fr. E.Caswall|Jerusalem, thou City blest|caelestis_urbs_jerusalem.phpL|Unk. 10-15th c|Cæléstis urbs Jerúsalem
+|caeli_deus_sanctissime.phpE|Fr. E.Caswall|Lord of eternal purity|caeli_deus_sanctissime.phpL|St. Ambrose(?)|Cæli Deus sanctíssime
+|christe_sanctorum_decus_angelorum.phpE|Fr. E.Caswall|O Christ, the glory of the Angel worlds|christe_sanctorum_decus_angelorum.phpL|Rabanus Maurus|Christe, sanctórum decus Angelórum
+|christe_sanctorum_decus_angelorum_raphael.phpE|Fr. E.Caswall|O Christ, the glory of the Angel worlds|christe_sanctorum_decus_angelorum_raphael.phpL|Rabanus Maurus|Christe, sanctórum decus Angelórum
+|cor_arca_legem_continens.phpE|Fr. E.Caswall|Ark of the Covenant! not that|cor_arca_legem_continens.phpL|Unk. 16-18th c|Cor, arca legem cóntinens
+|creator_alme_siderum.phpE|Fr. E.Caswall|Dear Maker of the starry skies|creator_alme_siderum.phpL|St. Ambrose(?)|Creátor alme síderum
+|crudelis_herodes_deum.phpE|Fr. E.Caswall|O cruel Herod! why thus fear|crudelis_herodes_deum.phpL|Sedulius|Crudélis Heródes, Deum
+|custodes_hominum_psallimus_angelos.phpE|Fr. E.Caswall|Praise we those ministers celestial|custodes_hominum_psallimus_angelos.phpL|Card. R. Bellarmine|Custódes hóminum psállimus Ángelos
+|decora_lux_aeternitatis_auream.phpE|Mgr. C.L.Hall|The beauteous light of God’s eternal majesty|decora_lux_aeternitatis_auream.phpL|Elpis (wife of Boethius)|Decóra lux æternitátis áuream
+|deus_tuorum_militum.phpE|Fr. E.Caswall|O Thou, of all thy warriors Lord|deus_tuorum_militum.phpL|Ambrosian (Old)|Deus, tuórum mílitum
+|domare_cordis_impetus_elisabeth.phpE|Fr. E.Caswall|Pure, meek, with soul serene|domare_cordis_impetus_elisabeth.phpL|Pope Urban VIII|Domáre cordis ímpetus Elísabeth
+|dum_nocte_pulsa_lucifer.phpE|Fr. E.Caswall|The golden star of morn|dum_nocte_pulsa_lucifer.phpL|Unk. 16-18th c|Dum, nocte pulsa, lúcifer
+|ecce_jam_noctis_tenuatur_umbra.phpE|Fr. E.Caswall|Lo, fainter now lie spread the shades of night|ecce_jam_noctis_tenuatur_umbra.phpL|St. Gregory|Ecce jam noctis tenuátur umbra
+|egregie_doctor_paule_mores_instrue.phpE|Fr. E.Caswall|Lead us, great teacher Paul, in wisdom’s ways|egregie_doctor_paule_mores_instrue.phpL|Elpis (Wife of Boethius)|Egrégie Doctor, Paule mores ínstrue
+|en_clara_vox_redarguit.phpE|Fr. E.Caswall|Hark! an awful voice is sounding|en_clara_vox_redarguit.phpL|Ambrosian (Old)|En clara vox redárguit
+|en_ut_superba_criminum.phpE|Fr. E.Caswall|Lo! how the savage crew|en_ut_superba_criminum.phpL|Unk. 16-18th c|En, ut supérba críminum
+|exsultet_orbis_gaudiis.phpE|Fr. E.Caswall|Now let the earth with joy resound|exsultet_orbis_gaudiis.phpL|Unk. 10-15th c|Exsúltet orbis gáudiis
+|festivis_resonent_compita_vocibus.phpE|Fr. E.Caswall|Forth let the long procession stream|festivis_resonent_compita_vocibus.phpL|Unk. 16-18th c|Festívis résonent cómpita vócibus
+|fortem_virili_pectore.phpE|Fr. E.Caswall|Laud we the Saint most sweet|fortem_virili_pectore.phpL|Card. Silvio Antoniano|Fortem viríli péctore
+|gentis_polonae_gloria.phpE|Fr. E.Caswall|O glory and high boast|gentis_polonae_gloria.phpL|Unk. 18th c|Gentis Polónæ glória
+|haec_est_dies_qua_candidae.phpE|Fr. E.Caswall|This day, beneath the form|haec_est_dies_qua_candidae.phpL|Pope Urban VIII|Hæc est dies, qua cándidæ
+|hominis_superne_conditor.phpE|Fr. E.Caswall|Maker of men! who First and sole|hominis_superne_conditor.phpL|St. Gregory(?)|Hóminis supérne Cónditor
+|immense_caeli_conditor.phpE|Fr. E.Caswall|Lord of immensity sublime|immense_caeli_conditor.phpL|St. Gregory(?)|Imménse cæli Cónditor
+|invicte_martyr_unicum.phpE|Fr. E.Caswall|Martyr of unconquer'd might|invicte_martyr_unicum.phpL|Unk. 10-15th c|Invícte Martyr, únicum
+|iste_confessor_domini_colentes.phpE|Cento, The Hymner (1905)|This is the Confessor of the Lord, whose triumph|iste_confessor_domini_colentes.phpL|Ambrosian (Mediaeval)|Iste Conféssor Dómini coléntes
+|iste_quem_laeti_colimus_fideles.phpE|Fr. E.Caswall|Worshipp’d throughout the Church to earth’s far ends|iste_quem_laeti_colimus_fideles.phpL|Unk. 16-18th c|Iste, quem læti cólimus, fidéles
+|jam_lucis_orto_sidere.phpE|A.G.McDougall|Now in the sun’s new dawning ray|jam_lucis_orto_sidere.phpL|Ambrosian (Old)|Jam lucis orto sídere
+|jam_morte_victor_obruta.phpE|Dame A. Thomas, OSB, et al|Now Christ, the conqueror of death|jam_morte_victor_obruta.phpL|Thomas Ricchini|Jam morte, victor, óbruta
+|jam_sol_recedit_igneus.phpE|Fr. E.Caswall|Now doth the fiery sun decline|jam_sol_recedit_igneus.phpL|St. Ambrose|Jam sol recédit ígneus
+|jam_toto_subitus_vesper_eat_polo.phpE|Fr. E.Caswall|Come, darkness, spread o’er Heav’n thy pall|jam_toto_subitus_vesper_eat_polo.phpL|Unk. 16-18th c|Jam toto súbitus vesper eat polo
+|jesu_corona_celsior.phpE|Fr. E.Caswall|Jesu! eternal Truth sublime|jesu_corona_celsior.phpL|Ambrosian|Jesu, coróna célsior
+|jesu_corona_virginum.phpE|J.M.Neale|Jesu, the Virgins’ Crown, do thou|jesu_corona_virginum.phpL|St. Ambrose(?)|Jesu, coróna Vírginum
+|jesu_decus_angelicum.phpE|Fr. E.Caswall|O Jesu! Thou the beauty art|jesu_decus_angelicum.phpL|St. Bernard|Jesu, decus angélicum
+|jesu_dulcis_memoria.phpE|Fr. E.Caswall|Jesu! the very thought of Thee|jesu_dulcis_memoria.phpL|St. Bernard|Jesu, dulcis memória
+|jesu_redemptor_omnium_perpes.phpE|J.D.Chambers|Jesu! the world’ Redeemer, hear|jesu_redemptor_omnium_perpes.phpL|Unk. 10-15th c|Jesu Redémptor ómnium
+|jesu_redemptor_omnium_quem.phpE|J.M.Neale et al|Jesu, the Ransomer of man|jesu_redemptor_omnium_quem.phpL|St. Ambrose(?)|Jesu, Redémptor ómnium
+|lucis_creator_optime.phpE|J.M.Neale|O blest Creator of the light|lucis_creator_optime.phpL|St. Gregory(?)|Lucis Creátor, óptime
+|lustra_sex_qui_jam_peregit.phpE|J.M.Neale|Thirty years among us dwelling|lustra_sex_qui_jam_peregit.phpL|Venantius Fortunatus|Lustra sex qui jam perégit
+|lux_alma_jesu_mentium.phpE|Fr. E.Caswall|Light of the soul, O Saviour blest|lux_alma_jesu_mentium.phpL|St. Bernard|Lux alma, Jesu, méntium
+|lux_ecce_surgit_aurea.phpE|Rev. W.J.Courthope|See the golden sun arise|lux_ecce_surgit_aurea.phpL|Prudentius|Lux ecce surgit áurea
+|lux_o_decora_patriae.phpE|Dame A. Thomas, OSB, et al|O lovely light of fatherland|lux_o_decora_patriae.phpL|Pope Leo XIII|Lux o decóra pátriæ
+|magnae_deus_potentiae.phpE|Rev. W.J.Courthope|O Sovereign Lord of Nature’s might|magnae_deus_potentiae.phpL|St. Ambrose(?)|Magnæ Deus poténtiæ
+|martyr_dei_venantius.phpE|Fr. E.Caswall|Unconquer’d Matryr of his God|martyr_dei_venantius.phpL|Unk. 16-18th c|Martyr Dei Venántius
+|matris_sub_almae_numine.phpE|Unk|By Mary’s inspiration led|matris_sub_almae_numine.phpL|Unk|Matris sub almæ númine
+|nox_et_tenebrae_et_nubila.phpE|Rev. W.J.Courthope|Day is breaking, dawn is bright|nox_et_tenebrae_et_nubila.phpL|Prudentius|Nox, et ténebræ, et núbila
+|nullis_te_genitor_blanditiis_trahit.phpE|Fr. E.Caswall|From the Truth thy soul to turn|nullis_te_genitor_blanditiis_trahit.phpL|Pope Urban VIII|Nullis te génitor blandítiis trahit
+|nunc_sancte_nobis_spiritus.phpE|Card. J.H.Newman|Come, Holy Ghost, who ever One|nunc_sancte_nobis_spiritus.phpL|St. Ambrose(?)|Nunc, Sancte, nobis, Spíritus
+|o_gente_felix_hospita.phpE|Rt. Rev. Msgr. H.T.Henry|O house of Nazareth the blest|o_gente_felix_hospita.phpL|Pope Leo XIII|O gente felix hóspita
+|o_gloriosa_virginum.phpE|Fr. E.Caswall|O Queen of all the Virgin choir|o_gloriosa_virginum.phpL|Venantius Fortunatus|O gloriósa vírginum
+|o_lux_beata_caelitum.phpE|From the Breviary of the Marquis of Bute|O highest hope of mortals|o_lux_beata_caelitum.phpL|Pope Leo XIII|O lux beáta Cǽlitum
+|o_nimis_felix_meritique_celsi.phpE|Fr. E.Caswall|O blessed Saint, of snow-white purity|o_nimis_felix_meritique_celsi.phpL|Paul the Deacon|O nimis felix, meritíque celsi
+|o_prima_virgo_prodita.phpE|Editor et al|O Virgin who was first to receive|o_prima_virgo_prodita.phpL|V.Genovesi, SJ (1950)|O prima, Virgo, pródita
+|o_sol_salutis_intimis.phpE|Fr. E.Caswall|The darkness fleets, and joyful earth|o_sol_salutis_intimis.phpL|Unk. 10-15th c|O sol salútis, íntimis
+|o_sola_magnarum_urbium.phpE|Fr. E.Caswall|Bethlehem! of noblest cities|o_sola_magnarum_urbium.phpL|Prudentius|O sola magnárum úrbium
+|omnis_expertem_maculae_mariam.phpE|Dame A. Thomas, OSB, et al|Lo! Mary is exempt from stain of sin|omnis_expertem_maculae_mariam.phpL|Unk. (Modern)|Omnis expértem máculæ Maríam
+|opes_decusque_regium_reliqueras.phpE|Fr. E.Caswall|Riches and regal throne, for Christ’s dear sake|opes_decusque_regium_reliqueras.phpL|Pope Urban VIII|Opes decúsque régium relíqueras
+|pange_lingua_gloriosi.phpE|Fr. E.Caswall|Sing, my tongue, the Saviour’s glory|pange_lingua_gloriosi.phpL|St. Aquinas|Pange, lingua, gloriósi
+|paschale_mundo_gaudium.phpE|Fr. E.Caswall et al|Now daily shines the sun more fair|paschale_mundo_gaudium.phpL|St. Ambrose(?)|Paschále mundo gáudium
+|pater_superni_luminis.phpE|Fr. E.Caswall|Father of lights! one glance of Thine|pater_superni_luminis.phpL|Card. R. Bellarmine|Pater supérni lúminis
+|placare_christe_servulis.phpE|Fr. E.Caswall|O Christ, thy guilty people spare|placare_christe_servulis.phpL|Unk. (Late Middle Ages)|Placáre, Christe, sérvulis
+|placare_christe_servulis_raphael.phpE|Fr. E.Caswall et al|O Christ, thy guilty people spare|placare_christe_servulis_raphael.phpL|Unk. (Late Middle Ages)|Placáre, Christe, sérvulis
+|quicumque_christum_quaeritis.phpE|Fr. E.Caswall|All ye who seek, in hope and love|quicumque_christum_quaeritis.phpL|Prudentius|Quicúmque Christum quǽritis
+|quodcumque_in_orbe_nexibus_revinxeris.phpE|Fr. E.Caswall|Peter, whatever thou shalt bind on earth|quodcumque_in_orbe_nexibus_revinxeris.phpL|Paulinus of Aquileia|Quodcúmque in orbe néxibus revínxeris
+|rector_potens_verax_deus.phpE|J.M.Neale|O God of truth, O Lord of might|rector_potens_verax_deus.phpL|St. Ambrose(?)|Rector potens, verax Deus
+|regali_solio_fortis_iberiae.phpE|Fr. E.Caswall|Glory of Iberia’s throne|regali_solio_fortis_iberiae.phpL|Pope Urban VIII|Regáli sólio fortis Ibériæ
+|regis_superni_nuntia.phpE|Fr. E.Caswall|Dear Herald of our King! thou didst|regis_superni_nuntia.phpL|Pope Urban VIII|Regis supérni núntia
+|rerum_deus_tenax_vigor.phpE|Fr. E.Caswall|O Thou true life of all that live|rerum_deus_tenax_vigor.phpL|St. Ambrose(?)|Rerum, Deus, tenax vigor
+|rex_gloriose_martyrum.phpE|R.Littledale &amp; G.Palmer|O glorious King of martyr hosts|rex_gloriose_martyrum.phpL|Unk. (Early Middle Ages)|Rex glorióse Mártyrum
+|salutis_aeternae_dator.phpE|Fr. E.Caswall|Giver of life, eternal Lord|salutis_aeternae_dator.phpL|Unk. (Late Middle Ages)|Salútis ætérnæ dator
+|salutis_humanae_sator.phpE|T.Potter|Hail, thou who man’s Redeemer art|salutis_humanae_sator.phpL|St. Ambrose(?)|Salútis humánæ Sator
+|salvete_christi_vulnera.phpE|Fr. E.Caswall|Hail wounds! which through eternal years|salvete_christi_vulnera.phpL|Unk. 16-18th c|Salvéte, Christi vúlnera
+|salvete_flores_martyrum.phpE|Fr. E.Caswall|Flowers of martyrdom all hail|salvete_flores_martyrum.phpL|Prudentius|Salvéte, flores Mártyrum
+|sanctorum_meritis_inclyta_gaudia.phpE|Fr. E.Caswall|Sing we the peerless deeds of martyr’d Saints|sanctorum_meritis_inclyta_gaudia.phpL|Unk. 6-9th c|Sanctórum méritis ínclyta gáudia
+|sedibus_caeli_nitidis_receptos.phpE|Dame A. Thomas, OSB, et al|Sing, O ye faithful, sing two athlete brothers|sedibus_caeli_nitidis_receptos.phpL|Pope Leo XIII|Sédibus cæli nítidis recéptos
+|sic_patres_vitam_peragunt_in_umbra.phpE|C. Kegan Paul|The fathers lived a life in shade|sic_patres_vitam_peragunt_in_umbra.phpL|Unk|Sic patres vitam péragunt in umbra
+|solis_o_virgo_radiis_amicta.phpE|Editor et al|O Virgin, clothed by the sun's rays|solis_o_virgo_radiis_amicta.phpL|V.Genovesi, SJ (1950)|Solis, o Virgo, rádiis amícta
+|splendor_paternae_gloriae.phpE|R.Bridges|O splendor of God’s glory bright|splendor_paternae_gloriae.phpL|St. Ambrose|Splendor patérnæ glóriæ
+|summae_deus_clementiae.phpE|Fr. E.Caswall|God, in whom all grace doth dwell|summae_deus_clementiae.phpL|Unk. 16-18th c|Summæ Deus cleméntiæ
+|summi_parentis_unice.phpE|Fr. E.Caswall|Son of the Highest! deign to cast|summi_parentis_unice.phpL|St. Odo of Cluny|Summi Paréntis Únice
+|te_deprecante_corporum.phpE|Fr. E.Caswall|Saint of sweetest majesty|te_deprecante_corporum.phpL|Unk. 18th c|Te deprecánte, córporum
+|te_gestientem_gaudiis.phpE|Dame A. Thomas, OSB, et al|Exulting with exceeding joy|te_gestientem_gaudiis.phpL|Eustace Sirena|Te gestiéntem gaúdiis
+|te_joseph_celebrent_agmina_caelitum.phpE|Fr. E.Caswall|Joseph, pure Spouse of that immortal Bride|te_joseph_celebrent_agmina_caelitum.phpL|Unk. 16-18th c|Te, Joseph, célebrent ágmina cǽlitum
+|te_lucis_ante_terminum.phpE|J.M.Neale|Before the ending of the day|te_lucis_ante_terminum.phpL|St. Ambrose(?)|Te lucis ante términum
+|te_mater_alma_numinis.phpE|Fr. E.Caswall|Mother of Almighty God|te_mater_alma_numinis.phpL|Unk|Te, Mater alma Núminis
+|te_saeculorum_principem.phpE|Editor et al|To thee, O Prince of all that be|te_saeculorum_principem.phpL|V.Genovesi, SJ (1925)|Te sæculórum Príncipem
+|te_splendor_et_virtus_patris.phpE|Fr. E.Caswall|O Jesu! life-spring of the soul|te_splendor_et_virtus_patris.phpL|Rabanus Maurus|Te, splendor et virtus Patris
+|telluris_alme_conditor.phpE|Fr. E.Caswall|O bounteous Framer of the globe|telluris_alme_conditor.phpL|St. Gregory(?)|Tellúris alme Cónditor
+|tristes_erant_apostoli.phpE|J.M.Neale et al|The Apostles’ hearts were full of pain|tristes_erant_apostoli.phpL|St. Ambrose(?)|Tristes erant Apóstoli
+|tu_natale_solum_protege_tu_bonae.phpE|Fr. E.Caswall|Protect thy native City, Spirit blest|tu_natale_solum_protege_tu_bonae.phpL|Pope Urban VIII|Tu natále solum prótege, tu bonæ
+|tu_trinitatis_unitas.phpE|Fr. E.Caswall|O Thou! who dost all nature sway|tu_trinitatis_unitas.phpL|St. Gregory(?)|Tu, Trinitátis Únitas
+|ut_queant_laxis_resonare_fibris.phpE|Fr. E.Caswall|Unloose, great Baptist, our sin-fetter’d lips|ut_queant_laxis_resonare_fibris.phpL|Paul the Deacon|Ut queant laxis resonáre fibris
+|veni_creator_spiritus.phpE|Fr. E.Caswall|Come, O Creator Spirit blest|veni_creator_spiritus.phpL|St. Gregory(?)|Veni, Creátor Spíritus
+|verbum_supernum_prodiens.phpE|Fr. E.Caswall|The Word, descending from above|verbum_supernum_prodiens.phpL|St. Aquinas|Verbum supérnum pródiens
+|vexilla_christus_inclyta.phpE|Editor et al|Christ’s flag unfurled in glory raised|vexilla_christus_inclyta.phpL|V.Genovesi, SJ (1925)|Vexílla Christus ínclyta
+|vexilla_regis_prodeunt.phpE|W.K.Blount|Abroad the regal banners fly|vexilla_regis_prodeunt.phpL|Venantius Fortunatus|Vexílla Regis pródeunt

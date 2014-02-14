@@ -20,6 +20,10 @@ g!/UNKNOWN/d
 %s/^\(\k*\)\(\s*\)=.*/\1\2 vim\/\\c\1\/*.php/ig
 
 
+--- get ae/oe's ---
+%s/\v<\k*[æœ]\k*>/\r\0\r/ig
+g!/[æœ]/d
+
 --- check Parenthases, quotes ---
 %s/([^)]*)/\r\0\r/ig
 g!/(/d
@@ -34,6 +38,7 @@ g/\d/d
 sort
 %s/\v^(.*)$\n(\1\n)+/+ \1\r/ig
 
+%s/\v^(.*)$\n(\1\n)+/\1\r/ig
 
 
 --- other stuff? ---
@@ -56,6 +61,9 @@ g/\v\c<[^aeëiouyæœáéíóúýǽ]{-}((au|[qg]u[aeëiouyæœáéíóúýǽ]|[a
 
 --- accent drop ---
 %s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | noh
+
+--- accent drop (but leave ae/oe's) ---
+%s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽ]/æ/eig |  noh
 
 
 

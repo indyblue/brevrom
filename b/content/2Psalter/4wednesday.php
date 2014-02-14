@@ -168,7 +168,7 @@
 	rubrics('head/HymnVerse.php');
 	hymn('caeli_deus_sanctissime.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('Psalter/4Wed/6m.php','B');
+	ant('Psalter/4Wed/6m.php','M');
 	dayhourE(4,'V');
 
 	space();

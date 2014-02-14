@@ -23,7 +23,9 @@ function psref($num, $parts=0, $dir = "/www/b/content/00/Psalm/") {
 
 }
 	
-function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index='Ps', $comm=1) {
+function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index='Ps', $comm=0) {
+	
+	if($comm==0 && $_GET['comm']>0) $comm=$_GET['comm'];
 
 	// scan latin directory, filter return for matches
 	$ls = scandir($dir);
@@ -48,7 +50,12 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 	$Epieces = file_load($dir.E($i));
 	if($comm) {
 		$iC = ereg_replace('[ab]*-[0-9a-f]\.','.',$i);
-		$Cpieces = file_load($dir.C($iC));
+		if(is_file($dir.C($iC)))
+			$Cpieces = file_load($dir.C($iC));
+		else {
+			$Cpieces = 0;
+			// $comm = 0;
+		}
 	}
 
 	// for line counting, psalm parts other than the 1st
@@ -132,7 +139,7 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
    <p:BodyE>'. style_first_letter($Epieces[$i],'sb') .'</p>
   </td></tr>
 ';
-			} elseif($drop==0) {
+			} elseif($drop==0 & $comm<2) {
 				$verse_count++;
 				$v2 = 0;
 				if(strlen($Lpieces[$i+1])==0) {
@@ -145,9 +152,10 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 					  	style_first_letter($Epieces[$i+1],'sb');
 				} else {
 					$l2L = '<t><text:line-break/>'.
+						numComm($comm,$verse_count+1,2) .
 						style_first_letter($Lpieces[$i+1],'sb');
 					$l2E = '<t><text:line-break/>'. 
-						numComm(-1,$verse_count+1) .
+						numComm($comm,$verse_count+1) .
 						style_first_letter($Epieces[$i+1],'sb') .
 						numComm($comm,$verse_count+1,$Cpieces);
 					$v2 = 1;
@@ -167,9 +175,10 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 			} else {
 				$verse_count++;
 				echo '  <tr><td:A1>
-   <p:BodyL>'. style_first_letter($Lpieces[$i],'sb') .'</p>
+   <p:BodyL>'. numComm($comm,$verse_count,2) .
+		style_first_letter($Lpieces[$i],'sb') .'</p>
   </td><td:B1>
-   <p:BodyE>'. numComm(-1,$verse_count) .
+   <p:BodyE>'. numComm($comm,$verse_count) .
 		style_first_letter($Epieces[$i],'sb') .
 		numComm($comm,$verse_count,$Cpieces) .'</p>
   </td></tr>
@@ -226,13 +235,17 @@ function line_count($num, $part, $dir) {
 	return count($pieces);
 }
 
-function numComm($comm, $verse_count, $Cpieces='', $line_num=2) {
+function numComm($comm, $verse_count, $Cpieces=0, $line_num=2) {
 	$ret = '<s:Super>' . $verse_count . '</s>';
 	if($comm==0) return '';
 	// line numbers only
-	elseif($comm==-1 && $line_num>1)
+	elseif($comm>0 && $Cpieces==0 && $verse_count>0)
+		return $ret;
+	// Latin line numbers only if $comm is 2
+	elseif($comm>1 && $Cpieces==2)
 		return $ret;
 	else {
+		if(!is_array($Cpieces) || $comm==3) return '';
 		$callback = create_function('$args',
 			'return findlnum('.$verse_count.',$args);');
 		$cLine = array_values(array_filter($Cpieces,$callback));
@@ -257,11 +270,12 @@ function numComm($comm, $verse_count, $Cpieces='', $line_num=2) {
 		else
 			return '<text:note text:id="ftn0" text:note-class="footnote">'.
 			'<text:note-citation text:label="'. $cLine[0] .'">'. $cLine[0] .
-			'</text:note-citation><text:note-body><p:Footnote> - '. $cLine[1] .
+			'</text:note-citation><text:note-body><p:Footnote>. '. $cLine[1] .
 			'</p></text:note-body></text:note>';
 	}
 }
 function findlnum($verse_count, $comm, $beginning=true) {
+	if($comm>1) $beginning = false;
 	if(strlen($comm)==0) return false;
 	$tmp = explode('~',$comm);
 	// there should only be one ~, separating the verse # 
