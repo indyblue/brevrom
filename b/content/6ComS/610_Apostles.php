@@ -45,7 +45,6 @@
 	space();
 	hour('S');
 	lc('acts5_12.php');
-	rubrics('head/PTnot.php');
 	brS('constitues_eos_principes_super_omnem_terram.php');
 	vrS('nimis_honorati_sunt_amici_tui_deus.php');
 

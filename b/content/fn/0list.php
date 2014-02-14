@@ -12,6 +12,7 @@ require '/www/b/content/fn/vr.php';
 require '/www/b/content/fn/br_resp.php';
 require '/www/b/content/fn/prayer.php';
 require '/www/b/content/fn/psalm.php';
+require '/www/b/content/fn/hymn.php';
 require '/www/b/content/fn/feast_saints.php';
 
 

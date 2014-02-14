@@ -1,7 +1,7 @@
    <text:section text:style-name="Sect1" text:name="Section1" text:protected="false">
 <p:P179/>
    <p:Head1NI>Prayer Before Office</p>
-<p:BodyE><sr>In the beginning, offer to God the praises that you are about to pour forth in his honor, and beseech him to free you from distractions, and to give you light and help to praise him and to pray to him as he deserves; and for this end recite attentively the usual prayer: (St. Alphonsus Liguori)</s></p>
+<p:BodyE><sr>In the beginning, offer to God the praises that you are about to pour forth in his honour, and beseech him to free you from distractions, and to give you light and help to praise him and to pray to him as he deserves; and for this end recite attentively the usual prayer: (St. Alphonsus Liguori)</s></p>
 <p:Spacer/>
 	<table> <tr> <td:A1>
       <p:BodyLDrop>ÁPERI, Dómine, os meum ad benedicéndum nomen sanctum tuum: munda quoque cor meum ab ómnibus vanis, pervérsis et aliénis cogitatiónibus; intelléctum illúmina, afféctum inflámma, ut digne, atténte ac devóte hoc Offícium recitáre váleam, et exaudíri mérear ante conspéctum divínæ Majestátis tuæ. Per Christum, Dóminum nostrum. </p>

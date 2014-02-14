@@ -1,60 +1,74 @@
-   <p:Body/>
-<?php img('separator2.tif',100); ?>
-   <p:RubricH/>
-   <p:Hidden1>Common of Saints</p>
-   <p:Hidden2>BVM Saturday</p>
-<?php bookmark('csBVMSat'); ?>
-	<p:Head1><?php 
-echo ($_GET['L']==1?'Commune Sanctæ Mariæ in Sabbato':'Office of the B.V.M. on Saturday')
-?></p>
-<?php rubrics('head/Lauds.php'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php rubrics('ps/SaL1.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus24_14.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('o_gloriosa_virginum.php'); ?>
-<?php vrS('benedicta_tu_in_mulieribus.php'); ?>
-   <p:BodySm/>
-   <p:RubricH>From the Saturday after the Octave of the Nativity of our Lord to the Saturday before the Purification, inclusive:</p>
-<?php rubrics('head/Benedictus.php'); ?>
-<?php ant('mirabile_mysterium_delcaratur_hodie.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('csBVMSat1.php'); ?>
-   <p:BodySm/>
-   <p:RubricH>From the Saturday after the Purification to the Saturday before Quinquagesima Sunday, and from the Saturday after the feast of the Trinity until the Saturday before the first Sunday of Advent, inclusive:</p>
-<?php rubrics('head/Benedictus.php'); ?>
-<?php ant('beata_dei_genitrix_maria_virgo_perpetua.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-<?php prayer('csBVMSat2.php'); ?>
-   <p:BodySm/>
-   <p:RubricH>From the Saturday after the Low Sunday (the Sunday after Easter) to the Saturday after the Ascension, inclusive:</p>
-<?php rubrics('head/Benedictus.php'); ?>
-<?php ant('regina_caeli_laetare_alleluia.php','B'); ?>
-<?php rubrics('head/Prayer.php'); ?>
-   <p:Rubric>Prayer <snr>Concéde nos</s>, as above.</p>
-   <p:BodySm/>
-<?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/Terce.php'); ?>
-<?php lc('ecclus24_14.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('specie_tua_et_pulcritudine_tua.php'); ?>
-<?php vrS('adjuvabit_eam_deus_vultu_suo.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/Sext.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus24_15.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('adjuvabit_eam_deus_vultu_suo.php'); ?>
-<?php vrS('elegit_eam_deus_et_praeelegit_eam.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/None.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('ecclus24_19.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('elegit_eam_deus_et_praeelegit_eam.php'); ?>
-<?php vrS('diffusa_est_gratia_in_labiis_tuis.php'); ?>
-   <p:Rubric>The Office of the B.V.M. on Saturdays ends after None.</p>
-   <p:BodySm/>
-<?php img(); ?>
+<?php
+
+	space('Body');
+	img('separator2.tif',100);
+	space('RubricH');
+	bookmark('csBVMSat');
+	head('Commune Sanctæ Mariæ in Sabbato',
+		'Saturday Office of the B.V.M.',1,
+		'Common of Saints','B.V.M. Saturday');
+
+	hour('L');
+	rubrics('ps/SaL1.php');
+	lc('ecclus24_14.php');
+	rubrics('head/HymnVerse.php');
+	hymn('o_gloriosa_virginum.php');
+	vrS('benedicta_tu_in_mulieribus.php',2);
+	space('Line');
+	rubp('A sabbato post octavam Nativitatis Domini usque ad sabbatum ante Purificationem inclusive:',
+		'From the Saturday after the octave of the Nativity of our Lord to the Saturday before the Purification (2 Feb.) inclusive:');
+	ant('mirabile_mysterium_delcaratur_hodie.php','B');
+	rubrics('head/Prayer.php');
+	prayer('csBVMSat1.php');
+	space('Line');
+	rubp('A sabbato post Purificationem usque ad sabbatum ante Quinquagesimam inclusive, et a sabbato post festum Sanctissimum Trinitatis usque ad sabbatum ante Nativitatis Domini, inclusive:',
+		'From the Saturday after the Purification to the Saturday before Quinquagesima Sunday, and from the Saturday after the feast of the Most Holy Trinity until the Saturday before the first Sunday of Advent, inclusive:');
+	ant('beata_dei_genitrix_maria_virgo_perpetua.php','B');
+	rubrics('head/Prayer.php');
+	prayer('csBVMSat2.php');
+	space('Line');
+	rubp('A sabbato post dominicam in albis usque ad sabbatum post Ascensionem inclusive:',
+		'From the Saturday after the first Sunday after Easter to the Saturday after the Ascension, inclusive:');
+	ant('regina_caeli_laetare_alleluia.php','B',1);
+	rubp('Oratio, <snr>Concéde nos</s>, ut supra.',
+		'Prayer <snr>Concéde nos</s>, as above.');
+	space('Line');
+	space();
+	PrV('qui_natus_es_de_maria_virgine.php');
+
+	space();
+	hour('T');
+	lc('ecclus24_14.php');
+	rubrics('head/PTnot.php');
+	brS('specie_tua_et_pulcritudine_tua.php');
+	vrS('adjuvabit_eam_deus_vultu_suo.php');
+	rubrics('head/PT.php');
+	brS('specie_tua_et_pulcritudine_tua.php',1);
+	vrS('adjuvabit_eam_deus_vultu_suo.php',0,1);
+
+	space();
+	hour('S');
+	lc('ecclus24_15.php');
+	rubrics('head/PTnot.php');
+	brS('adjuvabit_eam_deus_vultu_suo.php');
+	vrS('elegit_eam_deus_et_praeelegit_eam.php');
+	rubrics('head/PT.php');
+	brS('adjuvabit_eam_deus_vultu_suo.php',1);
+	vrS('elegit_eam_deus_et_praeelegit_eam.php',0,1);
+
+	space();
+	hour('S');
+	lc('ecclus24_19.php');
+	rubrics('head/PTnot.php');
+	brS('elegit_eam_deus_et_praeelegit_eam.php');
+	vrS('diffusa_est_gratia_in_labiis_tuis.php');
+	rubrics('head/PT.php');
+	brS('elegit_eam_deus_et_praeelegit_eam.php',1);
+	vrS('diffusa_est_gratia_in_labiis_tuis.php',0,1);
+	space();
+	rubp('Post Nonam terminatur Officium sanctæ Mariæ in sabbato.',
+		'The Saturday Office of the B.V.M. ends after None.');
+	space();
+	img();
+
+?>

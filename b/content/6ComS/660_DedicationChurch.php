@@ -1,75 +1,84 @@
-   <p:Body/>
-<?php img('CS/01_dedication_of_church.tif',100); ?>
-   <p:RubricH/>
-   <p:Hidden1>Common of Saints</p>
-   <p:Hidden2>Dedication of a Church</p>
-<?php bookmark('csChurch'); ?>
-	<p:Head1><?php 
-echo ($_GET['L']==1?'Commune Dedicationis Ecclesiæ':'Common of the Dedication of a Church')
-?></p>
-<?php rubrics('head/Prayer.php',1); ?>
-   <p:RubricH>On the anniversary of the Dedication of a church:</p>
-<?php prayer('csChurchAnniversary1.php'); ?>
-   <p:RubricH>On the day itself of the Dedication of a church:</p>
-<?php prayer('csChurchDedication1.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/1Vespers.php'); ?>
-<?php rubrics('cs/1Vespers.php'); ?>
-<?php rubrics('ps/antLauds.php'); ?>
-<?php rubrics('ps/SuV147.php'); ?>
-<?php rubrics('asIn.php','csChurchVlc','II Vespers','Little Chapter &amp; Hymn <snr>Cæléstis urbs Jerúsalem</s>'); ?>
-<?php vrS('haec_est_domus_domini_firmiter_aedificata.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
-<?php ant('sanctificavit_dominus_tabernaculum_suum.php','M'); ?>
-<?php rubrics('cs/1Compline.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/Lauds.php'); ?>
-<?php rubrics('head/Psalms.php'); ?>
-<?php ant('csChurchL.php','20000'); ?>
-<?php rubrics('ps/SuL1.php'); ?>
-<?php ant('csChurchL.php','02222'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('apoc21_2.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('alto_ex_olympi_vertice.php'); ?>
-<?php vrS('haec_est_domus_domini_firmiter_aedificata.php'); ?>
-<?php rubrics('head/Benedictus.php'); ?>
-<?php ant('zachaee_festinans_descende.php','B'); ?>
-   <p:BodySm/>
-<?php bookmark('csChurchLH'); ?>
-<?php rubrics('head/LittleHours.php'); ?>
-<?php rubrics('cs/LittleHours.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/Terce.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('apoc21_2.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('domum_tuam_domine_decet_sanctitudo.php'); ?>
-<?php vrS('locus_iste_sanctus_est_in_quo_orat_sacerdos.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/Sext.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('apoc21_3.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('locus_iste_sanctus_est_in_quo_orat_sacerdos.php'); ?>
-<?php vrS('haec_est_domus_domini_firmiter_aedificata.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/None.php'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('apoc21_4.php'); ?>
-<?php rubrics('head/BriefRespond.php'); ?>
-<?php brS('haec_est_domus_domini_firmiter_aedificata.php'); ?>
-<?php vrS('bene_fundata_est_domus_domini.php'); ?>
-   <p:BodySm/>
-<?php rubrics('head/2Vespers.php'); ?>
-<?php rubrics('ps/antLauds.php'); ?>
-<?php rubrics('ps/SuV147.php'); ?>
-<?php bookmark('csChurchVlc'); ?>
-<?php rubrics('head/LittleChapter.php'); ?>
-<?php lc('apoc21_2.php'); ?>
-<?php rubrics('head/HymnVerse.php'); ?>
-<?php hymn('caelestis_urbs_jerusalem.php'); ?>
-<?php vrS('domum_tuam_domine_decet_sanctitudo.php'); ?>
-<?php rubrics('head/Magnificat.php'); ?>
-<?php ant('o_quam_metuendus_est_locus_iste.php','M'); ?>
-<?php rubrics('cs/Compline.php'); ?>
+<?php
+
+	space('Body');
+	img('CS/01_dedication_of_church.tif',100);
+	space('RubricH');
+	bookmark('csChurch');
+	head('Commune Dedicationis Ecclesiæ',
+		'Common of the Dedication of a Church',1,
+		'Common of Saints','Dedication of a Church');
+
+	hour('1V');
+	rubrics('cs/1Vespers.php');
+	rubrics('ps/antLauds.php');
+	rubrics('ps/SuV147.php');
+	rubrics('asIn.php','csChurchVlc','II Vespers','Little Chapter &amp; Hymn <snr>Cæléstis urbs Jerúsalem</s>');
+	vrS('haec_est_domus_domini_firmiter_aedificata.php',2);
+	ant('sanctificavit_dominus_tabernaculum_suum.php','M',2);
+	rubrics('cs/1Compline.php');
+
+	space();
+	hour('L');
+	ant('csChurchL.php','20000',2);
+	rubrics('ps/SuL1.php');
+	ant('csChurchL.php','02222',2);
+	lc('apoc21_2.php');
+	rubrics('head/HymnVerse.php');
+	hymn('alto_ex_olympi_vertice.php');
+	vrS('haec_est_domus_domini_firmiter_aedificata.php',2);
+	ant('zachaee_festinans_descende.php','B',2);
+
+	rubrics('head/Prayer.php',1);
+	head('In anniversario Dedicationis ecclesiæ','On the anniversary of the Dedication of a church',4);
+	prayer('csChurchAnniversary1.php');
+	head('In ipso die Dedicationis ecclesiæ','On actual day of the Dedication of a church',4);
+	prayer('csChurchDedication1.php');
+
+	space();
+	bookmark('csChurchLH');
+	rubrics('head/LittleHours.php');
+	rubrics('cs/LittleHours.php');
+
+	space();
+	hour('T');
+	lc('apoc21_2.php');
+	rubrics('head/PTnot.php');
+	brS('domum_tuam_domine_decet_sanctitudo.php');
+	vrS('locus_iste_sanctus_est_in_quo_orat_sacerdos.php');
+	rubrics('head/PT.php');
+	brS('domum_tuam_domine_decet_sanctitudo.php',1);
+	vrS('locus_iste_sanctus_est_in_quo_orat_sacerdos.php',0,1);
+
+	space();
+	hour('S');
+	lc('apoc21_3.php');
+	rubrics('head/PTnot.php');
+	brS('locus_iste_sanctus_est_in_quo_orat_sacerdos.php');
+	vrS('haec_est_domus_domini_firmiter_aedificata.php');
+	rubrics('head/PT.php');
+	brS('locus_iste_sanctus_est_in_quo_orat_sacerdos.php',1);
+	vrS('haec_est_domus_domini_firmiter_aedificata.php',0,1);
+
+	space();
+	hour('N');
+	lc('apoc21_4.php');
+	rubrics('head/PTnot.php');
+	brS('haec_est_domus_domini_firmiter_aedificata.php');
+	vrS('bene_fundata_est_domus_domini.php');
+	rubrics('head/PT.php');
+	brS('haec_est_domus_domini_firmiter_aedificata.php',1);
+	vrS('bene_fundata_est_domus_domini.php',0,1);
+
+	space();
+	hour('2V');
+	rubrics('ps/antLauds.php');
+	rubrics('ps/SuV147.php');
+	bookmark('csChurchVlc');
+	lc('apoc21_2.php');
+	rubrics('head/HymnVerse.php');
+	hymn('caelestis_urbs_jerusalem.php');
+	vrS('domum_tuam_domine_decet_sanctitudo.php',2);
+	ant('o_quam_metuendus_est_locus_iste.php','M',2);
+	rubrics('cs/Compline.php');
+
+?>

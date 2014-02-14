@@ -20,7 +20,7 @@
 	rubrics('ps/SuV116.php');
 	rubrics('asIn.php','csApPTVlc','II Vespers','Little Chapter &amp; Hymn <snr>Exsúltet orbis gáudiis</s>');
 	vrS('sancti_et_justi_in_domino_gaudete.php',1);
-	ant('lux_perpetua_lucebit_sanctis_tuis_domine.php','M');
+	ant('lux_perpetua_lucebit_sanctis_tuis_domine.php','M',1);
 	rubrics('cs/1Compline.php');
 
 	space();
@@ -36,7 +36,7 @@
 	head('Pro Apostolis','For Apostles',4);
 	hymn('paschale_mundo_gaudium.php');
 	vrS('pretiosa_in_conspectu_domini.php',1);
-	ant('filiae_jerusalem_venite_et_videte_martyres.php','B');
+	ant('filiae_jerusalem_venite_et_videte_martyres.php','B',1);
 
 	space();
 	bookmark('csApPTLH');
@@ -74,6 +74,6 @@
 	head('Pro Apostolis','For Apostles',4);
 	hymn('tristes_erant_apostoli.php');
 	vrS('pretiosa_in_conspectu_domini.php',1);
-	ant('sancti_et_justi_in_domino_gaudete.php','M');
+	ant('sancti_et_justi_in_domino_gaudete.php','M',1);
 	rubrics('cs/Compline.php');
 ?>

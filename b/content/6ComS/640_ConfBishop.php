@@ -7,15 +7,6 @@
 		'Common of Bishop Confessor',1,
 		'Common of Saints','Bishop Confessor');
 
-	rubrics('head/Prayer.php',1);
-	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For a Pope, prayer');
-	head('Pro Confessore Pontifice','For a Confessor Bishop',4);
-	prayer('csConfessorBishop1.php');
-	head('Alia oratio','Alternate prayer',4);
-	prayer('csConfessorBishop2.php');
-	head('Pro Doctore Pontifice','For a Doctor Bishop',4);
-	prayer('csConfessorDoctor.php');
-
 	space();
 	hour('1V');
 	rubrics('cs/1Vespers.php');
@@ -40,11 +31,20 @@
 	hymn('jesu_redemptor_omnium_perpes.php');
 	vrS('justum_deduxit_dominus_per_vias_rectas.php',2);
 	ant('euge_serve_bone_et_fidelis.php','B',2);
+	rubrics('head/Prayer.php',1);
+	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For a Pope, prayer');
+	head('Pro Confessore Pontifice','For a Confessor Bishop',4);
+	prayer('csConfessorBishop1.php');
+	head('Alia oratio','Alternate prayer',4);
+	prayer('csConfessorBishop2.php');
+	head('Pro Doctore Pontifice','For a Doctor Bishop',4);
+	prayer('csConfessorDoctor.php');
 
 	space();
 	bookmark('csCBLH');
 	rubrics('head/LittleHours.php');
 	rubrics('cs/LittleHours.php');
+
 	space();
 	hour('T');
 	lc('ecclus44_16.php');
@@ -53,7 +53,7 @@
 	vrS('elegit_eum_dominus_sacerdotem_sibi.php');
 	rubrics('head/PT.php');
 	brS('amavit_eum_dominus_et_ornavit_eum.php',1);
-	vrS('elegit_eum_dominus_sacerdotem_sibi.php',1);
+	vrS('elegit_eum_dominus_sacerdotem_sibi.php',0,1);
 
 	space();
 	hour('S');
@@ -63,7 +63,7 @@
 	vrS('tu_es_sacerdos_in_aeternum.php');
 	rubrics('head/PT.php');
 	brS('elegit_eum_dominus_sacerdotem_sibi.php',1);
-	vrS('tu_es_sacerdos_in_aeternum.php',1);
+	vrS('tu_es_sacerdos_in_aeternum.php',0,1);
 
 	space();
 	hour('N');
@@ -73,7 +73,7 @@
 	vrS('justum_deduxit_dominus_per_vias_rectas.php');
 	rubrics('head/PT.php');
 	brS('tu_es_sacerdos_in_aeternum.php',1);
-	vrS('justum_deduxit_dominus_per_vias_rectas.php',1);
+	vrS('justum_deduxit_dominus_per_vias_rectas.php',0,1);
 
 	space();
 	bookmark('csCBV');
