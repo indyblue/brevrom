@@ -12,7 +12,7 @@ Turn away thy face from my sins, * and blot out all my iniquities.
 Create a clean heart in me, O God: * and renew a right spirit within my bowels.
 Cast me not away from thy face; * and take not thy holy spirit from me.
 Restore unto me the joy of thy salvation, * and strengthen me with a perfect spirit.
-I will teach the unjust the ways: * and the wicked shall be converted to thee.
+I will teach the unjust thy ways: * and the wicked shall be converted to thee.
 Deliver me from blood, O God, thou God of my salvation: * and my tongue shall extol thy justice.
 O Lord, thou wilt open my lips: * and my mouth shall declare thy praise.
 For if thou hadst desired sacrifice, I would indeed have given it: * with burnt offerings thou wilt not be delighted.
