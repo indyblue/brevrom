@@ -611,7 +611,7 @@
    </table>
    <p:Rubric>Depending on the day/season, [<s:VR>V</s>.] is replaced with:</p>
    <p:Spacer/>
-   <p:RubricH>In the Sunday Office during Advent and on Christmas Eve:</p>
+   <p:RubricH>Advent Season and on Christmas Eve:</p>
    <table>
     <tr>
      <td:A1>
@@ -622,7 +622,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricH>Christmas Season, Corpus Christi, Feasts of Blessed Virgin Mary:</p>
+   <p:RubricH>Christmas Season, Corpus Christi, Feasts of BVM and Saturday Office of BVM:</p>
    <table>
     <tr>
      <td:A1>

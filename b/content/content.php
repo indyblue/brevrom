@@ -28,7 +28,7 @@ Qui tecum vivit. - Who liveth.
  */
 
 function psalm($file, $part=0, $cross=0) {
-	$dir = "/www/b/content/00/Psalm/";
+	$dir = "/www/b/content/00/Psalm/old/";
 		require $dir.$file;
 }
 function canticle($file, $part=0, $cross=0) {
@@ -148,6 +148,14 @@ require '001_start.php';
 
 //Switch to determine if headings are in English or Latin
 $_GET['L'] = 1;
+//Switch to change page settings for Lulu &c:
+//Settings can be:
+//     '' (Blank) for 4.25x6.75
+//     '7' for 4.25x7
+//     'L4' for Lulu 4.25 x 6.875
+//     'L6' for Lulu 6 x 9
+$_GET['Style'] = 'L6';
+
 //Switch to determine size of headings:
 // 0 = smaller headings (used in propers)
 // 1 = larger headings (used in ordinary & psalter)

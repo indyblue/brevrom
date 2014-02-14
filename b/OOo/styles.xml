@@ -35,7 +35,6 @@
   </style:style>
   <style:style style:name="BodyEDrop" style:family="paragraph" style:parent-style-name="BodyE" style:class="extra" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto">
-    <style:tab-stops/>
     <style:drop-cap style:lines="2" style:distance="0.02in" style:style-name="DropCap"/>
    </style:paragraph-properties>
   </style:style>
@@ -133,9 +132,6 @@
 
   <style:style style:name="PageHeader" style:family="paragraph" style:parent-style-name="BodySm">
    <style:paragraph-properties fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0008in solid #000000" style:shadow="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="5in" style:type="right"/>
-    </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
 

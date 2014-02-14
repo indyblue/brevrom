@@ -14,7 +14,7 @@ O Saviour of mankind!
 O hope of every contrite heart,
 O joy of all the meek,
 To those who fall, how kind Thou art!
-But what to those who find? ah! this
+How good to those who seek!
 
 But what to those who find? ah! this
 Nor tongue nor pen can show:

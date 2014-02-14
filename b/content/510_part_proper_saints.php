@@ -9,10 +9,10 @@ echo ($_GET['L']==1?'Proprium Sanctorum':'Proper of Saints')
    <p:Body/>
 <?php 
 
-require '5PropS/00_11_November.php';
-require '5PropS/00_12_December.php';
-// require '5PropS/01_January.php';
-// require '5PropS/02_February.php';
+// require '5PropS/00_11_November.php';
+// require '5PropS/00_12_December.php';
+require '5PropS/01_January.php';
+require '5PropS/02_February.php';
 // 
 // require '5PropS/07_July.php';
 // 

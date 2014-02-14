@@ -61,13 +61,23 @@ fwrite($fh, $txtContent);
 fclose($fh);
 
 $zip->addFile("./OOo/meta.xml","meta.xml");
-$zip->addFile("./OOo/styles.xml","styles.xml");
+if($_GET['Style']=='7')
+	$zip->addFile("./OOo/styles_7.xml","styles.xml");
+elseif($_GET['Style']=='L4')
+	$zip->addFile("./OOo/styles_Lulu4x6.xml","styles.xml");
+elseif($_GET['Style']=='L6')
+	$i = $zip->addFile("./OOo/styles_Lulu6x9.xml","styles.xml");
+else
+	$zip->addFile("./OOo/styles.xml","styles.xml");
+
 $zip->addFile("./OOo/settings.xml","settings.xml");
 $zip->addFile("./OOo/META-INF/manifest.xml","META-INF/manifest.xml");
 $zip->addFile("./OOo/Object 1/content.xml","Object 1/content.xml");
 $zip->addFile("./OOo/Object 1/settings.xml","Object 1/settings.xml");
 $zip->addFile("./OOo/Object 1/styles.xml","Object 1/styles.xml");
 
+echo $_GET['Style'];
+echo $i;
 
 //echo "numfiles: " . $zip->numFiles . "\n";
 //echo "status:" . $zip->status . "\n";
