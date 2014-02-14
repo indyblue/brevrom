@@ -84,17 +84,19 @@ $_GET['weekly'] = 0;
 // require 'z_hymns.php';
 // require 'z_psalms.php';
 
-/*
+
 require '0Intro/101_aperi.php';
 require '0Intro/105_sacrosancte.php';
 require '0Intro/110_collect.php';
 space('PgB');
+$_GET['old'] = 1;
 require '6ComS/677_BVMp.php';
+/*
 require '6ComS/690_OfficeDead.php';
 require '7App/index.php';
- */
+// */
 
-
+/*
 $_GET['Style'] = 'A4';
 space('PgH');
 require '7App/7_dolours.php';
@@ -111,7 +113,6 @@ space('PgB');
 // require '5PropS/02_February.php';
 // require '5PropS/03_March.php';
 // require '5PropS/04_April.php';
-psalm(67,2);
 require '5PropS/05_May.php';
 // require '5PropS/06_June.php';
 // require '5PropS/07_July.php';

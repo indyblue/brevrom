@@ -20,4 +20,4 @@ O Ananias, Azarias, and Misael, bless ye the Lord: * praise and exalt him above 
 <sr>(All bow:)</s>
 Let us bless the Father and the Son, with the Holy Ghost; * let us praise and exalt him above all for ever.
 Blessed art thou, O Lord, in the firmament of heaven: * and worthy of praise, and glorious for ever.
-<sr>Here is not said Amen or Glory be.</s>
+<sr>Here is not said the </s> Glory be, <sr>or</s> Amen.

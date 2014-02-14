@@ -21,5 +21,18 @@
 	prayer('App/mass_thanks2.php');
 	prayer('App/mass_thanks3.php',1);
 
+	space();
+
+	//head('Piæ Adspirationes','Pious Aspirations',4);
+	//prayer('App/anima_christi.php');
+	canticle('vr/anima_christi.php');
+
+	space();
+	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',4);
+	prayer('App/mass_thanks_thomas.php');
+
+	space();
+	head('Rhythmus S. Thomæ Aquinatis','Rhyme of St. Thomas Aquinas',4);
+	hymn('adoro_te_devote.php');
 ?>
 

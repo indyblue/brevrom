@@ -10,6 +10,8 @@ Fili, Redémptor mundi, Deus,
 R. Miserére nobis.
 Spíritus Sancte, Deus,
 R. Miserére nobis.
+Sancta Trínitas, unus Deus,
+R. Miserére nobis.
 <t>
 Sancta María,
 R. Ora pro nobis,

@@ -20,4 +20,4 @@ Benedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte e
 <sr>(Fit reveréntia:)</s>
 Benedicámus Patrem et Fílium cum Sancto Spíritu: * laudémus et superexaltémus eum in sǽcula.
 Benedíctus es, Dómine, in firmaménto cæli: * et laudábilis, et gloriósus, et superexaltátus in sǽcula.
-<sr>Hic non dicitur Glória Patri, neque Amen.</s>
+<sr>Hic non dicitur</s> Glória Patri, <sr>neque</s> Amen.

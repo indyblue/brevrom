@@ -38,12 +38,22 @@ if($weekly) rubp('','Full Psalter:
 	space('Spacer');
 	bvm_multiant('01200');
 	psalm(62);
+	if($old==1) {
+		rubp('Hic non dicitur <snr>Glória Patri</s>.','Here is not said the <snr>Glory be</s>.');
+		psalm(66);
+	}
 	space('Spacer');
 	bvm_multiant('00120');
 	canticle('threechildren.php');
 	space('Spacer');
 	bvm_multiant('00012');
 	psalm(148);
+	if($old==1) {
+		rubp('Hic non dicitur <snr>Glória Patri</s>.','Here is not said the <snr>Glory be</s>.');
+		psalm(149);
+		rubp('Hic non dicitur <snr>Glória Patri</s>.','Here is not said the <snr>Glory be</s>.');
+		psalm(150);
+	}
 	space('Spacer');
 	bvm_multiant('00001');
 	space();	
@@ -84,12 +94,34 @@ if($weekly) rubp('','Full Psalter:
 		ant('mirabile_mysterium_delcaratur_hodie.php','1',0,'','',1);
 	}
 	space();	
+	if($old==1) {
+		reading('vr/kyrie.php');
+		space();
+	}
 	vr('dv_de.php');
 	vr('oremus.php');
 	bvm_head(12);
 	prayer('prSanct/0325.php');
 	bvm_head(3);
 	prayer('csBVMSat1.php');
+
+	if($old==1) {
+		space();	
+		bvm_head(13);
+		ant('sancti_dei_omnes_intercedere.php');
+		vrS('laetamini_in_domino_et_exultate_justi.php');
+		vr('oremus.php');
+		prayer('BVMp_c1.php');
+		prayer('BVMp_c2.php',1);
+		space();
+		bvm_head(2);
+		ant('ecce_dominus_veniet.php');
+		vrS('ecce_apparebit_dominus.php');
+		vr('oremus.php');
+		prayer('BVMp_c1a.php',1);
+		space();
+	}
+
 	vr('dv_de_short.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
@@ -133,6 +165,10 @@ if($weekly) rubp('','Full Psalter:
 	vrS('dignare_me_laudare_te_virgo_sacrata.php');
 	space();	
 
+	if($old==1) {
+		reading('vr/kyrie.php');
+		space();
+	}
 	vr('dv_de.php');
 	vr('oremus.php');
 	bvm_head(1);
@@ -188,6 +224,10 @@ if($weekly) rubp('','Full Psalter:
 	vrS('diffusa_est_gratia_in_labiis_tuis.php');
 	space();	
 
+	if($old==1) {
+		reading('vr/kyrie.php');
+		space();
+	}
 	vr('dv_de.php');
 	vr('oremus.php');
 	bvm_head(13);
@@ -241,6 +281,10 @@ if($weekly) rubp('','Full Psalter:
 	vrS('benedicta_tu_in_mulieribus.php');
 	space();	
 
+	if($old==1) {
+		reading('vr/kyrie.php');
+		space();
+	}
 	vr('dv_de.php');
 	vr('oremus.php');
 	bvm_head(1);
@@ -296,6 +340,10 @@ if($weekly) rubp('','Full Psalter:
 	vrS('Ord/angelus_domini_nuntiavit_mariae.php');
 	space();
 
+	if($old==1) {
+		reading('vr/kyrie.php');
+		space();
+	}
 	vr('dv_de.php');
 	vr('oremus.php');
 	bvm_head(1);
@@ -380,6 +428,10 @@ if($weekly) rubp('','Full Psalter:
 		ant('prTemp/0101m2.php','1',0,'','',1);
 	}
 	space();	
+	if($old==1) {
+		reading('vr/kyrie.php');
+		space();
+	}
 	vr('dv_de.php');
 	vr('oremus.php');
 	bvm_head(1);
@@ -388,6 +440,24 @@ if($weekly) rubp('','Full Psalter:
 	prayer('prSanct/0325.php');
 	bvm_head(3);
 	prayer('csBVMSat1.php');
+
+	if($old==1) {
+		space();	
+		bvm_head(13);
+		ant('sancti_dei_omnes_intercedere.php');
+		vrS('laetamini_in_domino_et_exultate_justi.php');
+		vr('oremus.php');
+		prayer('BVMp_c1.php');
+		prayer('BVMp_c2.php',1);
+		space();
+		bvm_head(2);
+		ant('ecce_dominus_veniet.php');
+		vrS('ecce_apparebit_dominus.php');
+		vr('oremus.php');
+		prayer('BVMp_c1a.php',1);
+		space();
+	}
+
 	vr('dv_de_short.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
@@ -461,6 +531,10 @@ if($weekly) rubp('','Full Psalter:
 	}
 	space();	
 
+	if($old==1) {
+		reading('vr/kyrie.php');
+		space();
+	}
 	vr('dv_de.php');
 	vr('oremus.php');
 	bvm_head(1);
@@ -480,6 +554,8 @@ if($weekly) rubp('','Full Psalter:
 		require $_GET['root'] . '/1Ordinary/08_compline_BVMant.php';
 	}
 
+if($old==2) {
+	
 	space();
 	img();
 	space();
@@ -519,6 +595,7 @@ if($weekly) rubp('','Full Psalter:
 	prayer('BVMp_c1a.php',1);
 	space();
 
+}
 
 
 // option:

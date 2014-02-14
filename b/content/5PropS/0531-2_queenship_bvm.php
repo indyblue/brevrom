@@ -3,7 +3,7 @@
 	img('Saints/0908_nativity_of_bvm.tif',100);
 	headSt(531,2,'B. Mariæ Virg. Reginæ',
 		'Bl. Virgin Mary, Queen');
-	rubrics('prSanct/all_from.php','csBVM');
+	csref('csBVM',0,11);
 
 	hour('L');
 	lc('ecclus24_5_7.php');
@@ -55,7 +55,6 @@
 	space();
 	hour('V');
 	lc('ecclus24_5_7.php');
-	rubrics('head/HymnVerse.php');
 	hymn('ave_maris_stella.php',1);
 	vrS('prSanct/maria_virgo_caelos_ascendit.php',2);
 	ant('prSanct/0531m2.php','M',2);

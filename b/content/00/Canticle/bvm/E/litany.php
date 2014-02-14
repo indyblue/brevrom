@@ -10,6 +10,8 @@ God the Son, Redeemer of the world,
 R. Have mercy on us.
 God the Holy Ghost,
 R. Have mercy on us.
+Holy Trinity, one God,
+R. Have mercy on us.
 <t>
 Holy Mary,
 R. Pray for us.
