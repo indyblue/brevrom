@@ -12,8 +12,7 @@ $txtL = trim($pieces[1]);
 $txtE = trim($pieces[2]);
 
 ?>
-	<text:p text:style-name="RubricHSm">Capit. (Little Chapt.)<t><?php echo $cv;
-?></p>
+	<p:RubricHSm>Capit. (Little Chapt.)<t><?php echo $cv; ?></p>
    <table> <tr> <td:A1>
 	  <p:BodyLDrop><?php echo caps_first_word($txtL); ?><t><?php 
 if($r==1)

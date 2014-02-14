@@ -116,8 +116,8 @@ function psalm($num, $part=0, $cross=0, $dir = $_GET['root'] . "/00/Psalm/",$ind
 					$l2L = '';
 					$l2E = '';
 				} else {
-					$l2L = '<t><text:line-break/>'. style_first_letter($Lpieces[$i+1],'sb');
-					$l2E = '<t><text:line-break/>'. style_first_letter($Epieces[$i+1],'sb');
+					$l2L = '<t><br/>'. style_first_letter($Lpieces[$i+1],'sb');
+					$l2E = '<t><br/>'. style_first_letter($Epieces[$i+1],'sb');
 				}
 				echo '
   <tr><td:A1>

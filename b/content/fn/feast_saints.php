@@ -67,9 +67,9 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 	hidden('Proper of Saints',1);
 	hidden($Edate);
 	echo '
-  <text:p text:style-name="Head1' . 
-  ($class==1&&$class==2?'':'NI') . '">' . ($_GET['L']==1?$nameL:$nameE) .'</p>
-  <text:p text:style-name="Head5">' . ($_GET['L']==1?$nameE:$nameL) .'</p>
+  <p:Head1' . 
+  ($class==1&&$class==2?'':'NI') . '>' . ($_GET['L']==1?$nameL:$nameE) .'</p>
+  <p:Head5>' . ($_GET['L']==1?$nameE:$nameL) .'</p>
   <p:Head4>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Edate:$Edate) .'</p>
 ';
 
