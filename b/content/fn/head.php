@@ -49,21 +49,27 @@ function feria($d, $class=3, $size=2) {
 		'IV classis', 23 => 'II or III class');
 	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.', 'IV cl.');
 	head($dayL[$d], $dayE[$d], $size, $h1, $h2);
-	if($class==-2) {
-		$class = -$class;
-		head('Quatuor Temporum','Ember Day',4);
-	} elseif($class==-1) {
-		$class = -$class;
-		head('Hebdomadæ Sanctæ','Holy Week',4);
-	} elseif($class==11) {
-		$class = 1;
-		head('Infra Octavam Paschæ', 'In the Octave of Easter',4);
-	} elseif($class==21) {
-		$class = 1;
+	if($class>50) {
+		$class -= 50;
+		head('(in Rogationibus)','(Rogation Day)',4);
+		if($d==4) head('Vigilia Ascensionis', 'Vigil of the Ascension', 2);
+	} elseif($class>40) {
+		$class -= 40;
 		if($d==4 || $d==6 || $d==7)
 			head('Quatuor Temporum Pentecostes','Ember Day of Pentecost',4);
 		head('Infra Octavam Pentecostes', 'In the Octave of Pentecost',4);
+	} elseif($class>30) {
+		$class -= 30;
+		head('Infra Octavam Paschæ', 'In the Octave of Easter',4);
+	} elseif($class==21) {
+		$class -= 20;
+		head('Hebdomadæ Sanctæ','Holy Week',4);
+	} elseif($class==23) {
+	} elseif($class>10) {
+		$class -= 10;
+		head('Quatuor Temporum','Ember Day',4);
 	}
+
 	head($clnameL[$class],$clnameE[$class], 5);
 }
 

@@ -104,7 +104,7 @@
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	space();
 
-	feria(6,-2);
+	feria(6,12);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('prTemp/advent/23b.php','B');
 	rubrics('et_dicuntur_preces.php');

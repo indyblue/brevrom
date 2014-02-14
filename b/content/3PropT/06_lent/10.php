@@ -76,7 +76,7 @@
 	prayer('PrTemp/lent/13V.php');
 	space();
 
-	feria(4,-2);
+	feria(4,12);
 	vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php',0,'L');
 	ant('PrTemp/lent/14b.php','B');
 	rubrics('et_dicuntur_preces.php');
@@ -100,7 +100,7 @@
 	prayer('PrTemp/lent/15V.php');
 	space();
 
-	feria(6,-2);
+	feria(6,12);
 	vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php',0,'L');
 	ant('PrTemp/lent/16b.php','B');
 	rubrics('et_dicuntur_preces.php');
@@ -113,7 +113,7 @@
 	prayer('PrTemp/lent/16V.php');
 	space();
 
-	feria(7,-2);
+	feria(7,12);
 	vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php',0,'L');
 	ant('PrTemp/lent/17b.php','B');
 	rubrics('et_dicuntur_preces.php');

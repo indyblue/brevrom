@@ -81,7 +81,7 @@
 	rubp('Nisi dicenda sit ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Unless ant. <snr>O, p. '.bkref('AdventOAnt').'</s>, is said instead.');
 	space();
 
-	feria(4,-2);
+	feria(4,12);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/03/f4b.php','B');
 	rubrics('et_dicuntur_preces.php');
@@ -104,7 +104,7 @@
 	rubp('Nisi dicenda sit ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Unless ant. <snr>O, p. '.bkref('AdventOAnt').'</s>, is said instead.');
 	space();
 
-	feria(6,-2);
+	feria(6,12);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/03/f6b.php','B');
 	rubp('Nisi dicenda sit, die 21 decembris, ant. <snr>Nolíte timére, p. '.bkref('Advent21b').'</s>.', 'Unless it is December 21st, in which case ant. <snr>Fear not, p. '.bkref('Advent21b').'</s>, is to be said.');
@@ -118,7 +118,7 @@
 	rubrics('et_dicuntur_preces.php');
 	space();
 
-	feria(7,-2);
+	feria(7,12);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/03/f7b.php','B');
 	rubp('Nisi dicenda sit, die 21 decembris, ant. <snr>Nolíte timére, p. '.bkref('Advent21b').'</s>.', 'Unless it is December 21st, in which case ant. <snr>Fear not, p. '.bkref('Advent21b').'</s>, is to be said.');

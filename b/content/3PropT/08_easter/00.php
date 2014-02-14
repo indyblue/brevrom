@@ -1,7 +1,7 @@
 <?php 
 	space();
-	hidden('Passiontide',1);
-	hidden('First Sunday',2);
+	hidden('Easter',1);
+	hidden('Easter Sunday',2);
 	img('Tempore/t04_easter.png',100);
 	head_temp(181,'Dominica Resurrectionis', 'Easter Sunday');
 	rubp('Cum solemnis Vigiliæ paschalis celebratio locum obtineat officii nocturni dominicæ Resurrectionis, Matutino ejusdem dominicæ Resurrectionis omisso, statim inter Missarum vigiliæ solemnia, post Communionem, cantatur:', 'With the solemn Easter Vigil holding the place of the nocturnal Office of Easter Sunday, Matins of the same Easter Sunday is omitted, and immediately during the solemn Vigil Mass, after Communion, is chanted:');
@@ -93,42 +93,42 @@
 	rubp('Sic recitatur divinum Officium ad singulas Horas usque ad Nonam sabbati in Albis inclusive, exceptis iis quæ singulis diebus habentur propria.', 'The Divine Office is recited in this manner at all Hours until “White Saturday” at None inclusive, except that which is given as proper for the day.');
 
 	space();
-	feria(2,11);
+	feria(2,31);
 	ant('PrTemp/easter/02b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/easter/02.php');
 	ant('PrTemp/easter/02m.php','M');
 
 	space();
-	feria(3,11);
+	feria(3,31);
 	ant('PrTemp/easter/03b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/easter/03.php');
 	ant('PrTemp/easter/03m.php','M');
 
 	space();
-	feria(4,11);
+	feria(4,31);
 	ant('PrTemp/easter/04b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/easter/04.php');
 	ant('PrTemp/easter/04m.php','M');
 
 	space();
-	feria(5,11);
+	feria(5,31);
 	ant('PrTemp/easter/05b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/easter/05.php');
 	ant('PrTemp/easter/05m.php','M');
 
 	space();
-	feria(6,11);
+	feria(6,31);
 	ant('PrTemp/easter/06b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/easter/06.php');
 	ant('PrTemp/easter/06m.php','M');
 
 	space();
-	feria('7a',11);
+	feria('7a',31);
 	ant('PrTemp/easter/07b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/easter/07.php');

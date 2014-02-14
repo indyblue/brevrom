@@ -50,35 +50,27 @@
 	prayer('PrTemp/easter/50.php');
 	space();
 
-/*
-	feria(2,4);
-	ant('PrTemp/easter/42b.php','B');
-	ant('PrTemp/easter/42m.php','M');
+	head('in Litaniis Minoribus','the Minor Litanies',2);
+	rubp('Litaniæ minores seu Rogationes per se assignantur feriis II, III et IV ante festum Ascensionis Domini.', 'The minor Litanies or Rogations in themelves are assigned to Monday, Tuesday and Wednesday before the Ascension of the Lord.');
+	rubp('Ordinariis autem locorum facultas tribuitur eas transferendi ad alios tres dies continuos magis opportunos juxta regionum diversitatem aut consuetudinem aut necessitatem.', 'But the local Ordinary is given the faculty to transfer them to three other contiguous days which are more opportune, according to the custom or need of various regions.');
+	rubp('De Litaniis minoribus nihil fit in Officio.', 'The minor Litanies are never said in the Office.');
+	rubp('Obligatio recitandi Litanias Sanctorum cum suis precibus, his diebus, urget tantum in processione aut aliis perculiaribus supplicationibus. Proinde, qui ad recitationem divinii Officii obligantur, procesioni vero aut aliis peculiaribus supplicationibus non intersunt, non tenentur dicere, his diebus, Litanias Sanctorum cum suis precibus.', 'The obligation to recite the Litany of the Saints with its prayers, on these days, applies only in procession or other peculiar supplications. Hence, whoever is obliged to recite the Divine Office, if they are not present for the procession or other peculiar supplications, is not required to say, on these days, the Litany of the Saints with his prayers.');
 	space();
 
-	feria(3,4);
-	ant('PrTemp/easter/43b.php','B');
-	ant('PrTemp/easter/43m.php','M');
+	feria(2,54);
+	ant('PrTemp/easter/52b.php','B');
+	ant('PrTemp/easter/52m.php','M');
 	space();
 
-	feria(4,4);
-	ant('PrTemp/easter/44b.php','B');
-	ant('PrTemp/easter/44m.php','M');
+	feria(3,54);
+	ant('PrTemp/easter/53b.php','B');
+	ant('PrTemp/easter/53m.php','M');
 	space();
 
-	feria(5,4);
-	ant('PrTemp/easter/45b.php','B');
-	ant('PrTemp/easter/45m.php','M');
-	space();
-
-	feria(6,4);
-	ant('PrTemp/easter/46b.php','B');
-	ant('PrTemp/easter/40m2.php','M');
-	space();
-
-	feria(7,4);
-	rubrics('de_officio_festi_vel_bvm_sat.php');
+	feria(4,52,4);
+	vrS('PrTemp/in_resurrectione_tua_christe.php',1,'L');
+	ant('PrTemp/easter/54b.php','B');
+	rubp('Post Nonam explicit tempus Paschatis, et incipit tempus Ascensionis.', 'After None the season of Easter ends, and the season of Ascensiontide begins.');
  
-*/
 ?>
 

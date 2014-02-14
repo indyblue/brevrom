@@ -54,7 +54,7 @@
 	ant('PrTemp/passiontide/20m2.php','M');
 	space();
 
-	feria(2,-1);
+	feria(2,21);
 	rubrics('ps/feriaL2.php',2); 
 	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php');
 	ant('PrTemp/passiontide/22b.php','B');
@@ -66,7 +66,7 @@
 	prayer('PrTemp/passiontide/22V.php');
 	space();
 
-	feria(3,-1);
+	feria(3,21);
 	rubrics('ps/feriaL2.php',3); 
 	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php');
 	ant('PrTemp/passiontide/23b.php','B');
@@ -78,7 +78,7 @@
 	prayer('PrTemp/passiontide/23V.php');
 	space();
 
-	feria(4,-1);
+	feria(4,21);
 	rubrics('ps/feriaL2.php',4); 
 	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php');
 	ant('PrTemp/passiontide/24b.php','B');
