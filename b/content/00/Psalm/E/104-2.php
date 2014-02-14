@@ -7,6 +7,6 @@ He made him master of his house, * and ruler of all his possession.
 That he might instruct his princes as himself, * and teach his ancients wisdom.
 And Israel went into Egypt: * and Jacob was a sojourner in the land of Cham.
 And he increased his people exceedingly: * and strengthened them over their enemies,
-He turned their heart to hate his people: and to deal deceitfully with his servants.
+He turned their heart to hate his people: * and to deal deceitfully with his servants.
 He sent Moses his servant: * Aaron the man whom he had chosen.
 He gave them power to shew his signs, * and his wonders in the land of Cham.

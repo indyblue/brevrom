@@ -10,7 +10,7 @@ Remember not our former iniquities: let thy mercies speedily prevent us, * for w
 Help us, O God, our saviour: and for the glory of thy name, O Lord, deliver us: * and forgive us our sins for thy name&apos;s sake:
 Lest they should say among the Gentiles: Where is their God? * And let him be made known among the nations before our eyes,
 By the revenging the blood of thy servants, which hath been shed: * let the sighing of the prisoners come in before thee.
-According to the greatness of thy arm, take possession of the children of them that have been put to death.
-And render to our neighbours sevenfold in their bosom: the reproach wherewith they have reproached thee, O Lord.
+According to the greatness of thy arm, * take possession of the children of them that have been put to death.
+And render to our neighbours sevenfold in their bosom: * the reproach wherewith they have reproached thee, O Lord.
 But we thy people, and the sheep of thy pasture, * will give thanks to thee for ever.
 We will shew forth thy praise, * unto generation and generation.

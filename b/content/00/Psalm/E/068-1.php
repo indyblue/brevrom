@@ -12,6 +12,6 @@ Because for thy sake I have borne reproach; * shame hath covered my face.
 I am become a stranger to my brethren, * and an alien to the sons of my mother. 
 For the zeal of thy house hath eaten me up: * and the reproaches of them that reproached thee are fallen upon me. 
 And I covered my soul in fasting: * and it was made a reproach to me. 
-And I made haircloth my garment: and I became a byword to them. 
+And I made haircloth my garment: * and I became a byword to them. 
 They that sat in the gate spoke against me: * and they that drank wine made me their song. 
 But as for me, my prayer is to thee, O Lord; * for the time of thy good pleasure, O God.

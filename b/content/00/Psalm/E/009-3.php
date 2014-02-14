@@ -7,8 +7,8 @@ God is not before his eyes: * his ways are filthy at all times.
 Thy judgments are removed from his sight: * he shall rule over all his enemies.
 For he hath said in his heart: * I shall not be moved from generation to generation, and shall be without evil.
 His mouth is full of cursing, and of bitterness, and of deceit: * under his tongue are labour and sorrow.
-He sitteth in ambush with the rich, in private places, * that he may kill the innocent.
-His eyes are upon the poor man: * he lieth in wait, in secret, like a lion in his den.
-He lieth in ambush, that he may catch the poor man: * so catch the poor, whilst he draweth him to him.
+He sitteth in ambush with the rich in private places, * that he may kill the innocent.
+His eyes are upon the poor man: * he lieth in wait in secret like a lion in his den.
+He lieth in ambush, that he may catch the poor man: * to catch the poor, whilst he draweth him to him.
 In his net he will bring him down, * he will crouch and fall, when he shall have power over the poor.
-For he hath said in his heart: God hath forgotten, * he hath turned away his face, not to see to the end.
+For he hath said in his heart: God hath forgotten, * he hath turned away his face not to see to the end.

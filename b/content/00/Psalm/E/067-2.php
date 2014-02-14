@@ -10,6 +10,6 @@ Thou hast ascended on high, thou hast led captivity captive; * thou hast receive
 Yea for those also that do not believe, * the dwelling of the Lord God.
 Blessed be the Lord day by day: * the God of our salvation will make our journey prosperous to us.
 Our God is the God of salvation: * and of the Lord, of the Lord are the issues from death.
-But God shall break the heads of his enemies: the hairy crown of them that walk on in their sins.
+But God shall break the heads of his enemies: * the hairy crown of them that walk on in their sins.
 The Lord said: I will turn them from Basan, * I will turn them into the depth of the sea:
 That thy foot may be dipped in the blood of thy enemies; * the tongue of thy dogs be red with the same.

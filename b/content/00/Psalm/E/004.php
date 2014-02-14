@@ -7,5 +7,5 @@ Be ye angry, and sin not: * the things you say in your hearts, be sorry for them
 Offer up the sacrifice of justice, and trust in the Lord: * many say, Who sheweth us good things?
 The light of thy countenance, O Lord, is signed upon us: * thou hast given gladness in my heart.
 By the fruit of their corn, their wine, and oil, * they are multiplied.
-In peace in the selfsame * I will sleep, and I will rest:
+In peace in the self same * I will sleep, and I will rest:
 For thou, O Lord, singularly * hast settled me in hope.

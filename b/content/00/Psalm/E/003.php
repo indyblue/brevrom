@@ -3,7 +3,7 @@ Why, O Lord, are they multiplied that afflict me? * many are they who rise up ag
 Many say to my soul: * There is no salvation for him in his God.
 But thou, O Lord art my protector, * my glory, and the lifter up of my head.
 I have cried to the Lord with my voice: * and he hath heard me from his holy hill.
-I have slept and taken my rest: * and I have risen up, because the Lord hath protected me.
-I will not fear thousands of the people, surrounding me: * arise, O Lord; save me, O my God.
+I have slept and have taken my rest: * and I have risen up, because the Lord hath protected me.
+I will not fear thousands of the people surrounding me: * arise, O Lord; save me, O my God.
 For thou hast struck all them who are my adversaries without cause: * thou hast broken the teeth of sinners.
-Salvation is of the Lord: and thy blessing is upon thy people.
+Salvation is of the Lord: * and thy blessing is upon thy people.

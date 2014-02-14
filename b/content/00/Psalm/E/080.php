@@ -1,5 +1,5 @@
 Psalmus 80. Exsultáte Deo
-Rejoice O God our helper: sing aloud to the God of Jacob.
+Rejoice O God our helper: * sing aloud to the God of Jacob.
 Take a psalm, and bring hither the timbrel: * the pleasant psaltery with the harp.
 Blow up the trumpet on the new moon, * on the noted day of your solemnity.
 For it is a commandment in Israel, * and a judgment to the God of Jacob.

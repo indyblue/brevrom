@@ -7,8 +7,8 @@ Then shall he speak to them in his anger, * and trouble them in his rage.
 But I am appointed king by him over Sion his holy mountain, * preaching his commandment.
 The Lord hath said to me: * Thou art my son, this day have I begotten thee.
 Ask of me, and I will give thee the Gentiles for thy inheritance, * and the utmost parts of the earth for thy possession.
-Thou shalt rule them with a rod of iron, * and shalt break them in pieces like a potter&apos;s vessel.
-And now, O ye kings, understand: * receive instruction, you that judge the earth.
+Thou shalt rule them with a rod of iron, * and shalt break them in pieces like a potter’s vessel.
+And now O ye kings understand: * receive instruction you that judge the earth.
 Serve ye the Lord with fear: * and rejoice unto him with trembling.
 Embrace discipline, lest at any time the Lord be angry, * and you perish from the just way.
-When his wrath shall be kindled in a short time, * blessed are all they that trust in him.
+When his wrath shall be kindled in a short time, * blessed are all they that shall trust in him.

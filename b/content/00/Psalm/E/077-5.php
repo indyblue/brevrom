@@ -7,7 +7,7 @@ And he gave up their fruits to the blast, * and their labours to the locust.
 And he destroyed their vineyards with hail, * and their mulberry trees with hoarfrost.
 And he gave up their cattle to the hail, * and their stock to the fire.
 And he sent upon them the wrath of his indignation: * indignation and wrath and trouble, which he sent by evil angels.
-He made a way for a path to his anger: he spared not their souls from death, and their cattle he shut up in death.
+He made a way for a path to his anger: he spared not their souls from death, * and their cattle he shut up in death.
 And he killed all the firstborn in the land of Egypt: * the firstfruits of all their labour in the tabernacles of Cham.
 And he took away his own people as sheep: * and guided them in the wilderness like a flock.
 And he brought them out in hope, and they feared not: * and the sea overwhelmed their enemies.
