@@ -1,0 +1,1 @@
+Grant unto thy people, we beseech thee, O Lord, health of body and mind: that applying themselves zealously unto good works, they may deserve to be evermore defended by the protection of thy power. Through our Lord.

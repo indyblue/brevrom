@@ -1,0 +1,1 @@
+Be present, O Lord, we beseech thee, to thy servants, and bountifully bestow upon them the continual mercy they implore; that whereas they glory in acknowledging thee as their Creator and Ruler, thou mayest restore to them what they had, and preserve what thou dost restore. Through our Lord.
