@@ -1,4 +1,3 @@
-
 In the Lord I put my trust: how then do you say to my soul: * Get thee away from hence to the mountain, like a sparrow?
 For, lo, the wicked have bent their bow: they have prepared their arrows in the quiver, * to shoot in the dark the upright of heart.
 For they have destroyed the things which thou hast made: * but what has the just man done?

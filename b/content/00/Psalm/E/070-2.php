@@ -1,4 +1,3 @@
-
 Let them be confounded and come to nothing that detract my soul; * let them be covered with confusion and shame that seek my hurt.
 But I will always hope; * and will add to all thy praise.
 My mouth shall shew forth thy justice; * thy salvation all the day long.

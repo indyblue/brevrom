@@ -1,4 +1,3 @@
-
 Meménto, Dómine, David, * et omnis mansuetúdinis ejus:
 Sicut jurávit Dómino, * votum vovit Deo Jacob:
 Si introíero in tabernáculum domus meæ, * si ascéndero in lectum strati mei:

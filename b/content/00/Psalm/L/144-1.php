@@ -1,4 +1,3 @@
-
 Exaltábo te, Deus meus, rex: * et benedícam nómini tuo in sæculum, et in sæculum sæculi.
 Per síngulos dies benedícam tibi: * et laudábo nomen tuum in sæculum, et in sæculum sæculi.
 Magnus Dóminus, et laudábilis nimis: * et magnitúdinis ejus non est finis.

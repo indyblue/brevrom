@@ -1,4 +1,3 @@
-
 Sing ye to the Lord, who dwelleth in Sion: * declare his ways among the Gentiles.
 For requiring their blood he hath remembered them: * he hath not forgotten the cry of the poor.
 Have mercy on me, O Lord: * see my humiliation which I suffer from my enemies.

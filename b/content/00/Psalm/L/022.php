@@ -1,4 +1,3 @@
-
 Dóminus regit me, et nihil mihi déerit: * in loco páscuæ ibi me collocávit.
 Super aquam refectiónis educávit me: * ánimam meam convértit.
 Dedúxit me super sémitas justítiæ, * propter nomen suum.

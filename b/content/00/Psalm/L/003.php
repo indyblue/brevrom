@@ -1,4 +1,3 @@
-
 Dómine quid multiplicáti sunt qui tríbulant me? * multi insúrgunt advérsum me.
 Multi dicunt ánimæ meæ: * Non est salus ipsi in Deo ejus.
 Tu autem, Dómine, suscéptor meus es, * glória mea, et exáltans caput meum.

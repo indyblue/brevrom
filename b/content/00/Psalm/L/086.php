@@ -1,4 +1,3 @@
-
 Fundaménta ejus in móntibus sanctis: * díligit Dóminus portas Sion super ómnia tabernácula Jacob.
 Gloriósa dicta sunt de te, * cívitas Dei.
 Memor ero Rahab, et Babylónis * sciéntium me.

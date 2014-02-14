@@ -1,4 +1,3 @@
-
 >The proper Invitatory is said, which is recited twice in its entirety before the Psalm.
 Come let us praise the Lord with joy, let us joyfully sing to God, our saviour: let us come before his presence with thanksgiving, and make a joyful noise to him with psalms.
 For the Lord is a great God, and a great King above all gods: for the Lord will not cast off his people: for in his hand are all the ends of the earth, and he beholds the heights of the mountains.

@@ -1,4 +1,3 @@
-
 The law of the Lord is unspotted, converting souls: * the testimony of the Lord is faithful, giving wisdom to little ones.
 The justices of the Lord are right, rejoicing hearts: * the commandment of the Lord is lightsome, enlightening the eyes.
 The fear of the Lord is holy, enduring for ever and ever: * the judgments of the Lord are true, justified in themselves.

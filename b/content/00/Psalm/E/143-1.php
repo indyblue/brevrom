@@ -1,4 +1,3 @@
-
 Blessed be the Lord my God, who teacheth my hands to fight, * and my fingers to war.
 My mercy, and my refuge: * my support, and my deliverer:
 My protector, and I have hoped in him: * who subdueth my people under me.

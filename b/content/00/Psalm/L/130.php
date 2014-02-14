@@ -1,4 +1,3 @@
-
 Dómine, non est exaltátum cor meum: *‡ neque eláti sunt óculi mei.
 Neque ambulávi in magnis: * neque in mirabílibus super me.
 Si non humíliter sentiébam: * sed exaltávi ánimam meam:

@@ -1,4 +1,3 @@
-
 Quómodo miserétur pater filiórum, misértus est Dóminus timéntibus se: * quóniam ipse cognóvit figméntum nostrum.
 Recordátus est quóniam pulvis sumus: * homo, sicut fœnum dies ejus, tamquam flos agri sic efflorébit.
 Quóniam spíritus pertransíbit in illo, et non subsístet: * et non cognóscet ámplius locum suum.

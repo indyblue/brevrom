@@ -1,4 +1,3 @@
-
 In memóriam rédeat iníquitas patrum ejus in conspéctu Dómini: * et peccátum matris ejus non deleátur.
 Fiant contra Dóminum semper, et dispéreat de terra memória eórum: * pro eo quod non est recordátus fácere misericórdiam.
 Et persecútus est hóminem ínopem, et mendícum, * et compúnctum corde mortificáre.

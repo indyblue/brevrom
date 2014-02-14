@@ -1,4 +1,3 @@
-
 Voce mea ad Dóminum clamávi: * voce mea ad Dóminum deprecátus sum:
 Effúndo in conspéctu ejus oratiónem meam, * et tribulatiónem meam ante ipsum pronúntio.
 In deficiéndo ex me spíritum meum, * et tu cognovísti sémitas meas.

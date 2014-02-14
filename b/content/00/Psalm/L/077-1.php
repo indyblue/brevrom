@@ -1,4 +1,3 @@
-
 Atténdite, pópule meus, legem meam: * inclináte aurem vestram in verba oris mei.
 Apériam in parábolis os meum: * loquar propositiónes ab inítio.
 Quanta audívimus et cognóvimus ea: * et patres nostri narravérunt nobis.

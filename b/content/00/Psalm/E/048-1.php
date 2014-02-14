@@ -1,4 +1,3 @@
-
 Hear these things, all ye nations: * give ear, all ye inhabitants of the world.
 All you that are earthborn, and you sons of men: * both rich and poor together.
 My mouth shall speak wisdom: * and the meditation of my heart understanding.

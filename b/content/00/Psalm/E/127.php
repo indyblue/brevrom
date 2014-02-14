@@ -1,4 +1,3 @@
-
 Blessed are all they that fear the Lord: *‡ that walk in his ways.
 For thou shalt eat the labours of thy hands: * blessed art thou, and it shall be well with thee.
 Thy wife as a fruitful vine, * on the sides of thy house.

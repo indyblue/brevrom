@@ -1,4 +1,3 @@
-
 The Lord is faithful in all his words: * and holy in all his works.‡
 The Lord lifteth up all that fall: * and setteth up all that are cast down.
 The eyes of all hope in thee, O Lord: * and thou givest them meat in due season.

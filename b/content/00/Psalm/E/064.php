@@ -1,4 +1,3 @@
-
 A hymn, O God, becometh thee in Sion: *‡ and a vow shall be paid to thee in Jerusalem.
 O hear my prayer: * all flesh shall come to thee.
 The words of the wicked have prevailed over us: * and thou wilt pardon our transgressions.

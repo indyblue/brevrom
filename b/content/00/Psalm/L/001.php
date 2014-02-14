@@ -1,4 +1,3 @@
-
 Beátus vir, qui non ábiit in consílio impiórum, et in via peccatórum non stetit, * et in cáthedra pestiléntiæ non sedit:
 Sed in lege Dómini volúntas ejus, * et in lege ejus meditábitur die ac nocte.
 Et erit tamquam lignum, quod plantátum est secus decúrsus aquárum, * quod fructum suum dabit in témpore suo:

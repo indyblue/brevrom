@@ -1,4 +1,3 @@
-
 Quemádmodum desíderat cervus ad fontes aquárum: * ita desíderat ánima mea ad te, Deus.
 Sitívit ánima mea ad Deum fortem vivum: * quando véniam, et apparébo ante fáciem Dei?
 Fuérunt mihi lácrimæ meæ panes die ac nocte: * dum dícitur mihi quotídie: Ubi est Deus tuus?

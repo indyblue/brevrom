@@ -1,4 +1,3 @@
-
 Tu vero repulísti et despexísti: * distulísti Christum tuum.
 Evertísti testaméntum servi tui: * profanásti in terra Sanctuárium ejus.
 Destruxísti omnes sepes ejus: * posuísti firmaméntum ejus formídinem.

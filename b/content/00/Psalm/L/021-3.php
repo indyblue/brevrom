@@ -1,4 +1,3 @@
-
 Qui timétis Dóminum, laudáte eum: * univérsum semen Jacob, glorificáte eum.
 Tímeat eum omne semen Israël: * quóniam non sprevit, neque despéxit deprecatiónem páuperis:
 Nec avértit fáciem suam a me: * et cum clamárem ad eum, exaudívit me.

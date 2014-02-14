@@ -1,4 +1,3 @@
-
 Praise the Lord, ye children: * praise ye the name of the Lord.
 Blessed be the name of the Lord, * from henceforth now and for ever.
 From the rising of the sun unto the going down of the same, * the name of the Lord is worthy of praise.

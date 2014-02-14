@@ -1,4 +1,3 @@
-
 Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: * date glóriam laudi ejus.
 Dícite Deo: Quam terribília sunt ópera tua, Dómine! * in multitúdine virtútis tuæ mentiéntur tibi inimíci tui.
 Omnis terra adóret te, et psallat tibi: * psalmum dicat nómini tuo.

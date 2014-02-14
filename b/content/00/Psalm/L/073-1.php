@@ -1,4 +1,3 @@
-
 Ut quid, Deus, repulísti in finem: * irátus est furor tuus super oves páscuæ tuæ?
 Memor esto congregatiónis tuæ, * quam possedísti ab inítio.
 Redemísti virgam hereditátis tuæ: * mons Sion, in quo habitásti in eo.

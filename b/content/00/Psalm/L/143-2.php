@@ -1,4 +1,3 @@
-
 Deus, cánticum novum cantábo tibi: * in psaltério decachórdo psallam tibi.
 Qui das salútem régibus: * qui redemísti David, servum tuum, de gládio malígno: éripe me.
 Et érue me de manu filiórum alienórum, quorum os locútum est vanitátem: * et déxtera eórum, déxtera iniquitátis:

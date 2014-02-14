@@ -1,4 +1,3 @@
-
 Bring to the Lord, O ye children of God: * bring to the Lord the offspring of rams.
 Bring to the Lord glory and honour: bring to the Lord glory to his name: * adore ye the Lord in his holy court.
 The voice of the Lord is upon the waters; the God of majesty hath thundered, * The Lord is upon many waters.

@@ -1,4 +1,3 @@
-
 But indeed for deceits thou hast put it to them: * when they were lifted up thou hast cast them down.
 How are they brought to desolation? they have suddenly ceased to be: * they have perished by reason of their iniquity.
 As the dream of them that awake, O Lord; * so in thy city thou shalt bring their image to nothing.

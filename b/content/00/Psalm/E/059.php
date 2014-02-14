@@ -1,4 +1,3 @@
-
 O God, thou hast cast us off, and hast destroyed us; * thou hast been angry, and hast had mercy on us.
 Thou hast moved the earth, and hast troubled it: * heal thou the breaches thereof, for it has been moved.
 Thou hast shewn thy people hard things; * thou hast made us drink the wine of sorrow.

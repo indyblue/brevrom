@@ -1,4 +1,3 @@
-
 Dómine, exáudi oratiónem meam: * et clamor meus ad te véniat.
 Non avértas fáciem tuam a me: * in quacúmque die tríbulor, inclína ad me aurem tuam.
 In quacúmque die invocávero te, * velóciter exáudi me.

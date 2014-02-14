@@ -1,4 +1,3 @@
-
 Ad te levávi óculos meos, * qui hábitas in cælis.
 Ecce, sicut óculi servórum * in mánibus dominórum suórum,
 Sicut óculi ancíllæ in mánibus dóminæ suæ: * ita óculi nostri ad Dóminum, Deum nostrum, donec misereátur nostri.

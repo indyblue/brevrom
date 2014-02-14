@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <identifier value="org.openoffice.la.dictionaries.la" />
+    <version value="2009.01.19" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0."/>
+    </dependencies>
+    <display-name>
+        <name lang="en">Latin hyphenation dictionary</name>
+    </display-name>
+	<extension-description>
+		<src xlink:href="readme.la" lang="en" />
+	</extension-description>
+</description>
+

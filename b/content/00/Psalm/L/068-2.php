@@ -1,4 +1,3 @@
-
 In multitúdine misericórdiæ tuæ exáudi me, * in veritáte salútis tuæ:
 Éripe me de luto, ut non infígar: * líbera me ab iis, qui odérunt me, et de profúndis aquárum.
 Non me demérgat tempéstas aquæ, neque absórbeat me profúndum: * neque úrgeat super me púteus os suum.

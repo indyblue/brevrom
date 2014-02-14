@@ -1,4 +1,3 @@
-
 May the Lord hear thee in the day of tribulation: *‡ may the name of the God of Jacob protect thee.
 May he send thee help from the sanctuary: * and defend thee out of Sion.
 May he be mindful of all thy sacrifices: * and may thy whole burnt offering be made fat.

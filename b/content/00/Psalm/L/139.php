@@ -1,4 +1,3 @@
-
 Eripe me, Dómine, ab hómine malo: * a viro iníquo éripe me.
 Qui cogitavérunt iniquitátes in corde: * tota die constituébant prælia.
 Acuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.

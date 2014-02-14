@@ -1,4 +1,3 @@
-
 Sing ye to the Lord a new canticle: * because he hath done wonderful things.
 His right hand hath wrought for him salvation, * and his arm is holy.
 The Lord hath made known his salvation: * he hath revealed his justice in the sight of the Gentiles.

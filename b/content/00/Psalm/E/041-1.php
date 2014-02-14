@@ -1,4 +1,3 @@
-
 As the hart panteth after the fountains of water; * so my soul panteth after thee, O God.
 My soul hath thirsted after the strong living God; * when shall I come and appear before the face of God?
 My tears have been my bread day and night, * whilst it is said to me daily: Where is thy God?

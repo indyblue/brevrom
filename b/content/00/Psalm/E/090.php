@@ -1,4 +1,3 @@
-
 He that dwelleth in the aid of the most High, * shall abide under the protection of the God of Jacob.
 He shall say to the Lord: Thou art my protector, and my refuge: * my God, in him will I trust.
 For he hath delivered me from the snare of the hunters: * and from the sharp word.

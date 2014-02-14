@@ -1,4 +1,3 @@
-
 O Lord, the God of my salvation: * I have cried in the day, and in the night before thee.
 Let my prayer come in before thee: * incline thy ear to my petition.
 For my soul is filled with evils: * and my life hath drawn nigh to hell.

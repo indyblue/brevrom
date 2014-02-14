@@ -1,4 +1,3 @@
-
 Deep calleth on deep, * at the noise of thy flood-gates.
 All thy heights and thy billows * have passed over me.
 In the daytime the Lord hath commanded his mercy; * and a canticle to him in the night.

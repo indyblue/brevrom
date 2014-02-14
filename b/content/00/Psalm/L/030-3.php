@@ -1,4 +1,3 @@
-
 Quam magna multitúdo dulcédinis tuæ, Dómine, * quam abscondísti timéntibus te.
 Perfecísti eis, qui sperant in te, * in conspéctu filiórum hóminum.
 Abscóndes eos in abscóndito faciéi tuæ * a conturbatióne hóminum.

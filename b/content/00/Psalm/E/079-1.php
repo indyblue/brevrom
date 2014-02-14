@@ -1,4 +1,3 @@
-
 Give ear, O thou that rulest Israel: * thou that leadest Joseph like a sheep.
 Thou that sittest upon the cherubims, * shine forth before Ephraim, Benjamin, and Manasses.
 Stir up thy might, and come * to save us.

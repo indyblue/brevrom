@@ -1,4 +1,3 @@
-
 Beátus homo, quem tu erudíeris, Dómine: * et de lege tua docúeris eum,
 Ut mítiges ei a diébus malis: * donec fodiátur peccatóri fóvea.
 Quia non repéllet Dóminus plebem suam: * et hereditátem suam non derelínquet.

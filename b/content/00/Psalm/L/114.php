@@ -1,4 +1,3 @@
-
 Diléxi, quóniam exáudiet Dóminus * vocem oratiónis meæ.
 Quia inclinávit aurem suam mihi: * et in diébus meis invocábo.
 Circumdedérunt me dolóres mortis: * et perícula inférni invenérunt me.

@@ -1,4 +1,3 @@
-
 Circumdedérunt me vítuli multi: * tauri pingues obsedérunt me.
 Aperuérunt super me os suum, * sicut leo rápiens et rúgiens.
 Sicut aqua effúsus sum: * et dispérsa sunt ómnia ossa mea.

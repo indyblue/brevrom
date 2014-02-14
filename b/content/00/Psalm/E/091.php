@@ -1,4 +1,3 @@
-
 It is good to give praise to the Lord: * and to sing to thy name, O most High.
 To shew forth thy mercy in the morning, * and thy truth in the night:
 Upon an instrument of ten strings, upon the psaltery: * with a canticle upon the harp.

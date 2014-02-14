@@ -1,4 +1,3 @@
-
 I will bless the Lord at all times, * his praise shall be always in my mouth.
 In the Lord shall my soul be praised: * let the meek hear and rejoice.
 O magnify the Lord with me; * and let us extol his name together.

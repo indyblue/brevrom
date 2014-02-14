@@ -1,4 +1,3 @@
-
 Sæpe expugnavérunt me a juventúte mea, * dicat nunc Israël:
 Sæpe expugnavérunt me a juventúte mea: * étenim non potuérunt mihi.
 Supra dorsum meum fabricavérunt peccatóres: * prolongavérunt iniquitátem suam.

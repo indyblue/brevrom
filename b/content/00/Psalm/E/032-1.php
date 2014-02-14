@@ -1,4 +1,3 @@
-
 Rejoice in the Lord, O ye just: * praise becometh the upright.
 Give praise to the Lord on the harp; * sing to him with the psaltery, the instrument of ten strings.
 Sing to him a new canticle, * sing well unto him with a loud noise.

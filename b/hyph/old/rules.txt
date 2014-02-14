@@ -1,0 +1,13 @@
+groupings:
+
+pbtdcg + lr = following vowel
+gn, ng, qu, ch, ph, th = following vowel
+sti, ti = following vowel
+dipthongs =? ae, au, ei, eu, oe, ui
+
+breaks:
+after vowel before consonant, 
+between vowels (except: ae, au, ei, eu, oe, ui, qu+anything)
+except if 2 consonants, between consonants (except if above pairs, don't break)
+
+

@@ -1,4 +1,3 @@
-
 Omnes gentes, pláudite mánibus: * jubiláte Deo in voce exsultatiónis.
 Quóniam Dóminus excélsus, terríbilis: * Rex magnus super omnem terram.
 Subjécit pópulos nobis: * et gentes sub pédibus nostris.

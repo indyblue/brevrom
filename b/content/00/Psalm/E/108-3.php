@@ -1,4 +1,3 @@
-
 Do thou deliver me, for I am poor and needy, * and my heart is troubled within me.
 I am taken away like the shadow when it declineth: * and I am shaken off as locusts.
 My knees are weakened through fasting: * and my flesh is changed for oil.

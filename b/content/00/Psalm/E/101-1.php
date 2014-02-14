@@ -1,4 +1,3 @@
-
 Hear, O Lord, my prayer: * and let my cry come to thee.
 Turn not away thy face from me: * in the day when I am in trouble, incline thy ear to me.
 In what day soever I shall call upon thee, * hear me speedily.

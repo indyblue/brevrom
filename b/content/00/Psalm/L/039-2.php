@@ -1,4 +1,3 @@
-
 Justítiam tuam non abscóndi in corde meo: * veritátem tuam et salutáre tuum dixi.
 Non abscóndi misericórdiam tuam et veritátem tuam * a concílio multo.
 Tu autem, Dómine, ne longe fácias miseratiónes tuas a me: * misericórdia tua et véritas tua semper suscepérunt me.

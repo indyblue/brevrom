@@ -1,4 +1,3 @@
-
 How great are thy works, O Lord? * thou hast made all things in wisdom: the earth is filled with thy riches.
 So is this great sea, which stretcheth wide its arms: * there are creeping things without number:
 Creatures little and great. * There the ships shall go.

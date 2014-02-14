@@ -1,4 +1,3 @@
-
 Hear, O Lord, my justice: * attend to my supplication.
 Give ear unto my prayer, * which proceedeth not from deceitful lips.
 Let my judgment come forth from thy countenance: * let thy eyes behold the things that are equitable.

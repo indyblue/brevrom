@@ -1,4 +1,3 @@
-
 Quam bonus Israël Deus, * his, qui recto sunt corde!‡
 Mei autem pæne moti sunt pedes: * pene effúsi sunt gressus mei.
 Quia zelávi super iníquos, * pacem peccatórum videns.

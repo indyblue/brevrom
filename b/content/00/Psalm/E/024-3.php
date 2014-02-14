@@ -1,4 +1,3 @@
-
 Look thou upon me, and have mercy on me; * for I am alone and poor.
 The troubles of my heart are multiplied: * deliver me from my necessities.
 See my abjection and my labour; * and forgive me all my sins.

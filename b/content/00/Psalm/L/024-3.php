@@ -1,4 +1,3 @@
-
 Réspice in me, et miserére mei: * quia únicus et pauper sum ego.
 Tribulatiónes cordis mei multiplicátæ sunt: * de necessitátibus meis érue me.
 Vide humilitátem meam, et labórem meum: * et dimítte univérsa delícta mea.

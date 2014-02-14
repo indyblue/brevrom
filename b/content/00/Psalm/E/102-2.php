@@ -1,4 +1,3 @@
-
 As a father hath compassion on his children, so hath the Lord compassion on them that fear him: * for he knoweth our frame.
 He remembereth that we are dust: * man’s days are as grass, as the flower of the field so shall he flourish.
 For the spirit shall pass in him, and he shall not be: * and he shall know his place no more.

@@ -1,4 +1,3 @@
-
 Rigans montes de superióribus suis: * de fructu óperum tuórum satiábitur terra:
 Prodúcens fœnum juméntis, * et herbam servitúti hóminum:
 Ut edúcas panem de terra: * et vinum lætíficet cor hóminis:

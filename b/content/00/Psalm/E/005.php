@@ -1,4 +1,3 @@
-
 Give ear, O Lord, to my words * understand my cry.
 Hearken to the voice of my prayer, * O my King and my God.
 For to thee will I pray: * O Lord, in the morning thou shalt hear my voice.

@@ -1,4 +1,3 @@
-
 Why, O Lord, hast thou retired afar off? *‡ why dost thou slight us in our wants, in the time of trouble?
 Whilst the wicked man is proud, the poor is set on fire: * they are caught in the counsels which they devise.
 For the sinner is praised in the desires of his soul: * and the unjust man is blessed.

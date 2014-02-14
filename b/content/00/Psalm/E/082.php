@@ -1,4 +1,3 @@
-
 O God, who shall be like to thee? * Hold not thy peace, neither be thou still, O God.
 For lo, thy enemies have made a noise: * and they that hate thee have lifted up the head.
 They have taken a malicious counsel against thy people, * and have consulted against thy saints.

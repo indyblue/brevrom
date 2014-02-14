@@ -1,4 +1,3 @@
-
 Lord, my heart is not exalted: *‡ nor are my eyes lofty.
 Neither have I walked in great matters, * nor in wonderful things above me.
 If I was not humbly minded, * but exalted my soul:

@@ -1,4 +1,3 @@
-
 Mercy and judgment * I will sing to thee, O Lord:
 I will sing, and I will understand in the unspotted way, * when thou shalt come to me.
 I walked in the innocence of my heart, * in the midst of my house.

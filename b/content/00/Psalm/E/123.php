@@ -1,4 +1,3 @@
-
 If it had not been that the Lord was with us, let Israel now say: * If it had not been that the Lord was with us,
 When men rose up against us, * perhaps they had swallowed us up alive.
 When their fury was enkindled against us, * perhaps the waters had swallowed us up.

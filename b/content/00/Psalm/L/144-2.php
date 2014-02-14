@@ -1,4 +1,3 @@
-
 Miserátor, et miséricors Dóminus: * pátiens, et multum miséricors.
 Suávis Dóminus univérsis: * et miseratiónes ejus super ómnia ópera ejus.
 Confiteántur tibi, Dómine, ómnia ópera tua: * et sancti tui benedícant tibi.

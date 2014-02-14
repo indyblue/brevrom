@@ -1,4 +1,3 @@
-
 Veníte, fílii, audíte me: * timórem Dómini docébo vos.
 Quis est homo qui vult vitam: * díligit dies vidére bonos?
 Próhibe linguam tuam a malo: * et lábia tua ne loquántur dolum.

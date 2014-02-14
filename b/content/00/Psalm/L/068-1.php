@@ -1,4 +1,3 @@
-
 Salvum me fac, Deus: * quóniam intravérunt aquæ usque ad ánimam meam.‡
 Infíxus sum in limo profúndi: * et non est substántia.
 Veni in altitúdinem maris: * et tempéstas demérsit me.

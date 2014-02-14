@@ -1,4 +1,3 @@
-
 I will not reprove thee for thy sacrifices: * and thy burnt offerings are always in my sight.
 I will not take calves out of thy house: * nor he goats out of thy flocks.
 For all the beasts of the woods are mine: * the cattle on the hills, and the oxen.

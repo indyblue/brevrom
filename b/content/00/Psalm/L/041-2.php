@@ -1,4 +1,3 @@
-
 Abýssus abýssum ínvocat, * in voce cataractárum tuárum.
 Omnia excélsa tua, et fluctus tui * super me transiérunt.
 In die mandávit Dóminus misericórdiam suam: * et nocte cánticum ejus.

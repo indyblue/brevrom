@@ -1,4 +1,3 @@
-
 He will guide the mild in judgment: * he will teach the meek his ways.
 All the ways of the Lord are mercy and truth, * to them that seek after his covenant and his testimonies.
 For thy name’s sake, O Lord, thou wilt pardon my sin: * for it is great.

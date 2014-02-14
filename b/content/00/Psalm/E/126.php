@@ -1,4 +1,3 @@
-
 Unless the Lord build the house, * they labour in vain that build it.
 Unless the Lord keep the city, * he watcheth in vain that keepeth it.
 It is vain for you to rise before light, * rise ye after you have sitten, you that eat the bread of sorrow.

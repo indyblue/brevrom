@@ -1,4 +1,3 @@
-
 O God, come to my assistance; * O Lord, make haste to help me.
 Let them be confounded and ashamed * that seek my soul:
 Let them be turned backward, and blush for shame * that desire evils to me:

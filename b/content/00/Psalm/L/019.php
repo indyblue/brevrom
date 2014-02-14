@@ -1,4 +1,3 @@
-
 Exáudiat te Dóminus in die tribulatiónis: *‡ prótegat te nomen Dei Jacob.
 Mittat tibi auxílium de sancto: * et de Sion tueátur te.
 Memor sit omnis sacrifícii tui: * et holocáustum tuum pingue fiat.

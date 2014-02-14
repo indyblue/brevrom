@@ -1,4 +1,3 @@
-
 Confitémini Dómino quóniam bonus: * quóniam in sæculum misericórdia ejus.
 Dicant qui redémpti sunt a Dómino, quos redémit de manu inimíci: * et de regiónibus congregávit eos:
 A solis ortu, et occásu: * ab aquilóne, et mari.

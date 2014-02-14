@@ -1,4 +1,3 @@
-
 Miserére mei, Deus, * secúndum magnam misericórdiam tuam.‡
 Et secúndum multitúdinem miseratiónum tuárum, * dele iniquitátem meam.
 Amplius lava me ab iniquitáte mea: * et a peccáto meo munda me.

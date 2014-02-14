@@ -1,4 +1,3 @@
-
 Laudáte Dóminum in sanctis ejus: * laudáte eum in firmaménto virtútis ejus.
 Laudáte eum in virtútibus ejus: * laudáte eum secúndum multitúdinem magnitúdinis ejus.
 Laudáte eum in sono tubæ: * laudáte eum in psaltério, et cíthara.

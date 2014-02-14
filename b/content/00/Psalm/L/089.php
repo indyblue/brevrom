@@ -1,4 +1,3 @@
-
 Dómine, refúgium factus es nobis: *‡ a generatióne in generatiónem.
 Priúsquam montes fíerent, aut formarétur terra et orbis: * a sæculo et usque in sæculum tu es, Deus.
 Ne avértas hóminem in humilitátem: * et dixísti: Convertímini, fílii hóminum.

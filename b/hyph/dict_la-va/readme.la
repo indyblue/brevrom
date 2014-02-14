@@ -1,0 +1,18 @@
+Latin Hyphenation rules
+hyphenation between any:
+   vowel followed by consonant
+   consonant followed by consonant
+excepting:
+   [bcdgpt] followed by [lr]
+   gn, ng, qu, ch, ph, th
+special rules:
+   ti + vowel, no hyph
+   hyphen can follow sti
+   qu + vowel, no hyph
+
+The following vowels/dipthongs are represented:
+aeiouyáéíóúýæëäõö
+The "ae" and "oe" dipthongs and their accented versions are for the most part not supported by the hyphenation engine.  Therefore:
+ä may be replaced in the font by accented "ae"
+õ may be replaced in the font by non-accented "oe"
+ö may be replaced in the font by accented "oe"

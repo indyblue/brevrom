@@ -1,4 +1,3 @@
-
 Exsultáte, justi, in Dómino: * rectos decet collaudátio.
 Confitémini Dómino in cíthara: * in psaltério decem chordárum psállite illi.
 Cantáte ei cánticum novum: * bene psállite ei in vociferatióne.

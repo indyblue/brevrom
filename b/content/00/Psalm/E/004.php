@@ -1,4 +1,3 @@
-
 When I called upon him, the God of my justice heard me: * when I was in distress, thou hast enlarged me.
 Have mercy on me: * and hear my prayer.
 O ye sons of men, how long will you be dull of heart? * Why do you love vanity, and seek after lying?

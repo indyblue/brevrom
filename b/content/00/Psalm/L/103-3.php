@@ -1,4 +1,3 @@
-
 Quam magnificáta sunt ópera tua, Dómine! * ómnia in sapiéntia fecísti: impléta est terra possessióne tua.
 Hoc mare magnum, et spatiósum mánibus: * illic reptília, quorum non est númerus.
 Animália pusílla cum magnis: * illic naves pertransíbunt.

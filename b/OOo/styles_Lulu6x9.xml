@@ -151,6 +151,9 @@
   <style:style style:name="AllCaps" style:family="text">
    <style:text-properties fo:text-transform="uppercase"/>
   </style:style>
+  <style:style style:name="SmCaps" style:family="text">
+   <style:text-properties fo:font-variant="small-caps"/>
+  </style:style>
   <style:style style:name="DropCap" style:family="text">
    <style:text-properties style:font-name="Cloister Black" fo:font-weight="250"/>
   </style:style>

@@ -1,4 +1,3 @@
-
 Et apposuérunt adhuc peccáre ei: * in iram excitavérunt Excélsum in inaquóso.
 Et tentavérunt Deum in córdibus suis, * ut péterent escas animábus suis.
 Et male locúti sunt de Deo: * dixérunt: Numquid póterit Deus paráre mensam in desérto?

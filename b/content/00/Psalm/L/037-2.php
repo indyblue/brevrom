@@ -1,4 +1,3 @@
-
 Et qui juxta me erant, de longe stetérunt: * et vim faciébant qui quærébant ánimam meam.
 Et qui inquirébant mala mihi, locúti sunt vanitátes: * et dolos tota die meditabántur.
 Ego autem tamquam surdus non audiébam: * et sicut mutus non apériens os suum.

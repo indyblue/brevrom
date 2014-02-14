@@ -1,4 +1,3 @@
-
 For the stones thereof have pleased thy servants: * and they shall have pity on the earth thereof.
 And the Gentiles shall fear thy name, O Lord, * and all the kings of the earth thy glory.
 For the Lord hath built up Sion: * and he shall be seen in his glory.

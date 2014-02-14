@@ -1,4 +1,3 @@
-
 Confitémini Dómino quóniam bonus: * quóniam in sæculum misericórdia ejus.
 Dicat nunc Israël quóniam bonus: * quóniam in sæculum misericórdia ejus.
 Dicat nunc domus Aaron: * quóniam in sæculum misericórdia ejus.

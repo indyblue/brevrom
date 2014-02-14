@@ -1,4 +1,3 @@
-
 Hear, O Lord, my prayer: give ear to my supplication in thy truth: * hear me in thy justice.
 And enter not into judgment with thy servant: * for in thy sight no man living shall be justified.
 For the enemy hath persecuted my soul: * he hath brought down my life to the earth.

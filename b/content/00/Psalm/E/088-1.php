@@ -1,4 +1,3 @@
-
 The mercies of the Lord * I will sing for ever.
 I will shew forth thy truth with my mouth * to generation and generation.
 For thou hast said: Mercy shall be built up for ever in the heavens: * thy truth shall be prepared in them.

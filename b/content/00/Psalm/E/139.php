@@ -1,4 +1,3 @@
-
 Deliver me, O Lord, from the evil man: * rescue me from the unjust man.
 Who have devised iniquities in their hearts: * all the day long they designed battles.
 They have sharpened their tongues like a serpent: * the venom of asps is under their lips.

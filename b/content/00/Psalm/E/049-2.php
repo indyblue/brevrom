@@ -1,4 +1,3 @@
-
 But to the sinner God hath said: * Why dost thou declare my justices, and take my covenant in thy mouth?
 Seeing thou hast hated discipline: * and hast cast my words behind thee.
 If thou didst see a thief thou didst run with him: * and with adulterers thou hast been a partaker.

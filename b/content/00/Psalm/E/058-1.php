@@ -1,4 +1,3 @@
-
 Deliver me from my enemies, O my God; * and defend me from them that rise up against me.
 Deliver me from them that work iniquity, * and save me from bloody men.
 For behold they have caught my soul: * the mighty have rushed in upon me:

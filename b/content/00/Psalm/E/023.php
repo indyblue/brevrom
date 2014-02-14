@@ -1,4 +1,3 @@
-
 The earth is the Lord’s and the fulness thereof: * the world, and all they that dwell therein.
 For he hath founded it upon the seas; * and hath prepared it upon the rivers.
 Who shall ascend into the mountain of the Lord: * or who shall stand in his holy place?

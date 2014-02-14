@@ -1,4 +1,3 @@
-
 Non est occultátum os meum a te, quod fecísti in occúlto: * et substántia mea in inferióribus terræ.
 Imperféctum meum vidérunt óculi tui, et in libro tuo omnes scribéntur: * dies formabúntur, et nemo in eis.
 Mihi autem nimis honorificáti sunt amíci tui, Deus: * nimis confortátus est principátus eórum.

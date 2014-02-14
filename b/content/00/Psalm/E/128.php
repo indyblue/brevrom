@@ -1,4 +1,3 @@
-
 Often have they fought against me from my youth, * let Israel now say.
 Often have they fought against me from my youth: * but they could not prevail over me.
 The wicked have wrought upon my back: * they have lengthened their iniquity.

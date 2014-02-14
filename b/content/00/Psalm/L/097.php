@@ -1,4 +1,3 @@
-
 Cantáte Dómino cánticum novum: * quia mirabília fecit.
 Salvávit sibi déxtera ejus: * et bráchium sanctum ejus.
 Notum fecit Dóminus salutáre suum: * in conspéctu géntium revelávit justítiam suam.

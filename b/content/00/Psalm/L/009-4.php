@@ -1,4 +1,3 @@
-
 Exsúrge, Dómine Deus, exaltétur manus tua: *‡ ne obliviscáris páuperum.
 Propter quid irritávit ímpius Deum? * dixit enim in corde suo: Non requíret.
 Vides quóniam tu labórem et dolórem consíderas: * ut tradas eos in manus tuas.

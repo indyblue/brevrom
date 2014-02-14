@@ -1,4 +1,3 @@
-
 Our God is our refuge and strength: a helper in troubles, which have found us exceedingly.
 Therefore we will not fear, when the earth shall be troubled; * and the mountains shall be removed into the heart of the sea.
 Their waters roared and were troubled: * the mountains were troubled with his strength.

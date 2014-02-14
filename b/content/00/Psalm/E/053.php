@@ -1,4 +1,3 @@
-
 Save me, O God, by thy name, * and judge me in thy strength.
 O God, hear my prayer: * give ear to the words of my mouth.
 For strangers have risen up against me; and the mighty have sought after my soul: * and they have not set God before their eyes.

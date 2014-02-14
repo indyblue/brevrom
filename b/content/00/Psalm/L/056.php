@@ -1,4 +1,3 @@
-
 Miserére mei, Deus, miserére mei: * quóniam in te confídit ánima mea.
 Et in umbra alárum tuárum sperábo, * donec tránseat iníquitas.
 Clamábo ad Deum altíssimum: * Deum qui benefécit mihi.

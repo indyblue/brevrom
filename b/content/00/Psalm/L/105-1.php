@@ -1,4 +1,3 @@
-
 Confitémini Dómino, quóniam bonus: * quóniam in sæculum misericórdia ejus.
 Quis loquétur poténtias Dómini, * audítas fáciet omnes laudes ejus?
 Beáti, qui custódiunt judícium, * et fáciunt justítiam in omni témpore.

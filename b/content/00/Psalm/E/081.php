@@ -1,4 +1,3 @@
-
 God hath stood in the congregation of gods: * and being in the midst of them he judgeth gods.
 How long will you judge unjustly: * and accept the persons of the wicked?
 Judge for the needy and fatherless: * do justice to the humble and the poor.

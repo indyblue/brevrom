@@ -1,4 +1,3 @@
-
 Noli æmulári in malignántibus: * neque zeláveris faciéntes iniquitátem.
 Quóniam tamquam fœnum velóciter aréscent: * et quemádmodum ólera herbárum cito décident.
 Spera in Dómino, et fac bonitátem: * et inhábita terram, et pascéris in divítiis ejus.

@@ -1,4 +1,3 @@
-
 They remembered not his hand, * in the day that he redeemed them from the hand of him that afflicted them:
 How he wrought his signs in Egypt, * and his wonders in the field of Tanis.
 And he turned their rivers into blood, * and their showers that they might, not drink.

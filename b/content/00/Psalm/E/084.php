@@ -1,4 +1,3 @@
-
 Lord, thou hast blessed thy land: * thou hast turned away the captivity of Jacob.
 Thou hast forgiven the iniquity of thy people: * thou hast covered all their sins.
 Thou hast mitigated all thy anger: * thou hast turned away from the wrath of thy indignation.

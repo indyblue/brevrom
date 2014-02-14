@@ -1,4 +1,3 @@
-
 Fílii Ephrem intendéntes et mitténtes arcum: * convérsi sunt in die belli.
 Non custodiérunt testaméntum Dei: * et in lege ejus noluérunt ambuláre.
 Et oblíti sunt benefactórum ejus: * et mirabílium ejus quæ osténdit eis.

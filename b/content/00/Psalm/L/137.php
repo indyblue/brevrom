@@ -1,4 +1,3 @@
-
 Confitébor tibi, Dómine, in toto corde meo: * quóniam audísti verba oris mei.
 In conspéctu Angelórum psallam tibi: * adorábo ad templum sanctum tuum, et confitébor nómini tuo.
 Super misericórdia tua, et veritáte tua: * quóniam magnificásti super omne, nomen sanctum tuum.

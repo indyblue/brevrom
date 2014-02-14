@@ -1,4 +1,3 @@
-
 Cæli enárrant glóriam Dei: * et ópera mánuum ejus annúntiat firmaméntum.
 Dies diéi erúctat verbum, * et nox nocti índicat sciéntiam.
 Non sunt loquélæ, neque sermónes, * quorum non audiántur voces eórum.

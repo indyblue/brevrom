@@ -1,4 +1,3 @@
-
 Blessed are they whose iniquities are forgiven, * and whose sins are covered.
 Blessed is the man to whom the Lord hath not imputed sin, * and in whose spirit there is no guile.
 Because I was silent my bones grew old; * whilst I cried out all the day long.

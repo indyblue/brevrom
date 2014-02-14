@@ -1,4 +1,3 @@
-
 Si oblíti sumus nomen Dei nostri, * et si expándimus manus nostras ad deum aliénum:
 Nonne Deus requíret ista? * ipse enim novit abscóndita cordis.
 Quóniam propter te mortificámur tota die: * æstimáti sumus sicut oves occisiónis.

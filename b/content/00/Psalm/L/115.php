@@ -1,4 +1,3 @@
-
 Crédidi, propter quod locútus sum: * ego autem humiliátus sum nimis.
 Ego dixi in excéssu meo: * Omnis homo mendax.
 Quid retríbuam Dómino, * pro ómnibus, quæ retríbuit mihi?

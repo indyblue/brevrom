@@ -1,4 +1,3 @@
-
 I have lifted up my eyes to the mountains, * from whence help shall come to me.
 My help is from the Lord, * who made heaven and earth.
 May he not suffer thy foot to be moved: * neither let him slumber that keepeth thee.

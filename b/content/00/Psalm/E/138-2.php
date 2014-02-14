@@ -1,4 +1,3 @@
-
 My bone is not hidden from thee, which thou hast made in secret: * and my substance in the lower parts of the earth.
 Thy eyes did see my imperfect being, and in thy book all shall be written: * days shall be formed, and no one in them.
 But to me thy friends, O God, are made exceedingly honourable: * their principality is exceedingly strengthened.

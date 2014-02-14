@@ -1,4 +1,3 @@
-
 He sent darkness, and made it obscure: * and grieved not his words.
 He turned their waters into blood, * and destroyed their fish.
 Their land brought forth frogs, * in the inner chambers of their kings.

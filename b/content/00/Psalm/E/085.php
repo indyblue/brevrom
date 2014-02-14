@@ -1,4 +1,3 @@
-
 Incline thy ear, O Lord, and hear me: * for I am needy and poor.
 Preserve my soul, for I am holy: * save thy servant, O my God, that trusteth in thee.
 Have mercy on me, O Lord, for I have cried to thee all the day. * Give joy to the soul of thy servant, for to thee, O Lord, I have lifted up my soul.

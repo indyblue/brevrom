@@ -1,4 +1,3 @@
-
 Deus, in adjutórium meum inténde: * Dómine, ad adjuvándum me festína.
 Confundántur et revereántur, * qui quærunt ánimam meam.
 Avertántur retrórsum, et erubéscant, * qui volunt mihi mala.

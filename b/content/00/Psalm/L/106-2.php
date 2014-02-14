@@ -1,4 +1,3 @@
-
 Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum.
 Quia contrívit portas æreas: * et vectes férreos confrégit.
 Suscépit eos de via iniquitátis eórum: * propter injustítias enim suas humiliáti sunt.

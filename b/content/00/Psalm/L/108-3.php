@@ -1,4 +1,3 @@
-
 Líbera me quia egénus, et pauper ego sum: * et cor meum conturbátum est intra me.
 Sicut umbra cum declínat, ablátus sum: * et excússus sum sicut locústæ.
 Génua mea infirmáta sunt a jejúnio: * et caro mea immutáta est propter óleum.

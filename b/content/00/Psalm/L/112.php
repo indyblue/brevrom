@@ -1,4 +1,3 @@
-
 Laudáte, púeri, Dóminum: * laudáte nomen Dómini.
 Sit nomen Dómini benedíctum, * ex hoc nunc, ut usque in sæculum.
 A solis ortu usque ad occásum, * laudábile nomen Dómini.

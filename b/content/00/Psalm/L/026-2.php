@@ -1,4 +1,3 @@
-
 Tibi dixit cor meum, exquisívit te fácies mea: * fáciem tuam, Dómine, requíram.
 Ne avértas fáciem tuam a me: * ne declínes in ira a servo tuo.
 Adjútor meus esto: * ne derelínquas me, neque despícias me, Deus, salutáris meus.

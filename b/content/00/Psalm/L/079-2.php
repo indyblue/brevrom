@@ -1,4 +1,3 @@
-
 Víneam de Ægýpto transtulísti: * ejecísti gentes, et plantásti eam.
 Dux itíneris fuísti in conspéctu ejus: * plantásti radíces ejus, et implévit terram.
 Opéruit montes umbra ejus: * et arbústa ejus cedros Dei.

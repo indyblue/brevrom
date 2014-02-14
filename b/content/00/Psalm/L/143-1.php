@@ -1,4 +1,3 @@
-
 Benedíctus Dóminus, Deus meus, qui docet manus meas ad prælium, * et dígitos meos ad bellum.
 Misericórdia mea, et refúgium meum: * suscéptor meus, et liberátor meus:
 Protéctor meus, et in ipso sperávi: * qui subdit pópulum meum sub me.

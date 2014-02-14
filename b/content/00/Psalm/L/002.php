@@ -1,4 +1,3 @@
-
 Quare fremuérunt Gentes: * et pópuli meditáti sunt inánia?
 Astitérunt reges terræ, et príncipes convenérunt in unum * advérsus Dóminum, et advérsus Christum ejus.
 Dirumpámus víncula eórum: * et projiciámus a nobis jugum ipsórum.

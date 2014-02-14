@@ -1,4 +1,3 @@
-
 Arise, O Lord God, let thy hand be exalted: *‡ forget not the poor.
 Wherefore hath the wicked provoked God? * for he hath said in his heart: He will not require it.
 Thou seest it, for thou considerest labour and sorrow: * that thou mayst deliver them into thy hands.

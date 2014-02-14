@@ -1,4 +1,3 @@
-
 If we have forgotten the name of our God, * and if we have spread forth our hands to a strange god:
 Shall not God search out these things: * for he knoweth the secrets of the heart.
 Because for thy sake we are killed all the day long: * we are counted as sheep for the slaughter.

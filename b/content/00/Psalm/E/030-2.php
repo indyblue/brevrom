@@ -1,4 +1,3 @@
-
 Have mercy on me, O Lord, for I am afflicted: * my eye is troubled with wrath, my soul, and my belly:
 For my life is wasted with grief: * and my years in sighs.
 My strength is weakened through poverty * and my bones are disturbed.

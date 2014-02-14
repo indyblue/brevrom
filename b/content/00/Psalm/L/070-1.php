@@ -1,4 +1,3 @@
-
 In te, Dómine, sperávi, non confúndar in ætérnum: * in justítia tua líbera me, et éripe me.
 Inclína ad me aurem tuam, * et salva me.
 Esto mihi in Deum protectórem, et in locum munítum: * ut salvum me fácias,

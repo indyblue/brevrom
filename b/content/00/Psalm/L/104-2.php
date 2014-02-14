@@ -1,4 +1,3 @@
-
 Et vocávit famem super terram: * et omne firmaméntum panis contrívit.
 Misit ante eos virum: * in servum venúmdatus est Joseph.
 Humiliavérunt in compédibus pedes ejus, ferrum pertránsiit ánimam ejus * donec veníret verbum ejus.

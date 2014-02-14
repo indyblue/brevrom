@@ -1,4 +1,3 @@
-
 I have cried to thee, O Lord, hear me: *‡ hearken to my voice, when I cry to thee.
 Let my prayer be directed as incense in thy sight; * the lifting up of my hands, as evening sacrifice.
 Set a watch, O Lord, before my mouth: * and a door round about my lips.

@@ -1,4 +1,3 @@
-
 Deus, Deus meus, * ad te de luce vígilo.
 Sitívit in te ánima mea, * quam multiplíciter tibi caro mea.
 In terra desérta, et ínvia, et inaquósa: * sic in sancto appárui tibi, ut vidérem virtútem tuam, et glóriam tuam.

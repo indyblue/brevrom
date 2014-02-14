@@ -1,4 +1,3 @@
-
 I have not hid thy justice within my heart: * I have declared thy truth and thy salvation.
 I have not concealed thy mercy and thy truth * from a great council.
 Withhold not thou, O Lord, thy tender mercies from me: * thy mercy and thy truth have always upheld me.

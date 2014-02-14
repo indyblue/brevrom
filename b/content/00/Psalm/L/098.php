@@ -1,4 +1,3 @@
-
 Dóminus regnávit, irascántur pópuli: * qui sedet super Chérubim, moveátur terra.
 Dóminus in Sion magnus: * et excélsus super omnes pópulos.
 Confiteántur nómini tuo magno: quóniam terríbile, et sanctum est: * et honor regis judícium díligit.

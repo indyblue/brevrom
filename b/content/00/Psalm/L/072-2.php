@@ -1,4 +1,3 @@
-
 Ideo convertétur pópulus meus hic: * et dies pleni inveniéntur in eis.
 Et dixérunt: Quómodo scit Deus, * et si est sciéntia in excélso?
 Ecce, ipsi peccatóres, et abundántes in sæculo, * obtinuérunt divítias.

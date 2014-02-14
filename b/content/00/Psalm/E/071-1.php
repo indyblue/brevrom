@@ -1,4 +1,3 @@
-
 Give to the king thy judgment, O God: * and to the king’s son thy justice:
 To judge thy people with justice, * and thy poor with judgment.
 Let the mountains receive peace for the people: * and the hills justice.

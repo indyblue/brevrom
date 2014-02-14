@@ -1,4 +1,3 @@
-
 O God, my God, * to thee do I watch at break of day.
 For thee my soul hath thirsted; * for thee my flesh, O how many ways!
 In a desert land, and where there is no way, and no water: * so in the sanctuary have I come before thee, to see thy power and thy glory.

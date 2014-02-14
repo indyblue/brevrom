@@ -1,4 +1,3 @@
-
 Confitébimur tibi, Deus: * confitébimur, et invocábimus nomen tuum.
 Narrábimus mirabília tua: * cum accépero tempus, ego justítias judicábo.
 Liquefácta est terra, et omnes qui hábitant in ea: * ego confirmávi colúmnas ejus.

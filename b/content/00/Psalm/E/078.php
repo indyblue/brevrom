@@ -1,4 +1,3 @@
-
 O God, the heathens are come into thy inheritance, they have defiled thy holy temple: * they have made Jerusalem as a place to keep fruit.
 They have given the dead bodies of thy servants to be meat for the fowls of the air: * the flesh of thy saints for the beasts of the earth.
 They have poured out their blood as water, round about Jerusalem, * and there was none to bury them.

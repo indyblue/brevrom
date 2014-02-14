@@ -1,4 +1,3 @@
-
 I have loved, because the Lord will hear * the voice of my prayer.
 Because he hath inclined his ear unto me: * and in my days I will call upon him.
 The sorrows of death have compassed me: * and the perils of hell have found me.

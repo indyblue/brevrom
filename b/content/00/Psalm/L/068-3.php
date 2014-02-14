@@ -1,4 +1,3 @@
-
 Ego sum pauper et dolens: * salus tua, Deus, suscépit me.
 Laudábo nomen Dei cum cántico: * magnificábo eum in laude:
 Et placébit Deo super vítulum novéllum: * córnua producéntem et úngulas.

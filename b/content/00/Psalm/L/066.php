@@ -1,4 +1,3 @@
-
 Deus misereátur nostri, et benedícat nobis: *‡ illúminet vultum suum super nos, et misereátur nostri.
 Ut cognoscámus in terra viam tuam, * in ómnibus géntibus salutáre tuum.
 Confiteántur tibi pópuli, Deus: * confiteántur tibi pópuli omnes.

@@ -1,4 +1,3 @@
-
 The foundations thereof are in the holy mountains: * The Lord loveth the gates of Sion above all the tabernacles of Jacob.
 Glorious things are said of thee, * O city of God.
 I will be mindful of Rahab and of Babylon * knowing me.

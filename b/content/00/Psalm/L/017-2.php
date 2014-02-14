@@ -1,4 +1,3 @@
-
 Misit de summo, et accépit me: * et assúmpsit me de aquis multis.
 Erípuit me de inimícis meis fortíssimis, et ab his qui odérunt me: * quóniam confortáti sunt super me.
 Prævenérunt me in die afflictiónis meæ: * et factus est Dóminus protéctor meus.

@@ -1,4 +1,3 @@
-
 The Lord is the God to whom revenge belongeth: * the God of revenge hath acted freely.
 Lift up thyself, thou that judgest the earth: * render a reward to the proud.
 How long shall sinners, O Lord: * how long shall sinners glory?

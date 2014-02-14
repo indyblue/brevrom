@@ -1,4 +1,3 @@
-
 Great is the Lord, and exceedingly to be praised * in the city of our God,‡ in his holy mountain.
 With the joy of the whole earth is mount Sion founded, * on the sides of the north, the city of the great king.
 In her houses shall God be known, * when he shall protect her.

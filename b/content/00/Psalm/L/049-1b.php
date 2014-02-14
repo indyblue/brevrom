@@ -1,4 +1,3 @@
-
 Non in sacrifíciis tuis árguam te: * holocáusta autem tua in conspéctu meo sunt semper.
 Non accípiam de domo tua vítulos: * neque de grégibus tuis hircos.
 Quóniam meæ sunt omnes feræ silvárum: * juménta in móntibus et boves.

@@ -1,4 +1,3 @@
-
 Voce mea ad Dóminum clamávi: * voce mea ad Deum, et inténdit mihi.
 In die tribulatiónis meæ Deum exquisívi, mánibus meis nocte contra eum: * et non sum decéptus.
 Rénuit consolári ánima mea, * memor fui Dei, et delectátus sum, et exercitátus sum: et defécit spíritus meus.

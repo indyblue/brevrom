@@ -1,4 +1,3 @@
-
 And he called a famine upon the land: * and he broke in pieces all the support of bread.
 He sent a man before them: * Joseph, who was sold for a slave.
 They humbled his feet in fetters: the iron pierced his soul, * until his word came.

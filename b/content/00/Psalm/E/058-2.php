@@ -1,4 +1,3 @@
-
 God shall let me see over my enemies: slay them not, * lest at any time my people forget.
 Scatter them by thy power; * and bring them down, O Lord, my protector:
 For the sin of their mouth, and the word of their lips: * and let them be taken in their pride.

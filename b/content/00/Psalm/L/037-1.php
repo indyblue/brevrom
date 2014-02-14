@@ -1,4 +1,3 @@
-
 Dómine, ne in furóre tuo árguas me, * neque in ira tua corrípias me.
 Quóniam sagíttæ tuæ infíxæ sunt mihi: * et confirmásti super me manum tuam.
 Non est sánitas in carne mea a fácie iræ tuæ: * non est pax óssibus meis a fácie peccatórum meórum.

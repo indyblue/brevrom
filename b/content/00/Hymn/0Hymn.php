@@ -1,11 +1,11 @@
 <?php
+mb_internal_encoding("UTF-8");
+
 ob_start(); // start buffer
 require ($dir.'L/'.$file);
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
 $Lpieces = explode(chr(13).chr(10),$txtContent);
-
-mb_internal_encoding("UTF-8");
 
 ob_start(); // start buffer
 require ($dir.'E/'.$file);

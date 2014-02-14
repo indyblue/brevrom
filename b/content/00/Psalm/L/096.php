@@ -1,4 +1,3 @@
-
 Dóminus regnávit, exsúltet terra: *‡ læténtur ínsulæ multæ.
 Nubes, et calígo in circúitu ejus: * justítia, et judícium corréctio sedis ejus.
 Ignis ante ípsum præcédet, * et inflammábit in circúitu inimícos ejus.

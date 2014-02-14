@@ -1,4 +1,3 @@
-
 Deus, áuribus nostris audívimus: * patres nostri annuntiavérunt nobis.
 Opus, quod operátus es in diébus eórum, * et in diébus antíquis.
 Manus tua gentes dispérdidit, et plantásti eos: * afflixísti pópulos, et expulísti eos.

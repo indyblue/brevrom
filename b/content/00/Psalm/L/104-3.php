@@ -1,4 +1,3 @@
-
 Misit ténebras, et obscurávit: * et non exacerbávit sermónes suos.
 Convértit aquas eórum in sánguinem: * et occídit pisces eórum.
 Édidit terra eórum ranas: * in penetrálibus regum ipsórum.

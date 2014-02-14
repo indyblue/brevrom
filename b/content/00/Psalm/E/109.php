@@ -1,4 +1,3 @@
-
 The Lord said to my Lord: * Sit thou at my right hand:‡
 Until I make thy enemies * thy footstool.
 The Lord will send forth the sceptre of thy power out of Sion: * rule thou in the midst of thy enemies.

@@ -1,4 +1,3 @@
-
 Quóniam placuérunt servis tuis lápides ejus: * et terræ ejus miserebúntur.
 Et timébunt gentes nomen tuum, Dómine, * et omnes reges terræ glóriam tuam.
 Quia ædificávit Dóminus Sion: * et vidébitur in glória sua.

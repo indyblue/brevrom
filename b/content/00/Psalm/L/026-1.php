@@ -1,4 +1,3 @@
-
 Dóminus illuminátio mea, et salus mea, * quem timébo?
 Dóminus protéctor vitæ meæ, * a quo trepidábo?
 Dum apprópiant super me nocéntes, * ut edant carnes meas:

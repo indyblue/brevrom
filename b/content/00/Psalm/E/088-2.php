@@ -1,4 +1,3 @@
-
 Then thou spokest in a vision to thy saints, and saidst: * I have laid help upon one that is mighty, and have exalted one chosen out of my people.
 I have found David my servant: * with my holy oil I have anointed him.
 For my hand shall help him: * and my arm shall strengthen him.

@@ -1,4 +1,3 @@
-
 Deus ultiónum Dóminus: * Deus ultiónum líbere egit.
 Exaltáre, qui júdicas terram: * redde retributiónem supérbis.
 Úsquequo peccatóres, Dómine, * úsquequo peccatóres gloriabúntur:

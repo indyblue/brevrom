@@ -1,4 +1,3 @@
-
 Tunc locútus es in visióne sanctis tuis, et dixísti: * Pósui adjutórium in poténte: et exaltávi eléctum de plebe mea.
 Invéni David, servum meum: * óleo sancto meo unxi eum.
 Manus enim mea auxiliábitur ei: * et bráchium meum confortábit eum.

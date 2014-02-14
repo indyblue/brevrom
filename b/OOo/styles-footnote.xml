@@ -1,0 +1,12 @@
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="BodyESm" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.1in" fo:margin-right="0in" fo:text-indent="-0.1in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+
+  <text:notes-configuration text:note-class="footnote" text:default-style-name="Footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" text:master-page-name="Footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+

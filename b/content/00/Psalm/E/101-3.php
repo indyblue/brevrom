@@ -1,4 +1,3 @@
-
 Call me not away in the midst of my days: * thy years are unto generation and generation.
 In the beginning, O Lord, thou foundedst the earth: * and the heavens are the works of thy hands.
 They shall perish but thou remainest: * and all of them shall grow old like a garment:

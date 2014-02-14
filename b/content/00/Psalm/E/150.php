@@ -1,4 +1,3 @@
-
 Praise ye the Lord in his holy places: * praise ye him in the firmament of his power.
 Praise ye him for his mighty acts: * praise ye him according to the multitude of his greatness.
 Praise him with sound of trumpet: * praise him with psaltery and harp.

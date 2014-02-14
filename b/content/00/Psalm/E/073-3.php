@@ -1,4 +1,3 @@
-
 Remember this, the enemy hath reproached the Lord: * and a foolish people hath provoked thy name.
 Deliver not up to beasts the souls that confess to thee: * and forget not to the end the souls of thy poor.
 Have regard to thy covenant: * for they that are the obscure of the earth have been filled with dwellings of iniquity.

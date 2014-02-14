@@ -1,4 +1,3 @@
-
 Confundántur, et defíciant detrahéntes ánimæ meæ: * operiántur confusióne, et pudóre qui quærunt mala mihi.
 Ego autem semper sperábo: * et adjíciam super omnem laudem tuam.
 Os meum annuntiábit justítiam tuam: * tota die salutáre tuum.

@@ -1,4 +1,3 @@
-
 Blessed is the man who hath not walked in the counsel of the ungodly, nor stood in the way of sinners, * nor sat in the chair of pestilence.
 But his will is in the law of the Lord, * and on his law he shall meditate day and night.
 And he shall be like a tree which is planted near the running waters, * which shall bring forth its fruit, in due season.

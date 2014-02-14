@@ -1,4 +1,3 @@
-
 Out of the depths I have cried to thee, O Lord: *‡ Lord, hear my voice.
 Let thy ears be attentive * to the voice of my supplication.
 If thou, O Lord, wilt mark iniquities: * Lord, who shall stand it.

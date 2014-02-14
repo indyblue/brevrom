@@ -1,4 +1,3 @@
-
 Dóminus regnávit, decórem indútus est: * indútus est Dóminus fortitúdinem, et præcínxit se.
 Étenim firmávit orbem terræ, * qui non commovébitur.
 Paráta sedes tua ex tunc: * a sæculo tu es.

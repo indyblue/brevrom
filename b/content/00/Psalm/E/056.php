@@ -1,4 +1,3 @@
-
 Have mercy on me, O God, have mercy on me: * for my soul trusteth in thee.
 And in the shadow of thy wings will I hope, * until iniquity pass away.
 I will cry to God the most High; * to God who hath done good to me.

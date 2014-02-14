@@ -1,4 +1,3 @@
-
 Tu terríbilis es, et quis resístet tibi? * ex tunc ira tua.
 De cælo audítum fecísti judícium: * terra trémuit et quiévit,
 Cum exsúrgeret in judícium Deus, * ut salvos fáceret omnes mansuétos terræ.

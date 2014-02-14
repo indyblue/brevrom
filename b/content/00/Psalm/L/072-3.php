@@ -1,4 +1,3 @@
-
 Verúmtamen propter dolos posuísti eis: * dejecísti eos dum allevaréntur.
 Quómodo facti sunt in desolatiónem, súbito defecérunt: * periérunt propter iniquitátem suam.
 Velut sómnium surgéntium, Dómine, * in civitáte tua imáginem ipsórum ad níhilum rédiges.

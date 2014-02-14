@@ -1,4 +1,3 @@
-
 May the iniquity of his fathers be remembered in the sight of the Lord: * and let not the sin of his mother be blotted out.
 May they be before the Lord continually, and let the memory of them perish from the earth: * because he remembered not to shew mercy,
 But persecuted the poor man and the beggar; * and the broken in heart, to put him to death.

@@ -1,4 +1,3 @@
-
 Thou hast brought a vineyard out of Egypt: * thou hast cast out the Gentiles and planted it.
 Thou wast the guide of its journey in its sight: * thou plantedst the roots thereof, and it filled the land.
 The shadow of it covered the hills: * and the branches thereof the cedars of God.

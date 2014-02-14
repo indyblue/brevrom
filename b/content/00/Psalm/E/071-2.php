@@ -1,4 +1,3 @@
-
 Before him the Ethiopians shall fall down: * and his enemies shall lick the ground.
 The kings of Tharsis and the islands shall offer presents: * the kings of the Arabians and of Saba shall bring gifts:
 And all kings of the earth shall adore him: * all nations shall serve him.

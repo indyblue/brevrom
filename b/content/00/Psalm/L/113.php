@@ -1,4 +1,3 @@
-
 In éxitu Israël de Ægýpto, * domus Jacob de pópulo bárbaro:
 Facta est Judæa sanctificátio ejus, * Israël potéstas ejus.
 Mare vidit, et fugit: * Jordánis convérsus est retrórsum.

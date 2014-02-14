@@ -1,4 +1,3 @@
-
 Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.
 Miserére mei, * et exáudi oratiónem meam.
 Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quæritis mendácium?

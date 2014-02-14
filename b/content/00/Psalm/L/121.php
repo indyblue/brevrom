@@ -1,4 +1,3 @@
-
 Lætátus sum in his, quæ dicta sunt mihi: *‡ In domum Dómini íbimus.
 Stantes erant pedes nostri, * in átriis tuis, Jerúsalem.
 Jerúsalem, quæ ædificátur ut cívitas: * cujus participátio ejus in idípsum.

@@ -1,4 +1,3 @@
-
 Dixi: Custódiam vias meas: * ut non delínquam in lingua mea.
 Pósui ori meo custódiam, * cum consísteret peccátor advérsum me.
 Obmútui, et humiliátus sum, et sílui a bonis: * et dolor meus renovátus est.

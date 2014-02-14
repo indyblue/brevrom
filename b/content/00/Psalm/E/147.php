@@ -1,4 +1,3 @@
-
 Praise the Lord, O Jerusalem: *‡ praise thy God, O Sion.
 Because he hath strengthened the bolts of thy gates, * he hath blessed thy children within thee.
 Who hath placed peace in thy borders: * and filleth thee with the fat of corn.

@@ -1,4 +1,3 @@
-
 Jubiláte Deo, omnis terra: * servíte Dómino in lætítia.
 Introíte in conspéctu ejus, * in exsultatióne.
 Scitóte quóniam Dóminus ipse est Deus: * ipse fecit nos, et non ipsi nos.

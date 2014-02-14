@@ -1,4 +1,3 @@
-
 Psállite Dómino, qui hábitat in Sion: * annuntiáte inter Gentes stúdia ejus:
 Quóniam requírens sánguinem eórum recordátus est: * non est oblítus clamórem páuperum.
 Miserére mei, Dómine: * vide humilitátem meam de inimícis meis.

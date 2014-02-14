@@ -1,4 +1,3 @@
-
 Deus judex justus, fortis, et pátiens: * numquid iráscitur per síngulos dies?
 Nisi convérsi fuéritis, gládium suum vibrábit: * arcum suum teténdit, et parávit illum.
 Et in eo parávit vasa mortis: * sagíttas suas ardéntibus effécit.

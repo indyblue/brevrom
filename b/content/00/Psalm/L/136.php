@@ -1,4 +1,3 @@
-
 Super flúmina Babylónis, illic sédimus et flévimus: * cum recordarémur Sion:
 In salícibus in médio ejus, * suspéndimus órgana nostra.
 Quia illic interrogavérunt nos, qui captívos duxérunt nos, * verba cantiónum:

@@ -611,7 +611,7 @@
    </table>
    <p:Rubric>Depending on the day/season, [<s:VR>V</s>.] is replaced with:</p>
    <p:Spacer/>
-   <p:RubricH>Advent Season and on Christmas Eve:</p>
+   <p:RubricH>In the Advent Season and on Christmas Eve:</p>
    <table>
     <tr>
      <td:A1>
@@ -622,7 +622,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricH>Christmas Season, Corpus Christi, Feasts of BVM and Saturday Office of BVM:</p>
+   <p:RubricH>In the Christmas Season, on Corpus Christi, on Feasts of BVM and in the Saturday Office of BVM:</p>
    <table>
     <tr>
      <td:A1>
@@ -633,7 +633,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricH>In the Octave of Epiphany:</p>
+   <p:RubricH>In the Epiphany Season:</p>
    <table>
     <tr>
      <td:A1>
@@ -644,7 +644,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricH>Feast of the Holy Family:</p>
+   <p:RubricH>On the Feast of the Holy Family:</p>
    <table>
     <tr>
      <td:A1>
@@ -655,7 +655,7 @@
      </td>
     </tr>
    </table>
-   <p:RubricH>15 Sept, Feast of the Seven Sorrows of the Blessed Virgin Mary:</p>
+   <p:RubricH>On the Feast of the Seven Sorrows of the Blessed Virgin Mary:</p>
    <table>
     <tr>
      <td:A1>

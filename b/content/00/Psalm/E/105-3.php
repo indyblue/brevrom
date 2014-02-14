@@ -1,4 +1,3 @@
-
 They provoked him also at the waters of contradiction: * and Moses was afflicted for their sakes: because they exasperated his spirit.
 And he distinguished with his lips; * they did not destroy the nations of which the Lord spoke unto them.
 And they were mingled among the heathens, and learned their works: and served their idols, * and it became a stumblingblock to them.

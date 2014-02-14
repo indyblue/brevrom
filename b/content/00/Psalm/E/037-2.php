@@ -1,4 +1,3 @@
-
 And they that were near me stood afar off: * and they that sought my soul used violence.
 And they that sought evils to me spoke vain things, * and studied deceits all the day long.
 But I, as a deaf man, heard not: * and as a dumb man not opening his mouth.

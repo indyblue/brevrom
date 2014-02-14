@@ -1,4 +1,3 @@
-
 The Lord shall give the word to them that preach good tidings, * with great power.
 The king of powers is of the beloved, * of the beloved; and the beauty of the house shall divide spoils.
 If you sleep among the midst of lots, you shall be as the wings of a dove covered with silver, * and the hinder parts of her back with the paleness of gold.

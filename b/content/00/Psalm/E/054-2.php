@@ -1,4 +1,3 @@
-
 But I have cried to God: * and the Lord will save me.
 Evening and morning, and at noon I will speak and declare: * and he shall hear my voice.
 He shall redeem my soul in peace from them that draw near to me: * for among many they were with me.

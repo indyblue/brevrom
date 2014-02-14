@@ -1,4 +1,3 @@
-
 Díriget mansuétos in judício: * docébit mites vias suas.
 Univérsæ viæ Dómini, misericórdia et véritas, * requiréntibus testaméntum ejus et testimónia ejus.
 Propter nomen tuum, Dómine, propitiáberis peccáto meo: * multum est enim.

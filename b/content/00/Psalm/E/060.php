@@ -1,4 +1,3 @@
-
 Hear, O God, my supplication: * be attentive to my prayer.
 To thee have I cried from the ends of the earth: * when my heart was in anguish, thou hast exalted me on a rock.
 Thou hast conducted me; for thou hast been my hope: * a tower of strength against the face of the enemy.
