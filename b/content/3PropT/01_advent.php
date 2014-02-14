@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Adventus</p>
    <p:Body/>
-   <p:Hidden1>Advent</p>
-   <p:Hidden2>Advent I</p>
+<?php hidden('Advent',1); ?>
+<?php hidden('Advent I',2); ?>
    <p:Head1>Dominica I Adventus</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -21,20 +21,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 13:11</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>FRATRES: Hora est jam nos de somno súrgere: nunc enim própior est nostra salus, quam cum credídimus.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BRETHREN: it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom13_11.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Is 30:27</p>
@@ -55,7 +42,7 @@
 	rubrics('ps/SuL1.php'); 
 	ant('prTemp/advent01.php','02222');	
 ?>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('rom13_11.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
    <table>
@@ -74,49 +61,23 @@
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
    <p:Rubric>Ant 2 from Lauds is used.</p>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('rom13_11.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 13:12</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>NOX præcéssit, dies autem appropinquávit: abiciámus ergo ópera tenebrárum, et induámur arma lucis.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>THE night is passed, and the day is at hand. Let us therefore cast off the works of darkness, and put on the armour of light.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom13_12.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 13:13-14</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>SICUT in die honéste ambulémus, non in comessatiónibus et ebrietátibus, non in cubílibus et impudicítiis, non in contentióne et æmulatióne; sed induímini Dóminum Jesum Christum.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>LET us walk honestly, as in the day: not in rioting and drunkenness, not in chambering and impurities, not in contention and envy: but put ye on the Lord Jesus Christ.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom13_13-14.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('rom13_11.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Lk 1:30</p>
@@ -295,8 +256,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Advent</p>
-   <p:Hidden2>Advent II</p>
+<?php hidden('Advent',1); ?>
+<?php hidden('Advent II',2); ?>
    <p:Head1>Dominica II Adventus</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -314,20 +275,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 15:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>FRATRES: Quæcúmque scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam, et consolatiónem Scripturárum spem habeámus.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BRETHREN: what things soever were written, were written for our learning: that through patience and the comfort of the scriptures, we might have hope.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom15_4.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
    <table>
@@ -347,7 +295,7 @@
 	rubrics('ps/SuL1.php'); 
 	ant('prTemp/advent02.php','02222');	
 ?>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('rom15_4.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>Mt 11:2-3</p>
@@ -367,49 +315,23 @@
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
    <p:Rubric>Ant 2 from Lauds is used.</p>
-   <p:Rubric>Little Chapter as in I Vespers</p>
+<?php lc('rom15_4.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 15:5-6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>DEUS autem patiéntiæ, et solátii det vobis idípsum sápere in altérutrum secúndum Jesum Christum: ut unánimes uno ore honorificétis Deum, et Patrem Dómini nostri Jesu Christi.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>NOW the God of patience and of comfort grant you to be of one mind one towards another, according to Jesus Christ: That with one mind, and with one mouth, you may glorify God and the Father of our Lord Jesus Christ.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom15_5-6.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 15:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>DEUS autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe, et in virtúte Spíritus Sancti.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>NOW the God of hope fill you with all joy and peace in believing; that you may abound in hope, and in the power of the Holy Ghost.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom15_13.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('rom15_4.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Mt 11:3-5</p>
@@ -584,8 +506,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH></p>
-   <p:Hidden1>Advent</p>
-   <p:Hidden2>Advent III</p>
+<?php hidden('Advent',1); ?>
+<?php hidden('Advent III',2); ?>
    <p:Head1>Dominica III Adventus</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -603,20 +525,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Phil. 4:4-5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>FRATRES: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BRETHREN: Rejoice in the Lord always; again, I say, rejoice. Let your modesty be known to all men. The Lord is nigh.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('phil4_4-5.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent</p>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Is. 43:10, 45:23</p>
@@ -637,7 +546,7 @@
 	rubrics('ps/SuL1.php'); 
 	ant('prTemp/advent03.php','02222');	
 ?>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('phil4_4-5.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
    <table>
@@ -652,47 +561,21 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
-   <p:Rubric>Little Chapter as in I Vespers</p>
+<?php lc('phil4_4-5.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Phil. 4:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>NIHIL sollíciti sitis: sed in omni oratióne, et obsecratióne cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BE NOTHING solicitous; but in every thing, by prayer and supplication, with thanksgiving, let your petitions be made known to God.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('phil4_6.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Phil. 4:7</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>ET PAX Dei, quæ exsúperat omnem sensum, custódiat corda vestra, et intelligéntias vestras in Christo Jesu Dómino nostro.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>AND THE peace of God, which surpasseth all understanding, keep your hearts and minds in Christ Jesus.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('phil4_7.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('phil4_4-5.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Magnificat</p>
    <table>
@@ -896,8 +779,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Advent</p>
-   <p:Hidden2>Advent - Major Ant.</p>
+<?php hidden('Advent',1); ?>
+<?php hidden('Advent - Major Ant.',2); ?>
    <p:Head1>Antiphonæ Majores</p>
    <p:BodySm/>
    <p:Head2>Die 17 Decembris</p>
@@ -1024,8 +907,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Advent</p>
-   <p:Hidden2>Advent IV</p>
+<?php hidden('Advent',1); ?>
+<?php hidden('Advent IV',2); ?>
    <p:Head1>Dominica IV Adventus</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -1043,20 +926,7 @@
    <p:Head2>ad I Vésperas</p>
 <?php rubrics('ps/SaV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t> 1 Cor. 4:1-2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>FRATRES: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic jam quǽritur inter dispensatóres, ut fidélis quis inveniátur.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BRETHREN: Let a man so account of us as of the ministers of Christ, and the dispensers of the mysteries of God. Here now it is required among the dispensers, that a man be found faithful.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('1cor4_1-2.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent</p>
    <p:Rubric>Magnificat: O Antiphon.</p>
    <p:BodySm/>
@@ -1066,7 +936,7 @@
 	rubrics('ps/SuL1.php'); 
 	ant('prTemp/advent04.php','02222');	
 ?>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('1cor4_1-2.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus (if not Dec. 21 or 23)</p>
    <table>
@@ -1081,47 +951,21 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
-   <p:Rubric>Little Chapter as in I Vespers</p>
+<?php lc('1cor4_1-2.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>1 Cor. 4:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>MIHI autem pro mínimo est, ut a vobis júdicer, aut ab humáno die: sed neque meípsum júdico.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BUT to me it is a very small thing to be judged by you, or by man’s day; but neither do I judge my own self.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('1cor4_3.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>1 Cor. 4:5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>ÍTAQUE nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicuíque a Deo.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>THEREFORE judge not before the time; until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts; and then shall every man have praise from God.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('1cor4_5.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Advent.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/SuV.php'); ?>
    <p:Rubric>Antiphons as in Lauds.</p>
-   <p:Rubric>Little Chapter as in I Vespers.</p>
+<?php lc('1cor4_1-2.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Rubric>Magnificat: O Antiphon.</p>
    <p:BodySm/>
@@ -1198,8 +1042,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Advent</p>
-   <p:Hidden2>Vigil of the Nativity (Dec. 24)</p>
+<?php hidden('Advent',1); ?>
+<?php hidden('Vigil of the Nativity (Dec. 24)',2); ?>
    <p:Head1>in Vigilia Nativitatis Domini</p>
    <p:Head2>December 24 - I classis</p>
    <p:Rubric>If the Vigil of the Nativity of our Lord occurs on Sunday, I Vespers of IV Sunday of Advent is said. Lauds and the little hours of the Vigil of the Nativity is said, without a commemoration of the Sunday.</p>
@@ -1262,20 +1106,7 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 1:1-3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>PAULUS servus Jesu Christi, vocátus Apóstolus, segregátus in Evangélium Dei, quod ante promíserat per prophétas suos in Scriptúris sanctis de Fílio suo, qui factus est ei ex sémine David secúndum carnem.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>PAUL, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God, which he had promised before, by his prophets, in the holy scriptures, concerning his Son, who was made to him of the seed of David, according to the flesh.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom1_1-3.php'); ?>
    <p:Rubric>Hymn as in Ordinary of Advent.</p>
    <p:Head3>Benedictus</p>
    <table>
@@ -1290,240 +1121,25 @@
    </table>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
-   <p:Rubric>Little Chapter as in I Vespers</p>
-   <p:Head3>Brief Respond</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Hódie sciétis * Quia véniet Dóminus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>This day ye shall know * That the Lord cometh.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Hódie sciétis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>This day ye shall know...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et mane vidébitis glóriam ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And in the morning, then ye shall see his glory.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Quia véniet Dóminus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>That the Lord cometh.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Ghost.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Hódie sciétis...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>This day ye shall know...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Constántes estóte.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Stand ye still.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Vidébitis auxílium Dómini super vos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And ye shall see the salvation of the Lord with you.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom1_1-3.php'); ?>
+<?php 
+	brS('PrTemp/hodie_scietis_quia_veniet_dominus.php');
+	vrS('PrTemp/constantes_estote.php');
+?>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 1:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>QUI prædestinátus est Fílius Dei in virtúte secúndum spíritum sanctificatiónis, ex resurrectióne mortuórum Jesu Christi Dómini nostri.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>WHO was predestinated the Son of God in power, according to the spirit of sanctification, by the resurrection of our Lord Jesus Christ from the dead.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Brief Respond</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Crástina die * Delébitur iníquitas terræ.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>On the morrow * The iniquity of the earth shall washed away.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Crástina die...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>On the morrow...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et regnábit super nos Salvátor mundi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And the Savior of the world will be our King.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Delébitur iníquitas terræ.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The iniquity of the earth shall be washed away.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Ghost.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Crástina die...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>On the morrow...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Crástina erit vobis salus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>On the morrow ye shall be saved.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Dicit Dóminus Deus exercítuum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Saith the Lord God of hosts.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom1_4.php'); ?>
+<?php 
+	brS('PrTemp/crastina_die_delebitur_iniquitas_terrae.php');
+	vrS('PrTemp/crastina_erit_vobis_salus.php');
+?>
    <p:Body/>
    <p:Head2>ad Nonam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Rom. 1:5-6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>PER quem accépimus grátiam, et apostolátum ad obediéndum fídei in ómnibus Géntibus pro nómine ejus, in quibus estis et vos vocáti Jesu Christi Dómini nostri.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BY whom we have received grace and apostleship for obedience to the faith, in all nations, for his name; Among whom are you also the called of Jesus Christ.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Brief Respond</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Crástina * Erit vobis salus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>On the morrow, * ye shall be saved.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Crástina...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>On the morrow...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dicit Dóminus Deus exercítuum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Saith the Lord God of Hosts.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Erit vobis salus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Ye shall be saved.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Ghost.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Crástina...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>On the morrow...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Crástina die delébitur iníquitas terræ.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>On the morrow the sins of the earth shall be washed away.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et regnábit super nos Salvátor mundi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And the Saviour of the world will be our King.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('rom1_5-6.php'); ?>
+<?php 
+	brS('PrTemp/crastina_erit_vobis_salus.php');
+	vrS('PrTemp/crastina_die_delebitur_iniquitas_terrae.php');
+?>
    <p:BodySm/>
    <p:Rubric>After the hour of None, the season of Christmas begins.</p>
    <p:BodySm/>

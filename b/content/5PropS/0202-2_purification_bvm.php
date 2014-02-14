@@ -36,8 +36,7 @@
 	prayer('prSanct/0202.php'); 
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('ps/Feria.php'); 
+	rubrics('ps/LittleHoursFeria.php');
 	PrV('qui_natus_es_de_maria_virgine.php'); 
 	rubp('Quando hoc festum occurrit in dominicis in Septuagesima, aut Sexagesima, aut Quinquagesima, ad horas sumuntur ant. de Laudibus, pss. vero de dominica, retentis tamen ad primam pss. 117, 118 i, 118 ii.',
 		'When this feast occurs on the Sunday of Septuagesima, Sexagesima or Quinquagesima, at the little hours the ant. are selected from Lauds, and the psalms from Sunday; retaining at Prime pss. 117, 118 i, 118 ii.');

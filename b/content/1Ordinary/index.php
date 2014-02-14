@@ -12,152 +12,26 @@
 require '01_matins.php';
 require '02_lauds.php';
 require '03_prime.php';
-/* hymns of the little Hours
-	hymn('jam_lucis_orto_sidere.php');
-	hymn('nunc_sancte_nobis_spiritus.php');
-	hymn('rector_potens_verax_deus.php');
-	hymn('rerum_deus_tenax_vigor.php');
-*/
-
 require '04_terce.php';
-/*
-	lc('jer17_14.php');
-	brS('Ord/sana_animam_meam_quia_peccavi_tibi.php');
-	vrS('Ord/adjutor_meus_esto_ne_derelinquas_me.php');
-*/
-
 require '05_sext.php';
-/*
-	lc('rom13_8.php');
-	brS('Ord/benedicam_dominum_in_omni_tempore.php');
-	vrS('Ord/dominus_regit_me_et_nihil_mihi_deerit.php');
-*/
-
 require '06_none.php';
-/*
-	lc('1pet1_17.php');
-	brS('Ord/redime_me_domine_et_miserere_mei.php');
-	vrS('Ord/ab_occultis_meis_munda_me_domine.php');
- */
-
 require '07_vespers.php';
 require '08_compline.php';
-
 
 	space();
 	img('sanctus.tif',100);
 	head('<sr>Pars Specialis</s>','<sr>Special Part</s>',1);
 	space();
-
-// require '11_advent.php';
+bookmark('orSeason');
+require '11_advent.php';
 
 ?>
 
-<?php img(); ?>
-   <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Advent</p>
-   <p:Head1>Tempore Adventus</p>
-   <p:BodySm/>
-   <p:Head2>ad Laudes</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<t>Is. 2:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>VENÍTE, et ascendámus ad montem Dómini, et ad domum Dei Jacob, et docébit nos vias suas, et ambulábimus in sémitis ejus: quia de Sion exíbit lex, et verbum Dómini de Jerúsalem.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>COME and let us go up to the mountain of the Lord, and to the house of the God of Jacob, and he will teach us his ways, and we will walk in his paths: for the law shall come forth from Sion, and the word of the Lord from Jerusalem.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Hymn</p>
-<?php hymn('en_clara_vox_redarguit.php'); ?>
-<?php vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php'); ?>
-   <p:BodySm/>
-   <p:Head2>ad Tertiam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<t>Jer. 23:5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>ECCE dies véniunt, dicit Dóminus, et suscitábo David germen justum: et regnábit rex, et sápiens erit: et fáciet judícium et justítiam in terra.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BEHOLD the days come, saith the Lord, and I will raise up to David a just branch: and a king shall reign, and shall be wise, and shall execute judgement and justice in the earth.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Brief Response</p>
-<?php brS('PrTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php'); ?>
-<?php vrS('PrTemp/timebunt_gentes_nomen_tuum_domine.php'); ?>
-   <p:BodySm/>
-   <p:Head2>ad Séxtam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<t>Jer. 23:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>IN DIÉBUS illis salvábitur Juda, et Israël habitábit confidénter: et hoc est nomen, quod vocábunt eum, Dóminus justus noster.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>IN THOSE days shall Juda be saved, and Israel shall dwell confidently: and this is the name that they shall call him: the Lord our just one.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Brief Response</p>
-<?php brS('PrTemp/ostende_nobis_domine_misericordiam_tuam.php'); ?>
-<?php vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php'); ?>
-   <p:BodySm/>
-   <p:Head2>ad Nonam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<t>Is. 14:1</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>PROPE est ut véniat tempus ejus, et dies ejus non elongabúntur: miserébitur enim Dóminus Jacob, et Israël salvábitur.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>HER time is near at hand, and her days shall not be prolonged. For the Lord will have mercy on Jacob, and will yet choose out of Israel.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Brief Response</p>
-<?php brS('PrTemp/super_te_jerusalem_orietur_dominus.php'); ?>
-<?php vrS('PrTemp/veni_domine_et_noli_tardare.php'); ?>
-   <p:BodySm/>
-   <p:Head2>ad Vésperas</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm>In ferial Office:<t>Gen. 49:10</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>NON auferétur sceptrum de Juda, et dux de fémore ejus, donec véniat qui mitténdus est: et ipse erit exspectátio Géntium.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>THE sceptre shall not be taken away from Juda, nor a ruler from his thigh, till he come that is to be sent, and he shall be the expectation of nations.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
-   <p:Head3>Hymn</p>
-<?php hymn('creator_alme_siderum.php'); ?>
-<?php vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Christmas</p>
+<?php hidden('Ordinary',1); ?>
+<?php hidden('Christmas',2); ?>
    <p:Head1>Tempore Nativitatis</p>
    <p:Head2>Collect</p>
    <table>
@@ -290,8 +164,8 @@ require '08_compline.php';
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Epiphany</p>
+<?php hidden('Ordinary',1); ?>
+<?php hidden('Epiphany',2); ?>
    <p:Head1>Tempore Epiphaniæ</p>
    <p:Head2>Collect</p>
    <p:RubricH>Before the first Sunday after Epiphany:</p>
@@ -414,15 +288,15 @@ require '08_compline.php';
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Septuagesima</p>
+<?php hidden('Ordinary',1); ?>
+<?php hidden('Septuagesima',2); ?>
    <p:Head1>Tempore Septuagesimæ</p>
    <p:Rubric>All as in the Season throughout the year, except those things which are Proper.</p>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Lent</p>
+<?php hidden('Ordinary',1); ?>
+<?php hidden('Lent',2); ?>
    <p:Head1>Tempore Quadragesimæ</p>
    <p:BodySm/>
    <p:Head2>ad Laudes</p>
@@ -522,8 +396,8 @@ require '08_compline.php';
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Passiontide</p>
+<?php hidden('Ordinary',1); ?>
+<?php hidden('Passiontide',2); ?>
    <p:Head1>Tempus Passionis</p>
    <p:Rubric>In Passiontide, in the Sunday or Ferial Office, Glória Patri is omitted from the Brief Responds.</p>
    <p:Head2>ad Laudes</p>
@@ -625,8 +499,8 @@ require '08_compline.php';
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Easter</p>
+<?php hidden('Ordinary',1); ?>
+<?php hidden('Easter',2); ?>
    <p:Head1>Tempore Paschatis</p>
    <p:Rubric>Under single antiphon Psalms and Canticles are said at all hours throughout the season of Paschaltide:</p>
    <table>
@@ -748,8 +622,8 @@ require '08_compline.php';
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Ordinary</p>
-   <p:Hidden2>Ascensiontide</p>
+<?php hidden('Ordinary',1); ?>
+<?php hidden('Ascensiontide',2); ?>
    <p:Head1>Tempore Ascensionis</p>
    <p:Head2>Collect</p>
    <table>
@@ -870,5 +744,9 @@ require '08_compline.php';
     </tr>
    </table>
    <p:BodySm/>
-<?php img(); ?>
-   <p:Spacer/>
+
+<?php
+
+require '19_per_annum.php';
+
+?>

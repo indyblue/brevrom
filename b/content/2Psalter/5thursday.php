@@ -6,31 +6,31 @@
 	dayhour(5,'M');
 	ant('Psalter/5Thu/0M.php','N00000000');
 	psalm(61);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','120000000');
 	psalm(65,1);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','012000000');
 	psalm(65,2);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','001N00000');
 	psalm(67,1,1);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','000120000');
 	psalm(67,2);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','000012000');
 	psalm(67,3);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','000001N00');
 	psalm(68,1,1);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','000000120');
 	psalm(68,2);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','000000012');
 	psalm(68,3);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/0M.php','000000001');
 
 	space();
@@ -40,27 +40,28 @@
 	ant('Psalter/alleluia.php','P');
 	ant('Psalter/5Thu/1L1.php','20000');
 	psalm(97);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/1L1.php','12000');
 	psalm(89,0,1);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/1L1.php','01200');
 	psalm(35);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/1L1.php','00120');
 	canticle('jeremiah.php');
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/1L1.php','00012');
 	psalm(146);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/1L1.php','00001');
 	ant('Psalter/alleluia.php','p');
-	space();
+	rubrics('ps/hour_continues.php');
 	lc('rom13_12-13.php');
 	rubrics('head/HymnVerse.php');
 	hymn('lux_ecce_surgit_aurea.php');
 	vrS('Ord/repleti_sumus_mane_misericordia_tua.php');
 	ant('Psalter/5Thu/1b.php','B');
+	dayhourE(5,'L1');
 
 	space();
 	img(); 
@@ -68,21 +69,21 @@
 	dayhour(5,'L2');
 	multiant(5,1,'20000');
 	psalm(50);
-	space();
+	space(2);
 	multiant(5,1,'12000');
 	psalm(89);
-	space();
+	space(2);
 	multiant(5,1,'01200');
 	psalm(35);
-	space();
+	space(2);
 	multiant(5,1,'00120');
 	canticle('moses15.php');
-	space();
+	space(2);
 	multiant(5,1,'00012');
 	psalm(146);
-	space();
+	space(2);
 	multiant(5,1,'00001');
-
+	dayhourE(5,'L2');
 
 	space();
 	img(); 
@@ -94,6 +95,7 @@
 	psalm(71,2);
 	ant('Psalter/5Thu/2P.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(5,'P');
 
 	space();
 	img(); 
@@ -104,6 +106,7 @@
 	psalm(72,3);
 	ant('Psalter/5Thu/3T.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(5,'T');
 
 	space();
 	img(); 
@@ -114,6 +117,7 @@
 	psalm(73,3);
 	ant('Psalter/5Thu/4S.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(5,'S');
 
 	space();
 	img(); 
@@ -124,6 +128,7 @@
 	psalm(75,2);
 	ant('Psalter/5Thu/5N.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(5,'N');
 
 	space();
 	img(); 
@@ -132,27 +137,28 @@
 	ant('Psalter/alleluia.php','P');
 	ant('Psalter/5Thu/6V.php','20000');
 	psalm(132,0,1);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/6V.php','12000');
 	psalm(135,1);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/6V.php','01200');
 	psalm(135,2);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/6V.php','00120');
 	psalm(136);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/6V.php','00012');
 	psalm(137);
-	space('Spacer');
+	space(2);
 	ant('Psalter/5Thu/6V.php','00001');
 	ant('Psalter/alleluia.php','p');
-	space();
+	rubrics('ps/hour_continues.php');
 	lc('2cor1_3-4.php');
 	rubrics('head/HymnVerse.php');
 	hymn('magnae_deus_potentiae.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
 	ant('Psalter/5Thu/6m.php','B');
+	dayhourE(5,'V');
 
 	space();
 	img(); 
@@ -165,5 +171,6 @@
 	psalm(70,2);
 	ant('Psalter/5Thu/7C.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(5,'C');
 
 ?>

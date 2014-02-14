@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Epiphaniæ</p>
    <p:Body/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Epiphany</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Epiphany',2); ?>
    <p:Head1>in Epiphania Domini</p>
    <p:Head2>January 6 - I classis</p>
    <p:BodySm/>
@@ -140,8 +140,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Holy Family</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Holy Family',2); ?>
    <p:Head1>Sanctæ Familiæ</p>
    <p:Head1NI>Jesu, Mariæ, Joseph</p>
    <p:Head2>1st Sunday after the Epiphany - II classis</p>
@@ -224,19 +224,9 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_lux_beata_caelitum.php'); ?>
-   <p:RubricHidden><t>Ps 83:5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Beáti qui hábitant in domo tua, Dómine.</p>
-      <p:BodyL><s:VR>R. </s>In sǽcula sæculórum laudábunt te.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed are they that dwell in thy house, O Lord. </p>
-      <p:BodyE><s:VR>R. </s>They shall praise thee for ever and ever.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/beati_qui_habitant_in_domo_tua_domine.php');
+?>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Jn 1:14,16</p>
    <table>
@@ -304,19 +294,9 @@
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Head3>Hymn</p>
 <?php hymn('o_gente_felix_hospita.php'); ?>
-   <p:RubricHidden><t>Is 54:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ponam univérsos fílios tuos doctos a Dómino.</p>
-      <p:BodyL><s:VR>R. </s>Et multitúdinem pacis fíliis tuis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>All thy children shall be taught of the Lord.</p>
-      <p:BodyE><s:VR>R. </s>and great shall be the peace of thy children.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
+?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -333,90 +313,17 @@
    <p:BodySm/>
    <p:Head2>ad Primam</p>
    <p:Rubric>Ant 1 from Lauds is used.</p>
-   <p:RubricH>In the short response, [<s:VR>V</s>.] is replaced with:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui Maríæ et Joseph súbditus fuísti.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Who subjected thyself to Mary and Joseph.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	PrV('qui_mariae_et_joseph_subditus_fuisti.php'); 
+?>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers.</p>
-   <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>II Cor. 8:9, Is. 2:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Propter nos egénus factus est: * Cum esset dives.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>For our sake he became poor, * Being rich.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Propter nos...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>For our sake...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ut illíus inópia nos dívites essémus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>that through his poverty we might be rich.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Cum esset dives.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Being rich.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Propter nos...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>For our sake...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dóminus vias suas docébit nos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord will teach us his ways.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et ambulábimus in sémitis ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And we will walk in his paths.</p>
-     </td>
-    </tr>
-   </table>
-   <p:BodySm/>
+<?php 
+	brS('PrTemp/propter_nos_egenus_factus_est_cum_esset_dives.php');
+	vrS('PrTemp/dominus_vias_suas_docebit_nos.php');
+?>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
@@ -434,74 +341,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Is. 2:3, Ps. 87:16</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Dóminus vias suas * Docébit nos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord * Will teach us his ways.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Dóminus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et ambulábimus in sémitis ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And we will walk in his paths.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Docébit nos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Will teach us his ways.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Dóminus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Pauper sum ego, et in labóribus a juventúte mea.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I am poor, and in labours from my youth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Exaltátus autem humiliátus sum, et conturbátus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And being exalted have been humbled and troubled.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	brS('PrTemp/dominus_vias_suas_docebit_nos.php');
+	vrS('PrTemp/pauper_sum_ego_et_in_laboribus_a_juventute_mea.php');
+?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
@@ -519,92 +362,18 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps. 87:16, Is 54:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Pauper sum ego, * Et in labóribus a juventúte mea.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I am poor, * And in labours from my youth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Pauper sum ego...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I am poor...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Exaltátus autem humiliátus sum, et conturbátus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And being exalted have been humbled and troubled.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et in labóribus a juventúte mea.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And in labours from my youth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Pauper sum ego...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I am poor...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ponam univérsos fílios tuos doctos a Dómino.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>All thy children shall be taught of the Lord</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et multitúdinem pacis fíliis tuis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And great shall be the peace of thy children.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	brS('PrTemp/pauper_sum_ego_et_in_laboribus_a_juventute_mea.php');
+	vrS('PrTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
+?>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Rubric>Antiphons as in Lauds.</p>
 <?php rubrics('ps/ComBVM.php'); ?>
    <p:RubricH>Little Chapter &amp; Hymn as in I Vespers, with the following response:</p>
-   <p:RubricHSm><t>Is 54:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ponam univérsos fílios tuos doctos a Dómino.</p>
-      <p:BodyL><s:VR>R. </s>Et multitúdinem pacis fíliis tuis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>All thy children shall be taught of the Lord.</p>
-      <p:BodyE><s:VR>R. </s>and great shall be the peace of thy children.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
+?>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Lk 2:19</p>
    <table>
@@ -624,8 +393,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Epiphanytide</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Epiphanytide',2); ?>
    <p:Head1NI>Die 7 Januarii</p>
    <p:Head2>IV classis</p>
    <p:BodySm/>
@@ -669,8 +438,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Epiphanytide</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Epiphanytide',2); ?>
    <p:Head1NI>Die 8 Januarii</p>
    <p:Head2>IV classis</p>
    <p:BodySm/>
@@ -724,8 +493,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Epiphanytide</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Epiphanytide',2); ?>
    <p:Head1NI>Die 9 Januarii</p>
    <p:Head2>IV classis</p>
    <p:BodySm/>
@@ -759,8 +528,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Epiphanytide</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Epiphanytide',2); ?>
    <p:Head1NI>Die 10 Januarii</p>
    <p:Head2>IV classis</p>
    <p:BodySm/>
@@ -794,8 +563,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Epiphanytide</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Epiphanytide',2); ?>
    <p:Head1NI>Die 11 Januarii</p>
    <p:Head2>IV classis</p>
    <p:BodySm/>
@@ -827,19 +596,9 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm><t>Ps 91:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Justus ut palma florébit.</p>
-      <p:BodyL><s:VR>R. </s>Sicut cedrus Líbani multiplicábitur.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The just shall flourish like the palm tree.</p>
-      <p:BodyE><s:VR>R. </s>He shall grow up like the cedar of Libanus.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('justus_ut_palma_florebit.php');
+?>
    <p:BodySm/>
    <table>
     <tr>
@@ -867,8 +626,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Epiphanytide</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Epiphanytide',2); ?>
    <p:Head1NI>Die 12 Januarii</p>
    <p:Head2>IV classis</p>
    <p:BodySm/>
@@ -904,8 +663,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>Baptism of our Lord</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('Baptism of our Lord',2); ?>
    <p:Head1>Baptismatis D.N.J.C.</p>
    <p:Head2>January 13 - II classis</p>
    <p:Rubric>If the commemoration of the Baptism of our Lord falls on Sunday, the Office of the feast of the Holy Family is said without any commemoration.</p>
@@ -937,8 +696,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Epiphany</p>
-   <p:Hidden2>First Sunday after the Epiphany</p>
+<?php hidden('Epiphany',1); ?>
+<?php hidden('First Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica I Post Epiphaniam</p>
    <p:Head2>II classis</p>
    <p:Rubric>The Office is said of the Holy Family, without commemoration of the Sunday.</p>

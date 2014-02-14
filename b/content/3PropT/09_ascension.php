@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Ascensionis</p>
    <p:Body/>
-   <p:Hidden1>Ascensiontide</p>
-   <p:Hidden2>The Ascension of the Lord</p>
+<?php hidden('Ascensiontide',1); ?>
+<?php hidden('The Ascension of the Lord',2); ?>
    <p:Head1>in Ascensione Domini</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -132,8 +132,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Ascensiontide</p>
-   <p:Hidden2>The Sunday after the Ascension</p>
+<?php hidden('Ascensiontide',1); ?>
+<?php hidden('The Sunday after the Ascension',2); ?>
    <p:Head1>Dominica Post Ascensionem</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -263,8 +263,8 @@
    <p:Body/>
 <?php img('Tempore/t06_pentecost.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Pentecost</p>
-   <p:Hidden2>Pentecost</p>
+<?php hidden('Pentecost',1); ?>
+<?php hidden('Pentecost',2); ?>
    <p:Head2>I classis cum octava I classis</p>
    <p:Head2>Collect</p>
    <table>
@@ -297,19 +297,9 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('veni_creator_spiritus.php',0); ?>
-	<p:RubricHidden><t>Acts 2:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Repléti sunt omnes Spíritu Sancto, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et cœpérunt loqui, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>They were all filled with the Holy Ghost, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And they began to speak, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+?>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Jn 14:18,28, 16:22</p>
    <table>
@@ -374,19 +364,9 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Head3>Hymn</p>
 <?php hymn('beata_nobis_gaudia.php'); ?>
-   <p:RubricHidden><t>Acts 2:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Repléti sunt omnes Spíritu Sancto, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et cœpérunt loqui, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>They were all filled with the Holy Ghost, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And they began to speak, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+?>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>Jn 20:22</p>
    <table>
@@ -408,74 +388,10 @@
    <p:Body><sr>Hymn </s>Veni Creátor Spíritus<sr>, as in I Vespers.</s></p>
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers</p>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Sap 1:7, Jn 14:26</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Spíritus Dómini replévit orbem terrárum, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Spirit of the Lord hath filled the whole world, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Spíritus Dómini...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Spirit...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et hoc quod cóntinet ómnia, sciéntiam habet vocis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And that, which containeth all things, hath knowledge of the voice.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Spíritus Dómini...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Spirit...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Spíritus Paráclitus, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Spirit, the Paraclete, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Docébit vos ómnia, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Will teach you all things, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/spiritus_domini_replevit_orbem_terrarum.php',1);
+	vrS('PrTemp/spiritus_paraclitus.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
@@ -493,74 +409,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Jn 14:26, Acts 2:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Spíritus Paráclitus, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Spirit, the Paraclete, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Spíritus Paráclitus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Spirit...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Docébit vos ómnia.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Will teach you all things.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Spíritus Paráclitus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The Spirit...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Repléti sunt omnes Spíritu Sancto, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>They were all filled with the Holy Ghost, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et cœpérunt loqui, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And they began to speak, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/spiritus_paraclitus.php',1);
+	vrS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
@@ -578,74 +430,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Acts 2:4,11</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Repléti sunt omnes Spíritu Sancto, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>They were all filled with the Holy Ghost, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Repléti sunt...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>They were...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et cœpérunt loqui.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And they began to speak.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Repléti sunt...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>They were...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Loquebántur váriis linguis Apóstoli, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Apostles spoke with divers tongues, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Magnália Dei, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The wonderful works of God, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+	vrS('PrTemp/loquebantur_variis_linguis_apostoli.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Rubric>Antiphons as in Lauds.</p>

@@ -1,2 +1,2 @@
-Ego dixi: Dómine, miserére mei.
+Ego dixi: Dómine, * miserére mei.
 Sana ánimam meam, quia peccávi tibi.

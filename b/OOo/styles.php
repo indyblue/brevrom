@@ -13,14 +13,14 @@ if($_GET['Style']=='7') {
 	$PgGMar = .25;
 	$Body = 9;
 } elseif($_GET['Style']=='L5') {
-	$PgW = 5.5 + .125;
-	$PgH = 8.5 + .125;
+	$PgW = 5.5 + .25;
+	$PgH = 8.5 + .25;
 	$PgMar = .25 + .125;
 	$PgGMar = .75;
 	$Body = 9;
 } elseif($_GET['Style']=='L8') {
-	$PgW = 8.5 + .125;
-	$PgH = 11 + .125;
+	$PgW = 8.5 + .25;
+	$PgH = 11 + .25;
 	$PgMar = .4 + .125;
 	$PgGMar = .75;
 	$Body = 12;
@@ -33,11 +33,12 @@ if($_GET['Style']=='7') {
 }
 
 	$BodySm = $Body - 1;
+	$RubricHSm = $Body - 1.5;
 	$HymnR = $Body + 1;
-	$Head1 = $Body * 2;
-	$Head0 = $Head1 + 4;
-	$Head2 = $Body + 1.5;
-	$Head3 = $Body + .8;
+	$Head1 = $Body * 1.9;
+	$Head0 = $Head1 + 2;
+	$Head2 = $Body * 1.1;
+	$Head3 = $Body * 1.1;
 /*	
 RubricHSm		$BodySm
 HymnS				4
@@ -47,12 +48,12 @@ Spacer			2
  <office:font-face-decls>
   <style:font-face style:name="Old London" svg:font-family="&apos;Old London&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="Times VR" svg:font-family="&apos;Times VR&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="TimesLatin" svg:font-family="TimesLatin" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="TimesLT" svg:font-family="TimesLT" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:style style:name="Standard" style:family="paragraph" style:class="text">
-	<style:text-properties style:font-name="TimesLatin"/>
+	<style:text-properties style:font-name="TimesLT"/>
   </style:style>
 
   <style:style style:name="Body" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
@@ -106,7 +107,7 @@ Spacer			2
    <style:paragraph-properties style:page-number="auto" fo:keep-with-next="always"/>
   </style:style>
   <style:style style:name="RubricHSm" style:family="paragraph" style:parent-style-name="RubricH">
-   <style:text-properties fo:font-size=<?php echo '"'. $BodySm .'pt"' ?>/>
+   <style:text-properties fo:font-size=<?php echo '"'. $RubricHSm .'pt"' ?>/>
   </style:style>
   <style:style style:name="RubricHidden" style:family="paragraph" style:parent-style-name="Body">
    <style:paragraph-properties fo:keep-with-next="always"/>
@@ -130,7 +131,7 @@ Spacer			2
   </style:style>
 
   <style:style style:name="Head0" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0.04in" fo:margin-bottom="0.04in" fo:text-align="center" fo:keep-with-next="always"/>
+   <style:paragraph-properties fo:margin-top="0.00in" fo:margin-bottom="0.00in" fo:text-align="center" fo:keep-with-next="always"/>
 	<style:text-properties style:font-name="Old London" fo:font-size=<?php echo '"'. $Head0 .'pt"' ?>/>
   </style:style>
   <style:style style:name="Head0L" style:family="paragraph" style:parent-style-name="Head0">
@@ -156,8 +157,8 @@ Spacer			2
      <style:text-properties text:display="true"/>
   </style:style>
 
-  <style:style style:name="Head2Ps" style:family="paragraph" style:parent-style-name="Head2"/>
-  <style:style style:name="Head2Cant" style:family="paragraph" style:parent-style-name="Head2"/>
+  <style:style style:name="Head2Ps" style:family="paragraph" style:parent-style-name="Head4"/>
+  <style:style style:name="Head2Cant" style:family="paragraph" style:parent-style-name="Head4"/>
 
   <style:style style:name="Head3" style:family="paragraph" style:parent-style-name="Head2">
    <style:text-properties fo:font-size=<?php echo '"'. $Head3 .'pt"' ?> fo:font-style="italic" fo:font-weight="normal"/>

@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Passionis</p>
    <p:Body/>
-   <p:Hidden1>Passiontide</p>
-   <p:Hidden2>First Sunday of Passiontide</p>
+<?php hidden('Passiontide',1); ?>
+<?php hidden('First Sunday of Passiontide',2); ?>
    <p:Head1>Dominica I Passionis</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -505,8 +505,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Passiontide</p>
-   <p:Hidden2>Second Sunday of Passiontide</p>
+<?php hidden('Passiontide',1); ?>
+<?php hidden('Second Sunday of Passiontide',2); ?>
    <p:Head1>Dominica II Passionis</p>
    <p:Head2>SEU IN PALMIS</p>
    <p:Head2>I classis</p>
@@ -874,27 +874,17 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Passiontide</p>
-   <p:Hidden2>Holy Thursday</p>
+<?php hidden('Passiontide',1); ?>
+<?php hidden('Holy Thursday',2); ?>
    <p:Head1>Feria Quinta in Cena Domini</p>
    <p:Head2>I classis</p>
    <p:Rubric>From Matins of this feria up until Compline of Holy Saturday, at all the Hours, the <snr>Glória Patri</s> is omitted at the end of the psalms.</p>
    <p:Head2>ad Laudes</p>
    <p:Rubric>Lauds are begun immediately from the first antiphon. The psalms and proper antiphons are given in Thursday Lauds II of the Psalter.</p>
    <p:Rubric>The little chapter and hymn are not said.</p>
-   <p:RubricHSm><t>Ps 40:10</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Homo pacis meæ, in quo sperávi.</p>
-      <p:BodyL><s:VR>R. </s>Qui edébat panes meos, ampliávit advérsum me supplantatiónem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The man of peace, in whom I trusted</p>
-      <p:BodyE><s:VR>R. </s>Who ate my bread, hath greatly supplanted me.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/homo_pacis_meae_in_quo_speravi.php');
+?>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>Mt 26:48</p>
    <table>
@@ -1018,27 +1008,17 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Passiontide</p>
-   <p:Hidden2>Good Friday</p>
+<?php hidden('Passiontide',1); ?>
+<?php hidden('Good Friday',2); ?>
    <p:Head1>Feria Sexta in Passione</p>
    <p:Head2>ET MORTE DOMINI</p>
    <p:Head2>I classis</p>
    <p:Head2>ad Laudes</p>
    <p:Rubric>Lauds are begun immediately from the first antiphon. The psalms and proper antiphons are given in Friday Lauds II of the Psalter.</p>
    <p:RubricH>The little chapter and hymn are not said.</p>
-	<p:RubricHidden><t>Ps 142:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Collocávit me in obscúris.</p>
-      <p:BodyL><s:VR>R. </s>Sicut mórtuos sǽculi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He hath made me to dwell in darkness</p>
-      <p:BodyE><s:VR>R. </s>As those that have been dead of old:</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/collocavit_me_in_obscuris.php');
+?>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>Jn 19:19</p>
    <table>
@@ -1161,26 +1141,16 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Passiontide</p>
-   <p:Hidden2>Holy Saturday</p>
+<?php hidden('Passiontide',1); ?>
+<?php hidden('Holy Saturday',2); ?>
    <p:Head1>Sabbato Sancto</p>
    <p:Head2>I classis</p>
    <p:Head2>ad Laudes</p>
    <p:Rubric>Lauds are begun immediately from the first antiphon. The psalms and proper antiphons are given in Saturday Lauds II of the Psalter.</p>
    <p:RubricH>The little chapter and hymn are not said.</p>
-	<p:RubricHidden><t>Ps 15:9</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Caro mea requiéscet in spe.</p>
-      <p:BodyL><s:VR>R. </s>Et nec dabis sanctum tuum vidére corruptiónem.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>My flesh shall rest in hope.</p>
-      <p:BodyE><s:VR>R. </s>And nor wilt then give thy holy one to see corruption.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/caro_mea_requiescet_in_spe.php');
+?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>

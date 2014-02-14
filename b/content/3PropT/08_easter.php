@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Paschatis</p>
    <p:Body/>
-   <p:Hidden1>Paschaltide</p>
-   <p:Hidden2>Easter Sunday</p>
+<?php hidden('Paschaltide',1); ?>
+<?php hidden('Easter Sunday',2); ?>
    <p:Head1>Dominica Resurrectionis</p>
    <p:Head2>I classis cum octava I classis</p>
    <p:Rubric>There is no kneeling throughout Paschaltide.</p>
@@ -448,8 +448,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Paschaltide</p>
-   <p:Hidden2>Low Sunday</p>
+<?php hidden('Paschaltide',1); ?>
+<?php hidden('Low Sunday',2); ?>
    <p:Head1>Dominica in Albis</p>
    <p:Head2>I classis</p>
    <p:Rubric>With Vespers of this Saturday, the Divine Office assumes its normal Paschaltide form, as given in the Ordinary and the Psalter. </p>
@@ -723,8 +723,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Paschaltide</p>
-   <p:Hidden2>Second Sunday after Easter</p>
+<?php hidden('Paschaltide',1); ?>
+<?php hidden('Second Sunday after Easter',2); ?>
    <p:Head1>Dominica II Post Pascha</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -998,8 +998,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Paschaltide</p>
-   <p:Hidden2>Third Sunday after Easter</p>
+<?php hidden('Paschaltide',1); ?>
+<?php hidden('Third Sunday after Easter',2); ?>
    <p:Head1>Dominica III Post Pascha</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -1272,8 +1272,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Paschaltide</p>
-   <p:Hidden2>Fourth Sunday after Easter</p>
+<?php hidden('Paschaltide',1); ?>
+<?php hidden('Fourth Sunday after Easter',2); ?>
    <p:Head1>Dominica IV Post Pascha</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -1547,8 +1547,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Paschaltide</p>
-   <p:Hidden2>Fifth Sunday after Easter</p>
+<?php hidden('Paschaltide',1); ?>
+<?php hidden('Fifth Sunday after Easter',2); ?>
    <p:Head1>Dominica V Post Pascha</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>

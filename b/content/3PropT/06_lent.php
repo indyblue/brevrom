@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Quadragesimæ</p>
    <p:Body/>
-   <p:Hidden1>Lent</p>
-   <p:Hidden2>Ash Wednesday</p>
+<?php hidden('Lent',1); ?>
+<?php hidden('Ash Wednesday',2); ?>
    <p:Head1>Feria IV Cinerum</p>
    <p:Head2>I classis</p>
    <p:Rubric>On this and the other ferias until None of the following Saturday inclusive, everything is said as on the preceding ferias after Septuagesima, except those things which are here given as proper.</p>
@@ -195,8 +195,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH></p>
-   <p:Hidden1>Lent</p>
-   <p:Hidden2>First Sunday of Lent</p>
+<?php hidden('Lent',1); ?>
+<?php hidden('First Sunday of Lent',2); ?>
    <p:Head1>Dominica I in Quadragesima</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -700,8 +700,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH></p>
-   <p:Hidden1>Lent</p>
-   <p:Hidden2>Second Sunday of Lent</p>
+<?php hidden('Lent',1); ?>
+<?php hidden('Second Sunday of Lent',2); ?>
    <p:Head1>Dominica II in Quadragesima</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -1191,8 +1191,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH></p>
-   <p:Hidden1>Lent</p>
-   <p:Hidden2>Third Sunday of Lent</p>
+<?php hidden('Lent',1); ?>
+<?php hidden('Third Sunday of Lent',2); ?>
    <p:Head1>Dominica III in Quadragesima</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -1693,8 +1693,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH></p>
-   <p:Hidden1>Lent</p>
-   <p:Hidden2>Lætare Sunday</p>
+<?php hidden('Lent',1); ?>
+<?php hidden('Lætare Sunday',2); ?>
    <p:Head1>Dominica IV in Quadragesima</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>

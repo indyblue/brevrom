@@ -36,8 +36,7 @@
 		array('csPope1.php','Marcum','Mark')); 
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('ps/Feria.php'); 
+	rubrics('ps/LittleHoursFeria.php');
 	PrV('qui_natus_es_de_maria_virgine.php'); 
 
 	hour('T'); 

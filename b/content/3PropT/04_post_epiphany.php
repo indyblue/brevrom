@@ -4,8 +4,8 @@
    <p:Body/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Per Annum</p>
-   <p:Hidden2>Second Sunday after the Epiphany</p>
+<?php hidden('Per Annum',1); ?>
+<?php hidden('Second Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica II Post Epiphaniam</p>
    <p:Head2>II classis</p>
    <p:BodySm/>
@@ -53,8 +53,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Per Annum</p>
-   <p:Hidden2>Third Sunday after the Epiphany</p>
+<?php hidden('Per Annum',1); ?>
+<?php hidden('Third Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica III Post Epiphaniam</p>
    <p:Head2>II classis</p>
    <p:BodySm/>
@@ -103,8 +103,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Per Annum</p>
-   <p:Hidden2>Fourth Sunday after the Epiphany</p>
+<?php hidden('Per Annum',1); ?>
+<?php hidden('Fourth Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica IV Post Epiphaniam</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -152,8 +152,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Per Annum</p>
-   <p:Hidden2>Fifth Sunday after the Epiphany</p>
+<?php hidden('Per Annum',1); ?>
+<?php hidden('Fifth Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica V Post Epiphaniam</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -201,8 +201,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Per Annum</p>
-   <p:Hidden2>Sixth Sunday after the Epiphany</p>
+<?php hidden('Per Annum',1); ?>
+<?php hidden('Sixth Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica VI Post Epiphaniam</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>

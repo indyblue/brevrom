@@ -56,13 +56,13 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 
 
 //  <p:Hidden1>' . $Edate . ' - ' .$nameE .'</p>
+	hidden('Proper of Saints',1);
+	hidden($Edate);
 	echo '
-  <p:Hidden1>Proper of Saints</p>
-  <p:Hidden2>' . $Edate .'</p>
   <text:p text:style-name="Head1' . 
   ($class==1&&$class==2?'':'NI') . '">' . ($_GET['L']==1?$nameL:$nameE) .'</p>
   <text:p text:style-name="Head5">' . ($_GET['L']==1?$nameE:$nameL) .'</p>
-  <p:Head2>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Edate:$Edate) .'</p>
+  <p:Head4>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Edate:$Edate) .'</p>
 ';
 
 }
@@ -121,7 +121,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			$prayer = sprintf("prSanct/%04s.php",$date);
 	
 	// find appropriate common
-	$pl=0; $fem=0; $mart=0; $doct=0; 
+	$pl=0; $fem=0; $mart=0; $doct=0; $LantP='';
 	if(strpos($type,'+')!==false) $pl = 1;
 	//this only changes the value of $pt if it is still
 	//set to 0; the date method above is preferable,
@@ -221,7 +221,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	for($i=0;$i<strlen($type);$i++) {
 		$tmp = substr($type,$i,1);
 		if($tmp=='-') $i++;
-		if(strlen($Lcl[$tmp])) {
+		if(array_key_exists($tmp,$Lcl)) {
 			$Ltype .= (strlen($Ltype)?', ':'') . $Lcl[$tmp];
 			$Etype .= (strlen($Etype)?', ':'') . $Ecl[$tmp];
 		}

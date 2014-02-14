@@ -16,8 +16,7 @@
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1130.php'); ?>
    <p:BodySm/>
-<?php rubrics('head/LittleHours.php'); ?>
-<?php rubrics('ps/Feria.php'); ?>
+<?php rubrics('ps/LittleHoursFeria.php'); ?>
    <p:BodySm/>
 
 <?php hour('T'); ?>

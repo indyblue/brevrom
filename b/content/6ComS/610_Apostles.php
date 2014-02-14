@@ -71,7 +71,7 @@
 	psalm('125.php');
 	space('Spacer');
 	ant('csApL.php','00012');
-	psalm('138',1);
+	psalm('138');
 	space('Spacer');
 	ant('csApL.php','00001');
 	lc('eph2_19.php');

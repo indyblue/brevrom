@@ -26,6 +26,8 @@ $regex=array(
 	'/<sr>/',
 	'/<snr>/',
 	'/<sb>/',
+	'/<p:Hidden1>/',
+	'/<p:Hidden2>/',
 	'/<p:([^\/>]*)/',
 	'/<\/p>/',
 	'/<s:([^\/>]*)/',
@@ -49,6 +51,8 @@ $repl=array(
 	'<s:Rubric>',
 	'<s:NonRubric>',
 	'<s:Bold>',
+	'<text:p text:style-name="Hidden1" text:outline-level="1">',
+	'<text:p text:style-name="Hidden2" text:outline-level="2">',
 	'<text:p text:style-name="\1"',
 	'</text:p>',
 	'<text:span text:style-name="\1"',
@@ -64,10 +68,10 @@ $repl=array(
 	'<text:tab/>',
 	'De­us', 'ti­bi', 'tu­am', 'tu­um', 
 	'me­am', 'me­us', 'me­um', 'mi­hi',
-	'cötui', 'cötibus', 'födera', 'födere', 'föderis', 'fötidum',
-	'pönitens',
+	'cõtui', 'cõtibus', 'fõdera', 'fõdere', 'fõderis', 'fõtidum',
+	'põnitens',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',
-	'ä', 'ô'
+	'ã', 'ô'
 );
 
 $txtContent = preg_replace($regex,$repl,$txtContent);
@@ -122,7 +126,7 @@ $zip->addFile("./OOo/Object 2/settings.xml","Object 2/settings.xml");
 $zip->addFile("./OOo/Object 2/styles.xml","Object 2/styles.xml");
 
 echo $_GET['Style'];
-echo $i;
+// echo $i;
 
 // echo (int)'';
 //echo "numfiles: " . $zip->numFiles . "\n";

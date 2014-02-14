@@ -23,8 +23,7 @@
 <?php prayer('prSanct/0915c.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('head/LittleHours.php'); ?>
-<?php rubrics('ps/Feria.php'); ?>
+<?php rubrics('ps/LittleHoursFeria.php'); ?>
 <?php PrV('qui_passus_es_propter_nostram_salutem.php'); ?>
 	<p:BodySm/>
 

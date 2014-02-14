@@ -29,8 +29,7 @@
 	rubrics('prSanct/comm_lent.php');
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('prSanct/1classLittleHours.php'); 
+	rubrics('ps/LittleHoursFeast.php');
 	PrV('qui_natus_es_de_maria_virgine.php'); 
 
 	hour('T'); 

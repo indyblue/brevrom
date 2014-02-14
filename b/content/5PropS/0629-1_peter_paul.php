@@ -28,8 +28,7 @@
 	prayer('prSanct/0629.php');
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('prSanct/1classLittleHours.php'); 
+	rubrics('ps/LittleHoursFeast.php');
 
 	hour('T'); 
 	lc('acts12_1-3.php');
@@ -52,6 +51,7 @@
 	hour('2V'); 
 	rubrics('ps/ComAp+a.php');
 	lc('acts12_1-3.php');
+	rubrics('head/HymnVerse.php');
 	hymn('decora_lux_aeternitatis_auream.php',0);
 	vrS('annuntiaverunt_opera_dei.php');
 	ant('prSanct/0629m2.php','M');

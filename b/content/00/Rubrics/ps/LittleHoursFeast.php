@@ -1,1 +1,1 @@
-	<p:Rubric>At the Little Hours, the psalms are of Sunday; except at Prime, Psalm 53 is said in the first place, in place of Psalm 117.</p>
+	<p:Rubric>At the Little Hours, Antiphons 1, 2, 3 &amp; 5 from Lauds are used at Prime, Terce, Sext &amp; None, respectively. The psalms are of Sunday; except at Prime, Psalm 53 is said in the first place, in place of Ps 117.</p>

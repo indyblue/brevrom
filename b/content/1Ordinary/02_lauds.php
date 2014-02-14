@@ -37,14 +37,15 @@ Saturday (<snr>'. bkref('psSL2') .'</s>).');
 	head('De cantico <snr>Benedíctus</s>','The canticle <snr>Benedíctus</s>',2);
 	rubp('<snr>15</s> Recitato versu, dicitur cum antiphona convenienti sequens:',
 		'<snr>15</s> After reciting the versicle, recite, with the proper antiphon, the following:');
+	bookmark('benedictus');
 	canticle('benedictus.php');
 
 	head('De precibus','The Preces, or Prayers',2);
 	rubp('<snr>16</s> Quando, juxta rubricas (n. 260), preces sunt dicendæ post repetitam antiphonam ad <snr>Benedíctus</s>, dicitur, flexis genibus.',
 		'<snr>16</s> When, according to the rubrics (n. 260), the preces are to be said, after the antiphon at the <snr>Benedíctus</s> is repeated , say the Preces, while kneeling.');
-	rubp('<snr>Rub 260</s> Preces dicuntur tantum in Officiis de Tempore, et quidem: (a) in Laudibus et Vesperis feriæ IV et VI temporis Adventus, Quadragesimæ et Passionis; (b) in Laudibus et Vesperis feriæ IV et VI Quatuor Temporum mensis septembris; (c) in Laudibus sabbatorum Quatuor Temporum, excepto sabbato infra octavam Pentecostes.',
-		'<snr>Rub 260</s> The preces are said only in Offices of the season, and then only: (a) in Lauds and Vespers of Wed. and Fri. in the seasons of Advent, Lent and Passiontide; (b) in Lauds and Vespers of the Ember Wed. and Fri. in September; (c) in Lauds of Ember Saturdays, except the Saturday in the octave of Pentecost.');
-	bookmark('precesL');
+	rubp('<snr>R.260</s> Preces dicuntur tantum in Officiis de Tempore, et quidem: (a) in Laudibus et Vesperis feriæ IV et VI temporis Adventus, Quadragesimæ et Passionis; (b) in Laudibus et Vesperis feriæ IV et VI Quatuor Temporum mensis septembris; (c) in Laudibus sabbatorum Quatuor Temporum, excepto sabbato infra octavam Pentecostes.',
+		'<snr>R.260</s> The preces are said only in Offices of the season, and then only: (a) in Lauds and Vespers of Wed. and Fri. in the seasons of Advent, Lent and Passiontide; (b) in Lauds and Vespers of the Ember Wed. and Fri. in September; (c) in Lauds of Ember Saturdays, except the Saturday in the octave of Pentecost.');
+	bookmark('preces');
 	vr('preces.php');
 	space('line');
 

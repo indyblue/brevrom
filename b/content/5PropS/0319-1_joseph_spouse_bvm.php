@@ -31,7 +31,7 @@
 	rubrics('prSanct/comm_lent.php');
 
 	space();
-	rubrics('prSanct/1classLittleHours.php');
+	rubrics('ps/LittleHoursFeast.php');
 
 	hour('T');
 	lc('prov28_20_27_18.php');
@@ -44,7 +44,7 @@
 	
 	space();
 	hour('S');
-	lc('eccli45_1_4.php');
+	lc('eccl45_1_4.php');
 	rubrics('head/PTnot.php'); 
 	brS('prSanct/magna_est_gloria_ejus_in_salutari_tuo.php');
 	vrS('prSanct/justus_germinabit_sicut_lilium.php');
@@ -54,7 +54,7 @@
 
 	space();
 	hour('N');
-	lc('sap10_10.php');
+	lc('wis10_10_profugum.php');
 	rubrics('head/PTnot.php'); 
 	brS('prSanct/justus_germinabit_sicut_lilium.php');
 	vrS('prSanct/plantatus_in_domo_domini.php');

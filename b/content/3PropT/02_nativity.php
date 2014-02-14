@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Nativitatis</p>
    <p:Body/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>Christmas - Dec. 25</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('Christmas - Dec. 25',2); ?>
    <p:Head1>in Nativitate Domini</p>
    <p:Head2>Dec. 25 - I classis cum octava II classis</p>
    <p:Head2>Collect</p>
@@ -65,34 +65,12 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Titus 3:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>APPÁRUIT benígnitas, et humánitas Salvatóris nostri Dei: non ex opéribus justítiæ, quæ fécimus nos, sed secúndum suam misericórdiam salvos nos fecit.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>WHEN the goodness and kindness of God our Saviour appeared: not by the works of justice, which we have done, but according to his mercy, he saved us</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('tit3_4.php'); ?>
    <p:Head3>Hymn</p>
    <p:Rubric>As in Ordinary of Christmas, with the following response:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Crástina die delébitur iníquitas terræ.</p>
-      <p:BodyL><s:VR>R. </s>Et regnábit super nos Salvátor mundi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>To-morrow the iniquity of the earth shall be blotted out.</p>
-      <p:BodyE><s:VR>R. </s>And the Saviour of the world shall reign over us.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/crastina_die_delebitur_iniquitas_terrae.php');
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -154,34 +132,12 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Heb. 1:1-2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>MULTIFÁRIAM, multísque modis olim Deus loquens pátribus in prophétis: novíssime diébus istis locútus est nobis in Fílio, quem constítuit herédem universórum, per quem fecit et sǽcula.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>GOD, who, at sundry times and in divers manners, spoke in times past to the fathers by the prophets, last of all, in these days hath spoken to us by his Son, whom he hath appointed heir of all things, by whom also he made the world.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('hebr1_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Ordinary of Christmas, with the following response:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Notum fecit Dóminus, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Salutáre suum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord hath made known, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>His salvation, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/notum_fecit_dominus.php',1);
+?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -195,7 +151,7 @@
    </table>
    <p:Body/>
    <p:Head2>ad Tértiam</p>
-   <p:Rubric>Little Chapter as in I Vespers</p>
+<?php lc('hebr1_1-2.php'); ?>
    <p:Rubric>Brief Respond as in Ordinary of Christmas</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
@@ -310,22 +266,12 @@
     </tr>
    </table>
    <p:Rubric>The foregoing psalms with their antiphons are said at Vespers throughout the whole octave of Christmas, except the octave day of Christmas (Dec. 31 &amp; Jan 1); but from the little chapter on, the current Office is said.</p>
-   <p:Head3>Little Chapter</p>
-   <p:Rubric>As in Lauds.</p>
+<?php lc('hebr1_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:Rubric>As in Ordinary of Christmas, with the following response:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Notum fecit Dóminus, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Salutáre suum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord hath made known, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>His salvation, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/notum_fecit_dominus.php',1);
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -344,8 +290,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>Sunday in Octave of Christmas</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('Sunday in Octave of Christmas',2); ?>
    <p:Head1>Dominica infra Oct. Nativitatis</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -363,34 +309,12 @@
    <p:Head2>ad I Vésperas</p>
    <p:Head3>Psalms with Antiphons</p>
 <?php rubrics('ps/PrNativity.php'); ?>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Gal. 4:1-2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>FRATRES: Quanto témpore heres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus et actóribus est usque ad præfinítum tempus a patre.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BRETHREN: As long as the heir is a child, he differeth nothing from a servant, though he be lord of all; But is under tutors and governors until the time appointed by the father.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('gal4_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Ordinary of Christmas</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbum caro factum est, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et habitávit in nobis, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Word was made flesh, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And dwelt amongst us, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/verbum_caro_factum_est.php',1);
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -406,22 +330,12 @@
    <p:Head2>ad Laudes</p>
    <p:Rubric>Antiphons as in Lauds of Christmas</p>
 <?php rubrics('ps/SuL1.php'); ?>
-   <p:Head3>Little Chapter</p>
-   <p:Rubric>As in I Vespers</p>
+<?php lc('gal4_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:Rubric>As in Ordinary of Christmas</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbum caro factum est, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et habitávit in nobis, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Word was made flesh, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And dwelt amongst us, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/verbum_caro_factum_est.php',1);
+?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -436,66 +350,29 @@
    <p:Rubric>Commemoration is not made of the Octave of Christmas</p>
    <p:Body/>
    <p:Head2>ad Tértiam</p>
-   <p:Head3>Little Chapter</p>
-   <p:Rubric>As in Lauds</p>
+<?php lc('gal4_1-2.php'); ?>
    <p:Head3>Brief Response</p>
    <p:Rubric>As in Ordinary of Christmas</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Gal 4:4-5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>AT ubi venit plenitúdo témporis, misit Deus Fílium suum factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>BUT when the fulness of the time was come, God sent his Son, made of a woman, made under the law: That he might redeem them who were under the law: that we might receive the adoption of sons.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('gal4_4-5.php'); ?>
    <p:Head3>Brief Response</p>
    <p:Rubric>as in Ordinary of Christmas</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Gal 4:7</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>ÍTAQUE jam non est servus, sed fílius: quod si fílius, et heres per Deum.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>THEREFORE now he is not a servant, but a son. And if a son, an heir also through God.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('gal4_7.php'); ?>
    <p:Head3>Brief Response</p>
    <p:Rubric>as in Ordinary of Christmas</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Psalms with Antiphons</p>
 <?php rubrics('ps/PrNativity.php'); ?>
-   <p:Head3>Little Chapter</p>
-   <p:Rubric>As in I Vespers</p>
+<?php lc('gal4_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Ordinary of Christmas</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbum caro factum est, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et habitávit in nobis, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Word was made flesh, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And dwelt amongst us, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/verbum_caro_factum_est.php',1);
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -512,8 +389,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>Octave of Christmas - St. Stephen</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('Octave of Christmas - St. Stephen',2); ?>
    <p:Head1>Sancti Stephani</p>
    <p:Head2>December 26 - II classis</p>
    <p:Rubric>Everything from the Common of One Martyr except as follows.</p>
@@ -543,18 +420,9 @@
     </tr>
    </table>
    <p:RubricHidden><t>Ps. 8:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória et honóre coronásti eum, Dómine.</p>
-      <p:BodyL><s:VR>R. </s>Et constituísti eum super ópera mánuum tuárum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Thou hast crowned him with glory and honour, O Lord.</p>
-      <p:BodyE><s:VR>R. </s>And hast set him over the works of thy hands.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('gloria_et_honore_coronasti_eum_domine.php');
+?>
 	<p:Head3/>
    <p:Head2>ad Laudes</p>
    <p:Head3>Psalms with Antiphons</p>
@@ -603,35 +471,12 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Acts 6:8</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>STÉPHANUS autem plenus grátia et fortitúdine, faciébat prodígia et signa magna in pópulo.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>NOW Stephen, full of grace and fortitude, did great wonders and signs among the people.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('acts6_8.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Common of one Martyr, with the following response:</p>
-	<p:RubricHidden><t>Acts 8:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sepeliérunt Stéphanum viri timoráti.</p>
-      <p:BodyL><s:VR>R. </s>Et fecérunt planctum magnum super eum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Devout men buried Stephen.</p>
-      <p:BodyE><s:VR>R. </s>And made great mourning over him.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/sepelierunt_stephanum_viri_timorati.php');
+?>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>Acts 6:8</p>
    <table>
@@ -656,19 +501,9 @@
      </td>
     </tr>
    </table>
-   <p:BodySm/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Notum fecit Dóminus, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Salutáre suum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord hath made known, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>His salvation, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/notum_fecit_dominus.php',1);
+?>
    <p:BodySm/>
    <table>
     <tr>
@@ -683,60 +518,25 @@
 	<p:BodySm/>
    <p:Rubric>At the Little Hours, antiphons and psalms of the occuring feria.</p>
    <p:Head2>ad Tértiam</p>
-   <p:Rubric>Little Chapter as in Lauds</p>
+<?php lc('acts6_8.php'); ?>
    <p:Rubric>Brief Respond as in Common of one Martyr.</p>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Acts 6:9-10</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>SURREXÉRUNT autem quidam de synagóga, quæ appellátur Libertinórum, et Cyrenénsium, et Alexandrinórum, et eórum qui erant a Cilícia, et Ásia, disputántes cum Stéphano: et non póterant resístere sapiéntiæ, et Spirítui qui loquebátur.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>NOW there arose some of that which is called the synagogue of the Libertines, and of the Cyrenians, and of the Alexandrians, and of them that were of Cilicia and Asia, disputing with Stephen. And they were not able to resist the wisdom and the spirit that spoke.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('acts6_9-10.php'); ?>
    <p:Rubric>Brief Respond as in Common of one Martyr.</p>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
-   <p:Head3>Little Chapter</p>
-   <p:RubricHSm><t>Acts 7:60</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyLDrop>PÓSITIS autem génibus, clamávit voce magna, dicens: Dómine, ne státuas illis hoc peccátum. Et cum hoc dixísset, obdormívit in Dómino.</p>
-      <p:BodyL><s:VR>R. </s>Deo grátias.</p>
-     </td>
-     <td:B1>
-      <p:BodyEDrop>AND falling on his knees, he cried with a loud voice, saying: Lord, lay not this sin to their charge. And when he had said this, he fell asleep in the Lord.</p>
-      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
-     </td>
-    </tr>
-   </table>
+<?php lc('acts7_60.php'); ?>
    <p:Rubric>Brief Respond as in Common of one Martyr.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
 <?php rubrics('ps/PrNativity.php'); ?>
-   <p:Rubric>Little Chapter as in Lauds.</p>
+<?php lc('acts6_8.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Common of one Martyr, with the following response:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Stéphanus vidit cælos apértos.</p>
-      <p:BodyL><s:VR>R. </s>Vidit, et introívit: beátus homo, cui cæli patébant.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Stephen saw the heavens opened</p>
-      <p:BodyE><s:VR>R. </s>He saw and entered in; blessed man, to whom the heavens were opened.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/stephanus_vidit_caelos_apertos.php');
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -768,8 +568,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>Octave of Christmas - St. John</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('Octave of Christmas - St. John',2); ?>
    <p:Head1>Sancti Joannis</p>
    <p:Head2>Apostoli et Evangelistæ<text:line-break/>December 27 - II classis</p>
    <p:Rubric>Everything from the Common of Apostles except as follows.</p>
@@ -852,18 +652,9 @@
    </table>
    <p:Head3>Hymn</p>
    <p:RubricH>as in Common of Apostles, with the following response:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Hic est discípulus ille, qui testimónium pérhibet de his.</p>
-      <p:BodyL><s:VR>R. </s>Et scimus quia verum est testimónium ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>This is that disciple who giveth testimony of these things.</p>
-      <p:BodyE><s:VR>R. </s>And we know that his testimony is true.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/hic_est_discipulus_ille_qui_testimonium_perhibet_de_his.php');
+?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -887,19 +678,9 @@
      </td>
     </tr>
    </table>
-   <p:BodySm/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Notum fecit Dóminus, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Salutáre suum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord hath made known, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>His salvation, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/notum_fecit_dominus.php',1);
+?>
    <p:BodySm/>
    <table>
     <tr>
@@ -956,18 +737,9 @@
    <p:Rubric>Little Chapter as in Lauds</p>
    <p:Head3>Hymn</p>
    <p:RubricH>as in Common of Apostles, with the following response:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Valde honorándus est beátus Joánnes.</p>
-      <p:BodyL><s:VR>R. </s>Qui supra pectus Dómini in cœna recúbuit.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Greatly to be honoured is blessed John.</p>
-      <p:BodyE><s:VR>R. </s>Who leaned at supper on the bosom of the Lord.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/valde_honorandus_est_beatus_joannes.php');
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -999,8 +771,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>Octave of Christmas - Holy Innocents</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('Octave of Christmas - Holy Innocents',2); ?>
    <p:Head1>Ss. Innocentium Martyrum</p>
    <p:Head2>December 28 - II classis</p>
    <p:Rubric>Everything from the Common of many Martyrs (outside Paschaltide) except as follows.</p>
@@ -1083,18 +855,9 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('salvete_flores_martyrum.php'); ?>
-	<table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Heródes irátus occídit multos púeros.</p>
-      <p:BodyL><s:VR>R. </s>In Béthlehem Judæ civitáte David.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Herod being wroth, slew many children.</p>
-      <p:BodyE><s:VR>R. </s>In Bethlehem of Juda the city of David.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/herodes_iratus_occidit_multos_pueros.php');
+?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -1118,19 +881,9 @@
      </td>
     </tr>
    </table>
-   <p:BodySm/>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Notum fecit Dóminus, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Salutáre suum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord hath made known, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>His salvation, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/notum_fecit_dominus.php',1);
+?>
    <p:BodySm/>
    <table>
     <tr>
@@ -1187,18 +940,9 @@
    <p:Rubric>Little Chapter as in Lauds</p>
    <p:Head3>Hymn</p>
    <p:RubricH>as in Lauds, with the following response:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sub throno Dei omnes Sancti clamant.</p>
-      <p:BodyL><s:VR>R. </s>Víndica sánguinem nostrum, Deus noster.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>From beneath the throne of God all the saints cry out.</p>
-      <p:BodyE><s:VR>R. </s>Avenge thou our blood, O our God.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/sub_throno_dei_omnes_sancti_clamant.php');
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -1230,8 +974,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>5th day in the Octave of Christmas</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('5th day in the Octave of Christmas',2); ?>
    <p:Head1>de V Die infra Oct. Nativitatis</p>
    <p:Head2>December 29 - II classis</p>
    <p:BodySm/>
@@ -1261,19 +1005,9 @@
      </td>
     </tr>
    </table>
-   <p:RubricHidden><t>Ps 91:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>V. </s>Justus ut palma florébit.</p>
-      <p:BodyL><sr>R. </s>Sicut cedrus Líbani multiplicábitur.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The just shall flourish like the palm tree.</p>
-      <p:BodyE><s:VR>R. </s>He shall grow up like the cedar of Libanus.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('justus_ut_palma_florebit.php');
+?>
    <p:BodySm/>
    <table>
     <tr>
@@ -1299,8 +1033,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>6th day in the Octave of Christmas</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('6th day in the Octave of Christmas',2); ?>
    <p:Head1>de VI Die infra Oct. Nativitatis</p>
    <p:Head2>December 30 - II classis</p>
    <p:BodySm/>
@@ -1332,8 +1066,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>7th day in the Octave of Christmas</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('7th day in the Octave of Christmas',2); ?>
    <p:Head1>de VII Die infra Oct. Nativitatis</p>
    <p:Head2>December 31 - II classis</p>
    <p:BodySm/>
@@ -1363,19 +1097,9 @@
      </td>
     </tr>
    </table>
-   <p:RubricHidden><t>Sap 10:10</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><sr>V. </s>Justum dedúxit Dóminus per vias rectas.</p>
-      <p:BodyL><sr>R. </s>Et osténdit illi regnum Dei.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Lord conducted the just through the right ways.</p>
-      <p:BodyE><s:VR>R. </s>And showed him the kingdom of God.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('justum_deduxit_dominus_per_vias_rectas.php');
+?>
    <p:BodySm/>
    <table>
     <tr>
@@ -1398,8 +1122,8 @@
    <p:Body/>
 <?php img('Tempore/t02_circumcision.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>Octave of Christmas</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('Octave of Christmas',2); ?>
    <p:Head1>in Octava Nativitatis Domini</p>
    <p:Head2>I classis</p>
    <p:Head2>Collect</p>
@@ -1418,19 +1142,9 @@
    <p:Rubric>Antiphons as in Lauds.</p>
 <?php rubrics('ps/ComBVM.php'); ?>
    <p:Rubric>Little Chapter and Hymn as in Ordinary of Christmas, with the following response:</p>
-   <p:RubricHidden><t>Jn 1:14</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbum caro factum est, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et habitávit in nobis, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The Word was made flesh, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And dwelt among us, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/verbum_caro_factum_est.php',1);
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -1482,8 +1196,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Christmas</p>
-   <p:Hidden2>Holy Name of Jesus</p>
+<?php hidden('Christmas',1); ?>
+<?php hidden('Holy Name of Jesus',2); ?>
    <p:Head1>Sanctissimi Nominis Jesu</p>
    <p:Head2>II classis</p>
    <p:Rubric>The Sunday occurring from January 2 to January 5, or, if this is lacking, on January 2.</p>
@@ -1563,19 +1277,9 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('jesu_dulcis_memoria.php'); ?>
-	<p:RubricHidden><t>Ps. 112:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sit nomen Dómini benedíctum, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Ex hoc nunc et usque in sǽculum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed be the name of the Lord, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>From henceforth now and for ever, alleluia</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/sit_nomen_domini_benedictum.php',1);
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -1641,19 +1345,9 @@
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Head3>Hymn</p>
 <?php hymn('jesu_decus_angelicum.php'); ?>
-   <p:RubricHidden><t>Ps 123:8</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adjutórium nostrum in nómine Dómini.</p>
-      <p:BodyL><s:VR>R. </s>Qui fecit cælum et terram.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Our help is in the name of the Lord.</p>
-      <p:BodyE><s:VR>R. </s>Who made heaven and earth.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('Ord/adjutorium_nostrum_in_nomine_domini.php');
+?>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>1 Mcc 6:44</p>
    <table>
@@ -1671,74 +1365,10 @@
    <p:Rubric/>
    <p:Head2>ad Tértiam</p>
    <p:Rubric>Little Chapter as in Lauds.</p>
-   <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 112:2, 28:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sit nomen Dómini benedíctum, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed be the name of the Lord, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Sit nomen...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Blessed be...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ex hoc nunc et usque in sǽculum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>From henceforth now and for ever.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Sit nomen...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Blessed be...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Afférte Dómino glóriam et honórem, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Bring to the Lord glory and honour, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Afférte Dómino glóriam nómini ejus, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Bring to the Lord glory to his name, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	brS('PrTemp/sit_nomen_domini_benedictum.php',1);
+	vrS('PrTemp/afferte_domino_gloriam_et_honorem.php',1);
+?>
    <p:Body/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
@@ -1755,74 +1385,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 28:2, 33:4</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Afférte Dómino glóriam et honórem, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Bring to the Lord glory and honour, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Afférte Dómino...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Bring to the Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Afférte Dómino glóriam nómini ejus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Bring to the Lord glory to his name.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Afférte Dómino...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Bring to the Lord...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Magnificáte Dóminum mecum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>O magnify the Lord with me, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et exaltémus nomen ejus in idípsum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And let us extol his name together, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	brS('PrTemp/afferte_domino_gloriam_et_honorem.php',1);
+	vrS('PrTemp/magnificate_dominum_mecum.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1839,93 +1405,19 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Response</p>
-   <p:RubricHidden><t>Ps 28:2, 123:8</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Magnificáte Dóminum mecum,* Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>O magnify the Lord with me, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Magnificáte...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O magnify...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et exaltémus nomen ejus in idípsum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And let us extol his name together.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Magnificáte...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>O magnify...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Adjutórium nostrum in nómine Dómini, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Our help is in the name of the Lord, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Qui fecit cælum et terram, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>who made heaven and earth, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	brS('PrTemp/magnificate_dominum_mecum.php',1);
+	vrS('Ord/adjutorium_nostrum_in_nomine_domini.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Rubric>When this feast is celebrated on January 5, I Vespers of the Feast of the Epiphany are said, without a commemoration of the preceding.</p>
    <p:Rubric>Otherwise, all is said as at I Vespers, except the following:</p>
    <p:Head3>Hymn</p>
    <p:RubricH>As in I Vespers, with the following response:</p>
-	<p:RubricHidden><t>Ps 112:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sit nomen Dómini benedíctum, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Ex hoc nunc et usque in sǽculum, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed be the name of the Lord, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>from henceforth now and for ever, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('PrTemp/sit_nomen_domini_benedictum.php',1);
+?>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Mt. 1:21</p>
    <table>
@@ -1960,19 +1452,9 @@
      </td>
     </tr>
    </table>
-   <p:RubricHSm><t>Ps 91:13</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Justus ut palma florébit.</p>
-      <p:BodyL><s:VR>R. </s>Sicut cedrus Líbani multiplicábitur.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>The just shall flourish like the palm tree.</p>
-      <p:BodyE><s:VR>R. </s>He shall grow up like the cedar of Libanus.</p>
-     </td>
-    </tr>
-   </table>
+<?php 
+	vrS('justus_ut_palma_florebit.php');
+?>
    <p:BodySm/>
    <table>
     <tr>

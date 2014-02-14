@@ -18,7 +18,7 @@
 //1 - 'Alleluia' added
 //2 - '(P.T. Alleluia)' added
 
-function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
+function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 	$dir = "/www/b/content/00/Antiphon/";
 
 	$Lpieces = file_load($dir.$file);
@@ -41,6 +41,10 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
 		$PTL = ' <sr>(T.P.</s> Allelúja.<sr>)</s>';
 		$PTE = ' <sr>(P.T.</s> Alleluia.<sr>)</s>';
 	}
+
+	if($file=='Psalter/alleluia.php') $sm=1;
+	if($sm) $sm='Sm';
+	else $sm='';
 
 	for($i=0;$i<$iSpec;$i++) {
 		$L = $Lpieces[$i];
@@ -118,16 +122,14 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='') {
 				echo "   <table>\n";
 				$table = 1;
 			}
-	echo '    <tr><td:A1>
-	  <p:BodyL>' . $ant . $L .'</p>
-	     </td><td:B1>
-			<p:BodyE>'. ($ante?$ante:$ant) . $E .'</p>
-			</td></tr>
-';
+	echo '  <tr><td:A1>
+   <p:BodyL'. $sm .'>' . $ant . $L .'</p>
+  </td><td:B1>
+   <p:BodyE'. $sm .'>'. ($ante?$ante:$ant) . $E .'</p>
+  </td></tr>';
 		}
 	}
-	echo '   </table>
-';
+	echo "</table>\n";
 }
 
 function multiant($day, $hour, $incs='*') {
@@ -166,10 +168,10 @@ function multiant($day, $hour, $incs='*') {
 	if($hour==1) {
 		ant('Psalter/'. $dayF[$day] .'/1L2.php',$incs);
 		space('Line');
-		rubp($natL[$day],$natE[$day]);
-		ant('prTemp/advent' . $dayF[$day] .'.php',$incs);
-		rubp($hwL[$day],$hwE[$day]);
-		ant('prTemp/passion' . $dayF[$day] .'.php',$incs);
+		rubp($natL[$day],$natE[$day],0,1);
+		ant('prTemp/advent' . $dayF[$day] .'.php',$incs,0,'','',1);
+		rubp($hwL[$day],$hwE[$day],0,1);
+		ant('prTemp/passion' . $dayF[$day] .'.php',$incs,0,'','',1);
 		space('Line');
 	} else {
 		    if($hour==2) $incs = '+0000';
@@ -177,26 +179,24 @@ function multiant($day, $hour, $incs='*') {
 		elseif($hour==4) $incs = '00+00';
 		elseif($hour==5) $incs = '0000+';
 
-		space();
 		space('Line');
-		rubp('Infra hebd. I Adventus:','In the first week of Advent:');
-		ant('prTemp/advent01.php',$incs);
-		rubp('Infra hebd. II Adventus:','In the second week of Advent:');
-		ant('prTemp/advent02.php',$incs);
-		rubp('Infra hebd. III Adventus:','In the third week of Advent:');
-		ant('prTemp/advent03.php',$incs);
-		rubp($natL[$day],$natE[$day]);
-		ant('prTemp/advent' . $dayF[$day] .'.php',$incs);
-		rubp('Tempore Quadragesimæ:','In the Season of Lent:');
-		ant('prTemp/lentLH.php',$incs);
-		rubp('Infra Hebd I Passionis:','In the first week of Passiontide:');
-		ant('prTemp/passion1LH.php',$incs);
+		rubp('Infra hebd. I Adventus:','In the first week of Advent:',0,1);
+		ant('prTemp/advent01.php',$incs,0,'','',1);
+		rubp('Infra hebd. II Adventus:','In the second week of Advent:',0,1);
+		ant('prTemp/advent02.php',$incs,0,'','',1);
+		rubp('Infra hebd. III Adventus:','In the third week of Advent:',0,1);
+		ant('prTemp/advent03.php',$incs,0,'','',1);
+		rubp($natL[$day],$natE[$day],0,1);
+		ant('prTemp/advent' . $dayF[$day] .'.php',$incs,0,'','',1);
+		rubp('Tempore Quadragesimæ:','In the Season of Lent:',0,1);
+		ant('prTemp/lentLH.php',$incs,0,'','',1);
+		rubp('Infra Hebd I Passionis:','In the first week of Passiontide:',0,1);
+		ant('prTemp/passion1LH.php',$incs,0,'','',1);
 		if($day<5) {
-			rubp($hwL[$day],$hwE[$day]);
-			ant('prTemp/passion' . $dayF[$day] .'.php',$incs);
+			rubp($hwL[$day],$hwE[$day],0,1);
+			ant('prTemp/passion' . $dayF[$day] .'.php',$incs,0,'','',1);
 		}
 		space('Line');
-		space(2);
 		ant('Psalter/alleluia.php','P');
 		ant('Psalter/'. $dayF[$day] .'/'. $hourF[$hour] .'.php');
 

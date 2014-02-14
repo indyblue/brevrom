@@ -20,7 +20,7 @@ if(!$cs[$link])
 if($location==1)
 	rubrics('ps/LittleHoursFeast.php');
 elseif($location>1)
-	rubrics('ps/Feria.php','At the Little Hours, ');
+	rubrics('ps/LittleHoursFeria.php');
 
 echo '   <p:Rubric>All else as in Common of '. $cs[$link] . 
 	', <snr>p. '. bkref($link) .'</s>'. $content .'.</p>';

@@ -91,9 +91,9 @@ function brS($file,$PT=0,$style=0,$requiem=0) {
    </td><td:B1>
     <p:BodyE>'. $vr2 . 'Glory be to the Father, and to the Son, and to the Holy Spirit.</p>
    </td></tr><tr><td:A1>
-    <p:BodyL>'. $vr2 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .'</p>
+    <p:BodyL>'. $vrR . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .'</p>
    </td><td:B1>
-    <p:BodyE>'. $vr2 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .'</p>' . "\n";
+    <p:BodyE>'. $vrR . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .'</p>' . "\n";
 		else
 			echo '    <p:BodyL>'. $vr2 . $L1[0] . $L1[1] .'.</p>
    </td><td:B1>

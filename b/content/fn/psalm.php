@@ -83,8 +83,11 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 
 	// this actually starts generating the xml text,
 	// beginning with the header.
-	if(strlen($Lpieces[0])>0)
+	if(strlen($Lpieces[0])>0) {
+		if($part==0) 
+			$Lpieces[0] = str_replace(' i.','.',$Lpieces[0]);
 		echo '<p:Head2'. $index .'>'. $Lpieces[0] . "</p>\n";
+	}
 
 	// $table=0: the table tag hasn't been inserted yet
 	// $drop=0: the drop cap hasn't been done yet.
@@ -109,13 +112,18 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 				$table=1;
 			}
 			if($drop==0 && strpos($Lpieces[$i],'<')===false) {
+				if(strlen($Lpieces[$i+1])==0) {
+					$l2L = '';
+					$l2E = '';
+				} else {
+					$l2L = '<t><text:line-break/>'. style_first_letter($Lpieces[$i+1],'sb');
+					$l2E = '<t><text:line-break/>'. style_first_letter($Epieces[$i+1],'sb');
+				}
 				echo '
   <tr><td:A1>
-  <p:BodyLDrop>'. caps_first_word($Lpieces[$i]) .'<t><text:line-break/>'.
-		style_first_letter($Lpieces[$i+1],'sb') .'</p>
+  <p:BodyLDrop>'. caps_first_word($Lpieces[$i]) . $l2L .'</p>
   </td><td:B1>
-  <p:BodyEDrop>'. caps_first_word($Epieces[$i]) .'<t><text:line-break/>'.
-		style_first_letter($Epieces[$i+1],'sb') .'</p>
+  <p:BodyEDrop>'. caps_first_word($Epieces[$i]) . $l2E .'</p>
   </td></tr>
 ';
 				$drop=1;

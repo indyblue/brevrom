@@ -1,15 +1,30 @@
 %s/\<[VR]\. \|^\s*\|<[^>]*>//ig | %s/\n\{1,}/\r/ig | %s/, allel\k\ka\.$/./eig | noh
 %s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | %s/\W\{1,}/_/eig | %s/_$//eig | noh
 
-s/\v(.*)\n(.*)/<?php brS('PrTemp\/\1.php'); ?>\r<?php vrS('PrTemp\/\2.php'); ?>/ | noh | />V\. <
-s/_/ /ig
 
+----- search for Versicles -----
+<s:VR>V
 
+<?php
+	brS('PrTemp/.php');
+	vrS('PrTemp/.php');
+?>
+<?php
+	vrS('PrTemp/.php');
+?>
+<?php 
+	vrS('PrTemp/notum_fecit_dominus.php',1);
+?>
 
-<?php brS('PrTemp/.php'); ?>
-<?php vrS('PrTemp/.php'); ?>
+<?php 
+	PrV('.php'); 
+?>
+
 
 <?php brS('Ord/.php'); ?>
 <?php vrS('Ord/.php'); ?>
-<?php PrV('.php'); ?>
+
+----- ??? -----
+s/\v(.*)\n(.*)/<?php brS('PrTemp\/\1.php'); ?>\r<?php vrS('PrTemp\/\2.php'); ?>/ | noh | />V\. <
+s/_/ /ig
 

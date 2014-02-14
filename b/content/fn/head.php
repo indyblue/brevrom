@@ -4,6 +4,8 @@
 <?php rubrics('asIn.php','csApLCLauds','Lauds','Little Chapter'); ?> 
 */
 function hour($h, $size=2) {
+	$h1 = 0;
+	$h2 = 0;
 	$hourL = array('M' => 'ad Matutínum', 'L' => 'ad Laudes', 
 		'P' => 'ad Primam', 'T' => 'ad Tértiam', 
 		'S' => 'ad Sextam', 'N' => 'ad Nonam', 
@@ -22,6 +24,46 @@ function hour($h, $size=2) {
 	head($hourL[$h], $hourE[$h], $size, $h1, $h2);
 }
 
+
+function head($L, $E, $size=3, $h1=0, $h2=0) {
+	if($h1) {
+		if($h1==1) $h1 = $L;
+		elseif($h1==2) $h1 = $E;
+		hidden($h1,1);
+	}
+	if($h2) {
+		if($h2==1) $h2 = $L;
+		elseif($h2==2) $h2 = $E;
+		hidden($h2,2);
+	}
+	if($size>=0 || is_string($size)) {
+		echo '  <text:p text:style-name="Head'. $size .'">' . ($_GET['L']==1?$L:$E) .'</p>
+';
+		if($size<2) 
+			echo '  <text:p text:style-name="Head5">' . ($_GET['L']==1?$E:$L) .'</p>
+';
+	} else { 
+		$size = abs($size);
+		echo '
+  <tableH>
+   <tr><td:A1>
+   <p:Head'. $size .'>'. $L .'</p>
+   </td><td:B2>
+   <p:Head'. $size .'>'. $E .'</p>
+  </td></tr></table>
+';
+	}
+
+}
+
+function hidden($txt, $level=2) {
+	echo '<text:h text:style-name="Hidden'.
+		$level .'" text:outline-level="'. $level .'">' . $txt ."</text:h>\n";
+}
+
+// this function is used in the psalter, for constructing headings
+// and other parts which come before the psalms at the beginning
+// of the hours.
 function dayhour($d, $h, $size=1) {
 	$dayL = array('','Domínica','Feria secúnda','Feria tértia',
 		'Feria quárta','Feria quínta','Feria sexta','Sábbato');
@@ -53,55 +95,91 @@ function dayhour($d, $h, $size=1) {
 	// Matins and Compline begin differently from all other hours,
 	// and thus are handled differently.
 	if($h=='M');
-	elseif($h=='C');
-	else {
+	elseif($h=='C') {
+		rubp('','The hour begins as in the Ordinary, <snr>p. ' . bkref('orCompline') .'.</s>');
+	} else {
 		// all other hours begin with this versicle
 		vr('deus_in_adjutorium_short.php');
 		// at the little hours, the hymn immediately follows 
 		// the versicle
 		if(csv_match($h,'P,T,S,N')) {
+			rubrics('head/HymnVerse.php');
 			if($h=='P') hymn('jam_lucis_orto_sidere.php');
 			elseif($h=='T') hymn('nunc_sancte_nobis_spiritus.php');
 			elseif($h=='S') hymn('rector_potens_verax_deus.php');
 			elseif($h=='N') hymn('rerum_deus_tenax_vigor.php');
+			space(4);
 			// if the day is not Sunday, a block of seasonal antiphons
 			// are printed after the hymn
 			$hn = array('P'=>2, 'T'=>3, 'S'=>4, 'N'=>5);
+			bookmark('LHant'. $d . $h);
 			if($d>1) multiant($d,$hn[$h]);
 		}
 	}
 }
 
-function head($L, $E, $size=3, $h1=0, $h2=0) {
-	if($h1) {
-		if($h1==1) $h1 = $L;
-		elseif($h1==2) $h1 = $E;
-		echo '  <p:Hidden1>' . $h1 .'</p>
-';
-	}
-	if($h2) {
-		if($h2==1) $h2 = $L;
-		elseif($h2==2) $h2 = $E;
-		echo '  <p:Hidden2>' . $h2 .'</p>
-';
-	}
-	if($size<4) {
-		echo '  <text:p text:style-name="Head'. $size .'">' . ($_GET['L']==1?$L:$E) .'</p>
-';
-		if($size<2) 
-			echo '  <text:p text:style-name="Head5">' . ($_GET['L']==1?$E:$L) .'</p>
-';
-	}
-	else echo '
-  <tableH>
-   <tr><td:A1>
-   <p:Head'. $size .'>'. $L .'</p>
-   </td><td:B2>
-   <p:Head'. $size .'>'. $E .'</p>
-  </td></tr></table>
-';
+/*
+	rubrics('ps/hour_continues.php');
+	dayhourE(2,'L1');
 
 
+*/
+// this function is used in the psalter, for constructing 
+// the ending of hours; all parts which come after the psalms.
+function dayhourE($d, $h, $size=1) {
+	if($h=='M');
+	elseif(csv_match($h,'L,L1')) {
+		rubp('Cant. <snr>Benedíctus p. '. bkref('benedictus') .'</s>','');
+		vr('oratio_L_ps.php');
+	} elseif($h=='L2') {
+		rubrics('ps/hour_continues2.php');
+	} elseif(csv_match($h,'V,1V,2V')) {
+		rubp('Cant. <snr>Magníficat p. '. bkref('magnificat') .'</s>','');
+		vr('oratio_V_ps.php');
+	} elseif($h=='C') {
+		rubp('','The hour continues in the Ordinary, with the hymn <snr>Te lucis ante términum</s>, <snr>p. ' . bkref('te_lucis_ante_terminum') .'.</s>');
+	} elseif($h=='P') {
+		if($d>1) rubp('','Or the appropriate seasonal antiphon is repeated, <snr>p. '. bkref('LHant'. $d . $h) .'</s>.');
+		rubp('','The hour continues in the Ordinary, with the capit. <snr>Regi sæculórum</s>, <snr>p. ' . bkref('1tim1_17') .'.</s>');
+	} elseif(csv_match($h,'T,S,N')) {
+		if($d>1) rubp('','Or the appropriate seasonal antiphon is repeated, <snr>p. '. bkref('LHant'. $d . $h) .'</s>.');
+		if($d==7) 
+			rubrics('ps/hour_continues_sat.php');
+		else {
+			rubrics('ps/hour_continues.php');
+			if($h=='T') {
+				if($d==1) {
+					lc('1john4_16.php');
+					brS('Ord/inclina_cor_meum_deus_in_testimonia_tua.php');
+					vrS('Ord/ego_dixi_domine_miserere_mei.php');
+				} else {
+					lc('jer17_14.php');
+					brS('Ord/sana_animam_meam_quia_peccavi_tibi.php');
+					vrS('Ord/adjutor_meus_esto_ne_derelinquas_me.php');
+				}
+			} elseif($h=='S') {
+				if($d==1) {
+					lc('gal6_2.php');
+					brS('Ord/in_aeternum_domine_permanet_verbum_tuum.php');
+					vrS('Ord/dominus_regit_me_et_nihil_mihi_deerit.php');
+				} else {
+					lc('rom13_8.php');
+					brS('Ord/benedicam_dominum_in_omni_tempore.php');
+					vrS('Ord/dominus_regit_me_et_nihil_mihi_deerit.php');
+				}
+			} elseif($h=='N') {
+				if($d==1) {
+					lc('1cor6_20.php');
+					brS('Ord/clamavi_in_toto_corde_meo_exaudi_me_domine.php');
+					vrS('Ord/ab_occultis_meis_munda_me_domine.php');
+				} else {
+					lc('1pet1_17.php');
+					brS('Ord/redime_me_domine_et_miserere_mei.php');
+					vrS('Ord/ab_occultis_meis_munda_me_domine.php');
+				}
+			}
+		}
+	}
 }
 
 ?>

@@ -1,2 +1,2 @@
-Elisabeth Zachariæ * magnum virum génuit.
+Elísabeth Zacharíæ * magnum virum génuit.
 Joánnem Baptístam, præcursórem Dómini.

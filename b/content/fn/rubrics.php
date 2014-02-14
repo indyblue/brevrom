@@ -15,7 +15,7 @@ function rubf($fname, $link='') {
 	rubp($pieces[0], $pieces[1]);
 }
 
-function rubp($Ltxt, $Etxt, $Par=0) {
+function rubp($Ltxt, $Etxt, $Par=0, $sm=0) {
 	if($Par==0 && strlen($Ltxt)>0 && strlen($Etxt)>0) {
 		if($_GET['L']==1) {
 			if(strlen($Ltxt . $Etxt)<50 && strlen($Etxt)>0);
@@ -25,19 +25,22 @@ function rubp($Ltxt, $Etxt, $Par=0) {
 			else $Ltxt = '';
 		}
 	}
+	
+	if($sm) $sm='Sm';
+	else $sm='';
 
 	if(strlen($Ltxt)==0) echo '
-<p:BodyE><sr>'. $Etxt .'</s></p>
+<p:BodyE'. $sm .'><sr>'. $Etxt .'</s></p>
 ';
 	elseif(strlen($Etxt)==0) echo '
-<p:BodyL><sr>'. $Ltxt .'</s></p>
+<p:BodyL'. $sm .'><sr>'. $Ltxt .'</s></p>
 ';
 	else echo '
   <table>
    <tr><td:A1>
-   <p:BodyL><sr>'. $Ltxt .'</s></p>
+   <p:BodyL'. $sm .'><sr>'. $Ltxt .'</s></p>
    </td><td:B1>
-   <p:BodyE><sr>'. $Etxt .'</s></p>
+   <p:BodyE'. $sm .'><sr>'. $Etxt .'</s></p>
   </td></tr></table>
 ';
 }

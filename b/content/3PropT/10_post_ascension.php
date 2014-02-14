@@ -5,8 +5,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Trinity Sunday</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Trinity Sunday',2); ?>
    <p:Head1>in Festo Sanctissimæ Trinitatis</p>
    <p:Head2>Dominica I Post Pentecosten - I classis</p>
    <p:Head2>Collect</p>
@@ -40,18 +40,9 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('jam_sol_recedit_igneus.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedicámus Patrem et Fílium cum Sancto Spíritu.</p>
-      <p:BodyL><s:VR>R. </s>Laudémus et superexaltémus eum in sǽcula.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us bless the Father and the Son, with the Holy Ghost.</p>
-      <p:BodyE><s:VR>R. </s>Let us praise and exalt him above all for ever.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -114,18 +105,9 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Head3>Hymn</p>
 <?php hymn('tu_trinitatis_unitas.php'); ?>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedicámus Patrem et Fílium cum Sancto Spíritu.</p>
-      <p:BodyL><s:VR>R. </s>Laudémus et superexaltémus eum in sǽcula.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us bless the Father and the Son, with the Holy Ghost.</p>
-      <p:BodyE><s:VR>R. </s>Let us praise and exalt him above all for ever.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
+?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -147,73 +129,10 @@
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers</p>
    <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Dan 3:56</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedicámus Patrem et Fílium * Cum Sancto Spíritu.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us bless the Father and the Son * With the Holy Ghost.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Benedicámus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us bless...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Laudémus et superexaltémus eum in sǽcula.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us praise and exalt him above all for ever.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Cum Sancto Spíritu.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>With the Holy Ghost.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Benedicámus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Let us bless...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedíctus es, Dómine, in firmaménto cæli.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed art thou, O Lord, in the firmament of heaven.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et laudábilis et gloriósus in sǽcula.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And worthy of praise, and glorious for ever.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
+	vrS('PrTemp/benedictus_es_domine_in_firmamento_caeli.php');
+?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
@@ -231,74 +150,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Dan 3:56, Ps 32:6</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedíctus es, Dómine, * In firmaménto cæli.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed art thou, O Lord, * In the firmament of heaven.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Benedíctus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Blessed...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et laudábilis et gloriósus in sǽcula.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And worthy of praise, and glorious for ever.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>In firmaménto cæli.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>In the firmament of heaven.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Benedíctus...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Blessed...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbo Dómini cæli firmáti sunt.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>By the word of the Lord the heavens were established.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et Spíritu oris ejus omnis virtus eórum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And all the power of them by the spirit of his mouth.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/benedictus_es_domine_in_firmamento_caeli.php');
+	vrS('PrTemp/verbo_domini_caeli_firmati_sunt.php');
+?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
@@ -316,74 +171,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Ps 32:6, 112:2</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Verbo Dómini * Cæli firmáti sunt.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>By the word of the Lord * The heavens were established.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Verbo Dómini...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>By the word...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et Spíritu oris ejus omnis virtus eórum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And all the power of them by the spirit of his mouth.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Cæli firmáti sunt.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>The heavens were established.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Verbo Dómini...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>By the word...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sit nomen Dómini benedíctum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed be the name of the Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ex hoc nunc, et usque in sǽculum.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>From henceforth now and for ever.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/verbo_domini_caeli_firmati_sunt.php');
+	vrS('PrTemp/sit_nomen_domini_benedictum.php');
+?>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Rubric>Antiphons as in Lauds.</p>
@@ -403,18 +194,9 @@
     </tr>
    </table>
    <p:RubricH>Hymn as in I Vespers, with the following Responsory:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Benedíctus es, Dómine, in firmaménto cæli.</p>
-      <p:BodyL><s:VR>R. </s>Et laudábilis et gloriósus in sǽcula.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Blessed art thou, O Lord, in the firmament of heaven.</p>
-      <p:BodyE><s:VR>R. </s>And worthy of praise, and glorious for ever.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/benedictus_es_domine_in_firmamento_caeli.php');
+?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -444,8 +226,8 @@
    <p:Body/>
 <?php img('Tempore/t08_corpus_christi.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Corpus Christi</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Corpus Christi',2); ?>
    <p:Head1>in Festo Sanctissimi Corporis Christi</p>
    <p:Head2>Feria Quinta - I classis</p>
    <p:Head2>Collect</p>
@@ -581,19 +363,9 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('pange_lingua_gloriosi.php'); ?>
-   <p:RubricHidden><t>Wis. 16:20</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Panem de cælo præstitísti eis, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Omne delectaméntum in se habéntem, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Thou gavest them bread from heaven, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>Having in it all that is delicious, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/panem_de_caelo_praestitisti_eis.php',1);
+?>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Wis 12:1, 16:21, Lk 1:53</p>
    <table>
@@ -658,19 +430,9 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Head3>Hymn</p>
 <?php hymn('verbum_supernum_prodiens.php'); ?>
-   <p:RubricHidden><t>Ps 147:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Pósuit fines tuos pacem, allelúja.</p>
-      <p:BodyL><s:VR>R. </s>Et ádipe fruménti sátiat te, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He hath placed peace in thy borders, alleluia.</p>
-      <p:BodyE><s:VR>R. </s>And filleth thee with the fat of corn, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/posuit_fines_tuos_pacem.php',1);
+?>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>Jn 6:51-52</p>
    <table>
@@ -691,74 +453,10 @@
    <p:Head2>ad Tertiam</p>
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers.</p>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Ps 77:24-25, 80:17</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Panem cæli dedit eis, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V</s><s:VR>. </s>He had given them the bread of heaven, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Panem cæli...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R</s><s:VR>. </s>He had given...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Panem Angelórum manducávit homo.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Man ate the bread of Angels.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Panem cæli...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He had given...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Cibávit illos ex ádipe fruménti, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He fed them with the fat of wheat, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et de petra, melle saturávit eos, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And filled them with honey out of the rock, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/panem_caeli_dedit_eis.php',1);
+	vrS('PrTemp/cibavit_illos_ex_adipe_frumenti.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
@@ -776,74 +474,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Ps. 80:17, 103:14</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Cibávit illos ex ádipe fruménti, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He fed them with the fat of wheat, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Cibávit illos...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He fed them...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et de petra, melle saturávit eos.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And filled them with honey out of the rock.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Cibávit illos...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He fed them...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Edúcas panem de terra, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V</s><s:VR>. </s>Thou mayst bring bread out of the earth, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et vinum lætíficet cor hóminis, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R</s><s:VR>. </s>And wine that may cheer the heart of man, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/cibavit_illos_ex_adipe_frumenti.php',1);
+	vrS('PrTemp/educas_panem_de_terra.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
@@ -861,74 +495,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Ps 103:14, 147:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Edúcas panem de terra, * Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Thou mayst bring bread out of the earth, * Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Edúcas panem...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Thou mayst bring bread...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Et vinum lætíficet cor hóminis.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>And wine that may cheer the heart of man.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Allelúja, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Alleluia, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Edúcas panem...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Thou mayst bring bread...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Pósuit fines tuos pacem, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He hath placed peace in thy borders, alleluia.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et ádipe fruménti sátiat te, allelúja.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And filleth thee with the fat of corn, alleluia.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/educas_panem_de_terra.php',1);
+	vrS('PrTemp/posuit_fines_tuos_pacem.php',1);
+?>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Psalms with Antiphons</p>
@@ -950,8 +520,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Second Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Second Sunday after Pentecost',2); ?>
    <p:Head1>Dominica II Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -1012,8 +582,8 @@
    <p:Body/>
 <?php img('Tempore/t10_sacred_heart.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sacred Heart</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sacred Heart',2); ?>
    <p:Head1>in Festo Sanctissimi Cordis Jesu</p>
    <p:Head2>Feria Sexta - I classis</p>
    <p:Head2>Collect</p>
@@ -1148,19 +718,9 @@
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('en_ut_superba_criminum.php'); ?>
-   <p:RubricHidden><t>Mt 11:29</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Tóllite jugum meum super vos et díscite a me.</p>
-      <p:BodyL><s:VR>R. </s>Quia mitis sum et húmilis Corde.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Take up my yoke upon you, and learn of me.</p>
-      <p:BodyE><s:VR>R. </s>Because I am meek, and humble of Heart.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/tollite_jugum_meum_super_vos_et_discite_a_me.php');
+?>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Lk 12:49</p>
    <table>
@@ -1225,19 +785,9 @@
    <p:Rubric>Little Chapter as in I Vespers.</p>
    <p:Head3>Hymn</p>
 <?php hymn('cor_arca_legem_continens.php'); ?>
-   <p:RubricHidden><t>Is 12:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Hauriétis aquas in gáudio.</p>
-      <p:BodyL><s:VR>R. </s>De fóntibus Salvatóris.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>You shall draw waters with joy.</p>
-      <p:BodyE><s:VR>R. </s>Out of the saviour’s fountains.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/haurietis_aquas_in_gaudio.php');
+?>
    <p:Head3>Benedictus</p>
    <p:RubricHidden><t>Jn 19:36-37</p>
    <table>
@@ -1258,74 +808,10 @@
    <p:Head2>ad Tertiam</p>
    <p:Rubric>Ant 2 from Lauds is used.</p>
    <p:Rubric>Little Chapter as in I Vespers.</p>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Mt 11:29, Ps 40:5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Tóllite jugum meum super vos * Et díscite a me.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Take up my yoke upon you, * And learn of me.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Tóllite...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Take up...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Quia mitis sum et húmilis Corde.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Because I am meek, and humble of heart.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Et díscite a me.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>And learn of me.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Tóllite...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Take up...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ego dixi: Dómine, miserére mei.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I said: O Lord, be thou merciful to me.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Sana ánimam meam quia peccávi tibi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Heal my soul, for I have sinned against thee.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/tollite_jugum_meum_super_vos_et_discite_a_me.php');
+	vrS('Ord/ego_dixi_domine_miserere_mei.php');
+?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Rubric>Ant 3 from Lauds is used.</p>
@@ -1343,74 +829,10 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Ps 40:5, 110:4-5</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Ego dixi: Dómine, * Miserére mei.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>I said: O Lord, * Be thou merciful to me.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ego dixi...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I said...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Sana ánimam meam quia peccávi tibi.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Heal my soul, for I have sinned against thee.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Miserére mei.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Be thou merciful to me.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Ego dixi...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>I said...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Memóriam fecit mirabílium suórum miserátor Dóminus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He hath made a remembrance of his wonderful works, being a gracious Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Escam dedit timéntibus se.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He hath given food to them that fear him.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('Ord/ego_dixi_domine_miserere_mei.php');
+	vrS('PrTemp/memoriam_fecit_mirabilium_suorum_miserator_dominus.php');
+?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Rubric>Ant 5 from Lauds is used.</p>
@@ -1428,91 +850,18 @@
      </td>
     </tr>
    </table>
-   <p:Head3>Brief Respond</p>
-   <p:RubricHidden><t>Ps 110:4-5, Is 12:3</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Memóriam fecit mirabílium suórum * Miserátor Dóminus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He hath made a remembrance of his wonderful works, * Being a gracious Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Memóriam fecit...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He hath made...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Escam dedit timéntibus se.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>He hath given food to them that fear him.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Miserátor Dóminus.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Being a gracious Lord.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Glória Patri...Sancto.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>Glory be...Holy Spirit.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>Memóriam fecit...</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>He hath made...</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Hauriétis aquas in gáudio.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>You shall draw waters with joy.</p>
-     </td>
-    </tr>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>R. </s>De fóntibus Salvatóris.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>R. </s>Out of the Saviour’s fountains.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	brS('PrTemp/memoriam_fecit_mirabilium_suorum_miserator_dominus.php');
+	vrS('PrTemp/haurietis_aquas_in_gaudio.php');
+?>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
 	<p:Rubric>Antiphons as in Lauds.</p>
 <?php rubrics('asIn.php','PsPrCorpusChristi','I Vespers of Corpus Christi'); ?>
    <p:RubricH>Little Chapter &amp; Hymn as in I Vespers, with the following responsory:</p>
-   <table>
-    <tr>
-     <td:A1>
-      <p:BodyL><s:VR>V. </s>Hauriétis aquas in gáudio.</p>
-      <p:BodyL><s:VR>R. </s>De fóntibus Salvatóris.</p>
-     </td>
-     <td:B1>
-      <p:BodyE><s:VR>V. </s>You shall draw waters with joy.</p>
-      <p:BodyE><s:VR>R. </s>Out of the Saviour’s fountains.</p>
-     </td>
-    </tr>
-   </table>
+<?php
+	vrS('PrTemp/haurietis_aquas_in_gaudio.php');
+?>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Jn 19:33-34</p>
    <table>
@@ -1530,8 +879,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Third Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Third Sunday after Pentecost',2); ?>
    <p:Head1>Dominica III Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -1590,8 +939,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Fourth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Fourth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica IV Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -1650,8 +999,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Fifth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Fifth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica V Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -1710,8 +1059,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sixth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sixth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica VI Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -1770,8 +1119,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Seventh Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Seventh Sunday after Pentecost',2); ?>
    <p:Head1>Dominica VII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Rubric>If this Sunday occurs in the month of August, the antiphons and lessons are taken from the respective Sunday in the month of August, with the rest of the Books of Kings omitted.</p>
@@ -1831,8 +1180,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Eighth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Eighth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica VIII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Rubric>If this Sunday occurs in the month of August, the antiphons and lessons are taken from the respective Sunday in the month of August, with the rest of the Books of Kings omitted.</p>
@@ -1891,8 +1240,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Ninth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Ninth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica IX Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Rubric>If this Sunday occurs in the month of August, the antiphons and lessons are taken from the respective Sunday in the month of August, with the rest of the Books of Kings omitted.</p>
@@ -1952,8 +1301,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Tenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Tenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica X Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Rubric>If this Sunday occurs in the month of August, the antiphons and lessons are taken from the respective Sunday in the month of August, with the rest of the Books of Kings omitted.</p>
@@ -2013,8 +1362,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Eleventh Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Eleventh Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XI Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Rubric>If this Sunday occurs in the month of August, the antiphons and lessons are taken from the respective Sunday in the month of August, with the rest of the Books of Kings omitted.</p>
@@ -2076,8 +1425,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sundays of August</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sundays of August',2); ?>
    <p:RubricH>Collect for all hours, and Antiphons for Lauds and II Vespers, are found among the Sundays after Pentecost.</p>
    <p:Head1>Dominica I Augusti</p>
    <p:Head2>II classis</p>
@@ -2171,8 +1520,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sundays of September</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sundays of September',2); ?>
    <p:RubricH>Collect for all hours, and Antiphons for Lauds and II Vespers, are found among the Sundays after Pentecost.</p>
    <p:Head1>Dominica I Septembris</p>
    <p:Head2>II classis</p>
@@ -2364,8 +1713,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sundays of October</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sundays of October',2); ?>
    <p:RubricH>Collect for all hours, and Antiphons for Lauds and II Vespers, are found among the Sundays after Pentecost.</p>
    <p:Head1>Dominica I Octobris</p>
    <p:Head2>II classis</p>
@@ -2448,8 +1797,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sundays of November</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sundays of November',2); ?>
    <p:RubricH>Collect for all hours, and Antiphons for Lauds and II Vespers, are found among the Sundays after Pentecost.</p>
    <p:Head1>Dominica I Novembris</p>
    <p:Head2>II classis</p>
@@ -2527,8 +1876,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Twelfth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Twelfth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2576,8 +1925,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Thirteenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Thirteenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XIII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2625,8 +1974,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Fourteenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Fourteenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XIV Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2674,8 +2023,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Fifteenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Fifteenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XV Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2723,8 +2072,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sixteenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sixteenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XVI Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2772,8 +2121,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Seventeenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Seventeenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XVII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2821,8 +2170,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Eighteenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Eighteenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XVIII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2870,8 +2219,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Nineteenth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Nineteenth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XIX Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2919,8 +2268,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Twentieth Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Twentieth Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XX Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -2968,8 +2317,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Twenty-first Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Twenty-first Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XXI Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -3017,8 +2366,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Twenty-second Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Twenty-second Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XXII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -3066,8 +2415,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Twenty-third Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Twenty-third Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XXIII Post Pentecosten</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -3115,8 +2464,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sundays after Epiphany</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sundays after Epiphany',2); ?>
    <p:Rubric>The Sundays after Pentecost cannot be fewer than 23, or more than 28. But when they are more than 24, then, after the twenty-third Sunday, there are used up those things which were not required after Epiphany, as regards the collect, homily, and antiphons at the <snr>Benedíctus</s> and the <snr>Magníficat</s>, according to the following table:</p>
    <p:Rubric/>
    <table:table table:name="TableEpiphany24" table:style-name="TableEpiphany24">
@@ -3257,8 +2606,8 @@
    <p:Rubric>Select the column with the correct number of Sundays after Pentecost, then select the row which represents the current week after Pentecost. The far right column will give the Office to be used for that week.</p>
    <p:Body/>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Third Sunday after the Epiphany</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Third Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica III Post Epiphaniam</p>
    <p:Head2>Quæ Superfuit, II classis</p>
    <p:Head2>Collect</p>
@@ -3277,8 +2626,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Fourth Sunday after the Epiphany</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Fourth Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica IV Post Epiphaniam</p>
    <p:Head2>Quæ Superfuit, II classis</p>
    <p:Head2>Collect</p>
@@ -3326,8 +2675,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Fifth Sunday after the Epiphany</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Fifth Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica V Post Epiphaniam</p>
    <p:Head2>Quæ Superfuit, II classis</p>
    <p:Head2>Collect</p>
@@ -3375,8 +2724,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Sixth Sunday after the Epiphany</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Sixth Sunday after the Epiphany',2); ?>
    <p:Head1>Dominica VI Post Epiphaniam</p>
    <p:Head2>Quæ Superfuit, II classis</p>
    <p:Head2>Collect</p>
@@ -3424,8 +2773,8 @@
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-   <p:Hidden1>Trinitytide</p>
-   <p:Hidden2>Twenty-fourth and Last Sunday after Pentecost</p>
+<?php hidden('Trinitytide',1); ?>
+<?php hidden('Twenty-fourth and Last Sunday after Pentecost',2); ?>
    <p:Head1>Dominica XXIV et Ultima</p>
    <p:Head2>Post Pentecosten, II classis</p>
    <p:Head2>Collect</p>

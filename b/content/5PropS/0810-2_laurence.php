@@ -17,8 +17,7 @@
 	prayer('prSanct/0810.php');
 
 	space();
-	rubrics('head/LittleHours.php');
-	rubrics('ps/Feria.php');
+	rubrics('ps/LittleHoursFeria.php');
 
 	hour('T');
 	lc('2cor9_6.php');

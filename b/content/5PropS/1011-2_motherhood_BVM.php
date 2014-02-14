@@ -18,8 +18,7 @@
 <?php prayer('prSanct/0325.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/LittleHours.php'); ?>
-<?php rubrics('ps/Feria.php'); ?>
+<?php rubrics('ps/LittleHoursFeria.php'); ?>
 <?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
    <p:BodySm/>
 

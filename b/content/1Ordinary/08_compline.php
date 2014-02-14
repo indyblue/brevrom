@@ -13,14 +13,14 @@
 	head('De examine conscientiæ et confessione','The examination of conscience and confession',2);
 	rubp('<snr>55</s> Deinde subditur:',
 		'<snr>55</s> Then is said:');
-	vrS('Ord/adjutorium_nostrum_in_nomine_domini.php');
+	vrS('Ord/adjutorium+nostrum_in_nomine_domini.php');
 	rubp('<snr>Pater noster</s>, quod dicitur totum secreto.',
 		'<snr>Pater noster</s>, all of which is said silently.',1);
 	rubp('<snr>56</s> Cum Completorium dicitur tamquam ultima precatio in fine diei, <snr>Pater noster</s> hoc loco dicendum omittitur, et ejus loco, in choro et in communi, fit examen conscientiæ per rationabile tempus protractum: quod confenienter servatur etiam in recitatione a solo.',
 		'<snr>56</s> When Compline is said as the last prayer at the end of the day, the <snr>Pater noster</s> is not said and in its place, in choir and in common, an examination of conscience of reasonable length is made; which may also be observed in recitation alone.');
 	space('Line');
 	rubp('<snr>57</s> Post <snr>Pater noster</s>, vel post examen conscientiæ, hebdomadarius facit confessionem, ut infra, et ubi dicitur: <snr>tibi, pater</s>, et <snr>te, pater</s>, dicat: <snr>vobis, fratres</s>, et <snr>vos, fratres</s>.',
-		'<snr>57</s> After the <snr>Pater noster</s>, or after the examination of conscience, the Hebdomadary makes his confession, as below, but instead of <snr>tibi, pater</s>, et <snr>te, pater</s>, say <snr>vobis, fratres</s>, et <snr>vos, fratres</s>.');
+		'<snr>57</s> After the <snr>Pater noster</s>, or after the examination of conscience, the Officiant makes his confession, as below, but instead of <snr>tibi, pater</s>, et <snr>te, pater</s>, say <snr>vobis, fratres</s>, et <snr>vos, fratres</s>.');
 	space();
 	rubp('Chorus respondet:','Choir responds:',1);
 	prayer('Ord/misereatur_tui.php',1);
@@ -28,7 +28,7 @@
 		'Then repeats the confession:',1);
 	prayer('Ord/confiteor_tibi.php');
 	rubp('Facta confessione a choro, hebdomadarius dicit:',
-		'The confession of the choir being made, the Hebdomadary says:');
+		'The confession of the choir being made, the Officiant says:');
 	prayer('Ord/misereatur_vestri.php',1);
 	prayer('Ord/indulgentiam.php',1);
 	space('Line');
@@ -64,7 +64,7 @@ Saturday (<snr>'. bkref('psSC') .'</s>).');
 	head('De hymno','The hymn',2);
 	rubp('<snr>62</s> Repetita post ultimum psalmum antiphona, dicitur:',
 		'<snr>62</s> After the antiphon is repeated after the last psalm, is said:');
-	hymn('te_lucis_ante_terminum.php');
+	hymn('te_lucis_ante_terminum.php',0);
 
 	head('De capitulo et responorio brevi','The little chapter and brief response',2);
 	rubp('<snr>63</s> Absoluto hymno, dicitur sequens capitulum et responsorium breve:',
@@ -75,6 +75,7 @@ Saturday (<snr>'. bkref('psSC') .'</s>).');
 	vrS('Ord/custodi_nos_domine_ut_pupillam_oculi.php');
 	rubp('A sabbato ante dominicam I Passionis usque ad feriam IV Hebdomadæ sanctæ, in Officio de Tempore, in responsorio brevi omittitur <snr>Glória Patri</s>, et hujus loco repetitur responsorium.',
 		'From the Saturday before the first Sunday of Passiontide until Friday of Holy Week, in the Office of the Season, in the brief response omit <snr>Glória Patri</s>.');
+	space();
 	rubp('A sabbato ante dominicam in albis usque ad Feriam VI infra octavam Pentecostes inclusive, responsorium breve dicitur hoc modo:',
 		'From the Saturday before the first Sunday after Easter Sunday until the Friday in the octave of Pentecost, inclusive, the brief response is said in this form:');
 	rubrics('head/PT.php');

@@ -69,7 +69,7 @@
 	hour('2V');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV115.php');
-	bookmark('csMVlc');
+	bookmark('csMmVlc');
 	lc('wis3_1.php');
 	rubrics('head/HymnVerse.php');
 	hymn('sanctorum_meritis_inclyta_gaudia.php');

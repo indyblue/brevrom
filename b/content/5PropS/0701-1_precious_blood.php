@@ -3,7 +3,7 @@
 	space(); 
 	img('Tempore/t10_sacred_heart.tif',100);
 	space('RubricH'); 
-	headst('701',11,'Pretiosissimi Sanguinis D.N.J.C.',
+	headst('701',1,'Pretiosissimi Sanguinis D.N.J.C.',
 		'The Most Precious Blood of our Lord Jesus Christ');
 
 	hour('1V');
@@ -29,8 +29,7 @@
 	prayer('prSanct/0701.php');
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('prSanct/1classLittleHours.php'); 
+	rubrics('ps/LittleHoursFeast.php');
 
 	hour('T'); 
 	lc('hebr9_11-12.php');
@@ -55,6 +54,7 @@
 	rubrics('ps/SuV147.php');
 	ant('prSanct/0701V.php','02222');
 	lc('hebr9_11-12.php');
+	rubrics('head/HymnVerse.php');
 	hymn('festivis_resonent_compita_vocibus.php',0);
 	vrS('prSanct/te_ergo_quaesumus_tuis_famulis_subveni.php');
 	ant('prSanct/0701m2.php','M');

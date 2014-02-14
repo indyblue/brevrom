@@ -24,6 +24,7 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	head('De capitulo et responorio brevi','The little chapter and brief response',2);
 	rubp('<snr>22</s> Repetita post ultimum psalmum antiphona, semper dicitur sequens:',
 		'<snr>22</s> After the antiphon is repeated after the last psalm, always say the following:');
+	bookmark('1tim1_17');
 	lc('1tim1_17.php');
 
 	rubp('<snr>23</s> Deinde subjungitur responsorium breve, ut sequitur.',
@@ -74,7 +75,7 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	head('De lectione Martyrologii','The reading of the Martyrology',2);
 	rubp('<snr>25</s> Deinde, in choro, legitur Martyrologium, quod convenienter fit etiam extra chorum.',
 		'<snr>25</s> Then, in choir, the Martyrology is read, and also when convenient out of choir.');
-	rubp('Postea hebdomadarius dicit:','Then the hebdomadary says:');
+	rubp('Postea hebdomadarius dicit:','Then the Officiant says:');
 	vrS('Ord/pretiosa_in_conspectu_domini.php');
 	rubp('Et absolute, sine <snr>Orémus</s>:',
 		'And then, without <snr>Orémus</s>, is said:',1);
@@ -114,7 +115,7 @@ Saturday (<snr>'. bkref('psSP') .'</s>).');
 	head('De conclusione Primæ','The conclusion of Prime',2);
 	rubp('<snr>28</s> Ac deinde subditur:',
 		'<snr>28</s> And then is said:');
-	vrS('Ord/adjutorium_nostrum_in_nomine_domini.php');
+	vrS('Ord/adjutorium+nostrum_in_nomine_domini.php');
 	vrS('Ord/benedicite.php');
 	vr('prime_bened.php');
 	rubp('Et ita absolvitur Prima.','And thus Prime is ended.');

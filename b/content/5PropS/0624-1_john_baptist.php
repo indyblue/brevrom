@@ -30,8 +30,7 @@
 	space();
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('prSanct/1classLittleHours.php'); 
+	rubrics('ps/LittleHoursFeast.php');
 
 	hour('T'); 
 	lc('is49_1.php');

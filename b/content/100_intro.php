@@ -1,4 +1,3 @@
-   <text:section text:style-name="Sect1" text:name="Section1" text:protected="false">
 <p:P179/>
    <p:Head1NI>Prayer Before Office</p>
 <p:BodyE><sr>In the beginning, offer to God the praises that you are about to pour forth in his honour, and beseech him to free you from distractions, and to give you light and help to praise him and to pray to him as he deserves; and for this end recite attentively the usual prayer: (St. Alphonsus Liguori)</s></p>
@@ -115,5 +114,4 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
      </draw:text-box>
     </draw:frame></p>
    <p:P1/>
-   </text:section>
 

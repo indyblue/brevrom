@@ -20,8 +20,7 @@
 	rubrics('prSanct/comm_lent.php'); 
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('ps/Feria.php'); 
+	rubrics('ps/LittleHoursFeria.php');
 
 	space();
 	hour('V'); 

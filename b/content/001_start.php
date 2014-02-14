@@ -226,11 +226,22 @@
   <style:style style:name="fr10" style:family="graphic" style:parent-style-name="OLE">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" draw:ole-draw-aspect="1"/>
   </style:style>
+<?php /*
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
     <style:columns fo:column-count="1" fo:column-gap="0in"/>
    </style:section-properties>
   </style:style>
+*/ ?>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="2" fo:column-gap="0.2in">
+     <style:column style:rel-width="4986*" fo:start-indent="0in" fo:end-indent="0.1in"/>
+     <style:column style:rel-width="4986*" fo:start-indent="0.1in" fo:end-indent="0in"/>
+    </style:columns>
+   </style:section-properties>
+  </style:style>
+
   <style:style style:name="Sect2" style:family="section">
    <style:section-properties fo:background-color="transparent" style:editable="false">
     <style:columns fo:column-count="1" fo:column-gap="0in"/>

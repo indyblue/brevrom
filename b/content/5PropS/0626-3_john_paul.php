@@ -3,7 +3,6 @@
 	img(); 
 	feast_saint(626,13,'Ss. Joannis et Pauli',
 		'Ss. John and Paul','M+');
-	rubrics('ps/Feria.php');
 	rubrics('prSanct/all_else.php','csMm');
 
 	hour('L');
@@ -15,8 +14,12 @@
 	rubrics('head/Prayer.php'); 
 	prayer('prSanct/0626.php'); 
 
+	rubrics('prSanct/horas_from.php','csMmLH');
+
 	space();
 	hour('V'); 
+	rubrics('ps/antLauds.php');
+	rubrics('ps/SuV115.php');
 	ant('prSanct/0626m.php','M'); 
 
 ?>

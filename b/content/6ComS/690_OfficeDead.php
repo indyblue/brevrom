@@ -2,8 +2,8 @@
 	<p:Body/>
 <?php img('sanctus.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1></p>
-   <p:Hidden2>Office of the Dead</p>
+<?php hidden('',1); ?>
+<?php hidden('Office of the Dead',2); ?>
 <?php bookmark('offDef'); ?>
 	<p:Head1><?php 
 echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
@@ -132,7 +132,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php rm('offDef9n3.php',0,0,1,1) ?>
    <p:BodySm/>
 
-	<p:Rubric>If Lauds is not said at all, the Preces are said, as at Lauds <snr>p. <?php echo bkref('offDefLpr'); ?></s></p>
+	<p:Rubric>If Lauds is not said at all, the Prayers are said, as at Lauds <snr>p. <?php echo bkref('offDefLpr'); ?></s></p>
 
 <p:Rubric>If Matins is separated from Lauds, the following is added after the last Responsory:</p>
 <?php rubrics('offDef/mConcl.php'); ?>
@@ -168,12 +168,12 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php rubrics('head/Benedictus.php'); ?>
 <?php ant('offDefb.php','B'); ?>
-<p:RubricH>The <snr>Benedictus</s> is then said <snr>(p. <?php echo bkref('Benedictus'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
+<p:RubricH>The <snr>Benedictus</s> is then said <snr>(p. <?php echo bkref('benedictus'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
 <?php vrS('requiem_aeternam.php',6); ?>
 <p:Rubric>The antiphon is then repeated.</p>
 	<p:BodySm/>
 
-<?php echo bkref('offDefLpr'); ?>
+<?php bookmark('offDefLpr'); ?>
 <?php rubrics('offDef/preces_concl.php'); ?>
 
 	<p:Head1NI>Collects</p>
@@ -279,7 +279,7 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('offDefm.php','M'); ?>
-<p:RubricH>The <snr>Magnificat</s> is then said <snr>(p. <?php echo bkref('Magnificat'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
+<p:RubricH>The <snr>Magnificat</s> is then said <snr>(p. <?php echo bkref('magnificat'); ?>)</s>, but in place of the <snr>Gloria Patri</s> is said:</p>
 <?php vrS('requiem_aeternam.php',6); ?>
 <p:Rubric>The antiphon is then repeated.</p>
 	<p:BodySm/>

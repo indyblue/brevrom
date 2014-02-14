@@ -15,8 +15,7 @@
 	prayer('prSanct/0212.php'); 
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('ps/Feria.php'); 
+	rubrics('ps/LittleHoursFeria.php');
 	hour('T');
 	lc('1pet4_13.php'); 
 	brS('amavit_eum_dominus_et_ornavit_eum.php');

@@ -15,7 +15,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
 ?>
    <p:BodySm/>
    <p:Body/>
-     <p:Hidden2>July 7</p>
+<?php hidden('July 7',2); ?>
    <p:Head1NI>Ss. Cyrilli et Methodii</p>
    <p:Head2>Ep. et Conf. - III classis - July 7</p>
    <table>
@@ -106,7 +106,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 8</p>
+<?php hidden('July 8',2); ?>
    <p:Head1NI>Sanctae Elisabeth</p>
    <p:Head2>Reginæ, Viduæ - III classis - July 8</p>
    <table>
@@ -197,7 +197,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 10</p>
+<?php hidden('July 10',2); ?>
    <p:Head1NI>Ss. Septem Fratrum</p>
    <p:Head2>Martyrum</p>
    <p:Head1NI>ac Rufinæ et Secundæ</p>
@@ -217,7 +217,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 11</p>
+<?php hidden('July 11',2); ?>
    <p:Head1NI>Sancti Pii I</p>
    <p:Head2>Papæ et Mart. - Commem. - July 11</p>
    <table>
@@ -258,7 +258,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:Rubric/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 12</p>
+<?php hidden('July 12',2); ?>
    <p:Head1NI>Sancti Joannis Gualberti</p>
    <p:Head2>Abbatis - III classis - July 12</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -312,7 +312,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 14</p>
+<?php hidden('July 14',2); ?>
    <p:Head1NI>S. Bonaventuræ</p>
    <p:Head2>Ep., Conf. et Eccl. Doct. - III classis - July 14</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -330,7 +330,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 15</p>
+<?php hidden('July 15',2); ?>
    <p:Head1NI>Sancti Henrici</p>
    <p:Head2>Imperatoris, Conf. - III classis - July 15</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -348,7 +348,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 16</p>
+<?php hidden('July 16',2); ?>
    <p:Head1NI>B. Mariæ Virg. de Monte Carmelo</p>
    <p:Head2>Commem. - July 18</p>
    <p:Rubric>If the Commem. of Our Lady of Mount Carmel falls on a Saturday, the Saturday Office of the B.V.M. is said, but at the Benedictus the following <text:soft-page-break/>antiphon is said, and at all Hours the following Prayer is said.</p>
@@ -389,7 +389,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:Rubric/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 17</p>
+<?php hidden('July 17',2); ?>
    <p:Head1NI>Sancti Alexii</p>
    <p:Head2>Confessoris - Commem. - July 17</p>
    <table>
@@ -429,7 +429,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:Rubric/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 18</p>
+<?php hidden('July 18',2); ?>
    <p:Head1NI>S. Camilli de Lellis</p>
    <p:Head2>Confessoris - III classis - July 18</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -483,7 +483,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 19</p>
+<?php hidden('July 19',2); ?>
    <p:Head1NI>Sancti Vincentii a Paulo</p>
    <p:Head2>Confessoris - III classis - July 19</p>
 <?php rubrics('ps/Feria.php'); ?>
@@ -501,7 +501,7 @@ feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
-     <p:Hidden2>July 20</p>
+<?php hidden('July 20',2); ?>
    <p:Head1NI>Sancti Hieronymi Æmiliani</p>
    <p:Head2>Confessoris - III classis - July 20</p>
 <?php rubrics('ps/Feria.php'); ?>

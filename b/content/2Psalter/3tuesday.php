@@ -56,12 +56,13 @@
 	space('Spacer');
 	ant('Psalter/3Tue/1L1.php','00001');
 	ant('Psalter/alleluia.php','p');
-	space();
+	rubrics('ps/hour_continues.php');
 	lc('rom13_12-13.php');
 	rubrics('head/HymnVerse.php');
 	hymn('ales_diei_nutius.php');
 	vrS('Ord/repleti_sumus_mane_misericordia_tua.php');
 	ant('Psalter/3Tue/1b.php','B');
+	dayhourE(3,'L1');
 
 	space();
 	img(); 
@@ -69,21 +70,22 @@
 	dayhour(3,'L2');
 	multiant(3,1,'20000');
 	psalm(50);
-	space();
+	space(2);
 	multiant(3,1,'12000');
 	psalm(42);
-	space();
+	space(2);
 	multiant(3,1,'01200');
 	psalm(66,0,1);
-	space();
+	space(2);
 	multiant(3,1,'00120');
 	bookmark('cant_ezechiel');
 	canticle('ezechiel.php');
-	space();
+	space(2);
 	multiant(3,1,'00012');
 	psalm(134);
-	space();
+	space(2);
 	multiant(3,1,'00001');
+	dayhourE(3,'L2');
 
 
 	space();
@@ -96,6 +98,7 @@
 	psalm(24,3);
 	ant('Psalter/3Tue/2P.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(3,'P');
 
 	space();
 	img(); 
@@ -107,6 +110,7 @@
 	psalm(39,3);
 	ant('Psalter/3Tue/3T.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(3,'T');
 
 	space();
 	img(); 
@@ -119,6 +123,7 @@
 	psalm(41,2);
 	ant('Psalter/3Tue/4S.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(3,'S');
 
 	space();
 	img(); 
@@ -129,6 +134,7 @@
 	psalm(43,3);
 	ant('Psalter/3Tue/5N.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(3,'N');
 
 	space();
 	img(); 
@@ -152,12 +158,13 @@
 	space('Spacer');
 	ant('Psalter/3Tue/6V.php','00001');
 	ant('Psalter/alleluia.php','p');
-	space();
+	rubrics('ps/hour_continues.php');
 	lc('2cor1_3-4.php');
 	rubrics('head/HymnVerse.php');
 	hymn('telluris_alme_conditor.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
 	ant('Psalter/3Tue/6m.php','B');
+	dayhourE(3,'V');
 
 	space();
 	img(); 
@@ -170,5 +177,6 @@
 	psalm(15);
 	ant('Psalter/3Tue/7C.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(3,'C');
 
 ?>

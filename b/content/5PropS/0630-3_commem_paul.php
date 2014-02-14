@@ -20,8 +20,7 @@
 	prayer('prSanct/0222.php');
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('prSanct/1classLittleHours.php'); 
+	rubrics('ps/LittleHoursFeria.php');
 
 	hour('T'); 
 	lc('2tim4_7-8.php');

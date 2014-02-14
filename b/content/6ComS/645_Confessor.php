@@ -7,16 +7,7 @@
 		'Common of Confessors',1,
 		'Common of Saints','Confessors');
 
-	rubrics('head/Prayer.php',1);
-	prayer('csConfessor1.php');
-	head('Alia oratio','Alternate prayer',4);
-	prayer('csConfessor2.php');
-	head('Pro Doctore non Pontifice','For a Doctor, not a Bishop',4);
-	prayer('csConfessorDoctor.php');
-  	head('Pro Abbate','For an Abbot',4);
-	prayer('csConfessorAbbot.php');
 
-	space();
 	hour('1V');
 	rubrics('cs/1Vespers.php');
 	rubrics('ps/antLauds.php');
@@ -36,6 +27,14 @@
 	hymn('jesu_corona_celsior.php');
 	vrS('justum_deduxit_dominus_per_vias_rectas.php',2);
 	ant('euge_serve_bone_et_fidelis-tui.php','B',2);
+	rubrics('head/Prayer.php',1);
+	prayer('csConfessor1.php');
+	head('Alia oratio','Alternate prayer',4);
+	prayer('csConfessor2.php');
+	head('Pro Doctore non Pontifice','For a Doctor, not a Bishop',4);
+	prayer('csConfessorDoctor.php');
+  	head('Pro Abbate','For an Abbot',4);
+	prayer('csConfessorAbbot.php');
 	space();
 
 	bookmark('csCLH');

@@ -2,8 +2,8 @@
    <p:RubricH/>
    <p:Head0>Tempus Septuagesimæ</p>
    <p:Body/>
-   <p:Hidden1>Septuagesima</p>
-   <p:Hidden2>Septuagesima</p>
+<?php hidden('Septuagesima',1); ?>
+<?php hidden('Septuagesima',2); ?>
    <p:Head1>Dominica in Septuagesima</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -296,8 +296,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Septuagesima</p>
-   <p:Hidden2>Sexagesima</p>
+<?php hidden('Septuagesima',1); ?>
+<?php hidden('Sexagesima',2); ?>
    <p:Head1>Dominica in Sexagesima</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>
@@ -590,8 +590,8 @@
    <p:Body/>
 <?php img('separator3.tif',100); ?>
    <p:RubricH/>
-   <p:Hidden1>Septuagesima</p>
-   <p:Hidden2>Quinquagesima</p>
+<?php hidden('Septuagesima',1); ?>
+<?php hidden('Quinquagesima',2); ?>
    <p:Head1>Dominica in Quinquagesima</p>
    <p:Head2>II classis</p>
    <p:Head2>Collect</p>

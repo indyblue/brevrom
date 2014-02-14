@@ -53,12 +53,13 @@
 	space('Spacer');
 	ant('Psalter/1Sun/1L1.php','00001');
 	ant('Psalter/alleluia.php','p');
-	space();
+	rubrics('ps/hour_continues.php');
 	lc('apoc7_12.php');
 	rubrics('head/HymnVerse.php');
 	hymn('aeterne_rerum_conditor.php');
 	hymn('ecce_jam_noctis_tenuatur_umbra.php');
 	vrS('Ord/dominus_regnavit_decorem_induit.php');
+	dayhourE(1,'L');
 
 	space();
 	img(); 
@@ -66,16 +67,16 @@
 	dayhour(1,'L2');
 	rubp('Antiphonæ de Laudibus dominicæ currentis, ut in Proprio de Tempore.','Antiphons as in Lauds of the current Sunday Office, as in the Proper of Seasons.');
 	bookmark('PsSuL2');
-	rubp('1');
+	head('1','I',5);
 	bookmark('Ps50');
 	psalm(50);
-	rubp('2');
+	head('2','II',5);
 	psalm(117);
-	rubp('3');
+	head('3','III',5);
 	psalm(62);
-	rubp('4');
+	head('4','IV',5);
 	canticle('threechildren2.php');
-	rubp('5');
+	head('5','V',5);
 	psalm(148);
 	rubp('Capitulum, Hymnus, Versus et Ant. ad <snr>Benedíctus</s>, ut in Proprio de Tempore.','Little Chapter, Hymn, Verse, and <snr>Benedíctus</s> Ant., as in the Proper of Seasons.');
 
@@ -94,6 +95,7 @@
 	psalm(118,2);
 	ant('Psalter/1Sun/2P.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(1,'P');
 
 	space();
 	img(); 
@@ -106,9 +108,7 @@
 	psalm(118,5);
 	ant('Psalter/1Sun/3T.php',1);
 	ant('Psalter/alleluia.php','p');
-	lc('1john4_16.php');
-	brS('Ord/inclina_cor_meum_deus_in_testimonia_tua.php');
-	vrS('Ord/ego_dixi_domine_miserere_mei.php');
+	dayhourE(1,'T');
 
 	space();
 	img(); 
@@ -121,9 +121,7 @@
 	psalm(118,8);
 	ant('Psalter/1Sun/4S.php',1);
 	ant('Psalter/alleluia.php','p');
-	lc('gal6_2.php');
-	brS('Ord/in_aeternum_domine_permanet_verbum_tuum.php');
-	vrS('Ord/dominus_regit_me_et_nihil_mihi_deerit.php');
+	dayhourE(1,'S');
 
 	space();
 	img(); 
@@ -136,9 +134,7 @@
 	psalm(118,11);
 	ant('Psalter/1Sun/5N.php',1);
 	ant('Psalter/alleluia.php','p');
-	lc('1cor6_20.php');
-	brS('Ord/clamavi_in_toto_corde_meo_exaudi_me_domine.php');
-	vrS('Ord/ab_occultis_meis_munda_me_domine.php');
+	dayhourE(1,'N');
 
 	space();
 	img(); 
@@ -168,11 +164,12 @@
 	bookmark('ps116');
 	psalm(116);
 	space('Line');
-	space();
+	rubrics('ps/hour_continues.php');
 	lc('2cor1_3-4.php');
 	rubrics('head/HymnVerse.php');
 	hymn('lucis_creator_optime.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
+	dayhourE(1,'V');
 
 	space();
 	img(); 
@@ -185,5 +182,6 @@
 	psalm(133);
 	ant('Psalter/1Sun/7C.php',1);
 	ant('Psalter/alleluia.php','p');
+	dayhourE(1,'C');
 
 ?>

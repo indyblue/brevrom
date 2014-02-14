@@ -1,9 +1,9 @@
    <p:P1/>
    <p:Body/>
-   <p:Hidden1>Appendix</p>
+<?php hidden('Appendix',1); ?>
    <p:Head0>Appendix</p>
    <p:BodySm/>
-   <p:Hidden2>1. Penitential Psalms</p>
+<?php hidden('1. Penitential Psalms',2); ?>
    <p:Head1>I: Penitential Psalms</p>
    <table>
     <tr>
@@ -48,7 +48,7 @@ psref(142);
    <p:BodySm/>
 <?php img(); ?>
    <p:BodySm/>
-   <p:Hidden2>2. Litany of the Saints</p>
+<?php hidden('2. Litany of the Saints',2); ?>
    <p:Head1>II: Litany of the Saints</p>
    <p:Body/>
    <table>

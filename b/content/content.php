@@ -46,7 +46,7 @@ $_GET['L'] = 0;
 //     'L5' for Lulu 5.5 x 8.5
 //     'L8' for Lulu 8.5 x 11
 //
-$_GET['Style'] = '7';
+$_GET['Style'] = 'L5';
 
 // 
 // these are only used if 'Style' is not a valid preset
@@ -63,25 +63,21 @@ $_GET['BodyFont'] = 9;
 $_GET['O'] = 0;
 
 
-
-//hymn('vexilla_regis_prodeunt.php');
-
 // space('PgB');
-// require 'C:\www\b\content\6ComS\690_OfficeDead.php';
 // require '1Ordinary\index.php';
+// new is 313
+// old is 295
 // require '2Psalter/index.php';
-// require 'Z:\www\b\content\5PropS\08_August.php';
-// require 'Z:\www\b\content\5PropS\index.php';
+// require '2Psalter/index_OLD.php';
+
 
 
 require '100_intro.php';
 require '110_toc.php';
 require '150_calendar.php';
 require '3PropT/index.php';
-$_GET['O'] = 1;
 require '1Ordinary/index.php';
 require '2Psalter/index.php';
-$_GET['O'] = 0;
 
 require '5PropS/index.php';
 require '6ComS/index.php';
