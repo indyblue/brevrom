@@ -76,7 +76,7 @@
 
 	feria(6,4);
 	ant('PrTemp/easter/16b.php','B');
-	ant('PrTemp/easter/16m.php','M');
+	ant('PrTemp/easter/10m2.php','M');
 	space();
 
 	feria(7,4);

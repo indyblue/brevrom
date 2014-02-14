@@ -1,0 +1,1 @@
+O God, who makest the hearts of the faithful to be of one accord: grant unto thy people to love what thou dost command, and to desire what thou dost promise: that amidst the various changes of this world, our hearts may be fixed there, where true joys abide. Through our Lord.
