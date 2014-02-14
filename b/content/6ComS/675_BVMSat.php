@@ -8,6 +8,9 @@
 		'Saturday Office of the B.V.M.',1,
 		'Common of Saints','B.V.M. Saturday');
 
+	rubp('Omnibus sabbatis IV classis, fit Officium de sancta Maria, in quo, sumptis antiphonis et psalmis de sabbato, reliqua dicuntur ut infra.', 'On all IV class Saturdays, the Office of Holy Mary takes place, in which the antiphons and psalms of Saturday are used, the rest being said as follows.');
+	space();
+
 	hour('L');
 	rubrics('ps/SaL1.php');
 	lc('ecclus24_14.php');

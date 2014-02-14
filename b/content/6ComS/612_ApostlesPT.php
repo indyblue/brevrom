@@ -8,11 +8,6 @@
 		'Common of Saints','Apostles/Martyrs PT');
 	head('Tempore Paschali','in Paschaltide',3);
 
-	rubrics('head/Prayer.php',1);
-	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For a Martyr Pope, prayer');
-	rubrics('asIn.php','csM','Common of One Martyr','For One Martyr, prayer');
-	rubrics('asIn.php','csMm','Common of Several Martyrs','For Several Martyrs, prayer');
-
 	space();
 	hour('1V');
 	rubrics('cs/1Vespers.php');
@@ -31,12 +26,18 @@
 	bookmark('csApPTLlc');
 	lc('wis5_1.php');
 	rubrics('head/HymnVerse.php');
-	rubrics('asIn.php','csMLh','Lauds, Common of One Martyr','For One Martyr, Hymn <snr>Invícte Martyr, únicum</s>');
-	rubrics('asIn.php','csMmLh','Lauds, Common of Several Martyrs','For Several Martyrs, Hymn <snr>Rex glorióse Mártyrum</s>');
+	head('Pro uno Martyre','For one Martyr',-4);
+	hymn('deus_tuorum_militum.php',1);
+	head('Pro pluribus Martyribus','For several Martyrs',-4);
+	hymn('rex_gloriose_martyrum.php',1);
 	head('Pro Apostolis','For Apostles',-4);
 	hymn('paschale_mundo_gaudium.php');
 	vrS('pretiosa_in_conspectu_domini.php',1);
 	ant('filiae_jerusalem_venite_et_videte_martyres.php','B',1);
+	rubrics('head/Prayer.php',1);
+	rubp('Pro Summo Pontifice Martyre vel Summis Pontificibus Martyribus, <snr>p. '. bkref('csPope') .'</s>', 'For a Martyr Pope or several Martyr Popes, <snr>p. '. bkref('csPope') .'</s>');
+	rubp('Pro uno Martyre, <snr>p. '. bkref('csM') .'</s>', 'For one Martyr, <snr>p. '. bkref('csM') .'</s>');
+	rubp('Pro pluribus Martyribus, <snr>p. '. bkref('csMm') .'</s>', 'For several Martyrs, <snr>p. '. bkref('csMm') .'</s>');
 
 	space();
 	bookmark('csApPTLH');
@@ -69,8 +70,10 @@
 	bookmark('csApPTVlc');
 	lc('wis5_1.php');
 	rubrics('head/HymnVerse.php');
-	rubrics('asIn.php','csMVh','Vespers, Common of One Martyr','For One Martyr, Hymn <snr>Deus, tuórum mílitum</s>');
-	rubrics('asIn.php','csMmLh','Lauds, Common of Several Martyrs','For Several Martyrs, Hymn <snr>Rex glorióse Mártyrum</s>');
+	head('Pro uno Martyre','For one Martyr',-4);
+	hymn('deus_tuorum_militum.php',1);
+	head('Pro pluribus Martyribus','For several Martyrs',-4);
+	hymn('rex_gloriose_martyrum.php',1);
 	head('Pro Apostolis','For Apostles',-4);
 	hymn('tristes_erant_apostoli.php');
 	vrS('pretiosa_in_conspectu_domini.php',1);

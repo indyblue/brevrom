@@ -15,13 +15,11 @@
 	rubrics('ps/SuV116.php');
 	lc('wis3_1.php','csMmVlc','h','sanctorum_meritis_inclyta_gaudia.php');
 	vrS('laetamini_in_domino_et_exultate_justi.php');
-	rubrics('head/Magnificat.php');
 	ant('istorum_est_enim_regnum_caelorum.php','M');
 	rubrics('cs/1Compline.php');
 
 	space();
 	hour('L');
-	rubrics('head/Psalms.php');
 	ant('csMmL.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('csMmL.php','02222');
@@ -34,8 +32,7 @@
 	ant('vestri_capilli_capitis_omnes_numerati_sunt.php','B');
 
 	rubrics('head/Prayer.php',1);
-	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For Several Martyr Popes, prayer');
-	space();
+	rubp('Pro Summis Pontificibus Martyribus, <snr>p. '. bkref('csPope') .'</s>', 'For several Martyr Popes, <snr>p. '. bkref('csPope') .'</s>');
 	head('Pro pluribus Martyribus Pontificibus','For several Martyrs Bishops',-4);
 	prayer('csMartyrsBishops1.php');
 	head('Si non fuerint Pontifices','If they are not Bishops',-4);

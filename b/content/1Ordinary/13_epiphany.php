@@ -4,7 +4,7 @@
 	head('Tempore Epiphaniæ','Epiphany Season',1,'Ordinary','Epiphany');
 	hour('L');
 	lc('is60_1.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('o_sola_magnarum_urbium.php',0);
 	vrS('PrTemp/adorate_deum.php',1);
 	rubp('Antiphona ad <snr>Benedíctus</s>, ut in Proprio de Tempore.', 'Antiphon at the <snr>Benedictus</s>, as in the Proper of Seasons.');
@@ -44,7 +44,7 @@
 
 	hour('V');
 	lc('is60_1.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('crudelis_herodes_deum.php',0);
 	vrS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php');
 	rubp('Antiphona ad <snr>Magníficat</s>, ut in Proprio de Tempore.', 'Antiphon at the <snr>Magnificat</s>, as in the Proper of Seasons.');	

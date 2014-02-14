@@ -1,1 +1,5 @@
-   <p:Rubric>On Feasts of the 1st class, Compline of Sunday is said.</p>
+<?php
+	rubp('Complet. de Dominica, <snr>p. '. 
+bkref('orCompline') .'</s>',
+		'Compline of Sunday, <snr>p. '. bkref('orCompline') .'</s>');
+?>

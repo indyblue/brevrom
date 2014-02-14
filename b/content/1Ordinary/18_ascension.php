@@ -4,7 +4,7 @@
 	head('Tempore Ascensionis', 'Season of Ascensiontide',1,'Ordinary','Ascension');
 	hour('L');
 	lc('acts1_1-2.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('salutis_humanae_sator.php',0);
 	vrS('PrTemp/dominus_in_caelo.php',1);
 	rubp('In Officio feriali, dicitur cotidie sequens:', 'In the ferial Office, the following is said:');
@@ -33,6 +33,7 @@
 
 	hour('V');
 	lc('acts1_1-2.php');
+	rubrics('head/HymnVerse.php');
 	hymn('salutis_humanae_sator.php',1);
 	vrS('PrTemp/ascendit_deus_in_jubilatione.php',1);
 	rubp('In Officio feriali, dicitur cotidie sequens:', 'In the ferial Office, the following is said:');

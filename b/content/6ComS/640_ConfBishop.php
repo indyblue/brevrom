@@ -32,7 +32,7 @@
 	vrS('justum_deduxit_dominus_per_vias_rectas.php',2);
 	ant('euge_serve_bone_et_fidelis.php','B',2);
 	rubrics('head/Prayer.php',1);
-	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For a Pope, prayer');
+	rubp('Pro Confessore Summo Pontifice, <snr>p. '. bkref('csPope') .'</s>', 'For a Confessor Pope, <snr>p. '. bkref('csPope') .'</s>');
 	head('Pro Confessore Pontifice','For a Confessor Bishop',-4);
 	prayer('csConfessorBishop1.php');
 	head('Alia oratio','Alternate prayer',-4);

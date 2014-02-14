@@ -5,7 +5,7 @@
 	head('Tempore Paschatis', 'Season of Easter',1,'Ordinary','Easter');
 	hour('L');
 	lc('rom6_9-10.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('aurora_caelum_purpurat.php',0);
 	vrS('PrTemp/in_resurrectione_tua_christe.php',1);
 	space();
@@ -30,7 +30,7 @@
 
 	hour('V');
 	lc('rom6_9-10.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('ad_regias_agni_dapes.php',0);
 	vrS('PrTemp/mane_nobiscum_domine.php',1);
 

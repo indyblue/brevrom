@@ -6,7 +6,7 @@
 	hour('L');
 	bookmark('OrPassionLLC');
 	lc('jer11_19.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('lustra_sex_qui_jam_peregit.php',0);
 	vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php');
 	space();
@@ -31,7 +31,7 @@
 
 	hour('V');
 	lc('jer11_20.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('vexilla_regis_prodeunt.php',0);
 	vrS('PrTemp/eripe_me_domine_ab_homine_malo.php');
 ?>

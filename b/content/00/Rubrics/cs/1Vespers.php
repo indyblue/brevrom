@@ -1,2 +1,4 @@
-   <p:Rubric>Said on Feasts of the 1st class.</p>
-
+<?php
+	rubp('Quoties festum sit I classis',
+		'Whenever the feast is of the I class');
+?>

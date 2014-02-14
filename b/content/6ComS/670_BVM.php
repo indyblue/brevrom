@@ -10,8 +10,7 @@
 
 	hour('1V');
 	rubrics('cs/1Vespers.php');
-	rubrics('asIn.php','PsComBVM','II Vespers','All');
-	rubp('','Except as follows:');
+	rubrics('prSanct/all2Vespers.php');
 	vrS('dignare_me_laudare_te_virgo_sacrata.php',2);
 	ant('sancta_maria_succurre_miseris.php','M',2);
 	rubrics('cs/1Compline.php');

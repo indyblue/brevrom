@@ -4,7 +4,7 @@
 	head('Tempore Nativitatis','Christmas Season',1,'Ordinary','Christmas');
 	hour('L');
 	lc('tit2_11-12.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('a_solis_ortus_cardine.php',0);
 	vrS('PrTemp/verbum_caro_factum_est.php');
 	ant('PrTemp/nativity/0101b.php','B');
@@ -39,7 +39,7 @@
 	space();
 	hour('V');
 	lc('tit2_11-12.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('jesu_redemptor_omnium_quem.php',0);
 	vrS('PrTemp/notum_fecit_dominus.php',1);
 	ant('PrTemp/nativity/0101m2.php','M');

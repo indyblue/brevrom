@@ -32,7 +32,7 @@
 	ant('qui_odit_animam_suam_in_hoc_mundo.php','B');
 
 	rubrics('head/Prayer.php',1);
-	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For a Martyr Pope, prayer');
+	rubp('Pro Summo Pontifice Martyre, <snr>p. '. bkref('csPope') .'</s>', 'For a Martyr Pope, <snr>p. '. bkref('csPope') .'</s>');
 	head('Pro Martyre Pontifice','For a Martyr Bishop',-4);
 	prayer('csMartyrBishop1.php');
 	head('Alia oratio','Alternate prayer',-4);

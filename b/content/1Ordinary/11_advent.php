@@ -15,7 +15,7 @@
 
 	lc('is2_3.php');
 
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 //	rubp('In Officio tam dominicali quam feriali, dicitur sequens hymnus et versus:','In both the Sunday and ferial Office, the following hymn and verse is said:');
 	hymn('en_clara_vox_redarguit.php',0);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
@@ -61,7 +61,7 @@
 
 	hour('V');
 	lc('gen49_10.php');
-	head('De hymno et versu','The hymn and verse',3);
+	rubrics('head/HymnVerse.php');
 	hymn('creator_alme_siderum.php',0);
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
 	head('Preces','Preces',3);

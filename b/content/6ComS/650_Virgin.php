@@ -18,7 +18,7 @@
   	space('Line');
 	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',-4);
 	vrS('adducentur_regi_virgines_post_eam.php',2);
-	ant('prudentes_virgines_aptate_vestras_lampades.php',2);
+	ant('prudentes_virgines_aptate_vestras_lampades.php','M',2);
 	space('Line');
 	rubrics('cs/1Compline.php');
 
