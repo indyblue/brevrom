@@ -3,7 +3,7 @@ Unk. 18th c.
 
 Gentis Polónæ glória,
 Cleríque splendor nóbilis,
-Decus Lycæi, et pátriæ
+Decus Lycǽi, et pátriæ
 Pater, Joánnes ínclyte.
 
 Legem supérni Núminis

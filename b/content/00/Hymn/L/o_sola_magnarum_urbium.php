@@ -18,7 +18,7 @@ Thus, myrrham, et aurum régium.
 
 Regem Deúmque annúntiant
 Thesáuris, et fragrans odor
-Thuris Sabǽi, ac myrrheus
+Thuris Sabǽi, ac mýrrheus
 Pulvis sepúlcrum prǽdocet.
 
 Jesu tibi sit glória,

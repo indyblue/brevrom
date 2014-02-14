@@ -510,7 +510,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Qui sédes ad déxteram Patris.</p>
+      <p:BodyL><s:VR>V. </s>Qui sedes ad déxteram Patris.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Who sits at the right hand of the Father.</p>
@@ -594,8 +594,8 @@
     <tr>
      <td:A1>
       <p:BodyL>Glória Patri.</p>
-      <p:BodyL><s:VR>V. </s>Kyrie, eléison.</p>
-      <p:BodyL><s:VR>R. </s>Christe, eléison. Kyrie, eléison.</p>
+      <p:BodyL><s:VR>V. </s>Kýrie, eléison.</p>
+      <p:BodyL><s:VR>R. </s>Christe, eléison. Kýrie, eléison.</p>
      </td>
      <td:B1>
       <p:BodyE>Glory be.</p>

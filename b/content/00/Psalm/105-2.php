@@ -1,4 +1,4 @@
-Ps 105 ii. Et irritavérunt Moysen
+Ps 105 ii. Et irritavérunt Móysen
 Et irritavérunt Móysen in castris: * Áaron, sanctum Dómini.
 Apérta est terra, et deglutívit Dathan: * et opéruit super congregatiónem Abíron.
 Et exársit ignis in synagóga eórum: * flamma combússit peccatóres.

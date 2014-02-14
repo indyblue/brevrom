@@ -4,7 +4,7 @@ St. Ambrose(?)
 Magnæ Deus poténtiæ,
 Qui fértili natos aqua
 Partim relínquis gúrgiti,
-Partim levas in aëra.
+Partim levas in áëra.
 
 Demérsa lymphis ímprimens,
 Subvécta cælis érigens:

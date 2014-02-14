@@ -3,7 +3,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>V. </s>Kyrie, eléison.</p>
+      <p:BodyL><s:VR>V. </s>Kýrie, eléison.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>V. </s>Lord, have mercy.</p>
@@ -11,7 +11,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyL><s:VR>R. </s>Christe, eléison. Kyrie, eléison.</p>
+      <p:BodyL><s:VR>R. </s>Christe, eléison. Kýrie, eléison.</p>
      </td>
      <td:B1>
       <p:BodyE><s:VR>R. </s>Christ, have mercy. Lord have mercy.</p>

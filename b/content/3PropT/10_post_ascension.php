@@ -1672,7 +1672,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Montes Gelboë, * nec ros nec plúvia véniant super vos: quia in te abjéctus est clypeus fórtium, clypeus Saul, quasi non esset unctus óleo. Quómodo cecidérunt fortes in bello? Jónathas in excélsis interféctus est: Saul et Jónathas, amábiles et decóri valde in vita sua, in morte quoque non sunt divísi.</p>
+      <p:BodyL><sr>Ant. </s>Montes Gélboë, * nec ros nec plúvia véniant super vos: quia in te abjéctus est clýpeus fórtium, clýpeus Saul, quasi non esset unctus óleo. Quómodo cecidérunt fortes in bello? Jónathas in excélsis interféctus est: Saul et Jónathas, amábiles et decóri valde in vita sua, in morte quoque non sunt divísi.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Ye mountains of Gelboe, * let neither dew, nor rain come upon you: for in thee was cast away the shield of the valiant, the shield of Saul as though he had not been anointed with oil. How are the valiant fallen in battle? Jonathan slain in the high places? Saul and Jonathan, lovely, and comely in their life, even in death they were not divided.</p>
@@ -2394,7 +2394,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Refúlsit sol * in clypeos áureos, et resplenduérunt montes ab eis: et fortitúdo Géntium dissipáta est.</p>
+      <p:BodyL><sr>Ant. </s>Refúlsit sol * in clýpeos áureos, et resplenduérunt montes ab eis: et fortitúdo Géntium dissipáta est.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>The sun shone * upon the shields of gold, and the mountains glittered therewith: and the strength of the nations was scattered.</p>

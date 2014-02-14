@@ -441,7 +441,7 @@ echo ($_GET['L']==1?'Festa Januarii':'Feasts of January')
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INDULGÉNTIAM nobis, quǽsumus, Dómine, beáta Emerentiána Virgo et Martyr implóret: quæ tibi gráta semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
+      <p:BodyLDrop>INDULGÉNTIAM nobis, quǽsumus, Dómine, beáta Emerentiána Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY Blessed Emerentiana, thy Virgin and Martyr, we beseech thee, O Lord, implore pardon for us; for, by the merit of her chastity and by her confession of thy power, she was ever pleasing to thee. Through our Lord.</p>

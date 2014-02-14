@@ -11,7 +11,7 @@ Fulvis decóra flóribus,
 Fœcúnda fructu sísteret,
 Pastúmque gratum rédderet.
 
-Méntis perústæ vúlnera
+Mentis perústæ vúlnera
 Munda viróre grátiæ:
 Ut facta fletu díluat,
 Motúsque pravos átterat.

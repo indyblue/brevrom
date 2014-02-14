@@ -17,7 +17,7 @@ Dulci patris quem nómine
 Divína Proles ínvocat:
 
 De stirpe Jesse nóbili
-Náti in salútem géntium,
+Nati in salútem géntium,
 Audíte nos qui súpplices
 Vestras ad aras sístimus.
 

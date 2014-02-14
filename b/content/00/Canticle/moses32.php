@@ -3,7 +3,7 @@ Cant Moysis
 Audíte, cæli, quæ loquor: * áudiat terra verba oris mei.
 Concréscat ut plúvia doctrína mea, * fluat ut ros elóquium meum.
 Quasi imber super herbam, et quasi stillæ super grámina. * Quia nomen Dómini invocábo.
-Date magnificéntiam Deo nostro. * Dei perfécta sunt ópera, et omnes viæ ejus júdicia:
+Date magnificéntiam Deo nostro. * Dei perfécta sunt ópera, et omnes viæ ejus judícia:
 Deus fidélis, et absque ulla iniquitáte, justus et rectus. * Peccavérunt ei, non fílii ejus in sórdibus:
 Generátio prava atque pervérsa. * Hǽccine reddis Dómino, pópule stulte et insípiens?
 Numquid non ipse est pater tuus, * qui possédit te, et fecit, et creávit te?

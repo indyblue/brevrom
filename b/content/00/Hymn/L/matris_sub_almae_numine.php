@@ -13,7 +13,7 @@ Onústa vitis prǽmonet.
 
 Virtúte claros nóbili
 Mors sancta cælo cónsecrat:
-Tenent olympi límina
+Tenent olýmpi límina
 Servi fidéles Vírginis.
 
 Cohors beáta, Núminis

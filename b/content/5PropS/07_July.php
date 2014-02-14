@@ -533,7 +533,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLDrop>INDULGÉNTIAM nobis, quǽsumus, Dómine, beáta Margaríta Virgo et Martyr implóret: quæ tibi gráta semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
+      <p:BodyLDrop>INDULGÉNTIAM nobis, quǽsumus, Dómine, beáta Margaríta Virgo et Martyr implóret: quæ tibi grata semper éxstitit, et mérito castitátis, et tuæ professióne virtútis. Per Dóminum.</p>
      </td>
      <td:B1>
       <p:BodyEDrop>MAY BLESSED Margaret thy Virgin and Martyr, we beseech thee, O Lord, implore for us forgiveness; inasmuch as she was ever pleasing unto thee, both by the merit of her chastity and the confession of thy power. Through our Lord.</p>

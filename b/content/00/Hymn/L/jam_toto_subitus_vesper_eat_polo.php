@@ -17,7 +17,7 @@ Fossus vulnéribus, quot penetrántibus
 Te confíxit acúleis!
 
 Éheu! Sputa, álapæ, vérbera, vúlnera,
-Clavi, fel, aloë, spóngia, láncea,
+Clavi, fel, áloë, spóngia, láncea,
 Sitis, spina, cruor, quam vária pium
 Cor pressére tyránnide!
 

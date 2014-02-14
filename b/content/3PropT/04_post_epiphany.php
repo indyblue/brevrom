@@ -43,7 +43,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Deficiénte vino, * jussit Jesus impléri hydrias aqua, quæ in vinum convérsum est, allelúja.</p>
+      <p:BodyL><sr>Ant. </s>Deficiénte vino, * jussit Jesus impléri hýdrias aqua, quæ in vinum convérsum est, allelúja.</p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>The wine failing, * Jesus commanded the water pots to be filled with water, which was changed into wine, alleluia.</p>

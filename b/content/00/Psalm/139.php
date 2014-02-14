@@ -4,7 +4,7 @@ Qui cogitavérunt iniquitátes in corde: * tota die constituébant prǽlia.
 Acuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.
 Custódi me, Dómine, de manu peccatóris: * et ab homínibus iníquis éripe me.
 Qui cogitavérunt supplantáre gressus meos: * abscondérunt supérbi láqueum mihi:
-Et funes extendérunt in láquem: * juxta iter scándalum posuérunt mihi.
+Et funes extendérunt in láqueum: * juxta iter scándalum posuérunt mihi.
 Dixi Dómino: Deus meus es tu: * exáudi, Dómine, vocem deprecatiónis meæ.
 Dómine, Dómine, virtus salútis meæ: * obumbrásti super caput meum in die belli.
 Ne tradas me, Dómine, a desidério meo peccatóri: * cogitavérunt contra me, ne derelínquas me, ne forte exalténtur.

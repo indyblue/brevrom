@@ -8,7 +8,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Ne reminiscáris * Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <sr>(P.T. Allelúia.)</s></p>
+      <p:BodyL><sr>Ant. </s>Ne reminiscáris * Dómine delícta nostra, vel paréntum nostrórum: neque vindíctam sumas de peccátis nostris. <sr>(P.T. Allelúia.)</s></p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Remember not, * Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <sr>(P.T. Alleluia.)</s></p>
@@ -26,7 +26,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyL><sr>Ant. </s>Ne reminiscáris Dómine delícta nóstra, vel paréntum nostrórum: neque vindíctam súmas de peccátis nóstris. <sr>(P.T. Allelúia.)</s></p>
+      <p:BodyL><sr>Ant. </s>Ne reminiscáris Dómine delícta nostra, vel paréntum nostrórum: neque vindíctam sumas de peccátis nostris. <sr>(P.T. Allelúia.)</s></p>
      </td>
      <td:B1>
       <p:BodyE><sr>Ant. </s>Remember not, Lord, our offenses, nor the offenses of our forefathers, nor take Thou vengeance upon them. <sr>(P.T. Alleluia.)</s></p>
@@ -42,7 +42,7 @@
    <table>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Kyrie, eléison.</p>
+      <p:BodyLSm><s:VR>V. </s>Kýrie, eléison.</p>
      </td>
      <td:B1>
       <p:BodyESm><s:VR>V. </s>Lord, have mercy upon us</p>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Kyrie, eléison.</p>
+      <p:BodyLSm><s:VR>V. </s>Kýrie, eléison.</p>
      </td>
      <td:B1>
       <p:BodyESm><s:VR>V. </s>Lord, have mercy upon us.</p>
@@ -1085,7 +1085,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>V. </s>Kyrie, eléison.</p>
+      <p:BodyLSm><s:VR>V. </s>Kýrie, eléison.</p>
      </td>
      <td:B1>
       <p:BodyESm><s:VR>V. </s>Lord, have mercy upon us.</p>
@@ -1093,7 +1093,7 @@
     </tr>
     <tr>
      <td:A1>
-      <p:BodyLSm><s:VR>R. </s>Christe, eléison. Kyrie, eléison.</p>
+      <p:BodyLSm><s:VR>R. </s>Christe, eléison. Kýrie, eléison.</p>
      </td>
      <td:B1>
       <p:BodyESm><s:VR>R. </s>Christ, have mercy upon us. Lord, have mercy upon us.</p>
