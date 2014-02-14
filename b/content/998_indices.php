@@ -1,6 +1,6 @@
-   <text:p text:style-name="P181"/>
+   <p:P181/>
    <text:p text:style-name="Hidden1" text:restart-numbering="true" text:start-value="1">Index</text:p>
-   <text:p text:style-name="Spacer"/>
+   <p:Spacer/>
    <text:user-index text:style-name="Sect2" text:name="User-Defined1">
     <text:user-index-source text:use-index-source-styles="true" text:index-name="User-Defined">
      <text:index-title-template text:style-name="Head2">Index of Canticles</text:index-title-template>
@@ -60,7 +60,7 @@
     </text:user-index-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="User-Defined1_Head">
-      <text:p text:style-name="Head2">Index of Canticles</text:p>
+      <p:Head2>Index of Canticles</p>
      </text:index-title>
     </text:index-body>
    </text:user-index>
@@ -123,7 +123,7 @@
     </text:user-index-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="User-Defined2_Head">
-      <text:p text:style-name="Head2">Index of Psalms (by Number)</text:p>
+      <p:Head2>Index of Psalms (by Number)</p>
      </text:index-title>
     </text:index-body>
    </text:user-index>
@@ -186,7 +186,7 @@
     </text:user-index-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="User-Defined3_Head">
-      <text:p text:style-name="Head2">Index of Psalms (by First Line)</text:p>
+      <p:Head2>Index of Psalms (by First Line)</p>
      </text:index-title>
     </text:index-body>
    </text:user-index>
@@ -249,7 +249,7 @@
     </text:user-index-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="User-Defined4_Head">
-      <text:p text:style-name="Head2">Index of Hymns</text:p>
+      <p:Head2>Index of Hymns</p>
      </text:index-title>
     </text:index-body>
    </text:user-index>

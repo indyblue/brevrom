@@ -1,7 +1,7 @@
 <?php
 function prayer2($file, $nameL='N.', $nameE='N.') {
 	$dir = "/wamp/www/b/content/00/Prayer/";
-	echo '<text:p text:style-name="Body">' . $file . '</text:p>;
+	echo '<p:Body>' . $file . '</p>;
 	require $dir.'0Prayer.php';
 }
 

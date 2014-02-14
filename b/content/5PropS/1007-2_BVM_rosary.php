@@ -1,5 +1,5 @@
-<?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
-   <text:p text:style-name="BodySm"/>
+<?php img('Saints/1007_holy_rosary_bvm.tif',999,316,100); ?>
+	<p:RubricH/>
 <?php headSt('Oct. 7',2,'Beatæ Mariæ Virg. a Rosario','The Most Holy Rosary of the B.V.M.'); ?>
 
 <?php rubrics('head/1Vespers.php'); ?>
@@ -14,7 +14,7 @@
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/1007m1.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>
-   <text:p text:style-name="BodySm"/>
+   <p:BodySm/>
 
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
@@ -30,18 +30,18 @@
 <?php ant('prSanct/1007b.php'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1007.php'); ?>
-	<text:p text:style-name="BodySm"/>
-   <text:p text:style-name="RubricH">Commemoration is made of St. Mark, Pope and Conf.:</text:p>
+	<p:BodySm/>
+   <p:RubricH>Commemoration is made of St. Mark, Pope and Conf.:</p>
 <?php ant('euge_serve_bone_et_fidelis.php'); ?>
 <?php vrS('justum_deduxit_dominus_per_vias_rectas.php'); ?>
 <?php rubrics('oremus.php'); ?>
 <?php prayer('csPope1.php','Marcum','Mark'); ?>
-   <text:p text:style-name="BodySm"/>
+   <p:BodySm/>
 
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>
-<?php rubrics('ord/prime_qui_natus.php'); ?>
-	<text:p text:style-name="BodySm"/>
+<?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
+	<p:BodySm/>
 
 <?php rubrics('head/Terce.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
@@ -49,7 +49,7 @@
 <?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/sancta_dei_genitrix_semper_virgo_maria.php'); ?>
 <?php vrS('prSanct/post_partum_virgo_inviolata_permansisti.php'); ?>
-   <text:p text:style-name="BodySm"/>
+   <p:BodySm/>
 
 <?php rubrics('head/Sext.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
@@ -57,7 +57,7 @@
 <?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/post_partum_virgo_inviolata_permansisti.php'); ?>
 <?php vrS('prSanct/speciosa_facta_es_et_suavis.php'); ?>
-   <text:p text:style-name="BodySm"/>
+   <p:BodySm/>
 
 <?php rubrics('head/None.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
@@ -65,7 +65,7 @@
 <?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('prSanct/speciosa_facta_es_et_suavis.php'); ?>
 <?php vrS('prSanct/elegit_eam_deus_et_praeelegit_eam_et.php'); ?>
-	<text:p text:style-name="BodySm"/>
+	<p:BodySm/>
 
 <?php rubrics('head/2Vespers.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
@@ -79,4 +79,6 @@
 <?php vrS('prSanct/regina_sacratissimi_rosarii_ora_pro_nobis.php'); ?>
 <?php rubrics('head/Magnificat.php'); ?>
 <?php ant('prSanct/1007m2.php'); ?>
+<?php rubrics('head/Prayer.php'); ?>
+<?php prayer('prSanct/1007.php'); ?>
 <?php rubrics('prSanct/ComplineSun.php'); ?>

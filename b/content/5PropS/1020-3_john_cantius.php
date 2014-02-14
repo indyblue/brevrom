@@ -1,5 +1,5 @@
 <?php img(); ?>
-   <text:p text:style-name="BodySm"/>
+   <p:BodySm/>
 <?php headSt('Oct. 20',3,'S. Joannis Cantii','St. John Cantius','Confessor'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>
@@ -12,12 +12,12 @@
 <?php ant('euge_serve_bone_et_fidelis.php'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/1020.php'); ?>
-	<text:p text:style-name="BodySm"/>
+	<p:BodySm/>
 
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>
-<?php rubrics('prSanct/all_else.php','csC'); ?>
-   <text:p text:style-name="BodySm"/>
+<?php rubrics('prSanct/all_else.php','csCLH'); ?>
+   <p:BodySm/>
 
 <?php rubrics('head/Vespers.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>

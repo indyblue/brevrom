@@ -1,360 +1,358 @@
-   <text:p text:style-name="Head2">The Preces</text:p>
-   <text:p text:style-name="Rubric">Said only in Offices of the Season:<text:line-break/>a) Wednesdays &amp; Fridays of: Advent, Lent, &amp; Passiontide<text:line-break/>b) Ember Wednesday &amp; Friday in September.<?php echo ($option==1?'<text:line-break/>c) Ember Saturdays, except Saturday in Octave of Pentecost.':'') ?></text:p>
-   <table:table table:name="Table987" table:style-name="TableParallel">
-    <table:table-column table:style-name="TableParallel.A"/>
-    <table:table-column table:style-name="TableParallel.B"/>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Kyrie, eléison.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Lord, have mercy.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Christe, eléison. Kyrie, eléison.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Christ, have mercy. Lord have mercy.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL">Pater noster. </text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE">Our Father. </text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">quod dícitur a solo Hebdomadário totum clara voce, usque ad:</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">And the whole is said aloud by the Officiant through:</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Et ne nos indúcas in tentatiónem.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>And lead us not into temptation.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Sed líbera nos a malo.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>But deliver us from evil.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Ego dixi: Dómine, miserére mei.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>I said: Lord, be merciful unto me.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Sana ánimam meam quia peccávi tibi.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Heal my soul, for I have sinned against thee.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Convértere, Dómine, úsquequo?</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Return, O Lord! How Long?</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et deprecábilis esto super servos tuos.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And be entreated in favour of thy servants.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Fiat misericórdia tua, Dómine, super nos.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let thy mercy, O Lord, be upon us</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Quemádmodum sperávimus in te.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>As we have hoped in thee.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Sacerdótes tui induántur justítiam.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let thy priests be clothed with righteousness.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et sancti tui exsúltent.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And thy saints exult with joy.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Orémus pro beatíssimo Papa nostro <text:span text:style-name="Rubric">N.</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let us pray for our most blessed Pope <text:span text:style-name="Rubric">N.</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, et non tradat eum in ánimam inimicórum ejus.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>The Lord preserve him and give him life, and make him blessed upon the earth: and deliver him not up to the will of his enemies.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Orémus et pro Antístite nostro <text:span text:style-name="Rubric">N.</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let us pray also for our Bishop <text:span text:style-name="Rubric">N.</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Stet et pascat in fortitúdine tua, Dómine, in sublimitáte nóminis tui.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>May he stand, and feed his flock in thy strength, O Lord, in the height of thy name.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Dómine, salvum fac regem.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>O Lord, save the king.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et exáudi nos in die, qua invocavérimus te.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And hear us in the day when we call upon thee.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Salvum fac pópulum tuum, Dómine, et bénedic hereditáti tuæ.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>O Lord, save thy people, and bless thine inheritance.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et rege eos, et extólle illos usque in ætérnum.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And govern them, and lift them up for ever.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Meménto Congregatiónis tuæ.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Remember thy congregation.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Quam possedísti ab inítio.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Which thou has purchased of old.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Fiat pax in virtúte tua.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let peace be in thy strength</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et abundántia in túrribus tuis.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And abundance in thy towers.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Orémus pro benefactóribus nostris.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let us pray for our benefactors.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Retribúere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam. Amen.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Vouchsafe, O Lord, for thy Name’s sake, to reward with eternal life all them that do us good. Amen.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Orémus pro fidélibus defúnctis.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let us pray for the faithful departed.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Réquiem ætérnam dona eis, Dómine, et lux perpétua lúceat eis.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>O Lord, grant them eternal rest, and let the everlasting light shine upon them.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Requiéscant in pace.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>May they rest in peace.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Amen.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Amen.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Pro frátribus nostris abséntibus.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>For our absent brethren.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Salvos fac servos tuos, Deus meus, sperántes in te.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>O thou my God, save thy servants that trust in thee.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Pro afflíctis et captívis.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Let us pray for the sorrowful and the captives.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Líbera eos, Deus Israël, ex ómnibus tribulatiónibus suis.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Redeem them, O God of Israel, out of all their troubles.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Mitte eis, Dómine, auxílium de sancto.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>O Lord, send them help from the sanctuary.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et de Sion tuére eos.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And strengthen them out of Sion.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Dómine, Deus virtútum, convérte nos.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>O Lord God of might, convert us.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et osténde fáciem tuam, et salvi érimus.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And shew us thy face, and we shall be saved.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Exsúrge, Christe, ádjuva nos.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Arise, O Christ, and help us.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et líbera nos propter nomen tuum.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And deliver us for thy name’s sake.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Dómine, exáudi oratiónem meam.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>O Lord, hear my prayer.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Et clamor meus ad te véniat. </text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>And let my cry come unto thee.</text:p>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
-   <text:p text:style-name="BodySm"><text:span text:style-name="Rubric">The </text:span>Dómine, exáudi<text:span text:style-name="Rubric"> is not repeated before the Collect if the preces are said.</text:span></text:p>
+   <p:Head2>The Preces</p>
+   <p:Rubric>Said only in Offices of the Season:<text:line-break/>a) Wednesdays &amp; Fridays of: Advent, Lent, &amp; Passiontide<text:line-break/>b) Ember Wednesday &amp; Friday in September.<?php echo ($option==1?'<text:line-break/>c) Ember Saturdays, except Saturday in Octave of Pentecost.':'') ?></p>
+   <table>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Kyrie, eléison.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Lord, have mercy.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Christe, eléison. Kyrie, eléison.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>Christ, have mercy. Lord have mercy.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL>Pater noster. </p>
+     </td>
+     <td:B1>
+      <p:BodyE>Our Father. </p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:Rubric>quod dícitur a solo Hebdomadário totum clara voce, usque ad:</s></p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:Rubric>And the whole is said aloud by the Officiant through:</s></p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Et ne nos indúcas in tentatiónem.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>And lead us not into temptation.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Sed líbera nos a malo.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>But deliver us from evil.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Ego dixi: Dómine, miserére mei.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>I said: Lord, be merciful unto me.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Sana ánimam meam quia peccávi tibi.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>Heal my soul, for I have sinned against thee.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Convértere, Dómine, úsquequo?</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Return, O Lord! How Long?</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et deprecábilis esto super servos tuos.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And be entreated in favour of thy servants.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Fiat misericórdia tua, Dómine, super nos.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let thy mercy, O Lord, be upon us</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Quemádmodum sperávimus in te.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>As we have hoped in thee.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Sacerdótes tui induántur justítiam.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let thy priests be clothed with righteousness.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et sancti tui exsúltent.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And thy saints exult with joy.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Orémus pro beatíssimo Papa nostro <s:Rubric>N.</s></p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let us pray for our most blessed Pope <s:Rubric>N.</s></p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra, et non tradat eum in ánimam inimicórum ejus.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>The Lord preserve him and give him life, and make him blessed upon the earth: and deliver him not up to the will of his enemies.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Orémus et pro Antístite nostro <s:Rubric>N.</s></p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let us pray also for our Bishop <s:Rubric>N.</s></p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Stet et pascat in fortitúdine tua, Dómine, in sublimitáte nóminis tui.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>May he stand, and feed his flock in thy strength, O Lord, in the height of thy name.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Dómine, salvum fac regem.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>O Lord, save the king.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et exáudi nos in die, qua invocavérimus te.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And hear us in the day when we call upon thee.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Salvum fac pópulum tuum, Dómine, et bénedic hereditáti tuæ.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>O Lord, save thy people, and bless thine inheritance.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et rege eos, et extólle illos usque in ætérnum.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And govern them, and lift them up for ever.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Meménto Congregatiónis tuæ.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Remember thy congregation.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Quam possedísti ab inítio.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>Which thou has purchased of old.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Fiat pax in virtúte tua.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let peace be in thy strength</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et abundántia in túrribus tuis.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And abundance in thy towers.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Orémus pro benefactóribus nostris.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let us pray for our benefactors.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Retribúere dignáre, Dómine, ómnibus, nobis bona faciéntibus propter nomen tuum, vitam ætérnam. Amen.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>Vouchsafe, O Lord, for thy Name’s sake, to reward with eternal life all them that do us good. Amen.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Orémus pro fidélibus defúnctis.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let us pray for the faithful departed.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Réquiem ætérnam dona eis, Dómine, et lux perpétua lúceat eis.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>O Lord, grant them eternal rest, and let the everlasting light shine upon them.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Requiéscant in pace.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>May they rest in peace.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Amen.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>Amen.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Pro frátribus nostris abséntibus.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>For our absent brethren.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Salvos fac servos tuos, Deus meus, sperántes in te.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>O thou my God, save thy servants that trust in thee.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Pro afflíctis et captívis.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Let us pray for the sorrowful and the captives.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Líbera eos, Deus Israël, ex ómnibus tribulatiónibus suis.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>Redeem them, O God of Israel, out of all their troubles.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Mitte eis, Dómine, auxílium de sancto.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>O Lord, send them help from the sanctuary.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et de Sion tuére eos.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And strengthen them out of Sion.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Dómine, Deus virtútum, convérte nos.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>O Lord God of might, convert us.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et osténde fáciem tuam, et salvi érimus.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And shew us thy face, and we shall be saved.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Exsúrge, Christe, ádjuva nos.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>Arise, O Christ, and help us.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et líbera nos propter nomen tuum.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And deliver us for thy name’s sake.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>V. </s>Dómine, exáudi oratiónem meam.</p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>V. </s>O Lord, hear my prayer.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyL><s:VR>R. </s>Et clamor meus ad te véniat. </p>
+     </td>
+     <td:B1>
+      <p:BodyE><s:VR>R. </s>And let my cry come unto thee.</p>
+     </td>
+    </tr>
+   </table>
+   <p:BodySm><s:Rubric>The </s>Dómine, exáudi<s:Rubric> is not repeated before the Collect if the preces are said.</s></p>
 

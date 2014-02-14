@@ -1,1 +1,1 @@
-   <text:p text:style-name="Rubric">Psalms and antiphons as on Christmas, <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsPrHolySat"/></text:span></text:p>
+   <p:Rubric>Psalms and antiphons as on Christmas, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsPrHolySat"/></s></p>

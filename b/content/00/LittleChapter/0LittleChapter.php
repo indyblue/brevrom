@@ -14,18 +14,24 @@ $txtE = trim($pieces[2]);
 ?>
 	<text:p text:style-name=<?php 
 echo ($text==''?'"RubricHSm">':'"RubricH">'.$text) . '<text:tab/>' . $cv;
-?></text:p>
-   <table:table table:name="Table2299" table:style-name="TableParallel">
-    <table:table-column table:style-name="TableParallel.A"/>
-    <table:table-column table:style-name="TableParallel.B"/>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-	  <text:p text:style-name="BodyLDrop"><?php echo $txtL; ?></text:p>
-      <text:p text:style-name="BodyL"><text:span text:style-name="VR">R. </text:span>Deo grátias.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop"><?php echo $txtE; ?></text:p>
-      <text:p text:style-name="BodyE"><text:span text:style-name="VR">R. </text:span>Thanks be to God.</text:p>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
+?></p>
+   <table>
+    <tr>
+     <td:A1>
+	  <p:BodyLDrop><?php echo $txtL; ?></p>
+<?php 
+if($r==1) 
+	echo '<p:BodyL><s:VR>R. </s>Deo grátias.</p>
+		';
+?>
+     </td>
+     <td:B1>
+		<p:BodyEDrop><?php echo $txtE; ?></p>
+<?php 
+if($r==1) 
+	echo '      <p:BodyE><s:VR>R. </s>Thanks be to God.</p>
+		';
+?>
+     </td>
+    </tr>
+   </table>

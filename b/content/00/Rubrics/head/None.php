@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'ad Nonam';
 else
    echo 'at None';
-?></text:p>
+?></p>

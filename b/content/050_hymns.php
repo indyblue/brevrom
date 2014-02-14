@@ -1,13 +1,13 @@
 <?php
 function hymn2($file, $option=0) {
-	$dir = "/wamp/www/b/content/00/Hymn/";
-echo '<text:p text:style-name="Head2">Hymn</text:p>';
+	$dir = "/www/b/content/00/Hymn/";
+echo '<p:Head2>Hymn</p>';
 	require $dir.'0Hymn.php';
-echo '<text:p text:style-name="BodySm"/>';
+echo '<p:BodySm/>';
 }
 
 $_GET['O'] = 1;
-echo '<text:p text:style-name="P181"/>';
+echo '<p:P181/>';
 hymn2('ad_regias_agni_dapes.php');
 hymn2('aeterna_caeli_gloria.php');
 hymn2('aeterne_rerum_conditor.php');

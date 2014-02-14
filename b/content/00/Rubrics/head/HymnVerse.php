@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'Hymnus cum Versum';
 else
    echo 'Hymn with Verse';
-?></text:p>
+?></p>

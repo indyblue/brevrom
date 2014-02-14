@@ -1,0 +1,3 @@
+Apoc 7:2-3
+ECCE ego Joánnes vidi álterum Angelum ascendéntem ab ortu solis, habéntem signum Dei vivi; et clamávit voce magna quátuor Angelis, quibus datum est nocére terræ et mari, dicens: Nolíte nocére terræ et mari neque arbóribus, quoadúsque signémus servos Dei nostri in fróntibus eórum.
+BEHOLD, I, John, saw another Angel ascending from the rising of the sun, having the sign of the living God; and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea, saying: Hurt not the earth, nor the sea, nor the trees, till we sign the servants of our God in their foreheads.

@@ -1,0 +1,3 @@
+
+QUÆSUMUS, Dómine, ut ánimæ <sr>(m. </s>fámuli tui <sr>N. vel f.</s> fámulæ tuæ <sr>N.)</s>, cujus depositiónis diem <sr>(</s>tértium <sr>vel</s> séptimum<sr>, vel</s> trigésimum<sr>)</s> commemorámus, Sanctórum atque electórum tuórum largíri dignéris consórtium; et rorem misericórdiæ tuæ perénnem infúndas. Per Dóminum.
+VOUCHSAFE, we beseech thee, O Lord, to the soul of thy <sr>(</s>servant <sr>N. or</s> handmaid <sr>N.)</s>, the third <sr>(or</s> seventh, <sr>or</s> thirtieth<sr>)</s> day of whose burial we are commemorating, fellowship with thy Saints and with thine elect; and henceforth for ever pour forth upon it the dew of thy mercy. Through our Lord.

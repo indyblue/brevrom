@@ -1,2 +1,2 @@
-   <text:p text:style-name="Rubric">Antiphons as in Lauds.</text:p>
+   <p:Rubric>Antiphons as in Lauds.</p>
 

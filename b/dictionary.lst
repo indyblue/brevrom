@@ -1,0 +1,11 @@
+# List of All Dictionaries to be Loaded by OpenOffice
+# ---------------------------------------------------
+#
+#
+# ADD THE FOLLOWING LINE TO THE EXISTING 
+# dictionary.lst FILE AFTER COPYING THE LATIN 
+# HYPHENATION FILE INTO THE dict DIRECTORY
+#
+
+HYPH la VA hyph_la_VA
+

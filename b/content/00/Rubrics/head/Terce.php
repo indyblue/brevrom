@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'ad Tértiam';
 else
    echo 'at Terce';
-?></text:p>
+?></p>

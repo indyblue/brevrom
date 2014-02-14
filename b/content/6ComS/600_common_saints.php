@@ -1,10 +1,10 @@
-   <text:p text:style-name="P182"/>
+   <p:P182/>
 <?php img('CS/00_common_of_saints.tif',1354,528,100); ?>
-	<text:p text:style-name="Head1NI"/>
-	<text:p text:style-name="Head0"><?php 
+	<p:Head1NI/>
+	<p:Head0><?php 
 echo ($_GET['L']==1?'Commune Sanctorum':'Common of Saints') 
-?></text:p>
-   <text:p text:style-name="Spacer"/>
+?></p>
+   <p:Spacer/>
 <?php
 require '610_Apostles.php';
 require '612_ApostlesPT.php';

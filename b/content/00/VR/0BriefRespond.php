@@ -30,31 +30,29 @@ if($option==1) {
 }
 
 ?>
-   <table:table table:name="Table2298" table:style-name="TableParallel">
-    <table:table-column table:style-name="TableParallel.A"/>
-    <table:table-column table:style-name="TableParallel.B"/>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-	  <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span><?php echo $L11 . ' * ' . $L12 ?> <text:span text:style-name="VR">R. </text:span><?php echo $L10 ?></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-	  <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span><?php echo $E11 . ' * ' . $E12 ?> <text:span text:style-name="VR">R. </text:span><?php echo $E10 ?></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-	  <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span><?php echo $L2 ?> <text:span text:style-name="VR">R. </text:span><?php echo $L12 ?></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-	  <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span><?php echo $E2 ?> <text:span text:style-name="VR">R. </text:span><?php echo $E12 ?></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-	  <text:p text:style-name="BodyL"><text:span text:style-name="VR">V. </text:span>Glória Patri...Sancto. <text:span text:style-name="VR">R. </text:span><?php echo $L10 ?></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-	  <text:p text:style-name="BodyE"><text:span text:style-name="VR">V. </text:span>Glory be...Spirit. <text:span text:style-name="VR">R. </text:span><?php echo $E10 ?></text:p>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
+   <table>
+    <tr>
+     <td:A1>
+	  <p:BodyL><s:VR>V. </s><?php echo $L11 . ' * ' . $L12 ?> <s:VR>R. </s><?php echo $L10 ?></p>
+     </td>
+     <td:B1>
+	  <p:BodyE><s:VR>V. </s><?php echo $E11 . ' * ' . $E12 ?> <s:VR>R. </s><?php echo $E10 ?></p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+	  <p:BodyL><s:VR>V. </s><?php echo $L2 ?> <s:VR>R. </s><?php echo $L12 ?></p>
+     </td>
+     <td:B1>
+	  <p:BodyE><s:VR>V. </s><?php echo $E2 ?> <s:VR>R. </s><?php echo $E12 ?></p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+	  <p:BodyL><s:VR>V. </s>Glória Patri...Sancto. <s:VR>R. </s><?php echo $L10 ?></p>
+     </td>
+     <td:B1>
+	  <p:BodyE><s:VR>V. </s>Glory be...Spirit. <s:VR>R. </s><?php echo $E10 ?></p>
+     </td>
+    </tr>
+   </table>

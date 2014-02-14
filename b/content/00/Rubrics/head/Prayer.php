@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'Oratio';
 else
    echo 'Prayer';
-?></text:p>
+?></p>

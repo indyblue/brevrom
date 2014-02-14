@@ -1,5 +1,5 @@
 <?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
-   <text:p text:style-name="BodySm"/>
+	<p:RubricH/>
 <?php headSt('Sept. 8',2,'in Nativitate B. Mariæ Virg.','Nativity of the B.V.M.'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
@@ -12,19 +12,19 @@
 <?php ant('prSanct/0908b.php'); ?>
 <?php rubrics('head/Prayer.php'); ?>
 <?php prayer('prSanct/0908.php'); ?>
-	<text:p text:style-name="BodySm"/>
-   <text:p text:style-name="RubricH">Commemoration is made of St. Adrian, Martyr:</text:p>
+	<p:BodySm/>
+   <p:RubricH>Commemoration is made of St. Adrian, Martyr:</p>
 <?php ant('qui_odit_animam_suam_in_hoc_mundo.php'); ?>
 <?php vrS('justus_ut_palma_florebit.php'); ?>
 <?php rubrics('oremus.php'); ?>
 <?php prayer('csMartyr1.php','Adriáni','Adrian'); ?>
-   <text:p text:style-name="BodySm"/>
+   <p:BodySm/>
 
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>
-<?php rubrics('ord/prime_qui_natus.php'); ?>
-<?php rubrics('prSanct/all_else.php','csBVM'); ?>
-   <text:p text:style-name="BodySm"/>
+<?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
+<?php rubrics('prSanct/all_else.php','csBVMLH'); ?>
+   <p:BodySm/>
 
 <?php rubrics('head/Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>

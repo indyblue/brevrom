@@ -1,1 +1,1 @@
-   <text:p text:style-name="Rubric"><?php echo $link; ?>Psalms as in Common of Apostles, <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsComAp"/></text:span></text:p>
+   <p:Rubric><?php echo $link; ?>Psalms as in Common of Apostles, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsComAp"/></s></p>

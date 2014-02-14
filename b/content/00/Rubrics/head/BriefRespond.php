@@ -5,4 +5,4 @@ if ($_GET['L']==1)
 else
    echo 'Brief Respond';
  
-?></text:p>
+?></p>

@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'Magnificat';
 else
    echo 'Magnificat';
-?></text:p>
+?></p>

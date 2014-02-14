@@ -17,9 +17,7 @@ if($iFile<$iSpec)
 	trigger_error('Antiphon count is incorrect for ' . $file . '. File contains ' . $iFile . ', but ' . $iSpec . ' are specified.', E_USER_ERROR);
 
 ?>
-   <table:table table:name="Table2298" table:style-name="TableParallel">
-    <table:table-column table:style-name="TableParallel.A"/>
-    <table:table-column table:style-name="TableParallel.B"/>
+   <table>
 <?php 
 
 for($i=0;$i<$iSpec*2;$i+=2) {
@@ -27,11 +25,14 @@ for($i=0;$i<$iSpec*2;$i+=2) {
 	$E = trim($pieces[$i+1]);
 	$inc = substr($incs,$i/2,1);
 	$subst = array(' *','*');
+	$ant = 1;
 	if($inc) {
 		if($inc==1) {
 			$num=0; $ast=0;
 		} elseif($inc=='*') {
 			$num=0; $ast=1; 
+		} elseif($inc=='+') {
+			$num=0; $ast=1; $ant=0;
 		} elseif($inc=='#') {
 			$num=1; $ast=0; 
 		} elseif($inc==2) {
@@ -42,16 +43,24 @@ for($i=0;$i<$iSpec*2;$i+=2) {
 			$E = str_replace($subst,'',$E);
 		}
 ?>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-	  <text:p text:style-name="BodyL"><text:span text:style-name="Rubric">Ant<?php echo ($num?' '.($i/2+1):'') ?>. </text:span><?php echo $L ?></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyE"><text:span text:style-name="Rubric">Ant<?php echo ($num?' '.($i/2+1):'') ?>. </text:span><?php echo $E ?></text:p>
-     </table:table-cell>
-    </table:table-row>
+    <tr>
+     <td:A1>
+	  <p:BodyL><?php 
+if($ant) { 
+	?><s:Rubric>Ant<?php echo ($num?' '.($i/2+1):'') ?>. </s><?php 
+} 
+echo $L ?></p>
+     </td>
+     <td:B1>
+		<p:BodyE><?php
+if($ant) {
+	?><s:Rubric>Ant<?php echo ($num?' '.($i/2+1):'') ?>. </s><?php
+}
+echo $E ?></p>
+     </td>
+    </tr>
 <?php
 	}
 }
-echo '   </table:table>';
+echo '   </table>';
 ?>

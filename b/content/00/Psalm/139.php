@@ -1,117 +1,115 @@
-   <text:p text:style-name="Head2Ps">Psalmus 139. Éripe me, Dómine</text:p>
-   <table:table table:name="Table706" table:style-name="TableParallel">
-    <table:table-column table:style-name="TableParallel.A"/>
-    <table:table-column table:style-name="TableParallel.B"/>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">ERIPE me, Dómine, ab hómine malo: * a viro iníquo éripe me.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">DELIVER me, O Lord, from the evil man: * rescue me from the unjust man.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Qui cogitavérunt iniquitátes in corde: * tota die constituébant prælia.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Who have devised iniquities in their hearts: * all the day long they designed battles.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Acuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">They have sharpened their tongues like a serpent: * the venom of asps is under their lips.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Custódi me, Dómine, de manu peccatóris: * et ab homínibus iníquis éripe me.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Keep me, O Lord, from the hand of the wicked: * and from unjust men deliver me.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Qui cogitavérunt supplantáre gressus meos: * abscondérunt supérbi láqueum mihi:</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Who have proposed to supplant my steps: * the proud have hidden a net for me.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Et funes extendérunt in láquem: * juxta iter scándalum posuérunt mihi.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">And they have stretched out cords for a snare: * they have laid for me a stumbling block by the wayside.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Dixi Dómino: Deus meus es tu: * exáudi, Dómine, vocem deprecatiónis meæ.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">I said to the Lord: Thou art my God: * hear, O Lord, the voice of my supplication.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Dómine, Dómine, virtus salútis meæ: * obumbrásti super caput meum in die belli.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">O Lord, Lord, the strength of my salvation: * thou hast overshadowed my head in the day of battle.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Ne tradas me, Dómine, a desidério meo peccatóri: * cogitavérunt contra me, ne derelínquas me, ne forte exalténtur.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Give me not up, O Lord, from my desire to the wicked: * they have plotted against me; do not thou forsake me, lest they should triumph.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Caput circúitus eórum: * labor labiórum ipsórum opériet eos.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">The head of them compassing me about: * the labour of their lips shall overwhelm them.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Cadent super eos carbónes, in ignem dejícies eos: * in misériis non subsístent.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Burning coals shall fall upon them; thou wilt cast them down into the fire: * in miseries they shall not be able to stand.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Vir linguósus non dirigétur in terra: * virum injústum mala cápient in intéritu.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">A man full of tongue shall not be established in the earth: * evil shall catch the unjust man unto destruction.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Cognóvi quia fáciet Dóminus judícium ínopis: * et vindíctam páuperum.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">I know that the Lord will do justice to the needy, * and will revenge the poor.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Verúmtamen justi confitebúntur nómini tuo: * et habitábunt recti cum vultu tuo.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">But as for the just, they shall give glory to thy name: * and the upright shall dwell with thy countenance.</text:p>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
+   <p:Head2Ps>Psalmus 139. Éripe me, Dómine</p>
+   <table>
+    <tr>
+     <td:A1>
+      <p:BodyLDrop>ERIPE me, Dómine, ab hómine malo: * a viro iníquo éripe me.</p>
+     </td>
+     <td:B1>
+      <p:BodyEDrop>DELIVER me, O Lord, from the evil man: * rescue me from the unjust man.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Qui cogitavérunt iniquitátes in corde: * tota die constituébant prælia.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Who have devised iniquities in their hearts: * all the day long they designed battles.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Acuérunt linguas suas sicut serpéntis: * venénum áspidum sub lábiis eórum.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>They have sharpened their tongues like a serpent: * the venom of asps is under their lips.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Custódi me, Dómine, de manu peccatóris: * et ab homínibus iníquis éripe me.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Keep me, O Lord, from the hand of the wicked: * and from unjust men deliver me.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Qui cogitavérunt supplantáre gressus meos: * abscondérunt supérbi láqueum mihi:</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Who have proposed to supplant my steps: * the proud have hidden a net for me.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Et funes extendérunt in láquem: * juxta iter scándalum posuérunt mihi.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>And they have stretched out cords for a snare: * they have laid for me a stumbling block by the wayside.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Dixi Dómino: Deus meus es tu: * exáudi, Dómine, vocem deprecatiónis meæ.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>I said to the Lord: Thou art my God: * hear, O Lord, the voice of my supplication.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Dómine, Dómine, virtus salútis meæ: * obumbrásti super caput meum in die belli.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>O Lord, Lord, the strength of my salvation: * thou hast overshadowed my head in the day of battle.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Ne tradas me, Dómine, a desidério meo peccatóri: * cogitavérunt contra me, ne derelínquas me, ne forte exalténtur.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Give me not up, O Lord, from my desire to the wicked: * they have plotted against me; do not thou forsake me, lest they should triumph.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Caput circúitus eórum: * labor labiórum ipsórum opériet eos.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>The head of them compassing me about: * the labour of their lips shall overwhelm them.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Cadent super eos carbónes, in ignem dejícies eos: * in misériis non subsístent.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Burning coals shall fall upon them; thou wilt cast them down into the fire: * in miseries they shall not be able to stand.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Vir linguósus non dirigétur in terra: * virum injústum mala cápient in intéritu.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>A man full of tongue shall not be established in the earth: * evil shall catch the unjust man unto destruction.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Cognóvi quia fáciet Dóminus judícium ínopis: * et vindíctam páuperum.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>I know that the Lord will do justice to the needy, * and will revenge the poor.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Verúmtamen justi confitebúntur nómini tuo: * et habitábunt recti cum vultu tuo.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>But as for the just, they shall give glory to thy name: * and the upright shall dwell with thy countenance.</p>
+     </td>
+    </tr>
+   </table>

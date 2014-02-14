@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'ad Completórium';
 else
    echo 'at Compline';
-?></text:p>
+?></p>

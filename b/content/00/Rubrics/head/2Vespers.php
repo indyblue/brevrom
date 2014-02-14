@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'ad II Vésperas';
 else
    echo 'at II Vespers';
-?></text:p>
+?></p>

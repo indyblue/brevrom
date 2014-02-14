@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'ad Primam';
 else
    echo 'at Prime';
-?></text:p>
+?></p>

@@ -1,5 +1,5 @@
 <?php img('Saints/0908_nativity_of_bvm.tif',1371,412,100); ?>
-   <text:p text:style-name="BodySm"/>
+	<p:RubricH/>
 <?php headSt('Oct. 11',2,'Maternitatis B. Mariæ Virg.','Motherhood of the B.V.M.'); ?>
 <?php rubrics('head/Lauds.php'); ?>
 <?php rubrics('head/Psalms.php'); ?>
@@ -16,12 +16,12 @@
 <?php rubrics('head/Prayer.php'); ?>
 <?php /* PRAYER SAME AS ANNUNCIATION, MAR. 25 */ ?>
 <?php prayer('prSanct/0325.php'); ?>
-	<text:p text:style-name="BodySm"/>
+	<p:BodySm/>
 
 <?php rubrics('head/LittleHours.php'); ?>
 <?php rubrics('ps/Feria.php'); ?>
-<?php rubrics('ord/prime_qui_natus.php'); ?>
-   <text:p text:style-name="BodySm"/>
+<?php PrV('qui_natus_es_de_maria_virgine.php'); ?>
+   <p:BodySm/>
 
 <?php rubrics('head/Terce.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
@@ -29,10 +29,10 @@
 <?php rubrics('head/BriefRespond.php'); ?>
 <?php brS('specie_tua_et_pulcritudine_tua.php'); ?>
 <?php vrS('adjuvabit_eam_deus_vultu_suo.php'); ?>
-   <text:p text:style-name="BodySm"/>
+   <p:BodySm/>
 
-<?php rubrics('asIn.php','csBVM','Common of Blessed Virgin Mary','Sext &amp; None'); ?> 
-   <text:p text:style-name="BodySm"/>
+<?php rubrics('asIn.php','csBVMS','Common of Blessed Virgin Mary','Sext &amp; None'); ?> 
+   <p:BodySm/>
 
 <?php rubrics('head/Vespers.php'); ?>
 <?php rubrics('ps/antLauds.php'); ?>

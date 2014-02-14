@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'Lectio Brevis';
 else
    echo 'Short Reading';
-?></text:p>
+?></p>

@@ -15,6 +15,45 @@ $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
 //echo $txtContent;
 //$txtContent = file_get_contents("content/content.xml");
+
+$fh = fopen("b.xml", 'w');
+fwrite($fh, $txtContent);
+fclose($fh);
+
+
+$regex=array(
+	'/<sr>/',
+	'/<snr>/',
+	'/<p:([^\/>]*)/',
+	'/<\/p>/',
+	'/<s:([^\/>]*)/',
+	'/<\/s>/',
+	'/<table>/',
+	'/<\/table>/',
+	'/<tr>/',
+	'/<\/tr>/',
+	'/<td:([^\/>]*)/',
+	'/<\/td>/'
+);
+$repl=array(
+	'<s:Rubric>',
+	'<s:NonRubric>',
+	'<text:p text:style-name="\1"',
+	'</text:p>',
+	'<text:span text:style-name="\1"',
+	'</text:span>',
+	'<table:table table:name="Table2399" table:style-name="TableParallel">
+    <table:table-column table:style-name="TableParallel.A"/>
+	 <table:table-column table:style-name="TableParallel.B"/>',
+	'</table:table>',
+	'<table:table-row>',
+	'</table:table-row>',
+	'<table:table-cell table:style-name="TableParallel.\1" office:value-type="string"',
+	'</table:table-cell>'
+);
+
+$txtContent = preg_replace($regex,$repl,$txtContent);
+
 $zip->addFromString("content.xml", $txtContent);
 
 $fh = fopen("content.xml", 'w');

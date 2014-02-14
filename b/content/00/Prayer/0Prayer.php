@@ -17,10 +17,10 @@ if($count==4) {
 	if(strlen($N)==0) trigger_error('File ' . $file . ': Name indicator expected on first line (N or P).', E_USER_ERROR);
 	if($nameL=='N.') {
 		if($N=='P') {
-			$nameL = '<text:span text:style-name="Rubric">N.</text:span> et <text:span text:style-name="Rubric">N.</text:span>';
-			$nameE = '<text:span text:style-name="Rubric">N.</text:span> and <text:span text:style-name="Rubric">N.</text:span>';
+			$nameL = '<s:Rubric>N.</s> et <s:Rubric>N.</s>';
+			$nameE = '<s:Rubric>N.</s> and <s:Rubric>N.</s>';
 		} elseif($N='N') {
-			$nameL = '<text:span text:style-name="Rubric">N.</text:span>';
+			$nameL = '<s:Rubric>N.</s>';
 			$nameE = $nameL;
 		} else trigger_error('File ' . $file . ': Name indicator expected on first line (N or P).', E_USER_ERROR);
 	}
@@ -30,15 +30,13 @@ if($count==4) {
 		trigger_error('File ' . $file . ': Line count is ' . $count . ', but should be either 2 or 4.', E_USER_ERROR);
 
 ?>
-   <table:table table:name="Table2182" table:style-name="TableParallel">
-    <table:table-column table:style-name="TableParallel.A"/>
-    <table:table-column table:style-name="TableParallel.B"/>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-	  <text:p text:style-name="BodyLDrop"><?php echo $txtL; ?></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-		<text:p text:style-name="BodyEDrop"><?php echo $txtE; ?></text:p>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
+   <table>
+    <tr>
+     <td:A1>
+	  <p:BodyLDrop><?php echo $txtL; ?></p>
+     </td>
+     <td:B1>
+		<p:BodyEDrop><?php echo $txtE; ?></p>
+     </td>
+    </tr>
+   </table>

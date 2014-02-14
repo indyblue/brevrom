@@ -1,0 +1,10 @@
+:%s/<text:p [^"]*"\([^"]*\)"/<p:\1/ig
+:%s/<\/text:p>/<\/p>/ig
+:%s/<text:span [^"]*"\([^"]*\)"/<s:\1/ig
+:%s/<\/text:span>/<\/s>/ig
+:%s/<table:table .*TableParallel.*\n.*TableParallel\.A.*\n.*TableParallel\.B.*/<table>/
+:%s/<\/table:table>/<\/table>/
+:%s/<table:table-row>/<tr>/
+:%s/<\/table:table-row>/<\/tr>/
+:%s/<table:table-cell [^"]*"TableParallel\.\([^"]*\)[^/>]*/<td:\1/
+:%s/<\/table:table-cell>/<\/td>

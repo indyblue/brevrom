@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'Capitulum';
 else
    echo 'Little Chapter';
-?></text:p>
+?></p>

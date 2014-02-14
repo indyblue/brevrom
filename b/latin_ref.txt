@@ -1,0 +1,30 @@
+Declensions:
+Nominative: subject (Caesar died)
+Vocative: addressing someone/thing (Welcome, Alex)
+Accusative: object of verb (cat ate the mouse)
+Genitive: belonging to someone/thing (The home of my friend)
+Dative: indirect object of verb (I gave the book to my son)
+Ablative: by, with whom/what (This was agreed by the Senate)
+
+Tenses:
+Present: what is going on now
+Imperfect: what went on or continued for a time
+Future:  what is going to be or happen
+Perfect: past tense
+Pluperfect: past action completed before another
+Future Perfect: completing something in the future (precedes another in future?)
+
+Active: subject acts
+Passive: subject receives action
+Subjunctive: not fact, but ideas, possibilities, necessities
+Imperative: command
+Infinitive: originally a noun can still be used that way (i.e. to love or loving)
+
+Participle:
+Present: action going on at the same time as the main verb
+Perfect: action that is completed before that of main verb
+Future: action that is going to take place
+
+Gerund: verbal noun, active
+Gerundive: verbal adj., active
+

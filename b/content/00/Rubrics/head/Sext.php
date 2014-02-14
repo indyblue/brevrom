@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'ad Sextam';
 else
    echo 'at Sext';
-?></text:p>
+?></p>

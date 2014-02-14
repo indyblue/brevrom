@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'Martyrologium';
 else
    echo 'Martyrology';
-?></text:p>
+?></p>

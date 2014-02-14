@@ -1,7 +1,7 @@
-   <text:p text:style-name="Rubric">All from Common of <?php 
+   <p:Rubric>All from Common of <?php 
 
-$ref1 = ', <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="';
-$ref2 = '"/></text:span>.';
+$ref1 = ', <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="';
+$ref2 = '"/></s>.';
 
 if($link=='csAp')
 	echo 'Apostles' . $ref1 . $link .$ref2;
@@ -27,4 +27,4 @@ elseif($link=='csBVM')
 	echo 'Blessed Virgin Mary' . $ref1 . $link .$ref2;
 else 	trigger_error('all_else refers to unknown bookmark: ' 
 	. $link . '.', E_USER_ERROR);
-?></text:p>
+?></p>

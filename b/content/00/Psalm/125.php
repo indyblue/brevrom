@@ -1,69 +1,67 @@
-   <text:p text:style-name="Head2Ps">Psalmus 125. In converténdo</text:p>
-   <table:table table:name="Table1528" table:style-name="TableParallel">
-    <table:table-column table:style-name="TableParallel.A"/>
-    <table:table-column table:style-name="TableParallel.B"/>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLDrop">IN CONVERTÉNDO Dóminus captivitátem Sion: * facti sumus sicut consoláti:</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEDrop">WHEN the Lord brought back the captivity of Sion, * we became like men comforted.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Tunc replétum est gáudio os nostrum: * et lingua nostra exsultatióne.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Then was our mouth filled with gladness; * and our tongue with joy.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Tunc dicent inter gentes: * Magnificávit Dóminus fácere cum eis.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Then shall they say among the Gentiles: * The Lord hath done great things for them.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Magnificávit Dóminus fácere nobíscum: * facti sumus lætántes.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">The Lord hath done great things for us: * we are become joyful.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Convérte, Dómine, captivitátem nostram, * sicut torrens in Austro.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Turn again our captivity, O Lord, * as a stream in the south.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Qui séminant in lácrimis, * in exsultatióne metent.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">They that sow in tears * shall reap in joy.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Eúntes ibant et flebant, * mitténtes sémina sua.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">Going they went and wept, * casting their seeds.</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="TableParallel.A1" office:value-type="string">
-      <text:p text:style-name="BodyLIndent">Veniéntes autem vénient cum exsultatióne, * portántes manípulos suos.</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="TableParallel.B1" office:value-type="string">
-      <text:p text:style-name="BodyEIndent">But coming they shall come with joyfulness, * carrying their sheaves.</text:p>
-     </table:table-cell>
-    </table:table-row>
-   </table:table>
+   <p:Head2Ps>Psalmus 125. In converténdo</p>
+   <table>
+    <tr>
+     <td:A1>
+      <p:BodyLDrop>IN CONVERTÉNDO Dóminus captivitátem Sion: * facti sumus sicut consoláti:</p>
+     </td>
+     <td:B1>
+      <p:BodyEDrop>WHEN the Lord brought back the captivity of Sion, * we became like men comforted.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Tunc replétum est gáudio os nostrum: * et lingua nostra exsultatióne.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Then was our mouth filled with gladness; * and our tongue with joy.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Tunc dicent inter gentes: * Magnificávit Dóminus fácere cum eis.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Then shall they say among the Gentiles: * The Lord hath done great things for them.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Magnificávit Dóminus fácere nobíscum: * facti sumus lætántes.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>The Lord hath done great things for us: * we are become joyful.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Convérte, Dómine, captivitátem nostram, * sicut torrens in Austro.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Turn again our captivity, O Lord, * as a stream in the south.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Qui séminant in lácrimis, * in exsultatióne metent.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>They that sow in tears * shall reap in joy.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Eúntes ibant et flebant, * mitténtes sémina sua.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>Going they went and wept, * casting their seeds.</p>
+     </td>
+    </tr>
+    <tr>
+     <td:A1>
+      <p:BodyLIndent>Veniéntes autem vénient cum exsultatióne, * portántes manípulos suos.</p>
+     </td>
+     <td:B1>
+      <p:BodyEIndent>But coming they shall come with joyfulness, * carrying their sheaves.</p>
+     </td>
+    </tr>
+   </table>

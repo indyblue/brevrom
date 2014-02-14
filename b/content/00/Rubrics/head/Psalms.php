@@ -4,4 +4,4 @@ if ($_GET['L']==1)
 	echo 'Psalmi cum Antiphona';
 else
    echo 'Psalms with Antiphons';
-?></text:p>
+?></p>

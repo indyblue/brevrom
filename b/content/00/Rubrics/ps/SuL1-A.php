@@ -1,1 +1,1 @@
-   <text:p text:style-name="Rubric">Psalms as in Sunday Lauds I, <text:span text:style-name="NonRubric">p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSuL1"/></text:span>, with Alleluia antiphon.</text:p>
+   <p:Rubric>Psalms as in Sunday Lauds I, <s:NonRubric>p. <text:bookmark-ref text:reference-format="page" text:ref-name="PsSuL1"/></s>, with Alleluia antiphon.</p>
