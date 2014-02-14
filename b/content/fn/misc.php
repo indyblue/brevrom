@@ -68,6 +68,10 @@ function bklist($bk=0, $anchor=0) {
 
 
 	if($anchor==1) array_push($_GET['list_anc'],$bk);
+	elseif($anchor==-1) {
+		$noanc = array_unique(array_diff($_GET['list_ref'], $_GET['list_anc']));
+		return array_search($bk,$noanc)!==false;
+	}
 
 	elseif($bk===0) return $_GET['list'];
 	elseif($bk===1) return strlen($_GET['list']);

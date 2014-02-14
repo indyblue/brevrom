@@ -2,6 +2,7 @@
 
 //$incs is the include pattern:
 // 0 - not displayed
+// '-' - not displayed, not counted.
 // 1 - for no astrisk no number
 // * - for astrisk but no number
 // + - for astrisk, no number, no "Ant."
@@ -49,10 +50,15 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 	if($sm) $sm='Sm';
 	else $sm='';
 
+	$j = 0;
 	for($i=0;$i<$iSpec;$i++) {
 		$L = $Lpieces[$i];
 		$E = $Epieces[$i];
 		$inc = substr($incs,$i,1);
+
+		if($inc=='-') $inc=0;
+		else $j++;
+
 		$subst = array(' *','*','‡');
 		$ant = '';
 		$ante = '';
@@ -69,7 +75,7 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 			$E .= $PTE;
 		}
 
-		if($inc) {
+		if($inc!='0') {
 			if($inc==1) {
 				$ast=0; $ant='<sr>Ant.</s> ';
 			} elseif($inc=='*') {
@@ -77,9 +83,9 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 			} elseif($inc=='+') {
 				$ast=1; $ant='';
 			} elseif($inc=='#') {
-				$ast=0; $ant='<sr>Ant '. ($i+1) .'.</s> ';
+				$ast=0; $ant='<sr>Ant '. ($j) .'.</s> ';
 			} elseif($inc==2) {
-				$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
+				$ast=1; $ant='<sr>Ant '. ($j) .'.</s> ';
 			} elseif($inc=='B') {
 				$ast=1; $ant='<sr>Ad Bened.Ant.</s> '; $ante = '<sr>Benedictus Ant.</s> ';
 			} elseif($inc=='M') {
@@ -99,13 +105,13 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 					echo "   </table>\n";
 					$table = 0;
 				}
-				if($i==0) {
+				if($j==1) {
 					head('In I Nocturno','I Nocturn',-2);
-					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
-				} elseif($i==3) {
+					$ast=1; $ant='<sr>Ant '. ($j) .'.</s> ';
+				} elseif($j==4) {
 					head('In II Nocturno','II Nocturn',-2);
-					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
-				} elseif($i==6) {
+					$ast=1; $ant='<sr>Ant '. ($j) .'.</s> ';
+				} elseif($j==7) {
 					if(strpos($file,'4Wed')>0) {
 						if(strpos($file,'0M2')>0) 
 							head('In III Nocturno (II)','III Nocturn (II)',-2);
@@ -113,7 +119,7 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 							head('In III Nocturno (I)','III Nocturn (I)',-2);
 					} else
 						head('In III Nocturno','III Nocturn',-2);
-					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
+					$ast=1; $ant='<sr>Ant '. ($j) .'.</s> ';
 				} else
 					trigger_error('Misplaced nocturn: ' . $file, E_USER_ERROR);
 			}

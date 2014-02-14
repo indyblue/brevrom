@@ -1,0 +1,60 @@
+	body {padding:0px; margin:0 2% 0 4%; width:94%; max-width:600px;}
+
+	table { width:100%; border-collapse:collapse}
+	table, td, tr {
+		border-width:0px; border-style:solid;
+		margin:0px; padding:0px;
+		border-color:red; vertical-align:top; }
+	td.A1 { padding:0 6px 0 0; width:48%}
+	td.B1 { padding:0 0 0 6px; width:52%; 
+			border-width:0 0 0 1px; }
+
+	div {margin:0px; padding:0px; text-align:justify;
+		vertical-align:top; }
+	div.BodyDrop:first-letter,
+	div.BodyLDrop:first-letter,
+	div.BodyEDrop:first-letter
+		{ font-size:300%; font-weight:bold;
+		float:left; width:1em; color:black;}
+	div.Rubric {font-style:italic; color:red}
+	div.RubricH {font-style:italic; color:red}
+	div.RubricHSm {font-style:italic; color:red}
+	div.RubricHidden {visibility:hidden; height:0px; font-style:italic; color:red}
+	div.BkHidden {visibility:hidden; height:0px}
+	div.Head0 {text-align:center;font-variant:small-caps}
+	div.Head1 {text-align:center; font-variant:small-caps}
+	div.Head1NI {text-align:center; font-variant:small-caps}
+	div.Head2 {text-align:center; font-variant:small-caps}
+	div.Head2Ps {text-align:center;font-style:italic; color:red}
+	div.Head2Cant {text-align:center;font-style:italic; color:red}
+	div.Head3 {text-align:center;font-style:italic;}
+	div.Head4 {text-align:center;font-style:italic; color:red}
+	div.Head5 {text-align:center;font-style:italic; color:red}
+	div.Spacer {font-size:2pt;}
+	div.Line {font-size:2pt; border-width:0px 0px 1px 0px; 
+		border-color:red; border-style:solid;}
+
+	span.HymnR {color:red; font-weight:bold}
+	span.Red {color:red; font-size:60%;}
+	span.Rubric {font-style:italic; color:red}
+	span.RubricH {font-style:italic; color:red; 
+		font-size:58%; vertical-align:top}
+	span.NonRubric {font-style:normal; color:black}
+	span.Italic {font-style:italic}
+	span.Bold {font-weight:bold}
+	span.BoldR {font-weight:bold; color:red}
+	span.BoldRC {font-weight:bold; color:red; text-transform:uppercase}
+	span.AllCaps {text-transform:uppercase}
+	span.SmCaps {font-variant:small-caps}
+	span.Super {font-size:58%; vertical-align:top}
+	span.DropCap {font-weight:bold; color:red}
+	span.VR {color:red; font-style:normal;}
+	span.NH {}
+	span.L {font-style:italic}
+
+
+	div.Hidden1 {display:none; padding:1px 20px; background-color:gray;}
+	div.Hidden2 {visibility:visible; padding:1px 20px; margin:0 0 1px 0; background-color:gray;}
+
+	div.h1 {height:auto; visibility:visible; overflow:hidden;}
+

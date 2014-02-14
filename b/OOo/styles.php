@@ -31,6 +31,13 @@ if($_GET['Style']=='7') {
 	$PgMar = .4 + .125;
 	$PgGMar = .75;
 	$Body = 12;
+} elseif($_GET['Style']=='S5') {
+	$PgW = 5;
+	$PgH = 8;
+	$PgMar = .4;
+	$PgGMar = .6;
+	$Body = 9;
+	$Body = 8.9;
 } elseif($_GET['Style']=='A4') {
 	$PgW = 8.27/2;
 	$PgH = 11.69/2;

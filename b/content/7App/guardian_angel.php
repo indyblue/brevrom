@@ -1,5 +1,6 @@
 <?php
 
+	hidden('Guardian Angel Prayer',2);
 	space();
 	head('Oratio ad S. Angelum custodem', 'Prayer to one’s guardian Angel',4);
 	prayer('App/angele_dei.php');

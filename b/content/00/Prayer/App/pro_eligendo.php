@@ -1,0 +1,1 @@
+Súpplici, Dómine, humilitáte depóscimus: ut sacrosánctæ Románæ Ecclésiæ concédat Pontíficem illum tua imménsa píetas; qui et pio in nos stúdio semper tibi plácitus, et tuo pópulo pro salúbri regímine sit assídue ad glóriam tui nóminis reveréndus. Per Dóminum.

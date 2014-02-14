@@ -24,6 +24,8 @@
 
 	space();
 
+	hidden('Thanksgiving after Mass',2);
+
 	//head('Piæ Adspirationes','Pious Aspirations',4);
 	//prayer('App/anima_christi.php');
 	canticle('vr/anima_christi.php');

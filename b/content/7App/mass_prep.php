@@ -43,6 +43,8 @@
 	prayer('App/mass_prep6.php');
 	prayer('App/mass_prep7.php',1);
 
+	hidden('Preparation for Mass',2);
+
 	space();
 	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',4);
 	prayer('App/mass_prep_thomas.php');
