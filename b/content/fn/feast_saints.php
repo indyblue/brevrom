@@ -302,28 +302,5 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	}		
 }
 
-function convert_date($date) {
-	// arrays defining month text to be used in dates
-	$Lm = array('', 'Januarii', 'Februarii', 'Martii', 'Aprilis', 'Maii', 'Juni', 
-		'Julii', 'Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');		
-	$Lms = array('', 'Jan.', 'Feb.', 'Mar.', 'Apr.', 'Maii', 'Juni', 
-		'Jul.', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.');		
-	$Em = array('', 'January', 'February', 'March', 'April',	'May', 'June', 
-		'July', 'August', 'September', 'October', 'November', 'December');		
-	$Ems = array('', 'Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 
-		'Jul.', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.');		
 
-	$month = (int)($date/100);
-	$day = $date - $month*100;
-
-	if($month>0 && $day>0) {
-		$Ldate = $day . ' ' . $Lms[$month] ;
-		$Edate = $Ems[$month] . ' ' . $day;
-		if($month==2 && $day>23) {
-			$Ldate .= ' ('. ($day+1) .' in anno bissextili)';
-			$Edate .= ' ('. ($day+1) .' in leap year)';
-		}
-	} 
-	return array($Ldate,$Edate);
-}
 ?>

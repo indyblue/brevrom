@@ -153,7 +153,7 @@ Spacer			2
 
   <style:style style:name="Head2" style:family="paragraph" style:parent-style-name="Head1" style:next-style-name="Rubric" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.02in" fo:margin-bottom="0.02in"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size=<?php echo '"'. $Head2 .'pt"' ?> fo:font-weight="bold"/>
+   <style:text-properties style:font-name="TimesLT" fo:font-size=<?php echo '"'. $Head2 .'pt"' ?> fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="Head2L" style:family="paragraph" style:parent-style-name="Head2">
      <style:text-properties text:display="true"/>

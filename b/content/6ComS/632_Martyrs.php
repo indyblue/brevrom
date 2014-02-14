@@ -35,11 +35,11 @@
 	rubrics('head/Prayer.php',1);
 	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For Several Martyr Popes, prayer');
 	space();
-	head('Pro pluribus Martyribus Pontificibus','For several Martyrs Bishops',4);
+	head('Pro pluribus Martyribus Pontificibus','For several Martyrs Bishops',-4);
 	prayer('csMartyrsBishops1.php');
-	head('Si non fuerint Pontifices','If they are not Bishops',4);
+	head('Si non fuerint Pontifices','If they are not Bishops',-4);
 	prayer('csMartyrs1.php');
-	head('Alia oratio','Alternate prayer',4);
+	head('Alia oratio','Alternate prayer',-4);
 	prayer('csMartyrs2.php');
 
 	space();

@@ -1,5 +1,5 @@
-This is my commandment, * that you love one another, as I have loved you.
-Greater love than this * no man hath, that a man lay down his life for his friends.
-Ye are my friends, * if ye do the things that I command you, saith the Lord.
-Blessed are the peacemakers, * blessed are the clean of heart; for they shall see God.
-In your patience * ye shall possess your souls.
+The Lord hath sworn, * and he will not repent: Thou art a priest for ever.
+He will set him * with the princes of his people.
+O Lord, thou hast broken * my bonds in sunder: I will offer unto thee the sacrifice of praise.
+They went forth * on their way and wept, scattering their seed.
+Their principality * is strengthened: and thy friends, O God, are greatly honoured.

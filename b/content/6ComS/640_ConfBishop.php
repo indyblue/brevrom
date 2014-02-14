@@ -15,7 +15,7 @@
 	rubrics('asIn.php','csCBVlc','II Vespers','Little Chapter &amp; Hymn <snr>Iste Conféssor Dómini, coléntes</s>');
 	vrS('amavit_eum_dominus_et_ornavit_eum.php',2);
 	ant('sacerdos_et_pontifex_et_virtutum_optifex.php','M',2);
-	head('Pro Doctore','For a Doctor',4);
+	head('Pro Doctore','For a Doctor',-4);
 	ant('csConfessorDoctorAnt.php','M',2);
 	rubrics('cs/1Compline.php');
 
@@ -33,11 +33,11 @@
 	ant('euge_serve_bone_et_fidelis.php','B',2);
 	rubrics('head/Prayer.php',1);
 	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For a Pope, prayer');
-	head('Pro Confessore Pontifice','For a Confessor Bishop',4);
+	head('Pro Confessore Pontifice','For a Confessor Bishop',-4);
 	prayer('csConfessorBishop1.php');
-	head('Alia oratio','Alternate prayer',4);
+	head('Alia oratio','Alternate prayer',-4);
 	prayer('csConfessorBishop2.php');
-	head('Pro Doctore Pontifice','For a Doctor Bishop',4);
+	head('Pro Doctore Pontifice','For a Doctor Bishop',-4);
 	prayer('csConfessorDoctor.php');
 
 	space();
@@ -86,9 +86,9 @@
 	hymn('iste_confessor_domini_colentes.php');
 	vrS('justum_deduxit_dominus_per_vias_rectas.php',2);
 	ant('amavit_eum_dominus_et_ornavit_eum.php','M',2);
-	head('Pro solis Summis Pontificibus','For a sole Supreme Pontiff',4);
+	head('Pro solis Summis Pontificibus','For a sole Supreme Pontiff',-4);
 	ant('dum_esset_summus_pontifex.php','M',2);
-	head('Pro Doctore','For a Doctor',4);
+	head('Pro Doctore','For a Doctor',-4);
   	ant('csConfessorDoctorAnt.php','M',2);
 	rubrics('cs/Compline.php');
 ?>

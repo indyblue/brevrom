@@ -1,5 +1,5 @@
-Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.
-Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.
-Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.
-Beáti pacífici, * beáti mundo corde; quóniam ipsi Deum vidébunt.
-In patiéntia vestra * possidébitis ánimas vestras.
+Jurávit Dóminus, * et non pœnitébit eum: Tu es sacérdos in ætérnum.
+Cóllocet eum * Dóminus cum princípibus pópuli sui.
+Dirupísti, Dómine, * víncula mea: tibi sacrificábo hóstiam laudis.
+Eúntes ibant * et flebant, mitténtes sémina sua.
+Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.

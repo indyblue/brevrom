@@ -29,11 +29,11 @@
 	ant('euge_serve_bone_et_fidelis-tui.php','B',2);
 	rubrics('head/Prayer.php',1);
 	prayer('csConfessor1.php');
-	head('Alia oratio','Alternate prayer',4);
+	head('Alia oratio','Alternate prayer',-4);
 	prayer('csConfessor2.php');
-	head('Pro Doctore non Pontifice','For a Doctor, not a Bishop',4);
+	head('Pro Doctore non Pontifice','For a Doctor, not a Bishop',-4);
 	prayer('csConfessorDoctor.php');
-  	head('Pro Abbate','For an Abbot',4);
+  	head('Pro Abbate','For an Abbot',-4);
 	prayer('csConfessorAbbot.php');
 	space();
 
@@ -82,7 +82,7 @@
 	hymn('iste_confessor_domini_colentes.php');
 	vrS('justum_deduxit_dominus_per_vias_rectas.php',2);
 	ant('hic_vir_despiciens_mundum_et_terrena_triumphans.php','M',2);
-	head('Pro Doctore','For a Doctor',4);
+	head('Pro Doctore','For a Doctor',-4);
 	ant('csConfessorDoctorAnt.php','M',2);
 	rubrics('cs/Compline.php');
 ?>

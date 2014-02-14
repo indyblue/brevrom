@@ -33,13 +33,13 @@
 
 	rubrics('head/Prayer.php',1);
 	rubrics('asIn.php','csPope','Common of Supreme Pontiff','For a Martyr Pope, prayer');
-	head('Pro Martyre Pontifice','For a Martyr Bishop',4);
+	head('Pro Martyre Pontifice','For a Martyr Bishop',-4);
 	prayer('csMartyrBishop1.php');
-	head('Alia oratio','Alternate prayer',4);
+	head('Alia oratio','Alternate prayer',-4);
 	prayer('csMartyrBishop2.php');
-	head('Pro Martyre non Pont.','For a Martyr, not a Bp.',4);
+	head('Pro Martyre non Pont.','For a Martyr, not a Bp.',-4);
 	prayer('csMartyr1.php');
-	head('Alia oratio','Alternate prayer',4);
+	head('Alia oratio','Alternate prayer',-4);
 	prayer('csMartyr2.php');
 
 	space();

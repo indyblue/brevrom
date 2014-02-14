@@ -1,30 +1,31 @@
-Te Deum
+Ambrosian Hymn
 We praise thee, O God, * we acknowledge thee to be the Lord.
-All the earth doth worship thee, * the Father everlasting.
-To thee all Angels cry aloud, * the Heavens, and all the Powers therein.
-To thee Cherubim and Seraphim * continually do cry.
-Holy, Holy, Holy, * Lord God of Sabaoth;
-Heaven and earth are full * of the Majesty of thy glory.
-The glorious company of the Apostles * praise thee.
-The goodly fellowship of the Prophets * praise thee.
-The noble army of Martyrs * praise thee.
-The holy Church throughout all the world * doth acknowledge thee;
-The Father, * of an infinite Majesty.
-Thine honourable, true, * and only Son;
-Also the Holy Ghost, * the Comforter.
-Thou art the King of Glory, * O Christ.
-Thou art the everlasting * Son of the Father.
-When thou tookest upon thee to deliver man, * thou didst not abhor the Virgin’s womb.
-When thou hadst overcome the sharpness of death, * thou didst open the Kingdom of Heaven to all believers.
+Thee, the Father everlasting, * all the earth doth worship.
+To thee all the Angels, * to thee the Heavens, and all the Powers:
+To thee the Cherubim and Seraphim * cry out without ceasing:
+Holy, Holy, Holy, * Lord God of hosts.
+Heaven and earth are full * of the majesty of thy glory.
+Thee the glorious * choir of the Apostles,
+Thee the admirable company * of the Prophets,
+Thee the white-robed army of Martyrs * doth praise.
+Thee the holy Church * throughout the world doth confess,
+The Father * of incomprehensible majesty;
+Thine adorable, true, * and only Son;
+And the Holy Ghost * the Paraclete.
+Thou, O Christ, * art the King of glory.
+Thou art the everlasting Son * of the Father.
+Thou, having taken upon thee to deliver man, * didst not disdain the Virgin’s womb.
+Thou, having overcome the sting of death, * hast opened to believers the kingdom of heaven.
 Thou sittest at the right hand of God, * in the glory of the Father.
-We believe that thou shalt come * to be our Judge.
-We beseech thee, therefore, help thy servants, * whom thou hast redeemed with thy precious Blood.
-Make them to be numbered with thy Saints, * in glory everlasting.
-O Lord, save thy people, * and bless thine inheritance.
-Govern them, * and exalt them forever.
+Thou, we believe, * art the Judge to come.
+<sr>The following verse is said kneeling</s>
+We beseech thee, therefore, to help thy servants, * whom thou hast redeemed with thy precious blood.
+Make them to be numbered with thy Saints * in glory everlasting.
+Save thy people, O Lord, * and bless thine inheritance.
+And govern them, * and exalt them forever.
 Day by day * we bless thee;
 And we praise thy name forever, * yea, forever and ever.
-Vouchsafe, O Lord, this day * to keep us without sin.
-Have mercy upon us, O Lord, * have mercy upon us.
-Let thy mercy be upon us, O Lord, * as we have hoped in thee.
-O Lord, in thee have I hoped, * let me not be confounded forever.
+Vouchsafe, O Lord, this day, * to keep us without sin.
+Have mercy on us, O Lord, * have mercy on us.
+Let thy mercy, O Lord, be upon us, * as we have trusted in thee.
+In thee, O Lord, have I trusted: * let me not be confounded forever.

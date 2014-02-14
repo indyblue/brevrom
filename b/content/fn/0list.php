@@ -1,20 +1,20 @@
 <?php 
-require '/www/b/content/fn/file_load.php';
-require '/www/b/content/fn/first_word.php';
-require '/www/b/content/fn/style_first_letter.php';
-require '/www/b/content/fn/image.php';
-require '/www/b/content/fn/misc.php';
+require 'file_load.php';
+require 'first_word.php';
+require 'style_first_letter.php';
+require 'image.php';
+require 'misc.php';
 
-require '/www/b/content/fn/rubrics.php';
-require '/www/b/content/fn/head.php';
-require '/www/b/content/fn/antiphon.php';
-require '/www/b/content/fn/vr.php';
-require '/www/b/content/fn/br_resp.php';
-require '/www/b/content/fn/prayer.php';
-require '/www/b/content/fn/psalm.php';
-require '/www/b/content/fn/hymn.php';
-require '/www/b/content/fn/lc.php';
-require '/www/b/content/fn/feast_saints.php';
+require 'rubrics.php';
+require 'head.php';
+require 'antiphon.php';
+require 'vr.php';
+require 'br_resp.php';
+require 'prayer.php';
+require 'psalm.php';
+require 'hymn.php';
+require 'lc.php';
+require 'feast_saints.php';
 
 
 ?>

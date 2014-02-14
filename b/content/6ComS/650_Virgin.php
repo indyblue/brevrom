@@ -16,7 +16,7 @@
 	vrS('specie_tua_et_pulcritudine_tua.php',2);
 	ant('veni_sponsa_christi_accipe_coronam.php','M',2);
   	space('Line');
-	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',4);
+	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',-4);
 	vrS('adducentur_regi_virgines_post_eam.php',2);
 	ant('prudentes_virgines_aptate_vestras_lampades.php',2);
 	space('Line');
@@ -27,18 +27,20 @@
 	ant('csVL.php','20000');
 	rubrics('ps/SuL1.php');
 	ant('csVL.php','02222');
-	rubrics('asIn.php','csVVlc','II Vespers','Little Chapter &amp; Hymn <snr>Jesu, coróna Vírginum</s>');
+	lc('2cor10_17.php');
+	rubrics('head/HymnVerse.php');
+	hymn('jesu_corona_virginum.php');
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
 	ant('simile_est_regnum_caelorum_homini_negotiatori.php','B',2);
 	rubrics('head/Prayer.php',1);
-	head('Pro Virgine Martyre','For a Virgin Martyr',4);
+	head('Pro Virgine Martyre','For a Virgin Martyr',-4);
 	prayer('csVirginMartyr1.php');
-	head('Alia oratio','Alternate prayer',4);
+	head('Alia oratio','Alternate prayer',-4);
 	prayer('csVirginMartyr2.php');
-	head('Pro Virgine non Martyre','For a Virgin, not a Martyr',4);
+	head('Pro Virgine non Martyre','For a Virgin, not a Martyr',-4);
 	prayer('csVirgin1.php');
   	space('Line');
-	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',4);
+	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',-4);
 	vrS('adducentur_regi_virgines_post_eam.php');
 	ant('prudentes_virgines_aptate_vestras_lampades.php','B');
 	prayer('csVirginsMartyrs1.php');
@@ -72,9 +74,9 @@
 	space();
 
 	hour('N');
-	head('Pro Virgine Martyre','For a Virgin Martyr',4);
+	head('Pro Virgine Martyre','For a Virgin Martyr',-4);
 	lc('ecclus51_9.php');
-	head('Pro Virgine non Martyre','For a Virgin, not a Martyr',4);
+	head('Pro Virgine non Martyre','For a Virgin, not a Martyr',-4);
 	lc('wis4_1.php');
 	rubrics('head/PTnot.php');
 	brS('elegit_eam_deus_et_praeelegit_eam.php');
@@ -95,9 +97,9 @@
 	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
 	ant('veni_sponsa_christi_accipe_coronam.php','M');
   	space('Line');
-	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',4);
+	head('Si fuerint plures Virgines Martyres','If are several Virgin Martyrs',-4);
+	vrS('adducentur_regi_virgines_post_eam.php');
 	ant('prudentes_virgines_aptate_vestras_lampades.php','M');
-  	vrS('adducentur_regi_virgines_post_eam.php');
 	space('Line');
 	rubrics('cs/Compline.php');
 

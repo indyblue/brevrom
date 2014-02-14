@@ -33,7 +33,7 @@
 	rubrics('head/HymnVerse.php');
 	rubrics('asIn.php','csMLh','Lauds, Common of One Martyr','For One Martyr, Hymn <snr>Invícte Martyr, únicum</s>');
 	rubrics('asIn.php','csMmLh','Lauds, Common of Several Martyrs','For Several Martyrs, Hymn <snr>Rex glorióse Mártyrum</s>');
-	head('Pro Apostolis','For Apostles',4);
+	head('Pro Apostolis','For Apostles',-4);
 	hymn('paschale_mundo_gaudium.php');
 	vrS('pretiosa_in_conspectu_domini.php',1);
 	ant('filiae_jerusalem_venite_et_videte_martyres.php','B',1);
@@ -71,7 +71,7 @@
 	rubrics('head/HymnVerse.php');
 	rubrics('asIn.php','csMVh','Vespers, Common of One Martyr','For One Martyr, Hymn <snr>Deus, tuórum mílitum</s>');
 	rubrics('asIn.php','csMmLh','Lauds, Common of Several Martyrs','For Several Martyrs, Hymn <snr>Rex glorióse Mártyrum</s>');
-	head('Pro Apostolis','For Apostles',4);
+	head('Pro Apostolis','For Apostles',-4);
 	hymn('tristes_erant_apostoli.php');
 	vrS('pretiosa_in_conspectu_domini.php',1);
 	ant('sancti_et_justi_in_domino_gaudete.php','M',1);

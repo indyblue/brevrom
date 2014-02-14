@@ -94,20 +94,27 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
     </draw:frame><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="2.3937in" style:rel-width="70%" draw:z-index="43">
      <draw:text-box fo:min-height="2in">
       <p:Head1NI>Diurnale Romanum</p>
-      <p:P160>REFORMED BY ORDER OF THE<text:line-break/>HOLY ECUMENICAL COUNCIL OF TRENT<text:line-break/>REVISED RITE<text:line-break/>IN ACCORD WITH MOTU PROPRIO<text:line-break/><s:T4>RUBRICARUM INSTRUCTUM</s><text:line-break/>JOHN XXIII<text:line-break/>IV FEBRUARII MCMLXI</p>
+		<p:P160>***PROOF COPY***</p>
+		<p:P160>REFORMED BY ORDER OF THE<text:line-break/>HOLY ECUMENICAL COUNCIL OF TRENT<text:line-break/>REVISED RITE<text:line-break/>IN ACCORD WITH MOTU PROPRIO<text:line-break/><s:T4>RUBRICARUM INSTRUCTUM</s><text:line-break/>JOHN XXIII<text:line-break/>IV FEBRUARII MCMLXI</p>
+		<p:P160>***PROOF COPY***</p>
       <p:P159/>
 <?php img('Title_JR.tif',35); ?>
       <p:P159/>
-      <p:P169>INCLUDES PSALTER FOR<text:line-break/>HOUR OF MATINS</p>
+		<p:P160>***PROOF COPY***</p>
+		<p:P201>This copy is intended for proof-reading
+<text:line-break/>purposes only. It has not yet received
+<text:line-break/>ecclesiastical approbation under Can. 826.</p>
       <p:P159/>
 		<p:P161>Gallican Latin Psalter of St. Jerome
       <text:line-break/>Douay-Rheims (Challenor) English Psalter</p>
       <p:P159/>
-      <p:P201>English text of prayers primarily from</p>
+      <p:P201>English text of prayers from</p>
       <p:P201>"The Day Hours of the Church" (1921)</p>
       <p:P201>Compiled and Translated by</p>
       <p:P201>The Benedictine Nuns of Stanbrook Abbey</p>
+      <p:P201>(et al.)</p>
       <p:P159/>
+		<p:P160>***PROOF COPY***</p>
       <p:P159>This volume was published on</p>
       <p:P159><draw:frame draw:style-name="fr10" draw:name="Object1" text:anchor-type="as-char" svg:width="2.3902in" svg:height="0.178in" draw:z-index="43"><draw:object xlink:href="./Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/><draw:image xlink:href="./ObjectReplacements/Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
        </draw:frame></p>

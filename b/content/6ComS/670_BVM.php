@@ -8,6 +8,14 @@
 		'Common of Feasts of the Bl. Virgin Mary',1,
 		'Common of Saints','Bl. Virgin Mary');
 
+	hour('1V');
+	rubrics('cs/1Vespers.php');
+	rubrics('asIn.php','PsComBVM','II Vespers','All');
+	rubp('','Except as follows:');
+	vrS('dignare_me_laudare_te_virgo_sacrata.php',2);
+	ant('sancta_maria_succurre_miseris.php','M',2);
+	rubrics('cs/1Compline.php');
+
 	hour('L');
 	ant('csBVML.php','20000',2);
 	rubrics('ps/SuL1.php');

@@ -7,11 +7,11 @@ head('Festa Augusti', 'Feasts of August',1);
 
 feast_saint(801,0,'Ss. Machabæorum','Holy Machabees','M+');
 
-feast_saint(802,3,'S. Alphonsi Mariæ de Ligorio',
+feast_saint(802,3,'S. Alfonsi Mariæ de Ligorio',
 	'St. Alphonsus Mary de Liguori','ECD',0,
 	'feast_saint(802,-1,"Sancti Stephani","Saint Stephen","PM",
 		array("csPope1m.php","Stéphanum","Stephen"));',
-	array('Alphónse María','Alphonsus Mary'));
+	array('Alfónse María','Alphonsus Mary'));
 
 feast_saint(804,3,'Sancti Dominici','Saint Dominic','C');
 

@@ -24,6 +24,58 @@ function hour($h, $size=2) {
 	head($hourL[$h], $hourE[$h], $size, $h1, $h2);
 }
 
+function head_sect($date, $class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
+	//put latin switch in local variable
+	$L = $_GET['L'];
+
+	//set class
+	if($class==1) $clname = 'I class';
+	elseif($class==2) $clname = 'II class';
+	elseif($class==3) $clname = 'III class';
+	elseif($class==0) $clname = 'Commem.';
+	else trigger_error('Invalid class for '. $date
+	  	.' ('. $nameE .')', E_USER_ERROR);
+	
+	//process date
+	if(is_array($date)) {
+		$Ldate = $date[0];
+		$Edate = $date[1];
+	} elseif($date>100) {
+		$date = convert_date($date);
+		$Ldate = $date[0];
+		$Edate = $date[1];
+	} else {
+		$Ldate = $date;
+		$Edate = $date;
+	}
+
+	//process description
+	if(is_array($descr)) {
+		$Ldescr = $descr[0];
+		$Edescr = $descr[1];
+	} else {
+		$Ldescr = $descr;
+		$Edescr = $descr;
+	}
+
+	//  <p:Hidden1>' . $Edate . ' - ' .$nameE .'</p>
+	if($head1)
+		hidden($head1,1);
+	//a value of 1 defaults to printing the date
+	if($head2==1)
+		hidden(($L==1?$Ldate:$Edate));
+	elseif($head2)
+		hidden($head2);
+
+	echo '
+  <text:p text:style-name="Head1' . 
+  ($class==1&&$class==2?'':'NI') . '">' . ($_GET['L']==1?$nameL:$nameE) .'</p>
+  <text:p text:style-name="Head5">' . ($_GET['L']==1?$nameE:$nameL) .'</p>
+  <p:Head4>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Edate:$Edate) .'</p>
+';
+
+}
+
 
 function head($L, $E, $size=3, $h1=0, $h2=0) {
 	if($h1) {

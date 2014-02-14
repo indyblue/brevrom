@@ -29,9 +29,9 @@
 	ant('zachaee_festinans_descende.php','B',2);
 
 	rubrics('head/Prayer.php',1);
-	head('In anniversario Dedicationis ecclesiæ','On the anniversary of the Dedication of a church',4);
+	head('In anniversario Dedicationis ecclesiæ','On the anniversary of the Dedication of a church',-4);
 	prayer('csChurchAnniversary1.php');
-	head('In ipso die Dedicationis ecclesiæ','On actual day of the Dedication of a church',4);
+	head('In ipso die Dedicationis ecclesiæ','On actual day of the Dedication of a church',-4);
 	prayer('csChurchDedication1.php');
 
 	space();
