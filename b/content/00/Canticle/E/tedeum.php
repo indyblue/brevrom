@@ -3,7 +3,9 @@ We praise thee, O God, * we acknowledge thee to be the Lord.
 Thee, the Father everlasting, * all the earth doth worship.
 To thee all the Angels, * to thee the Heavens, and all the Powers:
 To thee the Cherubim and Seraphim * cry out without ceasing:
-Holy, Holy, Holy, * Lord God of hosts.
+Holy,
+Holy,
+Holy, * Lord God of hosts.
 Heaven and earth are full * of the majesty of thy glory.
 Thee the glorious * choir of the Apostles,
 Thee the admirable company * of the Prophets,

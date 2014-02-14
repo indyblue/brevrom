@@ -3,7 +3,9 @@ Te Deum laudámus: * te Dóminum confitémur.
 Te ætérnum Patrem * omnis terra venerátur.
 Tibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes:
 Tibi Chérubim et Séraphim * incessábili voce proclámant:
-Sanctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.
+Sanctus,
+Sanctus,
+Sanctus * Dóminus Deus Sábaoth.
 Pleni sunt cæli et terra * majestátis glóriæ tuæ.
 Te gloriósus * Apostolórum chorus,
 Te Prophetárum * laudábilis númerus,

@@ -1,0 +1,1 @@
+Open my mouth, O Lord, that I may bless thy holy name. Cleanse my heart from all vain, evil and wandering thoughts; enlighten my understanding, enkindle my affections, that I may worthily recite this Office with attention and devotion, and may worthily be heard before the presence of thy Divine Majesty. Through Christ our Lord.

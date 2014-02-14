@@ -65,7 +65,7 @@ Spacer			2
   <style:style style:name="Body" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto" fo:background-color="transparent" style:shadow="none">
     <style:tab-stops>
-     <style:tab-stop style:position="5in" style:type="right"/>
+     <style:tab-stop style:position="10in" style:type="right"/>
     </style:tab-stops>
    </style:paragraph-properties>
    <style:text-properties fo:font-size=<?php echo '"'. $Body .'pt"' ?> style:text-scale="95%" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" fo:language="en" fo:country="GB"/>

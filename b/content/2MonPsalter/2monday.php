@@ -2,8 +2,6 @@
 	space();
 	img('benedicamus_domino.tif',35);
 	space();
-	$matins = $_GET['matins'];
-if($matins) {
 	bookmark('ps2M');
 	dayhour(2,'M');
 	ant('Ord/Inv2.php','I');
@@ -41,7 +39,6 @@ if($matins) {
 
 	space();
 	img();
-}
 	bookmark('ps2L1');
 	dayhour(2,'L1');
 	ant('Psalter/alleluia.php','P');

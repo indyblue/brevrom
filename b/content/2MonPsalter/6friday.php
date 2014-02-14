@@ -2,8 +2,6 @@
 	space();
 	img('dove.tif',35);
 	space();
-	$matins = $_GET['matins'];
-if($matins) {
 	bookmark('ps6M');
 	dayhour(6,'M');
 	ant('Ord/Inv6.php','I');
@@ -41,7 +39,6 @@ if($matins) {
 
 	space();
 	img();
-}
 	bookmark('ps6L1');
 	dayhour(6,'L1');
 	ant('Psalter/alleluia.php','P');

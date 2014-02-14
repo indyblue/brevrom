@@ -3,7 +3,9 @@ We praise thee, O God, * we acknowledge thee to be the Lord.
 All the earth doth worship thee, * the Father everlasting.
 To thee all Angels cry aloud, * the Heavens, and all the Powers therein.
 To thee Cherubim and Seraphim * continually do cry.
-Holy, Holy, Holy, * Lord God of Sabaoth;
+Holy,
+Holy,
+Holy, * Lord God of Sabaoth;
 Heaven and earth are full * of the Majesty of thy glory.
 The glorious company of the Apostles * praise thee.
 The goodly fellowship of the Prophets * praise thee.

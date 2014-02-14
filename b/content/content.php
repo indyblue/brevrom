@@ -95,10 +95,21 @@ require '0Intro/110_collect.php';
 space('PgB');
 $_GET['old'] = 1;
 require '6ComS/677_BVMp.php';
- */
 $_GET['matins'] = 0;
 require '6ComS/690_OfficeDead.php';
 require '7App/index.php';
+// */
+
+// Monastic Stuff
+/*
+$_GET['Style'] = 'custom';
+$_GET['PgW'] = 8.5;
+$_GET['PgH'] = 11;
+$_GET['PgMar'] = .75;
+$_GET['PgGMar'] = .75;
+$_GET['BodyFont'] = 12;
+space('PgH');
+require '2MonPsalter/1sunday.php';
 // */
 
 /*
@@ -108,7 +119,7 @@ require '7App/7_dolours.php';
 // require '7App/zzz_st_joseph.php';
 // */
 
-/*
+//*
 bklist('test');
 $_GET['long'] = 1;
 space('PgB');
@@ -118,8 +129,8 @@ space('PgB');
 // require '5PropS/02_February.php';
 // require '5PropS/03_March.php';
 // require '5PropS/04_April.php';
-require '5PropS/05_May.php';
-// require '5PropS/06_June.php';
+// require '5PropS/05_May.php';
+require '5PropS/06_June.php';
 // require '5PropS/07_July.php';
 // require '5PropS/08_August.php';
 // require '5PropS/09_September.php';
@@ -129,21 +140,23 @@ echo bklist(0);
 // require '3PropT\01_advent\index.php';
 // */
 
+/*
+$_GET['matins'] = 0;
+require '100_intro.php';
+require '110_toc.php';
+require '150_calendar.php';
+require '3PropT/index.php';
+require '1Ordinary/index.php';
 
-// require '100_intro.php';
-// require '110_toc.php';
-// require '150_calendar.php';
-// require '3PropT/index.php';
-// require '1Ordinary/index.php';
-// 
-// $_GET['long'] = 1;
-// require '2Psalter/index.php';
-// $_GET['long'] = 1;
+$_GET['long'] = 1;
+require '2Psalter/index.php';
+$_GET['long'] = 1;
 
-// require '5PropS/index.php';
-// require '6ComS/index.php';
-// require '7App/index.php';
-
+require '5PropS/index.php';
+$_GET['matins'] = 1;
+require '6ComS/index.php';
+require '7App/index.php';
+// */
 
 // require '998_indices.php';
 

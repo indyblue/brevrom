@@ -82,6 +82,13 @@ $repl=array(
 
 $txtContent = preg_replace($regex,$repl,$txtContent);
 
+// This undoes the custom dipthong font modifications.
+/*
+$regex=array( '/ã/', '/ô/', '/õ/' );
+$repl=array( 'ǽ', 'œ', 'œ' );
+$txtContent = preg_replace($regex,$repl,$txtContent);
+// */
+
 $zip->addFromString("content.xml", $txtContent);
 
 $fh = fopen("content.xml", 'w');

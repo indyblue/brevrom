@@ -1,4 +1,6 @@
 <?php
+	$matins = $_GET['matins'];
+if($matins) {
 	bookmark('psDM');
 	dayhour(1,'M');
 	space();
@@ -44,6 +46,7 @@
 
 	space();
 	img(); 
+}
 	bookmark('psDL1');
 	dayhour(1,'L1');
 	ant('Psalter/alleluia.php','P');
