@@ -137,10 +137,11 @@ echo '<html><head>
 			if(div2!=null) {
 				if(div2.height!="auto") {
 					div2.height="auto";
-					div2.visiblity="visible";
+					div2.visibility="visible";
 				} else {
 					div2.height="1px";
 					div2.visibility="hidden";
+				}
 			}
 		}
 		function name10() {
@@ -151,6 +152,7 @@ echo '<html><head>
 			} else {
 				h0="1px";
 				h1="hidden";
+			}
 			for(var i=0;i<divs.length;i++) {
 				divs[i].style.height = h0;
 				divs[i].style.visibility = h1;

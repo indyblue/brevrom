@@ -1,0 +1,1 @@
+O how sweet, * O Lord, is thy spirit! who, to show thy sweetness to the sons of men, feedest them with the sweetest bread from heaven, fillest the hungry with good things, and sendest the disdainful rich empty away.

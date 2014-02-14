@@ -1,7 +1,5 @@
 <?php
 	space();
-	hidden('After Pentecost',1);
-	hidden('Third Resumed Sunday After Epiphany',2);
 	head('Dominica III quæ Superfuit', 'Third Resumed Sunday',2);
 	head('II classis', 'II class',5);
 

@@ -10,6 +10,10 @@ rubp('Si dominicæ post Pentecosten fuerint 27, dominica XXIV erit quae inscribi
 
 rubp('Si dominicæ post Pentecosten fuerint 28, dominica XXIV erit quae inscribitur III post Epiphaniam, XXV quae inscribitur IV, XXVI quae inscribitur V, et XXVII quae inscribitur VI.', 'If there are 28 Sundays after Pentecost, the 24th Sunday is the one labeled the third after Epiphany, the 25th is labeled the fourth, the 26th is labeled the fifth, and the 27th is labeled the sixth.');
 space();
+
+
+hidden('After Pentecost',1);
+hidden('Resumed Sundays After Epiphany',2);
 head('Dominicæ quæ Superfuit Post Epiphaniam', 'Resumed Sundays After the Epiphany',1);
 
 ?>
