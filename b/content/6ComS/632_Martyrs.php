@@ -27,7 +27,7 @@
 	lc('wis3_1.php');
 	bookmark('csMmLh');
 	rubrics('head/HymnVerse.php');
-	hymn('rex_gloriose_martyrum.php');
+	hymn('rex_gloriose_martyrum.php',0);
 	vrS('exultabunt_sancti_in_gloria.php');
 	ant('vestri_capilli_capitis_omnes_numerati_sunt.php','B');
 

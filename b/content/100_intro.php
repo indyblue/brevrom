@@ -14,10 +14,11 @@ None (</s><?php echo bkref('orNone'); ?><sr>)
 Vespers (</s><?php echo bkref('orVespers'); ?><sr>) 
 Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 
-<?php require '0Intro/105_sacrosancte.php'; ?>
-<?php require '0Intro/106_o_clementissime.php'; ?>
-	<p:P1/>
-<?php require '0Intro/110_collect.php'; ?>
+<?php 
+	require '0Intro/105_sacrosancte.php';
+	require '0Intro/106_o_clementissime.php';
+	require '0Intro/110_collect.php'; 
+?>
 
 <?php
 	space();
@@ -31,17 +32,22 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 	psalm(137);
 	psalm(147); 
 
+	if($_GET['Style'] == '6') {
+		$wid = 'scale';
+		$hei = '100%';
+	} else {
+		$wid = '100%';
+		$hei = 'scale';
+	}
 ?>
 	<p:Spacer/>
-   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics2" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.2701in" style:rel-height="scale" draw:z-index="44"><draw:image xlink:href="../Images/FP_Trinity_Saints.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+	<p:P1><draw:frame draw:style-name="fr6" draw:name="graphics2" text:anchor-type="paragraph" svg:width="7.24in" style:rel-width="<?php echo $wid; ?>" svg:height="11.15in" style:rel-height="<?php echo $hei; ?>" draw:z-index="0"><draw:image xlink:href="../Images/FP_Trinity_Saints.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
     </draw:frame></p>
-   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics1" text:anchor-type="paragraph" svg:width="3.4201in" style:rel-width="100%" svg:height="5.5in" style:rel-height="scale" draw:z-index="40"><draw:image xlink:href="../Images/border.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="2.3937in" style:rel-width="70%" draw:z-index="43">
+   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics1" text:anchor-type="paragraph" svg:width="16.56in" style:rel-width="<?php echo $wid; ?>" svg:height="26.26in" style:rel-height="<?php echo $hei; ?>" draw:z-index="0"><draw:image xlink:href="../Images/border.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="2.4in" draw:z-index="1">
      <draw:text-box fo:min-height="2in">
       <p:Head1NI>Diurnale Romanum</p>
-		<p:P160>***PROOF COPY***</p>
 		<p:P160>REFORMED BY ORDER OF THE<text:line-break/>HOLY ECUMENICAL COUNCIL OF TRENT<text:line-break/>REVISED RITE<text:line-break/>IN ACCORD WITH MOTU PROPRIO<text:line-break/><s:T4>RUBRICARUM INSTRUCTUM</s><text:line-break/>JOHN XXIII<text:line-break/>IV FEBRUARII MCMLXI</p>
-		<p:P160>***PROOF COPY***</p>
       <p:P159/>
 <?php img('Title_JR.png',35); ?>
       <p:P159/>
@@ -59,7 +65,6 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
       <p:P201>The Benedictine Nuns of Stanbrook Abbey</p>
       <p:P201>(et al.)</p>
       <p:P159/>
-		<p:P160>***PROOF COPY***</p>
       <p:P159>This volume was published on</p>
       <p:P159><draw:frame draw:style-name="fr10" draw:name="Object1" text:anchor-type="as-char" svg:width="2.3902in" svg:height="0.178in" draw:z-index="43"><draw:object xlink:href="./Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/><draw:image xlink:href="./ObjectReplacements/Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
        </draw:frame></p>

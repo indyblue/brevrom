@@ -195,6 +195,7 @@ if($matins) {
 	ant('Psalter/1Sun/7C.php');
 	psalm(4);
 	psalm(90);
+	bookmark('Ps133');
 	psalm(133);
 	ant('Psalter/1Sun/7C.php',1);
 	ant('Psalter/alleluia.php','p');

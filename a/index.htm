@@ -23,17 +23,19 @@
 			//today = new Date('8/22/2012');
 			s = new season(today);
 			$('#out').html(s.str);
+			$('#out2').html(config.dv);
 		});
 	</script>
 </head>
 <body>
+	<div id="out2" style="border:1px solid black;">&nbsp;</div><br><br>
 	<div id="out" style="border:1px solid black;">&nbsp;</div><br><br>
 	<div id="dia">dia</div><br>
-	<div id="ps1"></div><br>
-	<div id="ps2"></div><br>
-	<div id="ps3"></div><br>
-	<div id="ps4"></div><br>
-	<div id="ps5"></div><br>
+	<div id="ps1">1</div><br>
+	<div id="ps2">2</div><br>
+	<div id="ps3">3</div><br>
+	<div id="ps4">4</div><br>
+	<div id="ps5">5</div><br>
 	<div id="note" class="note" onclick="$('#note').html('');"></div>
 	<div id="error"></div>
 </body>

@@ -160,6 +160,9 @@
   <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Header_20_Page">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
+  <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Standard2">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
   <style:style style:name="P191" style:family="paragraph" style:parent-style-name="Spacer">
    <style:paragraph-properties fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0008in solid #000000" style:shadow="none"/>
   </style:style>
@@ -212,7 +215,7 @@
    </style:graphic-properties>
   </style:style>
   <style:style style:name="fr6" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="page-content" style:mirror="none" fo:clip="rect(0in 0in 0in 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" style:mirror="none" fo:clip="rect(0in 0in 0in 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr7" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0in 0in 0in 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>

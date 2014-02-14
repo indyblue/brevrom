@@ -153,12 +153,15 @@ if($matins) {
 	psalm(115);
 	space('Spacer');
 	ant('Psalter/2Mon/6V.php','01200');
+	bookmark('Ps119');
 	psalm(119);
 	space('Spacer');
 	ant('Psalter/2Mon/6V.php','00120');
+	bookmark('Ps120');
 	psalm(120);
 	space('Spacer');
 	ant('Psalter/2Mon/6V.php','00012');
+	bookmark('Ps121');
 	psalm(121,0,1);
 	space('Spacer');
 	ant('Psalter/2Mon/6V.php','00001');

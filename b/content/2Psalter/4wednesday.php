@@ -153,9 +153,11 @@ if($matins) {
 	dayhour(4,'V');
 	ant('Psalter/alleluia.php','P');
 	ant('Psalter/4Wed/6V.php','20000');
+	bookmark('Ps127');
 	psalm(127,0,1);
 	space(2);
 	ant('Psalter/4Wed/6V.php','12000');
+	bookmark('Ps128');
 	psalm(128);
 	space(2);
 	ant('Psalter/4Wed/6V.php','01200');
@@ -163,6 +165,7 @@ if($matins) {
 	psalm(129,0,1);
 	space(2);
 	ant('Psalter/4Wed/6V.php','00120');
+	bookmark('Ps130');
 	psalm(130,0,1);
 	space(2);
 	ant('Psalter/4Wed/6V.php','00012');

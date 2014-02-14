@@ -53,6 +53,7 @@ if($matins) {
 	psalm(142);
 	space(2);
 	ant('Psalter/6Fri/1L1.php','01200');
+	bookmark('Ps84');
 	psalm(84);
 	space(2);
 	ant('Psalter/6Fri/1L1.php','00120');
@@ -120,6 +121,7 @@ if($matins) {
 	img(); 
 	bookmark('ps6S');
 	dayhour(6,'S');
+	bookmark('Ps83');
 	psalm(83,1);
 	psalm(83,2);
 	psalm(86);
@@ -176,6 +178,7 @@ if($matins) {
 	ant('Psalter/6Fri/7C.php');
 	psalm(76,1);
 	psalm(76,2);
+	bookmark('Ps85');
 	psalm(85);
 	ant('Psalter/6Fri/7C.php',1);
 	ant('Psalter/alleluia.php','p');

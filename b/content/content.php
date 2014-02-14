@@ -126,8 +126,18 @@ require '2MonPsalter/6friday_sext.php';
 // ************************************************************
 /*
 $_GET['Style'] = 'A4';
-space('PgH');
-require '7App/7_dolours.php';
+space('PgHM');
+require '5PropS/07_July.php';
+/*
+	reading('bvm/litany.php',1,10);
+	vrS('Ord/ora_pro_nobis_sancta_dei_genitrix.php');
+	vr('oremus.php');
+	prayer('csBVM1s.php');
+ */
+//require '7App/exposition.php';
+//require '7App/0701_precious_blood.php';
+//require '7App/benediction.php';
+//require '7App/7_dolours.php';
 // require '7App/zzz_st_joseph.php';
 // */
 
@@ -203,7 +213,39 @@ require '100_intro.php';
 require '110_toc.php';
 require '150_calendar.php';
 require '3PropT/index.php';
-/*
+//*
+require '1Ordinary/index.php';
+
+$_GET['long'] = 1;
+require '2Psalter/index.php';
+$_GET['long'] = 1;
+
+require '5PropS/index.php';
+require '6ComS/index.php';
+$_GET['matins'] = 1;
+require '6ComS/677_BVMp.php';
+$_GET['matins'] = 0;
+require '6ComS/690_OfficeDead.php';
+require '7App/index.php';
+// */
+
+// ************************************************************
+// * 4.5x6 Master copy
+// ************************************************************
+//*
+$_GET['Style'] = '6';
+bklist('test');
+
+$_GET['old'] = 0;
+$_GET['matins'] = 0;
+$_GET['long'] = 1;
+
+require '100_intro.php';
+//*
+require '110_toc.php';
+require '150_calendar.php';
+require '3PropT/index.php';
+//*
 require '1Ordinary/index.php';
 
 $_GET['long'] = 1;
@@ -220,10 +262,11 @@ require '7App/index.php';
 // */
 
 
+
 // ************************************************************
 // * 5.5x8.5 Lulu Master copy
 // ************************************************************
-//*
+/*
 $_GET['Style'] = 'L5';
 bklist('test');
 

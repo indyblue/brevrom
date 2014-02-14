@@ -7,8 +7,8 @@ if($_GET['Style']=='7') {
 	$PgGMar = .25;
 	$Body = 9;
 } elseif($_GET['Style']=='6') {
-	$PgW = 4.25;
-	$PgH = 6.5;
+	$PgW = 4.5;
+	$PgH = 6.0;
 	$PgMar = .25;
 	$PgGMar = .25;
 	$Body = 9;
@@ -327,6 +327,7 @@ Spacer			2
  </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="Standard2" style:page-layout-name="pm2"/>
   <style:master-page style:name="Body" style:page-layout-name="pm2">
    <style:header>
     <text:p text:style-name="PageHeader"><text:tab/><text:page-number text:select-page="current">1</text:page-number></text:p>

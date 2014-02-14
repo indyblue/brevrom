@@ -4,6 +4,7 @@ function space($type='BodySm') {
 	if($type=='Pg') $type='P1';
 	elseif($type=='PgB') $type='P181';
 	elseif($type=='PgH') $type='P182';
+	elseif($type=='PgHM') $type='P183';
 	elseif($type=='PgH1') $type='P180';
 	elseif($type=='PgI') $type='P179';
 	elseif($type==2) $type = 'Spacer';
