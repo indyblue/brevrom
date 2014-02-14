@@ -19,6 +19,11 @@ argdo %s/<\/*p[^>]*>//ig |w
 
 vim/[A-Z]\{2,}/*.php
 
+----- caps check -----
+vim/\%>1c[A-Z]/*.php
+33-2
+
+
 ggjlvwu:wn
 
 \%2l^[^A-Z]

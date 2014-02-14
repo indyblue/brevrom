@@ -1,1 +1,3 @@
-<p:Rubric><?php echo $link; ?>Psalms as in Common of Apostles, <snr>p. <?php echo bkref('PsComAp'); ?></s></p>
+<?php
+rubp('Psalmi ut ad Vesperas Apostolorum, <snr>p. '. bkref('PsComAp') .'</s>', 'Psalms as at Vespers of Apostles, <snr>p. '. bkref('PsComAp') .'</s>');
+?>

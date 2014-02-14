@@ -21,12 +21,12 @@
      </td> </tr> <tr> <td:A1>
       <p:BodyLDrop>AVE, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui Jesus. Sancta María, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen.</p>
      </td> <td:B1>
-      <p:BodyEDrop>HAIL, Mary, full of grace; The Lord is with thee: blessed art thou amongst women, and blessed is the fruit of thy womb, JESUS. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</p>
+      <p:BodyEDrop>HAIL, Mary, full of grace; The Lord is with thee: blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</p>
      </td> </tr> </table>
 	<p:Rubric>Before Matins and Prime, the <snr>Credo</s> is also said:</p>
 	<table> <tr> <td:A1>
       <p:BodyLDrop>CREDO in Deum, Patrem omnipoténtem, Creatórem cæli et terræ. Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen.</p>
      </td> <td:B1>
-      <p:BodyEDrop>I BELIEVE in God, the Father almighty, Creator of heaven and earth. And in JESUS CHRIST, his only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried: he descended into hell; the third day he arose again from the dead; he ascended into heaven; sitteth at the right hand of God the Father almighty: from thence he shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of Saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.</p>
+      <p:BodyEDrop>I BELIEVE in God, the Father almighty, Creator of heaven and earth. And in Jesus Christ, his only Son, our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried: he descended into hell; the third day he arose again from the dead; he ascended into heaven; sitteth at the right hand of God the Father almighty: from thence he shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the communion of Saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.</p>
      </td> </tr> </table>
 

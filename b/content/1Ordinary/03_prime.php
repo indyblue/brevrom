@@ -79,7 +79,7 @@
 		'Which is said thrice, then followed by:');
 	vrS('Ord/gloria_patri.php');
 	vrS('Ord/kyrie_eleison.php');
-	rubrics('ord/pater_silent_vr.php');
+	vr('pater_silent_vr.php');
 	vrS('Ord/respice_in_servos_tuos_domine.php');
 	vrS('Ord/gloria_patri.php');
 	vr('oremus.php');
@@ -92,14 +92,14 @@
 	rubp('','<snr>¶</s> In recitation alone, or when a Priest or Deacon is not present, <snr>Dómine</s> is said in place of <snr>domne</s>.');
 	vr('bened_dies_et.php');
 	lc('is33_2.php',0,2,'In Advent:');
-	lc('hebr1_11-12.php',0,3,'Christmas Season:');
-	lc('is60_6.php',0,3,'Epiphany Season:');
-	lc('is55_6.php',0,3,'Lent:');
-	lc('is50_6-7.php',0,3,'Passiontide:');
-	lc('col3_1-2.php',0,3,'Easter Season:');
-	lc('acts1_11.php',0,3,'Ascensiontide:');
-	lc('acts2_11.php',0,3,'Octave of Pentecost:');
-	lc('2thess3_5.php',0,3,'All other times:');
+	lc('hebr1_11-12.php',0,2,'Christmas Season:');
+	lc('is60_6.php',0,2,'Epiphany Season:');
+	lc('is55_6.php',0,2,'Lent:');
+	lc('is50_6-7.php',0,2,'Passiontide:');
+	lc('col3_1-2.php',0,2,'Easter Season:');
+	lc('acts1_11.php',0,2,'Ascensiontide:');
+	lc('acts2_11.php',0,2,'Octave of Pentecost:');
+	lc('2thess3_5.php',0,2,'All other times:');
 
 	head('De conclusione Primæ','The conclusion of Prime',2);
 	rubp('<snr>28</s> Ac deinde subditur:', '<snr>28</s> And then is said:');

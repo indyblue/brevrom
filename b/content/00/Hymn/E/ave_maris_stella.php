@@ -1,5 +1,5 @@
 Fr. E.Caswall
->The first strophe of this hymn is sung (or recited) kneeling:
+<sr>The first strophe of this hymn is sung (or recited) kneeling:</s>
 
 Hail thou Star of ocean!
 Portal of the sky!

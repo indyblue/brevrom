@@ -1,0 +1,2 @@
+May all thy Saints, we beseech thee, O Lord, everywhere come to our help, that while we do honour to their merits, we may also enjoy their intercession: grant thine own peace unto our times, and drive away all wickedness from thy Church; direct our way, our actions, and our wishes and those of all thy servants in the way of salvation; to our benefactors render everlasting blessings, and to all the faithful departed grant eternal rest. Through our Lord.
+> 1904 Benziger Little Office

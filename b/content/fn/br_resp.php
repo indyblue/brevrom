@@ -38,6 +38,12 @@ function brS($file,$PT=0,$style=0,$requiem=0) {
 	$L2 = $Lpieces[1];
 	$E1 = br_divide($Epieces,$PT);
 	$E2 = $Epieces[1];
+	if(is_string($style)) {
+		$tmp = file_load($dir.'prime/'.$style);
+		$L2 = $tmp[0];
+		$E2 = $tmp[1];
+	}
+
 	if($PT) {
 		$L1[2] = 'Allelúja, Allelúja.';
 		$E1[2] = 'Alleluia, Alleluia.';

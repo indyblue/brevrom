@@ -3,7 +3,7 @@ Et irritavérunt Móysen in castris: * Áaron, sanctum Dómini.
 Apérta est terra, et deglutívit Dathan: * et opéruit super congregatiónem Abíron.
 Et exársit ignis in synagóga eórum: * flamma combússit peccatóres.
 Et fecérunt vítulum in Horeb: * et adoravérunt scúlptile.
-Et mutavérunt glóriam suam * in similitúdine vítuli comedéntis fœnum.
+Et mutavérunt glóriam suam * in similitúdinem vítuli comedéntis fœnum.
 Oblíti sunt Deum, qui salvávit eos, * qui fecit magnália in Ægýpto, mirabília in terra Cham: terribília in Mari Rubro.
 Et dixit ut dispérderet eos: * si non Móyses, eléctus ejus, stetísset in confractióne in conspéctu ejus:
 Ut avérteret iram ejus ne dispérderet eos: * et pro níhilo habuérunt terram desiderábilem:

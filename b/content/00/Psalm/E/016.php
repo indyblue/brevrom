@@ -9,7 +9,7 @@ I have cried to thee, for thou, O God, hast heard me: * O incline thy ear unto m
 Show forth thy wonderful mercies; * thou who savest them that trust in thee.
 From them that resist thy right hand keep me, * as the apple of thy eye.
 Protect me under the shadow of thy wings: * from the face of the wicked who have afflicted me.
-My enemies have surrounded my soul: They have shut up their fat: * their mouth hath spoken proudly.
+My enemies have surrounded my soul, they have shut up their fat: * their mouth hath spoken proudly.
 They have cast me forth and now they have surrounded me: * they have set their eyes bowing down to the earth.
 They have taken me, as a lion prepared for the prey; * and as a young lion dwelling in secret places.
 Arise, O Lord, disappoint him and supplant him; * deliver my soul from the wicked one; thy sword from the enemies of thy hand.

@@ -8,11 +8,11 @@ And thou hast girded me with strength unto battle; * and hast subdued under me t
 And thou hast made my enemies turn their back upon me, * and hast destroyed them that hated me.
 They cried, but there was none to save them, to the Lord: * but he heard them not.
 And I shall beat them as small as the dust before the wind; * I shall bring them to nought, like the dirt in the streets.
-Thou wilt deliver me from the contradictions of the people; * thou wilt make me head of the Gentiles.
+Thou wilt deliver me from the contradictions of the people; * thou wilt make me head of the gentiles.
 A people which I knew not, hath served me: * at the hearing of the ear they have obeyed me.
 The children that are strangers have lied to me, * strange children have faded away, and have halted from their paths.
 The Lord liveth, and blessed be my God, * and let the God of my salvation be exalted.
 O God, who avengest me, and subduest the people under me, * my deliverer from my enraged enemies.
 And thou wilt lift me up above them that rise up against me: * from the unjust man thou wilt deliver me.
 Therefore will I give glory to thee, O Lord, among the nations, * and I will sing a psalm to thy name.
-Giving great deliverance to his king, and shewing mercy to David, his anointed: * and to his seed for ever.
+Giving great deliverance to his King, and shewing mercy to David, his Anointed: * and to his seed for ever.

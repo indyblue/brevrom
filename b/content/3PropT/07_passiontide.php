@@ -945,8 +945,8 @@
    <p:Rubric>At Prime, the Martyrology is not read, and all the rest up to the end of the Hour is not said.</p>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
-   <p:Rubric>Vespers are not said today by those who are present at the evening Mass of the Lord’s Supper.</p>
-   <p:RubricH>They are begun immediately from the first antiphon:</p>
+<?php rubp('Vesperæ ab iis qui Missæ vespertinæ in Cena Domini intersunt, hodie non dicuntur.', 'Vespers is not said by those who take part in the evening Mass of the Lord’s Supper.'); ?>
+<?php rubrics('ps/HolySatV.php'); ?>
 	<p:RubricHidden><t>Ps 115:4</p>
    <table>
     <tr>
@@ -958,7 +958,6 @@
      </td>
     </tr>
    </table>
-<?php rubrics('ps/PrHolySat.php'); ?>
    <p:Rubric>The little chapter, hymn and versicle are not said on these three days.</p>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Mt 26:26</p>
@@ -988,7 +987,7 @@
    <p:Head2>ad Completorium</p>
    <p:Rubric>Compline is said after the stripping of the altars, with the candles extinguished and without chant.</p>
    <p:RubricH>Examination of Conscience, followed by:</p>
-   <p:Body>Confíteor. Miserátur. Indulgéntiam.</p>
+   <p:Body>Confíteor. Misereátur. Indulgéntiam.</p>
 <?php rubrics('ps/SuC.php'); ?>
    <p:Rubric>After the psalms, the <snr>Nunc dimittis </s>is said immediately, without antiphon.</p>
    <p:RubricH>then the following is said kneeling:</p>
@@ -1078,8 +1077,8 @@
    <p:Rubric>At Prime, the Martyrology is not read, and all the rest up to the end of the Hour is not said.</p>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
-   <p:Rubric>Vespers are not said today by those who attend the solemn liturgical action.</p>
-   <p:RubricH>They are begun immediately from the first antiphon:</p>
+<?php rubp('Vesperæ ab iis qui solemni Actioni liturgicæ postmeridianæ intersunt, hodie non dicuntur.', 'Vespers is not said by those who take part in the afternoon solemn liturgical Action.'); ?>
+<?php rubrics('ps/HolySatV.php'); ?>
 	<p:RubricHidden><t>Ps 115:4</p>
    <table>
     <tr>
@@ -1091,7 +1090,6 @@
      </td>
     </tr>
    </table>
-<?php rubrics('ps/PrHolySat.php'); ?>
    <p:Rubric>The little chapter, hymn and versicle are not said.</p>
    <p:Head3>Magnificat</p>
    <p:RubricHidden><t>Jn 19:30</p>
@@ -1121,7 +1119,7 @@
    <p:Head2>ad Completorium</p>
    <p:Rubric>Compline is said after the stripping of the altars, with the candles extinguished and without chant.</p>
    <p:RubricH>Examination of Conscience, followed by:</p>
-   <p:Body>Confíteor. Miserátur. Indulgéntiam.</p>
+   <p:Body>Confíteor. Misereátur. Indulgéntiam.</p>
 <?php rubrics('ps/SuC.php'); ?>
    <p:Rubric>After the psalms, the <snr>Nunc dimittis </s>is said immediately, without antiphon.</p>
    <p:RubricH>then the following is said kneeling:</p>
@@ -1234,7 +1232,7 @@
      </td>
     </tr>
    </table>
-<?php bookmark('PsPrHolySat'); ?>
+<?php bookmark('PsHolySatV'); ?>
 <?php psalm('115.php'); ?>
    <p:RubricHSm>Holy Thursday and Good Friday:</p>
    <table>
@@ -1373,7 +1371,7 @@
    <p:Rubric>Compline is said only by those who are not present at the solemn Paschal Vigil.</p>
 	<p:Body/>
    <p:RubricH>Examination of Conscience, followed by:</p>
-   <p:Body>Confíteor. Miserátur. Indulgéntiam.</p>
+   <p:Body>Confíteor. Misereátur. Indulgéntiam.</p>
 <?php rubrics('ps/SuC.php'); ?>
    <p:Rubric>After the psalms, the <snr>Nunc dimittis </s>is said immediately, without antiphon.</p>
    <p:RubricH>And when this is finished, the whole of the <snr>Pater </s>is said silently; then in a loud voice, without <snr>Orémus</s>, there is said:</p>

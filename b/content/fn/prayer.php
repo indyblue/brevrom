@@ -11,7 +11,7 @@ function prayer($file, $nameL='', $nameE='') {
 	$amen = '';
 	if($nameL===1) {
 		$nameL = '';
-		$amen = '<t> <s:VR>R.</s> Amen.';
+		$amen = '<t> <s:VR>R.</s> Amen.';
 	} elseif($nameL===2) {
 		$nameL = '';
 /*
@@ -35,7 +35,7 @@ function prayer($file, $nameL='', $nameE='') {
 		// Who livest.
 		// Who liveth.
 */
-		$amen = '<t> <s:VR>R.</s> Amen.';
+		$amen = '<t> <s:VR>R.</s> Amen.';
 	}
 
 	if(strlen($nameL)>0) {

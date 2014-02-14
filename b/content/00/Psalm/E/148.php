@@ -1,6 +1,6 @@
 Psalm 148
 Praise ye the Lord from the heavens: * praise ye him in the high places.
-Praise ye him, all his angels: * praise ye him, all his hosts.
+Praise ye him, all his Angels: * praise ye him, all his hosts.
 Praise ye him, O sun and moon: * praise him, all ye stars and light.
 Praise him, ye heavens of heavens: * and let all the waters that are above the heavens, praise the name of the Lord.
 For he spoke, and they were made: * he commanded, and they were created.

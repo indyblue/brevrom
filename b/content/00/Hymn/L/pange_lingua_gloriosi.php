@@ -29,7 +29,7 @@ Et si sensus déficit,
 Ad firmándum cor sincérum
 Sola fides súfficit.
 
->Sequens stropha, si coram Sanctissimo exposito Officium persolvatur, dicitur flexis genibus:
+<sr>Sequens stropha, si coram Sanctissimo exposito Officium persolvatur, dicitur flexis genibus:</s>
 
 Tantum ergo Sacraméntum
 Venerémur cérnui:

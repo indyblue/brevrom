@@ -1,16 +1,12 @@
 <?php 
 	space();
-	head('Dominica I Adventus', 'First Sunday of Advent',1);
-	
+	hidden('',1);
+	hidden('Advent I',2);
+	head_temp(1,'Dominica I Adventus', 'First Sunday of Advent');
+
+	hour('1V');
 
 ?>
-   <p:RubricH/>
-   <p:Head0>Tempus Adventus</p>
-   <p:Body/>
-<?php hidden('Advent',1); ?>
-<?php hidden('Advent I',2); ?>
-   <p:Head1>Dominica I Adventus</p>
-   <p:Head2>I classis</p>
    <p:Head2>Collect</p>
    <table>
     <tr>

@@ -1,5 +1,5 @@
 Psalm 21 i
-O God my God, look upon me: why hast thou forsaken me? * Far from my salvation are the words of my sins.
+O God my God, look upon me: why hast thou forsaken me? * far from my salvation are the words of my sins.
 O my God, I shall cry by day, and thou wilt not hear: * and by night, and it shall not be reputed as folly in me.
 But thou dwellest in the holy place, * the praise of Israel.
 In thee have our fathers hoped: * they have hoped, and thou hast delivered them.

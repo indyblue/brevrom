@@ -1,4 +1,3 @@
-	<p:P1/>
    <p:Head1NI>Common Forms</p>
 	<p:Head2>The Collect</p>
    <p:RubricH>To a Prayer addressed to God the Father:</p>

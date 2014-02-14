@@ -1,1 +1,3 @@
-   <p:Rubric>Psalms as in Saturday Vespers, <snr>p. <?php echo bkref('PsSaV'); ?></s></p>
+<?php
+rubp('Psalmi de Sabbato, <snr>p. '. bkref('PsSaV') .'</s>', 'Psalms of Saturday Vespers, <snr>p. '. bkref('PsSaV') .'</s>');
+?>

@@ -24,7 +24,7 @@
 	}
 	space();
 	rubp('Deinde dicitur flexis genibus:','Then is said kneeling:');
-	rubrics('ord/pater_silent_vr.php');
+	vr('pater_silent_vr.php');
 	vrS('a_porta_inferi.php');
 	vrS('requiescant_in_pace.php');
 	vrS('domine_exaudi_orationem_meam.php');
@@ -57,7 +57,7 @@
 	space();
 	rubp('Postea dicitur flexis genibus:','After which is said kneeling:');
 	reading('vr/kyrie.php',0);
-	rubrics('ord/pater_silent_vr.php');
+	vr('pater_silent_vr.php');
 	vrS('preces/memento_congregationis.php');
 	vrS('domine_exaudi_orationem_meam.php');
 	rubp('In recitatione in choro vel in communi:', 'In recitation in choir or in common:',1);
@@ -89,7 +89,7 @@
 	space();
 	rubp('Postea dicitur flexis genibus:','After which is said kneeling:');
 	reading('vr/kyrie.php',0);
-	rubrics('ord/pater_silent_vr.php');
+	vr('pater_silent_vr.php');
 	vrS('litany/salvos_fac_servos_tuos.php');
 	vrS('domine_exaudi_orationem_meam.php');
 	rubp('In recitatione in choro vel in communi:', 'In recitation in choir or in common:',1);

@@ -1,5 +1,5 @@
 St. Gregory
->In dominicis post Pentecosten usque ad diem 30 septembris inclusive occurentibus, dicitur:
+<sr>In dominicis post Pentecosten usque ad diem 30 septembris inclusive occurentibus, dicitur:</s>
 
 Ecce jam noctis tenuátur umbra,
 Lux et auróræ rútilans corúscat:

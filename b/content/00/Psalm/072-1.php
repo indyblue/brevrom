@@ -1,6 +1,6 @@
 Psalmus 72 i
 Quam bonus Israël Deus, * his, qui recto sunt corde!‡
-Mei autem pæne moti sunt pedes: * pene effúsi sunt gressus mei.
+Mei autem pæne moti sunt pedes: * pæne effúsi sunt gressus mei.
 Quia zelávi super iníquos, * pacem peccatórum videns.
 Quia non est respéctus morti eórum: * et firmaméntum in plaga eórum.
 In labóre hóminum non sunt, * et cum homínibus non flagellabúntur:

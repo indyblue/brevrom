@@ -26,7 +26,7 @@
 	
 	head('De oratione','The Collect',2);
 	rubp('<snr>33</s> Expleto responsorio brevi, statim dicitur:', '<snr>33</s> After the brief response, the following is said immediately:');
-	vr('dv_de_LV.php');
+	vr('dv_de.php');
 	vr('oremus.php');
 	rubp('Et dicitur oratio, quæ dicta est in Laudibus.','And recite the prayer which was said at Lauds.');
 

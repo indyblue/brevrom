@@ -1,5 +1,5 @@
 Psalmus 109
-Dixit Dóminus Dómino meo: * sede a dextris meis:‡
+Dixit Dóminus Dómino meo: * Sede a dextris meis:‡
 Donec ponam inimícos tuos, * scabéllum pedum tuórum.
 Virgam virtútis tuæ emíttet Dóminus ex Sion: * domináre in médio inimicórum tuórum.
 Tecum princípium in die virtútis tuæ in splendóribus sanctórum: * ex útero ante lucíferum génui te.

@@ -1,1 +1,3 @@
-	<p:Rubric>At the Little Hours, Antiphons 1, 2, 3 &amp; 5 from Lauds are used at Prime, Terce, Sext &amp; None, respectively. The psalms are of Sunday; except at Prime, Psalm 53 is said in the first place, in place of Ps 117.</p>
+<?php
+rubp('Ad Primam, Tertiam, Sextam et Nonam: antiphonæ prima, secunda, tertia et quinta e Laudibus. Psalmi de dominica, ad Primam tamen ut in festis.', 'At Prime, Terce, Sext and None: antiphons 1, 2, 3 &amp; 5 from Lauds, respectively. Psalms are of Sunday, but at Prime as on feasts.');
+?>

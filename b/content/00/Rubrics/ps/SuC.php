@@ -1,1 +1,3 @@
-   <p:Rubric>Psalms as in Sunday Compline, <snr>p. <?php echo bkref('psDC'); ?></s>, without antiphon.</p>
+<?php
+rubp('Psalmi ut ad Completorium de dominica, <snr>p. '.  bkref('psDC') .'</s>, sine antiphona.', 'Psalms as at Compline of Sunday, <snr>p. '.  bkref('psDC') .'</s>, without antiphon.');
+?>

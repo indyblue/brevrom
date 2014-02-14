@@ -18,6 +18,17 @@
 		rubp('Feria III et VI: De II Nocturno <snr>['.bkref('csBVMMn2').']</s>.', 'Tuesday and Friday: from II Nocturn <snr>['.bkref('csBVMMn2').']</s>.',1);
 		rubp('Feria IV et Sabbato: De III Nocturno <snr>['.bkref('csBVMMn3').']</s>.', 'Wednesday and Saturday: from III Nocturn <snr>['.bkref('csBVMMn3').']</s>.',1);
 	} else {
+		
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDM') .'</s>) 
+		Monday (<snr>'. bkref('ps2M') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3M') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4M') .'</s>) 
+		Thursday (<snr>'. bkref('ps5M') .'</s>) 
+		Friday (<snr>'. bkref('ps6M') .'</s>) 
+		Saturday (<snr>'. bkref('psSM') .'</s>).');
+
+
 		head('Dominica, Feria II et V:',
 			'Sunday, Monday, and Thursday:',-4);
 		ant('opBVMm.php','N00000000');

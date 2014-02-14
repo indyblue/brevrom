@@ -6,7 +6,7 @@ His lightnings have shone forth to the world: * the earth saw and trembled.
 The mountains melted like wax, at the presence of the Lord: * at the presence of the Lord of all the earth.
 The heavens declared his justice: * and all people saw his glory.
 Let them be all confounded that adore graven things, * and that glory in their idols.
-Adore him, all you his angels: * Sion heard, and was glad.
+Adore him, all you his Angels: * Sion heard, and was glad.
 And the daughters of Juda rejoiced, * because of thy judgments, O Lord.
 For thou art the most high Lord over all the earth: * thou art exalted exceedingly above all gods.
 You that love the Lord, hate evil: * the Lord preserveth the souls of his saints, he will deliver them out of the hand of the sinner.

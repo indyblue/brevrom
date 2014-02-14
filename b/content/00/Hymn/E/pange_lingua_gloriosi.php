@@ -29,7 +29,7 @@ What though sense no change discerns?
 Only be the heart in earnest,
 Faith her lesson quickly learns.
 
->If the Office is recited in the presence of the exposed Blessed Sacrament, the following stanza is said kneeling:
+<sr>If the Office is recited in the presence of the exposed Blessed Sacrament, the following stanza is said kneeling:</s>
 
 Down in adoration falling,
 Lo! the sacred Host we hail;

@@ -11,7 +11,7 @@ Et percússit omne primogénitum in terra eórum: * primítias omnis labóris e�
 Et edúxit eos cum argénto et auro: * et non erat in tríbubus eórum infírmus.
 Lætáta est Ægýptus in profectióne eórum: * quia incúbuit timor eórum super eos.
 Expándit nubem in protectiónem eórum: * et ignem ut lucéret eis per noctem.
-Petiérunt, et venit cotúrnix: * et panem cæli saturávit eos.
+Petiérunt, et venit cotúrnix: * et pane cæli saturávit eos.
 Dirúpit petram et fluxérunt aquæ: * abiérunt in sicco flúmina;
 Quóniam memor fuit verbi sancti sui: * quod hábuit ad Ábraham, púerum suum.
 Et edúxit pópulum suum in exsultatióne, * et eléctos suos in lætítia.

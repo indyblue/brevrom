@@ -1,5 +1,5 @@
 Fr. E.Caswall
->Winter Hymn: On Sundays after Epiphany, from January 14th until Lent, and after Pentecost, from October 1 until November 26th inclusive, say:
+<sr>Winter Hymn: On Sundays after Epiphany, from January 14th until Lent, and after Pentecost, from October 1 until November 26th inclusive, say:</s>
 
 Dread Framer of the earth and sky!
 Who dost the circling seasons give!

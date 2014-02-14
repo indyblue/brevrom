@@ -76,14 +76,49 @@ function head_sect($date, $class, $nameL, $nameE, $descr='', $head1=0, $head2=0)
 
 }
 
+function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
+	//put latin, parallel switchs in local variables
+	$L = $_GET['L'];
+	$par = $_GET['par'];
+
+	$clnameL = array('Commemoratio', 'I classis', 'II classis', 'III classis');
+	$clnameE = array('Commemoration', 'I class', 'II class', 'III class');
+	$clname = array('Commem.', 'I cl.', 'II cl.', 'III cl.');
+	
+	if($head1)
+		hidden($head1,1);
+	if($head2)
+		hidden($head2);
+
+	head($nameL,$nameE,1);
+	if(is_array($descr)) {
+		if(strlen($descr[0].$descr[1]) > 40) 
+			head($clname[$class] .' '. $descr[0], 
+				$clname[$class] .' '. $descr[1], 14);
+		else 
+			head('', $clname[$class] .' '. $descr[0] 
+				.' — '. $clname[$class] .' '. $descr[1], 4);
+	}
+	else
+		head('', $clnameL[$class] .' — '. $clnameE[$class], 4);
+
+}
 
 function head($L, $E, $size=3, $h1=0, $h2=0) {
 	$Llang = $_GET['L'];
 	$par=0;
+
 	if($size<0 || $_GET['par']) {
 		$par=1;
 		if(!is_string($size))
 			$size = abs($size);
+	}
+
+	//inter-linear option
+	$interl = false;
+	if($size>=10) {
+		$size = $size - 10;
+		$interl = true;
 	}
 	if(strlen($L)==0) {
 		$par = 0;
@@ -105,9 +140,7 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 	}
 	if(!$par) {
 		echo '  <text:p text:style-name="Head'. $size .'">' . ($Llang==1?$L:$E) ."</p>\n";
-		if($size<2) 
-			echo '  <text:p text:style-name="Head5">' . ($Llang==1?$E:$L) ."</p>\n";
-	} 	elseif($size<2) { 
+	} 	elseif($size<2 || $interl) { 
 		echo '  <text:p text:style-name="Head'. $size .'">' . ($Llang==1?$L:$E) ."</p>\n".
 			'  <text:p text:style-name="Head5">' . ($Llang==1?$E:$L) ."</p>\n";
 	} 	else { 
@@ -146,6 +179,11 @@ function dayhour($d, $h, $size=1) {
 		'V' => 'at Vespers', '1V' => 'at I Vespers',
 		'2V' => 'at II Vespers', 'C' => 'at Compline');
 
+	// if $size<0, only the header is printed
+	if($size<0) {
+		$size = abs($size);
+		$short = true;
+	}
 	$h1 = 'Psalter';
 	$h2 = 2;
 
@@ -158,7 +196,7 @@ function dayhour($d, $h, $size=1) {
 	// hymns and groups of antiphons where appropriate.
 	// Matins and Compline begin differently from all other hours,
 	// and thus are handled differently.
-	if($h=='M');
+	if($h=='M' || $short);
 	elseif($h=='C') {
 		rubp('','The hour begins as in the Ordinary, <snr>p. ' . bkref('orCompline') .'.</s>');
 	} else {

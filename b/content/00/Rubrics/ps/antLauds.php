@@ -1,2 +1,3 @@
-   <p:Rubric>Antiphons as in Lauds.</p>
-
+<?php
+rubp('Antiphona ut ad Laudes.','Antiphons as ad Lauds.');
+?>

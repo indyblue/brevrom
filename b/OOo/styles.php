@@ -199,6 +199,9 @@ Spacer			2
   <style:style style:name="Rubric" style:family="text">
    <style:text-properties fo:color="#ff0000" fo:font-style="italic"/>
   </style:style>
+  <style:style style:name="RubricH" style:family="text" style:parent-style-name="Rubric">
+   <style:text-properties style:text-position="10% 70%"/>
+  </style:style>
   <style:style style:name="NonRubric" style:family="text" style:parent-style-name="Rubric">
    <style:text-properties fo:color="#000000" fo:font-style="normal" fo:font-weight="normal"/>
   </style:style>
@@ -228,6 +231,9 @@ Spacer			2
   </style:style>
   <style:style style:name="VR" style:family="text">
    <style:text-properties fo:color="#ff0000" style:font-name="Times VR"/>
+  </style:style>
+  <style:style style:name="NH" style:family="text">
+   <style:text-properties fo:language="zu" fo:country="ZA"/>
   </style:style>
   <style:style style:name="L" style:family="text">
    <style:text-properties fo:language="la" fo:country="VA" fo:font-style="italic"/>

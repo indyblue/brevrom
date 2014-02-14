@@ -1,1 +1,3 @@
-   <p:Rubric>Psalms and antiphons as in Saturday Lauds I, <snr>p. <?php echo bkref('PsSaL1'); ?></s></p>
+<?php
+rubp('Psalmi de Sabbato 1° loco, <snr>p. '. bkref('PsSaL1') .'</s>', 'Psalms of Saturday Lauds I, <snr>p. '. bkref('PsSaL1') .'</s>');
+?>

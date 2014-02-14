@@ -1,6 +1,6 @@
 Psalm 9 i
 I will give praise to thee, O Lord, with my whole heart: * I will relate all thy wonders.
-I will be glad and rejoice in thee: * I will sing to thy name, O thou most high.
+I will be glad and rejoice in thee: * I will sing to thy name, O thou most High,
 When my enemy shall be turned back: * they shall be weakened and perish before thy face.
 For thou hast maintained my judgment and my cause: * thou hast sat on the throne, who judgest justice.
 Thou hast rebuked the Gentiles, and the wicked one hath perished: * thou hast blotted out their name for ever and ever.

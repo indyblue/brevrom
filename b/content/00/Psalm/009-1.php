@@ -1,6 +1,6 @@
 Psalmus 9 i
 Confitébor tibi, Dómine, in toto corde meo: * narrábo ómnia mirabília tua.
-Lætábor et exsultábo in te: * psallam nómini tuo, Altíssime.
+Lætábor et exsultábo in te: * psallam nómini tuo, Altíssime,
 In converténdo inimícum meum retrórsum: * infirmabúntur, et períbunt a fácie tua.
 Quóniam fecísti judícium meum et causam meam: * sedísti super thronum, qui júdicas justítiam.
 Increpásti Gentes, et périit ímpius: * nomen eórum delésti in ætérnum, et in sǽculum sǽculi.

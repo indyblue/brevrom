@@ -25,7 +25,7 @@
 	ant('ne_reminiscaris.php','1',2);
 	space();
 	reading('vr/kyrie.php',0);
-	rubrics('ord/pater_silent_vr.php');
+	vr('pater_silent_vr.php');
 	vrS('preces/ego_dixi.php');
 	vrS('preces/convertere.php');
 	vrS('preces/fiat_misericordia.php');

@@ -9,5 +9,5 @@ Because they have not understood the works of the Lord, and the operations of hi
 Blessed be the Lord, * for he hath heard the voice of my supplication.
 The Lord is my helper and my protector: * in him hath my heart confided, and I have been helped.
 And my flesh hath flourished again, * and with my will I will give praise to him.
-The Lord is the strength of his people, * and the protector of the salvation of his anointed.
+The Lord is the strength of his people, * and the protector of the salvation of his Anointed.
 Save, O Lord, thy people, and bless thy inheritance: * and rule them and exalt them for ever.

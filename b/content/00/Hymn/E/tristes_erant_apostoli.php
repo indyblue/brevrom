@@ -31,7 +31,7 @@ All praise, Eternal Son, to Thee;
 All glory, as is ever meet,
 To God the Holy Paraclete. Amen.
 
->¶ In Ascensiontide (From Ascension Thursday until Friday before the Vigil of Pentecost inclusive):
+¶ <sr>In Ascensiontide (From Ascension Thursday until Friday before the Vigil of Pentecost inclusive):</s>
 
 All glory, Lord, to Thee we pay,
 Ascending o’er the stars to-day;

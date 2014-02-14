@@ -1,5 +1,5 @@
 St. Gregory(?)
->Prima stropha hymni sequentis dicitur flexis genibus:
+<sr>Prima stropha hymni sequentis dicitur flexis genibus:</s>
 
 Veni, Creátor Spíritus,
 Mentes tuórum vísita

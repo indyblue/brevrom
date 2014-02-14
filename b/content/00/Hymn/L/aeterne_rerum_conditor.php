@@ -1,5 +1,5 @@
 St. Ambrose
->In dominicis post Epiphaniam a die 14 januarii et deinceps ante Septuageimam occurrentibus, et a die 1 octobris usque ad diem 26 novembris inclusive occurentibus, dicitur:
+<sr>In dominicis post Epiphaniam a die 14 januarii et deinceps ante Septuageimam occurrentibus, et a die 1 octobris usque ad diem 26 novembris inclusive occurentibus, dicitur:</s>
 
 Ætérne rerum Cónditor,
 Noctem diémque qui regis,

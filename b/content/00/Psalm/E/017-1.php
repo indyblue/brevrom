@@ -10,7 +10,7 @@ And he heard my voice from his holy temple: * and my cry before him came into hi
 The earth shook and trembled: * the foundations of the mountains were troubled and were moved, because he was angry with them.
 There went up a smoke in his wrath: and a fire flamed from his face: * coals were kindled by it.
 He bowed the heavens, and came down, * and darkness was under his feet.
-And he ascended upon the cherubim, and he flew; * he flew upon the wings of the winds.
+And he ascended upon the Cherubim, and he flew: * he flew upon the wings of the winds.
 And he made darkness his covert, his pavilion round about him: * dark waters in the clouds of the air.
 At the brightness that was before him the clouds passed, * hail and coals of fire.
 And the Lord thundered from heaven, and the Highest gave his voice: * hail and coals of fire.

@@ -1,5 +1,7 @@
 <?php
 	$long = $_GET['long'];
+	$weekly = $_GET['weekly'];
+	$old = $_GET['old'];
 
 	space();
 	img('Saints/0908_nativity_of_bvm.tif',100);
@@ -18,6 +20,15 @@
 	//vr('deus_in_adjutorium.php');
 	vr('deus_in_adjutorium_short.php');
 	space();
+
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDL1') .'</s>) 
+		Monday (<snr>'. bkref('ps2L1') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3L1') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4L1') .'</s>) 
+		Thursday (<snr>'. bkref('ps5L1') .'</s>) 
+		Friday (<snr>'. bkref('ps6L1') .'</s>) 
+		Saturday (<snr>'. bkref('psSL1') .'</s>).');
 
 	bvm_multiant('20000');
 	psalm(92);
@@ -94,6 +105,15 @@
 	hymn('memento_rerum_conditor.php',0);
 	space();
 
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDP') .'</s>) 
+		Monday (<snr>'. bkref('ps2P') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3P') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4P') .'</s>) 
+		Thursday (<snr>'. bkref('ps5P') .'</s>) 
+		Friday (<snr>'. bkref('ps6P') .'</s>) 
+		Saturday (<snr>'. bkref('psSP') .'</s>).');
+
 	bvm_multiant('*0000');
 	psalm(53);
 	space('Spacer');
@@ -140,6 +160,15 @@
 	}
 	space();
 
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDT') .'</s>) 
+		Monday (<snr>'. bkref('ps2T') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3T') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4T') .'</s>) 
+		Thursday (<snr>'. bkref('ps5T') .'</s>) 
+		Friday (<snr>'. bkref('ps6T') .'</s>) 
+		Saturday (<snr>'. bkref('psST') .'</s>).');
+
 	bvm_multiant('0*000');
 	psalm(119);
 	space('Spacer');
@@ -183,6 +212,15 @@
 		hymn('memento_rerum_conditor.php');
 	}
 	space();
+
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDS') .'</s>) 
+		Monday (<snr>'. bkref('ps2S') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3S') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4S') .'</s>) 
+		Thursday (<snr>'. bkref('ps5S') .'</s>) 
+		Friday (<snr>'. bkref('ps6S') .'</s>) 
+		Saturday (<snr>'. bkref('psSS') .'</s>).');
 
 	bvm_multiant('00*00');
 	psalm(122);
@@ -230,6 +268,15 @@
 	}
 	space();
 
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDN') .'</s>) 
+		Monday (<snr>'. bkref('ps2N') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3N') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4N') .'</s>) 
+		Thursday (<snr>'. bkref('ps5N') .'</s>) 
+		Friday (<snr>'. bkref('ps6N') .'</s>) 
+		Saturday (<snr>'. bkref('psSN') .'</s>).');
+
 	bvm_multiant('0000*');
 	psalm(125);
 	space('Spacer');
@@ -270,6 +317,15 @@
 	vr('deus_in_adjutorium_short.php');
 	space();
 
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDV') .'</s>) 
+		Monday (<snr>'. bkref('ps2V') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3V') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4V') .'</s>) 
+		Thursday (<snr>'. bkref('ps5V') .'</s>) 
+		Friday (<snr>'. bkref('ps6V') .'</s>) 
+		Saturday (<snr>'. bkref('psSV') .'</s>).');
+
 	bvm_multiant('20000',1);
 	psalm(109);
 	space('Spacer');
@@ -285,7 +341,7 @@
 	bvm_multiant('00012',1);
 	psalm(147);
 	space('Spacer');
-	bvm_multiant('00001');
+	bvm_multiant('00001',1);
 	space();	
 
 	bvm_head(13);
@@ -344,6 +400,15 @@
 	vrS('Ord/converte_nos_deus_salutaris_noster.php');
 	vr('deus_in_adjutorium_short.php');
 	space();
+
+if($weekly) rubp('','Full Psalter: 
+		Sunday (<snr>p. '. bkref('psDC') .'</s>) 
+		Monday (<snr>'. bkref('ps2C') .'</s>) 
+		Tuesday (<snr>'. bkref('ps3C') .'</s>) 
+		Wednesday (<snr>'. bkref('ps4C') .'</s>) 
+		Thursday (<snr>'. bkref('ps5C') .'</s>) 
+		Friday (<snr>'. bkref('ps6C') .'</s>) 
+		Saturday (<snr>'. bkref('psSC') .'</s>).');
 
 	psalm(128);
 	space('Spacer');
@@ -415,7 +480,44 @@
 		require $_GET['root'] . '/1Ordinary/08_compline_BVMant.php';
 	}
 
+	space();
+	img();
+	space();
+	space();
+	hidden('',2);
+	head('','Summary of Changes',2);
+	space();
 
+	rubp('','At Lauds, Psalms 62 and 66 were previously said together, as a single psalm. There is no <snr>Glória Patri</s> between the psalms.');
+	psalm(66);
+	space();
+
+	rubp('','At Lauds, Psalms 148, 149 &amp; 150 were previously said together, as a single psalm. There is no <snr>Glória Patri</s> between the psalms.');
+	psalm(149);
+	psalm(150);
+	space();
+
+	rubp('','In all hours, the <snr>Ave María</s> was previously said at the beginning of the hour. (When Matins &amp; Lauds are said together, the <snr>Ave</s> is not said between the hours.)');
+	space();
+
+	rubp('','In all hours except Matins: Immediately before the collect, preceding the <snr>Dómine exáudi</s>, or <snr>Dóminus vobíscum</s>, the following was previously said:');
+	reading('vr/kyrie.php');
+	space();
+
+	rubp('','At Lauds &amp; Vespers, the following commemoration was previously said, immediately following the collect:');
+	bvm_head(13);
+	ant('sancti_dei_omnes_intercedere.php');
+	vrS('laetamini_in_domino_et_exultate_justi.php');
+	vr('oremus.php');
+	prayer('BVMp_c1.php');
+	prayer('BVMp_c2.php',1);
+	space();
+	bvm_head(2);
+	ant('ecce_dominus_veniet.php');
+	vrS('ecce_apparebit_dominus.php');
+	vr('oremus.php');
+	prayer('BVMp_c1a.php',1);
+	space();
 
 
 

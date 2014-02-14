@@ -1,5 +1,5 @@
 Unk. 6-9th c.
->Prima stropha sequentis hymni dicitur flexis genibus:
+<sr>Prima stropha sequentis hymni dicitur flexis genibus:</s>
 
 Ave, maris stella,
 Dei Mater alma,

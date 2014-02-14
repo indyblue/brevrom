@@ -1,5 +1,5 @@
 Psalm 24 i
-To thee, O Lord, have I lifted up my soul: * In thee, O my God, I put my trust; let me not be ashamed.
+To thee, O Lord, have I lifted up my soul: * in thee, O my God, I put my trust; let me not be ashamed.
 Neither let my enemies laugh at me: * for none of them that wait on thee shall be confounded.
 Let all them be confounded that act unjust things * without cause.
 Shew, O Lord, thy ways to me, * and teach me thy paths.

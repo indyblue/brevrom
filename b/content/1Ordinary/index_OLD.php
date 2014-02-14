@@ -124,7 +124,7 @@
    <p:Spacer/>
    <p:Head2>Nocturns</p>
    <p:RubricH>In each nocturn, the psalms with antiphons are said, followed by a versicle, from the office of the day. Afterwards is said:</p>
-<?php rubrics('ord/pater_silent_vr.php'); ?>
+<?php vr('pater_silent_vr.php'); ?>
 	<p:Head3>Absolution</p>
    <p:Rubric>Next is said an absolution, according to the following table:</p>
    <p:RubricH>I Nocturn, or Sunday, Monday and Thursday for a single Nocturn.</p>
@@ -385,7 +385,7 @@ Saturday (</s><?php echo bkref('psSP'); ?><sr>)</s></p>
 	<p:RubricH>followed by:</p>
 <?php vrS('Ord/gloria_patri.php'); ?>
 <?php vrS('Ord/kyrie_eleison.php'); ?>
-<?php rubrics('ord/pater_silent_vr.php'); ?>
+<?php vr('pater_silent_vr.php'); ?>
 	<p:RubricHSm><t>Ps 89:16</p>
 <?php vrS('Ord/respice_in_servos_tuos_domine.php'); ?>
 <?php vrS('Ord/gloria_patri.php'); ?>

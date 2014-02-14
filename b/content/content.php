@@ -13,8 +13,8 @@ require '001_start.php';
 vim/ /*.php *\*.php *\*\*.php *\*\*\*.php *\*\*\*\*.php *\*\*\*\*\*.php
 set backup | set nomore | ar *.php *\*.php *\*\*.php *\*\*\*.php *\*\*\*\*.php *\*\*\*\*\*.php
 ar *.php~ *\*.php~ *\*\*.php~ *\*\*\*.php~
-redir >das.txt | argdo g/\%3l/p
-redir OFF
+redir >das.txt | argdo g/rubrics(/p
+redir END
 
 g/E486/-2,d
 g/lines,/d
@@ -76,9 +76,12 @@ $_GET['par'] = 1;
 //  0 = short form
 //  1 = long form
 $_GET['long'] = 1;
+$_GET['weekly'] = 0;
 
 
 // space('PgB');
+// require '3PropT\01_advent\index.php';
+
 // require '1Ordinary\index.php';
 // new is 313
 // old is 295
@@ -86,18 +89,24 @@ $_GET['long'] = 1;
 // require '2Psalter/index_OLD.php';
 
 
-space('PgB');
-// require '0Intro/101_aperi.php';
-// require '0Intro/105_sacrosancte.php';
-// require '0Intro/110_collect.php';
+// space('PgB');
 
-// require '6ComS/690_OfficeDead.php';
+require '0Intro/101_aperi.php';
+require '0Intro/105_sacrosancte.php';
+require '0Intro/110_collect.php';
+space('PgB');
+require '6ComS/677_BVMp.php';
+require '6ComS/690_OfficeDead.php';
+require '7App/index.php';
+/*
+require '2Psalter/mini.php';
+require '6ComS/690_OfficeDead.php';
+require '7App/index.php';
+ */
 
 // require '6ComS/677_BVMp.php';
-// hidden('',1);
 // require '7App/3_BVM.php';
 
-// require '7App/index.php';
 
 // require 'z_hymns.php';
 // require 'z_psalms.php';
@@ -111,7 +120,7 @@ space('PgB');
 // 
 // require '5PropS/index.php';
 // require '6ComS/index.php';
-require '7App/index.php';
+// require '7App/index.php';
 
 
 // require '998_indices.php';

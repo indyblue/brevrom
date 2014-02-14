@@ -46,7 +46,8 @@ function hymn($file, $byref=-1) {
 		$txtE = trim($Epieces[1]);
 		$lenL = strlen($txtL);
 		$lenE = strlen($txtE);
-		if($lenL>0) echo '<p:RubricH>' . mb_substr(($_GET['L']?$txtL:$txtE),1) . '</p>';
+		if($lenL+$lenE > 0)
+			rubp($txtL,$txtE);
 	
 		?>
 		   <table>
@@ -96,11 +97,11 @@ function hymn($file, $byref=-1) {
 		<?php
 			} else {
 				if($new) {
-					$strL .= '<p:HymnL' . ($i==3?'1':'') . '><s:HymnR>'
-						. mb_substr($txtL,0,1) . '</s>' . mb_substr($txtL,1) . '</p>
+					$strL .= '<p:HymnL' . ($i==3?'1':'') . '>'
+						. style_first_letter($txtL,"s:HymnR") . '</p>
 						';
-					$strE .= '<p:HymnE' . ($i==3?'1':'') . '><s:HymnR>'
-						. mb_substr($txtE,0,1) . '</s>' . mb_substr($txtE,1) . '</p>
+					$strE .= '<p:HymnE' . ($i==3?'1':'') . '>'
+						. style_first_letter($txtE,"s:HymnR") . '</p>
 						';
 					$new = 0;
 				} else {

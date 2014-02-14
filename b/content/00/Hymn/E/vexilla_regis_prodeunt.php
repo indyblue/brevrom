@@ -26,7 +26,7 @@ The wealth that did the world restore;
 The beam that did that Body weigh
 Which raised up Hell’s expected prey.
 
->During this stanza all kneel:
+<sr>During this stanza all kneel:</s>
 
 Hail Cross, of hopes the most sublime!
 Now, in the mournful Passion time;

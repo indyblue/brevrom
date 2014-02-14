@@ -26,7 +26,7 @@ Prétium pepéndit sǽculi,
 Statéra facta córporis,
 Tulítque prædam tártari.
 
->Sequens stropha dicitur flexis genibus:
+<sr>Sequens stropha dicitur flexis genibus:</s>
 
 O Crux, ave, spes única,
 Hoc Passiónis témpore

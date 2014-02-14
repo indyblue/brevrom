@@ -1,5 +1,5 @@
 Fr. E.Caswall
->Summer Hymn: After Pentecost, until September 30th inclusive, say:
+<sr>Summer Hymn: After Pentecost, until September 30th inclusive, say:</s>
 
 Lo, fainter now lie spread the shades of night,
 And upward shoot the trembling gleams of morn;

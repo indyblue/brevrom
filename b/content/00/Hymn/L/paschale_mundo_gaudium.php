@@ -26,7 +26,7 @@ Et Fílio, qui a mórtuis
 Surréxit, ac Paráclito,
 In sempitérna sǽcula. Amen.
 
->¶ Tempore Ascensionis:
+¶ <sr>Tempore Ascensionis:</s>
 
 Jesu tibi sit glória,
 Qui victor in cælum redis,

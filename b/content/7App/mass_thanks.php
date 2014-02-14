@@ -11,7 +11,7 @@
 	space();
 
 	reading('vr/kyrie.php',0);
-	rubrics('ord/pater_silent_vr.php');
+	vr('pater_silent_vr.php');
 	vrS('confiteantur_tibi_domine.php');
 	vrS('exultabunt_sancti_in_gloria.php');
 	vrS('non_nobis_domine.php');

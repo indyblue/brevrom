@@ -187,15 +187,15 @@ function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $dr
 					$l2L = '';
 					$l2E = '';
 				} elseif(strpos($Lpieces[$i+1],'<')===0) {
-					$l2L = '<t><text:line-break/>'.
+					$l2L = '<t><br>'.
 						$line_style($Lpieces[$i+1]);
-					$l2E = '<t><text:line-break/>'. 
+					$l2E = '<t><br>'. 
 					  	$line_style($Epieces[$i+1]);
 				} else {
-					$l2L = '<t><text:line-break/>'.
+					$l2L = '<t><br>'.
 						numComm($comm,$verse_count+1,2) .
 						$line_style($Lpieces[$i+1]);
-					$l2E = '<t><text:line-break/>'. 
+					$l2E = '<t><br>'. 
 						numComm($comm,$verse_count+1) .
 						$line_style($Epieces[$i+1]) .
 						numComm($comm,$verse_count+1,$Cpieces);

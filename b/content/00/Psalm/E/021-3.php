@@ -5,7 +5,7 @@ Neither hath he turned away his face from me: * and when I cried to him he heard
 With thee is my praise in a great church: * I will pay my vows in the sight of them that fear him.
 The poor shall eat and shall be filled: and they shall praise the Lord that seek him: * their hearts shall live for ever and ever.
 All the ends of the earth * shall remember, and shall be converted to the Lord:
-And all the kindreds of the Gentiles * shall adore in his sight.
+And all the kindreds of the gentiles * shall adore in his sight.
 For the kingdom is the Lord’s; * and he shall have dominion over the nations.
 All the fat ones of the earth have eaten and have adored: * all they that go down to the earth shall fall before him.
 And to him my soul shall live: * and my seed shall serve him.

@@ -2,7 +2,7 @@ Psalmus 80
 Exsultáte Deo, adjutóri nostro: * jubiláte Deo Jacob.
 Súmite psalmum, et date týmpanum: * psaltérium jucúndum cum cíthara.
 Buccináte in Neoménia tuba, * in insígni die solemnitátis vestræ.
-Quia præcéptum in Israël est: * et judícium Dei Jacob.
+Quia præcéptum in Israël est: * et judícium Deo Jacob.
 Testimónium in Joseph pósuit illud, cum exíret de terra Ægýpti: * linguam, quam non nóverat, audívit.
 Divértit ab onéribus dorsum ejus: * manus ejus in cóphino serviérunt.
 In tribulatióne invocásti me, et liberávi te: * exaudívi te in abscóndito tempestátis: probávi te apud aquam contradictiónis.

@@ -24,6 +24,7 @@ fclose($fh);
 $regex=array(
 	'/<l>/',
 	'/<sr>/',
+	'/<srh>/',
 	'/<snr>/',
 	'/<sb>/',
 	'/<si>/',
@@ -40,6 +41,7 @@ $regex=array(
 	'/<td:([^\/>]*)/',
 	'/<\/td>/',
 	'/<t>/',
+	'/<br\/*>/',
 	'/Deus/', '/tibi/', '/tuam/', '/tuum/', 
 	'/meam/', '/meus/', '/meum/', '/mihi/',
 	'/cœtui/', '/cœtibus/', '/fœdera/', '/fœdere/', '/fœderis/', '/fœtidum/',
@@ -50,6 +52,7 @@ $regex=array(
 $repl=array(
 	'<s:L>',
 	'<s:Rubric>',
+	'<s:RubricH>',
 	'<s:NonRubric>',
 	'<s:Bold>',
 	'<s:Italic>',
@@ -68,6 +71,7 @@ $repl=array(
 	'<table:table-cell table:style-name="TableParallel.\1" office:value-type="string"',
 	'</table:table-cell>',
 	'<text:tab/>',
+	'<text:line-break/>',
 	'De­us', 'ti­bi', 'tu­am', 'tu­um', 
 	'me­am', 'me­us', 'me­um', 'mi­hi',
 	'cõtui', 'cõtibus', 'fõdera', 'fõdere', 'fõderis', 'fõtidum',

@@ -8,7 +8,7 @@ Therefore the Lord heard, and was angry: * and a fire was kindled against Jacob,
 Because they believed not in God: * and trusted not in his salvation.
 And he had commanded the clouds from above, * and had opened the doors of heaven.
 And had rained down manna upon them to eat, * and had given them the bread of heaven.
-Man ate the bread of angels: * he sent them provisions in abundance.
+Man ate the bread of Angels: * he sent them provisions in abundance.
 He removed the south wind from heaven: * and by his power brought in the southwest wind.
 And he rained upon them flesh as dust: * and feathered fowls like as the sand of the sea.
 And they fell in the midst of their camp, * round about their pavilions.

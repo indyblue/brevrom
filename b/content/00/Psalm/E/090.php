@@ -9,7 +9,7 @@ A thousand shall fall at thy side, and ten thousand at thy right hand: * but it 
 But thou shalt consider with thy eyes: * and shalt see the reward of the wicked.
 Because thou, O Lord, art my hope: * thou hast made the most High thy refuge.
 There shall no evil come to thee: * nor shall the scourge come near thy dwelling.
-For he hath given his angels charge over thee; * to keep thee in all thy ways.
+For he hath given his Angels charge over thee; * to keep thee in all thy ways.
 In their hands they shall bear thee up: * lest thou dash thy foot against a stone.
 Thou shalt walk upon the asp and the basilisk: * and thou shalt trample under foot the lion and the dragon.
 Because he hoped in me I will deliver him: * I will protect him because he hath known my name.

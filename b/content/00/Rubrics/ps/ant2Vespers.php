@@ -1,2 +1,3 @@
-   <p:Rubric>Antiphons as in II Vespers.</p>
-
+<?php
+rubp('Antiphona ut ad II Vesperas.','Antiphons as at II Vespers.');
+?>

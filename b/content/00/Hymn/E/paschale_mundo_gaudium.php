@@ -26,7 +26,7 @@ Who from the dead arose;
 Praise to the blessed Paraclete,
 While age on ages flows. Amen.
 
->¶ In Ascensiontide (From Ascension Thursday until Friday before the Vigil of Pentecost inclusive):
+¶ <sr>In Ascensiontide (From Ascension Thursday until Friday before the Vigil of Pentecost inclusive):</s>
 
 All glory, Lord, to Thee we pay,
 Ascending o’er the stars to-day;

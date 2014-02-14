@@ -163,7 +163,7 @@
    <p:Rubric>Brief Respond as in Ordinary of Christmas</p>
    <p:BodySm/>
 	<p:Head2>ad II Vésperas</p>
-<?php bookmark('PsPrNativity'); ?>
+<?php bookmark('PsNativityV'); ?>
    <p:Head3>Psalms with Antiphons</p>
    <table>
     <tr>
@@ -310,7 +310,7 @@
    <p:Body/>
    <p:Head2>ad I Vésperas</p>
    <p:Head3>Psalms with Antiphons</p>
-<?php rubrics('ps/PrNativity.php'); ?>
+<?php rubrics('ps/NativityV.php'); ?>
 <?php lc('gal4_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Ordinary of Christmas</p>
@@ -368,7 +368,7 @@
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Psalms with Antiphons</p>
-<?php rubrics('ps/PrNativity.php'); ?>
+<?php rubrics('ps/NativityV.php'); ?>
 <?php lc('gal4_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Ordinary of Christmas</p>
@@ -532,7 +532,7 @@
    <p:Rubric>Brief Respond as in Common of one Martyr.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
-<?php rubrics('ps/PrNativity.php'); ?>
+<?php rubrics('ps/NativityV.php'); ?>
 <?php lc('acts6_8.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>As in Common of one Martyr, with the following response:</p>
@@ -696,7 +696,7 @@
    <p:Rubric>Brief Respond as in Common of Apostles.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
-<?php rubrics('ps/PrNativity.php'); ?>
+<?php rubrics('ps/NativityV.php'); ?>
 <?php lc('ecclus15_1-2.php'); ?>
    <p:Head3>Hymn</p>
    <p:RubricH>as in Common of Apostles, with the following response:</p>
@@ -899,7 +899,7 @@
    <p:Rubric>Brief Respond as in Common of many Martyrs.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
-<?php rubrics('ps/PrNativity.php'); ?>
+<?php rubrics('ps/NativityV.php'); ?>
    <p:Rubric>Little Chapter as in Lauds</p>
    <p:Head3>Hymn</p>
    <p:RubricH>as in Lauds, with the following response:</p>
@@ -987,7 +987,7 @@
    <p:Rubric>All else as in Ordinary of Christmas.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
-<?php rubrics('ps/PrNativity.php'); ?>
+<?php rubrics('ps/NativityV.php'); ?>
 	<p:Rubric>From the little chapter on is also as on Christmas, unless they are to be said of the following Sunday or of a following feast of the first class.</p>
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday</p>
@@ -1020,7 +1020,7 @@
    <p:Rubric>All else as in ordinary of Christmas.</p>
    <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
-<?php rubrics('ps/PrNativity.php'); ?>
+<?php rubrics('ps/NativityV.php'); ?>
 	<p:Rubric>From the little chapter on is also as on Christmas, unless they are to be said of the following Sunday or of a following feast of the first class.</p>
    <p:BodySm/>
    <p:Rubric>Compline taken from Sunday.</p>

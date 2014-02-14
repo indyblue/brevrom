@@ -19,21 +19,19 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 	$txtL = trim($pieces[1]);
 	$txtE = trim($pieces[2]);
 	$title = '';
-	$conclL = '';
-	$conclE = '';
+	$conclL = '<t> <s:VR>R. </s><s:NH>Deo grátias.</s>';
+	$conclE = '<t> <s:VR>R. </s><s:NH>Thanks be to God.</s>';
 	$ref2 = '';
 
 	if($opt==1) {
 		$title = 'Capit. (Little Chapt.)';
-		$conclL = '<t> <s:VR>R. </s>Deo grátias.';
-		$conclE = '<t> <s:VR>R. </s>Thanks be to God.';
 	} elseif($opt==2) {
 		if($file2=='') 
 			$title = 'Lectio Brevis (Brief Lesson)';
 		else
 			$title = $file2;
-		$conclL = ' Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.';
-		$conclE = ' But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.';
+		$conclL = ' Tu autem Dómine, miserére nobis.'. $conclL;
+		$conclE = ' But thou, O Lord, have mercy upon us.'. $conclE;
 	} elseif($opt==3) {
 		if($file2=='') 
 			$title = 'Lectio Brevis (Brief Lesson)';
@@ -49,11 +47,10 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		// "Tu autem" is added except for office of the dead,
 		// which is signified by a "d" suffix as the 3rd char
 		if(strpos($opt,'d')===false) {
-			$conclL = ' Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.';
-			$conclE = ' But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.';
+			$conclL = ' Tu autem Dómine, miserére nobis.'. $conclL;
+			$conclE = ' But thou, O Lord, have mercy upon us.'. $conclE;
 		}
-	}		
-	elseif($opt=='h' || $opt=='H') {
+	} elseif($opt=='h' || $opt=='H') {
 		$dir2 = $_GET['root'] . "/00/Hymn/L/";
 		$pieces = file_load($dir2.$file2);
 		$ref2 = 'and hymn, <snr>'. trimP($pieces[3]) . '</s>, ';
@@ -62,7 +59,11 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		$pieces = file_load($dir2.$file2);
 		$ref2 = 'and br. resp., <snr>'. 
 			start_phrase($pieces[1],15) . '</s>, ';
+	} else {
+		$conclL = '';
+		$conclE = '';
 	}
+
 
 	if($byref) {
 		echo "   <p:Rubric>Capit.: <snr>". start_phrase($txtL,15) 

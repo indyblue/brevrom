@@ -9,7 +9,7 @@ Tunc non confúndar, * cum perspéxero in ómnibus mandátis tuis.
 Confitébor tibi in directióne cordis: * in eo quod dídici judícia justítiæ tuæ.
 Justificatiónes tuas custódiam: * non me derelínquas usquequáque.
 ~Béth
-In quo córrigit adolescéntior viam suam? * In custodiéndo sermónes tuos.
+In quo córrigit adolescéntior viam suam? * in custodiéndo sermónes tuos.
 In toto corde meo exquisívi te: * ne repéllas me a mandátis tuis.
 In corde meo abscóndi elóquia tua: * ut non peccem tibi.
 Benedíctus es, Dómine: * doce me justificatiónes tuas.
