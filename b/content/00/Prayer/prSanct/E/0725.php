@@ -1,0 +1,1 @@
+Be thou thyself, O Lord, the sanctifier and defender of thy people, that, being fortified by the patronage of thy Apostle James, they may both please thee in their manner of life and serve thee with secure minds. Through our Lord.

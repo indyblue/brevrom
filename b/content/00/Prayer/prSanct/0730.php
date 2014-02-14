@@ -1,0 +1,1 @@
+Deus, qui sanctis tuis Abdon et Sennen ad hanc glóriam veniéndi copiósum munus grátiæ contulísti: da fámulis tuis suórum véniam peccatórum; ut, Sanctórum tuórum intercedéntibus méritis, ab ómnibus mereántur adversitátibus liberári. Per Dóminum.

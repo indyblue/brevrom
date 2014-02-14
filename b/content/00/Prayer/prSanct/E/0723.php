@@ -1,0 +1,1 @@
+O God, the rewarder of all faithful souls, who hast consecrated this day by the martyrdom of thy Priest the blessed Apollinaris; grant to us thy servants, we beseech thee, that, as we celebrate his venerable solemnity, we may, through his prayers, obtain pardon for our sins. Through our Lord.

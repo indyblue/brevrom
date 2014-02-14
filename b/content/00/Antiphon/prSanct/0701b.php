@@ -1,1 +1,1 @@
-The blood of the Lamb * shall be unto you for a sign, saith the Lord; and I shall see the blood and shall pass over you, and the plague shall not be upon you.
+Erit sanguis Agni * vobis in signum, dicit Dóminus; et vidébo sánguinem, et transíbo vos nec erit in vobis plaga dispérdens.

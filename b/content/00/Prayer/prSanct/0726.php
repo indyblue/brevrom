@@ -1,0 +1,1 @@
+Deus, qui beátæ Annæ grátiam conférre dignátus es, ut Genitrícis unigéniti Fílii tui mater éffici mererétur: concéde propítius; ut, cujus solémnia celebrámus, ejus apud te patrocíniis adjuvémur. Per eúmdem Dóminum.

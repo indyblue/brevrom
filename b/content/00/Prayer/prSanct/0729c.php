@@ -1,0 +1,1 @@
+Præsta, quǽsumus, Dómine: ut, sicut pópulus christiánus Mártyrum tuórum Felícis, Simplícii, Faustíni et Beatrícis temporáli solemnitáte congáudet, ita perfruátur ætérna; et, quod votis célebrat, comprehéndat efféctu. Per Dóminum.

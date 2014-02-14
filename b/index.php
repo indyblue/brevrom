@@ -40,6 +40,7 @@ $regex=array(
 	'/Deus/', '/tibi/', '/tuam/', '/tuum/', 
 	'/meam/', '/meus/', '/meum/', '/mihi/',
 	'/cœtui/', '/cœtibus/', '/fœdera/', '/fœdere/', '/fœderis/', '/fœtidum/',
+	'/pœnitens/',
 	'/\bÁ/', '/\bÉ/', '/\bÍ/', '/\bÓ/', '/\bÚ/', '/\bÝ/', '/\bǼ/',
 	'/ǽ/', '/œ/'
 );
@@ -64,6 +65,7 @@ $repl=array(
 	'De­us', 'ti­bi', 'tu­am', 'tu­um', 
 	'me­am', 'me­us', 'me­um', 'mi­hi',
 	'cötui', 'cötibus', 'födera', 'födere', 'föderis', 'fötidum',
+	'pönitens',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ',
 	'ä', 'ô'
 );

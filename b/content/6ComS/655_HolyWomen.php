@@ -29,7 +29,7 @@
 	rubrics('ps/SuL1.php');
 	ant('csHWL.php','02222');
 	rubrics('asIn.php','csHWVlc','II Vespers','Little Chapter &amp; Hymn');
-	vrS('diffusa_est_gratia_in_labiis_tuis.php');
+	vrS('diffusa_est_gratia_in_labiis_tuis.php',2);
 	rubrics('head/Benedictus.php',2);
 	ant('date_ei_de_fructu_manuum_suarum.php','B',2);
 

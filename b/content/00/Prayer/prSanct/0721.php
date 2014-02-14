@@ -1,0 +1,1 @@
+Deus, qui ad árdua quæque pro nóminis tui glória et animárum salúte beáto Lauréntio, Confessóri tuo atque Doctóri, spíritum sapiéntiæ et fortitúdinis contulísti: da nobis in eódem spíritu et agénda cognóscere; et cógnita, ejus intercessióne, perfícere. Per Dóminum.

@@ -1,0 +1,1 @@
+Grant, we beseech thee, O Lord God, that in the spirit of thy blessed Apostle Paul we may learn the supereminent knowledge of Jesus Christ, wonderfully gifted with which knowledge, blessed Anthony Mary gathered together in thy Church new companies of clerics and holy virgins. Through the same.

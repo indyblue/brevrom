@@ -6,6 +6,12 @@ head('Festa Julii', 'Feasts of July',1);
 
 require '0701-1_precious_blood.php';
 
+require '0702-2_visitation_bvm.php';
+
+feast_saint(703,3,'Sancti Irenæi','Saint Irenæus','EM');
+
+feast_saint(705,3,'S. Antonii Mariæ Zaccaria','St. Anthony Mary Zaccaria','C');
+
 ?>
    <p:BodySm/>
    <p:Body/>
@@ -547,4 +553,37 @@ require '0701-1_precious_blood.php';
     </tr>
    </table>
    <p:BodySm/>
-<?php img(); ?>
+<?php 
+
+feast_saint(721,3,'S. Laurentii de Brundusio','St. Laurence of Brindisi',
+	'CD',0,'feast_saint(721,-1,"Sanctæ Praxedis","Saint Praxedes","V",
+	array("csVirgin1.php","Praxédis","Praxedes"));',
+	array('Laurénti','Laurence'));
+
+require '0722-3_mary_magdalen.php';
+
+feast_saint(723,3,'Sancti Apollinaris','Saint Apollinaris','EM',0,
+	'feast_saint(723,-1,"Sancti Liborii","Saint Liborius","EC",
+	array("csConfessorBishop1.php","Libórii","Liborius"));');
+
+feast_saint(724,0,'Sanctæ Christinæ','Saint Christina','VM',
+	array('csVirginMartyr2.php','Christína','Christina'));
+
+require '0725-2_james.php';
+
+require '0726-2_anne.php';
+
+feast_saint(727,0,'Sancti Pantaleonis','Saint Pantaleon','M',
+	array('csMartyr2.php','Pantaleóne','Pantaleon'));
+
+feast_saint(728,3,'Ss. Nazarii et Celsi, Mm., Victoris I, Papæ et M., ac Innocentii I, Papæ et Conf.','Ss. Nazarius and Chelsus, Mm., Victor I, Pope and M., Innocent I, Pope and Conf.','M+');
+
+feast_saint(729,3,'Sanctæ Marthæ','Saint Martha','V',
+	array('csVirgin1.php','Marthæ','Martha'),
+	'feast_saint(729,-1,"Ss. Felicis II, Papæ, Simplicii, Faustini et Baeatricis","Ss. Felix, Pope, Simplicius, Faustinus and Beatrice","M+");');
+
+feast_saint(730,0,'Ss. Abdon et Sennen','Ss. Abdon and Sennen','M+');
+
+feast_saint(731,3,'Sancti Ignatii','Saint Ignatius Loyola','C');
+
+?>

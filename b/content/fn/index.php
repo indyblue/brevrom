@@ -9,7 +9,8 @@ feast_saint(203,0,'Sancti Blasii','Saint Blaise','EM',
 
 // lc('1cor15_9-10.php');
 	lc('eph2_19.php','csApLlc');
-
+	lc('eph2_19.php','csApLlc','h','exsultet_orbis_gaudiis.php');
+	lc('eph2_19.php','csApLlc','br','in_omnem_terram_exivit_sonus_eorum.php');
 // hymn('o_gloriosa_virginum.php',1);
 
 // rubrics('prSanct/all_else.php','csCB');

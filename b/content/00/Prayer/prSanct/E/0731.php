@@ -1,0 +1,1 @@
+O God, who, to extend the greater glory of thy name, hast, through blessed Ignatius, strengthened thy Church militant with the addition of a new army; grant unto us so to fight here upon earth with his help, and after his example, that we may deserve to be crowned hereafter with him in heaven. Through our Lord.

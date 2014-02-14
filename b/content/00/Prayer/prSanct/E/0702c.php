@@ -1,0 +1,1 @@
+O God, who dost surround and protect us with the glorious confessions of thy holy Martyrs Processus and Martinian; grant us both to profit by their example and to rejoice in their intercession. Through our Lord.

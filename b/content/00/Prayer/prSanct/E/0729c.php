@@ -1,0 +1,1 @@
+Grant, we beseech thee, O Lord, that even as now, in this passing life, thy Christian people rejoice in the solemnity of thy Martyrs Felix, Simplicius, Faustinus and Beatrice, so they may enjoy it in heaven, and may effectually attain unto what they celebrate in desire. Through our Lord.

@@ -1,0 +1,1 @@
+A woman * that was in the city, a sinner, brought an alabaster box of ointment, and standing behind at the feet of our Lord, began to wash his feet with her tears, and wiped them with the hairs of her head.

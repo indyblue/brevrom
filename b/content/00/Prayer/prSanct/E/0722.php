@@ -1,0 +1,1 @@
+We beseech thee, O Lord, that we may be helped by the prayers of blessed Mary Magdalene, moved by whose entreaties thou didst raise her brother Lazarus to life when he had been dead four days. Who livest.

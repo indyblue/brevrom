@@ -1,0 +1,1 @@
+O God, who didst endow thy holy Martyrs Abdon and Sennen with those abundant gifts of thy grace, whereby they attained to their present glory; grant unto us, thy servants, the pardon of our sins, that, by the merits of thy Saints pleading for us, we may deserve to be delivered from all adversity. Through our Lord.

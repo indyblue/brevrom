@@ -48,16 +48,16 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php ant('offDefMatins.php','001000000'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>
 
-<?php lc('job7_16-21.php','Lesson i',0); ?>
+<?php lc('job7_16-21.php',0,'L1'); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
 <?php rm('offDef1.php',0,2,1,1) ?>
    <p:BodySm/>
 
-<?php lc('job10_1-7.php','Lesson ii',0); ?>
+<?php lc('job10_1-7.php',0,'L2'); ?>
 <?php rm('offDef2.php',0,2,1,1) ?>
    <p:BodySm/>
 
-<?php lc('job10_8-12.php','Lesson iii',0); ?>
+<?php lc('job10_8-12.php',0,'L3'); ?>
 <?php rm('offDef3.php',0,1,1) ?>
 <?php rubrics('offDef/m1noctLauds.php'); ?>
    <p:BodySm/>
@@ -81,16 +81,16 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 <?php ant('offDefMatins.php','000001000'); ?>
 <?php rubrics('offDef/mPortaPater.php'); ?>
 
-<?php lc('job13_22-28.php','Lesson iv',0); ?>
+<?php lc('job13_22-28.php',0,'L4'); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
 <?php rm('offDef4.php',0,2,1,1) ?>
 <p:BodySm/>
 
-<?php lc('job14_1-6.php','Lesson v',0); ?>
+<?php lc('job14_1-6.php',0,'L5'); ?>
 <?php rm('offDef5.php',0,2,1,1) ?>
 <p:BodySm/>
 
-<?php lc('job14_13-16.php','Lesson vi',0); ?>
+<?php lc('job14_13-16.php',0,'L6'); ?>
 <?php rm('offDef6.php',0,0,1,1) ?>
 <?php rubrics('offDef/m1noctLauds.php'); ?>
    <p:BodySm/>
@@ -116,16 +116,16 @@ echo ($_GET['L']==1?'Officium Defunctorum':'Office of the Dead')
 
 
 
-<?php lc('job17_1-3_11-15.php','Lesson vii',0); ?>
+<?php lc('job17_1-3_11-15.php',0,'L7'); ?>
 <?php rubrics('offDef/mNoTuAutem.php'); ?>
 <?php rm('offDef7.php',0,2,1,1) ?>
 <p:BodySm/>
 
-<?php lc('job19_20-27.php','Lesson viii',0); ?>
+<?php lc('job19_20-27.php',0,'L8'); ?>
 <?php rm('offDef8.php',0,2,1,1) ?>
 <p:BodySm/>
 
-<?php lc('job10_18-22.php','Lesson ix',0); ?>
+<?php lc('job10_18-22.php',0,'L9'); ?>
    <p:BodySm/>
 <p:RubricH>The following Respond is said when the Third Nocturn only is said:</p>
 <?php rm('offDef9n1.php',0,0,1,1) ?>

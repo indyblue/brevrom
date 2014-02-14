@@ -7,7 +7,7 @@ head('Festa Augusti', 'Feasts of August',1);
 
 	<p:BodySm/>
 
-<?php require '0815-1_assumption.php'; ?>
+<?php // require '0815-1_assumption.php'; ?>
    <p:BodySm/>
 
 <?php require '0816-2_joachim.php'; ?>
@@ -43,7 +43,7 @@ head('Festa Augusti', 'Feasts of August',1);
 <?php headSt('Aug. 20',3,'Sancti Bernardi','Saint Bernard','Abbot, Doctor'); ?>
 <?php rubrics('ps/Feria.php'); ?>
 <?php rubrics('prSanct/all_else.php','csC'); ?>
-<?php prayer('prSanct/0820.php'); ?>
+<?php prayer('csConfessorDoctor.php','Bernárdum','Benard'); ?>
    <p:BodySm/>
 
 <?php img(); ?>
