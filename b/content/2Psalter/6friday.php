@@ -4,6 +4,10 @@
 	space();
 	bookmark('ps6M');
 	dayhour(6,'M');
+	ant('Ord/Inv6.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('tu_trinitatis_unitas2.php');
+
 	ant('Psalter/6Fri/0M.php','N00000000');
 	psalm(77,1);
 	space(2);

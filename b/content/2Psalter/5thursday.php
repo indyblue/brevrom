@@ -4,6 +4,10 @@
 	space();
 	bookmark('ps5M');
 	dayhour(5,'M');
+	ant('Ord/Inv5.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('nox_atra_rerum_contegit.php');
+
 	ant('Psalter/5Thu/0M.php','N00000000');
 	psalm(61);
 	space(2);

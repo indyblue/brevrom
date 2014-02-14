@@ -4,6 +4,10 @@
 	space();
 	bookmark('ps2M');
 	dayhour(2,'M');
+	ant('Ord/Inv2.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('somno_refectis_artubus.php');
+
 	ant('Psalter/2Mon/0M.php','N00000000');
 	psalm(13);
 	space('Spacer');

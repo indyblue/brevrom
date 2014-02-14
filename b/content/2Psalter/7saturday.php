@@ -4,6 +4,10 @@
 	space();
 	bookmark('psSM');
 	dayhour(7,'M');
+	ant('Ord/Inv7.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('summae_parens_clementiae.php');
+
 	ant('Psalter/7Sat/0M.php','N00000000');
 	psalm(104,1);
 	space(2);

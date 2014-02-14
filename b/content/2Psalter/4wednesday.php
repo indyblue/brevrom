@@ -4,6 +4,10 @@
 	space();
 	bookmark('ps4M');
 	dayhour(4,'M');
+	ant('Ord/Inv4.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('rerum_creator_optime.php');
+
 	ant('Psalter/4Wed/0M.php','N00000000');
 	psalm(44,1);
 	space(2);

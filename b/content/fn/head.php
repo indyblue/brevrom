@@ -196,8 +196,10 @@ function dayhour($d, $h, $size=1) {
 	// hymns and groups of antiphons where appropriate.
 	// Matins and Compline begin differently from all other hours,
 	// and thus are handled differently.
-	if($h=='M' || $short);
-	elseif($h=='C') {
+	if($short);
+	elseif($h=='M') {
+		vr('domine_labia_short.php');
+	} elseif($h=='C') {
 		rubp('','The hour begins as in the Ordinary, <snr>p. ' . bkref('orCompline') .'.</s>');
 	} else {
 		// all other hours begin with this versicle

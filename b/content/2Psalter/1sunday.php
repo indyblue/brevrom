@@ -1,6 +1,19 @@
 <?php
 	bookmark('psDM');
 	dayhour(1,'M');
+	space();
+	rubp('Dominica, a die 14 Jan usque Septuagesimam, et a die 1 Oct usque ad diem 26 Nov inclusive:', 'Sunday, from 14 Jan through Septuagesima, and 1 Oct through 26 Nov, inclusive:',0);
+	ant('Ordinary/Inv1Winter.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('primo_die_quo_trinitas.php');
+
+	space();
+	rubp('Dominica, post Pentecosten usque ad diem 30 Sept.', 'Sunday, after Pentecost until 30 Sept, inclusive.',0);
+	ant('Ordinary/Inv1Summer.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('nocte_surgentes_vigilemus_omnes.php');
+
+	ant('ave_maria.php','I');
 	ant('Psalter/1Sun/0M.php','N00000000');
 	psalm(1);
 	space('Spacer');

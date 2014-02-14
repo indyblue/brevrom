@@ -4,6 +4,10 @@
 	space();
 	bookmark('ps3M');
 	dayhour(3,'M');
+	ant('Ord/Inv3.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('consors_paterni_luminis.php');
+
 	ant('Psalter/3Tue/0M.php','N00000000');
 	psalm(34,1);
 	space('Spacer');
