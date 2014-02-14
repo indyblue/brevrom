@@ -46,7 +46,7 @@ require 'fn/0list.php';
 //     'L8' for Lulu 8.5 x 11
 //     'A4' for 1/4 of A4
 //
-$_GET['Style'] = '7';
+$_GET['Style'] = 'L5';
 
 // 
 // these are only used if 'Style' is not a valid preset
@@ -141,7 +141,7 @@ echo bklist(0);
 // */
 
 /*
-$_GET['matins'] = 0;
+$_GET['matins'] = 1;
 require '100_intro.php';
 require '110_toc.php';
 require '150_calendar.php';
@@ -153,9 +153,11 @@ require '2Psalter/index.php';
 $_GET['long'] = 1;
 
 require '5PropS/index.php';
-$_GET['matins'] = 1;
+//$_GET['matins'] = 1;
 require '6ComS/index.php';
-require '7App/index.php';
+ require '6ComS/677_BVMp.php';
+require '6ComS/690_OfficeDead.php';
+ require '7App/index.php';
 // */
 
 // require '998_indices.php';

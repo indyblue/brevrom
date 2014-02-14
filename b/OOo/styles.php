@@ -18,6 +18,7 @@ if($_GET['Style']=='7') {
 	$PgMar = .25 + .125;
 	$PgGMar = .75;
 	$Body = 9;
+	$Body = 8.9;
 } elseif($_GET['Style']=='L8') {
 	$PgW = 8.5 + .25;
 	$PgH = 11 + .25;

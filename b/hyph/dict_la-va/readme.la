@@ -3,12 +3,13 @@ hyphenation between any:
    vowel followed by consonant
    consonant followed by consonant
 excepting:
+   [cpt] followed by h
    [bcdgpt] followed by [lr]
-   gn, ng, qu, ch, ph, th
 special rules:
    ti + vowel, no hyph
    hyphen can follow sti
    qu + vowel, no hyph
+   sc + [ie], no hyph
 
 The following vowels/dipthongs are represented:
 aeiouyáéíóúýæëãôõ

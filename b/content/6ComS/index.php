@@ -18,6 +18,4 @@ require '655_HolyWomen.php';
 require '660_DedicationChurch.php';
 require '670_BVM.php';
 require '675_BVMSat.php';
-require '677_BVMp.php';
-require '690_OfficeDead.php';
 ?>
