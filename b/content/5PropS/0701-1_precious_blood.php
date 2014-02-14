@@ -14,19 +14,19 @@
 	hymn('festivis_resonent_compita_vocibus.php',1);
 	vrS('prSanct/redemisti_nos_domine_in_sanguine_tuo.php');
 	ant('prSanct/0701m1.php','M');
-/*
+
 	space();
 	hour('L');
-	ant('prSanct/0629L.php','20000');
+	ant('prSanct/0701L.php','20000');
 	rubrics('ps/SuL1.php');
-	ant('prSanct/0629L.php','02222');
+	ant('prSanct/0701L.php','02222');
 	lc('hebr9_11-12.php');
 	rubrics('head/HymnVerse.php');
-	hymn('beate_pastor_petre_clemens_accipe2.php');
-	vrS('annuntiaverunt_opera_dei.php');
-	ant('prSanct/0629b.php','B');
+	hymn('salvete_christi_vulnera.php');
+	vrS('prSanct/justificati_in_sanguine_christi.php');
+	ant('prSanct/0701b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('prSanct/0629.php');
+	prayer('prSanct/0701.php');
 
 	space();
 	rubrics('head/LittleHours.php'); 
@@ -34,29 +34,30 @@
 
 	hour('T'); 
 	lc('hebr9_11-12.php');
-	brS('in_omnem_terram_exivit_sonus_eorum.php');
-	vrS('constitues_eos_principes_super_omnem_terram.php');
+	brS('prSanct/redemisti_nos_domine_in_sanguine_tuo_ex.php');
+	vrS('prSanct/sanguis_jesu_christi_filii_dei.php');
 	
 	space();
 	hour('S'); 
-	lc('acts12_5.php'); 
-	brS('constitues_eos_principes_super_omnem_terram.php');
-	vrS('nimis_honorati_sunt_amici_tui_deus.php');
+	lc('hebr9_13-14.php'); 
+	brS('prSanct/sanguis_jesu_christi_filii_dei_emundat_nos.php');
+	vrS('prSanct/christus_dilexit_nos.php');
 
 	space();
 	hour('N'); 
-	lc('acts12_11.php');
-	brS('nimis_honorati_sunt_amici_tui_deus.php');
-	vrS('annuntiaverunt_opera_dei.php');
+	lc('hebr9_19-20.php');
+	brS('prSanct/christus_dilexit_nos_et_lavit_nos_in_sanguine_suo.php');
+	vrS('prSanct/justificati_in_sanguine_christi.php');
 
 	space();
 	hour('2V'); 
-	rubrics('ps/ComAp+a.php');
-	lc('acts12_1-3.php');
+	ant('prSanct/0701V.php','20000');
+	rubrics('ps/SuV147.php');
+	ant('prSanct/0701V.php','02222');
+	lc('hebr9_11-12.php');
 	hymn('festivis_resonent_compita_vocibus.php',0);
-	vrS('annuntiaverunt_opera_dei.php');
-	ant('prSanct/0629m2.php','M');
+	vrS('prSanct/te_ergo_quaesumus_tuis_famulis_subveni.php');
+	ant('prSanct/0701m2.php','M');
 	rubrics('prSanct/ComplineSun.php'); 
- */
 ?>
 

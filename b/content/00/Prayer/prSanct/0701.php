@@ -1,0 +1,1 @@
+Omnípotens sempitérne Deus, qui unigénitum Fílium tuum mundi Redemptórem constituísti, ac ejus Sánguine placári voluísti: concéde, quǽsumus, salútis nostræ prétium solémni cultu ita venerári, atque a præséntis vitæ malis ejus virtúte deféndi in terris; ut fructu perpétuo lætémur in cælis. Per eúmdem Dóminum.
