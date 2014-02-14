@@ -1,0 +1,1 @@
+O God, who through the foolishness of the Cross didst marvellously teach blessed Justin thy Martyr the surpassing knowledge of Jesus Christ; grant, through his intercession, that, frustrating the deceits of error, we may obtain steadfastness of faith. Through the same.

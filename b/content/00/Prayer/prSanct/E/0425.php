@@ -1,0 +1,1 @@
+O God, who didst exalt blessed Mark thy Evangelist by a singular grace of preaching the Gospel; grant, we beseech thee, that we may both profit by his teaching and ever be defended by his prayers. Through our Lord.

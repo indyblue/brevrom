@@ -1,0 +1,1 @@
+O God, who didst vouchsafe to adorn blessed Fidelis, inflamed with a seraphic ardour for the propagation of the true faith, with the palm of martyrdom and the glory of miracles; we beseech thee, through his merits and intercession, so to confirm us by thy grace in faith and love that we may deserve to be found faithful in thy service even unto death. Through our Lord.

@@ -4,8 +4,10 @@
 + plural (doesn't show)
 H Holy Woman (doesn't show)
 ^ church (doesn't show)
+e Eastertide/P.T. (doesn't show)
 
 A (Ap.)
+G (Evang.)
 M (Mart.)
 P (Papæ)(Pope)
 E (Ep.)(Bp.)
@@ -48,12 +50,14 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0, $ant=0) {
 
 	// arrays defining types/classifications: (case sensitive)
-	$Lcl = array( 'A' => 'Ap.', 'M' => 'Mart.', 'P' => 'Papæ', 'E' => 'Ep.',
-		'C' => 'Conf.', 'p' => 'Presbyt.', 'a' => 'Abbot', 'D' => 'Eccl. Doct.',
-		'V' => 'Virgin', 'W' => 'Viduæ', 'K' => 'Regis', 'Q' => 'Reginæ');
-	$Ecl = array( 'A' => 'Ap.', 'M' => 'Mart.', 'P' => 'Pope', 'E' => 'Bp.',
-		'C' => 'Conf.', 'p' => 'Priest', 'a' => 'Abbot', 'D' => 'Eccl. Doct.',
-		'V' => 'Virgin', 'W' => 'Widow', 'K' => 'King', 'Q' => 'Queen');
+	$Lcl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Papæ', 
+		'E' => 'Ep.', 'C' => 'Conf.', 'p' => 'Presbyt.', 'a' => 'Abbot', 
+		'D' => 'Eccl. Doct.', 'V' => 'Virgin', 'W' => 'Viduæ', 'K' => 'Regis', 
+		'Q' => 'Reginæ');
+	$Ecl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Pope', 
+		'E' => 'Bp.', 'C' => 'Conf.', 'p' => 'Priest', 'a' => 'Abbot', 
+		'D' => 'Eccl. Doct.', 'V' => 'Virgin', 'W' => 'Widow', 'K' => 'King', 
+		'Q' => 'Queen');
 
 	// break up and format the date
 	if(is_array($date)) {
@@ -77,20 +81,31 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			$prayer = sprintf("prSanct/%04s.php",$date);
 	
 	// find appropriate common
-	$pl=0; $fem=0; $mart=0;
+	$pl=0; $pt=0; $fem=0; $mart=0; $doct=0; 
 	if(strpos($type,'+')!==false) $pl = 1;
+	if(strpos($type,'e')!==false) $pt = 1;
 	if(ereg('[HVWQ]',$type)!==false) $fem = 1;
 	if(strpos($type,'M')!==false) $mart = 1;
 	if(strpos($type,'a')!==false) $abb = 1;
 	if(strpos($type,'D')!==false) $doct = 1;
 	
-	if(strpos($type,'A')!==false) {
-		$cs = 'csAp';
-		$Lvr = 'annuntiaverunt_opera_dei.php';
-		$Lant = 'vos_qui_reliquistis_omnia.php';
+	if(ereg('[AG]',$type)!==false) {
+		if($pt) {
+			$cs = 'csApPT';
+			$Lvr = 'pretiosa_in_conspectu_domini.php';
+			$Lant = 'filiae_jerusalem_venite_et_videte_martyres.php';
+		} else {
+			$cs = 'csAp';
+			$Lvr = 'annuntiaverunt_opera_dei.php';
+			$Lant = 'vos_qui_reliquistis_omnia.php';
+		}
 	}
 	elseif(strpos($type,'M')!==false && !$fem) {
-		if($pl) {
+		if($pt) {
+			$cs = 'csApPT';
+			$Lvr = 'pretiosa_in_conspectu_domini.php';
+			$Lant = 'filiae_jerusalem_venite_et_videte_martyres.php';
+		} elseif($pl) {
 			$cs = 'csMm';
 			$Lvr = 'exultabunt_sancti_in_gloria.php';
 			$Lant = 'vestri_capilli_capitis_omnes_numerati_sunt.php';
@@ -156,7 +171,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	// commemoration which concurs with another feast
 	// The character 'H' signifies header only
 	// Otherwise if positive, print everything as normal
-	if($class>10) {
+	if($class>=10) {
 		headSt($Edate, $class-10, $nameL, $nameE, $Etype);
 	} elseif($class>=0) {
 		// add image... (the only image that can be added
@@ -202,7 +217,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
   <p:RubricH>Commemoration is made of '. $nameE .', '. $Etype .':</p>
 ';
 		ant($Lant,1);
-		vrS($Lvr);
+		vrS($Lvr,$pt);
 		rubrics('oremus.php');
 		if(is_array($prayer)) {
 			if(count($prayer)<3)

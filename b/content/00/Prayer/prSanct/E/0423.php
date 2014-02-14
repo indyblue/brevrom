@@ -1,0 +1,1 @@
+O God, who givest us to rejoice in the merits and intercession of blessed George thy Martyr; grant, in thy mercy, that as we seek thy blessings through him, we may obtain them by the gift of thy grace. Through our Lord.

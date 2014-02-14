@@ -1,0 +1,1 @@
+Deus, qui ad tuéndam cathólicam fidem beátum Petrum, Confessórem tuum, virtúte et doctrína roborásti: concéde propítius; ut ejus exémplis et mónitis errántes ad salútem resipíscant, et fidéles in veritátis confessióne persevérent. Per Dóminum.

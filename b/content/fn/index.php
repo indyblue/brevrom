@@ -6,7 +6,9 @@ if($tmp==='H') echo 'oh no!';
 feast_saint(203,0,'Sancti Blasii','Saint Blaise','EM',
 	array('csMartyrBishop2.php','Blásii','Blaise'));
  */
-	vrS('pretiosa_in_conspectu_domini.php',1); 
+
+rubrics('prSanct/all_else.php','csCB');
+//	vrS('pretiosa_in_conspectu_domini.php',1); 
 	
 
 

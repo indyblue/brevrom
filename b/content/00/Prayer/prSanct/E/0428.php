@@ -1,0 +1,1 @@
+O Lord Jesus Christ, who didst bestoy on blessed Paul an especial love for the preaching of the mystery of thy Cross, and wert pleased that through him a new Order should flourish in thy Church; grant through his intercession that, by ever meditating on thy Passion on earth, we may deserve to obtain the fruit thereof in heaven. Who livest.

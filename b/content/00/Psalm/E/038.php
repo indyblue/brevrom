@@ -15,5 +15,5 @@ I was dumb, and I opened not my mouth, because thou hast done it: * remove thy s
 The strength of thy hand hath made me faint in rebukes: * thou hast corrected man for iniquity.
 And thou hast made his soul to waste away like a spider: * surely in vain is any man disquieted.
 Hear my prayer, O Lord, and my supplication: * give ear to my tears.
-Be not silent: for I am a stranger with thee, * and a sojourner as all my fathers were.
+Be not silent: for I am a stranger with thee, and a sojourner * as all my fathers were.
 O forgive me, that I may be refreshed, before I go hence, * and be no more.

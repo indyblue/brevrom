@@ -18,9 +18,7 @@
 <?php prayer('csMartyr1.php','Mennæ','Mennas'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/LittleHours.php'); ?>
-<?php rubrics('ps/Feria.php'); ?>
-<?php rubrics('prSanct/all_else.php','csCBLH'); ?>
+<?php rubrics('prSanct/horas_from.php','csCBLH',3); ?>
    <p:BodySm/>
 
 <?php rubrics('head/Vespers.php'); ?>

@@ -14,9 +14,7 @@
 <?php prayer('prSanct/1020.php'); ?>
 	<p:BodySm/>
 
-<?php rubrics('head/LittleHours.php'); ?>
-<?php rubrics('ps/Feria.php'); ?>
-<?php rubrics('prSanct/all_else.php','csCLH'); ?>
+<?php rubrics('prSanct/horas_from.php','csCLH',3); ?>
    <p:BodySm/>
 
 <?php rubrics('head/Vespers.php'); ?>

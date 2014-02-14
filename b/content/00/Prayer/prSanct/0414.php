@@ -1,0 +1,1 @@
+Deus, qui per stultítiam crucis eminéntem Jesu Christi sciéntiam beátum Justínum Mártyrem mirabíliter docuísti: ejus nobis intercessióne concéde; ut, errórum circumventióne depúlsa, fídei firmitátem consequámur. Per eúmdem Dóminum.

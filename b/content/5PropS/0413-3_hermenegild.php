@@ -3,7 +3,8 @@
 	img(); 
 	feast_saint(413,13,'S. Hermenegildi',
 		'St. Hermenegild','M');
-	rubrics('prSanct/all_from.php','csApPT');
+	rubrics('ps/feria.php');	
+	rubrics('prSanct/all_else.php','csApPT');
 
 	rubrics('head/Lauds.php');
 	rubrics('head/HymnVerse.php');

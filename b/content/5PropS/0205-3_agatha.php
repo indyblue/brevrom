@@ -18,9 +18,7 @@
 	prayer('csVirginMartyr1.php','Ágathæ','Agatha'); 
 
 	space();
-	rubrics('head/LittleHours.php'); 
-	rubrics('ps/Feria.php'); 
-	rubrics('prSanct/horas_from.php','csHWLH','with the readings for a Martyr (<snr>Ecclus. 51</s>)');
+	rubrics('prSanct/horas_from.php','csHWLH',3,'with the readings for a Martyr (<snr>Ecclus. 51</s>)');
 
 	space();
 	rubrics('head/Vespers.php'); 

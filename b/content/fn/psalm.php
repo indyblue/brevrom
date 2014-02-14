@@ -97,11 +97,11 @@ function psalm($num, $part=0, $cross=0, $dir = "/www/b/content/00/Psalm/",$index
 			if($drop==0 && strpos($Lpieces[$i],'<')===false) {
 				echo '
   <tr><td:A1>
-   <p:BodyLDrop>'. caps_first_word($Lpieces[$i]) .'<t>
-   <text:line-break/>'. style_first_letter($Lpieces[$i+1],'sb') .'</p>
+  <p:BodyLDrop>'. caps_first_word($Lpieces[$i]) .'<t><text:line-break/>'.
+		style_first_letter($Lpieces[$i+1],'sb') .'</p>
   </td><td:B1>
-   <p:BodyEDrop>'. caps_first_word($Epieces[$i]) .'<t>
-   <text:line-break/>'. style_first_letter($Epieces[$i+1],'sb') .'</p>
+  <p:BodyEDrop>'. caps_first_word($Epieces[$i]) .'<t><text:line-break/>'.
+		style_first_letter($Epieces[$i+1],'sb') .'</p>
   </td></tr>
 ';
 				$drop=1;
