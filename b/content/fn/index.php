@@ -8,10 +8,13 @@ function temp($dir = "content/00/Psalm/") {
 }
 
 // temp();
-echo $_SERVER['DOCUMENT_ROOT'];
+// echo $_SERVER['DOCUMENT_ROOT'];
 
-	reading('tedeum.php');
-	
+// echo preg_match('/[VvRr].[  ]/','V. ');
+//reading('tedeum.php',0,0);
+lc('job10_18-22.php',0,'L9');
+// reading('bvm/pater.php',0,10);
+
 //echo is_file('\www\b\content\fn\index.php')
 //lc('ecclus24_14.php','csBVMVlc','h','ave_maris_stella.php');
 // psalm(118,1);

@@ -13,6 +13,10 @@ if(array_key_exists('c',$_GET))
 else
 	$comm = 2;
 
+if($comm<2)
+	$drop=1;
+else
+	$drop=0;
 
 if(strpos($ps,'.php')!==false) {
 	$dir = "/www/b/content/00/Canticle/";
@@ -27,7 +31,7 @@ echo '<html><head>
 	</head><body>'. "\n";
 
 ob_start(); // start buffer
-psalm($ps,$pt,0,$dir,$type,$comm);
+psalm($ps,$pt,0,$dir,$type,$comm,$drop);
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
 

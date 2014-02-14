@@ -110,7 +110,7 @@ Saturday (<snr>'. bkref('psSC') .'</s>).');
 		'Final Antiphons of the Blessed Virgin Mary',2);
 
 	space();
-	reading('almaredemptoris.php');
+	reading('bvm/almaredemptoris.php');
 	space();
 	rubp('Usque ad diem 23 decembris:','Until 23 December, inclusive:',1);
 	vrS('Ord/angelus_domini_nuntiavit_mariae.php');
@@ -123,19 +123,19 @@ Saturday (<snr>'. bkref('psSC') .'</s>).');
 	prayer('Ord/compline03.php',1);
 
 	space();
-	reading('averegina.php');
+	reading('bvm/averegina.php');
 	vrS('Ord/dignare_me_laudare_te_virgo_sacrata.php');
 	vr('oremus.php');
 	prayer('Ord/compline04.php',1);
 
 	space();
-	reading('reginacaeli.php');
+	reading('bvm/reginacaeli.php');
 	vrS('Ord/gaude_et_laetare_virgo_maria.php',1);
 	vr('oremus.php');
 	prayer('Ord/compline05.php',1);
 
 	space();
-	reading('salveregina.php');
+	reading('bvm/salveregina.php');
 	vrS('Ord/ora_pro_nobis_sancta_dei_genitrix.php');
 	vr('oremus.php');
 	prayer('Ord/compline06.php',1);
