@@ -1,0 +1,1 @@
+O God, the protector of all that hope in thee, without whom nothing is sure, nothing is holy: bountifully bestow upon us thy mercy, that thou being our ruler and our guide, we may so pass through temporal blessings that we lose not the eternal. Through our Lord.

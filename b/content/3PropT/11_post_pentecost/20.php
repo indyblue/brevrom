@@ -12,10 +12,10 @@
 	space();
 
 	hour('L');
-	rubp('In hac et sequentibus dominicis usque ad diem 30 septembris inclusive occurentibus, dicitur hymnus <snr>Ecce jam noctis</s>, ut in Psalterio, <snr>p. '. bkref('ecce_jam_noctis_tenuatur_umbra') .'</s>.', 
-		'In this and the following Sundays until September 30, inclusive if it occurs on a Sunday, the hymn <snr>Lo, fainter now lie spread</s>, as in the Psalter, <snr>p. '. bkref('ecce_jam_noctis_tenuatur_umbra') .'</s>.');
+	rubp('In hac et sequentibus dominicis usque ad diem 30 septembris inclusive occurentibus, dicitur hymnus <snr>Ecce jam noctis</s>, ut in Psalterio, <snr>p. '. bkref('ecce_jam_noctis_tenuatur_umbra') .'</s>.', 'In this and the following Sundays until September 30, inclusive if it occurs on a Sunday, the hymn <snr>Lo, fainter now lie spread</s>, as in the Psalter, <snr>p. '. bkref('ecce_jam_noctis_tenuatur_umbra') .'</s>.');
 	vrS('Ord/dominus_regnavit_decorem_induit.php');
 	ant('PrTemp/post_pentecost/20b.php','B');
+	space();
 
 	hour('2V');
 	rubp('Omnia ut in Psalterio de dominica, <snr>p. '. bkref('psDV') .'</s>.', 'All as in the Psalter of Sunday, <snr>p. '. bkref('psDV') .'</s>.');

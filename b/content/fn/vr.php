@@ -39,6 +39,9 @@ function vrS($file, $option=0, $option2=0) {
 		} elseif($option2==='V' || $option2==='v') {
 			$preL = '<sr>Ad Vesperas </s>';
 			$preE = '<sr>At Vespers </s>';
+		} elseif($option2==='1V' || $option2==='1v') {
+			$preL = '<sr>Ad I Vesperas </s>';
+			$preE = '<sr>At I Vespers </s>';
 		} elseif($option2==='2V' || $option2==='2v') {
 			$preL = '<sr>Ad II Vesperas </s>';
 			$preE = '<sr>At II Vespers </s>';
@@ -63,7 +66,7 @@ function vrS($file, $option=0, $option2=0) {
 				"   </td><td:B1>\n".
 				'    <p:BodyE>'. style_first_letter($E2,'sb') ."</p>\n".
 				"   </td></tr>\n";
-		elseif($option==3 || $option2==1) {
+		elseif($option==3 || $option2===1) {
 			$L0 = first_word($L1,6,1);
 			$E0 = first_word($E1,6,1);
 			$PTL = '';
