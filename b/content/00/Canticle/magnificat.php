@@ -9,4 +9,3 @@ Depósuit poténtes de sede: * et exaltávit húmiles.
 Esuriéntes implévit bonis: * et dívites dimísit inánes.
 Suscépit Israël púerum suum: * recordátus misericórdiæ suæ.
 Sicut locútus est ad patres nostros: * Ábraham, et sémini ejus in sǽcula.
-Glória Patri.

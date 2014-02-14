@@ -1,0 +1,3 @@
+Ecclus. (Sir.) 24:17-20
+Quasi cedrus exaltáta sum in Líbano, et quasi cypréssus in monte Sion: quasi palma exaltáta sum in Cades, et quasi plantátio rosæ in Jéricho: quasi olíva speciósa in campis, et quasi plátanus exaltáta sum juxta aquam in platéis. Sicut cinnamómum et bálsamum aromatízans odórem dedi; quasi myrrha elécta, dedi suavitátem odóris.
+I was exalted like a cedar in Libanus, and as a cypress tree on mount Sion: I was exalted like a palm tree in Cades, and as a rose plant in Jericho: as a fair olive tree in the plains, and as a plane tree by the water in the streets, was I exalted. I gave a sweet smell like cinnamon and aromatical balm; I yielded a sweet odour like the best myrrh.

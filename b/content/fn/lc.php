@@ -45,7 +45,7 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 	elseif(substr($opt,0,1)=='L') {
 		$rn = array('','i','ii','iii','iv','v','vi','vii','viii','ix');
 		$i = substr($opt,1,1);
-		$title = 'lesson '. $rn[$i];
+		$title = 'Lectio (Lesson) '. $rn[$i];
 		// "Tu autem" is added except for office of the dead,
 		// which is signified by a "d" suffix as the 3rd char
 		if(strpos($opt,'d')===false) {

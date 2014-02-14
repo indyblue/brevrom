@@ -67,8 +67,8 @@ function vrS($file, $option=0, $short=0) {
 		} else {
 			$L1 = str_replace($subst,'',$L1) . $PTL;
 			$E1 = str_replace($subst,'',$E1) . $PTE;
-			$L2 .= $PTL;
-			$E2 .= $PTE;
+			$L2 = str_replace($subst,'',$L2) . $PTL;
+			$E2 = str_replace($subst,'',$E2) . $PTE;
 
 			echo '   <tr><td:A1>
     <p:BodyL><s:VR>V. </s>'. $L1 .' <s:VR>R. </s>'. $L2 .'</p>

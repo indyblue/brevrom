@@ -39,4 +39,3 @@ He ascended into heaven, He sitteth on the right hand of the Father, God Almight
 At whose coming all men shall rise again with their bodies, * and shall give account for their own works.
 And they that have done good shall go into life eternal, * but they that have done evil into eternal fire.
 This is the Catholic Faith, * which except a man believe faithfully and firmly, he cannot be safe.
-Glory Be.

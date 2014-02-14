@@ -39,6 +39,7 @@ Saturday (<snr>'. bkref('psSL2') .'</s>).');
 		'<snr>15</s> After reciting the versicle, recite, with the proper antiphon, the following:');
 	bookmark('benedictus');
 	canticle('benedictus.php');
+	reading('vr/gloria_patri-s.php',0);
 
 	head('De precibus','The Preces, or Prayers',2);
 	rubp('<snr>16</s> Quando, juxta rubricas (n. 260), preces sunt dicendæ post repetitam antiphonam ad <snr>Benedíctus</s>, dicitur, flexis genibus.',

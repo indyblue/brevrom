@@ -27,6 +27,7 @@ Saturday (<snr>'. bkref('psSV') .'</s>).');
 		'<snr>50</s> After reciting the versicle, recite, with the proper antiphon, the following:');
 	bookmark('magnificat');
 	canticle('magnificat.php');
+	reading('vr/gloria_patri-s.php',0);
 
 	head('De precibus','The Preces, or Prayers',2);
 	rubp('<snr>51</s> Quando, juxta rubricas (n. 260), preces sunt dicendæ post repetitam antiphonam ad <snr>Magníficat</s>, dicitur, flexis genibus. (<snr>p. '. bkref('preces') .'</s>)',

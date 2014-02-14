@@ -34,9 +34,6 @@ require 'fn/0list.php';
 
 
 
-//Switch to determine if headings are in English or Latin
-$_GET['L'] = 0;
-
 //
 // Switch to change page settings for Lulu &c:
 // Settings can be:
@@ -56,10 +53,26 @@ $_GET['PgMar'] = .25;
 $_GET['PgGMar'] = .25;
 $_GET['BodyFont'] = 9;
 
-//Switch to determine size of headings:
-// 0 = smaller headings (used in propers)
-// 1 = larger headings (used in ordinary & psalter)
+// Switch to determine size of headings:
+//  0 = smaller headings (used in propers)
+//  1 = larger headings (used in ordinary & psalter)
 $_GET['O'] = 0;
+
+// psalm commentary
+//  0 = off
+//  1 = footnotes
+//  2 = inter-tabular text (doesn't actually work yet)
+$_GET['comm'] = 0;
+
+// Switch to determine if headings are in English or Latin
+$_GET['L'] = 0;
+// Forces parallel headings
+$_GET['par'] = 1;
+
+// Short/Long form
+//  0 = short form
+//  1 = long form
+$_GET['long'] = 1;
 
 
 // space('PgB');
@@ -69,7 +82,11 @@ $_GET['O'] = 0;
 // require '2Psalter/index.php';
 // require '2Psalter/index_OLD.php';
 
-$_GET['comm'] = 1;
+// require '6ComS/690_OfficeDead.php';
+ space('PgB');
+ require '6ComS/677_BVMp.php';
+ space('PgB');
+ require '7App/3_BVM.php';
 
 // space('PgB');
 // ant('csApV.php','22222');
@@ -77,7 +94,7 @@ $_GET['comm'] = 1;
 // require 'z_hymns.php';
 // require 'z_psalms.php';
 
-require '100_intro.php';
+// require '100_intro.php';
 // require '110_toc.php';
 // require '150_calendar.php';
 // require '3PropT/index.php';

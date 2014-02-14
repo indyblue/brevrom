@@ -4,7 +4,7 @@ St. Ambrose
 Jam sol recédit ígneus:
 Tu, lux perénnis, Únitas,
 Nostris, beáta Trínitas,
-Infúnde amórem córdibus.
+Infúnde lumen córdibus.
 
 Te mane laudum cármine,
 Te deprecámur véspere;

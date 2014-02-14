@@ -11,5 +11,5 @@ Hódie, si vocem ejus audiéritis, nolíte obduráre corda vestra, sicut in exac
 <sr>Repetitur altera pars Invitatorii.</s>
 Quadragínta annis próximus fui generatióni huic, et dixi: Semper hi errant corde; ipsi vero non cognovérunt vias meas: quibus jurávi in ira mea: Si introíbunt in réquiem meam.
 <sr>Repetitur integrum Invitatorium.</s>
-Glória Patri. Sicut erat.
+Glória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.
 <sr>Repetitur altera pars Invitatorii, deinque repetitur integrum Invitatorium.</s>

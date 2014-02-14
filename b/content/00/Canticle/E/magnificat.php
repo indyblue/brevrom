@@ -9,4 +9,3 @@ He hath put down the mighty from their seat, * and hath exalted the humble.
 He hath filled the hungry with good things; * and the rich he hath sent empty away. 
 He hath received Israel his servant, * being mindful of his mercy: 
 As he spoke to our fathers, * to Abraham and to his seed for ever. 
-Glory be.

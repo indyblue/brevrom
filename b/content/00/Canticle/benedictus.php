@@ -11,4 +11,3 @@ Et tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dóm
 Ad dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:
 Per víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:
 Illumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.
-Glória Patri.

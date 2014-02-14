@@ -11,4 +11,3 @@ And thou, child, shalt be called the prophet of the Highest: * for thou shalt go
 To give knowledge of salvation to his people, * unto the remission of their sins: 
 Through the bowels of the mercy of our God, * in which the Orient from on high hath visited us: 
 To enlighten them that sit in darkness, and in the shadow of death: * to direct our feet into the way of peace.
-Glory be.

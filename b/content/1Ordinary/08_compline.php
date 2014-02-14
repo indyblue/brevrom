@@ -88,6 +88,7 @@ Saturday (<snr>'. bkref('psSC') .'</s>).');
 		'<snr>64</s> Before the canticle say the following:');
 	ant('salva_nos.php','*',2);
 	canticle('simeon.php');
+	reading('vr/gloria_patri-s.php',0);
 	ant('salva_nos.php','1',2);
 
 	head('De oratione','The Collect',2);

@@ -39,7 +39,7 @@
     </tr>
    </table>
    <p:Head3>Hymn</p>
-<?php hymn('jam_sol_recedit_igneus.php'); ?>
+<?php hymn('jam_sol_recedit_igneus_amorem.php'); ?>
 <?php
 	vrS('PrTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
 ?>
@@ -124,6 +124,7 @@
    <p:Rubric>Ant 1 from Lauds is used.</p>
    <p:Rubric>Psalms as on feasts. After the last psalm, but before the antiphon is repeated, the Athanasian Creed is said:</p>
 <?php reading('athanasian.php'); ?>
+<?php reading('vr/gloria_patri-s.php',0); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Rubric>Ant 2 from Lauds is used.</p>

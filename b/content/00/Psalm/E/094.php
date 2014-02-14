@@ -11,5 +11,5 @@ Today if you shall hear his voice, harden not your hearts, as in the provocation
 <sr>Latter half of the Invitatory is repeated.</s>
 Forty years long was I offended with that generation, and I said: These always err in heart; and these men have not known my ways: so I swore in my wrath that they shall not enter into my rest.
 <sr>Entire Invitatory is repeated.</s>
-Glory be. As it was.
+Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.
 <sr>Latter half of the Invitatory is repeated, and then the entire Invitatory.</s>

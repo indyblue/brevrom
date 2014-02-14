@@ -15,8 +15,9 @@ function rubf($fname, $link='') {
 	rubp($pieces[0], $pieces[1]);
 }
 
-function rubp($Ltxt, $Etxt, $Par=0, $sm=0) {
-	if($Par==0 && strlen($Ltxt)>0 && strlen($Etxt)>0) {
+function rubp($Ltxt, $Etxt, $par=0, $sm=0) {
+	if($_GET['par']) $par=1;
+	if($par==0 && strlen($Ltxt)>0 && strlen($Etxt)>0) {
 		if($_GET['L']==1) {
 			if(strlen($Ltxt . $Etxt)<50 && strlen($Etxt)>0);
 			// else $Etxt = '';

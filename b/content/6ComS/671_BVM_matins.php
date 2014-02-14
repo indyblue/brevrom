@@ -1,42 +1,87 @@
 <?php
 
 	space('Body');
+	bookmark('csBVMM');
 	hour('M');
 	vrS('Ord/domine_labia_mea_aperies.php');
 	vr('deus_in_adjutorium.php');
-	bookmark('Ps94');
 	ant('sancta_maria_dei_genetrix.php');
-	psalm('094.php');
+	if($long==0)
+		psref(94);
+	else
+		psalm('094.php');
 	rubrics('head/HymnVerse.php');
 	hymn('quem_terra_pontus_sidera.php');
 	space('Body');
 	ant('csBVML.php','20000');
 
-	ant('offDefMatins.php','200000000');
-	psref(8);
-	ant('offDefMatins.php','020000000');
-	psref(18,2);
-	ant('offDefMatins.php','002000000');
-	psref(23);
-
-	ant('offDefMatins.php','000200000');
-	psref(44,2);
-	ant('offDefMatins.php','000020000');
-	psref(45);
-	ant('offDefMatins.php','000002000');
-	psref(86);
-
-	ant('offDefMatins.php','000000200');
-	psref(95);
-	ant('offDefMatins.php','000000020');
-	psref(96);
-	ant('offDefMatins.php','000000002');
-	psref(97);
+	// "&& false" disables "short" version
+	if($long==0 && false) {
+		bookmark('csBVMMn1');
+		ant('opBVMm.php','N00000000');
+		psref(8);
+		ant('opBVMm.php','020000000');
+		psref(18,2);
+		ant('opBVMm.php','002000000');
+		psref(23);
+	
+		bookmark('csBVMMn2');
+		ant('opBVMm.php','000N00000');
+		psref(44,2);
+		ant('opBVMm.php','000020000');
+		psref(45);
+		ant('opBVMm.php','000002000');
+		psref(86);
+	
+		bookmark('csBVMMn3');
+		ant('opBVMm.php','000000N00');
+		psref(95);
+		ant('opBVMm.php','000000020');
+		psref(96);
+		ant('opBVMm.php','000000002');
+		psref(97);
+	} else {
+		bookmark('csBVMMn1');
+		ant('opBVMm.php','N00000000');
+		psalm(8);
+		space('Spacer');
+		ant('opBVMm.php','120000000');
+		psalm(18);
+		space('Spacer');
+		ant('opBVMm.php','012000000');
+		psalm(23);
+		space('Spacer');
+	
+		bookmark('csBVMMn2');
+		ant('opBVMm.php','001N00000');
+		psalm(44);
+		space('Spacer');
+		ant('opBVMm.php','000120000');
+		psalm(45);
+		space('Spacer');
+		ant('opBVMm.php','000012000');
+		psalm(86);
+		space('Spacer');
+	
+		bookmark('csBVMMn3');
+		ant('opBVMm.php','000001N00');
+		psalm(95);
+		space('Spacer');
+		ant('opBVMm.php','000000120');
+		psalm(96);
+		space('Spacer');
+		ant('opBVMm.php','000000012');
+		rubp('In Adventu:','In Advent:');
+		ant('opBVMm.php','0000000002');
+		psalm(97);
+		space('Spacer');
+		ant('opBVMm.php','000000001');
+		rubp('In Adventu:','In Advent:');
+		ant('opBVMm.php','0000000001');
+	}
 
 	
-	psalm('109.php');
-
-	space('Body');
+	space();
 
 
 	rubrics('cs/1Vespers.php');

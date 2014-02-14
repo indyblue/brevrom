@@ -107,7 +107,7 @@ function brS($file,$PT=0,$style=0,$requiem=0) {
 	}
 }
 
-function rm($file,$PT=0,$short=0,$requiem=0,$matins=1) {
+function rm($file,$PT=0,$short=0,$requiem=0) {
 	$dir = "/www/b/content/00/VR/";
 
 	$Lpieces = file_load($dir.$file);
@@ -129,13 +129,10 @@ function rm($file,$PT=0,$short=0,$requiem=0,$matins=1) {
 		$Lgl = 'Glória Patri.';
 		$Egl = 'Glory be.';
 	}
-	if($matins) {
-		$vr1 = '<s:VR>R. </s>';
-		$vr2 = '<s:VR>V. </s>';
-	} else {
-		$vr1 = '<s:VR>V. </s>';
-		$vr2 = '<s:VR>R. </s>';
-	}
+
+	$vr1 = '<s:VR>V. </s>';
+	$vr2 = '<s:VR>R. </s>';
+
 	$L1 = br_divide($Lpieces,$PT);
 	$L2 = $Lpieces[1];
 	$E1 = br_divide($Epieces,$PT);
@@ -146,34 +143,68 @@ function rm($file,$PT=0,$short=0,$requiem=0,$matins=1) {
 	}
 	$L13 = '';
 	$E13 = '';
-	if(count($L1)==4 && count($E1==4)) {
+	if(count($L1)==4 && count($E1)==4) {
+		if (count($Lpieces)==4 && count($Epieces)==4) {
+			// I think the only instance of this is in the Off. Def.,
+			// 9th response after 3 nocturns.
+			$short = 2;
+			$E3 = $Epieces[2];
+			$L3 = $Lpieces[2];
+		}
+		// There should always be a Gloria if there are two asterisks
+		if($short==1) trigger_error('Matins Resp. problem (' . $file . 
+			') There should be a Gloria, but none is specified.', E_USER_ERROR);
+
 		$L13 = ' * '. $L1[3];
 		$E13 = ' * '. $E1[3];
+	} else {
+		if($short==2) trigger_error('Matins Resp. problem (' . $file . 
+			') exceptional form specified, but resp doesn’t conform.', E_USER_ERROR);
 	}
+
 	echo '   <table>
    <tr><td:A1>
-<p:BodyL>'. $vr1 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .' '. 
-	$vr2 . $L1[0] .'... '. 
-	$vr1 . $L2 .' '. 
-	$vr2 . $L1[2] .' ';
-	if($short==0)
-		echo $vr1 . $Lgl .' '. $vr2 . $L1[0] .'...' ;
-	elseif($short==1)
-		echo style_first_letter($L1[0],'s:BoldR') .'...' ;
+<p:BodyL>'. $vr2 . $L1[0] . $L1[1] .' * '. $L1[2] . $L13 .' '. 
+	$vr1 . $L2 .' ' . style_first_letter(trimP($L1[2]),'s:BoldR') .'. ';
+	if($short==2) {
+		echo $vr1 . $L3 .' ' . style_first_letter(trimP($L1[3]),'s:BoldR') .'. ';
+		echo $vr1 . $Lgl .' '. style_first_letter($L1[2],'s:BoldR') .' '. $L1[3];
+	}
+	if($short==0 && count($L1)==3)
+		echo $vr1 . $Lgl .' '. style_first_letter(trimP($L1[2]),'s:BoldR') .'. ';
+	elseif($short==0 && count($L1)==4)
+		echo $vr1 . $Lgl .' '. style_first_letter(trimP($L1[3]),'s:BoldR') .'. ';
+	elseif($short==1);
 	echo '</p>
    </td><td:B1>
-<p:BodyE>'. $vr1 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .' '. 
-	$vr2 . $E1[0] .'... '. 
-	$vr1 . $E2 .' '. 
-	$vr2 . $E1[2] .' ';
-	if($short==0)
-		echo $vr1 . $Egl .' '. $vr2 . $E1[0] .'...' ;
-	elseif($short==1)
-		echo style_first_letter($E1[0],'s:BoldR') .'...' ;
+<p:BodyE>'. $vr2 . $E1[0] . $E1[1] .' * '. $E1[2] . $E13 .' '. 
+	$vr1 . $E2 .' ' . style_first_letter(trimp($E1[2]),'s:BoldR') .'. ';
+	if($short==2) {
+		echo $vr1 . $E3 .' ' . style_first_letter(trimP($E1[3]),'s:BoldR') .'. ';
+		echo $vr1 . $Egl .' '. style_first_letter($E1[2],'s:BoldR') .' '. $E1[3];
+	}
+	if($short==0 && count($L1)==3)
+		echo $vr1 . $Egl .' '. style_first_letter(trimp($E1[2]),'s:BoldR') .'. ';
+	if($short==0 && count($L1)==4)
+		echo $vr1 . $Egl .' '. style_first_letter(trimp($E1[3]),'s:BoldR') .'. ';
+	elseif($short==1);
 	echo '</p>
    </td></tr>
-   </table>
-';
+   </table>'."\n";
+
+	if($short==3) {
+		// special case for Little Office of BVM:
+		rubp('Quando dicitur <snr>Te Deum</s>, assumitur in fine hujus Responsorii:',
+			'When the <snr>Te Deum</s> is said, at the end of the Responsory is added:');
+		echo '   <table>
+   <tr><td:A1>
+<p:BodyL>'. $vr1 . $Lgl .' '. style_first_letter(trimP($L1[2]),'s:BoldR') .'.</p>
+   </td><td:B1>
+<p:BodyE>'. $vr1 . $Egl .' '. style_first_letter(trimp($E1[2]),'s:BoldR') .'.</p>
+   </td></tr>
+	</table>'."\n";
+	}
+
 }
 
 function br_divide($pieces,$PT) {
@@ -190,8 +221,9 @@ function br_divide($pieces,$PT) {
 	} else
 		$ret = array($first[0],$first[1],'');
 
-	if(count($ret)==4)
-		$ret[3] = style_first_letter($ret[3],1);
+	for($i=0;$i<count($ret);$i++) {
+		$ret[$i] = style_first_letter($ret[$i],1);
+	}
 	
 	if($first[0] == $second[0]) {
 		$split = mb_split('\s',$ret[1],2);

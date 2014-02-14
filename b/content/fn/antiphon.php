@@ -12,6 +12,7 @@
 // N - adds appropriate "Nocturn" before antiphon
 // P - P.T. Ant. + astrisk
 // p - P.T. Ant., no astrisk
+// I - Invit.
 
 //PT option
 //0 - nothing added
@@ -84,25 +85,27 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 				$ast=1; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
 			} elseif($inc=='p') {
 				$ast=0; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
+			} elseif($inc=='I') {
+				$ast=1; $ant='<sr>Invit.</s> '; $ante = '<sr>Invit.</s> ';
 			} elseif($inc=='N') {
 				if($table==1) {
 					echo "   </table>\n";
 					$table = 0;
 				}
 				if($i==0) {
-					head('In I Nocturno','I Nocturn',2);
+					head('In I Nocturno','I Nocturn',-2);
 					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
 				} elseif($i==3) {
-					head('In II Nocturno','II Nocturn',2);
+					head('In II Nocturno','II Nocturn',-2);
 					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
 				} elseif($i==6) {
 					if(strpos($file,'4Wed')>0) {
 						if(strpos($file,'0M2')>0) 
-							head('In III Nocturno (II)','III Nocturn (II)',2);
+							head('In III Nocturno (II)','III Nocturn (II)',-2);
 						else
-							head('In III Nocturno (I)','III Nocturn (I)',2);
+							head('In III Nocturno (I)','III Nocturn (I)',-2);
 					} else
-						head('In III Nocturno','III Nocturn',2);
+						head('In III Nocturno','III Nocturn',-2);
 					$ast=1; $ant='<sr>Ant '. ($i+1) .'.</s> ';
 				} else
 					trigger_error('Misplaced nocturn: ' . $file, E_USER_ERROR);

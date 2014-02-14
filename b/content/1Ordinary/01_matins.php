@@ -30,6 +30,7 @@
 	ant('Inv7BVM.php','+',2);
  */
 	space();
+	bookmark('tedeum');
 	reading('tedeum.php');
 	space();
 

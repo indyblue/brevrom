@@ -1,0 +1,3044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" office:version="1.0">
+ <office:scripts/>
+ <office:font-face-decls>
+  <style:font-face style:name="Cloister Black" svg:font-family="&apos;Cloister Black&apos;" style:font-adornments="Light" style:font-pitch="variable"/>
+  <style:font-face style:name="Times VR" svg:font-family="&apos;Times VR&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:automatic-styles>
+  <style:style style:name="TableParallelH" style:family="table" style:master-page-name="">
+   <style:table-properties style:page-number="0" table:align="margins" fo:keep-with-next="always"/>
+  </style:style>
+  <style:style style:name="TableParallel" style:family="table" style:master-page-name="">
+   <style:table-properties style:page-number="0" table:align="margins"/>
+  </style:style>
+  <style:style style:name="TableParallel.A" style:family="table-column">
+  <style:table-column-properties style:rel-column-width="92*"/>
+  </style:style>
+  <style:style style:name="TableParallel.B" style:family="table-column">
+   <style:table-column-properties style:rel-column-width="100*"/>
+  </style:style>
+  <style:style style:name="TableParallel.A1" style:family="table-cell">
+   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0in" fo:padding-right="0.04in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border="none">
+    <style:background-image/>
+   </style:table-cell-properties>
+  </style:style>
+  <style:style style:name="TableParallel.B1" style:family="table-cell">
+   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.04in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="none">
+    <style:background-image/>
+   </style:table-cell-properties>
+  </style:style>
+  <style:style style:name="TableParallel.B2" style:family="table-cell">
+   <style:table-cell-properties fo:background-color="transparent" fo:padding-left="0.04in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="none">
+    <style:background-image/>
+   </style:table-cell-properties>
+  </style:style>
+  <style:style style:name="TableKalendar" style:family="table">
+   <style:table-properties table:align="margins"/>
+  </style:style>
+  <style:style style:name="TableKalendar.A" style:family="table-column">
+   <style:table-column-properties style:rel-column-width="3832*"/>
+  </style:style>
+  <style:style style:name="TableKalendar.B" style:family="table-column">
+   <style:table-column-properties style:rel-column-width="61703*"/>
+  </style:style>
+  <style:style style:name="TableKalendar.1" style:family="table-row">
+   <style:table-row-properties style:keep-together="false" fo:keep-together="always"/>
+  </style:style>
+  <style:style style:name="TableKalendar.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.04in" fo:padding-right="0.04in" fo:padding-top="0in" fo:padding-bottom="0in" fo:border="none"/>
+  </style:style>
+  <style:style style:name="TableOccurrence" style:family="table">
+   <style:table-properties style:width="3.4in" table:align="center"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.A" style:family="table-column">
+   <style:table-column-properties style:column-width="0.9236in"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.B" style:family="table-column">
+   <style:table-column-properties style:column-width="0.1549in"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.G" style:family="table-column">
+   <style:table-column-properties style:column-width="0.1542in"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.0403in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="0.0007in solid #000000" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.B1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="0.0007in solid #000000" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.Q1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.A2" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.0403in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.B2" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.Q2" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="0.0007in solid #000000" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.A9" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.B9" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableOccurrence.Q9" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="0.0007in solid #000000" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence" style:family="table">
+   <style:table-properties style:width="3.4in" table:align="center"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.A" style:family="table-column">
+   <style:table-column-properties style:column-width="2.9403in"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.B" style:family="table-column">
+   <style:table-column-properties style:column-width="0.1549in"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.D" style:family="table-column">
+   <style:table-column-properties style:column-width="0.15in"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.0403in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="0.0007in solid #000000" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.B1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="0.0007in solid #000000" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.D1" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.A2" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0.0403in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.B2" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.D2" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="0.0007in solid #000000" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.A11" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0403in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.B11" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="TableConcurrence.D11" style:family="table-cell">
+   <style:table-cell-properties fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0403in" fo:padding-bottom="0in" fo:border-left="0.0007in solid #000000" fo:border-right="0.0007in solid #000000" fo:border-top="none" fo:border-bottom="0.0007in solid #000000"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Spacer">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Rubric"/>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="BodySm" style:list-style-name="L1"/>
+  <style:style style:name="P159" style:family="paragraph" style:parent-style-name="Body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P160" style:family="paragraph" style:parent-style-name="Body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit"/>
+   <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P161" style:family="paragraph" style:parent-style-name="Body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Body" style:master-page-name="">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" style:page-number="auto"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P179" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Intro">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P180" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Header_20_Page">
+   <style:paragraph-properties style:page-number="1"/>
+  </style:style>
+  <style:style style:name="P181" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Body">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Header_20_Page">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
+  <style:style style:name="P191" style:family="paragraph" style:parent-style-name="Spacer">
+   <style:paragraph-properties fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0008in solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="P199" style:family="paragraph" style:parent-style-name="BodySm">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P201" style:family="paragraph" style:parent-style-name="BodySm">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P203" style:family="paragraph" style:parent-style-name="BodySm">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:text-position="0% 100%" style:text-rotation-angle="270" style:text-rotation-scale="line-height"/>
+  </style:style>
+  <style:style style:name="P227" style:family="paragraph" style:parent-style-name="RubricH">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="from-top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" fo:padding="0in" fo:border="none" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="from-top" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" fo:background-color="transparent" style:background-transparency="100%" fo:padding="0in" fo:border="none" style:shadow="none">
+    <style:background-image/>
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+   </style:graphic-properties>
+  </style:style>
+  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties style:run-through="foreground" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="middle" style:vertical-rel="page-content" style:horizontal-pos="center" style:horizontal-rel="page-content" fo:background-color="transparent" style:background-transparency="100%" fo:padding="0in" fo:border="none" style:shadow="none">
+    <style:background-image/>
+   </style:graphic-properties>
+  </style:style>
+  <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" style:background-transparency="100%" fo:padding="0in" fo:border="none" style:shadow="none">
+    <style:background-image/>
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+   </style:graphic-properties>
+  </style:style>
+  <style:style style:name="fr5" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" style:background-transparency="100%" fo:padding="0in" fo:border="none" style:shadow="none">
+    <style:background-image/>
+   </style:graphic-properties>
+  </style:style>
+  <style:style style:name="fr6" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="page-content" style:mirror="none" fo:clip="rect(0in 0in 0in 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr7" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0in 0in 0in 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr8" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in 0in 0in 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr9" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:vertical-pos="from-top" style:mirror="none" fo:clip="rect(0in 0in 0in 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr10" style:family="graphic" style:parent-style-name="OLE">
+   <style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="2" fo:column-gap="0.2in">
+     <style:column style:rel-width="4986*" fo:start-indent="0in" fo:end-indent="0.1in"/>
+     <style:column style:rel-width="4986*" fo:start-indent="0.1in" fo:end-indent="0in"/>
+    </style:columns>
+   </style:section-properties>
+  </style:style>
+
+  <style:style style:name="Sect2" style:family="section">
+   <style:section-properties fo:background-color="transparent" style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+    <style:background-image/>
+   </style:section-properties>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2in" text:min-label-width="0.1in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.5in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.75in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.25in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.5in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.75in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.25in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.5in" text:min-label-width="0.25in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+ </office:automatic-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:user-field-decls>
+    <text:user-field-decl office:value-type="float" office:value="0" text:name="13"/>
+   </text:user-field-decls>
+
+
+
+
+
+  <p:P181/>
+
+  <p:Body/>
+<p:Head3><draw:frame text:anchor-type="as-char" svg:width="1357" style:rel-width="100%" svg:height="394" style:rel-height="scale"><draw:image xlink:href="../Images/Saints/0908_nativity_of_bvm.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></p>
+
+  <p:RubricH/>
+
+<p:BkHidden><text:bookmark text:name="csBVMp"/></p>
+<text:h text:style-name="Hidden1" text:outline-level="1">Little Office BVM</text:h>
+  <text:p text:style-name="Head1">Little Office of the Bl. Virgin Mary</p>
+  <text:p text:style-name="Head5">Officium parvum B. Mariæ Virginis</p>
+<text:h text:style-name="Hidden2" text:outline-level="2">Matins</text:h>
+
+  <tableH><tr><td:A1>
+   <p:Head2>ad Matutínum</p>
+   </td><td:B2>
+   <p:Head2>at Matins</p>
+  </td></tr></table>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Dómine, + lábia mea apéries. <s:VR>R. </s>Et os meum annuntiábit laudem tuam.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>O Lord, + thou wilt open my lips. <s:VR>R. </s>And my mouth shall declare thy praise.</p>
+   </td></tr>
+   </table>
+   <p:RubricHidden><t>Ps 69:2</p>
+   <table> <tr> <td:A1>
+      <p:BodyL><s:VR>V. </s>Deus † in adjutórium meum inténde. <s:VR>R. </s>Dómine ad adjuvándum me festína.</p>
+     </td> <td:B1>
+      <p:BodyE><s:VR>V. </s>O God, † come to my assistance. <s:VR>R. </s>O Lord, make haste to help me.</p>
+     </td> </tr> <tr> <td:A1>
+      <p:BodyL><s:BoldR>G</s>lória Patri, et Fílio, * et Spirítui Sancto. <s:BoldR>S</s>icut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.</p>
+     </td> <td:B1>
+      <p:BodyE><s:BoldR>G</s>lory be to the Father, and to the Son, * and to the Holy Spirit. <s:BoldR>A</s>s it was in the beginning, is now, and ever shall be, * world without end. Amen.</p>
+     </td> </tr> <tr> <td:A1>
+      <p:BodyLSm><sr>(</s>Allelúja <sr>vel</s> Laus tibi Dómine, Rex ætérnæ glóriæ.<sr>)</s></p>
+     </td> <td:B1>
+      <p:BodyESm><sr>(</s>Alleluia <sr>or</s> Praise be to thee, O Lord, King of eternal glory.<sr>)</s></p>
+     </td> </tr> </table>
+
+
+  <p:BodySm/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Invit.</s> Ave María, grátia plena; * Dóminus tecum.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Invit.</s> Hail Mary, full of grace; * The Lord is with thee.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 94. Veníte, exsultémus Dómino</p>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sr>Dicitur conveniens Invitatorium, quod ante Psalmum bis integrum recitatur.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>The proper Invitatory is said, which is recited twice in its entirety before the Psalm.</s></p>
+  </td></tr>
+
+  <tr><td:A1>
+  <p:BodyLDrop>VENÍTE, exsultémus Dómino, jubilémus Deo, salutári nostro: præoccupémus fáciem ejus in confessióne, et in psalmis jubilémus ei.<t><text:line-break/><sr>Repetitur integrum Invitatorium.</s></p>
+  </td><td:B1>
+  <p:BodyEDrop>COME let us praise the Lord with joy, let us joyfully sing to God our Saviour: let us come before his presence with thanksgiving, and make a joyful noise to him with psalms.<t><text:line-break/><sr>Entire Invitatory is repeated.</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uóniam Deus magnus Dóminus, et Rex magnus super omnes deos: quóniam non repéllet Dóminus plebem suam: quia in manu ejus sunt omnes fines terræ, et altitúdines móntium ipse cónspicit.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or the Lord is a great God, and a great King above all gods: for the Lord will not cast off his people: for in his hand are all the ends of the earth, and he beholds the heights of the mountains.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Repetitur altera pars Invitatorii.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>Latter half of the Invitatory is repeated.</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Ad verba </s>veníte, adorémus, et procidámus ante Deum<sr>, genuflectitur.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>At the words </s>Come let us adore and fall down before God<sr>, all genuflect.</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uóniam ipsíus est mare, et ipse fecit illud, et áridam fundavérunt manus ejus: VENÍTE, ADORÉMUS, ET PROCIDÁMUS ANTE DEUM: plorémus coram Dómino, qui fecit nos, quia ipse est Dóminus Deus noster; nos autem pópulus ejus, et oves páscuæ ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or the sea is his, and he made it: and his hands formed the dry land. COME, LET US ADORE, AND FALL DOWN BEFORE GOD: let us weep before the Lord that made us. For he is the Lord our God: and we are his people, and the sheep of his pasture.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Repetitur integrum Invitatorium.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>Entire Invitatory is repeated.</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>H</s>ódie, si vocem ejus audiéritis, nolíte obduráre corda vestra, sicut in exacerbatióne, secúndum diem tentatiónis in desérto: ubi tentavérunt me patres vestri, probavérunt et vidérunt ópera mea.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>oday if you shall hear his voice, harden not your hearts, as in the provocation, according to the day of temptation in the wilderness: where your fathers tempted me, they proved and saw my works.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Repetitur altera pars Invitatorii.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>Latter half of the Invitatory is repeated.</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uadragínta annis próximus fui generatióni huic, et dixi: Semper hi errant corde; ipsi vero non cognovérunt vias meas: quibus jurávi in ira mea: Si introíbunt in réquiem meam.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>orty years long was I offended with that generation, and I said: These always err in heart; and these men have not known my ways: so I swore in my wrath that they shall not enter into my rest.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Repetitur integrum Invitatorium.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>Entire Invitatory is repeated.</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>G</s>lória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.</p>
+  </td><td:B1>
+   <p:BodyE><sb>G</s>lory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Repetitur altera pars Invitatorii, deinque repetitur integrum Invitatorium.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>Latter half of the Invitatory is repeated, and then the entire Invitatory.</s></p>
+  </td></tr>
+</table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>Hymnus</p>
+   </td><td:B2>
+   <p:Head4>Hymn</p>
+  </td></tr></table>
+		   <table>
+		<tr><td:A1>
+		<p:HymnL1><s:HymnR>Q</s>uem terra, pontus, sídera</p>
+						<p:HymnL>Colunt, adórant, prǽdicant,</p>
+						<p:HymnL>Trinam regéntem máchinam,</p>
+						<p:HymnL>Claustrum Maríæ bájulat.</p>
+						</td><td:B1><p:HymnE1><s:HymnR>T</s>he Lord, whom earth, and air, and sea,</p>
+						<p:HymnE>With one adoring voice resound;</p>
+						<p:HymnE>Who rules them all in majesty;</p>
+						<p:HymnE>In Mary’s heart a cloister found.</p>
+						</td></tr>		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<tr><td:A1>
+		<p:HymnL><s:HymnR>C</s>ui luna, sol et ómnia</p>
+						<p:HymnL>Desérviunt per témpora,</p>
+						<p:HymnL>Perfúsa cæli grátia,</p>
+						<p:HymnL>Gestant puéllæ víscera.</p>
+						</td><td:B1><p:HymnE><s:HymnR>L</s>o! in a humble Virgin’s womb,</p>
+						<p:HymnE>O’ershadowed by Almighty power;</p>
+						<p:HymnE>He whom the stars, and sun, and moon,</p>
+						<p:HymnE>Each serve in their appointed hour.</p>
+						</td></tr>		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<tr><td:A1>
+		<p:HymnL><s:HymnR>B</s>eáta Mater múnere,</p>
+						<p:HymnL>Cujus, supérnus Ártifex</p>
+						<p:HymnL>Mundum pugíllo cóntinens,</p>
+						<p:HymnL>Ventris sub arca clausus est.</p>
+						</td><td:B1><p:HymnE><s:HymnR>O</s> Mother Blest! to whom was given</p>
+						<p:HymnE>Within thy compass to contain</p>
+						<p:HymnE>The Architect of earth and Heaven,</p>
+						<p:HymnE>Whose hands the universe sustain:</p>
+						</td></tr>		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<tr><td:A1>
+		<p:HymnL><s:HymnR>B</s>eáta cæli núntio,</p>
+						<p:HymnL>Fœcúnda Sancto Spíritu,</p>
+						<p:HymnL>Desiderátus géntibus</p>
+						<p:HymnL>Cujus per alvum fusus est.</p>
+						</td><td:B1><p:HymnE><s:HymnR>T</s>o thee was sent an Angel down;</p>
+						<p:HymnE>In thee the Spirit was enshrined;</p>
+						<p:HymnE>From thee came forth that Mighty One,</p>
+						<p:HymnE>The long-desired of all mankind.</p>
+						</td></tr>		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<tr><td:A1>
+		<p:HymnL><s:HymnR>J</s>esu tibi sit glória,</p>
+						<p:HymnL>Qui natus es de Vírgine,</p>
+						<p:HymnL>Cum Patre, et almo Spíritu,</p>
+						<p:HymnL>In sempitérna sǽcula. Amen.</p>
+						</td><td:B1><p:HymnE><s:HymnR>O</s> Jesu! born of Virgin bright,</p>
+						<p:HymnE>Immortal glory be to Thee;</p>
+						<p:HymnE>Praise to the Father infinite,</p>
+						<p:HymnE>And Holy Ghost eternally. Amen.</p>
+						</td></tr>	</table><p:BodySm><sr>Auth. Venantius Fortunatus(?)<t>Trans. Fr. E.Caswall</s></p>
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>Dominica, Feria II et V:</p>
+   </td><td:B2>
+   <p:Head4>Sunday, Monday, and Thursday:</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head2>In I Nocturno</p>
+   </td><td:B2>
+   <p:Head2>I Nocturn</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant 1.</s> Benedícta tu * in muliéribus, et benedíctus fructus ventris tui.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 1.</s> Blessed art thou * amongst women, and blessed is the fruit of thy womb.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 8. Dómine, Dóminus noster</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>DÓMINE, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!<t><text:line-break/><sb>Q</s>uóniam eleváta est magnificéntia tua, * super cælos.</p>
+  </td><td:B1>
+  <p:BodyEDrop>O LORD, our Lord, * how admirable is thy name in the whole earth!<t><text:line-break/><sb>F</s>or thy magnificence is elevated * above the heavens.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>x ore infántium et lacténtium perfecísti laudem propter inimícos tuos, * ut déstruas inimícum et ultórem.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s>ut of the mouth of infants and of sucklings thou hast perfected praise, because of thy enemies, * that thou mayst destroy the enemy and the avenger.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uóniam vidébo cælos tuos, ópera digitórum tuórum: * lunam et stellas, quæ tu fundásti.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or I will behold thy heavens, the works of thy fingers: * the moon and the stars which thou hast founded.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uid est homo quod memor es ejus? * aut fílius hóminis, quóniam vísitas eum?</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>hat is man that thou art mindful of him? * or the son of man that thou visitest him?</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>inuísti eum paulo minus ab Ángelis, glória et honóre coronásti eum: * et constituísti eum super ópera mánuum tuárum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou hast made him a little less than the angels, thou hast crowned him with glory and honour: * and hast set him over the works of thy hands.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Ó</s>mnia subjecísti sub pédibus ejus, * oves et boves univérsas: ínsuper et pécora campi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou hast subjected all things under his feet, * all sheep and oxen: moreover the beasts also of the fields.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>V</s>ólucres cæli, et pisces maris, * qui perámbulant sémitas maris.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he birds of the air, and the fishes of the sea, * that pass through the paths of the sea.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>ómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> Lord, our Lord, * how admirable is thy name in all the earth!</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Benedícta tu in muliéribus, et benedíctus fructus ventris tui.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Blessed art thou amongst women, and blessed is the fruit of thy womb.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 2.</s> Sicut myrrha * elécta, odórem dedísti suavitátis, sancta Dei Génitrix.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 2.</s> Like the best myrrh, * thou hast yielded a sweet odour, O holy Mother of God.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 18. Cæli enárrant</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>CÆLI enárrant glóriam Dei: * et ópera mánuum ejus annúntiat firmaméntum.<t><text:line-break/><sb>D</s>ies diéi erúctat verbum, * et nox nocti índicat sciéntiam.</p>
+  </td><td:B1>
+  <p:BodyEDrop>THE heavens shew forth the glory of God, * and the firmament declareth the work of his hands.<t><text:line-break/><sb>D</s>ay to day uttereth speech, * and night to night sheweth knowledge.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>N</s>on sunt loquélæ, neque sermónes, * quorum non audiántur voces eórum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>here are no speeches nor languages, * where their voices are not heard.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>n omnem terram exívit sonus eórum: * et in fines orbis terræ verba eórum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>heir sound hath gone forth into all the earth: * and their words unto the ends of the world.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>n sole pósuit tabernáculum suum: * et ipse tamquam sponsus procédens de thálamo suo:</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>e hath set his tabernacle in the sun: * and he, as a bridegroom coming out of his bride chamber,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>xsultávit ut gigas ad curréndam viam, * a summo cælo egréssio ejus:</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>ath rejoiced as a giant to run the way: * his going out is from the end of heaven,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t occúrsus ejus usque ad summum ejus: * nec est qui se abscóndat a calóre ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd his circuit even to the end thereof: * and there is no one that can hide himself from his heat.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>ex Dómini immaculáta, convértens ánimas: * testimónium Dómini fidéle, sapiéntiam præstans párvulis.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he law of the Lord is unspotted, converting souls: * the testimony of the Lord is faithful, giving wisdom to little ones.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>ustítiæ Dómini rectæ, lætificántes corda: * præcéptum Dómini lúcidum; illúminans óculos.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he justices of the Lord are right, rejoicing hearts: * the commandment of the Lord is lightsome, enlightening the eyes.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>imor Dómini sanctus, pérmanens in sǽculum sǽculi: * judícia Dómini vera, justificáta in semetípsa.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he fear of the Lord is holy, enduring for ever and ever: * the judgments of the Lord are true, justified in themselves.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>esiderabília super aurum et lápidem pretiósum multum: * et dulcióra super mel et favum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>M</s>ore to be desired than gold and many precious stones: * and sweeter than honey and the honeycomb.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>É</s>tenim servus tuus custódit ea, * in custodiéndis illis retribútio multa.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or thy servant keepeth them, * and in keeping them there is a great reward.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>elícta quis intélligit? ab occúltis meis munda me: * et ab aliénis parce servo tuo.</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>ho can understand sins? from my secret ones cleanse me, O Lord: * and from those of others spare thy servant.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>i mei non fúerint domináti, tunc immaculátus ero: * et emundábor a delícto máximo.</p>
+  </td><td:B1>
+   <p:BodyE><sb>I</s>f they shall have no dominion over me, then shall I be without spot: * and I shall be cleansed from the greatest sin.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t erunt ut compláceant elóquia oris mei: * et meditátio cordis mei in conspéctu tuo semper.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd the words of my mouth shall be such as may please: * and the meditation of my heart always in thy sight.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>ómine, adjútor meus, * et redémptor meus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> Lord, my helper, * and my redeemer.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Sicut myrrha elécta, odórem dedísti suavitátis, sancta Dei Génitrix.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Like the best myrrh, thou hast yielded a sweet odour, O holy Mother of God.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 3.</s> Ante torum * hujus Vírginis frequentáte nobis dúlcia cántica drámatis.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 3.</s> Before this Virgin’s couch * sing for us again and again the sweet songs of the play.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 23. Dómini est terra</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>DÓMINI est terra, et plenitúdo ejus: * orbis terrárum, et univérsi qui hábitant in eo.<t><text:line-break/><sb>Q</s>uia ipse super mária fundávit eum: * et super flúmina præparávit eum.</p>
+  </td><td:B1>
+  <p:BodyEDrop>THE earth is the Lord’s and the fulness thereof: * the world, and all they that dwell therein.<t><text:line-break/><sb>F</s>or he hath founded it upon the seas; * and hath prepared it upon the rivers.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uis ascéndet in montem Dómini? * aut quis stabit in loco sancto ejus?</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>ho shall ascend into the mountain of the Lord: * or who shall stand in his holy place?</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Í</s>nnocens mánibus et mundo corde, * qui non accépit in vano ánimam suam, nec jurávit in dolo próximo suo.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he innocent in hands, and clean of heart, * who hath not taken his soul in vain, nor sworn deceitfully to his neighbour.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>H</s>ic accípiet benedictiónem a Dómino: * et misericórdiam a Deo, salutári suo.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>e shall receive a blessing from the Lord, * and mercy from God his Saviour.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>H</s>æc est generátio quæréntium eum, * quæréntium fáciem Dei Jacob.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>his is the generation of them that seek him, * of them that seek the face of the God of Jacob.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>ttóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>ift up your gates, O ye princes, and be ye lifted up, O eternal gates: * and the King of Glory shall enter in.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uis est iste Rex glóriæ? * Dóminus fortis et potens: Dóminus potens in prǽlio.</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>ho is this King of Glory? * the Lord who is strong and mighty: the Lord mighty in battle.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>ttóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>ift up your gates, O ye princes, and be ye lifted up, O eternal gates: * and the King of Glory shall enter in.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uis est iste Rex glóriæ? * Dóminus virtútum ipse est Rex glóriæ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>ho is this King of Glory? * the Lord of hosts, he is the King of Glory.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Ante torum hujus Vírginis frequentáte nobis dúlcia cántica drámatis.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Before this Virgin’s couch sing for us again and again the sweet songs of the play.</p>
+  </td></tr></table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>Feria III et VI:</p>
+   </td><td:B2>
+   <p:Head4>Tuesday and Friday:</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head2>In II Nocturno</p>
+   </td><td:B2>
+   <p:Head2>II Nocturn</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant 4.</s> Spécie tua * et pulchritúdine tua inténde, próspere procéde, et regna.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 4.</s> In thy comeliness and thy beauty * set out, proceed prosperously, and reign.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 44. Eructávit cor meum</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>ERUCTÁVIT cor meum verbum bonum: * dico ego ópera mea Regi.<t><text:line-break/><sb>L</s>ingua mea cálamus scribæ: * velóciter scribéntis.</p>
+  </td><td:B1>
+  <p:BodyEDrop>MY heart hath uttered a good word; * I speak my works to the king;<t><text:line-break/><sb>M</s>y tongue is the pen of a scrivener * that writeth swiftly.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>peciósus forma præ fíliis hóminum, diffúsa est grátia in lábiis tuis: * proptérea benedíxit te Deus in ætérnum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou art beautiful above the sons of men: grace is poured abroad in thy lips; * therefore hath God blessed thee for ever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>ccíngere gládio tuo super femur tuum, * potentíssime.</p>
+  </td><td:B1>
+   <p:BodyE><sb>G</s>ird thy sword upon thy thigh, * O thou most mighty.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>pécie tua et pulchritúdine tua: * inténde, próspere procéde, et regna.</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>ith thy comeliness and thy beauty * set out, proceed prosperously, and reign.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>ropter veritátem, et mansuetúdinem, et justítiam: * et dedúcet te mirabíliter déxtera tua.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>ecause of truth and meekness and justice: * and thy right hand shall conduct thee wonderfully.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>agíttæ tuæ acútæ, pópuli sub te cadent: * in corde inimicórum Regis.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hy arrows are sharp: under thee shall people fall, * into the hearts of the king’s enemies.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>edes tua, Deus, in sǽculum sǽculi: * virga directiónis virga regni tui.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hy throne, O God, is forever and ever: * the sceptre of thy kingdom is a sceptre of uprightness.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>ilexísti justítiam, et odísti iniquitátem: * proptérea unxit te, Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou hast loved justice, and hated iniquity: * therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>yrrha, et gutta, et cásia a vestiméntis tuis, a dómibus ebúrneis: * ex quibus delectavérunt te fíliæ regum in honóre tuo.</p>
+  </td><td:B1>
+   <p:BodyE><sb>M</s>yrrh and stacte and cassia perfume thy garments, from the ivory houses: * out of which the daughters of kings have delighted thee in thy glory.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Á</s>stitit regína a dextris tuis in vestítu deauráto: * circúmdata varietáte.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he queen stood on thy right hand, in gilded clothing; * surrounded with variety.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>udi, fília, et vide, et inclína aurem tuam: * et oblivíscere pópulum tuum, et domum patris tui.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>earken, O daughter, and see, and incline thy ear: * and forget thy people and thy father’s house.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t concupíscet Rex decórem tuum: * quóniam ipse est Dóminus Deus tuus, et adorábunt eum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd the king shall greatly desire thy beauty; * for he is the Lord thy God, and him they shall adore.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t fíliæ Tyri in munéribus * vultum tuum deprecabúntur: omnes dívites plebis.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd the daughters of Tyre with gifts, * yea, all the rich among the people, shall entreat thy countenance.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>O</s>mnis glória ejus fíliæ Regis ab intus, * in fímbriis áureis circumamícta varietátibus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>ll the glory of the king’s daughter is within, * in golden borders, clothed round about with varieties.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>dducéntur Regi vírgines post eam: * próximæ ejus afferéntur tibi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>fter her shall virgins be brought to the king: * her neighbours shall be brought to thee.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>fferéntur in lætítia et exsultatióne: * adducéntur in templum Regis.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hey shall be brought with gladness and rejoicing: * they shall be brought into the temple of the king.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>ro pátribus tuis nati sunt tibi fílii: * constítues eos príncipes super omnem terram.</p>
+  </td><td:B1>
+   <p:BodyE><sb>I</s>nstead of thy fathers, sons are born to thee: * thou shalt make them princes over all the earth.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>émores erunt nóminis tui: * in omni generatióne et generatiónem.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hey shall remember thy name * throughout all generations.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>roptérea pópuli confitebúntur tibi in ætérnum: * et in sǽculum sǽculi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>herefore shall people praise thee for ever; yea, * for ever and ever.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Spécie tua et pulchritúdine tua inténde, próspere procéde, et regna.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> In thy comeliness and thy beauty set out, proceed prosperously, and reign.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 5.</s> Adjuvábit eam * Deus vultu suo: Deus in médio ejus, non commovébitur.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 5.</s> God shall help her * with his countenance: God dwelleth in her, she shall not be moved.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 45. Deus noster refúgium</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>DEUS noster refúgium, et virtus: * adjútor in tribulatiónibus, quæ invenérunt nos nimis.<t><text:line-break/><sb>P</s>roptérea non timébimus dum turbábitur terra: * et transferéntur montes in cor maris.</p>
+  </td><td:B1>
+  <p:BodyEDrop>OUR God is our refuge and strength: * a helper in troubles, which have found us exceedingly.<t><text:line-break/><sb>T</s>herefore we will not fear, when the earth shall be troubled; * and the mountains shall be removed into the heart of the sea.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>onuérunt, et turbátæ sunt aquæ eórum: * conturbáti sunt montes in fortitúdine ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>heir waters roared and were troubled: * the mountains were troubled with his strength.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>F</s>lúminis ímpetus lætíficat civitátem Dei: * sanctificávit tabernáculum suum Altíssimus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he stream of the river maketh the city of God joyful: * the most High hath sanctified his own tabernacle.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>eus in médio ejus, non commovébitur: * adjuvábit eam Deus mane dilúculo.</p>
+  </td><td:B1>
+   <p:BodyE><sb>G</s>od is in the midst thereof, it shall not be moved: * God will help it in the morning early.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>C</s>onturbátæ sunt Gentes, et inclináta sunt regna: * dedit vocem suam, mota est terra.</p>
+  </td><td:B1>
+   <p:BodyE><sb>N</s>ations were troubled, and kingdoms were bowed down: * he uttered his voice, the earth trembled.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>óminus virtútum nobíscum: * suscéptor noster Deus Jacob.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he Lord of armies is with us: * the God of Jacob is our protector.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>V</s>eníte, et vidéte ópera Dómini, quæ pósuit prodígia super terram: * áuferens bella usque ad finem terræ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>C</s>ome and behold ye the works of the Lord: what wonders he hath done upon earth, * making wars to cease even to the end of the earth.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>rcum cónteret, et confrínget arma: * et scuta combúret igni.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>e shall destroy the bow, and break the weapons: * and the shield he shall burn in the fire.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>V</s>acáte, et vidéte quóniam ego sum Deus: * exaltábor in Géntibus, et exaltábor in terra.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>e still and see that I am God; * I will be exalted among the nations, and I will be exalted in the earth.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>óminus virtútum nobíscum: * suscéptor noster Deus Jacob.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he Lord of armies is with us: * the God of Jacob is our protector.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Adjuvábit eam Deus vultu suo: Deus in médio ejus, non commovébitur.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> God shall help her with his countenance: God dwelleth in her, she shall not be moved.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 6.</s> Sicut lætántium * ómnium nostrum habitátio est in te, sancta Dei Génitrix.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 6.</s> As of people all rejoicing, * so is our dwelling in thee, O holy Mother of God.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 86. Fundaménta ejus</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>FUNDAMÉNTA ejus in móntibus sanctis: * díligit Dóminus portas Sion super ómnia tabernácula Jacob.<t><text:line-break/><sb>G</s>loriósa dicta sunt de te, * cívitas Dei.</p>
+  </td><td:B1>
+  <p:BodyEDrop>THE foundations thereof are in the holy mountains: * The Lord loveth the gates of Sion above all the tabernacles of Jacob.<t><text:line-break/><sb>G</s>lorious things are said of thee, * O city of God.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>emor ero Rahab, et Babylónis * sciéntium me.</p>
+  </td><td:B1>
+   <p:BodyE><sb>I</s> will be mindful of Rahab and of Babylon * knowing me.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>cce, alienígenæ, et Tyrus, et pópulus Æthíopum, * hi fuérunt illic.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>ehold the foreigners, and Tyre, and the people of the Ethiopians, * these were there.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>N</s>umquid Sion dicet: Homo, et homo natus est in ea: * et ipse fundávit eam Altíssimus?</p>
+  </td><td:B1>
+   <p:BodyE><sb>S</s>hall not Sion say: This man and that man is born in her? * and the Highest himself hath founded her.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>óminus narrábit in scriptúris populórum, et príncipum: * horum, qui fuérunt in ea.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he Lord shall tell in his writings of peoples and of princes, * of them that have been in her.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>icut lætántium ómnium * habitátio est in te.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he dwelling in thee * is as it were of all rejoicing.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Sicut lætántium ómnium nostrum habitátio est in te, sancta Dei Génitrix.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> As of people all rejoicing, so is our dwelling in thee, O holy Mother of God.</p>
+  </td></tr></table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>Feria IV et Sabbato:</p>
+   </td><td:B2>
+   <p:Head4>Wednesday and Saturday:</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head2>In III Nocturno</p>
+   </td><td:B2>
+   <p:Head2>III Nocturn</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant 7.</s> Gaude, María Virgo: * cunctas hǽreses sola interemísti in univérso mundo.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 7.</s> Rejoice, O Virgin Mary, * alone thou hast destroyed all heresies throughout the world.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 95. Cantáte Dómino</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>CANTÁTE Dómino cánticum novum: * cantáte Dómino, omnis terra.<t><text:line-break/><sb>C</s>antáte Dómino, et benedícite nómini ejus: * annuntiáte de die in diem salutáre ejus.</p>
+  </td><td:B1>
+  <p:BodyEDrop>SING ye to the Lord a new canticle: * sing to the Lord, all the earth.<t><text:line-break/><sb>S</s>ing ye to the Lord and bless his name: * shew forth his salvation from day to day.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>nnuntiáte inter gentes glóriam ejus, * in ómnibus pópulis mirabília ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>D</s>eclare his glory among the Gentiles: * his wonders among all people.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uóniam magnus Dóminus, et laudábilis nimis: * terríbilis est super omnes deos.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or the Lord is great, and exceedingly to be praised: * he is to be feared above all gods.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uóniam omnes dii géntium dæmónia: * Dóminus autem cælos fecit.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or all the gods of the Gentiles are devils: * but the Lord made the heavens.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>C</s>onféssio, et pulchritúdo in conspéctu ejus: * sanctimónia et magnificéntia in sanctificatióne ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>P</s>raise and beauty are before him: * holiness and majesty in his sanctuary.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>fférte Dómino, pátriæ géntium, afférte Dómino glóriam et honórem: * afférte Dómino glóriam nómini ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>ring ye to the Lord, O ye kindreds of the Gentiles, bring ye to the Lord glory and honour: * bring to the Lord glory unto his name.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>óllite hóstias, et introíte in átria ejus: * adoráte Dóminum in átrio sancto ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>ring up sacrifices, and come into his courts: * adore ye the Lord in his holy court.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>C</s>ommoveátur a fácie ejus univérsa terra: * dícite in géntibus quia Dóminus regnávit.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>et all the earth be moved at his presence. * Say ye among the Gentiles, the Lord hath reigned.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>É</s>tenim corréxit orbem terræ qui non commovébitur: * judicábit pópulos in æquitáte.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or he hath corrected the world, which shall not be moved: * he will judge the people with justice.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>æténtur cæli, et exsúltet terra: commoveátur mare, et plenitúdo ejus: * gaudébunt campi, et ómnia quæ in eis sunt.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>et the heavens rejoice, and let the earth be glad, let the sea be moved, and the fulness thereof: * the fields and all things that are in them shall be joyful.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>unc exsultábunt ómnia ligna silvárum a fácie Dómini, quia venit: * quóniam venit judicáre terram.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hen shall all the trees of the woods rejoice before the face of the Lord, because he cometh: * because he cometh to judge the earth.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>udicábit orbem terræ in æquitáte, * et pópulos in veritáte sua.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>e shall judge the world with justice, * and the people with his truth.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Gaude, María Virgo: cunctas hǽreses sola interemísti in univérso mundo.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Rejoice, O Virgin Mary, alone thou hast destroyed all heresies throughout the world.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 8.</s> Dignáre me * laudáre te, Virgo sacráta: da mihi virtútem contra hostes tuos.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 8.</s> Vouchsafe that I * may praise thee, O holy Virgin; give me strength against thine enemies.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 96. Dóminus regnávit</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>DÓMINUS regnávit, exsúltet terra: * læténtur ínsulæ multæ.<t><text:line-break/><sb>N</s>ubes, et calígo in circúitu ejus: * justítia, et judícium corréctio sedis ejus.</p>
+  </td><td:B1>
+  <p:BodyEDrop>THE Lord hath reigned, let the earth rejoice: * let many islands be glad.<t><text:line-break/><sb>C</s>louds and darkness are round about him: * justice and judgment are the establishment of his throne.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>gnis ante ipsum præcédet, * et inflammábit in circúitu inimícos ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s> fire shall go before him, * and shall burn his enemies round about.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>lluxérunt fúlgura ejus orbi terræ: * vidit, et commóta est terra.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>is lightnings have shone forth to the world: * the earth saw and trembled.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>ontes, sicut cera fluxérunt a fácie Dómini: * a fácie Dómini omnis terra.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he mountains melted like wax, at the presence of the Lord: * at the presence of the Lord of all the earth.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>nnuntiavérunt cæli justítiam ejus: * et vidérunt omnes pópuli glóriam ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he heavens declared his justice: * and all people saw his glory.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>C</s>onfundántur omnes, qui adórant sculptília: * et qui gloriántur in simulácris suis.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>et them be all confounded that adore graven things, * and that glory in their idols.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>doráte eum, omnes Ángeli ejus: * audívit, et lætáta est Sion.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>dore him, all you his angels: * Sion heard, and was glad.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t exsultavérunt fíliæ Judæ, * propter judícia tua, Dómine:</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd the daughters of Juda rejoiced, * because of thy judgments, O Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uóniam tu Dóminus Altíssimus super omnem terram: * nimis exaltátus es super omnes deos.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or thou art the most high Lord over all the earth: * thou art exalted exceedingly above all gods.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>ui dilígitis Dóminum, odíte malum: * custódit Dóminus ánimas sanctórum suórum, de manu peccatóris liberábit eos.</p>
+  </td><td:B1>
+   <p:BodyE><sb>Y</s>ou that love the Lord, hate evil: * the Lord preserveth the souls of his saints, he will deliver them out of the hand of the sinner.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>ux orta est justo, * et rectis corde lætítia.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>ight is risen to the just, * and joy to the right of heart.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>ætámini, justi, in Dómino: * et confitémini memóriæ sanctificatiónis ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>R</s>ejoice, ye just, in the Lord: * and give praise to the remembrance of his holiness.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Dignáre me laudáre te, Virgo sacráta: da mihi virtútem contra hostes tuos.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Vouchsafe that I may praise thee, O holy Virgin; give me strength against thine enemies.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 9.</s> Post partum, * Virgo, ínvioláta permansísti: Dei Génitrix, intercéde pro nobis.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 9.</s> After child-bearing, * O Virgin, thou didst remain inviolate; Mother of God, intercede for us.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant 10.</s> Ángelus Dómini * nuntiávit Maríæ, et concépit de Spíritu Sancto.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 10.</s> The Angel of the Lord * declared unto Mary, and she conceived by the Holy Spirit.</p>
+  </td></tr></table>
+<p:Head2Ps>Ps 97. Cantáte Dómino</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>CANTÁTE Dómino cánticum novum: * quia mirabília fecit.<t><text:line-break/><sb>S</s>alvávit sibi déxtera ejus: * et bráchium sanctum ejus.</p>
+  </td><td:B1>
+  <p:BodyEDrop>SING ye to the Lord a new canticle: * because he hath done wonderful things.<t><text:line-break/><sb>H</s>is right hand hath wrought for him salvation, * and his arm is holy.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>N</s>otum fecit Dóminus salutáre suum: * in conspéctu géntium revelávit justítiam suam.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he Lord hath made known his salvation: * he hath revealed his justice in the sight of the Gentiles.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>R</s>ecordátus est misericórdiæ suæ, * et veritátis suæ dómui Israël.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>e hath remembered his mercy * and his truth toward the house of Israel.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>V</s>idérunt omnes términi terræ * salutáre Dei nostri.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>ll the ends of the earth have seen * the salvation of our God.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>ubiláte Deo, omnis terra: * cantáte, et exsultáte, et psállite.</p>
+  </td><td:B1>
+   <p:BodyE><sb>S</s>ing joyfully to God, all the earth; * make melody, rejoice and sing.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>sállite Dómino in cíthara, in cíthara et voce psalmi: * in tubis ductílibus, et voce tubæ córneæ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>S</s>ing praise to the Lord on the harp, on the harp, and with the voice of a psalm: * with long trumpets, and sound of cornet.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>ubiláte in conspéctu regis Dómini: * moveátur mare, et plenitúdo ejus: orbis terrárum, et qui hábitant in eo.</p>
+  </td><td:B1>
+   <p:BodyE><sb>M</s>ake a joyful noise before the Lord our king: * let the sea be moved and the fulness thereof: the world and they that dwell therein.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>F</s>lúmina plaudent manu, simul montes exsultábunt a conspéctu Dómini: * quóniam venit judicáre terram.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he rivers shall clap their hands, the mountains shall rejoice together at the presence of the Lord: * because he cometh to judge the earth.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>udicábit orbem terrárum in justítia, * et pópulos in æquitáte.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>e shall judge the world with justice, * and the people with equity.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Post partum, Virgo, ínvioláta permansísti: Dei Génitrix, intercéde pro nobis.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> After child-bearing, O Virgin, thou didst remain inviolate; Mother of God, intercede for us.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Ángelus Dómini nuntiávit Maríæ, et concépit de Spíritu Sancto.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> The Angel of the Lord declared unto Mary, and she conceived by the Holy Spirit.</p>
+  </td></tr></table>
+
+  <p:BodySm/>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Diffúsa est grátia in lábiis tuis. <s:VR>R. </s>Proptérea benedíxit te Deus in ætérnum.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>Grace is poured abroad on thy lips. <s:VR>R. </s>Therefore hath God blessed thee for ever.</p>
+   </td></tr>
+   </table>
+   <table> <tr> <td:A1>
+      <p:BodyL>Pater noster. <sr>Secréto usque ad:</s></p>
+     </td> <td:B1>
+      <p:BodyE>Our Father. <sr>The rest secretly to:</s></p>
+     </td> </tr> </table>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Et ne nos indúcas in tentatiónem. <s:VR>R. </s>Sed líbera nos a malo.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>And lead us not into temptation. <s:VR>R. </s>But deliver us from evil.</p>
+   </td></tr>
+   </table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>I,III. Extra et Post Adventum.</p>
+   </td><td:B2>
+   <p:Head4>I,III. From Christmas until Advent.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head3>Absolutio.</p>
+   </td><td:B2>
+   <p:Head3>The Absolution</p>
+  </td></tr></table>
+<table>
+  <tr><td:A1>
+   <p:BodyL>Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.</p>
+  </td><td:B1>
+   <p:BodyE>Through the prayers and merits of blessed Mary, ever Virgin, and of all the Saints, may the Lord bring us to the kingdom of heaven.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+   <table> <tr> <td:A1>
+      <p:BodyL><s:VR>V. </s>Jube, domne <sr>(vel</s> Dómine<sr>)</s> benedícere.</p>
+     </td> <td:B1>
+      <p:BodyE><s:VR>V. </s>Pray, sir <sr>(or</s> O Lord<sr>)</s> a blessing.</p>
+   </td> </tr> </table>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sr>Bened:</s> Nos cum prole pia benedícat Virgo María.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Bened:</s> May the Virgin Mary with her loving Child bless us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+  <p:RubricHSm>Lectio (Lesson) i<t>Ecclus. (Sir.) 24:11-13</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>IN ómnibus réquiem quæsívi, et in hereditáte Dómini morábor. Tunc præcépit et dixit mihi Creátor ómnium, et qui creávit me, requiévit in tabernáculo meo, et dixit mihi: in Jacob inhábita, et in eléctis meis mitte radíces. Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>IN all these I sought rest, and I shall abide in the inheritance of the Lord. Then the Creator of all things commanded, and said to me: and he that made me, rested in my tabernacle, And he said to me: Let thy dwelling be in Jacob, and thy inheritance in Israel, and take root in my chosen people. But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+   <table>
+   <tr><td:A1>
+<p:BodyL><s:VR>R. </s>Sancta Et immaculáta virgínitas, quibus te láudibus éfferam néscio: * Quia quem cæli cápere non póterant, tuo grémio contulísti. <s:VR>V. </s>Benedícta tu in muliéribus, et benedíctus fructus ventris tui. <s:BoldR>Q</s>uia quem cæli cápere non póterant, tuo grémio contulísti. </p>
+   </td><td:B1>
+<p:BodyE><s:VR>R. </s>O holy And immaculate virginity, I know not with what praises to extol thee: * For him whom heaven could not hold thou didst carry at thy bosom. <s:VR>V. </s>Blessed art thou amongst women, and blessed in the fruit of thy womb. <s:BoldR>F</s>or him whom heaven could not hold thou didst carry at thy bosom. </p>
+   </td></tr>
+   </table>
+
+  <p:BodySm/>
+   <table> <tr> <td:A1>
+      <p:BodyL><s:VR>V. </s>Jube, domne <sr>(vel</s> Dómine<sr>)</s> benedícere.</p>
+     </td> <td:B1>
+      <p:BodyE><s:VR>V. </s>Pray, sir <sr>(or</s> O Lord<sr>)</s> a blessing.</p>
+   </td> </tr> </table>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sr>Bened:</s> Ipsa Virgo vírginum intercédat pro nobis ad Dóminum.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Bened:</s> May the Virgin of virgins herself plead for us before the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+  <p:RubricHSm>Lectio (Lesson) ii<t>Ecclus. (Sir.) 24:15</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>ET sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea. Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>AND so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem. And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints. But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+   <table>
+   <tr><td:A1>
+<p:BodyL><s:VR>R. </s>Beáta Es, Virgo María, quæ Dóminum portásti, Creatórem mundi: * Genuísti qui te fecit, et in ætérnum pérmanes virgo. <s:VR>V. </s>Ave, María, grátia plena; Dóminus tecum. <s:BoldR>G</s>enuísti qui te fecit, et in ætérnum pérmanes virgo. </p>
+   </td><td:B1>
+<p:BodyE><s:VR>R. </s>Blessed Art thou, O Virgin Mary, who didst bear the Lord, the Creator of the world: * Thou didst bring forth Him that made thee, and remainest a virgin for ever. <s:VR>V. </s>Hail, Mary, full of grace, the Lord is with thee. <s:BoldR>T</s>hou didst bring forth Him that made thee, and remainest a virgin for ever. </p>
+   </td></tr>
+   </table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyL><sr>Quando dicitur <snr>Te Deum</s>, assumitur in fine hujus Responsorii:</s></p>
+   </td><td:B1>
+   <p:BodyE><sr>When the <snr>Te Deum</s> is said, at the end of the Responsory is added:</s></p>
+  </td></tr></table>
+   <table>
+   <tr><td:A1>
+<p:BodyL><s:VR>V. </s>Glória Patri. <s:BoldR>G</s>enuísti qui te fecit, et in ætérnum pérmanes virgo.</p>
+   </td><td:B1>
+<p:BodyE><s:VR>V. </s>Glory be. <s:BoldR>T</s>hou didst bring forth Him that made thee, and remainest a virgin for ever.</p>
+   </td></tr>
+	</table>
+
+  <p:BodySm/>
+   <table> <tr> <td:A1>
+      <p:BodyL><s:VR>V. </s>Jube, domne <sr>(vel</s> Dómine<sr>)</s> benedícere.</p>
+     </td> <td:B1>
+      <p:BodyE><s:VR>V. </s>Pray, sir <sr>(or</s> O Lord<sr>)</s> a blessing.</p>
+   </td> </tr> </table>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sr>Bened:</s> Per Vírginem Matrem concédat nobis Dóminus salútem et pacem.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Bened:</s> Through the Virgin Mother may the Lord grant us salvation and peace.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+  <p:RubricHSm>Lectio (Lesson) iii<t>Ecclus. (Sir.) 24:17-20</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>QUASI cedrus exaltáta sum in Líbano, et quasi cypréssus in monte Sion: quasi palma exaltáta sum in Cades, et quasi plantátio rosæ in Jéricho: quasi olíva speciósa in campis, et quasi plátanus exaltáta sum juxta aquam in platéis. Sicut cinnamómum et bálsamum aromatízans odórem dedi; quasi myrrha elécta, dedi suavitátem odóris. Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>I WAS exalted like a cedar in Libanus, and as a cypress tree on mount Sion: I was exalted like a palm tree in Cades, and as a rose plant in Jericho: as a fair olive tree in the plains, and as a plane tree by the water in the streets, was I exalted. I gave a sweet smell like cinnamon and aromatical balm; I yielded a sweet odour like the best myrrh. But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+
+  <p:BodySm/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyL><sr>Sequens Responsorium omittitur quando dicitur <snr>Te Deum</s>.</s></p>
+   </td><td:B1>
+   <p:BodyE><sr>When the <snr>Te Deum</s> is said, the following Responsory is omitted.</s></p>
+  </td></tr></table>
+   <table>
+   <tr><td:A1>
+<p:BodyL><s:VR>R. </s>Felix Namque es, sacra Virgo María, et omni laude digníssima: * Quia ex te ortus est sol justitiæ, * Christus, Deus noster. <s:VR>V. </s>Ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem. <s:BoldR>Q</s>uia ex te ortus est sol justitiæ. <s:VR>V. </s>Glória Patri. <s:BoldR>C</s>hristus, Deus noster. </p>
+   </td><td:B1>
+<p:BodyE><s:VR>R. </s>Happy Indeed art thou, O holy Virgin Mary, and most worthy of all praise: * For out of thee arose the sun of righteousness, * Christ our God. <s:VR>V. </s>Pray for the people, mediate for the clergy, intercede for all women vowed to God: may all experience thy help who celebrate thy holy commemoration. <s:BoldR>F</s>or out of thee arose the sun of righteousness. <s:VR>V. </s>Glory be. <s:BoldR>C</s>hrist our God. </p>
+   </td></tr>
+   </table>
+
+  <p:BodySm/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyL><sr>Sequens Hymnus <snr>Te Deum</s> dic. a Nativ. Domini usque ad Septuag., et a Dom. Resurrectionis usque ad Advent., et quando dicitur, omittitur III Responsorium, et in II Responsorio dicitur <snr>Glória Patri</s>, ut dictum est supra: in Adventu autem et a Septuag. usque ad Pascha non dic. nisi in Festis B. Mariæ.</s></p>
+   </td><td:B1>
+   <p:BodyE><sr>The following Hymn, <snr>Te Deum</s>, is said from Christmas until Septuagesima, and from Easter Sunday until Advent. When it is said, the third Responsory is omitted, and the <snr>Glória Patri</s> is said in the second Responsory, as noted above. In Advent and from Septuagesima until Easter it is not said except on feasts of the Bl. Virgin Mary.</s></p>
+  </td></tr></table>
+<p:Head2>Hymnus Ambrosianus</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>TE Deum laudámus: * te Dóminum confitémur.<t><text:line-break/><sb>T</s>e ætérnum Patrem * omnis terra venerátur.</p>
+  </td><td:B1>
+  <p:BodyEDrop>WE praise thee, O God, * we acknowledge thee to be the Lord.<t><text:line-break/><sb>T</s>hee, the Father everlasting, * all the earth doth worship.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>ibi omnes Ángeli, * tibi Cæli, et univérsæ Potestátes:</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>o thee all the Angels, * to thee the Heavens, and all the Powers:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>ibi Chérubim et Séraphim * incessábili voce proclámant:</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>o thee the Cherubim and Seraphim * cry out without ceasing:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>anctus, Sanctus, Sanctus * Dóminus Deus Sábaoth.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>oly, Holy, Holy, * Lord God of hosts.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>leni sunt cæli et terra * majestátis glóriæ tuæ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>eaven and earth are full * of the majesty of thy glory.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>e gloriósus * Apostolórum chorus,</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hee the glorious * choir of the Apostles,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>e Prophetárum * laudábilis númerus,</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hee the admirable company * of the Prophets,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>e Mártyrum candidátus * laudat exércitus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hee the white-robed army of Martyrs * doth praise.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>e per orbem terrárum * sancta confitétur Ecclésia,</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hee the holy Church * throughout the world doth confess,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>atrem * imménsæ majestátis;</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he Father * of incomprehensible majesty;</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>V</s>enerándum tuum verum * et únicum Fílium;</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hine adorable, true, * and only Son;</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>anctum quoque * Paráclitum Spíritum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd the Holy Ghost * the Paraclete.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>u Rex glóriæ, * Christe.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou, O Christ, * art the King of glory.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>u Patris * sempitérnus es Fílius.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou art the everlasting Son * of the Father.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>u, ad liberándum susceptúrus hóminem, * non horruísti Vírginis úterum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou, having taken upon thee to deliver man, * didst not disdain the Virgin’s womb.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>u, devícto mortis acúleo, * aperuísti credéntibus regna cælórum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou, having overcome the sting of death, * hast opened to believers the kingdom of heaven.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>u ad déxteram Dei sedes, * in glória Patris.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou sittest at the right hand of God, * in the glory of the Father.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>udex créderis * esse ventúrus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hou, we believe, * art the Judge to come.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Sequens versus dicitur flexis genibus</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>The following verse is said kneeling</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>e ergo quǽsumus, tuis fámulis súbveni, * quos pretióso sánguine redemísti.</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>e beseech thee, therefore, to help thy servants, * whom thou hast redeemed with thy precious blood.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Æ</s>térna fac cum Sanctis tuis * in glória numerári.</p>
+  </td><td:B1>
+   <p:BodyE><sb>M</s>ake them to be numbered with thy Saints * in glory everlasting.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>alvum fac pópulum tuum, Dómine, * et bénedic hereditáti tuæ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>S</s>ave thy people, O Lord, * and bless thine inheritance.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t rege eos, * et extólle illos usque in ætérnum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd govern them, * and exalt them forever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>er síngulos dies * benedícimus te;</p>
+  </td><td:B1>
+   <p:BodyE><sb>D</s>ay by day * we bless thee;</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t laudámus nomen tuum in sǽculum, * et in sǽculum sǽculi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd we praise thy name forever, * yea, forever and ever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>D</s>ignáre, Dómine, die isto * sine peccáto nos custodíre.</p>
+  </td><td:B1>
+   <p:BodyE><sb>V</s>ouchsafe, O Lord, this day, * to keep us without sin.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>iserére nostri, Dómine, * miserére nostri.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>ave mercy on us, O Lord, * have mercy on us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>F</s>iat misericórdia tua, Dómine, super nos, * quemádmodum sperávimus in te.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>et thy mercy, O Lord, be upon us, * as we have trusted in thee.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>n te, Dómine, sperávi: * non confúndar in ætérnum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>I</s>n thee, O Lord, have I trusted: * let me not be confounded forever.</p>
+  </td></tr>
+</table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>II. In Adventu.</p>
+   </td><td:B2>
+   <p:Head4>II. In Advent.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head3>Absolutio.</p>
+   </td><td:B2>
+   <p:Head3>The Absolution</p>
+  </td></tr></table>
+<table>
+  <tr><td:A1>
+   <p:BodyL>Précibus et méritis beátæ Maríæ semper Vírginis et ómnium Sanctórum, perdúcat nos Dóminus ad regna cælórum.</p>
+  </td><td:B1>
+   <p:BodyE>Through the prayers and merits of blessed Mary, ever Virgin, and of all the Saints, may the Lord bring us to the kingdom of heaven.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+   <table> <tr> <td:A1>
+      <p:BodyL><s:VR>V. </s>Jube, domne <sr>(vel</s> Dómine<sr>)</s> benedícere.</p>
+     </td> <td:B1>
+      <p:BodyE><s:VR>V. </s>Pray, sir <sr>(or</s> O Lord<sr>)</s> a blessing.</p>
+   </td> </tr> </table>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sr>Bened:</s> Nos cum prole pia benedícat Virgo María.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Bened:</s> May the Virgin Mary with her loving Child bless us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+  <p:RubricHSm>Lectio (Lesson) i<t>Luke 1:26-28</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>MISSUS est Ángelus Gábriel a Deo in civitátem Galilǽæ, cui nomen Názareth, ad vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen vírginis María. Et ingréssus Ángelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>THE Angel Gabriel was sent from God into a city of Galilee, called Nazareth, to a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary. And the Angel being come in, said unto her: Hail, full of grace; the Lord is with thee: blessed art thou among women. But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+   <table>
+   <tr><td:A1>
+<p:BodyL><s:VR>R. </s>Missus Est Gábriel Ángelus ad Maríam Vírginem desponsátam Joseph, núntians ei verbum; et expavéscit Virgo de lúmine: ne tímeas, María; invenísti enim grátiam apud Dóminum: * Ecce concípies et páries, et vocábitur Altíssimi Fílius. <s:VR>V. </s>Dabit ei Dóminus Deus sedem David, patris ejus; et regnábit in domo Jacob in ætérnum. <s:BoldR>E</s>cce concípies et páries, et vocábitur Altíssimi Fílius. </p>
+   </td><td:B1>
+<p:BodyE><s:VR>R. </s>The Angel Gabriel was sent the Virgin Mary, espoused to Joseph, declaring unto her the word, and the Virgin trembles at the light. Fear not, Mary, thou hast found grace with the Lord: * Behold, thou shalt conceive and bring forth, and he shall be called the Son of the most High. <s:VR>V. </s>The Lord shall give unto him the throne of David his father; and he shall reign in the house of Jacob for ever. <s:BoldR>B</s>ehold, thou shalt conceive and bring forth, and he shall be called the Son of the most High. </p>
+   </td></tr>
+   </table>
+
+  <p:BodySm/>
+   <table> <tr> <td:A1>
+      <p:BodyL><s:VR>V. </s>Jube, domne <sr>(vel</s> Dómine<sr>)</s> benedícere.</p>
+     </td> <td:B1>
+      <p:BodyE><s:VR>V. </s>Pray, sir <sr>(or</s> O Lord<sr>)</s> a blessing.</p>
+   </td> </tr> </table>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sr>Bened:</s> Ipsa Virgo vírginum intercédat pro nobis ad Dóminum.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Bened:</s> May the Virgin of virgins herself plead for us before the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+  <p:RubricHSm>Lectio (Lesson) ii<t>Luke 1:29-33</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>QUÆ cum audísset, turbáta est in sermóne ejus, et cogitábat qualis esset ista salutátio. Et ait Ángelus ei: Ne tímeas, María; invenísti enim grátiam apud Deum: ecce concípies in útero, et páries fílium, et vocábis nomen ejus Jesum. Hic erit magnus, et Fílius Altíssimi vocábitur; et dabit illi Dóminus Deus sedem David, patris ejus; et regnábit in domo Jacob in ætérnum, et regni ejus non erit finis. Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>WHO having heard, was troubled at his saying, and thought with herself what manner of salutation this should be. And the Angel said to her: Fear not, Mary; for thou hast found grace with God: behold thou shalt conceive in thy womb, and shalt bring forth a son, and thou shalt call his name Jesus. He shall be great, and shall be called the Son of the most High; and the Lord God shall give unto him the throne of David, his father; and he shall reign in the house of Jacob for ever, and of his kingdom there shall be no end. But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+   <table>
+   <tr><td:A1>
+<p:BodyL><s:VR>R. </s>Ave, María, Grátia plena; Dóminus tecum: * Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur sanctum, vocábitur Fílius Dei. <s:VR>V. </s>Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Ángelus dixit ei. <s:BoldR>S</s>píritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur sanctum, vocábitur Fílius Dei. </p>
+   </td><td:B1>
+<p:BodyE><s:VR>R. </s>Hail, Mary, full of grace, the Lord is with thee: * The Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee: for the Holy which shall be born of thee shall be called the Son of God. <s:VR>V. </s>How shall this be done, because I know not man? And the Angel answering, said to her: <s:BoldR>T</s>he Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee: for the Holy which shall be born of thee shall be called the Son of God. </p>
+   </td></tr>
+   </table>
+
+  <p:BodySm/>
+   <table> <tr> <td:A1>
+      <p:BodyL><s:VR>V. </s>Jube, domne <sr>(vel</s> Dómine<sr>)</s> benedícere.</p>
+     </td> <td:B1>
+      <p:BodyE><s:VR>V. </s>Pray, sir <sr>(or</s> O Lord<sr>)</s> a blessing.</p>
+   </td> </tr> </table>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sr>Bened:</s> Per Vírginem Matrem concédat nobis Dóminus salútem et pacem.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Bened:</s> Through the Virgin Mother may the Lord grant us salvation and peace.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Amen.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Amen.</p>
+  </td></tr>
+</table>
+  <p:RubricHSm>Lectio (Lesson) iii<t>Luke 1:34-38</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>DIXIT autem María ad Ángelum: Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Ángelus dixit ei: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi. Ideóque et quod nascétur ex te Sanctum, vocábitur Fílius Dei. Et ecce Elísabeth cognáta tua, et ipsa concépit fílium in senectúte sua, et hic mensis sextus est illi, quæ vocátur stérilis; quia non erit impossíbile apud Deum omne verbum. Dixit autem María: Ecce ancílla Dómini: fiat mihi secúndum verbum tuum. Tu autem Dómine, miserére nobis.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>AND Mary said to the Angel: How shall this be done, because I know not man? And the Angel answering, said to her: The Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee. And therefore also the Holy which shall be born of thee shall be called the Son of God. And behold thy cousin Elizabeth, she also hath conceived a son in her old age, and this is the sixth month with her that is called barren; because no word shall be impossible with God. And Mary said: Behold the handmaid of the Lord; be it done to me according to thy word. But thou, O Lord, have mercy upon us.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+   <table>
+   <tr><td:A1>
+<p:BodyL><s:VR>R. </s>Ave, María, Grátia plena; Dóminus tecum: * Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur sanctum, vocábitur Fílius Dei. <s:VR>V. </s>Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Ángelus dixit ei. <s:BoldR>S</s>píritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur sanctum, vocábitur Fílius Dei. <s:VR>V. </s>Glória Patri. <s:BoldR>S</s>píritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur sanctum, vocábitur Fílius Dei. </p>
+   </td><td:B1>
+<p:BodyE><s:VR>R. </s>Hail, Mary, full of grace, the Lord is with thee: * The Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee: for the Holy which shall be born of thee shall be called the Son of God. <s:VR>V. </s>How shall this be done, because I know not man? And the Angel answering, said to her: <s:BoldR>T</s>he Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee: for the Holy which shall be born of thee shall be called the Son of God. <s:VR>V. </s>Glory be. <s:BoldR>T</s>he Holy Ghost shall come upon thee, and the power of the most High shall overshadow thee: for the Holy which shall be born of thee shall be called the Son of God. </p>
+   </td></tr>
+   </table>
+
+  <p:BodySm/>
+<text:h text:style-name="Hidden2" text:outline-level="2">Lauds</text:h>
+
+  <tableH><tr><td:A1>
+   <p:Head2>ad Laudes</p>
+   </td><td:B2>
+   <p:Head2>at Lauds</p>
+  </td></tr></table>
+<p:BodyLSm><s:VR>V. </s>Deus in adjutórium. Glória Patri. Allelúja, <sr>or</s> Laus tibi.</p>
+
+  <p:BodySm/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>I. Extra Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>I. From 3 Feb. until Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant 1.</s> Assúmpta est María in cælum: * gaudent Ángeli, laudántes benedícunt Dóminum.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 1.</s> Mary is taken up into heaven: * the Angels rejoice, and praising bless the Lord.</p>
+  </td></tr></table>
+
+  <p:P191/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 1.</s> Missus est * Gábriel Ángelus ad Maríam Vírginem desponsátam Joseph.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 1.</s> The Angel Gabriel * was sent to Mary, a Virgin espoused to Joseph.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>III. Post Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>III. From Christmas to 2 Feb.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 1.</s> O admirábile commércium: * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est: et procédens homo sine sémine, largítus est nobis suam Deitátem.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 1.</s> O admirable interchange! * The Creator of the human race, assuming a living body, deigns to be born of a Virgin: and becoming man, from no human generation, hath bestowed upon us his divinity.</p>
+  </td></tr></table>
+
+  <p:P191/>
+<p:Head2Ps>Ps 92. Dóminus regnávit</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>DÓMINUS regnávit, decórem indútus est: * indútus est Dóminus fortitúdinem, et præcínxit se.<t><text:line-break/><sb>É</s>tenim firmávit orbem terræ, * qui non commovébitur.</p>
+  </td><td:B1>
+  <p:BodyEDrop>THE Lord hath reigned, he is clothed with beauty: * the Lord is clothed with strength, and hath girded himself.<t><text:line-break/><sb>F</s>or he hath established the world * which shall not be moved.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>aráta sedes tua ex tunc: * a sǽculo tu es.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hy throne is prepared from of old: * thou art from everlasting.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>levavérunt flúmina, Dómine: * elevavérunt flúmina vocem suam.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he floods have lifted up, O Lord: * the floods have lifted up their voice.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>levavérunt flúmina fluctus suos, * a vócibus aquárum multárum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he floods have lifted up their waves, * with the noise of many waters.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>irábiles elatiónes maris: * mirábilis in altis Dóminus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>onderful are the surges of the sea: * wonderful is the Lord on high.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>T</s>estimónia tua credibília facta sunt nimis: * domum tuam decet sanctitúdo, Dómine, in longitúdinem diérum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hy testimonies are become exceedingly credible: * holiness becometh thy house, O Lord, unto length of days.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>I. Extra Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>I. From 3 Feb. until Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Assúmpta est María in cælum: gaudent Ángeli, laudántes benedícunt Dóminum.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Mary is taken up into heaven: the Angels rejoice, and praising bless the Lord.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 2.</s> María Virgo assúmpta est * ad æthéreum thálamum, in quo Rex regum stelláto sedet sólio.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 2.</s> The Virgin Mary is taken up * into the heavenly dwelling, where the King of kings sits on his starry throne.</p>
+  </td></tr></table>
+
+  <p:P191/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Missus est Gábriel Ángelus ad Maríam Vírginem desponsátam Joseph.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> The Angel Gabriel was sent to Mary, a Virgin espoused to Joseph.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 2.</s> Ave, María, * grátia plena; Dóminus tecum: benedícta tu in muliéribus <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 2.</s> Hail, Mary, * full of grace, the Lord is with thee: blessed art thou among women <sr>(</s>alleluia<sr>)</s>.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>III. Post Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>III. From Christmas to 2 Feb.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> O admirábile commércium: Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est: et procédens homo sine sémine, largítus est nobis suam Deitátem.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> O admirable interchange! The Creator of the human race, assuming a living body, deigns to be born of a Virgin: and becoming man, from no human generation, hath bestowed upon us his divinity.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 2.</s> Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 2.</s> When thou wast born * ineffably of the Virgin, the Scriptures were fulfilled: thou camest down as rain into the fleece, to save the children of men. We praise thee, O our God.</p>
+  </td></tr></table>
+
+  <p:P191/>
+<p:Head2Ps>Ps 99. Jubiláte</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>JUBILÁTE Deo, omnis terra: * servíte Dómino in lætítia.<t><text:line-break/><sb>I</s>ntroíte in conspéctu ejus, * in exsultatióne.</p>
+  </td><td:B1>
+  <p:BodyEDrop>SING joyfully to God, all the earth: * serve ye the Lord with gladness.<t><text:line-break/><sb>C</s>ome in before his presence * with exceeding great joy.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>citóte quóniam Dóminus ipse est Deus: * ipse fecit nos, et non ipsi nos.</p>
+  </td><td:B1>
+   <p:BodyE><sb>K</s>now ye that the Lord he is God: * he made us, and not we ourselves.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>ópulus ejus, et oves páscuæ ejus: * introíte portas ejus in confessióne, átria ejus in hymnis: confitémini illi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>W</s>e are his people and the sheep of his pasture. * Go ye into his gates with praise, into his courts with hymns: and give glory to him.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>audáte nomen ejus: quóniam suávis est Dóminus, in ætérnum misericórdia ejus, * et usque in generatiónem et generatiónem véritas ejus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>P</s>raise ye his name: for the Lord is sweet, his mercy endureth for ever, * and his truth to generation and generation.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>I. Extra Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>I. From 3 Feb. until Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> María Virgo assúmpta est ad æthéreum thálamum, in quo Rex regum stelláto sedet sólio.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> The Virgin Mary is taken up into the heavenly dwelling, where the King of kings sits on his starry throne.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 3.</s> In odórem * unguentórum tuórum cúrrimus: adolescéntulæ dilexérunt te nimis.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 3.</s> We run after thee * to the odour of thy ointments: young maidens have loved thee exceedingly.</p>
+  </td></tr></table>
+
+  <p:P191/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Ave, María, grátia plena; Dóminus tecum: benedícta tu in muliéribus <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> Hail, Mary, full of grace, the Lord is with thee: blessed art thou among women <sr>(</s>alleluia<sr>)</s>.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 3.</s> Ne tímeas, María, * invenísti grátiam apud Dóminum: ecce concípies et páries fílium <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 3.</s> Fear not, Mary, * thou hast found grace with the Lord; behold thou shalt conceive, and shalt bring forth a son <sr>(</s>alleluia<sr>)</s>.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>III. Post Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>III. From Christmas to 2 Feb.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Quando natus es ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> When thou wast born ineffably of the Virgin, the Scriptures were fulfilled: thou camest down as rain into the fleece, to save the children of men. We praise thee, O our God.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 3.</s> Rubum, quem víderat Móyses * incombústum, conservátam agnóvimus tuam laudábilem virginitátem: Dei Génitrix, intercéde pro nobis.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 3.</s> In the bush seen by Moses * as burning yet unconsumed, we recognise the preservation of thy glorious virginity. O Mother of God, intercede for us.</p>
+  </td></tr></table>
+
+  <p:P191/>
+<p:Head2Ps>Ps 62. Deus, Deus meus</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>DEUS, Deus meus, * ad te de luce vígilo.<t><text:line-break/><sb>S</s>itívit in te ánima mea, * quam multiplíciter tibi caro mea.</p>
+  </td><td:B1>
+  <p:BodyEDrop>O GOD, my God, * to thee do I watch at break of day.<t><text:line-break/><sb>F</s>or thee my soul hath thirsted; * for thee my flesh, O how many ways!</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>n terra desérta, et ínvia, et inaquósa: * sic in sancto appárui tibi, ut vidérem virtútem tuam, et glóriam tuam.</p>
+  </td><td:B1>
+   <p:BodyE><sb>I</s>n a desert land, and where there is no way, and no water: * so in the sanctuary have I come before thee, to see thy power and thy glory.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uóniam mélior est misericórdia tua super vitas: * lábia mea laudábunt te.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or thy mercy is better than lives: * thee my lips shall praise.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>ic benedícam te in vita mea: * et in nómine tuo levábo manus meas.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hus will I bless thee all my life long: * and in thy name I will lift up my hands.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>icut ádipe et pinguédine repleátur ánima mea: * et lábiis exsultatiónis laudábit os meum.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>et my soul be filled as with marrow and fatness: * and my mouth shall praise thee with joyful lips.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>i memor fui tui super stratum meum, in matutínis meditábor in te: * quia fuísti adjútor meus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>I</s>f I have remembered thee upon my bed, I will meditate on thee in the morning: * because thou hast been my helper.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t in velaménto alárum tuárum exsultábo, adhǽsit ánima mea post te: * me suscépit déxtera tua.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd I will rejoice under the covert of thy wings: my soul hath stuck close to thee: * thy right hand hath received me.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>psi vero in vanum quæsiérunt ánimam meam, introíbunt in inferióra terræ: * tradéntur in manus gládii, partes vúlpium erunt.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>ut they have sought my soul in vain, they shall go into the lower parts of the earth: * they shall be delivered into the hands of the sword, they shall be the portions of foxes.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>R</s>ex vero lætábitur in Deo, laudabúntur omnes qui jurant in eo: * quia obstrúctum est os loquéntium iníqua.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>ut the king shall rejoice in God, all they shall be praised that swear by him: * because the mouth is stopped of them that speak wicked things.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>I. Extra Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>I. From 3 Feb. until Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> In odórem unguentórum tuórum cúrrimus: adolescéntulæ dilexérunt te nimis.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> We run after thee to the odour of thy ointments: young maidens have loved thee exceedingly.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 4.</s> Benedícta * fília tu a Dómino: quia per te fructum vitæ communicávimus.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 4.</s> Daughter, * thou art blessed of the Lord: for by thee we have partaken of the fruit of life.</p>
+  </td></tr></table>
+
+  <p:P191/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Ne tímeas, María, invenísti grátiam apud Dóminum: ecce concípies et páries fílium <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> Fear not, Mary, thou hast found grace with the Lord; behold thou shalt conceive, and shalt bring forth a son <sr>(</s>alleluia<sr>)</s>.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 4.</s> Dabit ei Dóminus * sedem David, patris ejus, et regnábit in ætérnum.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 4.</s> And the Lord shall give unto him * the throne of David, his father, and he shall reign for ever.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>III. Post Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>III. From Christmas to 2 Feb.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Rubum, quem víderat Móyses incombústum, conservátam agnóvimus tuam laudábilem virginitátem: Dei Génitrix, intercéde pro nobis.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> In the bush seen by Moses as burning yet unconsumed, we recognise the preservation of thy glorious virginity. O Mother of God, intercede for us.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 4.</s> Germinávit radix Jesse, * orta est stella ex Jacob, Virgo péperit Salvatórem: te laudámus, Deus noster.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 4.</s> The root of Jesse hath budded; * the star hath risen out of Jacob; a Virgin hath brought forth the Saviour. We praise thee, O our God.</p>
+  </td></tr></table>
+
+  <p:P191/>
+<p:Head2Cant>Cant. Trium Puerorum (Dan. 3:57-88 &amp; 56)</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>BENEDÍCITE, ómnia ópera Dómini, Dómino: * laudáte et superexaltáte eum in sǽcula.<t><text:line-break/><sb>B</s>enedícite, Ángeli Dómini, Dómino: * benedícite, cæli, Dómino.</p>
+  </td><td:B1>
+  <p:BodyEDrop>ALL ye works of the Lord, bless the Lord: * praise and exalt him above all for ever.<t><text:line-break/><sb>O</s> ye angels of the Lord, bless the Lord: * O ye heavens, bless the Lord:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, aquæ omnes, quæ super cælos sunt, Dómino: * benedícite, omnes virtútes Dómini, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> all ye waters that are above the heavens, bless the Lord: * O all ye powers of the Lord, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, sol et luna, Dómino: * benedícite, stellæ cæli, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye sun and moon, bless the Lord: * O ye stars of heaven, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, omnis imber et ros, Dómino: * benedícite, omnes spíritus Dei, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> every shower and dew, bless ye the Lord: * O all ye spirits of God, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, ignis et æstus, Dómino: * benedícite, frigus et æstus, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye fire and heat, bless the Lord: * O ye cold and heat, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, rores et pruína, Dómino: * benedícite, gelu et frigus, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye dews and hoar frosts, bless the Lord: * O ye frost and cold, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, glácies et nives, Dómino: * benedícite, noctes et dies, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye ice and snow, bless the Lord: * O ye nights and days, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, lux et ténebræ, Dómino: * benedícite, fúlgura et nubes, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye light and darkness, bless the Lord: * O ye lightnings and clouds, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícat terra Dóminum: * laudet et superexáltet eum in sǽcula.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> let the earth bless the Lord: * let it praise and exalt him above all for ever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, montes et colles, Dómino: * benedícite, univérsa germinántia in terra, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye mountains and hills, bless the Lord: * O all ye things that spring up in the earth, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, fontes, Dómino: * benedícite, mária et flúmina, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye fountains, bless the Lord: * O ye seas and rivers, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, cete, et ómnia, quæ movéntur in aquis, Dómino: * benedícite, omnes vólucres cæli, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye whales, and all that move in the waters, bless the Lord: * O all ye fowls of the air, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, omnes béstiæ et pécora, Dómino: * benedícite, fílii hóminum, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> all ye beasts and cattle, bless the Lord: * O ye sons of men, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícat Israël Dóminum: * laudet et superexáltet eum in sǽcula.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> let Israel bless the Lord: * let them praise and exalt him above all for ever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, sacerdótes Dómini, Dómino: * benedícite, servi Dómini, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye priests of the Lord, bless the Lord: * O ye servants of the Lord, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, spíritus, et ánimæ justórum, Dómino: * benedícite, sancti, et húmiles corde, Dómino.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> ye spirits and souls of the just, bless the Lord: * O ye holy and humble of heart, bless the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedícite, Ananía, Azaría, Mísaël, Dómino: * laudáte et superexaltáte eum in sǽcula.</p>
+  </td><td:B1>
+   <p:BodyE><sb>O</s> Ananias, Azarias, and Misael, bless ye the Lord: * praise and exalt him above all for ever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>(Fit reveréntia:)</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>(All bow:)</s></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedicámus Patrem et Fílium cum Sancto Spíritu: * laudémus et superexaltémus eum in sǽcula.</p>
+  </td><td:B1>
+   <p:BodyE><sb>L</s>et us bless the Father and the Son, with the Holy Ghost; * let us praise and exalt him above all for ever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>enedíctus es, Dómine, in firmaménto cæli: * et laudábilis, et gloriósus, et superexaltátus in sǽcula.</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>lessed art thou, O Lord, in the firmament of heaven: * and worthy of praise, and glorious for ever.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sr>Hic non dicitur Glória Patri, neque Amen.</s></p>
+  </td><td:B1>
+   <p:BodyE><sr>Here is not said Amen or Glory be.</s></p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>I. Extra Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>I. From 3 Feb. until Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Benedícta fília tu a Dómino: quia per te fructum vitæ communicávimus.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Daughter, thou art blessed of the Lord: for by thee we have partaken of the fruit of life.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyL><sr>Ant 5.</s> Pulchra es * et decóra, fília Jerúsalem, terríbilis ut castrórum ácies ordináta.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant 5.</s> Thou art beautiful * and comely, O daughter of Jerusalem, terrible as an army set in array.</p>
+  </td></tr></table>
+
+  <p:P191/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Dabit ei Dóminus sedem David, patris ejus, et regnábit in ætérnum.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> And the Lord shall give unto him the throne of David, his father, and he shall reign for ever.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 5.</s> Ecce ancílla Dómini: * fiat mihi secúndum verbum tuum.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 5.</s> Behold the handmaid of the Lord: * be it done to me according to thy word.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>III. Post Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>III. From Christmas to 2 Feb.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Germinávit radix Jesse, orta est stella ex Jacob, Virgo péperit Salvatórem: te laudámus, Deus noster.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> The root of Jesse hath budded; the star hath risen out of Jacob; a Virgin hath brought forth the Saviour. We praise thee, O our God.</p>
+  </td></tr>  <tr><td:A1>
+   <p:BodyLSm><sr>Ant 5.</s> Ecce María génuit * nobis Salvatórem, quem Joánnes videns exclamávit, dicens: Ecce Agnus Dei, ecce qui tollit peccáta mundi <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant 5.</s> Behold, Mary hath brought forth * unto us the Saviour, whom, when John saw, he cried out: Behold the Lamb of God, behold him who takes away the sins of the world. <sr>(</s>alleluia<sr>)</s>.</p>
+  </td></tr></table>
+
+  <p:P191/>
+<p:Head2Ps>Ps 148. Laudáte Dóminum</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>LAUDÁTE Dóminum de cælis: * laudáte eum in excélsis.<t><text:line-break/><sb>L</s>audáte eum, omnes Ángeli ejus: * laudáte eum, omnes virtútes ejus.</p>
+  </td><td:B1>
+  <p:BodyEDrop>PRAISE ye the Lord from the heavens: * praise ye him in the high places.<t><text:line-break/><sb>P</s>raise ye him, all his angels: * praise ye him, all his hosts.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>audáte eum, sol et luna: * laudáte eum, omnes stellæ et lumen.</p>
+  </td><td:B1>
+   <p:BodyE><sb>P</s>raise ye him, O sun and moon: * praise him, all ye stars and light.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>audáte eum, cæli cælórum: * et aquæ omnes, quæ super cælos sunt, laudent nomen Dómini.</p>
+  </td><td:B1>
+   <p:BodyE><sb>P</s>raise him, ye heavens of heavens: * and let all the waters that are above the heavens, praise the name of the Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>Q</s>uia ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt.</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>or he spoke, and they were made: * he commanded, and they were created.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>tátuit ea in ætérnum, et in sǽculum sǽculi: * præcéptum pósuit, et non præteríbit.</p>
+  </td><td:B1>
+   <p:BodyE><sb>H</s>e hath established them for ever, and for ages of ages: * he hath made a decree, and it shall not pass away.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>L</s>audáte Dóminum de terra, * dracónes, et omnes abýssi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>P</s>raise the Lord from the earth, * ye dragons, and all ye deeps:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>gnis, grando, nix, glácies, spíritus procellárum: * quæ fáciunt verbum ejus:</p>
+  </td><td:B1>
+   <p:BodyE><sb>F</s>ire, hail, snow, ice, stormy winds * which fulfill his word:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>M</s>ontes, et omnes colles: * ligna fructífera, et omnes cedri.</p>
+  </td><td:B1>
+   <p:BodyE><sb>M</s>ountains and all hills, * fruitful trees and all cedars:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>B</s>éstiæ, et univérsa pécora: * serpéntes, et vólucres pennátæ:</p>
+  </td><td:B1>
+   <p:BodyE><sb>B</s>easts and all cattle: * serpents and feathered fowls:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>R</s>eges terræ, et omnes pópuli: * príncipes, et omnes júdices terræ.</p>
+  </td><td:B1>
+   <p:BodyE><sb>K</s>ings of the earth and all people: * princes and all judges of the earth:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>úvenes, et vírgines: senes cum junióribus laudent nomen Dómini: * quia exaltátum est nomen ejus solíus.</p>
+  </td><td:B1>
+   <p:BodyE><sb>Y</s>oung men and maidens: let the old with the younger, praise the name of the Lord: * For his name alone is exalted.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>C</s>onféssio ejus super cælum et terram: * et exaltávit cornu pópuli sui.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he praise of him is above heaven and earth: * and he hath exalted the horn of his people.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>H</s>ymnus ómnibus sanctis ejus: * fíliis Israël, pópulo appropinquánti sibi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s> hymn to all his saints: * to the children of Israel, a people approaching to him.</p>
+  </td></tr>
+</table>
+
+  <p:Spacer/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>I. Extra Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>I. From 3 Feb. until Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Pulchra es et decóra, fília Jerúsalem, terríbilis ut castrórum ácies ordináta.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> Thou art beautiful and comely, O daughter of Jerusalem, terrible as an army set in array.</p>
+  </td></tr></table>
+
+  <p:P191/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>II. In Adventu.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>II. In Advent.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Ecce ancílla Dómini: fiat mihi secúndum verbum tuum.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> Behold the handmaid of the Lord: be it done to me according to thy word.</p>
+  </td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr>III. Post Adventum.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr>III. From Christmas to 2 Feb.</s></p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Ecce María génuit nobis Salvatórem, quem Joánnes videns exclamávit, dicens: Ecce Agnus Dei, ecce qui tollit peccáta mundi <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> Behold, Mary hath brought forth unto us the Saviour, whom, when John saw, he cried out: Behold the Lamb of God, behold him who takes away the sins of the world. <sr>(</s>alleluia<sr>)</s>.</p>
+  </td></tr></table>
+
+  <p:P191/>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>I,III. Extra et Post Adventum.</p>
+   </td><td:B2>
+   <p:Head4>I,III. From Christmas until Advent.</p>
+  </td></tr></table>
+  <p:RubricHSm>Capit. (Little Chapt.)<t>Cant. 6:8</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>VIDÉRUNT eam fíliæ Sion, et beatíssimam prædicavérunt, et regínæ laudavérunt eam.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>THE daughters of Sion saw her, and declared her most blessed: and queens praised her.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>II. In Adventu.</p>
+   </td><td:B2>
+   <p:Head4>II. In Advent.</p>
+  </td></tr></table>
+  <p:RubricHSm>Capit. (Little Chapt.)<t>Is. 11:1-2</p>
+  <table> <tr> <td:A1>
+   <p:BodyLDrop>EGREDIÉTUR virga de radíce Jesse, et flos de radíce ejus ascéndet. Et requiéscet super eum Spíritus Dómini.<t> <s:VR>R. </s>Deo grátias.</p>
+  </td> <td:B1>
+   <p:BodyEDrop>THERE shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root, and the Spirit of the Lord shall rest upon him.<t> <s:VR>R. </s>Thanks be to God.</p>
+  </td> </tr> </table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>Hymnus</p>
+   </td><td:B2>
+   <p:Head4>Hymn</p>
+  </td></tr></table>
+		   <table>
+		<tr><td:A1>
+		<p:HymnL1><s:HymnR>O</s> gloriósa vírginum,</p>
+						<p:HymnL>Sublímis inter sídera,</p>
+						<p:HymnL>Qui te creávit, párvulum</p>
+						<p:HymnL>Lacténte nutris úbere.</p>
+						</td><td:B1><p:HymnE1><s:HymnR>O</s> Queen of all the Virgin choir!</p>
+						<p:HymnE>Enthroned above the starry sky!</p>
+						<p:HymnE>Who with thy bosom’s milk didst feed</p>
+						<p:HymnE>Thy own Creator Lord most high.</p>
+						</td></tr>		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<tr><td:A1>
+		<p:HymnL><s:HymnR>Q</s>uod Heva tristis ábstulit,</p>
+						<p:HymnL>Tu reddis almo gérmine:</p>
+						<p:HymnL>Intrent ut astra flébiles,</p>
+						<p:HymnL>Cæli reclúdis cárdines.</p>
+						</td><td:B1><p:HymnE><s:HymnR>W</s>hat man had lost in hapless Eve,</p>
+						<p:HymnE>Thy sacred womb to man restores;</p>
+						<p:HymnE>Thou to the wretched here beneath</p>
+						<p:HymnE>Hast open’d Heaven’s eternal doors.</p>
+						</td></tr>		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<tr><td:A1>
+		<p:HymnL><s:HymnR>T</s>u Regis alti jánua</p>
+						<p:HymnL>Et aula lucis fúlgida:</p>
+						<p:HymnL>Vitam datam per Vírginem,</p>
+						<p:HymnL>Gentes redémptæ, pláudite.</p>
+						</td><td:B1><p:HymnE><s:HymnR>H</s>ail, O refulgent Hall of light!</p>
+						<p:HymnE>Hail, Gate august of Heaven’s high King!</p>
+						<p:HymnE>Through Thee redeem’d to endless life,</p>
+						<p:HymnE>Thy praise let all the nations sing.</p>
+						</td></tr>		    <tr>
+		     <td:A1>
+		      <p:HymnS/>
+		     </td>
+		     <td:B1>
+		      <p:HymnS/>
+		     </td>
+		    </tr>
+		<tr><td:A1>
+		<p:HymnL><s:HymnR>J</s>esu tibi sit glória,</p>
+						<p:HymnL>Qui natus es de Vírgine,</p>
+						<p:HymnL>Cum Patre, et almo Spíritu,</p>
+						<p:HymnL>In sempitérna sǽcula. Amen.</p>
+						</td><td:B1><p:HymnE><s:HymnR>O</s> Jesu! born of Virgin bright,</p>
+						<p:HymnE>Immortal glory be to Thee;</p>
+						<p:HymnE>Praise to the Father infinite,</p>
+						<p:HymnE>And Holy Ghost eternally. Amen.</p>
+						</td></tr>	</table><p:BodySm><sr>Auth. Venantius Fortunatus<t>Trans. Fr. E.Caswall</s></p>   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Benedícta tu in muliéribus. <s:VR>R. </s>Et benedíctus fructus ventris tui.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>Blessed art thou among women. <s:VR>R. </s>And blessed is the fruit of thy womb.</p>
+   </td></tr>
+   </table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>I. Extra Adventum.</p>
+   </td><td:B2>
+   <p:Head4>I. From 3 Feb. until Advent.</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ad Bened.Ant.</s> Beáta Dei Génitrix, María, * Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Benedictus Ant.</s> O blessed Mary, * Mother of God, ever Virgin, temple of the Lord, sanctuary of the Holy Ghost, thou alone without previous example hast been pleasing to our Lord Jesus Christ; pray for the people, mediate for the clergy, intercede for all women vowed to God.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>Tempore paschali</p>
+   </td><td:B2>
+   <p:Head4>Easter Season</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ad Bened.Ant.</s> Regína cæli,* lætáre, allelúja; quia quem meruísti portáre, allelúja; resurréxit, sicut dixit, allelúja: ora pro nobis Deum, allelúja.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Benedictus Ant.</s> Queen of heaven, * rejoice, alleluia, for he whom thou didst merit to bear, alleluia, hath risen as he said, alleluia: pray for us to God, alleluia.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>II. In Adventu.</p>
+   </td><td:B2>
+   <p:Head4>II. In Advent.</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ad Bened.Ant.</s> Spíritus Sanctus * in te descéndet, María: ne tímeas, habébis in útero Fílium Dei <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Benedictus Ant.</s> The Holy Ghost * shall come upon thee, O Mary: fear not, thou shalt hold within thy womb the Son of God <sr>(</s>allelúja<sr>)</s>.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>III. Post Adventum.</p>
+   </td><td:B2>
+   <p:Head4>III. From Christmas to 2 Feb.</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ad Bened.Ant.</s> Mirábile mystérium * declarátur hódie: innovántur natúræ, Deus homo factus est: id quod fuit permánsit, et quod non erat assúmpsit non commixtiónem passus, neque divisiónem.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Benedictus Ant.</s> An admirable mystery * is this day revealed: the two natures are united in a new way, God is made man. He remained what he was, and he assumed what he was not, suffering neither confusion nor division.</p>
+  </td></tr></table>
+<p:Head2Cant>Cant. Zachariæ (Luke 1:68-79)</p>
+<table>
+
+  <tr><td:A1>
+  <p:BodyLDrop>BENEDÍCTUS † Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:<t><text:line-break/><sb>E</s>t eréxit cornu salútis nobis: * in domo David, púeri sui.</p>
+  </td><td:B1>
+  <p:BodyEDrop>BLESSED † be the Lord God of Israel; * because he hath visited and wrought the redemption of his people:<t><text:line-break/><sb>A</s>nd hath raised up an horn of salvation to us, * in the house of David his servant:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>icut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>s he spoke by the mouth of his holy Prophets, * who are from the beginning:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>S</s>alútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos.</p>
+  </td><td:B1>
+   <p:BodyE><sb>S</s>alvation from our enemies, * and from the hand of all that hate us:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>d faciéndam misericórdiam cum pátribus nostris: * et memorári testaménti sui sancti.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>o perform mercy to our fathers, * and to remember his holy testament,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>J</s>usjurándum, quod jurávit ad Ábraham patrem nostrum, * datúrum se nobis:</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>he oath, which he swore to Abraham our father, * that he would grant to us,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>U</s>t sine timóre, de manu inimicórum nostrórum liberáti, * serviámus illi.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hat being delivered from the hand of our enemies, * we may serve him without fear,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>n sanctitáte, et justítia coram ipso, * ómnibus diébus nostris.</p>
+  </td><td:B1>
+   <p:BodyE><sb>I</s>n holiness and justice before him, * all our days.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>E</s>t tu, puer, Prophéta Altíssimi vocáberis: * præíbis enim ante fáciem Dómini, paráre vias ejus:</p>
+  </td><td:B1>
+   <p:BodyE><sb>A</s>nd thou, child, shalt be called the prophet of the Highest: * for thou shalt go before the face of the Lord to prepare his ways:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>A</s>d dandam sciéntiam salútis plebi ejus: * in remissiónem peccatórum eórum:</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>o give knowledge of salvation to his people, * unto the remission of their sins:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>P</s>er víscera misericórdiæ Dei nostri: * in quibus visitávit nos, óriens ex alto:</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>hrough the bowels of the mercy of our God, * in which the Orient from on high hath visited us:</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><sb>I</s>llumináre his, qui in ténebris, et in umbra mortis sedent: * ad dirigéndos pedes nostros in viam pacis.</p>
+  </td><td:B1>
+   <p:BodyE><sb>T</s>o enlighten them that sit in darkness, and in the shadow of death: * to direct our feet into the way of peace.</p>
+  </td></tr>
+</table>
+<table>
+  <tr><td:A1>
+   <p:BodyL><sb>G</s>lória Patri, <sr>&amp;c</s>.</p>
+  </td><td:B1>
+   <p:BodyE><sb>G</s>lory be, <sr>etc</s>.</p>
+  </td></tr>
+</table>
+
+  <p:BodySm/>
+
+  <tableH><tr><td:A1>
+   <p:Head4>I. Extra Adventum.</p>
+   </td><td:B2>
+   <p:Head4>I. From 3 Feb. until Advent.</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyL><sr>Ant.</s> Beáta Dei Génitrix, María, Virgo perpétua, templum Dómini, sacrárium Spíritus Sancti, sola sine exémplo placuísti Dómino nostro Jesu Christo: ora pro pópulo, intérveni pro clero, intercéde pro devóto femíneo sexu.</p>
+  </td><td:B1>
+   <p:BodyE><sr>Ant.</s> O blessed Mary, Mother of God, ever Virgin, temple of the Lord, sanctuary of the Holy Ghost, thou alone without previous example hast been pleasing to our Lord Jesus Christ; pray for the people, mediate for the clergy, intercede for all women vowed to God.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>Tempore paschali</p>
+   </td><td:B2>
+   <p:Head4>Easter Season</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Regína cæli, lætáre, allelúja; quia quem meruísti portáre, allelúja; resurréxit, sicut dixit, allelúja: ora pro nobis Deum, allelúja.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> Queen of heaven, rejoice, alleluia, for he whom thou didst merit to bear, alleluia, hath risen as he said, alleluia: pray for us to God, alleluia.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>II. In Adventu.</p>
+   </td><td:B2>
+   <p:Head4>II. In Advent.</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Spíritus Sanctus in te descéndet, María: ne tímeas, habébis in útero Fílium Dei <sr>(</s>allelúja<sr>)</s>.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> The Holy Ghost shall come upon thee, O Mary: fear not, thou shalt hold within thy womb the Son of God <sr>(</s>allelúja<sr>)</s>.</p>
+  </td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>III. Post Adventum.</p>
+   </td><td:B2>
+   <p:Head4>III. From Christmas to 2 Feb.</p>
+  </td></tr></table>
+   <table>
+  <tr><td:A1>
+   <p:BodyLSm><sr>Ant.</s> Mirábile mystérium declarátur hódie: innovántur natúræ, Deus homo factus est: id quod fuit permánsit, et quod non erat assúmpsit non commixtiónem passus, neque divisiónem.</p>
+  </td><td:B1>
+   <p:BodyESm><sr>Ant.</s> An admirable mystery is this day revealed: the two natures are united in a new way, God is made man. He remained what he was, and he assumed what he was not, suffering neither confusion nor division.</p>
+  </td></tr></table>
+
+  <p:BodySm/>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyL><sr>In recitatione in choro vel in communi:</s></p>
+   </td><td:B1>
+   <p:BodyE><sr>In recitation in choir or in common:</s></p>
+  </td></tr></table>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Dóminus vobíscum. <s:VR>R. </s>Et cum spíritu tuo.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>The Lord be with you. <s:VR>R. </s>And with thy spirit.</p>
+   </td></tr>
+   </table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyL><sr>In recitatione a solo facta, et ab iis qui in ordine diaconatus non sunt constituti:</s></p>
+   </td><td:B1>
+   <p:BodyE><sr>In recitation by one alone, and by those who have not been ordained Deacons:</s></p>
+  </td></tr></table>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Dómine, exáudi oratiónem meam. <s:VR>R. </s>Et clamor meus ad te véniat.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>O Lord, hear my prayer. <s:VR>R. </s>And let my cry come unto thee.</p>
+   </td></tr>
+   </table>
+  <table> <tr> <td:A1>
+   <p:BodyLIndent>Orémus.</p>
+  </td> <td:B1>
+   <p:BodyEIndent>Let us pray.</p>
+  </td> </tr> </table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>I,II. Extra Adventum et In Adventu.</p>
+   </td><td:B2>
+   <p:Head4>I,II. From 3 Feb. until Christmas.</p>
+  </td></tr></table>
+<table><tr><td:A1>
+<p:BodyLDrop>DEUS, qui de beátæ Maríæ Vírginis útero Verbum tuum, Ángelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis: ut qui vere eam Genitrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur. Per eúmdem Dóminum.</p>
+</td><td:B1>
+<p:BodyEDrop>O GOD, who wast pleased that thy Word, at the message of an Angel, should take flesh in the womb of the blessed Virgin Mary; grant to us thy suppliants, that we who believe her to be truly the Mother of God may be helped by her intercession with thee. Through the same.</p>
+</td></tr></table>
+
+  <tableH><tr><td:A1>
+   <p:Head4>III. Post Adventum.</p>
+   </td><td:B2>
+   <p:Head4>III. From Christmas to 2 Feb.</p>
+  </td></tr></table>
+<table><tr><td:A1>
+<p:BodyLDrop>DEUS, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit.</p>
+</td><td:B1>
+<p:BodyEDrop>O GOD, who by the fruitful virginity of blessed Mary, hast given to mankind the rewards of eternal salvation; grant, we beseech thee, that we may experience her intercession for us, by whom we received the Author of life, our Lord Jesus Christ, thy Son. Who liveth.</p>
+</td></tr></table>
+
+  <table>
+   <tr><td:A1>
+   <p:BodyLSm><sr><snr>Dómine exaudi</s> vel <snr>Dóminus vobíscum</s>, ut supra.</s></p>
+   </td><td:B1>
+   <p:BodyESm><sr><snr>Dómine exaudi</s> or <snr>Dóminus vobíscum</s>, as above.</s></p>
+  </td></tr></table>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Benedicámus Dómino. <s:VR>R. </s>Deo grátias.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>Let us bless the Lord. <s:VR>R. </s>Thanks be to God.</p>
+   </td></tr>
+   </table>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Fidélium ánimæ † per misericórdiam Dei requiéscant in pace. <s:VR>R. </s>Amen.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>May the souls † of the faithful departed through the mercy of God rest in peace. <s:VR>R. </s>Amen.</p>
+   </td></tr>
+   </table>
+
+  <p:P181/>
+  <text:p text:style-name="Head1">Litany of Loreto, of the Bl. Virgin Mary</p>
+  <text:p text:style-name="Head5">Litaniæ Laurentanæ B. Mariæ Virg.</p>
+<text:h text:style-name="Hidden2" text:outline-level="2">Litany B.V.M.</text:h>
+<table>
+<br />
+<b>Notice</b>:  Undefined offset:  2 in <b>E:\www\b\content\fn\first_word.php</b> on line <b>11</b><br />
+
+  <tr><td:A1>
+  <p:BodyLDrop>KÝRIE, eléison. <t><text:line-break/>Christe eléison.</p>
+  </td><td:B1>
+  <p:BodyEDrop>LORD, have mercy.<t><text:line-break/>Christ, have mercy.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Kýrie, eléison.</p>
+  </td><td:B1>
+   <p:BodyE>Lord, have mercy.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Christe, audi nos.</p>
+  </td><td:B1>
+   <p:BodyE>Christ, hear us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Christe, exáudi nos.</p>
+  </td><td:B1>
+   <p:BodyE>Christ, graciously hear us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Pater de cœlis, Deus,</p>
+  </td><td:B1>
+   <p:BodyE>God the Father of heaven,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Miserére nobis.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Have mercy on us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Fili, Redémptor mundi, Deus,</p>
+  </td><td:B1>
+   <p:BodyE>God the Son, Redeemer of the world,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Miserére nobis.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Have mercy on us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Spíritus Sancte, Deus,</p>
+  </td><td:B1>
+   <p:BodyE>God the Holy Ghost,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Miserére nobis.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Have mercy on us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><t></p>
+  </td><td:B1>
+   <p:BodyE><t></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Sancta María,</p>
+  </td><td:B1>
+   <p:BodyE>Holy Mary,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Ora pro nobis,</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Pray for us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Sancta Dei Génetrix,</p>
+  </td><td:B1>
+   <p:BodyE>Holy Mother of God,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Sancta Virgo vírginum,</p>
+  </td><td:B1>
+   <p:BodyE>Holy Virgin of virgins,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater Christi,</p>
+  </td><td:B1>
+   <p:BodyE>Mother of Christ,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater divínæ grátiæ,</p>
+  </td><td:B1>
+   <p:BodyE>Mother of divine grace,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater puríssima,</p>
+  </td><td:B1>
+   <p:BodyE>Mother most pure,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater castíssima,</p>
+  </td><td:B1>
+   <p:BodyE>Mother most chaste,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater invioláta,</p>
+  </td><td:B1>
+   <p:BodyE>Mother undefiled,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater intemeráta,</p>
+  </td><td:B1>
+   <p:BodyE>Mother inviolate,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater amábilis,</p>
+  </td><td:B1>
+   <p:BodyE>Mother most amiable,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater admirábilis,</p>
+  </td><td:B1>
+   <p:BodyE>Mother most admirable,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater boni Consílii,</p>
+  </td><td:B1>
+   <p:BodyE>Mother of good counsel,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater de perpétuo succúrsu,</p>
+  </td><td:B1>
+   <p:BodyE>Mother of perpetual succour,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater Creatóris,</p>
+  </td><td:B1>
+   <p:BodyE>Mother of our Creator,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Mater Salvatóris,</p>
+  </td><td:B1>
+   <p:BodyE>Mother of our Redeemer,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Virgo prudentíssima,</p>
+  </td><td:B1>
+   <p:BodyE>Virgin most prudent,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Virgo veneránda,</p>
+  </td><td:B1>
+   <p:BodyE>Virgin most venerable,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Virgo prædicánda,</p>
+  </td><td:B1>
+   <p:BodyE>Virgin most renowned,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Virgo potens,</p>
+  </td><td:B1>
+   <p:BodyE>Virgin most powerful,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Virgo clemens,</p>
+  </td><td:B1>
+   <p:BodyE>Virgin most merciful,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Virgo fidélis,</p>
+  </td><td:B1>
+   <p:BodyE>Virgin most faithful,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Spéculum justítiæ,</p>
+  </td><td:B1>
+   <p:BodyE>Mirror of justice,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Sedes sapiéntiæ,</p>
+  </td><td:B1>
+   <p:BodyE>Seat of wisdom,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Causa nostræ lætítiæ,</p>
+  </td><td:B1>
+   <p:BodyE>Cause of our joy,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Vas spirituále,</p>
+  </td><td:B1>
+   <p:BodyE>Spiritual vessel,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Vas honorábile,</p>
+  </td><td:B1>
+   <p:BodyE>Vessel of honour,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Vas insígne devotiónis,</p>
+  </td><td:B1>
+   <p:BodyE>Singular vessel of devotion,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Rosa mýstica,</p>
+  </td><td:B1>
+   <p:BodyE>Mystical rose,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Turris Davídica,</p>
+  </td><td:B1>
+   <p:BodyE>Tower of David,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Turris ebúrnea,</p>
+  </td><td:B1>
+   <p:BodyE>Tower of ivory,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Domus áurea,</p>
+  </td><td:B1>
+   <p:BodyE>House of gold,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Fœderis arca,</p>
+  </td><td:B1>
+   <p:BodyE>Ark of the covenant,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Jánua cœli,</p>
+  </td><td:B1>
+   <p:BodyE>Gate of heaven,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Stella matutína,</p>
+  </td><td:B1>
+   <p:BodyE>Morning star,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Salus infirmórum,</p>
+  </td><td:B1>
+   <p:BodyE>Health of the sick,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Refugium peccatórum,</p>
+  </td><td:B1>
+   <p:BodyE>Refuge of sinners,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Consolatrix afflictórum,</p>
+  </td><td:B1>
+   <p:BodyE>Comfortress of the afflicted,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Auxílium Christianórum,</p>
+  </td><td:B1>
+   <p:BodyE>Help of Christians,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Angelórum,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Angels,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Patriarchárum,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Patriarchs,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Prophetárum,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Prophets,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Apostolórum,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Apostles,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Mártyrum,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Martyrs,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Confessórum,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Confessors,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Vírginum,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Virgins,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína Sanctórum ómnium,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of all Saints,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína sine labe origináli concépta,</p>
+  </td><td:B1>
+   <p:BodyE>Queen conceived without original sin,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína in cœlum assúmpta,</p>
+  </td><td:B1>
+   <p:BodyE>Queen assumed into heaven,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína sacratíssimi Rosárii.</p>
+  </td><td:B1>
+   <p:BodyE>Queen of the most holy Rosary,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Regína pacis,</p>
+  </td><td:B1>
+   <p:BodyE>Queen of Peace,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><t></p>
+  </td><td:B1>
+   <p:BodyE><t></p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Agnus Dei, qui tollis peccáta mundi,</p>
+  </td><td:B1>
+   <p:BodyE>Lamb of God, Who takes away the sins of the world,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Parce nobis, Dómine.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Spare us O Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Agnus Dei, qui tollis peccáta mundi,</p>
+  </td><td:B1>
+   <p:BodyE>Lamb of God, Who takes away the sins of the world,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Exáudi nos, Dómine.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Graciously hear us, O Lord.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL>Agnus Dei, qui tollis peccáta mundi,</p>
+  </td><td:B1>
+   <p:BodyE>Lamb of God, Who takes away the sins of the world,</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><s:VR>R. </s>Miserére nobis.</p>
+  </td><td:B1>
+   <p:BodyE><s:VR>R. </s>Have mercy on us.</p>
+  </td></tr>
+  <tr><td:A1>
+   <p:BodyL><t></p>
+  </td><td:B1>
+   <p:BodyE><t></p>
+  </td></tr>
+</table>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Ora pro nobis, sancta Dei Génitrix. <s:VR>R. </s>Ut digni efficiámur promissiónibus Christi.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>Pray for us, O holy Mother of God. <s:VR>R. </s>That we may be made worthy of the promises of Christ.</p>
+   </td></tr>
+   </table>
+  <table> <tr> <td:A1>
+   <p:BodyLIndent>Orémus.</p>
+  </td> <td:B1>
+   <p:BodyEIndent>Let us pray.</p>
+  </td> </tr> </table>
+<table><tr><td:A1>
+<p:BodyLDrop>CONCÉDE nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: et, gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia. Per Christum Dóminum nostrum.</p>
+</td><td:B1>
+<p:BodyEDrop>GRANT, we beseech thee, O Lord God, that we thy servants may enjoy perpetual health of mind and body; and, by the glorious intercession of the blessed Mary, ever Virgin, may be delivered from present sorrow, and possess eternal joy. Through Christ our Lord.</p>
+</td></tr></table>
+
+  <p:BodySm/>
+<p:Head3><draw:frame text:anchor-type="as-char" svg:width="615" style:rel-width="33%" svg:height="57" style:rel-height="scale"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></p>
+
+  <p:BodySm/>
+  <text:p text:style-name="Head1">The Seven Dolours of the B.V.M.</p>
+  <text:p text:style-name="Head5">Septem Dolorum B. Mariæ Virg.</p>
+<text:h text:style-name="Hidden2" text:outline-level="2">7 Dolours of B.V.M.</text:h>
+<p:BodyEIndent>Dear Mother, hear my prayer</p>
+<p:BodyEIndent>That my cold heart may share</p>
+<p:BodyEIndent>Thy grief in Jesus' death.</p>
+<p:BodySm/>
+<p:RubricH>First Dolour:</p>
+<p:BodyEDrop>I PITY thee, O afflicted Mother, on account of the first sword of sorrow which pierced thee, when in the temple, all the outrages which men would inflict on thy beloved Jesus, were presented before thee by Saint Simeon, and which thou already knewest by the sacred Scriptures; outrages which were to cause Him to die before thine eyes, on an infamous cross, exhausted of His blood, abandoned by all, and thyself unable to defend or help Him. By that bitter knowledge then, which for so many years afflicted thy heart, I beseech thee, my Queen, to, obtain me the grace, that during my life, and at my death, I may ever keep the Passion of Jesus, and thy sorrows impressed on my heart.</p>
+<p:BodySm/>
+<p:BodyEIndent>Pater. Ave. <sr>(x7)</s> Glória. <sr>verse</s> Dear Mother... <sr>as above.</s></p>
+<p:BodyEIndent><sr>(Repeated after every dolour.)</s></p>
+<p:BodySm/>
+<p:RubricH>Second Dolour:</p>
+<p:BodyEDrop>I PITY thee, my afflicted Mother, for the second sword which pierced thee, when, soon after His birth, thou didst behold thy innocent Son threatened with death by those very men for whose salvation He had come into the world; so that in the darkness of night thou was obliged to fly secretly with Him into Egypt. By the many hardships then, which thou, a delicate young woman, in company with thine exiled child, didst endure in so long and fatiguing a journey through rough and desert countries, and during thy residence in Egypt, where, being unknown and a stranger, thou didst live for so many years, in poverty and contempt, I beseech thee, my beloved Lady, to obtain me grace to suffer with patience until death, in thy company, the trials of this miserable life, that I may thus in the next, escape the eternal punishments of hell which I have deserved.</p>
+<p:BodySm/>
+<p:RubricH>Third Dolour:</p>
+<p:BodyEDrop>I PITY thee, my sorrowful Mother, on account of the third sword which pierced thee in the loss of thy dear Son Jesus, who remained absent from thee in Jerusalem for three days: no longer seeing thy beloved by thy side, and not knowing the cause of His absence, I can well imagine, my loving Queen, that during those nights thou didst not repose, and didst only sigh for Him, who was all thy treasure. By the sighs then, of those three days, for thee too long and bitter, I beseech thee to obtain me the grace, that I may never lose my God; that so, always clinging to Him, I may leave the world united to Him.</p>
+<p:BodySm/>
+<p:RubricH>Fourth Dolour:</p>
+<p:BodyEDrop>I PITY thee, my sorrowful Mother, for the fourth sword which pierced thee, in seeing thy Son condemned to death, bound with cords and chains, covered with blood and wounds, crowned with a wreath of thorns, falling under the heavy weight of the cross which He carried on His wounded shoulders, going as an innocent Lamb to die for love of us. Thine eyes met His, and His met thine; and your glances were as so many cruel arrows which wounded your loving hearts. By this great sorrow then, I beseech thee to obtain me the grace to live in all things resigned to the will of my God, and to carry my cross cheerfully in company with Jesus, until my last breath.</p>
+<p:BodySm/>
+<p:RubricH>Fifth Dolour:</p>
+<p:BodyEDrop>I PITY thee, my afflicted Mother, for the fifth sword which pierced thee, when on Mount Calvary thou didst behold thy beloved Son Jesus slowly dying before thy eyes, amid so many torments and insults on that hard bed of the cross, where thou couldst not administer Him, even the least of those comforts which are granted to the greatest criminals, at the hour of death. I beseech thee, by the agony which thou, my most loving Mother, didst endure together with thy dying Son, and by the sadness which thou didst feel, when, for the last time, He spoke to thee from the cross and bade thee farewell, and left all of us, in the person of Saint John to thee, as thy children; by that constancy with which thou didst then see Him bow down his head and expire, I beseech thee to obtain me the grace, from thy crucified love, to live and die crucified to all earthly things, that I may spend my life for God alone, and thus one day enter paradise to enjoy Him face to face.</p>
+<p:BodySm/>
+<p:RubricH>Sixth Dolour:</p>
+<p:BodyEDrop>I PITY thee, my afflicted Mother, for the sixth sword which pierced thee, when thou didst see the sweet heart of thy Son pierced through and through. He was already dead, and had died for those ungrateful creatures, who, even after His death, were not satisfied with the torments they had inflicted upon Him. By this cruel sorrow then, which was all thine, I beseech thee to obtain me the grace to dwell in the heart of Jesus, wounded and opened for me; in that heart I say which is the beautiful abode of love, in which all souls who love God repose; and that living there, I may never think of or love anything but God. Most Sacred Virgin, thou canst obtain this for me, from thee do I hope for it.</p>
+<p:BodySm/>
+<p:RubricH>Seventh Dolour:</p>
+<p:BodyEDrop>I PITY thee, my afflicted Mother, for the seventh sword which pierced thee, on seeing thy Son in thy arms already dead, no longer fair and beautiful as thou didst receive Him in the stable of Bethlehem, but covered with blood, livid and all lacerated with wounds, so that even His bones were seen, thou didst then say, ‘My Son, my Son, to what has love reduced Thee!' And when He was borne to the sepulchre thou wouldst thyself accompany Him, and place Him with thy own hands in the tomb, and bidding Him thy last farewell, thou didst leave thy loving heart buried with thy Son. By this martyrdom of thy beautiful soul, do thou obtain me, O Mother of fair love, the forgiveness of the offences which I have committed against my beloved God, and of which I repent with my whole heart. Do thou defend me in temptations, do thou assist me at the moment of my death; that saving my soul through the merits of Jesus and thine, I may one day, after this miserable exile, go to paradise to sing the praises of Jesus, and of thee for all eternity.</p>
+<p:BodySm/>
+   <table>
+   <tr><td:A1>
+    <p:BodyL><s:VR>V. </s>Ora pro nobis, Virgo dolorosíssima. <s:VR>R. </s>Ut digni efficiámur promissiónibus Christi.</p>
+   </td><td:B1>
+    <p:BodyE><s:VR>V. </s>Pray for us, O Virgin most sorrowful. <s:VR>R. </s>That we may be made worthy of the promises of Christ.</p>
+   </td></tr>
+   </table>
+<table><tr><td:A1>
+<p:BodyLDrop>DEUS, in cujus passióne, secúndum Simeónis prophetíam, dulcíssimam ánimam gloriósæ Vírginis et Matris Maríæ dolóris gládius pertransívit: concéde propítius; ut, qui dolóres ejus venerándo recólimus, passiónis tuæ efféctum felícem consequámur: Qui vivis.</p>
+</td><td:B1>
+<p:BodyEDrop>O GOD, in whose Passion, according to the prophecy of Simeon, a sword of sorrow pierced the most sweet soul of the glorious Mary, Mother and Virgin; grant, in thy mercy, that we who contemplate her sorrows with veneration may obtain the blessed fruit of thy Passion. Who livest.</p>
+</td></tr></table>
+<p:Head3><draw:frame text:anchor-type="as-char" svg:width="615" style:rel-width="33%" svg:height="57" style:rel-height="scale"><draw:image xlink:href="../Images/separator4.tif" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></p>
+  </office:text>
+ </office:body>
+</office:document-content>

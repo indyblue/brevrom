@@ -39,4 +39,3 @@ Ascéndit ad cælos, sedet ad déxteram Dei Patris omnipoténtis: * inde ventúr
 Ad cujus advéntum omnes hómines resúrgere habent cum corpóribus suis; * et redditúri sunt de factis própriis ratiónem.
 Et qui bona egérunt, ibunt in vitam ætérnam: * qui vero mala, in ignem ætérnum.
 Hæc est fides cathólica, * quam nisi quisque fidéliter firmitérque credíderit, salvus esse non póterit.
-Glória Patri.
