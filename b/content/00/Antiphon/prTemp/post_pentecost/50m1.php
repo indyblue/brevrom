@@ -1,0 +1,1 @@
+Montes Gélboë, * nec ros nec plúvia véniant super vos: quia in te abjéctus est clýpeus fórtium, clýpeus Saul, quasi non esset unctus óleo. Quómodo cecidérunt fortes in bello? Jónathas in excélsis interféctus est: Saul et Jónathas, amábiles et decóri valde in vita sua, in morte quoque non sunt divísi.

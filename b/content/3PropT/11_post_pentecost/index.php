@@ -9,6 +9,8 @@
 	require '26_sacred_heart.php';
 	require '30.php';
 	require '40.php';
+	require '50.php';
+	require '60.php';
 	require 'zz_post_pentecost.php';
 
 ?>
