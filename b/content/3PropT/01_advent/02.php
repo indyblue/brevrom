@@ -59,7 +59,7 @@
 	feria(2);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',0,'L');
 	ant('PrTemp/advent/02/f2b.php','B');
-	rubp('Oratio <snr>Excita</s>, ut supra.','Prayer <snr>Show forth</s>, as above.');
+	rubp('Oratio <snr>Excita</s>, ut supra.','Prayer <snr>Stir up</s>, as above.');
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',0,'V');
 	ant('PrTemp/advent/02/f2m.php','M');
 	space();

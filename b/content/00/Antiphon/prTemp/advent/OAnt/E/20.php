@@ -1,0 +1,1 @@
+O Key of David, * and Sceptre of the house of Israel! who openest, and no man shutteth; who shuttest and no man openeth: come and lead the captive from the prison, sitting in darkness and in the shadow of death.
