@@ -1,7 +1,7 @@
     Const consonnes = "bcdfghjklmnpqrstvxz"
-    Const voyelles = "aÊeÎioÙuy·ÈÌÛ˙˝¡…ÀÕ”⁄›∆‘"
+    Const voyelles = "a√¶e√´io≈ìuy√°√©√≠√≥√∫√Ω√Å√â√ã√ç√ì√ö√ù√Ü≈í"
 	 Const ForReading = 1, ForAppending = 8
-'    Const Marque_Accent = " " ' marque l'accent placÈ dans le mot pour dÈboguer
+'    Const Marque_Accent = " " ' marque l'accent plac√© dans le mot pour d√©boguer
 
 	 Dim Mot_Courant, Paragraphe_Courant, resultat, curseur, Post_Suffixe, Suffixe, Consonnes_2, Voyelle_2, Consonnes_1, Voyelle_1, Radical, MoT 
 
@@ -51,80 +51,80 @@ fraw.close
             DoAccentuate = Mot_Courant
         End If
 '        Dim i 
-'		  i = DoAccentuate.IndexOf("·e")
+'		  i = DoAccentuate.IndexOf("√°e")
 '        If i >= 0 Then
-'            DoAccentuate = DoAccentuate.Substring(0, i) & "„" & DoAccentuate.Substring(i + 2)
+'            DoAccentuate = DoAccentuate.Substring(0, i) & "«Ω" & DoAccentuate.Substring(i + 2)
 '        End If
     End Function
 
-	     Sub AntePenultieme() 'aÊeioÙuy·ÈÌÛ˙˝¡…Õ”⁄›∆‘
+	     Sub AntePenultieme() 'a√¶eio≈ìuy√°√©√≠√≥√∫√Ω√Å√â√ç√ì√ö√ù√Ü≈í
         If Voyelle_1 = "a" Then
-            Voyelle_1 = "·"
+            Voyelle_1 = "√°"
         ElseIf Voyelle_1 = "A" Then
-            Voyelle_1 = "¡"
-        ElseIf Voyelle_1 = "Ê" Then
-            Voyelle_1 = "„"
+            Voyelle_1 = "√Å"
+        ElseIf Voyelle_1 = "√¶" Then
+            Voyelle_1 = "«Ω"
         ElseIf Voyelle_1 = "ae" Then
-            Voyelle_1 = "„"
-        ElseIf Voyelle_1 = "∆" Then
-            Voyelle_1 = "√"
+            Voyelle_1 = "«Ω"
+        ElseIf Voyelle_1 = "√Ü" Then
+            Voyelle_1 = "«º"
         ElseIf Voyelle_1 = "Ae" Then
-            Voyelle_1 = "√"
+            Voyelle_1 = "«º"
         ElseIf Voyelle_1 = "au" Then
-            Voyelle_1 = "·u"
+            Voyelle_1 = "√°u"
         ElseIf Voyelle_1 = "Au" Then
-            Voyelle_1 = "¡u"
+            Voyelle_1 = "√Åu"
         ElseIf Voyelle_1 = "E" Then
-            Voyelle_1 = "…"
+            Voyelle_1 = "√â"
         ElseIf Voyelle_1 = "e" Then
-            Voyelle_1 = "È"
+            Voyelle_1 = "√©"
         ElseIf Voyelle_1 = "i" Then
-            Voyelle_1 = "Ì"
+            Voyelle_1 = "√≠"
         ElseIf Voyelle_1 = "I" Then
-            Voyelle_1 = "Õ"
+            Voyelle_1 = "√ç"
         ElseIf Voyelle_1 = "o" Then
-            Voyelle_1 = "Û"
+            Voyelle_1 = "√≥"
         ElseIf Voyelle_1 = "O" Then
-            Voyelle_1 = "”"
+            Voyelle_1 = "√ì"
         ElseIf Voyelle_1 = "oe" Then
-            Voyelle_1 = "Ù"
-        ElseIf Voyelle_1 = "‘" Then
-            Voyelle_1 = "’"
-        ElseIf Voyelle_1 = "Ù" Then
-            Voyelle_1 = "Ù"
+            Voyelle_1 = "√≥e"
+        ElseIf Voyelle_1 = "≈í" Then
+            Voyelle_1 = "√ìe"
+        ElseIf Voyelle_1 = "≈ì" Then
+            Voyelle_1 = "√≥e"
         ElseIf Voyelle_1 = "u" Then
-            Voyelle_1 = "˙"
+            Voyelle_1 = "√∫"
         ElseIf Voyelle_1 = "U" Then
-            Voyelle_1 = "⁄"
+            Voyelle_1 = "√ö"
         ElseIf Voyelle_1 = "y" Then
-            Voyelle_1 = "˝"
+            Voyelle_1 = "√Ω"
         End If
         Voyelle_1 = Marque_Accent & Voyelle_1
     End Sub
 
-    Sub Penultieme() 'aÊeioÙuy·ÈÌÛ˙˝
+    Sub Penultieme() 'a√¶eio≈ìuy√°√©√≠√≥√∫√Ω
         If Voyelle_2 = "a" Then
-            Voyelle_2 = "·"
+            Voyelle_2 = "√°"
         ElseIf Voyelle_2 = "ae" Then
-            Voyelle_2 = "„"
-        ElseIf Voyelle_2 = "Ê" Then
-            Voyelle_2 = "„"
+            Voyelle_2 = "«Ω"
+        ElseIf Voyelle_2 = "√¶" Then
+            Voyelle_2 = "«Ω"
         ElseIf Voyelle_2 = "au" Then
-            Voyelle_2 = "·u"
-        ElseIf (Voyelle_2 = "e") Then 'Or (Voyelle_2 = "Î") Then
-            Voyelle_2 = "È"
+            Voyelle_2 = "√°u"
+        ElseIf (Voyelle_2 = "e") Then 'Or (Voyelle_2 = "√´") Then
+            Voyelle_2 = "√©"
         ElseIf Voyelle_2 = "i" Then
-            Voyelle_2 = "Ì"
+            Voyelle_2 = "√≠"
         ElseIf Voyelle_2 = "o" Then
-            Voyelle_2 = "Û"
-        ElseIf (Voyelle_2 = "Ù") Or (Voyelle_2 = "oe") Then
-            Voyelle_2 = "Ù"
+            Voyelle_2 = "√≥"
+        ElseIf (Voyelle_2 = "≈ì") Or (Voyelle_2 = "oe") Then
+            Voyelle_2 = "√≥e"
         ElseIf Voyelle_2 = "u" Then
-            Voyelle_2 = "˙"
+            Voyelle_2 = "√∫"
         ElseIf Voyelle_2 = "au" Then
-            Voyelle_2 = "a˙"
+            Voyelle_2 = "a√∫"
         ElseIf Voyelle_2 = "y" Then
-            Voyelle_2 = "˝"
+            Voyelle_2 = "√Ω"
         End If
         Voyelle_2 = Marque_Accent & Voyelle_2
     End Sub
@@ -133,7 +133,7 @@ fraw.close
         Suffixe = Suffixe & "(??)"
     End Sub
     Sub Cas_General()
-        ' RepÈrage des accentuation basÈes sur une rËgle Generale
+        ' Rep√©rage des accentuation bas√©es sur une r√®gle Generale
         '    Radical = "[]" + Radical
         '    Suffixe = Suffixe + "()"
     End Sub
@@ -149,19 +149,19 @@ fraw.close
         Radical = ""
         Radical = ""
         curseur = Len(Mot_Courant)
-        ' sortie des caractËres non lettre (blancs, virgules,...)
+        ' sortie des caract√®res non lettre (blancs, virgules,...)
         do While InStr(1, consonnes & voyelles, Mid(Mot_Courant, curseur, 1), 1) = 0
             Post_Suffixe = Mid(Mot_Courant, curseur, 1) & Post_Suffixe
             curseur = curseur - 1
             If curseur = 0 Then Exit Sub
 			loop
         '   identification du suffixe
-        '   consonnes finales Èventuelles
+        '   consonnes finales √©ventuelles
         'UPGRADE_WARNING: Couldn't resolve default property of object decouper_consonnes. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         Suffixe = decouper_consonnes()
         Suffixe = decouper_voyelle() + Suffixe
         ' cas particulier type -aus qui doit s'analyser comme -a-us en final :
-        ' il faut rÈgurgiter un caractËre pour reprendre la lecture correctement.
+        ' il faut r√©gurgiter un caract√®re pour reprendre la lecture correctement.
         If Left(Suffixe, 2) = "au" Then
             Suffixe = Right(Suffixe, Len(Suffixe) - 1)
             curseur = curseur + 1
@@ -200,7 +200,7 @@ fraw.close
             'UPGRADE_WARNING: Couldn't resolve default property of object decouper_voyelle. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
             decouper_voyelle = ""
             Exit Function
-        ElseIf curseur > 1 Then  ' test de voyelles composÈes : au, ae, oe (pas Î ! )
+        ElseIf curseur > 1 Then  ' test de voyelles compos√©es : au, ae, oe (pas √´ ! )
             'UPGRADE_WARNING: Couldn't resolve default property of object Voyelle_Composee. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
             Voyelle_Composee = Mid(Mot_Courant, curseur - 1, 2)
             'UPGRADE_WARNING: Couldn't resolve default property of object TheTest. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
@@ -211,10 +211,10 @@ fraw.close
                 'UPGRADE_WARNING: Couldn't resolve default property of object decouper_voyelle. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
                 decouper_voyelle = Voyelle_Composee
                 curseur = curseur - 2
-                Exit Function 'trouvÈ - terminÈ
+                Exit Function 'trouv√© - termin√©
             End If
         End If
-        '   Cas General : pas de voyelle double, on prend la derniËre lettre
+        '   Cas General : pas de voyelle double, on prend la derni√®re lettre
         decouper_voyelle = Mid(Mot_Courant, curseur, 1)
         curseur = curseur - 1
     End Function
@@ -230,7 +230,7 @@ fraw.close
                 resultat = doublon
                 curseur = curseur - 2
             End If
-            If curseur >= 4 Then ' problËme particulier du "argu-"
+            If curseur >= 4 Then ' probl√®me particulier du "argu-"
                 'UPGRADE_WARNING: Couldn't resolve default property of object doublon. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
                 If (doublon = "gu") And (LCase(Mid(Mot_Courant, curseur - 3, 4)) <> "argu") Then
                     'UPGRADE_WARNING: Couldn't resolve default property of object doublon. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
@@ -288,20 +288,20 @@ fraw.close
         End If
     End Function
 
-    Sub Accentuer_mot_courant() 'aÊeÎioÙuy·ÈÌÛ˙˝¡…ÀÕ”⁄›∆‘
-        ' construction et nettoyage du "mot" examinÈ
+    Sub Accentuer_mot_courant() 'a√¶e√´io≈ìuy√°√©√≠√≥√∫√Ω√Å√â√ã√ç√ì√ö√ù√Ü≈í
+        ' construction et nettoyage du "mot" examin√©
         MoT = LCase(Radical & Voyelle_1 & Consonnes_1 & Voyelle_2)
-        If (InStr(1, MoT, "Ê") <> 0) Then
-            MoT = Left(MoT, InStr(1, MoT, "Ê") - 1) & "ae" & Right(MoT, Len(MoT) - InStr(1, MoT, "Ê"))
-        ElseIf (InStr(1, MoT, "Ù") <> 0) Then
-            MoT = Left(MoT, InStr(1, MoT, "Ù") - 1) & "oe" & Right(MoT, Len(MoT) - InStr(1, MoT, "Ê"))
+        If (InStr(1, MoT, "√¶") <> 0) Then
+            MoT = Left(MoT, InStr(1, MoT, "√¶") - 1) & "ae" & Right(MoT, Len(MoT) - InStr(1, MoT, "√¶"))
+        ElseIf (InStr(1, MoT, "≈ì") <> 0) Then
+            MoT = Left(MoT, InStr(1, MoT, "≈ì") - 1) & "oe" & Right(MoT, Len(MoT) - InStr(1, MoT, "√¶"))
         End If
         '
         '   aiguillage principal
         '
         If Suffixe = "que" Then ' cas particulier du "-que" final
             type_Que()
-        ElseIf (Voyelle_2 = "Ê") Or (Voyelle_2 = "Ù") Or (Voyelle_2 = "∆") Or (Voyelle_2 = "‘") Or Len(Voyelle_2) = 2 Then  ' voyelle double longue, donc accentuÈe
+        ElseIf (Voyelle_2 = "√¶") Or (Voyelle_2 = "≈ì") Or (Voyelle_2 = "√Ü") Or (Voyelle_2 = "≈í") Or Len(Voyelle_2) = 2 Then  ' voyelle double longue, donc accentu√©e
             Penultieme()
         ElseIf (Consonnes_2 = "") Or (Consonnes_2 = "f") Or (Consonnes_2 = "h") Then
             diphtongue()
@@ -352,8 +352,8 @@ fraw.close
     End Sub
 
     Sub diphtongue()
-        Dim pref 'aÊeÎioÙuy·ÈÌÛ˙˝¡…ÀÕ”⁄›∆‘
-        ' Pas de consonne avant la derniËre syllabe => Normalement, accentuÈe
+        Dim pref 'a√¶e√´io≈ìuy√°√©√≠√≥√∫√Ω√Å√â√ã√ç√ì√ö√ù√Ü≈í
+        ' Pas de consonne avant la derni√®re syllabe => Normalement, accentu√©e
         'UPGRADE_WARNING: Couldn't resolve default property of object pref. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         pref = LCase(Radical & Voyelle_1 & Consonnes_1)
         If (MoT = "abi") And (Suffixe <> "ens") And (Suffixe <> "i") And (Suffixe <> "it") Or (MoT = "adona") Or (MoT = "agoni") Or (MoT = "alap") Or (MoT = "anani") Or (MoT = "andre") Or (MoT = "antiochi") Or (MoT = "archela") Or (MoT = "azari") Or (MoT = "barachi") Or (MoT = "basili") Or (MoT = "bersabe") Or (MoT = "bravi") Or (MoT = "caesare") Or (MoT = "cynomi") Or (MoT = "dari") Or (MoT = "ead") Or (MoT = "eli") Or (MoT = "elise") Or (MoT = "extas") Or (MoT = "extrah") Or (MoT = "ezechi") Then
@@ -362,11 +362,11 @@ fraw.close
             Penultieme()
         ElseIf (MoT = "samari") Or (MoT = "stanisla") Or (MoT = "tobi") Or ((MoT = "uni") And (Suffixe = "us")) Or (MoT = "uri") Or ((MoT = "soli") And (Suffixe = "us")) Or (MoT = "wencesla") Or (MoT = "zachari") Then
             Penultieme()
-            ' quelques groupes de trois voyelles qui s'accentuent sur la premiËre :
+            ' quelques groupes de trois voyelles qui s'accentuent sur la premi√®re :
             'UPGRADE_WARNING: Couldn't resolve default property of object pref. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         ElseIf (pref = "allelu") Or (pref = "intro") Or (pref = "intu") Then
             AntePenultieme()
-        ElseIf Consonnes_1 = "" Then  '   trois voyelles d'affilÈe
+        ElseIf Consonnes_1 = "" Then  '   trois voyelles d'affil√©e
             Penultieme()
             Cas_General()
         Else
@@ -399,8 +399,8 @@ fraw.close
         End If
     End Sub
     Sub type_A()
-        '   Le "a" en avant-derniËre syllabe est normalement long, donc accentuÈ.
-        ' sÈrie baptismat,charismat,
+        '   Le "a" en avant-derni√®re syllabe est normalement long, donc accentu√©.
+        ' s√©rie baptismat,charismat,
         MoT = LCase(Radical & Voyelle_1 & Consonnes_1 & Voyelle_2 & Consonnes_2)
         If Right(MoT, 5) = "ismat" Or ((Consonnes_2 = "g") And (MoT <> "imag")) Then
             AntePenultieme()
@@ -422,7 +422,7 @@ fraw.close
         End If
     End Sub
     Sub type_B()
-        '   La voyelle qui prÈcËde un "b" est Generalement longue.
+        '   La voyelle qui pr√©c√®de un "b" est Generalement longue.
         '
         If Suffixe = "unt" Then
             Penultieme()
@@ -439,38 +439,38 @@ fraw.close
     End Sub
     Sub type_C()
         Dim Deux_Dernieres
-        ' sÈrie des fÈminins en -trix, -trice : cantatri, genetri,extri,matri,obstetri, peccatri...
+        ' s√©rie des f√©minins en -trix, -trice : cantatri, genetri,extri,matri,obstetri, peccatri...
         'UPGRADE_WARNING: Couldn't resolve default property of object Deux_Dernieres. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         Deux_Dernieres = Right(MoT, 2)
         If (Right(MoT, 3) = "tri") Then
             Penultieme()
             Cas_General()
         ElseIf Voyelle_2 = "a" Then
-            type_A() '    Generalement pÈnultiËme, quelques exceptions centralisÈes sur "A"
-            '   Les radicaux en "EC" et "UC" sont plutÙt pÈnultiËmes,
+            type_A() '    Generalement p√©nulti√®me, quelques exceptions centralis√©es sur "A"
+            '   Les radicaux en "EC" et "UC" sont plut√¥t p√©nulti√®mes,
             'UPGRADE_WARNING: Couldn't resolve default property of object Deux_Dernieres. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         ElseIf (MoT = "depre") Or (Voyelle_1 & Consonnes_1 & Voyelle_2 = "inse") Or (Deux_Dernieres + Consonnes_2 + Suffixe = "decim") Then
             AntePenultieme()
         ElseIf (Voyelle_2 = "e") Or (Voyelle_2 = "u") Then
             Penultieme()
             Cas_General()
-            '   Les radicaux en "IC" et "OC" sont plutÙt antÈpÈnultiËmes,
+            '   Les radicaux en "IC" et "OC" sont plut√¥t ant√©p√©nulti√®mes,
             '   mais beaucoup d'exceptions
             ' gag : indico, as (indiquer)= vs ind*ico, is (notifier)
-        ElseIf (MoT = "ami") Or (MoT = "benedi") Or (MoT = "cervi") Or ((MoT = "collo") And (Suffixe <> "et")) Or (MoT = "contradi") Or (MoT = "coturni") Or (MoT = "dispi") Or (MoT = "evi") Or (MoT = "feli") Or (MoT = "foeni") Or (MoT = "fÙni") Or (MoT = "henri") Or ((MoT = "indi") And (Left(Suffixe, 1) <> "a")) Or (MoT = "inimi") Or (MoT = "lori") Or (MoT = "ludovi") Or ((MoT = "maledi") And Not (Finale_A(Suffixe) Or Finale_US(Suffixe))) Then  ' maledicus, a, um = mÈdisant, vs maled*ico, as, are = outrager
+        ElseIf (MoT = "ami") Or (MoT = "benedi") Or (MoT = "cervi") Or ((MoT = "collo") And (Suffixe <> "et")) Or (MoT = "contradi") Or (MoT = "coturni") Or (MoT = "dispi") Or (MoT = "evi") Or (MoT = "feli") Or (MoT = "foeni") Or (MoT = "f≈ìni") Or (MoT = "henri") Or ((MoT = "indi") And (Left(Suffixe, 1) <> "a")) Or (MoT = "inimi") Or (MoT = "lori") Or (MoT = "ludovi") Or ((MoT = "maledi") And Not (Finale_A(Suffixe) Or Finale_US(Suffixe))) Then  ' maledicus, a, um = m√©disant, vs maled*ico, as, are = outrager
             Penultieme()
         ElseIf (MoT = "mendi") Or (MoT = "myri") Or (MoT = "posti") Or (MoT = "proi") Or (MoT = "pudi") Or ((MoT = "praedi") And (Left(Suffixe, 1) <> "a")) Or (MoT = "radi") Or (MoT = "umbili") Or (MoT = "velo") Or (MoT = "vesi") Then
             Penultieme()
-            ' quelques sÈries remarquables (NB : les exceptions sont dÈj‡ traitÈes)
+            ' quelques s√©ries remarquables (NB : les exceptions sont d√©j√† trait√©es)
             'UPGRADE_WARNING: Couldn't resolve default property of object Deux_Dernieres. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         ElseIf (Deux_Dernieres = "fi") Or (Deux_Dernieres = "li") Or (Deux_Dernieres = "ni") Or (Deux_Dernieres = "ti") Or (Voyelle_2 = "o") Then  '
-            AntePenultieme() ' Ê
+            AntePenultieme() ' √¶
             Cas_General()
-            '   En principe le reste est antepÈnultiËme, mais mieux vaut confirmer dans le cas des -ic-
+            '   En principe le reste est antep√©nulti√®me, mais mieux vaut confirmer dans le cas des -ic-
         ElseIf (MoT = "afri") Or (MoT = "api") Or (MoT = "aspi") Then
-            AntePenultieme() ' Ê
+            AntePenultieme() ' √¶
         ElseIf (MoT = "conspi") Or (MoT = "dedi") Or (MoT = "depre") Or (MoT = "despi") Or (MoT = "didi") Or (MoT = "dijudi") Or (MoT = "dimi") Then
-            AntePenultieme() ' Ê
+            AntePenultieme() ' √¶
         ElseIf (MoT = "ecclesiasti") Or (MoT = "eji") Or (MoT = "excae") Or (MoT = "haereti") Or (MoT = "hebrai") Or (MoT = "hydropi") Or (MoT = "indi") Or (MoT = "inspi") Then
             AntePenultieme()
         ElseIf (MoT = "invi") Or (MoT = "indi") Or (MoT = "judai") Or (MoT = "judi") Or (MoT = "lai") Or (MoT = "lubri") Then
@@ -490,11 +490,11 @@ fraw.close
         If Voyelle_2 = "a" Then
             type_A() '
         ElseIf (MoT = "eru") Then  ' erudit
-            AntePenultieme() ' Ê
+            AntePenultieme() ' √¶
         ElseIf Voyelle_2 = "u" Then
             Penultieme()
             Cas_General()
-            '   Les radicaux en "ED", "ID" et "OD" sont plutÙt antÈpÈnultiËmes,
+            '   Les radicaux en "ED", "ID" et "OD" sont plut√¥t ant√©p√©nulti√®mes,
             '   mais beaucoup d'exceptions
         ElseIf (MoT = "come") Then
             Conjuguer_3()
@@ -502,20 +502,20 @@ fraw.close
             Penultieme() '
             Cas_Douteux() ' excido, is = tomber ; exc*ido, is = couper
         ElseIf (MoT = "absce") Or (MoT = "absci") Or (MoT = "acce") Or (MoT = "adli") Or (MoT = "alli") Or (MoT = "circumci") Or (MoT = "circumfo") Or (MoT = "cohere") Or (MoT = "conce") Or (MoT = "conci") Or (MoT = "confi") Or (MoT = "conli") Then
-            Penultieme() ' Ê
+            Penultieme() ' √¶
         ElseIf (MoT = "corro") Or (MoT = "conse") Or (MoT = "cui") Or (MoT = "custo") Or (MoT = "davi") Or (MoT = "disce") Or (MoT = "dulce") Or (MoT = "effo") Or (MoT = "ei") Or (MoT = "eli") Or (MoT = "eo") Or (MoT = "exau") Then
-            Penultieme() ' Ê
+            Penultieme() ' √¶
         ElseIf (MoT = "exce") Or (MoT = "formi") Or (MoT = "here") Or (MoT = "hero") Or (MoT = "homici") Or (MoT = "ibi") Or (MoT = "ince") Or (MoT = "inri") Or (MoT = "interce") Or (MoT = "irri") Then
-            Penultieme() ' Pb de *occidat (se coucher ‡ l'occident) vs occ*idit (tuer)
+            Penultieme() ' Pb de *occidat (se coucher √† l'occident) vs occ*idit (tuer)
         ElseIf (MoT = "merce") Or (MoT = "nicome") Or (MoT = "obse") Or ((MoT = "occi") And (Left(Suffixe, 1) <> "a")) Or (MoT = "posse") Or (MoT = "praece") Or (MoT = "praxe") Or (MoT = "proce") Or (MoT = "putre") Or (MoT = "rece") Or (MoT = "rese") Or (MoT = "succe") Or (MoT = "succi") Or (MoT = "truci") Then
-            Penultieme() ' Ê
+            Penultieme() ' √¶
         ElseIf (MoT = "abi") Or (MoT = "acci") Or (MoT = "accommo") Or (MoT = "accomo") Or (MoT = "ace") Or (MoT = "adonised") Or (MoT = "amo") Or (MoT = "antece") Or (MoT = "ari") Or (MoT = "aro") Or (MoT = "aspi") Or (MoT = "asse") Or (MoT = "basili") Or (MoT = "bene") Or (MoT = "bethsai") Or (MoT = "cali") Or (MoT = "calli") Or (MoT = "candi") Or (MoT = "ceci") Or (MoT = "chanaaniti") Or (MoT = "chlamy") Then
             AntePenultieme()
         ElseIf (MoT = "chytropo") Or (MoT = "circumde") Or (MoT = "collyri") Or (MoT = "commo") Or (MoT = "credi") Or (MoT = "cupi") Or (MoT = "davi") Or (MoT = "deci") Or (MoT = "deploi") Or (MoT = "diploi") Or (MoT = "disperdi") Or (MoT = "divi") Or (MoT = "dummo") Or (MoT = "edi") Then
-            AntePenultieme() ' Ê
+            AntePenultieme() ' √¶
         ElseIf (MoT = "egre") Or (MoT = "elio") Or (MoT = "elmo") Or (MoT = "eluci") Or (MoT = "equi") Or (MoT = "exci") Or (MoT = "expe") Or (MoT = "fervi") Or (MoT = "frigi") Or (MoT = "haere") Or (MoT = "here") Or (MoT = "hispi") Or (MoT = "hujuscemo") Or (MoT = "hujusmo") Then
-            AntePenultieme() ' Ê
-        ElseIf (MoT = "inci") Or (MoT = "info") Or (MoT = "ingre") Or (MoT = "intro") Or (MoT = "invali") Or (MoT = "invi") Or (MoT = "istiusmo") Or (MoT = "jezraÎliti") Or (MoT = "lapi") Or (MoT = "langui") Or (MoT = "luci") Or (MoT = "mace") Or (MoT = "madianiti") Or (MoT = "male") Or (MoT = "melchice") Or (MoT = "melchise") Or (MoT = "moabiti") Or (MoT = "multimo") Or (MoT = "obede") Or (MoT = "obsi") Or (MoT = "occi") Or (MoT = "oppi") Then
+            AntePenultieme() ' √¶
+        ElseIf (MoT = "inci") Or (MoT = "info") Or (MoT = "ingre") Or (MoT = "intro") Or (MoT = "invali") Or (MoT = "invi") Or (MoT = "istiusmo") Or (MoT = "jezra√´liti") Or (MoT = "lapi") Or (MoT = "langui") Or (MoT = "luci") Or (MoT = "mace") Or (MoT = "madianiti") Or (MoT = "male") Or (MoT = "melchice") Or (MoT = "melchise") Or (MoT = "moabiti") Or (MoT = "multimo") Or (MoT = "obede") Or (MoT = "obsi") Or (MoT = "occi") Or (MoT = "oppi") Then
             AntePenultieme()
         ElseIf (MoT = "pavi") Or (MoT = "perdi") Or (MoT = "perfi") Or (MoT = "perfo") Or (MoT = "perisceli") Or (MoT = "placi") Or (MoT = "plendi") Or (MoT = "possi") Or (MoT = "praeci") Or (MoT = "praesi") Or (MoT = "proci") Or (MoT = "provi") Or (MoT = "quemadmo") Or (MoT = "quomo") Or (MoT = "raphi") Or (MoT = "reddi") Or (MoT = "regre") Or (MoT = "reddi") Or (MoT = "rigi") Then
             AntePenultieme()
@@ -538,12 +538,12 @@ fraw.close
         End If
     End Sub
     Sub type_J()
-        ' Le j entre deux voyelles est une tri-phtongue dÈguisÈe. Exemple type : Alleluja
+        ' Le j entre deux voyelles est une tri-phtongue d√©guis√©e. Exemple type : Alleluja
         Penultieme()
         Cas_General()
     End Sub
     Sub type_Gu()
-        '   Configuration trËs rare (deux cas dans les psaumes)
+        '   Configuration tr√®s rare (deux cas dans les psaumes)
         If (MoT = "ambi") Or (MoT = "exi") Or (MoT = "inri") Or (MoT = "irri") Then
             Penultieme()
         Else
@@ -552,11 +552,11 @@ fraw.close
         End If
     End Sub
     Sub type_L()
-        '   La voyelle devant le L est Generalement faible, => majoritairement antÈpÈnultiËme
+        '   La voyelle devant le L est Generalement faible, => majoritairement ant√©p√©nulti√®me
         ' les exceptions sont majoritairement du type -a:le
         If Voyelle_2 = "a" Then
             type_A() '
-        ElseIf (MoT = "cande") Or (MoT = "carme") Or (MoT = "cubi") Or (MoT = "danie") Or (MoT = "fide") Or (MoT = "gabrie") Or (MoT = "genti") Or (MoT = "hosti") Or (MoT = "ido") Or (MoT = "infe") Or (MoT = "infide") Or (MoT = "israe") Or (MoT = "israÎ") Or (MoT = "loque") Then
+        ElseIf (MoT = "cande") Or (MoT = "carme") Or (MoT = "cubi") Or (MoT = "danie") Or (MoT = "fide") Or (MoT = "gabrie") Or (MoT = "genti") Or (MoT = "hosti") Or (MoT = "ido") Or (MoT = "infe") Or (MoT = "infide") Or (MoT = "israe") Or (MoT = "isra√´") Or (MoT = "loque") Then
             Penultieme()
         ElseIf (MoT = "mede") Or (MoT = "ovi") Or (MoT = "pueri") Or (MoT = "quere") Or (MoT = "reve") Or (MoT = "seque") Or (MoT = "servi") Or (MoT = "simu") Or (MoT = "theodu") Or (MoT = "tute") Or (MoT = "viri") Then
             Penultieme()
@@ -567,8 +567,8 @@ fraw.close
     End Sub
     Sub type_M()
         If Voyelle_2 = "a" Then
-            type_A() '    exception centralisÈes sur "A"
-            ' cas des ..im.. Generalement antÈpÈnultiËmes
+            type_A() '    exception centralis√©es sur "A"
+            ' cas des ..im.. Generalement ant√©p√©nulti√®mes
         ElseIf (MoT = "esuri") Or (MoT = "experi") Or (MoT = "muni") Or (MoT = "nesci") Or (MoT = "peri") Or (MoT = "possi") Or (MoT = "praeveni") Or (MoT = "senti") Or (MoT = "siti") Or (MoT = "subli") Or (MoT = "transi") Or (MoT = "veni") Then
             Penultieme()
         ElseIf Voyelle_2 = "i" Then
@@ -579,7 +579,7 @@ fraw.close
             Cas_General()
         ElseIf (MoT = "adsu") Or (MoT = "anathe") Or (MoT = "chrysosto") Or (MoT = "hie") Or (MoT = "incolu") Or (MoT = "nolu") Or (MoT = "possu") Or (MoT = "quaesu") Or ((MoT = "salo") And (Suffixe = "on")) Or (MoT = "volu") Then
             AntePenultieme()
-        Else ' sÈrie rÈguliËre des -emus, -imus, -umus...
+        Else ' s√©rie r√©guli√®re des -emus, -imus, -umus...
             Penultieme()
             Cas_General()
         End If
@@ -589,7 +589,7 @@ fraw.close
         'UPGRADE_WARNING: Couldn't resolve default property of object terminaison. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         terminaison = Voyelle_2 & "n" & Left(Suffixe, 1)
         If Voyelle_2 = "a" Then
-            type_A() '    quelques exceptions centralisÈes sur "A"
+            type_A() '    quelques exceptions centralis√©es sur "A"
         ElseIf (MoT = "areu") Or (MoT = "chrysogo") Or (MoT = "conso") Or (MoT = "corbo") Or (MoT = "daemo") Or (MoT = "diaco") Or (MoT = "inso") Or (MoT = "sindo") Or (Voyelle_2 = "y") Then
             AntePenultieme()
         ElseIf (Voyelle_2 = "o") Or (Voyelle_2 = "u") Then
@@ -599,8 +599,8 @@ fraw.close
         ElseIf (MoT = "adve") And Finale_A(Suffixe) Then
             AntePenultieme()
         ElseIf (Voyelle_2 = "e") And (Right(Consonnes_1, 1) = "v") And (MoT <> "juve") Then
-            Conjuguer_4() ' famille des composÈs de "venire"
-            '   Les radicaux en "EN", "IN" sont plutÙt antÈpÈnultiËmes,
+            Conjuguer_4() ' famille des compos√©s de "venire"
+            '   Les radicaux en "EN", "IN" sont plut√¥t ant√©p√©nulti√®mes,
             '   mais beaucoup d'exceptions suivant la racine
         ElseIf (Right(MoT, 6) = "tricli") Then
             Penultieme()
@@ -608,12 +608,12 @@ fraw.close
             Penultieme()
         ElseIf (MoT = "cyre") Or (MoT = "cyri") Or (MoT = "concubi") Or (MoT = "consobri") Or (MoT = "corti") Or (MoT = "damasce") Or (MoT = "dece") Or (MoT = "decli") Or (MoT = "dereli") Or (MoT = "discipli") Or (MoT = "divi") Or (MoT = "doctri") Or (MoT = "duode") Or (MoT = "ege") Or (MoT = "egne") Or (MoT = "fari") Or (MoT = "fausti") Or (MoT = "festi") Or (MoT = "galli") Or (MoT = "gorti") Or (MoT = "hare") Or (MoT = "hygi") Then
             Penultieme()
-        ElseIf (MoT = "incli") Or (MoT = "intesti") Or (MoT = "justi") Or (MoT = "jorda") Or (MoT = "lage") Or (MoT = "lagoe") Or (MoT = "lagÙ") Or (MoT = "lati") Or (MoT = "latri") Or (MoT = "magdale") Or (MoT = "marcelli") Or (MoT = "mari") Or (MoT = "marti") Or (MoT = "masculi") Or (MoT = "matuti") Or (MoT = "medici") Or (MoT = "mille") Or (MoT = "mortici") Or (MoT = "nazare") Or (MoT = "omni") Or (MoT = "pate") Or (MoT = "pauli") Or (MoT = "peregri") Then
+        ElseIf (MoT = "incli") Or (MoT = "intesti") Or (MoT = "justi") Or (MoT = "jorda") Or (MoT = "lage") Or (MoT = "lagoe") Or (MoT = "lag≈ì") Or (MoT = "lati") Or (MoT = "latri") Or (MoT = "magdale") Or (MoT = "marcelli") Or (MoT = "mari") Or (MoT = "marti") Or (MoT = "masculi") Or (MoT = "matuti") Or (MoT = "medici") Or (MoT = "mille") Or (MoT = "mortici") Or (MoT = "nazare") Or (MoT = "omni") Or (MoT = "pate") Or (MoT = "pauli") Or (MoT = "peregri") Then
             Penultieme()
         ElseIf (MoT = "pisci") Or (MoT = "porci") Or (MoT = "prui") Or (MoT = "quatequingente") Or (MoT = "quinquage") Or (MoT = "rapi") Or (MoT = "refre") Or (MoT = "regi") Or (MoT = "reli") Or (MoT = "repenti") Or (MoT = "rui") Or (MoT = "sabi") Or (MoT = "sage") Or (MoT = "saturni") Or (MoT = "septe") Or (MoT = "sere") Or (MoT = "superve") Or (MoT = "terre") Or (MoT = "uri") Or (MoT = "vagi") Or (MoT = "valenti") Or (MoT = "vene") Or (MoT = "vesperti") Or (MoT = "vici") Or (MoT = "zephyri") Then
             Penultieme()
-            '   Quelques terminaisons grammaticales ‡ voyelle faible
-            '   aÊeÎioÙuy·ÈÌÛ˙˝¡…ÀÕ”⁄›∆‘
+            '   Quelques terminaisons grammaticales √† voyelle faible
+            '   a√¶e√´io≈ìuy√°√©√≠√≥√∫√Ω√Å√â√ã√ç√ì√ö√ù√Ü≈í
             'UPGRADE_WARNING: Couldn't resolve default property of object terminaison. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         ElseIf (terminaison = "ine") Or (terminaison = "ini") Or (terminaison = "ino") Or (terminaison = "inu") Then
             AntePenultieme()
@@ -648,7 +648,7 @@ fraw.close
     Sub type_Q()
         '   Le Q est toujours suivi de U, qui fonctionne comme une semi-voyelle et est toujours
         '   suivi par une voyelle.
-        '   Les mots tendent donc ‡ Ítre pÈnultiËme.
+        '   Les mots tendent donc √† √™tre p√©nulti√®me.
         If (MoT = "ali") Or (MoT = "ante") Or (MoT = "asse") Or (MoT = "conse") Or (MoT = "elo") Or (MoT = "exse") Or (MoT = "usque") Or (MoT = "magnilo") Or (MoT = "perse") Or ((MoT = "reli") And (Suffixe <> "it") And (Suffixe <> "i")) Or (MoT = "sili") Or (MoT = "subse") Or (MoT = "usque") Then
             AntePenultieme()
             ' relinquo, is, ere, rel*iqui, relictum (laisser) se fonfond au parfait avec
@@ -675,14 +675,14 @@ fraw.close
         'UPGRADE_WARNING: Couldn't resolve default property of object fin. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
         fin = Left(Suffixe, 1)
         If Voyelle_2 = "a" Then
-            type_A() '    quelques exceptions centralisÈes sur "A"
-            ' Generalement les -ir, -or, -ur,  -yr, sont accentuÈs, mais il y a quelques exceptions :
+            type_A() '    quelques exceptions centralis√©es sur "A"
+            ' Generalement les -ir, -or, -ur,  -yr, sont accentu√©s, mais il y a quelques exceptions :
         ElseIf ((MoT = "affe") Or (MoT = "dese") Or (MoT = "offe") Or (MoT = "pote") Or (MoT = "prode") Or (MoT = "refe")) And (Suffixe = "unt") Then
             AntePenultieme()
         ElseIf (MoT = "ege") And (Suffixe = "e") Then
             Penultieme()
             Cas_Douteux()
-            ' confusion possible entre egeo, es, eg*ere (manquer de) & *egero, is, *egere (Èvacuer)
+            ' confusion possible entre egeo, es, eg*ere (manquer de) & *egero, is, *egere (√©vacuer)
         ElseIf (MoT = "apostolo") Or (MoT = "arbo") Or (MoT = "christopho") Or (MoT = "corpo") Or (MoT = "dedeco") Or (MoT = "devo") Or (MoT = "esu") Or (MoT = "ege") Or (MoT = "facino") Or (MoT = "femo") Or (MoT = "fulgu") Or (MoT = "frigo") Or (MoT = "guttu") Or (MoT = "instau") Or (MoT = "litto") Or (MoT = "loque") Then
             AntePenultieme()
         ElseIf (MoT = "memo") Or (MoT = "nabo") Or (MoT = "nyctico") Or (MoT = "offe") Or (MoT = "partu") Or (MoT = "peco") Or (MoT = "pecto") Or (MoT = "pigno") Or (MoT = "purpu") Or (MoT = "restau") Or (MoT = "robo") Or (MoT = "sterco") Or (MoT = "sycomo") Or (MoT = "telespho") Or (MoT = "tempo") Or (MoT = "thesau") Or (MoT = "turtu") Then
@@ -690,7 +690,7 @@ fraw.close
         ElseIf (Voyelle_2 = "au") Or (Voyelle_2 = "i") Or (Voyelle_2 = "o") Or (Voyelle_2 = "u") Or (Voyelle_2 = "y") Or (Suffixe = "unt") Then
             Penultieme()
             Cas_General()
-            '   Restent les mots en -ER- hors -Èrunt  Ê
+            '   Restent les mots en -ER- hors -√©runt  √¶
         ElseIf (MoT = "abole") Or (MoT = "abstine") Or (MoT = "adhae") Or (MoT = "adhaere") Or (MoT = "adhere") Or (MoT = "adhibe") Or (MoT = "adimple") Or (MoT = "amove") Or (MoT = "auste") Or (MoT = "confite") Or (MoT = "commisce") Or (MoT = "commove") Or (MoT = "comple") Or (MoT = "condole") Or (MoT = "confite") Or (MoT = "conflixe") Or (MoT = "contorque") Or (MoT = "dele") Or (MoT = "delecte") Or (MoT = "die") Then
             Penultieme()
         ElseIf (MoT = "digne") Or (MoT = "doce") Or (MoT = "dole") Or (MoT = "egredere") Or (MoT = "egredie") Or (MoT = "elonge") Or (MoT = "exerce") Or (MoT = "exhibe") Or (MoT = "fove") Or (MoT = "fure") Or (MoT = "gaude") Or (MoT = "gradie") Or (MoT = "habe") Or (MoT = "imple") Or (MoT = "indulge") Or (MoT = "inhaere") Or (MoT = "innotesce") Or (MoT = "intue") Or (MoT = "justifice") Then
@@ -700,15 +700,15 @@ fraw.close
         ElseIf ((MoT = "pasce") And (Left(Suffixe, 1) <> "e")) Or (MoT = "pate") Or (MoT = "pave") Or (MoT = "perhibe") Or (MoT = "permane") Or (MoT = "perseve") Or (MoT = "pertine") Or (MoT = "pertransie") Or (MoT = "perverte") Or (MoT = "place") Or (MoT = "posside") Or (MoT = "praebe") Or (MoT = "prohibe") Or (MoT = "promere") Or (MoT = "promove") Or (MoT = "propitie") Or (MoT = "provide") Then
             Penultieme()
             'UPGRADE_WARNING: Couldn't resolve default property of object fin. Click for more: 'ms-help://MS.VSCC.2003/commoner/redir/redirect.htm?keyword="vbup1037"'
-        ElseIf (MoT = "remane") Or (MoT = "reple") Or (MoT = "responde") Or (MoT = "retine") Or (MoT = "reverte") Or ((MoT = "sede") And (Suffixe <> "it")) Or (MoT = "since") Or (MoT = "sote") Or (MoT = "state") Or (MoT = "subjace") Or (MoT = "sustine") Or (MoT = "tace") Or (MoT = "taede") Or ((MoT = "tene") And ((fin = "e") Or (fin = "u"))) Or (MoT = "tente") Or (MoT = "terre") Or (MoT = "time") Or (MoT = "tue") Or (MoT = "unive") Or ((MoT = "vide") And ((fin = "e") Or (fin = "u"))) Or (MoT = "vige") Then  ' PB : Ps 12 = Usquequo obliviscÈris, Ps 43 Quare oblivÌsceris
+        ElseIf (MoT = "remane") Or (MoT = "reple") Or (MoT = "responde") Or (MoT = "retine") Or (MoT = "reverte") Or ((MoT = "sede") And (Suffixe <> "it")) Or (MoT = "since") Or (MoT = "sote") Or (MoT = "state") Or (MoT = "subjace") Or (MoT = "sustine") Or (MoT = "tace") Or (MoT = "taede") Or ((MoT = "tene") And ((fin = "e") Or (fin = "u"))) Or (MoT = "tente") Or (MoT = "terre") Or (MoT = "time") Or (MoT = "tue") Or (MoT = "unive") Or ((MoT = "vide") And ((fin = "e") Or (fin = "u"))) Or (MoT = "vige") Then  ' PB : Ps 12 = Usquequo oblivisc√©ris, Ps 43 Quare obliv√≠sceris
             Penultieme()
-        Else 'trËs majoritairement:
+        Else 'tr√®s majoritairement:
             AntePenultieme()
             Cas_General()
         End If
     End Sub
     Sub Type_S()
-        ' rares exceptions : MoÔse, eleison, haereses, damasum
+        ' rares exceptions : Mo√Øse, eleison, haereses, damasum
         If MoT = "dama" Or MoT = "duodenae" Or MoT = "elei" Or MoT = "haere" Or MoT = "hypocri" Or MoT = "moy" Then
             AntePenultieme()
         Else
@@ -747,12 +747,12 @@ fraw.close
             '
             '   -IT-
             '
-            ' exceptions aux finales majoritairement antÈpÈnultiËmes
+            ' exceptions aux finales majoritairement ant√©p√©nulti√®mes
         ElseIf (MoT = "accersi") Or (MoT = "aelami") Or (MoT = "agapi") Or (MoT = "aperi") Or (MoT = "appeti") Or (MoT = "areopagi") Or (MoT = "attri") Or (MoT = "audi") Or (MoT = "blandi") Or (MoT = "cognosci") Or (MoT = "compedi") Or (MoT = "conpedi") Or (MoT = "consequi") Or (MoT = "conquisi") Or (MoT = "consenti") Or (MoT = "contri") Or (MoT = "custodi") Or (MoT = "demoli") Or (MoT = "descendi") Then
             Penultieme()
         ElseIf (MoT = "disperti") Or (MoT = "dormi") Or (MoT = "enutri") Or (MoT = "eremi") Or (MoT = "erudi") Or (MoT = "esuri") Or (MoT = "exaudi") Or ((MoT = "exi") And (Suffixe = "e")) Or (MoT = "exinani") Or (MoT = "expedi") Or (MoT = "expeti") Or (MoT = "exquisi") Or (MoT = "ezrai") Or (MoT = "fulci") Or (MoT = "hauri") Or (MoT = "igni") Or (MoT = "infini") Or (MoT = "insigni") Or ((MoT = "introi") And (Left(Suffixe, 1) <> "u")) Or (MoT = "inveni") Then
             Penultieme()
-        ElseIf ((MoT = "irri") And (Suffixe = "at")) Or (MoT = "ismaheli") Or (MoT = "israÎli") Or (MoT = "israeli") Or (MoT = "jovi") Or ((MoT = "largi") And ((Suffixe = "or") Or (Suffixe = "us"))) Or (MoT = "legisperi") Or (MoT = "levi") Or (MoT = "margari") Or (MoT = "menti") Or (MoT = "molli") Or (MoT = "muni") Or (MoT = "nesci") Or (MoT = "nigri") Or (MoT = "ninivi") Or (MoT = "noli") Or (MoT = "nutri") Or (MoT = "obaudi") Or (MoT = "obedi") Or (MoT = "obli") Or (MoT = "odi") Or (MoT = "operi") Then
+        ElseIf ((MoT = "irri") And (Suffixe = "at")) Or (MoT = "ismaheli") Or (MoT = "isra√´li") Or (MoT = "israeli") Or (MoT = "jovi") Or ((MoT = "largi") And ((Suffixe = "or") Or (Suffixe = "us"))) Or (MoT = "legisperi") Or (MoT = "levi") Or (MoT = "margari") Or (MoT = "menti") Or (MoT = "molli") Or (MoT = "muni") Or (MoT = "nesci") Or (MoT = "nigri") Or (MoT = "ninivi") Or (MoT = "noli") Or (MoT = "nutri") Or (MoT = "obaudi") Or (MoT = "obedi") Or (MoT = "obli") Or (MoT = "odi") Or (MoT = "operi") Then
             Penultieme()
         ElseIf (MoT = "parti") Or (MoT = "possi") Or (MoT = "praefini") Or (MoT = "propi") Or (MoT = "recensi") Or (MoT = "senti") Or ((MoT = "servi") And Not (Finale_US(Suffixe))) Or (MoT = "sorti") Or (MoT = "stabili") Or (MoT = "subsequi") Or (MoT = "subveni") Or (MoT = "sunami") Or (MoT = "thesbi") Or ((MoT = "transi") And Not (Finale_US(Suffixe))) Or (MoT = "veni") Or (MoT = "vesti") Then
             Penultieme()
@@ -763,7 +763,7 @@ fraw.close
         End If
     End Sub
     Sub Type_V()
-        ' attention : seuls les cinq derniers caractËres sont testÈs
+        ' attention : seuls les cinq derniers caract√®res sont test√©s
         MoT = Right(MoT, 5)
         If Voyelle_2 = "a" Then
             type_A()
@@ -778,7 +778,7 @@ fraw.close
             Penultieme()
             Cas_General()
             ' finales en -ev-
-            ' attention : seuls les cinq derniers caractËres sont testÈs
+            ' attention : seuls les cinq derniers caract√®res sont test√©s
         ElseIf (MoT = "omple") Or (MoT = "dele") Or (MoT = "exple") Or (MoT = "imple") Or (MoT = "quie") Or (MoT = "rasce") Or (MoT = "reple") Or (Consonnes_1 = "") Then
             Penultieme()
         ElseIf (Voyelle_2 = "e") Or (Voyelle_2 = "ae") Then
@@ -803,8 +803,8 @@ fraw.close
         End If
     End Sub
     Sub Cas_Exotique()
-        ' RÈcupÈration des combinaisons avec "H" et des explosives+liquide
-        ' Generalement des noms hÈbreux (attention : TH traitÈ avec T)
+        ' R√©cup√©ration des combinaisons avec "H" et des explosives+liquide
+        ' Generalement des noms h√©breux (attention : TH trait√© avec T)
         MoT = MoT & Consonnes_2
         If (MoT = "achitoph") Or (MoT = "beelseph") Or (MoT = "cariathseph") Or (MoT = "caiph") Or (MoT = "cleoph") Or (MoT = "colaph") Or (MoT = "eliph") Or (MoT = "epimach") Or (MoT = "getheph") Or (MoT = "joach") Or (MoT = "jerich") Or (MoT = "josaph") Or (MoT = "masereph") Or (MoT = "monach") Or (MoT = "onych") Or (MoT = "putiph") Or (MoT = "ramathaimsoph") Or (MoT = "salech") Or (MoT = "seraph") Or (MoT = "ciniph") Or (MoT = "sciniph") Or (MoT = "syntych") Then
             AntePenultieme()
@@ -816,11 +816,11 @@ fraw.close
         End If
     End Sub
     Sub Conjuguer_1() ' type adjuv-o, -as, -are, adj*u-vi, -*u-tum
-        If (Suffixe = "o") Or (Suffixe = "as") Or (Suffixe = "at") Or (Suffixe = "ant") Then 'forme prÈsent
+        If (Suffixe = "o") Or (Suffixe = "as") Or (Suffixe = "at") Or (Suffixe = "ant") Then 'forme pr√©sent
             AntePenultieme()
         ElseIf (Suffixe = "a") Then  'imperatif
             AntePenultieme()
-        ElseIf (Suffixe = "em") Or (Suffixe = "es") Or (Suffixe = "et") Or (Suffixe = "ent") Then  'subjonctif prÈsent
+        ElseIf (Suffixe = "em") Or (Suffixe = "es") Or (Suffixe = "et") Or (Suffixe = "ent") Then  'subjonctif pr√©sent
             AntePenultieme()
         ElseIf (Suffixe = "i") Or (Suffixe = "it") Then  'forme parfait
             Penultieme()
@@ -830,11 +830,11 @@ fraw.close
         End If
     End Sub
     Sub Conjuguer_2() ' type amov-eo, -es, -ere, am*ov-i, am*ot-um
-        If (Suffixe = "eo") Or (Suffixe = "es") Or (Suffixe = "et") Or (Suffixe = "ent") Then 'forme prÈsent
+        If (Suffixe = "eo") Or (Suffixe = "es") Or (Suffixe = "et") Or (Suffixe = "ent") Then 'forme pr√©sent
             AntePenultieme()
         ElseIf (Suffixe = "e") Then  'imperatif
             AntePenultieme()
-        ElseIf (Suffixe = "eam") Or (Suffixe = "eas") Or (Suffixe = "eat") Or (Suffixe = "eant") Then  'subjonctif prÈsent
+        ElseIf (Suffixe = "eam") Or (Suffixe = "eas") Or (Suffixe = "eat") Or (Suffixe = "eant") Then  'subjonctif pr√©sent
             AntePenultieme()
         ElseIf (Suffixe = "i") Or (Suffixe = "it") Then  'forme parfait
             Penultieme()
@@ -844,29 +844,29 @@ fraw.close
         End If
     End Sub
     Sub Conjuguer_3() ' comed-o, -is, -ere, com*ed-i, com*es-um
-        If (Suffixe = "o") Or (Suffixe = "is") Or (Suffixe = "unt") Then 'forme prÈsent
+        If (Suffixe = "o") Or (Suffixe = "is") Or (Suffixe = "unt") Then 'forme pr√©sent
             AntePenultieme()
         ElseIf (Suffixe = "e") Then  'imperatif
             AntePenultieme()
         ElseIf (Suffixe = "am") Or (Suffixe = "es") Or (Suffixe = "et") Or (Suffixe = "ent") Then  'forme future
             AntePenultieme()
-        ElseIf (Suffixe = "am") Or (Suffixe = "as") Or (Suffixe = "at") Or (Suffixe = "ant") Then  'subjonctif prÈsent
+        ElseIf (Suffixe = "am") Or (Suffixe = "as") Or (Suffixe = "at") Or (Suffixe = "ant") Then  'subjonctif pr√©sent
             AntePenultieme()
         ElseIf (Suffixe = "i") Then  'forme parfait
             Penultieme()
-        Else ' -it = prÈsent ou parfait
+        Else ' -it = pr√©sent ou parfait
             Penultieme()
             Cas_Douteux()
         End If
     End Sub
     Sub Conjuguer_4() ' type ad/ con/ prae/ -ven-io, -is, -ire, -v*en-i, -ven-tum
-        If (Suffixe = "io") Or (Suffixe = "is") Or (Suffixe = "iunt") Then 'forme prÈsent
+        If (Suffixe = "io") Or (Suffixe = "is") Or (Suffixe = "iunt") Then 'forme pr√©sent
             AntePenultieme()
         ElseIf (Suffixe = "iam") Or (Suffixe = "ies") Or (Suffixe = "iet") Or (Suffixe = "ient") Then  'forme future
             AntePenultieme()
-        ElseIf (Suffixe = "iam") Or (Suffixe = "ias") Or (Suffixe = "iat") Or (Suffixe = "iant") Then  'subjonctif prÈsent
+        ElseIf (Suffixe = "iam") Or (Suffixe = "ias") Or (Suffixe = "iat") Or (Suffixe = "iant") Then  'subjonctif pr√©sent
             AntePenultieme()
-        Else ' -it = prÈsent ou parfait, i=impÈratif ou parfait
+        Else ' -it = pr√©sent ou parfait, i=imp√©ratif ou parfait
             Penultieme()
             Cas_Douteux()
         End If

@@ -1,11 +1,14 @@
-<p:BodyEIndent>Dear Mother, hear my prayer</p>
-<p:BodyEIndent>That my cold heart may share</p>
-<p:BodyEIndent>Thy grief in Jesus’ death.</p>
+<?php
+vr('deus_in_adjutorium2.php');
+?>
+<p:BodyEIndent>Holy Mother, pierce me through</p>
+<p:BodyEIndent>In my heart each wound renew</p>
+<p:BodyEIndent>Of my Saviour crucified.</p>
 <p:BodySm/>
 <p:RubricH>First Dolour:</p>
 <p:BodyEDrop>I PITY thee, O afflicted Mother, on account of the first sword of sorrow which pierced thee, when in the temple, all the outrages which men would inflict on thy beloved Jesus, were presented before thee by Saint Simeon, and which thou already knewest by the sacred Scriptures; outrages which were to cause Him to die before thine eyes, on an infamous cross, exhausted of His blood, abandoned by all, and thyself unable to defend or help Him. By that bitter knowledge then, which for so many years afflicted thy heart, I beseech thee, my Queen, to, obtain me the grace, that during my life, and at my death, I may ever keep the Passion of Jesus, and thy sorrows impressed on my heart.</p>
 <p:BodySm/>
-<p:BodyEIndent>Pater. Ave. <sr>(x7)</s> Glória. <sr>verse</s> Dear Mother... <sr>as above.</s></p>
+<p:BodyEIndent>Pater. Ave. <sr>(x7)</s> Glória. <sr>verse</s> Holy Mother... <sr>as above.</s></p>
 <p:BodyEIndent><sr>(Repeated after every dolour.)</s></p>
 <p:BodySm/>
 <p:RubricH>Second Dolour:</p>
@@ -28,5 +31,6 @@
 <p:BodySm/>
 <?php
 vrS('prSanct/ora_pro_nobis_virgo_dolorosissima.php');
+rubrics('oremus.php');
 prayer('prSanct/0915.php');
 ?>

@@ -1,0 +1,15 @@
+; dir /a:d /b/s >dir.txt
+
+; get rid of english directories
+g/\\E/d
+
+; then format output into batch file
+%s/^.*$/type \0\\*.php >>all.txt
+
+;get rid of all non-latin lines
+g/\~/d
+g!/[áéíóúýæœǽ]\c/d
+%s/\(<sr>\|<snr>\)[^<]\{-}<\/s>//ig
+g/[)'"];/d
+g/[()]/d
+g/</d

@@ -38,6 +38,8 @@ feast_saint(515,3,'S. Joannis Baptistæ de la Salle','St. John Baptist de la Sal
 
 feast_saint(516,3,'Sancti Ubaldi','Saint Ubaldus','EC');
 
+feast_saint(517,3,'S. Paschalis Baylon','St. Paschal Baylon','C');
+
 require '0518-3_venantius.php';
 
 feast_saint(519,3,'S. Petri Cælestini','St. Peter Celestine','PC',0,

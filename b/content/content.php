@@ -44,6 +44,7 @@ require 'fn/0list.php';
 //     '7' for 4.25x7
 //     'L5' for Lulu 5.5 x 8.5
 //     'L8' for Lulu 8.5 x 11
+//     'A4' for 1/4 of A4
 //
 $_GET['Style'] = '7';
 
@@ -94,6 +95,13 @@ require '7App/index.php';
  */
 
 
+$_GET['Style'] = 'A4';
+space('PgH');
+require '7App/7_dolours.php';
+// require '7App/zzz_st_joseph.php';
+// */
+
+/*
 bklist('test');
 $_GET['long'] = 1;
 space('PgB');
@@ -103,7 +111,8 @@ space('PgB');
 // require '5PropS/02_February.php';
 // require '5PropS/03_March.php';
 // require '5PropS/04_April.php';
- require '5PropS/05_May.php';
+psalm(67,2);
+require '5PropS/05_May.php';
 // require '5PropS/06_June.php';
 // require '5PropS/07_July.php';
 // require '5PropS/08_August.php';

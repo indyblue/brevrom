@@ -24,6 +24,12 @@ if($_GET['Style']=='7') {
 	$PgMar = .4 + .125;
 	$PgGMar = .75;
 	$Body = 12;
+} elseif($_GET['Style']=='A4') {
+	$PgW = 8.27/2;
+	$PgH = 11.69/2;
+	$PgMar = .25;
+	$PgGMar = .25;
+	$Body = 9;
 } else {
 	$PgW = $_GET['PgW'];
 	$PgH = $_GET['PgH'];
@@ -48,12 +54,12 @@ Spacer			2
  <office:font-face-decls>
   <style:font-face style:name="Old London" svg:font-family="&apos;Old London&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="Times VR" svg:font-family="&apos;Times VR&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="TimesLT" svg:font-family="TimesLT" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="TimesLatin" svg:font-family="TimesLatin" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:style style:name="Standard" style:family="paragraph" style:class="text">
-	<style:text-properties style:font-name="TimesLT"/>
+	<style:text-properties style:font-name="TimesLatin"/>
   </style:style>
 
   <style:style style:name="Body" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
@@ -153,7 +159,7 @@ Spacer			2
 
   <style:style style:name="Head2" style:family="paragraph" style:parent-style-name="Head1" style:next-style-name="Rubric" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0.02in" fo:margin-bottom="0.02in"/>
-   <style:text-properties style:font-name="TimesLT" fo:font-size=<?php echo '"'. $Head2 .'pt"' ?> fo:font-weight="bold"/>
+   <style:text-properties style:font-name="TimesLatin" fo:font-size=<?php echo '"'. $Head2 .'pt"' ?> fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="Head2L" style:family="paragraph" style:parent-style-name="Head2">
      <style:text-properties text:display="true"/>

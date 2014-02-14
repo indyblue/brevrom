@@ -1,0 +1,1 @@
+O God, wo didst adorn blessed Paschal thy Confessor with an admirable love of the sacred mysteries of thy Body and Blood; mercifully grant that we also may deserve to derive from that divine banquet the same richness of spirit which he obtained. Who livest.

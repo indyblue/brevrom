@@ -1,0 +1,1 @@
+Deus, qui ineffábili providéntia beátum Joseph Sanctíssimæ Genetrícis tuæ sponsum elígere dignátus es: præsta, quǽsumus; ut, quem protectórem venerámur in terris, intercessórem habére mereámur in cælis: Qui vivis et regnas in sǽcula sæculórum.
