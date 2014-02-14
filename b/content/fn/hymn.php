@@ -4,7 +4,7 @@
 // 0 - hymn inserted in full, with bookmark
 // 1 - reference to hymn inserted
 // -1 - hymn inserted in full, no bookmark.
-function hymn($file, $byref=-1) {
+function hymn($file, $byref=-1, $posttxt=0) {
 	$dir = $_GET['root'] . "/00/Hymn/";
 
 
@@ -35,8 +35,13 @@ function hymn($file, $byref=-1) {
 		$Efl = trimP($Epieces[3]);
 		$bk = substr($file,0,strlen($file)-4);
 		$bkref = ', p. '. bkref($bk) .'</s>';
-		rubp('Hymnus <snr>'. $Lfl . $bkref,
-			'Hymn <snr>'. $Efl . $bkref);
+		$Lpost = ''; $Epost = '';
+		if(is_array($posttxt)) {
+			$Lpost = $posttxt[0];
+			$Epost = $posttxt[1];
+		}
+		rubp('Hymnus <snr>'. $Lfl . $bkref . $Lpost,
+			'Hymn <snr>'. $Efl . $bkref . $Epost);
 	}
 	else {
 		if($byref==0) {

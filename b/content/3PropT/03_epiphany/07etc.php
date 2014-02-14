@@ -70,7 +70,7 @@
 	space();
 	hidden('Epiphany',1);
 	hidden('First Sunday after Epiphany',2);
-	head_temp(4,'Dominica I post Epiphaniam', 'First Sunday after Epiphany');
+	head('Dominica I post Epiphaniam', 'First Sunday after Epiphany',1);
 	rubp('Officium fit de Sancta Familia, sine commemoratione dominicæ, ut supra, <snr>p. '. bkref('HolyFamily') .'</s>.', 'The Office of the Holy Family is said, without commmemoration of the Sunday, as above, <snr>p. '. bkref('HolyFamily') .'</s>.');
 	rubp('Oratio hujus dominicæ dicitur in Officio feriæ infra hebdomadam occurrenti.', 'The prayer of this Sunday is said in the ferial Office during the following week.');
 	rubrics('head/Prayer.php');

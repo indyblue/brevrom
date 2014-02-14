@@ -30,7 +30,7 @@
 	head('De versu in responsorio brevi','The verse in the brief response',3);
 */
 	rubp('In omnibus Officiis tam de Tempore quam de Sanctis, nisi proprius assignetur, in responsorio brevi, dicitur cotidie sequens:', 'In all Offices, of the Season and of Saints, unless a proper verse is specified, in the brief response the following is said daily:');
-	PrV('qui_venturus_es_in_mundum.php',1);
+	PrV('qui_venturus_es_in_mundum.php',0);
 //	head('De lectione brevi','The brief lesson',3);
 	rubp('In omnibus Officiis tam de tempore quam de Sanctis, dicitur cotidie sequens:', 'In all Offices, of the Season and of Saints, the following is said daily:');
 	lc('is33_2.php',0,3);

@@ -11,7 +11,7 @@ echo ($_GET['L']==1?'Proprium de Tempore':'Proper of Seasons')
 require '01_advent/index.php';
 require '02_nativity/index.php';
 require '03_epiphany/index.php';
-require '04_post_epiphany.php';
+require '04_post_epiphany/index.php';
 require '05_septuagesima.php';
 require '06_lent.php';
 require '07_passiontide.php';

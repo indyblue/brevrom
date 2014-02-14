@@ -39,6 +39,9 @@ function vrS($file, $option=0, $option2=0) {
 		} elseif($option2==='V' || $option2==='v') {
 			$preL = '<sr>Ad Vesperas </s>';
 			$preE = '<sr>At Vespers </s>';
+		} elseif($option2==='2V' || $option2==='2v') {
+			$preL = '<sr>Ad II Vesperas </s>';
+			$preE = '<sr>At II Vespers </s>';
 		} 
 
 	echo "   <table>\n";

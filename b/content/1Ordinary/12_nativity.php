@@ -14,7 +14,7 @@
 	space();
 	hour('P');
 	rubp('In omni Officio tam de Tempore quam de Sanctis, in responsorio brevi dicitur cotidie, nisi proprius habeatur, sequens:', 'In all Offices, of the Season and of Saints, unless a proper verse is specified, in the brief response the following is said daily:');
-	PrV('qui_natus_es_de_maria_virgine.php',1);
+	PrV('qui_natus_es_de_maria_virgine.php',0);
 	rubp('In omni Officio, tam de tempore quam de Sanctis, dicitur cotidie sequens:', 'In all Offices, of the Season and of Saints, the following is said daily:');
 	lc('hebr1_11-12.php',0,3);
 

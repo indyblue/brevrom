@@ -1,4 +1,5 @@
 <?php
+	space();
 	bookmark('OrEpiphany');
 	head('Tempore Epiphaniæ','Epiphany Season',1,'Ordinary','Epiphany');
 	hour('L');
@@ -17,35 +18,36 @@
 	space();
 	hour('P');
 	rubp('In omni Officio tam de Tempore quam de Sanctis, in responsorio brevi dicitur cotidie, nisi proprius habeatur, sequens:', 'In all Offices, of the Season and of Saints, unless a proper verse is specified, in the brief response the following is said daily:');
-	PrV('qui_natus_es_de_maria_virgine.php',1);
+	PrV('qui_apparuisti_hodie.php',0);
 	rubp('In omni Officio, tam de tempore quam de Sanctis, dicitur cotidie sequens:', 'In all Offices, of the Season and of Saints, the following is said daily:');
-	lc('hebr1_11-12.php',0,3);
-
+	lc('is60_6.php',0,3);
 	space();
+
 	hour('T');
 	lc('is60_1.php');
-	brS('PrTemp/verbum_caro_factum_est.php',1);
-	vrS('PrTemp/ipse_invocabit_me.php',1);
-
+	brS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php',1);
+	vrS('PrTemp/omnes_de_saba_venient.php',1);
 	space();
+
 	hour('S');
-	lc('hebr1_10.php');
-	brS('PrTemp/notum_fecit_dominus.php',1);
-	vrS('PrTemp/viderunt_omnes_fines_terrae.php',1);
-
+	lc('is60_4.php');
+	brS('PrTemp/omnes_de_saba_venient.php',1);
+	vrS('PrTemp/adorate_dominum.php',1);
 	space();
+
 	hour('N');
-	lc('hebr1_11-12.php');
-	brS('PrTemp/viderunt_omnes_fines_terrae.php',1);
-	vrS('PrTemp/verbum_caro_factum_est.php',1);
-
+	lc('is60_6.php');
+	brS('PrTemp/adorate_dominum.php',1);
+	vrS('PrTemp/adorate_deum.php',1);
 	space();
+
+
 	hour('V');
 	lc('is60_1.php');
 	head('De hymno et versu','The hymn and verse',3);
-	hymn('jesu_redemptor_omnium_quem.php');
-	vrS('PrTemp/notum_fecit_dominus.php',1);
-	ant('PrTemp/nativity/0101m2.php','M');
+	hymn('crudelis_herodes_deum.php',0);
+	vrS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php');
+	rubp('Antiphona ad <snr>Magníficat</s>, ut in Proprio de Tempore.', 'Antiphon at the <snr>Magnificat</s>, as in the Proper of Seasons.');	
 	rubp('Oratio ut supra ad Laudes','Prayer as above at Lauds');
 
 ?>

@@ -71,8 +71,8 @@ if($matins) {
 	rubrics('ps/hour_continues.php');
 	lc('apoc7_12.php');
 	rubrics('head/HymnVerse.php');
-	hymn('aeterne_rerum_conditor.php');
-	hymn('ecce_jam_noctis_tenuatur_umbra.php');
+	hymn('aeterne_rerum_conditor.php',0);
+	hymn('ecce_jam_noctis_tenuatur_umbra.php',0);
 	vrS('Ord/dominus_regnavit_decorem_induit.php');
 	dayhourE(1,'L');
 
