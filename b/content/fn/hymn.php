@@ -31,7 +31,7 @@ function hymn($file, $byref=-1) {
 		trigger_error('File ' . $file . ': Line count is different for Latin (' . $countL . ') and English (' . $countE . ').', E_USER_ERROR);
 	
 	if($byref==1) {
-		$Lfl = trim($Lpieces[3],' \t.,;:!?');
+		$Lfl = trimP($Lpieces[3]);
 		$bk = substr($file,0,strlen($file)-4);
 		echo '<p:Rubric>Hymn <snr>' . $Lfl . '</s>, <snr>p. ' . 
 			bkref($bk) . "</s></p>\n";

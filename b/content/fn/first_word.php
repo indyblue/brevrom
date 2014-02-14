@@ -35,7 +35,11 @@ function start_phrase($sline,$minlen=10,$retarr=0) {
 		$retstr .= ' '. $split[$i];
 		$len = mb_strlen($retstr);
 	}
-	return ltrim($retstr);
+	return trimP($retstr);
+}
+
+function trimP($string) {
+	return trim($string,' \t.,;:!?');
 }
 
 ?>

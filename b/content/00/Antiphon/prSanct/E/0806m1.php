@@ -1,0 +1,1 @@
+Christ Jesus, * being the brightness of the Father, and the figure of his substance, and upholding all things by the word of his power, making purgation of sins, hath deigned gloriously to appear this day on the high mountain.

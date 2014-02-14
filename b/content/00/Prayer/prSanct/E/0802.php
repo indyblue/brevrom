@@ -1,0 +1,1 @@
+O God, who didst inflame blessed Alphonsus Mary thy Confessor and Bishop with a burning zeal for the salvation of souls, and through him didst bless thy Church with a new family; grant, we beseech thee, that, being instructed by his wholesome precepts, and strengthened by his example, we may be able happily to attain unto thee. Through our Lord.

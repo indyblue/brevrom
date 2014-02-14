@@ -1,0 +1,1 @@
+O God, who hast vouchsafed to enlighten thy Church by the merits and teaching of blessed Dominic thy Confessor; grant that, through his intercession, she may not be left destitute of temporal succours, and may continually advance in spiritual growth. Through our Lord.

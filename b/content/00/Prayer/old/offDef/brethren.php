@@ -1,3 +1,0 @@
-
-DEUS, véniæ largítor et humánæ salútis amátor: quæsumus cleméntiam tuam; ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sæculo transiérunt, beáta María semper Vírgine intercedénte cum ómnibus Sanctis tuis, ad perpétuæ beatitúdinis consórtium perveníre concédas. Per Dóminum.
-O GOD, ever bountiful in forgiveness and lovingly desirous of man’s salvation, we humbly beseech thy mercy in behalf of our brethren, relatives, and benefactors who have passed out of this world, that, through the intercession of blessed Mary ever Virgin, and of all the Saints, they may attain unto the fruition of eternal beatitude. Through our Lord.

@@ -22,6 +22,7 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 	$conclL = '';
 	$conclE = '';
 	$ref2 = '';
+
 	if($opt==1) {
 		$title = 'Capit. (Little Chapt.)';
 		$conclL = '<t> <s:VR>R. </s>Deo grátias.';
@@ -35,21 +36,20 @@ function lc($file, $byref=0, $opt=1, $file2='') {
 		$conclL = ' Tu autem...';
 		$conclE = ' But thou...';
 	} 
-	elseif($opt='L1') $title = 'lesson i';
-	elseif($opt='L2') $title = 'lesson ii';
-	elseif($opt='L3') $title = 'lesson iii';
-	elseif($opt='L4') $title = 'lesson iv';
-	elseif($opt='L5') $title = 'lesson v';
-	elseif($opt='L6') $title = 'lesson vi';
-	elseif($opt='L7') $title = 'lesson vii';
-	elseif($opt='L8') $title = 'lesson viii';
-	elseif($opt='L9') $title = 'lesson ix';
-		
-	elseif($opt=='h') {
+	elseif($opt=='L1') $title = 'lesson i';
+	elseif($opt=='L2') $title = 'lesson ii';
+	elseif($opt=='L3') $title = 'lesson iii';
+	elseif($opt=='L4') $title = 'lesson iv';
+	elseif($opt=='L5') $title = 'lesson v';
+	elseif($opt=='L6') $title = 'lesson vi';
+	elseif($opt=='L7') $title = 'lesson vii';
+	elseif($opt=='L8') $title = 'lesson viii';
+	elseif($opt=='L9') $title = 'lesson ix';
+	elseif($opt=='h' || $opt=='H') {
 		$dir2 = "/www/b/content/00/Hymn/L/";
 		$pieces = file_load($dir2.$file2);
-		$ref2 = 'and hymn, <snr>'. $pieces[4] . '</s>, ';
-	} elseif($opt=='br') {
+		$ref2 = 'and hymn, <snr>'. trimP($pieces[4]) . '</s>, ';
+	} elseif($opt=='br' || $opt=='BR') {
 		$dir2 = "/www/b/content/00/VR/";
 		$pieces = file_load($dir2.$file2);
 		$ref2 = 'and br. resp., <snr>'. 
