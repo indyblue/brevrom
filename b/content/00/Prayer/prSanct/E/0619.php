@@ -1,0 +1,1 @@
+O God, who, when blessed Juliana, thy Virgin, lay in the agony of death, didst vouchsafe miraculously to refresh her with the precious body of thy Son; grant, we beseech thee, that, through her merits and intercession, we also in our last agony, being strengthened and refreshed by the same, may be brought in safety to our heavenly country. Through the same.

@@ -1,0 +1,1 @@
+Deus, qui beátum Gregórium Confessórem tuum atque Pontíficem pastoráli sollicitúdine, et páuperum miseratióne claréscere voluísti: concéde propítius; ut, cujus mérita celebrámus, caritátis imitémur exémpla. Per Dóminum.

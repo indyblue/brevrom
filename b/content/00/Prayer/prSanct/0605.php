@@ -1,0 +1,1 @@
+Deus, qui multitúdinem populórum, beáti Bonifátii Mártyris tui atque Pontíficis zelo, ad agnitiónem tui nóminis vocáre dignátus es: concéde propítius; ut, cujus solémnia cólimus, étiam patrocínia sentiámus. Per Dóminum.

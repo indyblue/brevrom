@@ -1,0 +1,1 @@
+Deus, qui ómnia pro te in hoc sǽculo relinquéntibus, céntuplum in futúro et vitam ætérnam promisísti: concéde propítius; ut sancti Pontíficis Paulíni vestígiis inhæréntes, valeámus terréna despícere, et sola cæléstia desideráre: Qui vivis.

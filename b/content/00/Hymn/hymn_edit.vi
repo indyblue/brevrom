@@ -5,6 +5,6 @@ s/\v(.*)\n(.*)/<?php brS('PrTemp\/\1.php'); ?>\r<?php vrS('PrTemp\/\2.php'); ?>/
 s/_/ /ig
 
 
-\v\c<[^aeiouæœ]{-}((au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
+\v\c<[^aeiouyæœ]{-}((au|[qg]u[aeiouyæœ]|[aeiouyæœ])[^aeiouyæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
 
 

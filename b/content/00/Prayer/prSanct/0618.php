@@ -1,0 +1,1 @@
+Deus, qui Ecclésiam tuam beáti Ephræm Confessóris tui et Doctóris mira eruditióne et præcláris vitæ méritis illustráre voluísti: te súpplices exorámus; ut, ipso intercedénte, eam advérsus erróris et pravitátis insídias perénni tua virtúte deféndas. Per Dóminum.

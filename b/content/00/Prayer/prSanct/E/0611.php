@@ -1,0 +1,1 @@
+O God, who givest us to rejoice in the merits and intercession of blessed Barnabas thy Apostle; mercifully grant that we who implore thy blessings through him, may obtain them by the gift of thy grace. Through our Lord.

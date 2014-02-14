@@ -1,0 +1,1 @@
+Sanctórum Mártyrum tuórum Basílidis, Cyríni, Náboris atque Nazárii, quǽsumus, Dómine, natalítia nobis votíva respléndeant: et, quod illis cóntulit excelléntia sempitérna, frúctibus nostræ devotiónis accréscat. Per Dóminum.

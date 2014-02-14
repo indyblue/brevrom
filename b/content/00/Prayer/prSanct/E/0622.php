@@ -1,0 +1,1 @@
+O God, who, to those who for thy sake leave all things in this world, hast promised a hundredfold in the next and life everlasting; grant us, we beseech thee, so to walk in the footsteps of thy holy Bishop Paulinus, that, despising the things of earth, we may desire those only which are of heaven. Who livest.

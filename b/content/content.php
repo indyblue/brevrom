@@ -66,24 +66,24 @@ $_GET['O'] = 0;
 
 //hymn('vexilla_regis_prodeunt.php');
 
-// echo '   <p:P181/>';
-// require 'Z:\www\b\content\5PropS\05_May.php';
+echo '   <p:P181/>';
+require 'Z:\www\b\content\5PropS\06_June.php';
 
 
 
-require '100_intro.php';
-require '110_toc.php';
-require '150_calendar.php';
-require '3PropT/index.php';
-$_GET['O'] = 1;
-require '1Ordinary/index.php';
-require '2Psalter/index.php';
-$_GET['O'] = 0;
-
-require '5PropS/index.php';
-require '6ComS/index.php';
-
-require '7App/index.php';
+// require '100_intro.php';
+// require '110_toc.php';
+// require '150_calendar.php';
+// require '3PropT/index.php';
+// $_GET['O'] = 1;
+// require '1Ordinary/index.php';
+// require '2Psalter/index.php';
+// $_GET['O'] = 0;
+// 
+// require '5PropS/index.php';
+// require '6ComS/index.php';
+// 
+// require '7App/index.php';
 // require '998_indices.php';
 
 

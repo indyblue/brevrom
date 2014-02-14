@@ -1,0 +1,1 @@
+Deus, qui beátam Juliánam Vírginem tuam extrémo morbo laborántem pretióso Fílii tui córpore mirabíliter recreáre dignátus es: concéde, quǽsumus; ut, ejus intercedéntibus méritis, nos quoque eódem in mortis agóne refécti ac roboráti, ad cæléstem pátriam perducámur. Per eúmdem Dóminum.

@@ -1,0 +1,1 @@
+May the festive celebration of thy holy Martyrs Basilides, Cyrinus, Nabor and Nazarius, we beseech thee, O Lord, give us joy, and may the eternal glory which is theirs gain increase from our devotion. Through our Lord.

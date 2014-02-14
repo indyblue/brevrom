@@ -1,0 +1,1 @@
+O God, who didst adorn blessed Francis, the founder of a new order, with a marvellous constancy in prayer and love of penance; grant that we thy servants may so walk in the footsteps of his holy life, that, praying always, and bringing our bodies into subjection, we may be found worthy to attain unto the glory of heaven. Through our Lord.

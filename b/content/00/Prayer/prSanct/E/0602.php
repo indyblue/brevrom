@@ -1,0 +1,1 @@
+O God, who dost gladden us with the yearly solemnity of thy blessed Martyrs Marcellinus, Peter, and Erasmus; mercifully grant that, as we rejoice in their merits, we may be animated to fervour by their example. Through our Lord.

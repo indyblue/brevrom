@@ -1,0 +1,1 @@
+Cæléstium donórum distribútor, Deus, qui in angélico júvene Aloísio miram vitæ innocéntiam pári cum pœniténtia sociásti: ejus méritis et précibus concéde; ut, innocéntem non secúti, pœniténtem imitémur. Per Dóminum.

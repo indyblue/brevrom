@@ -13,6 +13,7 @@ P (Papæ)(Pope)
 E (Ep.)(Bp.)
 C (Conf.)
 p (Presbyt.)(Priest)
+d (Diaconi) (Deacon)
 a (Abbot)
 D (Eccl.Doct.)(Doct.)
 V (Virgin)
@@ -54,11 +55,11 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 	}
 
 	echo '
-  <p:Hidden1>' . $date . ' - ' .$nameE .'</p>
+  <p:Hidden1>' . $Edate . ' - ' .$nameE .'</p>
   <text:p text:style-name="Head1' . 
   ($class==1||$class==2?'':'NI') . '">' . ($_GET['L']==1?$nameL:$nameE) .'</p>
   <text:p text:style-name="Head5">' . ($_GET['L']==1?$nameE:$nameL) .'</p>
-  <p:Head2>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Ldate:$Edate) .'</p>
+  <p:Head2>'. $descr . ($descr?' - ':'') . $clname . ' - ' . ($_GET['L']==1?$Edate:$Edate) .'</p>
 ';
 
 }
@@ -66,13 +67,13 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 
 	// arrays defining types/classifications: (case sensitive)
 	$Lcl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Papæ', 
-		'E' => 'Ep.', 'C' => 'Conf.', 'p' => 'Presbyt.', 'a' => 'Abbot', 
-		'D' => 'Eccl. Doct.', 'V' => 'Virgin', 'W' => 'Viduæ', 'K' => 'Regis', 
-		'Q' => 'Reginæ');
+		'E' => 'Ep.', 'C' => 'Conf.', 'p' => 'Presbyt.', 'd' => 'Diaconi',
+		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virgin', 
+		'W' => 'Viduæ', 'K' => 'Regis', 'Q' => 'Reginæ');
 	$Ecl = array( 'A' => 'Ap.', 'G' => 'Evang.', 'M' => 'Mart.', 'P' => 'Pope', 
-		'E' => 'Bp.', 'C' => 'Conf.', 'p' => 'Priest', 'a' => 'Abbot', 
-		'D' => 'Eccl. Doct.', 'V' => 'Virgin', 'W' => 'Widow', 'K' => 'King', 
-		'Q' => 'Queen');
+		'E' => 'Bp.', 'C' => 'Conf.', 'p' => 'Priest', 'd' => 'Deacon', 
+		'a' => 'Abbot', 'D' => 'Eccl. Doct.', 'V' => 'Virgin', 
+		'W' => 'Widow', 'K' => 'King', 'Q' => 'Queen');
 
 	//this switch has to be set before the date calculations
 	$pt = 0;
@@ -229,7 +230,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	// The character 'H' signifies header only
 	// Otherwise if positive, print everything as normal
 	if($class>=10) {
-		headSt($Edate, $class-10, $nameL, $nameE, $Etype);
+		headSt(array($Ldate,$Edate), $class-10, $nameL, $nameE, $Etype);
 	} elseif($class>=0) {
 		// add image... (the only image that can be added
 		// automatically is the default separator)
@@ -237,7 +238,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		img();
 	
 		// write heading
-		headSt($Edate, $class, $nameL, $nameE, $Etype);
+		headSt(array($Ldate,$Edate), $class, $nameL, $nameE, $Etype);
 	
 		// if it's a 3rd class feast, add this line
 		if($class==3)
@@ -310,7 +311,7 @@ function convert_date($date) {
 	$day = $date - $month*100;
 
 	if($month>0 && $day>0) {
-		$Ldate = $Lms[$month] . ' ' . $day;
+		$Ldate = $day . ' ' . $Lms[$month] ;
 		$Edate = $Ems[$month] . ' ' . $day;
 		if($month==2 && $day>23) {
 			$Ldate .= ' ('. ($day+1) .' in anno bissextili)';

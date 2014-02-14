@@ -1,0 +1,1 @@
+O God, who didst raise up blessed Norbert thy Confessor and Bishop to be a powerful preacher of thy word, and through him didst render thy Church fruitful with a new offspring; grant, we beseech thee, that, helped by his merits, we may by thine aid be enabled to practise what by word and example he taught. Through our Lord.

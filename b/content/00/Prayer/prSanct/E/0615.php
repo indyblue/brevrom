@@ -1,0 +1,1 @@
+Grant unto thy Church, we beseech thee, O Lord, through the merits of thy holy Martyrs Vitus, Modestus, and Crescentia, that she aim not at worldly greatness, but advance in that lowliness which is pleasing unto thee; so that, despising all that is evil, she may, with charity unfeigned, give herself to the practice of all virtue. Through our Lord.

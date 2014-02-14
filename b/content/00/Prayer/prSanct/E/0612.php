@@ -1,0 +1,1 @@
+O God, the author of peace and lover of charity, who didst adorn blessed John thy Confessor with a marvellous grace for reconciling those at emnity; grant by his merits and intercession that, being strengthened in thy love, we may never be separated from thee by any temptations. Through our Lord.

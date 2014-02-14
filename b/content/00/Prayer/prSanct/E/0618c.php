@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that we who celebrate the festival of blessed Mark and Mercellian thy Martyrs, may through their intercession be delivered from all the evils that surround us. Through our Lord.

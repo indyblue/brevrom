@@ -1,0 +1,1 @@
+Deus, qui novum per beátam Ángelam sacrárum Vírginum collégium in Ecclésia tua floréscere voluísti: da nobis, ejus intercessióne, angélicis móribus vívere; ut, terrénis ómnibus abdicátis, gáudiis pérfrui mereámur ætérnis. Per Dóminum.

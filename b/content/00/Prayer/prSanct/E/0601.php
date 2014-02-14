@@ -1,0 +1,1 @@
+O God, who didst will that by means of blessed Angela a new society of holy virgins should flourish in thy Church; grant to us, by her intercession, so to emulate the lives of angels that, freely laying aside all earthly things, we may be found worthy to rejoice in eternal happiness. Through our Lord.

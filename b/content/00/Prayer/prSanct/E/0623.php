@@ -1,0 +1,1 @@
+Grant, we beseech thee, O almighty God, that thy servants may walk on the way of salvation, and by following the exhortations of blessed John the Precursor, may securely attain unto the possession of him whom he foretold, Jesus Christ thy Son, our Lord. Who liveth.

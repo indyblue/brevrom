@@ -1,0 +1,1 @@
+Præsta, quǽsumus, omnípotens Deus: ut família tua per viam salútis incédat; et beáti Joánnis Præcursóris hortaménta sectándo, ad eum quem prædíxit, secúra pervéniat, Dóminum nostrum Jesum Christum, Fílium tuum: Qui tecum vivit.

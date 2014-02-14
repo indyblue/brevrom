@@ -1,0 +1,1 @@
+O God, who didst render the blessed Queen Margaret truly admirable by her tender charity towards the poor; grant that, by her intercession and example, thy love may be continually increased in our hearts. Through our Lord.

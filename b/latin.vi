@@ -20,7 +20,7 @@ g/\v\c<[^aeëiouyæœáéíóúýǽ]{-}((au|[qg]u[aeëiouyæœáéíóúýǽ]|[a
 
 
 --- Accent Check ---
-\v\c<[^aeiouæœ]{-}((au|[qg]u[aeiouæœ]|[aeiouæœ])[^aeiouæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
+\v\c<[^aeiouyæœ]{-}((au|[qg]u[aeiouyæœ]|[aeiouyæœ])[^aeiouyæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
 
 --- accent drop ---
 %s/á/a/eig | %s/é/e/eig | %s/í/i/eig | %s/ó/o/eig | %s/ú/u/eig | %s/ý/y/eig | %s/[ǽæ]/ae/eig | %s/œ/oe/eig | noh
