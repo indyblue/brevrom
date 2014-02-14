@@ -1,6 +1,8 @@
 <?php
 	$long = $_GET['long'];
 	$matins = $_GET['matins'];
+	$old = $_GET['old'];
+
 	space('PgB');
 	space();
 	img('sanctus.tif',100);
@@ -223,7 +225,22 @@ if($matins) {
 	space();
 
 	bookmark('offDefLpr');
-	rubrics('offDef/preces_concl.php');
+	rubp('Preces infrascriptæ dicuntur flexis genibus:','The following prayers are said kneeling:');
+	vr('pater_silent_vr.php');
+if($old==1) {
+	rubp('<snr>¶</s> Sequens Ps. <snr>De profúndis,</s> non dicitur in die obitus seu despositionis defuncti.','<snr>¶</s> The following Ps. <snr>Out of the depths,</s> is not said on the day of death or burial.');
+	psalm(129);
+	reading('vr/requiem_aeternam.php',0);
+	space('Spacer');
+}
+
+	bookmark('offDefPreces');
+	vrS('a_porta_inferi_sing.php');
+	vrS('requiescant_in_pace_sing.php');
+	vrS('domine_exaudi_orationem_meam.php'); 
+	vrS('dominus_vobiscum_non.php'); 
+	vr('oremus.php'); 
+	rubp('Dicitur oratio conveniens ex iis, quæ sequuntur; deinde versus <snr>Réquiem ætérnam,</s> cum reliquis, ut infra, <snr>'.bkref('offDefConcl').'</s>.','Then the proper Prayer(s) are said, from those which follow; then the verse <snr>Eternal rest,</s> with the rest, as below, <snr>'.bkref('offDefConcl').'</s>.');
 
 	head('De orationes','The Collects',-2);
 	bookmark('offDefPrayer');
@@ -287,7 +304,17 @@ if($matins) {
 
 	head('In Officio pro defunctis in genere',
 		'In the Office for the dead in general',-4);
+	if($old==1) {
+		prayer('offDef/bishop2.php');
+		prayer('offDef/brethren2.php');
+	}
 	prayer('offDef/offDef.php');
+
+	space();
+	bookmark('offDefConcl');
+	rubp('Post orationem dicitur (semper plurali numero):','After the prayer(s) is said (always in the plural):');
+	vrS('requiem_aeternam.php');
+	vrS('requiescant_in_pace.php');
 	space();
 
 	hour('V');
@@ -332,6 +359,17 @@ if($matins) {
 		ant('offDefm.php','1');
 	}
 	space();
-	rubrics('offDef/preces_concl.php');
+
+	rubp('Preces infrascriptæ dicuntur flexis genibus:','The following prayers are said kneeling:');
+	vr('pater_silent_vr.php');
+if($old==1) {
+	rubp('<snr>¶</s> Sequens Ps. <snr>Lauda, ánima mea,</s> non dicitur in die obitus seu despositionis defuncti.','<snr>¶</s> The following Ps. <snr>Praise the Lord, O my soul,</s> is not said on the day of death or burial.');
+	psalm(145);
+	reading('vr/requiem_aeternam.php',0);
+	space('Spacer');
+}
+
+	rubp('Preces, <snr>A porta ínferi</s>, cum reliquis, ut ad Laudes, p. <snr>'.bkref('offDefPreces').'</s>.','Prayers, <snr>From the gates of hell</s>, with the rest, as in Lauds, p. <snr>'.bkref('offDefPreces').'</s>.');
+
 	img();
 ?>

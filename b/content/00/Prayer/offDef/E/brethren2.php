@@ -1,0 +1,1 @@
+O God, ever bountiful in forgiveness and lovingly desirous of man’s salvation, we humbly beseech thy mercy in behalf of our brethren, relatives, and benefactors who have passed out of this world, that, through the intercession of blessed Mary ever Virgin, and of all the Saints, they may attain unto the fruition of eternal beatitude.

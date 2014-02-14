@@ -77,12 +77,12 @@ if($weekly) rubp('','Full Psalter:
 	}
 
 	space();
+	bvm_head(13);
 	vrS('diffusa_est_gratia_in_labiis_tuis.php');
 	vr('pater_silent_vr.php');
 
 	space();
-	bvm_head(13);
-	head('Absolutio.','The Absolution',-3);
+	head('Absolutio.','The Absolution',-4);
 	reading('bvm/precibus.php',0,10);
 	vr('jube_domine.php');
 	reading('bvm/nos_cum_prole.php',0,10);
@@ -113,7 +113,11 @@ if($weekly) rubp('','Full Psalter:
 	space();
 
 	bvm_head(2);
-	head('Absolutio.','The Absolution',-3);
+	vrS('diffusa_est_gratia_in_labiis_tuis.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	head('Absolutio.','The Absolution',-4);
 	reading('bvm/precibus.php',0,10);
 	vr('jube_domine.php');
 	reading('bvm/nos_cum_prole.php',0,10);

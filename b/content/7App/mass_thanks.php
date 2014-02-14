@@ -28,6 +28,11 @@
 	canticle('vr/anima_christi.php');
 
 	space();
+	img('crucifix.tif',40);
+	head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',4);
+	prayer('App/mass_thanks_crucifix.php');
+
+	space();
 	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',4);
 	prayer('App/mass_thanks_thomas.php');
 

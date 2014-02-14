@@ -48,7 +48,7 @@ function vrS($file, $option=0, $option2=0) {
 		$L2 = $Lpieces[$i+1];
 		$E1 = $Epieces[$i];
 		$E2 = $Epieces[$i+1];
-		$subst = array(' *','*');
+		$subst = array(' *');
 
 		if($option==6)
 			echo "   <tr><td:A1>\n".
