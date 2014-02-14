@@ -13,6 +13,7 @@
 	hymn('salutis_humanae_sator.php',1);
 	vrS('PrTemp/ascendit_deus_in_jubilatione.php',1);
 	ant('prTemp/ascension/04m1.php','M');
+	rubrics('prSanct/ComplineSun.php');
 	space();
 
 	hour('L');
