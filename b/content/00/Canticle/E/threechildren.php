@@ -1,4 +1,4 @@
-Cant. Three Children (Dan. 3:57-88 &amp; 56)
+Cant. Three Children <br>(Dan. 3:57-88 &amp; 56)
 All ye works of the Lord, bless the Lord: * praise and exalt him above all for ever. 
 O ye Angels of the Lord, bless the Lord: * O ye heavens, bless the Lord: 
 O all ye waters that are above the heavens, bless the Lord: * O all ye powers of the Lord, bless the Lord.

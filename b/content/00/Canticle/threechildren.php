@@ -1,4 +1,4 @@
-Cant. Trium Puerorum (Dan. 3:57-88 &amp; 56)
+Cant. Trium Puerorum <br>(Dan. 3:57-88 &amp; 56)
 Benedícite, ómnia ópera Dómini, Dómino: * laudáte et superexaltáte eum in sǽcula.
 Benedícite, Ángeli Dómini, Dómino: * benedícite, cæli, Dómino.
 Benedícite, aquæ omnes, quæ super cælos sunt, Dómino: * benedícite, omnes virtútes Dómini, Dómino.

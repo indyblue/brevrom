@@ -1,3 +1,24 @@
+--- Convert to Latin only 2 column for printing ---
+%s///g
+%s/^\s\+//g
+%s/</\r\0/ig
+g/^$/d
+%s/\n\(<\/\{0,1}table\)\@!//ig
+g/TableParallel.B\d/d
+
+%s/</\r\0/ig
+g/<\/*table/d
+g/^$/d
+%s/\n\(<text:p\)\@!//ig
+
+<text:section text:style-name="Sect1" text:name="Section1">
+</text:section>
+
+%s/.*Head1.*\n.*Head5.*/<\/text:section>\r\0\r<text:section text:style-name="Sect1" text:name="Section1">/
+%s/.*P182.*/<\/text:section>\r\0/
+%s/.*P181.*/\0\r<text:section text:style-name="Sect1" text:name="Section1">/
+
+
 --- Latin Lines only ---
 g!/BodyL\|HymnL/d 
 g/BodyL><sr><snr>/d

@@ -1,5 +1,6 @@
 <?php
 	$long = $_GET['long'];
+	space();
 	hidden('Gradual Psalms',2);
 	head('Psalmi Graduales','Gradual Psalms',1);
 	rubp('Sicubi recitentur in choro, congrue dicuntur ante Matutinum diei; extra chorum vero pro temporis opportunitate.',
@@ -97,6 +98,5 @@
 	vrS('dominus_vobiscum.php');
 	vr('oremus.php');
 	prayer('App/gradual03.php');
-	space();
 
 ?>

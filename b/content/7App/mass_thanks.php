@@ -1,5 +1,6 @@
 <?php
 
+	space();
 	hidden('Thanksgiving after Mass',2);
 	head('Gratiarum actio post Missam','Act of Thanksgiving after Mass',1);
 

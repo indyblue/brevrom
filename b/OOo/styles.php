@@ -12,6 +12,12 @@ if($_GET['Style']=='7') {
 	$PgMar = .25;
 	$PgGMar = .25;
 	$Body = 9;
+} elseif($_GET['Style']=='4') {
+	$PgW = 3;
+	$PgH = 5;
+	$PgMar = .25;
+	$PgGMar = .25;
+	$Body = 7;
 } elseif($_GET['Style']=='L5') {
 	$PgW = 5.5 + .25;
 	$PgH = 8.5 + .25;
@@ -39,13 +45,14 @@ if($_GET['Style']=='7') {
 	$Body = $_GET['BodyFont'];
 }
 
-	$BodySm = $Body - 1;
+	if($Body<8.5) $BodySm = $Body;
+	else $BodySm = $Body - 1;
 	$RubricHSm = $Body - 1.5;
 	$HymnR = $Body + 1;
-	$Head1 = $Body * 1.9;
-	$Head0 = $Head1 + 2;
-	$Head2 = $Body * 1.1;
-	$Head3 = $Body * 1.1;
+	$Head0 = $Body + 4;
+	$Head1 = $Body + 2;
+	$Head2 = $Body + 1;
+	$Head3 = $Body + 1;
 /*	
 RubricHSm		$BodySm
 HymnS				4
@@ -141,14 +148,14 @@ Spacer			2
 
   <style:style style:name="Head0" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.00in" fo:margin-bottom="0.00in" fo:text-align="center" fo:keep-with-next="always"/>
-	<style:text-properties style:font-name="Old London" fo:font-size=<?php echo '"'. $Head0 .'pt"' ?>/>
+	<style:text-properties fo:text-transform="uppercase" fo:font-weight="bold" fo:color="#ff0000" fo:font-size=<?php echo '"'. $Head0 .'pt"' ?>/>
   </style:style>
   <style:style style:name="Head0L" style:family="paragraph" style:parent-style-name="Head0">
      <style:text-properties text:display="true"/>
   </style:style>
 
   <style:style style:name="Head1" style:family="paragraph" style:parent-style-name="Head0">
-   <style:text-properties fo:font-size=<?php echo '"'. $Head1 .'pt"' ?>/>
+   <style:text-properties fo:color="#000000" fo:font-weight="bold" fo:font-size=<?php echo '"'. $Head1 .'pt"' ?>/>
   </style:style>
   <style:style style:name="Head1L" style:family="paragraph" style:parent-style-name="Head1">
      <style:text-properties text:display="true"/>
@@ -159,8 +166,8 @@ Spacer			2
   </style:style>
 
   <style:style style:name="Head2" style:family="paragraph" style:parent-style-name="Head1" style:next-style-name="Rubric" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0.02in" fo:margin-bottom="0.02in"/>
-   <style:text-properties style:font-name="TimesLT" fo:font-size=<?php echo '"'. $Head2 .'pt"' ?> fo:font-weight="bold"/>
+   <style:paragraph-properties fo:margin-top="0.00in" fo:margin-bottom="0.00in"/>
+   <style:text-properties fo:font-variant="small-caps" fo:font-size=<?php echo '"'. $Head2 .'pt"' ?> fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="Head2L" style:family="paragraph" style:parent-style-name="Head2">
      <style:text-properties text:display="true"/>
@@ -170,7 +177,7 @@ Spacer			2
   <style:style style:name="Head2Cant" style:family="paragraph" style:parent-style-name="Head4"/>
 
   <style:style style:name="Head3" style:family="paragraph" style:parent-style-name="Head2">
-   <style:text-properties fo:font-size=<?php echo '"'. $Head3 .'pt"' ?> fo:font-style="italic" fo:font-weight="normal"/>
+   <style:text-properties fo:font-size=<?php echo '"'. $Head3 .'pt"' ?> fo:color="#ff0000" fo:font-weight="normal"/>
   </style:style>
   <style:style style:name="Head3L" style:family="paragraph" style:parent-style-name="Head3">
      <style:text-properties text:display="true"/>
@@ -192,7 +199,7 @@ Spacer			2
   </style:style>
 
   <style:style style:name="Line" style:family="paragraph" style:parent-style-name="Spacer">
-   <style:paragraph-properties fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0008in solid #000000" style:shadow="none"/>
+   <style:paragraph-properties fo:margin-left="0.15in" fo:margin-right="0.15in" fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0008in solid #ff0000" style:shadow="none"/>
   </style:style>
 
 
@@ -209,7 +216,7 @@ Spacer			2
   <style:style style:name="Hidden2" style:family="paragraph" style:parent-style-name="Hidden1" style:list-style-name="Outline" style:master-page-name="" style:default-outline-level="2"/>
 
   <style:style style:name="Rubric" style:family="text">
-   <style:text-properties fo:color="#ff0000" fo:font-style="italic"/>
+   <style:text-properties fo:color="#ff0000" fo:font-style="normal"/>
   </style:style>
   <style:style style:name="RubricH" style:family="text" style:parent-style-name="Rubric">
    <style:text-properties style:text-position="10% 70%"/>
@@ -242,7 +249,7 @@ Spacer			2
    <style:text-properties style:text-position="super 58%"/>
   </style:style>
   <style:style style:name="DropCap" style:family="text">
-   <style:text-properties style:font-name="Old London" fo:font-weight="250"/>
+   <style:text-properties style:font-name="TimesLT" fo:color="#ff0000" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="VR" style:family="text">
    <style:text-properties fo:color="#ff0000" style:font-name="Times VR"/>

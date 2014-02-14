@@ -174,7 +174,14 @@ function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $dr
 				echo "<table>\n";
 				$table=1;
 			}
-			if(strpos($Lpieces[$i],'<')===0) {
+			if(preg_match('/[Rr].[  ]/',substr($Lpieces[$i+1],0,3))) {
+				echo "<tr><td:A1>\n<p:BodyL>". 
+					$line_style($Lpieces[$i]) .'<t>'. $line_style($Lpieces[$i+1]) .
+					"</p>\n</td><td:B1>\n<p:BodyE>".
+					$line_style($Epieces[$i]) .'<t>'. $line_style($Lpieces[$i+1]) .
+					"</p>\n</td></tr>\n";
+					$i++;
+			} elseif(strpos($Lpieces[$i],'<')===0) {
 				echo '  <tr><td:A1>
    <p:BodyL>'. $Lpieces[$i] .'</p>
   </td><td:B1>

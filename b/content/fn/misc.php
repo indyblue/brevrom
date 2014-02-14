@@ -8,10 +8,10 @@ function space($type='BodySm') {
 	elseif($type=='PgI') $type='P179';
 	elseif($type==2) $type = 'Spacer';
 	elseif($type==4) $type = 'HymnS';
-	//elseif($type=='Line') $type='P191';
-	echo '
-  <p:'. $type .'/>
-';
+	
+	if($type=='Line')
+		echo "\n<table><tr><td:A1><p:Line/></td><td:B1><p:Line/></td></tr></table>\n";
+	else echo "\n<p:". $type ."/>\n";
 }
 
 // checks to see if $str exists in the 

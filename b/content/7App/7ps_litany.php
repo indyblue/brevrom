@@ -1,6 +1,7 @@
 <?php
 	$long = $_GET['long'];
 
+	space();
 	hidden('Penitential Psalms',2);
 	head('Septem Psalmi Pœnitentiales','Seven Penitential Psalms',1);
 	head('cum Litaniis Sanctorum ac suis Precibus','with the Litany of the Saints and its Prayers',14);
@@ -37,8 +38,6 @@
 		reading('vr/gloria_patri-s.php',0);
 	}
 	ant('ne_reminiscaris.php','1',2);
-	space();
-	img();
 	space();
 
 	hidden('Litany of the Saints',2);

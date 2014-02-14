@@ -373,5 +373,4 @@ if($old==1) {
 
 	rubp('Preces, <snr>A porta ínferi</s>, cum reliquis, ut ad Laudes, p. <snr>'.bkref('offDefPreces').'</s>.','Prayers, <snr>From the gates of hell</s>, with the rest, as in Lauds, p. <snr>'.bkref('offDefPreces').'</s>.');
 
-	img();
 ?>

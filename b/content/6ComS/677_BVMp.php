@@ -569,9 +569,6 @@ if($weekly) rubp('','Full Psalter:
 if($old==2) {
 	
 	space();
-	img();
-	space();
-	space();
 	hidden('',2);
 	head('','Summary of Changes',2);
 	space();

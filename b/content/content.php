@@ -90,18 +90,17 @@ $_GET['matins'] = 1;
 
 // Little Office Stuff
 // ************************************************************
-/*
+//*
 require '0Intro/101_aperi.php';
 require '0Intro/105_sacrosancte.php';
+require '0Intro/106_o_clementissime.php';
 require '0Intro/110_collect.php';
-space('PgB');
 $_GET['old'] = 1;
 require '6ComS/677_BVMp.php';
-/*
+//*
 $_GET['matins'] = 0;
 require '6ComS/690_OfficeDead.php';
 require '7App/index.php';
-require '7App/7_dolours.php';
 // */
 
 
@@ -153,6 +152,32 @@ echo bklist(0);
 
 
 // ************************************************************
+// * test
+// ************************************************************
+/*
+$_GET['Style'] = '7';
+bklist('test');
+
+$_GET['old'] = 0;
+$_GET['matins'] = 1;
+$_GET['long'] = 1;
+
+require '100_intro.php';
+require '1Ordinary/index.php';
+
+require '2Psalter/index.php';
+
+require '6ComS/index.php';
+require '6ComS/677_BVMp.php';
+$_GET['matins'] = 0;
+require '6ComS/690_OfficeDead.php';
+require '7App/index.php';
+rubrics('head/HymnVerse.php');
+hymn('veni_creator_spiritus.php',0);
+
+// */
+
+// ************************************************************
 // * 4.25x7 Master copy
 // ************************************************************
 /*
@@ -186,7 +211,7 @@ require '7App/index.php';
 // ************************************************************
 // * 5.5x8.5 Lulu Master copy
 // ************************************************************
-//*
+/*
 $_GET['Style'] = 'L5';
 bklist('test');
 
