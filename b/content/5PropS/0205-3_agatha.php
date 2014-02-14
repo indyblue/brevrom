@@ -23,7 +23,7 @@
 	rubrics('prSanct/horas_from.php','csHWLH','with the readings for a Martyr (<snr>Ecclus. 51</s>)');
 
 	space();
-	rubrics('head/2Vespers.php'); 
+	rubrics('head/Vespers.php'); 
 	rubrics('ps/antLauds.php');
 	rubrics('ps/SuV147.php'); 
 	rubrics('head/LittleChapter.php'); 

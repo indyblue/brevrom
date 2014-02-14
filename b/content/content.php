@@ -42,7 +42,7 @@ $_GET['L'] = 1;
 //     'L4' for Lulu 4.25 x 6.875
 //     'L5' for Lulu 5.5 x 8.5
 //     'L6' for Lulu 6 x 9
-$_GET['Style'] = '';
+$_GET['Style'] = 'L5';
 
 //Switch to determine size of headings:
 // 0 = smaller headings (used in propers)
@@ -66,7 +66,7 @@ $_GET['O'] = 0;
 // echo '   </text:section>';
 
 // require 'temp/210_part_proper_seasons.php';
-require 'temp/510_part_proper_saints.php';
+// require 'temp/510_part_proper_saints.php';
 // require 'temp/610_part_common_saints.php';
 
 //hymn('vexilla_regis_prodeunt.php');
@@ -75,37 +75,20 @@ require 'temp/510_part_proper_saints.php';
 // echo '   <p:Head1NI/>';
 
 
-// require '100_intro.php';
-// require '150_calendar.php';
-// require '3PropT/index.php';
-// $_GET['O'] = 1;
-// require '1Ordinary/index.php';
-// require '2Psalter/index.php';
-// $_GET['O'] = 0;
-// 
-// require '5PropS/index.php';
-// require '6ComS/index.php';
-// 
-// require '7App/index.php';
-// require '998_indices.php';
+require '100_intro.php';
+require '150_calendar.php';
+require '3PropT/index.php';
+$_GET['O'] = 1;
+require '1Ordinary/index.php';
+require '2Psalter/index.php';
+$_GET['O'] = 0;
 
-echo '
-<p:BkHidden><text:bookmark text:name="csM"/></p>
-<p:BkHidden><text:bookmark text:name="csBVM"/></p>
-<p:BkHidden><text:bookmark text:name="pt0101L"/></p>
-<p:BkHidden><text:bookmark text:name="ave_maris_stella"/></p>
-<p:BkHidden><text:bookmark text:name="o_gloriosa_virginum"/></p>
-<p:BkHidden><text:bookmark text:name="o_gloriosa_virginum"/></p>
-<p:BkHidden><text:bookmark text:name="csCB"/></p>
-<p:BkHidden><text:bookmark text:name="jesu_corona_virginum"/></p>
-<p:BkHidden><text:bookmark text:name="csHWLH"/></p>
-<p:BkHidden><text:bookmark text:name="jesu_corona_virginum"/></p>
-<p:BkHidden><text:bookmark text:name="csCB"/></p>
-<p:BkHidden><text:bookmark text:name="csC"/></p>
-<p:BkHidden><text:bookmark text:name="csC"/></p>
-<p:BkHidden><text:bookmark text:name="csCB"/></p>
-<p:BkHidden><text:bookmark text:name="csV"/></p>
-';
+require '5PropS/index.php';
+require '6ComS/index.php';
+
+require '7App/index.php';
+require '998_indices.php';
+
 
 require '999_end.php';
 ?>

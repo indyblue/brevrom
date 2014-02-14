@@ -31,7 +31,7 @@
 <?php vrS('adjuvabit_eam_deus_vultu_suo.php'); ?>
    <p:BodySm/>
 
-<?php rubrics('asIn.php','csBVMS','Common of Blessed Virgin Mary','Sext &amp; None'); ?> 
+<?php rubrics('prSanct/sext_none_from.php','csBVMS'); ?>
    <p:BodySm/>
 
 <?php rubrics('head/Vespers.php'); ?>

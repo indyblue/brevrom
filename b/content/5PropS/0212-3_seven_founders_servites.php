@@ -7,10 +7,10 @@
 
 	rubrics('head/Lauds.php'); 
 	rubrics('head/LittleChapter.php'); 
-	lc('ecclus51_1.php'); 
+	lc('1pet4_13.php'); 
 	rubrics('head/HymnVerse.php');
-	hymn('.php');
-	vrS('.php'); 
+	hymn('sic_patres_vitam_peragunt_in_umbra.php');
+	vrS('prSanct/sit_memoria_illorum_in_benedictione.php'); 
 	rubrics('head/Benedictus.php'); 
 	ant('prSanct/0212b.php','B'); 
 	rubrics('head/Prayer.php'); 
@@ -19,19 +19,25 @@
 	space();
 	rubrics('head/LittleHours.php'); 
 	rubrics('ps/Feria.php'); 
-	rubrics('prSanct/horas_from.php','csHWLH','with the readings for a Martyr (<snr>Ecclus. 51</s>)');
+	rubrics('head/Terce.php');
+	rubrics('head/LittleChapter.php');
+	lc('1pet4_13.php'); 
+	rubrics('head/BriefRespond.php');
+	brS('amavit_eum_dominus_et_ornavit_eum.php');
+	vrS('os_justi_meditabitur_sapientiam.php');
 
 	space();
-	rubrics('head/2Vespers.php'); 
-	rubrics('ps/antLauds.php');
-	rubrics('ps/SuV147.php'); 
+	rubrics('prSanct/sext_none_from.php','csCS');
+
+	space();
+	rubrics('head/Vespers.php'); 
 	rubrics('head/LittleChapter.php'); 
-	lc('ecclus51_1.php'); 
-	rubrics('asIn.php','jesu_corona_virginum',
-		'Common of Virgins','Hymn <snr>Jesu, coróna Vírginum</s>');
-	vrS('diffusa_est_gratia_in_labiis_tuis.php'); 
+	lc('1pet4_13.php'); 
+	rubrics('head/HymnVerse.php');
+	hymn('matris_sub_almae_numine.php');
+	vrS('prSanct/hi_viri_misericordiae_sunt_quorum_pietates_non_defuerunt.php'); 
 	rubrics('head/Magnificat.php'); 
-	ant('prSanct/0205m.php','M'); 
+	ant('prSanct/0212m.php','M'); 
 	rubrics('prSanct/ComplineFeria.php'); 
 
 ?>

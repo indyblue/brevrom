@@ -54,6 +54,7 @@ echo ($_GET['L']==1?'Commune Confessoris non Pontificis':'Common of Confessors')
 <?php vrS('os_justi_meditabitur_sapientiam.php'); ?>
    <p:BodySm/>
 
+<?php bookmark('csCS'); ?>
 <?php rubrics('head/Sext.php'); ?>
 <?php rubrics('head/LittleChapter.php'); ?>
 <?php lc('ecclus39_6.php'); ?>

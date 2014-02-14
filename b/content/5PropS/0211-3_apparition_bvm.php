@@ -29,7 +29,7 @@
 	lc('cant2_13.php');
 	rubrics('head/BriefRespond.php');
 	brS('prSanct/quae_est_ista_quae_ascendit_de_deserto.php');
-	vrS('prSanct/viderunt_eam_filiae_sion.php.php');
+	vrS('prSanct/viderunt_eam_filiae_sion.php');
 	
 	space();
 	rubrics('head/Sext.php');
@@ -48,7 +48,7 @@
 	vrS('prSanct/transite_ad_me_omnes_qui_concupiscitis_me.php');
 
 	space();
-	rubrics('head/2Vespers.php');
+	rubrics('head/Vespers.php');
 	rubrics('ps/antLauds.php');
 	rubrics('ps/ComBVM.php');
 	rubrics('head/LittleChapter.php');

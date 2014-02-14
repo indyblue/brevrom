@@ -44,5 +44,13 @@ require '0211-3_apparition_bvm.php';
 
 require '0212-3_seven_founders_servites.php';
 
+feast_saint(214,0,'Sancti Valentini','Saint Valentine','pM');
+
+feast_saint(215,0,'Ss. Faustini et Jovitæ','Ss. Faustinus and Jovita','M+',
+	array('csMartyrs2.php','Faustíni et Jovítæ','Faustinus and Jovita'));
+
+feast_saint(218,0,'Sancti Simeonis','Saint Simeon','EM',
+	array('csMartyrBishop1.php','Simeónis','Simeon'));
+
 ?>
 
