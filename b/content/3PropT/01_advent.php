@@ -1,11 +1,13 @@
-<?php img('ihs.tif',100); ?>
-   <p:RubricH/>
-   <p:Head0>Tempus Adventus</p>
-   <p:Body/>
-<?php hidden('Advent',1); ?>
-<?php hidden('Advent I',2); ?>
-   <p:Head1>Dominica I Adventus</p>
-   <p:Head2>I classis</p>
+<?php 
+	img('ihs.tif',100); 
+	space();
+	head('Tempus Adventus','Advent Season',0);
+	space();
+	hidden('Advent',1); 
+	hidden('Advent I',2);
+	head('Dominica I Adventus','First Sunday of Advent',1);
+	head('I cl.','',5)
+?>
    <p:Head2>Collect</p>
    <table>
     <tr>
