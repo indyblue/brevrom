@@ -3,6 +3,7 @@
    <p:Head1NI/>
    <p:Spacer><draw:frame draw:style-name="fr4" draw:name="Frame4" text:anchor-type="paragraph" svg:width="1.6756in" style:rel-width="49%" draw:z-index="58">
      <draw:text-box fo:min-height="0.2in">
+	<?php bookmark('Ordinary'); ?>
    <p:Head0>Ordinarium Divini Officii</p>
      </draw:text-box>
     </draw:frame></p>
@@ -12,7 +13,7 @@
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>Matins</p>
    <p:Head1>ad Matutínum</p>
-   <p:Rubric>Only select parts of this Hour have been included for reference.</p>
+   <p:Rubric>Only select parts of this Hour have been included.</p>
    <p:RubricHSm><t>Ps 50:17</p>
 <?php vrS('Ord/domine_labia_mea_aperies.php'); ?>
 <?php vr('deus_in_adjutorium.php'); ?>
@@ -217,6 +218,7 @@
    <p:Body/>
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>Lauds</p>
+	<?php bookmark('orLauds'); ?>
    <p:Head1>ad Laudes</p>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Psalms with Antiphons</p>
@@ -225,6 +227,23 @@
    <p:Rubric>b) On all ferias of the seasons of Advent, Septuagesima, Lent and Passiontide;</p>
    <p:Rubric>c) On the September Ember Days, and on vigils of the 2nd and 3rd class outside of Paschaltide.</p>
    <p:Rubric>Scheme I is used at all other times.</p>
+	<p:Body><sr>The Psalms and Antiphons, unless proper, are given in the Psalter:</s></p>
+	<p:Body><sr>Scheme I:
+Sunday (</s>p. <?php echo bkref('psDL1'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2L1'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3L1'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4L1'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5L1'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6L1'); ?><sr>) 
+Saturday (</s><?php echo bkref('psSL1'); ?><sr>)</s></p>
+	<p:Body><sr>Scheme II:
+Sunday (</s>p. <?php echo bkref('psDL2'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2L2'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3L2'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4L2'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5L2'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6L2'); ?><sr>) 
+Saturday (</s><?php echo bkref('psSL2'); ?><sr>)</s></p>
    <p:Head2>Little Chapter</p>
    <p:Spacer/>
    <p:Head2>Hymn and Verse</p>
@@ -257,11 +276,20 @@
    <p:Body/>
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('orPrime'); ?>
    <p:Head1>ad Primam</p>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Hymn</p>
 <?php hymn('jam_lucis_orto_sidere.php'); ?>
    <p:Head2>Psalms with Antiphon</p>
+	<p:Body><sr>The Psalms and Antiphon, unless proper, are given in the Psalter:
+Sunday (</s>p. <?php echo bkref('psDP'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2P'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3P'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4P'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5P'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6P'); ?><sr>) 
+Saturday (</s><?php echo bkref('psSP'); ?><sr>)</s></p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
    <p:RubricHSm><t>1 Tim. 1:17</p>
@@ -540,11 +568,20 @@
    <p:Body/>
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('orTerce'); ?>
    <p:Head1>ad Tértiam</p>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Hymn</p>
 <?php hymn('nunc_sancte_nobis_spiritus.php'); ?>
    <p:Head2>Psalms with Antiphon</p>
+	<p:Body><sr>The Psalms and Antiphon, unless proper, are given in the Psalter:
+Sunday (</s>p. <?php echo bkref('psDT'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2T'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3T'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4T'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5T'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6T'); ?><sr>) 
+Saturday (</s><?php echo bkref('psST'); ?><sr>)</s></p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
    <p:RubricHSm>In ferial Office:<t>Jer 17:14</p>
@@ -569,11 +606,20 @@
    <p:Body/>
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('orSext'); ?>
    <p:Head1>ad Sextam</p>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Hymn</p>
 <?php hymn('rector_potens_verax_deus.php'); ?>
    <p:Head2>Psalms with Antiphon</p>
+	<p:Body><sr>The Psalms and Antiphon, unless proper, are given in the Psalter:
+Sunday (</s>p. <?php echo bkref('psDS'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2S'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3S'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4S'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5S'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6S'); ?><sr>) 
+Saturday (</s><?php echo bkref('psSS'); ?><sr>)</s></p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
    <p:RubricHSm>In ferial Office:<t>Rom 13:8</p>
@@ -598,11 +644,20 @@
    <p:Body/>
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>None</p>
+	<?php bookmark('orNone'); ?>
    <p:Head1>ad Nonam</p>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Hymn</p>
 <?php hymn('rerum_deus_tenax_vigor.php'); ?>
    <p:Head2>Psalms with Antiphon</p>
+	<p:Body><sr>The Psalms and Antiphon, unless proper, are given in the Psalter:
+Sunday (</s>p. <?php echo bkref('psDN'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2N'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3N'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4N'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5N'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6N'); ?><sr>) 
+Saturday (</s><?php echo bkref('psSN'); ?><sr>)</s></p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
    <p:RubricHSm>In ferial Office:<t>I Pet 1:17</p>
@@ -628,9 +683,18 @@
    <p:Body/>
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('orVespers'); ?>
    <p:Head1>ad Vésperas</p>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Psalms with Antiphons</p>
+	<p:Body><sr>The Psalms and Antiphons, unless proper, are given in the Psalter:
+Sunday (</s>p. <?php echo bkref('psDV'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2V'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3V'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4V'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5V'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6V'); ?><sr>) 
+Saturday (</s><?php echo bkref('psSV'); ?><sr>)</s></p>
    <p:Spacer/>
    <p:Head2>Little Chapter</p>
    <p:Spacer/>
@@ -665,6 +729,7 @@
    <p:Body/>
    <p:Hidden1>Ordinary</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('orCompline'); ?>
    <p:Head1>ad Completórium</p>
    <table>
     <tr>
@@ -812,6 +877,14 @@
 <?php vrS('Ord/converte_nos_deus_salutaris_noster.php'); ?>
 <?php vr('deus_in_adjutorium.php'); ?>
    <p:Head2>Psalms with Antiphon</p>
+	<p:Body><sr>The Psalms and Antiphon, unless proper, are given in the Psalter:
+Sunday (</s>p. <?php echo bkref('psDC'); ?><sr>) 
+Monday (</s><?php echo bkref('ps2C'); ?><sr>) 
+Tuesday (</s><?php echo bkref('ps3C'); ?><sr>) 
+Wednesday (</s><?php echo bkref('ps4C'); ?><sr>) 
+Thursday (</s><?php echo bkref('ps5C'); ?><sr>) 
+Friday (</s><?php echo bkref('ps6C'); ?><sr>) 
+Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    <p:Spacer/>
    <p:Head2>Hymn</p>
 <?php hymn('te_lucis_ante_terminum.php'); ?>

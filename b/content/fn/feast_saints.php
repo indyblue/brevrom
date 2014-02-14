@@ -123,6 +123,13 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	//set to 0; the date method above is preferable,
 	//as it detects optional times.
 	if(strpos($type,'e')!==false && $pt==0) $pt = 1;
+
+	//the PT switch for antiphons needs to be either 0, 1 or 2.
+	//If $pt=-1 (lent/easter optional), 
+	//then something different has to happen
+	if($pt==-1) $pta = 2;
+	else $pta = $pt;
+
 	if(ereg('[HVWQ]',$type)!==false) $fem = 1;
 	if(strpos($type,'M')!==false) $mart = 1;
 	if(strpos($type,'a')!==false) $abb = 1;
@@ -151,10 +158,8 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			$csP = 'csApPT';
 			$LvrP = 'pretiosa_in_conspectu_domini.php';
 			$LantP = 'filiae_jerusalem_venite_et_videte_martyres.php';
-			$cs = 'csMm';
-			$Lvr = 'exultabunt_sancti_in_gloria.php';
-			$Lant = 'vestri_capilli_capitis_omnes_numerati_sunt.php';
-		}elseif($pt) {
+		}	
+		if($pt==1) {
 			$cs = 'csApPT';
 			$Lvr = 'pretiosa_in_conspectu_domini.php';
 			$Lant = 'filiae_jerusalem_venite_et_videte_martyres.php';
@@ -162,8 +167,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			$cs = 'csMm';
 			$Lvr = 'exultabunt_sancti_in_gloria.php';
 			$Lant = 'vestri_capilli_capitis_omnes_numerati_sunt.php';
-		}
-		else {
+		} else {
 			$cs = 'csM';
 			$Lvr = 'justus_ut_palma_florebit.php';
 			$Lant = 'qui_odit_animam_suam_in_hoc_mundo.php';
@@ -259,9 +263,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 					.' ('. $nameE .') ', E_USER_ERROR);
 			if($doct) {
 				space('Spacer');
-				if($pt==-1) $ptd = 2;
-				else $ptd = $pt;
-				ant('csConfessorDoctorAnt.php','M',$ptd,$ant[0],$ant[1]);
+				ant('csConfessorDoctorAnt.php','M',$pta,$ant[0],$ant[1]);
 			}
 		}
 	} else {
@@ -271,8 +273,17 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		echo '
   <p:RubricH>Commemoration is made of '. $nameE .', '. $Etype .':</p>
 ';
-		ant($Lant,1,$pt);
-		vrS($Lvr,$pt);
+		if($pta==2 && strlen($LantP)>0) {
+			rubrics('head/PT.php');
+			ant($LantP,1,1);
+			vrS($LvrP,1);
+			rubrics('head/PTnot.php');
+			ant($Lant,1);
+			vrS($Lvr);
+		} else {			
+			ant($Lant,1,$pta);
+			vrS($Lvr,$pta);
+		}
 		rubrics('oremus.php');
 		if(is_array($prayer)) {
 			if(count($prayer)<3)

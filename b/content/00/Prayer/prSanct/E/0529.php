@@ -1,0 +1,1 @@
+O God, the lover of virginity, who, inflaming the blessed Virgin Mary Magdalene with thy love, didst adorn her with heavenly gifts; grant that, as we venerate her with festive celebration, we may strive after a purity and charity like unto hers. Through our Lord.

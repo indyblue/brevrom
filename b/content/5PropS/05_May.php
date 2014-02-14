@@ -40,6 +40,34 @@ feast_saint(515,3,'S. Joannis Baptistæ de la Salle','St. John Baptist de la Sal
 
 feast_saint(516,3,'Sancti Ubaldi','Saint Ubaldus','EC');
 
+require '0518-3_venantius.php';
+
+feast_saint(519,3,'S. Petri Cælestini','St. Peter Celestine','PC',0,
+	'feast_saint(519,-1,"Sanctæ Prudentianæ","Saint Prudentiana","V",
+		array("csVirgin1.php","Prudentiánæ","Prudentiana"));');
+
+feast_saint(520,3,'S. Bernardini Senensis','St. Bernardine of Siena','C');
+
+feast_saint(525,3,'S. Gregorii VII','St. Gregory VII','PC',0,
+	'feast_saint(525,-1,"Sancti Urbani I","Saint Urban I","PM",
+		array("csPope3m.php","Urbáno","Urban"));');
+
+feast_saint(526,3,'S. Philippi Nerii','St. Philip Neri','C',0,
+	'feast_saint(526,-1,"Sancti Eleutherii","Saint Eleutherius","PM",
+		array("csPope1m.php","Eleuthérium","Eleutherius"));');
+
+feast_saint(527,3,'S. Bedæ Venerabilis','Venerable Bede','CD',0,
+	'feast_saint(527,-1,"Sancti Joannis I","Saint John I","PM",
+		array("csPope1m.php","Joánnem","John"));',
+	array('Beda','Bede'));
+
+feast_saint(528,3,'Sancti Augustini','St. Augustine of Canterbury','EC');
+
+feast_saint(529,3,'S. Mariæ Magdalenæ de Pazzis','St. Mary Magdalene de Pazzi','V');
+
+feast_saint(530,0,'Sancti Felicis I','Saint Felix I','PM',
+	array('csPope1m.php','Felícem','Felix'));
+
 
 /*
 feast_saint(402,3,'S. Francisci de Paula','St. Francis of Paula','C');

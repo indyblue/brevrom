@@ -11,7 +11,8 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Matins</p>
-   <p:Head1>Domínica ad Matutínum</p>
+	<?php bookmark('psDM'); ?>
+	<p:Head1>Domínica ad Matutínum</p>
    <p:Head2>FIRST NOCTURN</p>
    <table>
     <tr>
@@ -206,6 +207,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Lauds I</p>
+	<?php bookmark('psDL1'); ?>
    <p:Head1>Domínica ad Laudes I</p>
    <p:RubricH>Paschaltide: (Used at all hours)<text:line-break/>under single antiphon all Psalms and Canticle are said:</p>
    <table>
@@ -368,6 +370,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Lauds II</p>
+	<?php bookmark('psDL2'); ?>
    <p:Head1>Domínica ad Laudes II</p>
    <p:Rubric>Antiphons given in Proper of Seasons</p>
 <?php bookmark('PsSuL2'); ?>
@@ -386,6 +389,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('psDP'); ?>
    <p:Head1>Domínica ad Primam</p>
    <p:Rubric>In Advent, and on the II cl feasts of our Lord occurring on Septuagesima, Sexagesima or Quinquagesima Sundays, the Antiphons, as also at Terce, Sext and None are from Lauds of the Propers.</p>
    <table>
@@ -421,6 +425,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('psDT'); ?>
    <p:Head1>Domínica ad Tértiam</p>
    <table>
     <tr>
@@ -533,6 +538,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('psDS'); ?>
    <p:Head1>Domínica ad Sextam</p>
    <table>
     <tr>
@@ -645,6 +651,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>None</p>
+	<?php bookmark('psDN'); ?>
    <p:Head1>Domínica ad Nonam</p>
    <table>
     <tr>
@@ -757,6 +764,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('psDV'); ?>
    <p:Head1>Domínica ad II Vésperas</p>
    <table>
     <tr>
@@ -864,15 +872,15 @@
    </table>
    <p:P191/>
    <p:RubricH>The following psalms are included for convenience. They are only used on feasts, as specified in the Propers. When used, one of the following will be said in place of Ps 113. At all other times, they are omitted, and Vespers continues with the little chapter.</p>
-<?php bookmark('Ps116'); ?>
+<?php bookmark('psD16'); ?>
 <?php psalm('116.php'); ?>
-<?php bookmark('Ps115'); ?>
+<?php bookmark('psD15'); ?>
 <?php psalm('115.php'); ?>
-<?php bookmark('Ps131'); ?>
+<?php bookmark('psD31'); ?>
 <?php psalm('131.php'); ?>
-<?php bookmark('Ps137'); ?>
+<?php bookmark('psD37'); ?>
 <?php psalm('137.php'); ?>
-<?php bookmark('Ps147'); ?>
+<?php bookmark('psD47'); ?>
 <?php psalm('147.php'); ?>
    <p:P191/>
 	<p:BodySm/>
@@ -910,6 +918,7 @@
    <p:Body/>
    <p:Hidden1>Sunday</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('psDC'); ?>
    <p:Head1>Domínica ad Completórium</p>
    <table>
     <tr>
@@ -940,6 +949,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Matins</p>
+	<?php bookmark('ps2M'); ?>
    <p:Head1>Feria secúnda ad Matutínum</p>
    <p:Head2>FIRST NOCTURN</p>
    <table>
@@ -1135,6 +1145,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Lauds I</p>
+	<?php bookmark('ps2L1'); ?>
    <p:Head1>Feria secúnda ad Laudes I</p>
    <table>
     <tr>
@@ -1284,6 +1295,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Lauds II</p>
+	<?php bookmark('ps2L2'); ?>
    <p:Head1>Feria secúnda ad Laudes II</p>
    <table>
     <tr>
@@ -1590,6 +1602,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('ps2P'); ?>
    <p:Head1>Feria secúnda ad Primam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -1698,6 +1711,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('ps2T'); ?>
    <p:Head1>Feria secúnda ad Tértiam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -1807,6 +1821,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('ps2S'); ?>
    <p:Head1>Feria secúnda ad Sextam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -1915,6 +1930,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>None</p>
+	<?php bookmark('ps2N'); ?>
    <p:Head1>Feria secúnda ad Nonam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -2023,6 +2039,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('ps2V'); ?>
    <p:Head1>Feria secúnda ad Vésperas</p>
    <p:Spacer/>
    <table>
@@ -2172,6 +2189,7 @@
    <p:Body/>
    <p:Hidden1>Monday</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('ps2C'); ?>
    <p:Head1>Feria secúnda ad Completórium</p>
    <table>
     <tr>
@@ -2204,6 +2222,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Matins</p>
+	<?php bookmark('ps3M'); ?>
    <p:Head1>Feria tértia ad Matutínum</p>
    <p:Head2>FIRST NOCTURN</p>
    <table>
@@ -2399,6 +2418,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Lauds I</p>
+	<?php bookmark('ps3L1'); ?>
    <p:Head1>Feria tértia ad Laudes I</p>
    <table>
     <tr>
@@ -2547,6 +2567,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Lauds II</p>
+	<?php bookmark('ps3L2'); ?>
    <p:Head1>Feria tértia ad Laudes II</p>
    <table>
     <tr>
@@ -2853,6 +2874,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('ps3P'); ?>
    <p:Head1>Feria tértia ad Primam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -2962,6 +2984,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('ps3T'); ?>
    <p:Head1>Feria tértia ad Tértiam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -3071,6 +3094,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('ps3S'); ?>
    <p:Head1>Feria tértia ad Sextam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -3181,6 +3205,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>None</p>
+	<?php bookmark('ps3N'); ?>
    <p:Head1>Feria tértia ad Nonam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -3289,6 +3314,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('ps3V'); ?>
    <p:Head1>Feria tértia ad Vésperas</p>
    <table>
     <tr>
@@ -3437,6 +3463,7 @@
    <p:Body/>
    <p:Hidden1>Tuesday</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('ps3C'); ?>
    <p:Head1>Feria tértia ad Completórium</p>
    <table>
     <tr>
@@ -3467,6 +3494,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Matins</p>
+	<?php bookmark('ps4M'); ?>
    <p:Head1>Feria quárta ad Matutínum</p>
    <p:Head2>FIRST NOCTURN</p>
    <table>
@@ -3728,6 +3756,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Lauds I</p>
+	<?php bookmark('ps4L1'); ?>
    <p:Head1>Feria quárta ad Laudes I</p>
    <table>
     <tr>
@@ -3876,6 +3905,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Lauds II</p>
+	<?php bookmark('ps4L2'); ?>
    <p:Head1>Feria quárta ad Laudes II</p>
    <table>
     <tr>
@@ -4182,6 +4212,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('ps4P'); ?>
    <p:Head1>Feria quárta ad Primam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -4290,6 +4321,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('ps4T'); ?>
    <p:Head1>Feria quárta ad Tértiam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -4398,6 +4430,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('ps4S'); ?>
    <p:Head1>Feria quárta ad Sextam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -4506,6 +4539,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>None</p>
+	<?php bookmark('ps4N'); ?>
    <p:Head1>Feria quárta ad Nonam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -4614,6 +4648,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('ps4V'); ?>
    <p:Head1>Feria quárta ad Vésperas</p>
    <table>
     <tr>
@@ -4762,6 +4797,7 @@
    <p:Body/>
    <p:Hidden1>Wednesday</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('ps4C'); ?>
    <p:Head1>Feria quárta ad Completórium</p>
    <table>
     <tr>
@@ -4792,6 +4828,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Matins</p>
+	<?php bookmark('ps5M'); ?>
    <p:Head1>Feria quínta ad Matutínum</p>
    <p:Head2>FIRST NOCTURN</p>
    <table>
@@ -4987,6 +5024,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Lauds I</p>
+	<?php bookmark('ps5L1'); ?>
    <p:Head1>Feria quínta ad Laudes I</p>
    <table>
     <tr>
@@ -5135,6 +5173,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Lauds II</p>
+	<?php bookmark('ps5L2'); ?>
    <p:Head1>Feria quínta ad Laudes II</p>
    <table>
     <tr>
@@ -5441,6 +5480,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('ps5P'); ?>
    <p:Head1>Feria quínta ad Primam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -5539,6 +5579,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('ps5T'); ?>
    <p:Head1>Feria quínta ad Tértiam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -5636,6 +5677,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('ps5S'); ?>
    <p:Head1>Feria quínta ad Sextam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -5733,6 +5775,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>None</p>
+	<?php bookmark('ps5N'); ?>
    <p:Head1>Feria quínta ad Nonam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -5830,6 +5873,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('ps5V'); ?>
    <p:Head1>Feria quínta ad Vésperas</p>
    <table>
     <tr>
@@ -5978,6 +6022,7 @@
    <p:Body/>
    <p:Hidden1>Thursday</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('ps5C'); ?>
    <p:Head1>Feria quínta ad Completórium</p>
    <table>
     <tr>
@@ -6008,6 +6053,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Matins</p>
+	<?php bookmark('ps6M'); ?>
    <p:Head1>Feria sexta ad Matutínum</p>
    <p:Head2>FIRST NOCTURN</p>
    <table>
@@ -6203,6 +6249,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Lauds I</p>
+	<?php bookmark('ps6L1'); ?>
    <p:Head1>Feria sexta ad Laudes I</p>
    <table>
     <tr>
@@ -6351,6 +6398,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Lauds II</p>
+	<?php bookmark('ps6L2'); ?>
    <p:Head1>Feria sexta ad Laudes II</p>
    <table>
     <tr>
@@ -6657,6 +6705,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('ps6P'); ?>
    <p:Head1>Feria sexta ad Primam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -6754,6 +6803,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('ps6T'); ?>
    <p:Head1>Feria sexta ad Tértiam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -6851,6 +6901,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('ps6S'); ?>
    <p:Head1>Feria sexta ad Sextam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -6948,6 +6999,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>None</p>
+	<?php bookmark('ps6N'); ?>
    <p:Head1>Feria sexta ad Nonam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -7045,6 +7097,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('ps6V'); ?>
    <p:Head1>Feria sexta ad Vésperas</p>
    <table>
     <tr>
@@ -7193,6 +7246,7 @@
    <p:Body/>
    <p:Hidden1>Friday</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('ps6C'); ?>
    <p:Head1>Feria sexta ad Completórium</p>
    <table>
     <tr>
@@ -7223,6 +7277,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Matins</p>
+	<?php bookmark('psSM'); ?>
    <p:Head1>Sábbato ad Matutínum</p>
    <p:Head2>FIRST NOCTURN</p>
    <table>
@@ -7420,6 +7475,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Lauds I</p>
+	<?php bookmark('psSL1'); ?>
    <p:Head1>Sábbato ad Laudes I</p>
 <?php bookmark('PsSaL1'); ?>
    <table>
@@ -7569,6 +7625,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Lauds II</p>
+	<?php bookmark('psSL2'); ?>
    <p:Head1>Sábbato ad Laudes II</p>
    <table>
     <tr>
@@ -7879,6 +7936,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Prime</p>
+	<?php bookmark('psSP'); ?>
    <p:Head1>Sábbato ad Primam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -7976,6 +8034,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Terce</p>
+	<?php bookmark('psST'); ?>
    <p:Head1>Sábbato ad Tértiam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -8073,6 +8132,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Sext</p>
+	<?php bookmark('psSS'); ?>
    <p:Head1>Sábbato ad Sextam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -8170,6 +8230,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>None</p>
+	<?php bookmark('psSN'); ?>
    <p:Head1>Sábbato ad Nonam</p>
    <p:RubricHSm>1st week of Advent:</p>
    <table>
@@ -8267,6 +8328,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Vespers</p>
+	<?php bookmark('psSV'); ?>
    <p:Head1>ad I Vésperas Dominicæ</p>
    <table>
     <tr>
@@ -8417,6 +8479,7 @@
    <p:Body/>
    <p:Hidden1>Saturday</p>
    <p:Hidden2>Compline</p>
+	<?php bookmark('psSC'); ?>
    <p:Head1>Sábbato ad Completórium</p>
    <table>
     <tr>

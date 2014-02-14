@@ -1,0 +1,1 @@
+O Lord Jesus, who didst vouchsafe to the blessed Bernardine a singular love of thy holy name; mercifully pour into our hearts, by virtue of his merits and intercession, the spirit of thy love. Who livest.

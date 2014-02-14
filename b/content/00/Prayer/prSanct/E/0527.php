@@ -1,0 +1,1 @@
+O God, who enlightenest thy Church by the learning of blessed Bede thy Confessor and Doctor; mercifully grant to thy servants that they may ever be instructed by his wisdom and aided by his merits. Through our Lord.

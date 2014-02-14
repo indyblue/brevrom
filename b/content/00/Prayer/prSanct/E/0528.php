@@ -1,0 +1,1 @@
+O God, who didst vouchsafe to illumine the nation of the English with the light of the true faith by the preaching and miracles of blessed Augustine thy Confessor and Bishop; grant, through his intercession, that the hearts of those who have wandered away may return to the unity of thy truth, and that we may all be of one mind in thy will. Through our Lord.

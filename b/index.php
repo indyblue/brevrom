@@ -79,7 +79,7 @@ fclose($fh);
 $zip->addFile("./OOo/meta.xml","meta.xml");
 if($_GET['Style']=='7')
 	$zip->addFile("./OOo/styles_7.xml","styles.xml");
-if($_GET['Style']=='ds')
+elseif($_GET['Style']=='ds')
 	$zip->addFile("./OOo/styles_7ds.xml","styles.xml");
 elseif($_GET['Style']=='L4')
 	$zip->addFile("./OOo/styles_Lulu4x6.xml","styles.xml");

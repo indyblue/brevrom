@@ -1,0 +1,1 @@
+O God, who, having raised blessed Peter Celestine to the height of the supreme Pontificate, didst also teach him to prefer humility; mercifully grant that by his example we may be enabled to despise all earthly things, and happily to attain the rewards promised to the humble. Through our Lord.

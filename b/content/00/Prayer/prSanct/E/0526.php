@@ -1,0 +1,1 @@
+O God, who hast exalted thy blessed Confessor Philip and made him glorious among the saints; mercifully grant that we who rejoice in his solemnity may also profit by the example of his virtues. Through our Lord.
