@@ -175,7 +175,7 @@
       <p:BodyL><sr>Ant. </s>Me étenim * de die in diem quærunt, et scire vias meas volunt</p>
      </td>
      <td:B1>
-      <p:BodyE><sr>Ant. </s>For they seek me * from day to day, sad desire to know my ways</p>
+      <p:BodyE><sr>Ant. </s>For they seek me * from day to day, and desire to know my ways</p>
      </td>
     </tr>
    </table>

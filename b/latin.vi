@@ -35,3 +35,6 @@ fœdere
 fœderis
 fœtidum
 
+/* find œ's */
+set nomore | ar *.htm *\*.htm *\*\*.htm *\*\*\*.htm | call setreg('a',"")
+argdo g//y A

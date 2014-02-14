@@ -48,7 +48,7 @@ $_GET['L'] = 1;
 //     'L4' for Lulu 4.25 x 6.875
 //     'L5' for Lulu 5.5 x 8.5
 //     'L6' for Lulu 6 x 9
-$_GET['Style'] = 'ds';
+$_GET['Style'] = '7';
 
 //Switch to determine size of headings:
 // 0 = smaller headings (used in propers)
@@ -60,6 +60,8 @@ $_GET['O'] = 0;
 // require '6ComS/690_OfficeDead.php';
 
 // echo '   <p:P181/>';
+// psalm(1);
+// psalm(12);
 // require '2Psalter/7none.php';
 // psalm(94);
 // psalm(118);
@@ -82,19 +84,19 @@ $_GET['O'] = 0;
 // echo '   <p:Head1NI/>';
 
 
-require '100_intro.php';
+// require '100_intro.php';
 // require '110_toc.php';
-require '150_calendar.php';
+// require '150_calendar.php';
 require '3PropT/index.php';
 $_GET['O'] = 1;
-require '1Ordinary/index.php';
-require '2Psalter/index.php';
+// require '1Ordinary/index.php';
+// require '2Psalter/index.php';
 $_GET['O'] = 0;
 
-require '5PropS/index.php';
-require '6ComS/index.php';
+// require '5PropS/index.php';
+// require '6ComS/index.php';
 
-require '7App/index.php';
+// require '7App/index.php';
 // require '998_indices.php';
 
 
