@@ -3,8 +3,8 @@
 
 	space('Pg');
 	space();
-	head('Appendix','',0);
 	hidden('',1);
+	head('Appendix','',0);
 	space();
 
 	require 'ps_gradual.php';

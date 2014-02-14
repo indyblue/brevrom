@@ -7,6 +7,8 @@ function caps_first_word($sline) {
 function first_word($sline,$minlen=2,$retarr=0) {
 	$split = mb_split(' ',$sline,3);
 	$i = mb_strlen($split[0]);
+	if(count($split)==1) array_push($split,"");
+	if(count($split)==2) array_push($split,"");
 	if($i>$minlen) 
 		$split[2] = $split[1] .' '. $split[2];
 	elseif($i=$minlen) {

@@ -20,8 +20,8 @@
 	space();
 
 if($matins) {
-	hour('M');
 	hidden('Matins',2);
+	hour('M');
 	bookmark('offDefM');
 	rubp('', 'Matins begins immediately with the invitatory.');
 	ant('regem_cui_omnia_vivunt_venite_adoremus.php','I');
@@ -181,8 +181,8 @@ if($matins) {
 	rubrics('offDef/mConcl.php');
 }
 
-	hour('L');
 	hidden('Lauds',2);
+	hour('L');
 	bookmark('offDefL');
 	rubp('Absolute incipiuntur ab', 'Begins at once with',1);
 	ant('offDefL.php','20000');
@@ -242,6 +242,8 @@ if($old==1) {
 	vr('oremus.php'); 
 	rubp('Dicitur oratio conveniens ex iis, quæ sequuntur; deinde versus <snr>Réquiem ætérnam,</s> cum reliquis, ut infra, <snr>'.bkref('offDefConcl').'</s>.','Then the proper Prayer(s) are said, from those which follow; then the verse <snr>Eternal rest,</s> with the rest, as below, <snr>'.bkref('offDefConcl').'</s>.');
 
+	space();
+	hidden('Collects',2);
 	head('De orationes','The Collects',-2);
 	bookmark('offDefPrayer');
 	rubp('','In the following prayers, masculine variations are denoted by “m.”; feminine variations by “f.”; plural variations by “pl.”');
@@ -317,8 +319,8 @@ if($old==1) {
 	vrS('requiescant_in_pace.php');
 	space();
 
-	hour('V');
 	hidden('Vespers',2);
+	hour('V');
 	bookmark('offDefV');
 	rubp('Absolute incipiuntur ab', 'Begins at once with',1);
 	ant('offDefV.php','20000');

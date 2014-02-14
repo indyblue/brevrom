@@ -2,7 +2,7 @@
 $_GET['L'] = 0;
 $_GET['par'] = 1;
 $_GET['long'] = 1;
-$_GET['root'] = dirname(__FILE__);
+$_GET['root'] = dirname(__FILE__) . '/content';
 $pos = strpos($_GET['root'],'\\content');
 if($pos>0)
 	$_GET['root'] = substr($_GET['root'],0,$pos+8);
@@ -21,9 +21,8 @@ $_GET['long'] = 1;
 $_GET['weekly'] = 0;
 $_GET['matins'] = 1;
 
-require '../6ComS/677_BVMp.php';
-require '../6ComS/690_OfficeDead.php';
-require '../7App/index.php';
+$url = $_GET['url'];
+require 'content/'.$url;
 // */
 
 ///////////////////////////////////////////////////////////

@@ -1,14 +1,14 @@
 <?php
 
 function space($type='BodySm') {
-	if($type=='Line') $type='P191';
-	elseif($type=='Pg') $type='P1';
+	if($type=='Pg') $type='P1';
 	elseif($type=='PgB') $type='P181';
 	elseif($type=='PgH') $type='P182';
 	elseif($type=='PgH1') $type='P180';
 	elseif($type=='PgI') $type='P179';
 	elseif($type==2) $type = 'Spacer';
 	elseif($type==4) $type = 'HymnS';
+	//elseif($type=='Line') $type='P191';
 	echo '
   <p:'. $type .'/>
 ';

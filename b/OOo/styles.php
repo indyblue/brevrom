@@ -191,6 +191,11 @@ Spacer			2
    <style:text-properties fo:font-size="2pt"/>
   </style:style>
 
+  <style:style style:name="Line" style:family="paragraph" style:parent-style-name="Spacer">
+   <style:paragraph-properties fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0008in solid #000000" style:shadow="none"/>
+  </style:style>
+
+
   <style:style style:name="PageHeader" style:family="paragraph" style:parent-style-name="BodySm">
    <style:paragraph-properties fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.0008in solid #000000" style:shadow="none">
    </style:paragraph-properties>
