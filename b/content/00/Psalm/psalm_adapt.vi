@@ -14,3 +14,9 @@ vim/[A-Z]\{2,}/*.php
 ggjlvwu:wn
 
 \%2l^[^A-Z]
+
+
+----- psalm first line -----
+ar *.php | call setreg("a","") | set nomore
+argdo call setreg("A", bufname("") . "| " . getline("2") . "\n")
+%s/\*.*$// | %s/ $// | %s/\W$//
