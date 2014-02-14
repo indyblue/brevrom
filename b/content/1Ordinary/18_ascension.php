@@ -7,6 +7,8 @@
 	head('De hymno et versu','The hymn and verse',3);
 	hymn('aurora_caelum_purpurat.php',0);
 	vrS('PrTemp/in_resurrectione_tua_christe.php',1);
+	rubrics('head/Prayer.php');
+	prayer('prTemp/ascension/0101.php');
 	space();
 
 	hour('T');
