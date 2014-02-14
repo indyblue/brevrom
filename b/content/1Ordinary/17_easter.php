@@ -2,8 +2,7 @@
 
 	space();
 	bookmark('OrEaster');
-	head('Tempore Paschatis', 'Season of 
-		Easter',1,'Ordinary','Easter');
+	head('Tempore Paschatis', 'Season of Easter',1,'Ordinary','Easter');
 	hour('L');
 	lc('rom6_9-10.php');
 	head('De hymno et versu','The hymn and verse',3);

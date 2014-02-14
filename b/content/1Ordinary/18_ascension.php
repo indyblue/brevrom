@@ -1,3 +1,37 @@
 <?php
 	bookmark('OrAscension');
+/*
+	head('Tempore Ascensionis', 'Season of Ascensiontide',1,'Ordinary','Ascension');
+	hour('L');
+	lc('acts1_11.php');
+	head('De hymno et versu','The hymn and verse',3);
+	hymn('aurora_caelum_purpurat.php',0);
+	vrS('PrTemp/in_resurrectione_tua_christe.php',1);
+	space();
+
+	hour('T');
+	lc('rom6_9-10.php');
+	brS('PrTemp/surrexit_dominus_de_sepulcro.php',1);
+	vrS('PrTemp/surrexit_dominus_vere.php',1);
+	space();
+
+	hour('S');
+	lc('1cor15_20-22.php');
+	brS('PrTemp/surrexit_dominus_vere.php',1);
+	vrS('PrTemp/gavisi_sunt_discipuli.php',1);
+	space();
+
+	hour('N');
+	lc('1pet3_18.php');
+	brS('PrTemp/gavisi_sunt_discipuli.php',1);
+	vrS('PrTemp/mane_nobiscum_domine.php',1);
+	space();
+
+	hour('V');
+	lc('rom6_9-10.php');
+	head('De hymno et versu','The hymn and verse',3);
+	hymn('ad_regias_agni_dapes.php',0);
+	vrS('PrTemp/mane_nobiscum_domine.php',1);
+
+*/
 ?>
