@@ -1,4 +1,9 @@
-<?php require '0Intro/101_aperi.php'; ?>
+<?php 
+
+space('PgI');
+require '0Intro/101_aperi.php'; 
+
+?>
 
 	<p:Body><sr>The Canonical hours then begin as described in the Ordinary: 
 Lauds (</s>p. <?php echo bkref('orLauds'); ?><sr>) 

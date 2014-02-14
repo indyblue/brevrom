@@ -90,14 +90,18 @@ $_GET['matins'] = 1;
 
 // Little Office Stuff
 // ************************************************************
-//*
+/*
+space('PgB');
 require '0Intro/101_aperi.php';
 require '0Intro/105_sacrosancte.php';
 require '0Intro/106_o_clementissime.php';
 require '0Intro/110_collect.php';
 $_GET['old'] = 1;
 require '6ComS/677_BVMp.php';
+
+// */ 
 //*
+space('PgB');
 $_GET['matins'] = 0;
 require '6ComS/690_OfficeDead.php';
 require '7App/index.php';
