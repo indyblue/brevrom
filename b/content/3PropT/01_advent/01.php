@@ -1,5 +1,7 @@
 <?php 
+	img();
 	space();
+	hidden('Advent',1);
 	hidden('Advent I',2);
 	head_temp(1,'Dominica I Adventus', 'First Sunday of Advent');
 
@@ -19,7 +21,7 @@
 	lc('rom13_11.php');
 	hymn('en_clara_vox_redarguit.php',1);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
-	ant('PrTemp/advent/01/01b.php','M');
+	ant('PrTemp/advent/01/01b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('PrTemp/advent/01.php');
 	space();
@@ -80,10 +82,10 @@
 	feria(4);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/01/f4b.php','B');
-	rubp('Et dicuntur preces.', 'And the preces are said.');
+	rubrics('et_dicuntur_preces.php');
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	ant('PrTemp/advent/01/f4m.php','M');
-	rubp('Et dicuntur preces.', 'And the preces are said.');
+	rubrics('et_dicuntur_preces.php');
 	space();
 
 	feria(5);
@@ -96,10 +98,10 @@
 	feria(6);
 	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('PrTemp/advent/01/f6b.php','B');
-	rubp('Et dicuntur preces.', 'And the preces are said.');
+	rubrics('et_dicuntur_preces.php');
 	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	ant('PrTemp/advent/01/f6m.php','M');
-	rubp('Et dicuntur preces.', 'And the preces are said.');
+	rubrics('et_dicuntur_preces.php');
 	space();
 
 	feria(7);

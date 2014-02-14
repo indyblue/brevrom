@@ -128,10 +128,14 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 		else 
 			head('', $clname[$class] .' '. $descr[0] 
 				.' — '. $clname[$class] .' '. $descr[1], 4);
-	}
-	else
+	} elseif($descr>100) {
+		$date = convert_date($descr);
+		if($L) head($clnameL[$class].' - '.$date[0],'', 4);
+		else head('', $clnameE[$class].' - '.$date[1], 4);		
+	} else {
 		if($L) head($clnameL[$class],'', 4);
 		else head('', $clnameE[$class], 4);
+	}
 
 }
 

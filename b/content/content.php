@@ -102,7 +102,7 @@ require '7App/index.php';
 // */
 
 // Monastic Stuff
-//*
+/*
 $_GET['Style'] = 'custom';
 $_GET['PgW'] = 8.5;
 $_GET['PgH'] = 11;
@@ -142,7 +142,7 @@ echo bklist(0);
 // require '3PropT\01_advent\index.php';
 // */
 
-/*
+//*
 $_GET['matins'] = 1;
 require '100_intro.php';
 require '110_toc.php';

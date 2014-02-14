@@ -57,7 +57,7 @@ feast_saint(725,2,'Sancti Jacobi','Saint James','A',0,
 	'feast_saint(725,-1,"Sancti Christophori","Saint Christopher","M",
 		array("csMartyr1.php","Christóphori","Christopher"));');
 
-feast_saint(726,2,'Sanctæ Annæ <br><r>Matris B. Mariæ Virg</s>','Saint Anne <br><r>Mother of the Bl. Virg. Mary','H');
+feast_saint(726,2,'Sanctæ Annæ <br><r>Matris B. Mariæ Virg</s>','Saint Anne <br><r>Mother of the Bl. Virg. Mary</s>','H');
 
 feast_saint(727,0,'Sancti Pantaleonis','Saint Pantaleon','M',
 	array('csMartyr2.php','Pantaleóne','Pantaleon'));

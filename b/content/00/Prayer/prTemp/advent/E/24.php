@@ -1,0 +1,1 @@
+O God, who rejoicest us by the annual expectation of the Festival of our Redemption: grant that as we joyfully welcome thine only-begotten Son as our Redeemer, we may look upon him with confidence when he appeareth as our Judge, our Lord Jesus Christ Thy Son. Who liveth.
