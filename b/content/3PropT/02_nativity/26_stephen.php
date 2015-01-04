@@ -6,10 +6,10 @@
 
 	csref('csM',0,11);
 	rubp('Sicubi in II Vesp. Nativ. facienda sit com. S. Stephani:', 'If anywhere commem. is to be made of St. Stephen at II Vespers of Christmas:');
-	ant('PrTemp/nativity/26b.php','1');
+	ant('prTemp/nativity/26b.php','1');
 	vrS('gloria_et_honore_coronasti_eum_domine.php');
-	rubrics('Oremus.php');
-	prayer('PrTemp/nativity/26.php');
+	rubrics('oremus.php');
+	prayer('prTemp/nativity/26.php');
 	space();
 
 	hour('L');
@@ -18,10 +18,10 @@
 	ant('prTemp/nativity/26L.php','02222');	
 	lc('acts6_8.php');
 	hymn('invicte_martyr_unicum.php',1);
-	vrS('PrTemp/sepelierunt_stephanum_viri_timorati.php');
-	ant('PrTemp/nativity/26b.php','B');
+	vrS('prTemp/sepelierunt_stephanum_viri_timorati.php');
+	ant('prTemp/nativity/26b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/26.php');
+	prayer('prTemp/nativity/26.php');
 	require '25comL.php';
 	space();
 
@@ -51,10 +51,10 @@
 	rubrics('ant_et_pss_de_nativitate.php');
 	lc('acts6_8.php');
 	hymn('deus_tuorum_militum.php',1);
-	vrS('PrTemp/stephanus_vidit_caelos_apertos.php');
-	ant('PrTemp/nativity/26m.php','M');
+	vrS('prTemp/stephanus_vidit_caelos_apertos.php');
+	ant('prTemp/nativity/26m.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/26.php');
+	prayer('prTemp/nativity/26.php');
 	require '25comV.php';
 	rubrics('prSanct/ComplineSun.php');
 

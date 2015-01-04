@@ -10,7 +10,7 @@
 	rubrics('ps/SuV116.php');
 	lc('acts2_1-2.php');
 	hymn('veni_creator_spiritus.php',1);
-	vrS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+	vrS('prTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
 	ant('prTemp/pentecost/00m1.php','M');
 	rubrics('prSanct/ComplineSun.php');
 	space();
@@ -22,7 +22,7 @@
 	lc('acts2_1-2.php');
 	rubrics('head/HymnVerse.php');
 	hymn('beata_nobis_gaudia.php',0);
-	vrS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+	vrS('prTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
 	ant('prTemp/pentecost/00b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prTemp/pentecost/00.php');
@@ -39,22 +39,22 @@
 	hymn('veni_creator_spiritus.php',1);
 	ant('prTemp/pentecost/00L.php','0*000');
 	lc('acts2_1-2.php');
-	brS('PrTemp/spiritus_domini_replevit_orbem_terrarum.php',1);
-	vrS('PrTemp/spiritus_paraclitus.php',1);
+	brS('prTemp/spiritus_domini_replevit_orbem_terrarum.php',1);
+	vrS('prTemp/spiritus_paraclitus.php',1);
 	space();
 
 	hour('S');
 	ant('prTemp/pentecost/00L.php','00*00');
 	lc('acts2_6.php');
-	brS('PrTemp/spiritus_paraclitus.php',1);
-	vrS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+	brS('prTemp/spiritus_paraclitus.php',1);
+	vrS('prTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
 	space();
 
 	hour('N');
 	ant('prTemp/pentecost/00L.php','0000*');
 	lc('acts2_11.php');
-	brS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
-	vrS('PrTemp/loquebantur_variis_linguis_apostoli.php',1);
+	brS('prTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+	vrS('prTemp/loquebantur_variis_linguis_apostoli.php',1);
 	space();
 
 	hour('2V');
@@ -63,7 +63,7 @@
 	lc('acts2_1-2.php');
 	rubrics('head/HymnVerse.php');
 	hymn('veni_creator_spiritus.php',0);
-	vrS('PrTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
+	vrS('prTemp/repleti_sunt_omnes_spiritu_sancto.php',1);
 	ant('prTemp/pentecost/00m2.php','M');
 	rubrics('head/Prayer.php');
 	prayer('prTemp/pentecost/00.php');

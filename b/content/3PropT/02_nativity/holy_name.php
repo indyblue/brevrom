@@ -14,8 +14,8 @@
 	rubrics('ps/SuV115.php');
 	lc('phil2_8-10.php');
 	hymn('jesu_dulcis_memoria.php',1);
-	vrS('PrTemp/sit_nomen_domini_benedictum.php',1);
-	ant('PrTemp/nativity/holy_name_m1.php','M');
+	vrS('prTemp/sit_nomen_domini_benedictum.php',1);
+	ant('prTemp/nativity/holy_name_m1.php','M');
 	rubrics('prSanct/ComplineSun.php');
 	space();
 
@@ -27,9 +27,9 @@
 	rubrics('head/HymnVerse.php');
 	hymn('jesu_decus_angelicum.php');
 	vrS('Ord/adjutorium_nostrum_in_nomine_domini.php');
-	ant('PrTemp/nativity/holy_name_b.php','B');
+	ant('prTemp/nativity/holy_name_b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/holy_name.php');
+	prayer('prTemp/nativity/holy_name.php');
 	space();
 
 	ordref(0,4,0);
@@ -38,19 +38,19 @@
 
 	hour('T');
 	lc('phil2_8-10.php');
-	brS('PrTemp/sit_nomen_domini_benedictum.php',1);
-	vrS('PrTemp/afferte_domino_gloriam_et_honorem.php',1);
+	brS('prTemp/sit_nomen_domini_benedictum.php',1);
+	vrS('prTemp/afferte_domino_gloriam_et_honorem.php',1);
 	space();
 
 	hour('S');
 	lc('phil2_10.php');
-	brS('PrTemp/afferte_domino_gloriam_et_honorem.php',1);
-	vrS('PrTemp/magnificate_dominum_mecum.php',1);
+	brS('prTemp/afferte_domino_gloriam_et_honorem.php',1);
+	vrS('prTemp/magnificate_dominum_mecum.php',1);
 	space();
 
 	hour('N');
 	lc('col3_17a.php');
-	brS('PrTemp/magnificate_dominum_mecum.php',1);
+	brS('prTemp/magnificate_dominum_mecum.php',1);
 	vrS('Ord/adjutorium_nostrum_in_nomine_domini.php',1);
 	space();
 
@@ -62,8 +62,8 @@
 	lc('phil2_8-10.php');
 	rubrics('head/HymnVerse.php');
 	hymn('jesu_dulcis_memoria.php',0);
-	vrS('PrTemp/sit_nomen_domini_benedictum.php',1);
-	ant('PrTemp/nativity/holy_name_m2.php','M');
+	vrS('prTemp/sit_nomen_domini_benedictum.php',1);
+	ant('prTemp/nativity/holy_name_m2.php','M');
 	rubrics('prSanct/ComplineSun.php');
 	space();
 

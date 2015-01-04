@@ -9,8 +9,8 @@
 	rubrics('ps/SuV116.php');	
 	lc('is60_1.php');
 	hymn('crudelis_herodes_deum.php',1);
-	vrS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php');
-	ant('PrTemp/epiphany/06m1.php','M');
+	vrS('prTemp/reges_tharsis_et_insulae_munera_offerent.php');
+	ant('prTemp/epiphany/06m1.php','M');
 	rubrics('prSanct/ComplineSun.php');
 	space();
 
@@ -20,13 +20,13 @@
 	ant('prTemp/epiphany/06L.php','02222');	
 	lc('is60_1.php');
 	hymn('o_sola_magnarum_urbium.php',1);
-	vrS('PrTemp/adorate_deum.php',1);
-	ant('PrTemp/epiphany/06b.php','B');
+	vrS('prTemp/adorate_deum.php',1);
+	ant('prTemp/epiphany/06b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/epiphany/06.php');
+	prayer('prTemp/epiphany/06.php');
 	space('line');
 	head('Die 13 januarii', 'On January 13',4);
-	prayer('PrTemp/epiphany/13.php');
+	prayer('prTemp/epiphany/13.php');
 	space('line');
 
 	space();
@@ -40,20 +40,20 @@
 
 	hour('T');
 	lc('is60_1.php');
-	brS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php',1);
-	vrS('PrTemp/omnes_de_saba_venient.php',1);
+	brS('prTemp/reges_tharsis_et_insulae_munera_offerent.php',1);
+	vrS('prTemp/omnes_de_saba_venient.php',1);
 	space();
 
 	hour('S');
 	lc('is60_4.php');
-	brS('PrTemp/omnes_de_saba_venient.php',1);
-	vrS('PrTemp/adorate_dominum.php',1);
+	brS('prTemp/omnes_de_saba_venient.php',1);
+	vrS('prTemp/adorate_dominum.php',1);
 	space();
 
 	hour('N');
 	lc('is60_6.php');
-	brS('PrTemp/adorate_dominum.php',1);
-	vrS('PrTemp/adorate_deum.php',1);
+	brS('prTemp/adorate_dominum.php',1);
+	vrS('prTemp/adorate_deum.php',1);
 	space();
 
 
@@ -62,8 +62,8 @@
 	rubrics('ps/SuV.php');	
 	lc('is60_1.php');
 	hymn('crudelis_herodes_deum.php',1);
-	vrS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php');
-	ant('PrTemp/epiphany/06m2.php','M');
+	vrS('prTemp/reges_tharsis_et_insulae_munera_offerent.php');
+	ant('prTemp/epiphany/06m2.php','M');
 	rubrics('prSanct/ComplineSun.php');
 	space();
 

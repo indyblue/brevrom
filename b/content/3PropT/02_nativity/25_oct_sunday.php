@@ -8,8 +8,8 @@
 	rubrics('ant_et_pss_de_nativitate.php');
 	lc('gal4_1-2.php');
 	hymn('jesu_redemptor_omnium_quem.php',1);
-	vrS('PrTemp/verbum_caro_factum_est.php',1);
-	ant('PrTemp/nativity/oct_sun_b.php','M');
+	vrS('prTemp/verbum_caro_factum_est.php',1);
+	ant('prTemp/nativity/oct_sun_b.php','M');
 	rubp('Et non fit com. oct. Nativ.', 'And no commem. is made of the oct. of the Nativity.');
 	rubrics('prSanct/ComplineSun.php');
 	space();
@@ -20,10 +20,10 @@
 	ant('prTemp/nativity/25L.php','02222');	
 	lc('gal4_1-2.php');
 	hymn('a_solis_ortus_cardine.php',1);
-	vrS('PrTemp/notum_fecit_dominus.php',1);
-	ant('PrTemp/nativity/oct_sun_b.php','B');
+	vrS('prTemp/notum_fecit_dominus.php',1);
+	ant('prTemp/nativity/oct_sun_b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/oct_sun.php');
+	prayer('prTemp/nativity/oct_sun.php');
 	rubp('Et non fit com. oct. Nativ.', 'And no commem. is made of the oct. of the Nativity.');
 	space();
 
@@ -31,28 +31,28 @@
 
 	hour('T');
 	lc('gal4_1-2.php');
-	brS('PrTemp/verbum_caro_factum_est.php',1);
-	vrS('PrTemp/ipse_invocabit_me.php',1);
+	brS('prTemp/verbum_caro_factum_est.php',1);
+	vrS('prTemp/ipse_invocabit_me.php',1);
 	space();
 
 	hour('S');
 	lc('gal4_4-5.php');
-	brS('PrTemp/notum_fecit_dominus.php',1);
-	vrS('PrTemp/viderunt_omnes_fines_terrae.php',1);
+	brS('prTemp/notum_fecit_dominus.php',1);
+	vrS('prTemp/viderunt_omnes_fines_terrae.php',1);
 	space();
 
 	hour('N');
 	lc('gal4_7.php');
-	brS('PrTemp/viderunt_omnes_fines_terrae.php',1);
-	vrS('PrTemp/verbum_caro_factum_est.php',1);
+	brS('prTemp/viderunt_omnes_fines_terrae.php',1);
+	vrS('prTemp/verbum_caro_factum_est.php',1);
 	space();
 
 	hour('2V');
 	rubrics('ant_et_pss_de_nativitate.php');
 	lc('gal4_1-2.php');
 	hymn('jesu_redemptor_omnium_quem.php',1);
-	vrS('PrTemp/notum_fecit_dominus.php',1);
-	ant('PrTemp/nativity/oct_sun_m.php','M');
+	vrS('prTemp/notum_fecit_dominus.php',1);
+	ant('prTemp/nativity/oct_sun_m.php','M');
 	rubrics('prSanct/ComplineSun.php');
 
 ?>

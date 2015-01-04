@@ -14,8 +14,8 @@
 	ant('prTemp/epiphany/e01_hf_V1.php','02222');	
 	lc('luke2_51.php');
 	hymn('o_lux_beata_caelitum.php',1);
-	vrS('PrTemp/beati_qui_habitant_in_domo_tua_domine.php');
-	ant('PrTemp/epiphany/e01_hf_m1.php','M');
+	vrS('prTemp/beati_qui_habitant_in_domo_tua_domine.php');
+	ant('prTemp/epiphany/e01_hf_m1.php','M');
 	rubp('Et non fit commemoratio dominicæ.', 'And commemoration is not made of the Sunday.');
 	rubrics('prSanct/ComplineSun.php');
 	space();
@@ -27,10 +27,10 @@
 	lc('luke2_51.php');
 	rubrics('head/HymnVerse.php');
 	hymn('o_gente_felix_hospita.php');
-	vrS('PrTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
-	ant('PrTemp/epiphany/e01_hf_b.php','B');
+	vrS('prTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
+	ant('prTemp/epiphany/e01_hf_b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/epiphany/e01_hf.php');
+	prayer('prTemp/epiphany/e01_hf.php');
 	rubp('Et non fit com. dominicæ.', 'And commem. is not made of the Sunday.');
 	space();
 
@@ -40,20 +40,20 @@
 
 	hour('T');
 	lc('luke2_51.php');
-	brS('PrTemp/propter_nos_egenus_factus_est_cum_esset_dives.php');
-	vrS('PrTemp/dominus_vias_suas_docebit_nos.php');
+	brS('prTemp/propter_nos_egenus_factus_est_cum_esset_dives.php');
+	vrS('prTemp/dominus_vias_suas_docebit_nos.php');
 	space();
 
 	hour('S');
 	lc('rom5_19.php');
-	brS('PrTemp/dominus_vias_suas_docebit_nos.php');
-	vrS('PrTemp/pauper_sum_ego_et_in_laboribus_a_juventute_mea.php');
+	brS('prTemp/dominus_vias_suas_docebit_nos.php');
+	vrS('prTemp/pauper_sum_ego_et_in_laboribus_a_juventute_mea.php');
 	space();
 
 	hour('N');
 	lc('phil2_7.php');
-	brS('PrTemp/pauper_sum_ego_et_in_laboribus_a_juventute_mea.php');
-	vrS('PrTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
+	brS('prTemp/pauper_sum_ego_et_in_laboribus_a_juventute_mea.php');
+	vrS('prTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
 	space();
 
 
@@ -63,8 +63,8 @@
 	lc('luke2_51.php');
 	rubrics('head/HymnVerse.php');
 	hymn('o_lux_beata_caelitum.php',0);
-	vrS('PrTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
-	ant('PrTemp/epiphany/e01_hf_m2.php','M');
+	vrS('prTemp/ponam_universos_filios_tuos_doctos_a_domino.php');
+	ant('prTemp/epiphany/e01_hf_m2.php','M');
 	rubp('Et non fit com. dominicæ.', 'And commem. is not made of the Sunday.');
 	rubrics('prSanct/ComplineSun.php');
 

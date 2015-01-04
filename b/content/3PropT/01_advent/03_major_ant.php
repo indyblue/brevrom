@@ -9,37 +9,37 @@
 
 	space();
 	head('die 17 decembris','December 17',2);
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',0,'V');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',0,'V');
 	head('Antiphona','Antiphon',4);
-	prayer('PrTemp/advent/OAnt17.php');
+	prayer('prTemp/advent/OAnt17.php');
 	rubp('Feria IV et VI dicuntur preces.', 'Wednesday and Friday, preces are said.');
 /*
 	rubp('Dominica III Adventus necnon feriis II, III et V seq.:', 'Third week of Advent, on Monday, Tuesday and Thursday:');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/advent/03.php');
+	prayer('prTemp/advent/03.php');
 	rubp('Feria IV Quatuor Temporum:', 'Wednesday Ember Day:');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/advent/03e4.php');
+	prayer('prTemp/advent/03e4.php');
 	rubp('Feria VI Quatuor Temporum:', 'Friday Ember Day:');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/advent/03e6.php');
+	prayer('prTemp/advent/03e6.php');
 	rubp('Ad I Vesperas dominicæ IV Adventus:', 'I Vespers of the Fourth Sunday of Advent:');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/advent/04.php');
+	prayer('prTemp/advent/04.php');
  */
 
 	head('18','18',2);
-	ant('PrTemp/advent/OAnt/18.php','*');
+	ant('prTemp/advent/OAnt/18.php','*');
 	head('19','19',2);
-	ant('PrTemp/advent/OAnt/19.php','*');
+	ant('prTemp/advent/OAnt/19.php','*');
 	head('20','20',2);
-	ant('PrTemp/advent/OAnt/20.php','*');
+	ant('prTemp/advent/OAnt/20.php','*');
 	head('21','21',2);
-	ant('PrTemp/advent/OAnt/21.php','*');
+	ant('prTemp/advent/OAnt/21.php','*');
 	head('22','22',2);
-	ant('PrTemp/advent/OAnt/22.php','*');
+	ant('prTemp/advent/OAnt/22.php','*');
 	head('23','23',2);
-	ant('PrTemp/advent/OAnt/23.php','*');
+	ant('prTemp/advent/OAnt/23.php','*');
 
 	space();
 	head('Antiphonæ ad Laudes', 'Antiphons at Lauds',2);
@@ -50,7 +50,7 @@
 	head('die 21 decembris', 'December 21',2);
 	rubp('si fiat Officium de festo occurenti, pro commemoratione Adventus, ad Laudes ponitur:', 'if the Office is of an occuring feast, at the commemoration of Advent at Lauds use:');
 	ant('prTemp/advent/21b.php','*');
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
 	rubp('Si vero ea die fiat Officium de dominica, antiphona prædicta dicitur ad <snr>Benedíctus</s>, loco antiphonæ <snr>Ave, María</s>.', 'If this day occurs on a Sunday, the above antiphon is said at the <snr>Benedictus</s>, in place of the antiphon <snr>Hail, Mary</s>.');
 	space();
 	bookmark('Advent23b');

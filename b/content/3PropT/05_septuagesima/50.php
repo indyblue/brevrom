@@ -9,7 +9,7 @@
 	lc('1cor13_1.php');
 	hymn('jam_sol_recedit_igneus.php',1);
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php');
-	ant('PrTemp/septuagesima/50m1.php','M');
+	ant('prTemp/septuagesima/50m1.php','M');
 	space();
 
 	hour('L');
@@ -18,10 +18,10 @@
 	ant('prTemp/septuagesima/50L.php','02222');	
 	lc('1cor13_1.php');
 	hymn('aeterne_rerum_conditor.php',1);
-	vrS('PrTemp/domine_refugium_factus_es_nobis.php');
-	ant('PrTemp/septuagesima/50b.php','B');
+	vrS('prTemp/domine_refugium_factus_es_nobis.php');
+	ant('prTemp/septuagesima/50b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/septuagesima/50.php');
+	prayer('prTemp/septuagesima/50.php');
 	space();
 
 	ordref(0,6.1,0);
@@ -50,17 +50,17 @@
 	lc('1cor13_1.php');
 	hymn('lucis_creator_optime.php',1);
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('PrTemp/septuagesima/50m2.php','M');
+	ant('prTemp/septuagesima/50m2.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/septuagesima/50.php');
+	prayer('prTemp/septuagesima/50.php');
 	space();
 
 	feria(2,4);
-	ant('PrTemp/septuagesima/50f2m.php','M');
+	ant('prTemp/septuagesima/50f2m.php','M');
 	space();
 
 	feria(3,4);
-	ant('PrTemp/septuagesima/50f3m.php','M');
+	ant('prTemp/septuagesima/50f3m.php','M');
 	space();
 
 	rubp('Post Completorium feriæ III hebdomadæ Quinquagesimæ explicit tempus Septuagesimæ, et incipit tempus quadragesimale.', 'After Tuesday Compline of the week of Quinquagesima, the season of Septuagesima is ended, and the season of Lent begins.');

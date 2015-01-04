@@ -8,46 +8,46 @@
 	rubrics('ps/SaV-A.php');	
 	lc('jas1_22-24.php');
 	hymn('ad_regias_agni_dapes.php',1);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
-	ant('PrTemp/easter/50b.php','M');
+	vrS('prTemp/mane_nobiscum_domine.php',1);
+	ant('prTemp/easter/50b.php','M');
 	space();
 
 	hour('L');
 	rubrics('ps/SuL1-A.php');	
 	lc('jas1_22-24.php');
 	hymn('aurora_caelum_purpurat.php',1);
-	vrS('PrTemp/in_resurrectione_tua_christe.php',1);
-	ant('PrTemp/easter/50b.php','B');
+	vrS('prTemp/in_resurrectione_tua_christe.php',1);
+	ant('prTemp/easter/50b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/50.php');
+	prayer('prTemp/easter/50.php');
 	space();
 
 	hour('T');
 	lc('jas1_22-24.php');
-	brS('PrTemp/surrexit_dominus_de_sepulcro.php',1);
-	vrS('PrTemp/surrexit_dominus_vere.php',1);
+	brS('prTemp/surrexit_dominus_de_sepulcro.php',1);
+	vrS('prTemp/surrexit_dominus_vere.php',1);
 	space();
 
 	hour('S');
 	lc('jas1_25.php');
-	brS('PrTemp/surrexit_dominus_vere.php',1);
-	vrS('PrTemp/gavisi_sunt_discipuli.php',1);
+	brS('prTemp/surrexit_dominus_vere.php',1);
+	vrS('prTemp/gavisi_sunt_discipuli.php',1);
 	space();
 
 	hour('N');
 	lc('jas1_27.php');
-	brS('PrTemp/gavisi_sunt_discipuli.php',1);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
+	brS('prTemp/gavisi_sunt_discipuli.php',1);
+	vrS('prTemp/mane_nobiscum_domine.php',1);
 	space();
 
 	hour('2V');
 	rubrics('ps/SuV-A.php');
 	lc('jas1_22-24.php');
 	hymn('ad_regias_agni_dapes.php',1);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
-	ant('PrTemp/easter/50m2.php','M');
+	vrS('prTemp/mane_nobiscum_domine.php',1);
+	ant('prTemp/easter/50m2.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/50.php');
+	prayer('prTemp/easter/50.php');
 	space();
 
 	head('in Litaniis Minoribus','the Minor Litanies',2);
@@ -58,18 +58,18 @@
 	space();
 
 	feria(2,54);
-	ant('PrTemp/easter/52b.php','B');
-	ant('PrTemp/easter/52m.php','M');
+	ant('prTemp/easter/52b.php','B');
+	ant('prTemp/easter/52m.php','M');
 	space();
 
 	feria(3,54);
-	ant('PrTemp/easter/53b.php','B');
-	ant('PrTemp/easter/53m.php','M');
+	ant('prTemp/easter/53b.php','B');
+	ant('prTemp/easter/53m.php','M');
 	space();
 
 	feria(4,52,4);
-	vrS('PrTemp/in_resurrectione_tua_christe.php',1,'L');
-	ant('PrTemp/easter/54b.php','B');
+	vrS('prTemp/in_resurrectione_tua_christe.php',1,'L');
+	ant('prTemp/easter/54b.php','B');
 	rubp('Post Nonam explicit tempus Paschatis, et incipit tempus Ascensionis.', 'After None the season of Easter ends, and the season of Ascensiontide begins.');
  
 ?>

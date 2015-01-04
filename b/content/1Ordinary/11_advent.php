@@ -18,7 +18,7 @@
 	rubrics('head/HymnVerse.php');
 //	rubp('In Officio tam dominicali quam feriali, dicitur sequens hymnus et versus:','In both the Sunday and ferial Office, the following hymn and verse is said:');
 	hymn('en_clara_vox_redarguit.php',0);
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
 
 	head('Preces','Preces',3);
 	rubp('Preces (<snr>p. '. bkref('preces') .'</s>) dicuntur: in Laudibus feriæ IV et VI temporis Adventus, et in Laudibus sabbatorum Quatuor Temporum.', 'The preces (<snr>p. '. bkref('preces') .'</s>) are said: in Lauds of Wed. and Fri. in the season of Advent, and in Lauds of Ember Saturday.');
@@ -46,24 +46,24 @@
 	head('De responsorio brevi','The brief response',3);
 	rubp('In Officio tam dominicali quam feriali, excepta vigilia Nativitatis Domini, dicitur cotidie sequens:', 'In both the Sunday and ferial Office, except the vigil of the Nativity of our Lord, every day is said the following:');
 */
-	brS('PrTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php');
-	vrS('PrTemp/timebunt_gentes_nomen_tuum_domine.php');
+	brS('prTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php');
+	vrS('prTemp/timebunt_gentes_nomen_tuum_domine.php');
 
 	hour('S');
 	lc('jer23_6.php');
-	brS('PrTemp/ostende_nobis_domine_misericordiam_tuam.php');
-	vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php');
+	brS('prTemp/ostende_nobis_domine_misericordiam_tuam.php');
+	vrS('prTemp/memento_nostri_domine_in_beneplacito_populi_tui.php');
 
 	hour('N');
 	lc('is14_1.php');
-	brS('PrTemp/super_te_jerusalem_orietur_dominus.php');
-	vrS('PrTemp/veni_domine_et_noli_tardare.php');
+	brS('prTemp/super_te_jerusalem_orietur_dominus.php');
+	vrS('prTemp/veni_domine_et_noli_tardare.php');
 
 	hour('V');
 	lc('gen49_10.php');
 	rubrics('head/HymnVerse.php');
 	hymn('creator_alme_siderum.php',0);
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
 	head('Preces','Preces',3);
 	rubp('Preces (<snr>p. '. bkref('preces') .'</s>) dicuntur: in Vesperis feriæ IV et VI temporis Adventus.', 'The preces (<snr>p. '. bkref('preces') .'</s>) are said: in Vespers of Wed. and Fri. in the season of Advent.');
 

@@ -9,9 +9,9 @@
 	lc('1cor9_24.php');
 	hymn('jam_sol_recedit_igneus.php',1);
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php');
-	ant('PrTemp/septuagesima/70m1.php','M');
+	ant('prTemp/septuagesima/70m1.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/septuagesima/70.php');
+	prayer('prTemp/septuagesima/70.php');
 	vrS('benedicamus_domino_aa.php');
 	space();
 	rubp('Et sic dicitur præcedens versus, etiam si Vesperæ fuerint de festo I vel II classis.', 'And here is said the preceding verse, even if Vespers is from a feast of the I or II class.');
@@ -24,8 +24,8 @@
 	ant('prTemp/septuagesima/70L.php','02222');	
 	lc('1cor9_24.php');
 	hymn('aeterne_rerum_conditor.php',1);
-	vrS('PrTemp/domine_refugium_factus_es_nobis.php');
-	ant('PrTemp/septuagesima/70b.php','B');
+	vrS('prTemp/domine_refugium_factus_es_nobis.php');
+	ant('prTemp/septuagesima/70b.php','B');
 	space();
 
 	ordref(0,6.1,0);
@@ -60,25 +60,25 @@
 	lc('1cor9_24.php');
 	hymn('lucis_creator_optime.php',1);
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('PrTemp/septuagesima/70m2.php','M');
+	ant('prTemp/septuagesima/70m2.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/septuagesima/70.php');
+	prayer('prTemp/septuagesima/70.php');
 	space();
 
 	feria(2,4);
-	ant('PrTemp/septuagesima/70f2m.php','M');
+	ant('prTemp/septuagesima/70f2m.php','M');
 	space();
 
 	feria(3,4);
-	ant('PrTemp/septuagesima/70f3m.php','M');
+	ant('prTemp/septuagesima/70f3m.php','M');
 	space();
 
 	feria(4,4);
-	ant('PrTemp/septuagesima/70f4m.php','M');
+	ant('prTemp/septuagesima/70f4m.php','M');
 	space();
 
 	feria(5,4);
-	ant('PrTemp/septuagesima/70f5m.php','M');
+	ant('prTemp/septuagesima/70f5m.php','M');
 	space();
 
 	feria(6,4);

@@ -13,14 +13,14 @@
 	hour('L');
 	hymn('aeterne_rerum_conditor.php',1, array(', etiam in reliquis dominicis post Epiphaniam.', ', likewise in the remaining Sundays after the Epiphany.'));
 	vrS('Ord/dominus_regnavit_decorem_induit.php');
-	ant('PrTemp/post_epiphany/02b.php','B');
+	ant('prTemp/post_epiphany/02b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/post_epiphany/02.php');
+	prayer('prTemp/post_epiphany/02.php');
 	space();
 
 	hour('2V');
 	rubp('Omnia ut in Psalterio de dominica, <snr>p. '.bkref('psDV').'</s>.', 'All as in the Psalter for Sunday, <snr>p. '.bkref('psSV').'</s>.');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('PrTemp/post_epiphany/02m.php','M');
+	ant('prTemp/post_epiphany/02m.php','M');
 
 ?>

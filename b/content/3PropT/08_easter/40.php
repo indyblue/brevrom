@@ -8,71 +8,71 @@
 	rubrics('ps/SaV-A.php');	
 	lc('jas1_17.php');
 	hymn('ad_regias_agni_dapes.php',1);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
-	ant('PrTemp/easter/40b.php','M');
+	vrS('prTemp/mane_nobiscum_domine.php',1);
+	ant('prTemp/easter/40b.php','M');
 	space();
 
 	hour('L');
 	rubrics('ps/SuL1-A.php');	
 	lc('jas1_17.php');
 	hymn('aurora_caelum_purpurat.php',1);
-	vrS('PrTemp/in_resurrectione_tua_christe.php',1);
-	ant('PrTemp/easter/40b.php','B');
+	vrS('prTemp/in_resurrectione_tua_christe.php',1);
+	ant('prTemp/easter/40b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/40.php');
+	prayer('prTemp/easter/40.php');
 	space();
 
 	hour('T');
 	lc('jas1_17.php');
-	brS('PrTemp/surrexit_dominus_de_sepulcro.php',1);
-	vrS('PrTemp/surrexit_dominus_vere.php',1);
+	brS('prTemp/surrexit_dominus_de_sepulcro.php',1);
+	vrS('prTemp/surrexit_dominus_vere.php',1);
 	space();
 
 	hour('S');
 	lc('jas1_19-20.php');
-	brS('PrTemp/surrexit_dominus_vere.php',1);
-	vrS('PrTemp/gavisi_sunt_discipuli.php',1);
+	brS('prTemp/surrexit_dominus_vere.php',1);
+	vrS('prTemp/gavisi_sunt_discipuli.php',1);
 	space();
 
 	hour('N');
 	lc('jas1_21.php');
-	brS('PrTemp/gavisi_sunt_discipuli.php',1);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
+	brS('prTemp/gavisi_sunt_discipuli.php',1);
+	vrS('prTemp/mane_nobiscum_domine.php',1);
 	space();
 
 	hour('2V');
 	rubrics('ps/SuV-A.php');
 	lc('jas1_17.php');
 	hymn('ad_regias_agni_dapes.php',1);
-	vrS('PrTemp/mane_nobiscum_domine.php',1);
-	ant('PrTemp/easter/40m2.php','M');
+	vrS('prTemp/mane_nobiscum_domine.php',1);
+	ant('prTemp/easter/40m2.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/40.php');
+	prayer('prTemp/easter/40.php');
 	space();
 
 	feria(2,4);
-	ant('PrTemp/easter/42b.php','B');
-	ant('PrTemp/easter/42m.php','M');
+	ant('prTemp/easter/42b.php','B');
+	ant('prTemp/easter/42m.php','M');
 	space();
 
 	feria(3,4);
-	ant('PrTemp/easter/43b.php','B');
-	ant('PrTemp/easter/43m.php','M');
+	ant('prTemp/easter/43b.php','B');
+	ant('prTemp/easter/43m.php','M');
 	space();
 
 	feria(4,4);
-	ant('PrTemp/easter/44b.php','B');
-	ant('PrTemp/easter/44m.php','M');
+	ant('prTemp/easter/44b.php','B');
+	ant('prTemp/easter/44m.php','M');
 	space();
 
 	feria(5,4);
-	ant('PrTemp/easter/45b.php','B');
-	ant('PrTemp/easter/45m.php','M');
+	ant('prTemp/easter/45b.php','B');
+	ant('prTemp/easter/45m.php','M');
 	space();
 
 	feria(6,4);
-	ant('PrTemp/easter/46b.php','B');
-	ant('PrTemp/easter/40m2.php','M');
+	ant('prTemp/easter/46b.php','B');
+	ant('prTemp/easter/40m2.php','M');
 	space();
 
 	feria(7,4);

@@ -13,10 +13,10 @@
 	ant('prTemp/advent/24.php','02222');	
 	lc('rom1_1-3.php');
 	hymn('en_clara_vox_redarguit.php',1);
-	vrS('PrTemp/crastina_die_delebitur_iniquitas_terrae.php');
-	ant('PrTemp/advent/24b.php','B');
+	vrS('prTemp/crastina_die_delebitur_iniquitas_terrae.php');
+	ant('prTemp/advent/24b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/advent/24.php');
+	prayer('prTemp/advent/24.php');
 	rubp('Et dicitur per Horas diei.', 'And this prayer is said at all the Hours of the day.');
 	space();
 
@@ -24,20 +24,20 @@
 
 	hour('T');
 	lc('rom1_1-3.php');
-	brS('PrTemp/hodie_scietis_quia_veniet_dominus.php');
-	vrS('PrTemp/constantes_estote.php');
+	brS('prTemp/hodie_scietis_quia_veniet_dominus.php');
+	vrS('prTemp/constantes_estote.php');
 	space();
 
 	hour('S');
 	lc('rom1_4.php');
-	brS('PrTemp/crastina_die_delebitur_iniquitas_terrae.php');
-	vrS('PrTemp/crastina_erit_vobis_salus.php');
+	brS('prTemp/crastina_die_delebitur_iniquitas_terrae.php');
+	vrS('prTemp/crastina_erit_vobis_salus.php');
 	space();
 
 	hour('N');
 	lc('rom1_5-6.php');
-	brS('PrTemp/crastina_erit_vobis_salus.php');
-	vrS('PrTemp/crastina_die_delebitur_iniquitas_terrae.php');
+	brS('prTemp/crastina_erit_vobis_salus.php');
+	vrS('prTemp/crastina_die_delebitur_iniquitas_terrae.php');
 	space();
 
 	rubp('Post Nonam explicit tempus Adventus et incipit tempus natalicium.', 'After None the season of Advent ends, and the season of Christmas begins.');

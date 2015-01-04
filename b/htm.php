@@ -116,7 +116,7 @@ echo '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 		}
 	</script>
 	</head>
-	<body><div>
+	<body id=""><div>
 	<div class="Hidden2" onClick="name10()"><a href="'.$uri.
 		($v?'':'&amp;v=1').'">Toggle all tags</a></div>'. "\n";
 
@@ -145,6 +145,8 @@ $regex=array(
 	'/<t2>([^<]*)/',
 	'/<t>/',
 	'/<br\/*>/',
+	'/cœtui/', '/cœtibus/', '/fœdera/', '/fœdere/', '/fœderis/', '/fœtidum/',
+	'/pœnitens/',
 	'/(?<!\pL)Á/u', '/(?<!\pL)É/u', '/(?<!\pL)Í/u', 
 	'/(?<!\pL)Ó/u', '/(?<!\pL)Ú/u', '/(?<!\pL)Ý/u', '/(?<!\pL)Ǽ/u'
 );
@@ -172,6 +174,9 @@ $repl=array(
 	'<span style="float:right;">\1</span>',
 	'&nbsp;',
 	'<br/>',
+	'cœ́tui', 'cœ́tibus', 'fœ́dera', 
+	'fœ́dere', 'fœ́deris', "fœ́tidum",
+	'pœnitens',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
 );
 

@@ -15,10 +15,10 @@
 	lc('apoc14_1.php');
 	rubrics('head/HymnVerse.php');
 	hymn('salvete_flores_martyrum.php',0);
-	vrS('PrTemp/herodes_iratus_occidit_multos_pueros.php');
-	ant('PrTemp/nativity/28b.php','B');
+	vrS('prTemp/herodes_iratus_occidit_multos_pueros.php');
+	ant('prTemp/nativity/28b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/28.php');
+	prayer('prTemp/nativity/28.php');
 	require '25comL.php';
 	space();
 
@@ -48,10 +48,10 @@
 	rubrics('ant_et_pss_de_nativitate.php');
 	lc('apoc14_1.php');
 	hymn('salvete_flores_martyrum.php',1);
-	vrS('PrTemp/sub_throno_dei_omnes_sancti_clamant.php');
-	ant('PrTemp/nativity/28m.php','M');
+	vrS('prTemp/sub_throno_dei_omnes_sancti_clamant.php');
+	ant('prTemp/nativity/28m.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/28.php');
+	prayer('prTemp/nativity/28.php');
 	require '25comV.php';
 	rubrics('prSanct/ComplineSun.php');
 

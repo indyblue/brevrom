@@ -21,10 +21,10 @@
 	lc('eph3_8-9.php');
 	rubrics('head/HymnVerse.php');	
 	hymn('en_ut_superba_criminum.php',0);
-	vrS('PrTemp/tollite_jugum_meum_super_vos_et_discite_a_me.php');
-	ant('PrTemp/post_pentecost/026m1.php','M');
+	vrS('prTemp/tollite_jugum_meum_super_vos_et_discite_a_me.php');
+	ant('prTemp/post_pentecost/026m1.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/post_pentecost/026.php');
+	prayer('prTemp/post_pentecost/026.php');
 	rubrics('prSanct/ComplineSun.php');
 	space();
 
@@ -35,10 +35,10 @@
 	lc('eph3_8-9.php');
 	rubrics('head/HymnVerse.php');	
 	hymn('cor_arca_legem_continens.php');
-	vrS('PrTemp/haurietis_aquas_in_gaudio.php');
-	ant('PrTemp/post_pentecost/026b.php','B');
+	vrS('prTemp/haurietis_aquas_in_gaudio.php');
+	ant('prTemp/post_pentecost/026b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/post_pentecost/026.php');
+	prayer('prTemp/post_pentecost/026.php');
 	space();
 
 	ordref(0,6,0);
@@ -47,20 +47,20 @@
 
 	hour('T');
 	lc('eph3_8-9.php');
-	brS('PrTemp/tollite_jugum_meum_super_vos_et_discite_a_me.php');
+	brS('prTemp/tollite_jugum_meum_super_vos_et_discite_a_me.php');
 	vrS('Ord/ego_dixi_domine_miserere_mei.php');
 	space();
 
 	hour('S');
 	lc('eph3_14-17.php');
 	brS('Ord/ego_dixi_domine_miserere_mei.php');
-	vrS('PrTemp/memoriam_fecit_mirabilium_suorum_miserator_dominus.php');
+	vrS('prTemp/memoriam_fecit_mirabilium_suorum_miserator_dominus.php');
 	space();
 
 	hour('N');
 	lc('eph3_17-19.php');
-	brS('PrTemp/memoriam_fecit_mirabilium_suorum_miserator_dominus.php');
-	vrS('PrTemp/haurietis_aquas_in_gaudio.php');
+	brS('prTemp/memoriam_fecit_mirabilium_suorum_miserator_dominus.php');
+	vrS('prTemp/haurietis_aquas_in_gaudio.php');
 	space();
 
 	hour('2V');
@@ -68,8 +68,8 @@
 	rubp('Pss. ut ad I Vesperas festis sanctissimi Corporis Christi, <snr>p. '. bkref('1VCorpusChristi') .'</s>.', 'Psalms as at I Vesperas of the feast of the most holy Body of Christ, <snr>p. '. bkref('1VCorpusChristi') .'</s>.');
 	lc('eph3_8-9.php');
 	hymn('en_ut_superba_criminum.php',1);
-	vrS('PrTemp/haurietis_aquas_in_gaudio.php');
-	ant('PrTemp/post_pentecost/026m2.php','M');
+	vrS('prTemp/haurietis_aquas_in_gaudio.php');
+	ant('prTemp/post_pentecost/026m2.php','M');
 	rubrics('prSanct/ComplineSun.php');
 
 ?>

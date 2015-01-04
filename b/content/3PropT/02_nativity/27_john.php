@@ -14,10 +14,10 @@
 	ant('prTemp/nativity/27L.php','02222');	
 	lc('ecclus15_1-2.php');
 	hymn('exsultet_orbis_gaudiis.php',1);
-	vrS('PrTemp/hic_est_discipulus_ille_qui_testimonium_perhibet_de_his.php');
-	ant('PrTemp/nativity/27b.php','B');
+	vrS('prTemp/hic_est_discipulus_ille_qui_testimonium_perhibet_de_his.php');
+	ant('prTemp/nativity/27b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/27.php');
+	prayer('prTemp/nativity/27.php');
 	require '25comL.php';
 	space();
 
@@ -47,10 +47,10 @@
 	rubrics('ant_et_pss_de_nativitate.php');
 	lc('ecclus15_1-2.php');
 	hymn('exsultet_orbis_gaudiis.php',1);
-	vrS('PrTemp/valde_honorandus_est_beatus_joannes.php');
-	ant('PrTemp/nativity/27m.php','M');
+	vrS('prTemp/valde_honorandus_est_beatus_joannes.php');
+	ant('prTemp/nativity/27m.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/nativity/27.php');
+	prayer('prTemp/nativity/27.php');
 	require '25comV.php';
 	rubrics('prSanct/ComplineSun.php');
 

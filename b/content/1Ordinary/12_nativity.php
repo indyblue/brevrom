@@ -6,8 +6,8 @@
 	lc('tit2_11-12.php');
 	rubrics('head/HymnVerse.php');
 	hymn('a_solis_ortus_cardine.php',0);
-	vrS('PrTemp/verbum_caro_factum_est.php');
-	ant('PrTemp/nativity/0101b.php','B');
+	vrS('prTemp/verbum_caro_factum_est.php');
+	ant('prTemp/nativity/0101b.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prTemp/nativity/0101.php');
 
@@ -21,28 +21,28 @@
 	space();
 	hour('T');
 	lc('tit2_11-12.php');
-	brS('PrTemp/verbum_caro_factum_est.php',1);
-	vrS('PrTemp/ipse_invocabit_me.php',1);
+	brS('prTemp/verbum_caro_factum_est.php',1);
+	vrS('prTemp/ipse_invocabit_me.php',1);
 
 	space();
 	hour('S');
 	lc('hebr1_10.php');
-	brS('PrTemp/notum_fecit_dominus.php',1);
-	vrS('PrTemp/viderunt_omnes_fines_terrae.php',1);
+	brS('prTemp/notum_fecit_dominus.php',1);
+	vrS('prTemp/viderunt_omnes_fines_terrae.php',1);
 
 	space();
 	hour('N');
 	lc('hebr1_11-12.php');
-	brS('PrTemp/viderunt_omnes_fines_terrae.php',1);
-	vrS('PrTemp/verbum_caro_factum_est.php',1);
+	brS('prTemp/viderunt_omnes_fines_terrae.php',1);
+	vrS('prTemp/verbum_caro_factum_est.php',1);
 
 	space();
 	hour('V');
 	lc('tit2_11-12.php');
 	rubrics('head/HymnVerse.php');
 	hymn('jesu_redemptor_omnium_quem.php',0);
-	vrS('PrTemp/notum_fecit_dominus.php',1);
-	ant('PrTemp/nativity/0101m2.php','M');
+	vrS('prTemp/notum_fecit_dominus.php',1);
+	ant('prTemp/nativity/0101m2.php','M');
 	rubp('Oratio ut supra ad Laudes','Prayer as above at Lauds');
 
 ?>

@@ -12,7 +12,7 @@
 	rubrics('ps/SaV.php');
 	lc('1cor4_1-2.php');
 	hymn('creator_alme_siderum.php',1);
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	space();
 
@@ -22,34 +22,34 @@
 	ant('prTemp/advent/04/04.php','02222');	
 	lc('phil4_4-5.php');
 	hymn('en_clara_vox_redarguit.php',1);
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
-	ant('PrTemp/advent/04/04b.php','B');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php');
+	ant('prTemp/advent/04/04b.php','B');
 	rubp('Nisi dicenda sit, die 21 decembris:', 'But on December 21, the following is said:');
 	ant('prTemp/advent/21b.php','B');
 	rubp('vel, die 23 decembris:', 'or, on December 23rd:');
 	ant('prTemp/advent/23b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/advent/04.php');
+	prayer('prTemp/advent/04.php');
 	space();
 
 	ordref(0,5,0);
 
 	hour('T');
 	lc('1cor4_1-2.php');
-	brS('PrTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php');
-	vrS('PrTemp/timebunt_gentes_nomen_tuum_domine.php');
+	brS('prTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php');
+	vrS('prTemp/timebunt_gentes_nomen_tuum_domine.php');
 	space();
 
 	hour('S');
 	lc('1cor4_3.php');
-	brS('PrTemp/ostende_nobis_domine_misericordiam_tuam.php');
-	vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php');
+	brS('prTemp/ostende_nobis_domine_misericordiam_tuam.php');
+	vrS('prTemp/memento_nostri_domine_in_beneplacito_populi_tui.php');
 	space();
 
 	hour('N');
 	lc('1cor4_5.php');
-	brS('PrTemp/super_te_jerusalem_orietur_dominus.php');
-	vrS('PrTemp/veni_domine_et_noli_tardare.php');
+	brS('prTemp/super_te_jerusalem_orietur_dominus.php');
+	vrS('prTemp/veni_domine_et_noli_tardare.php');
 	space();
 
 	hour('2V');
@@ -57,58 +57,58 @@
 	rubrics('ps/SuV.php');
 	lc('1cor4_1-2.php');
 	hymn('creator_alme_siderum.php',1);
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/advent/04.php');
+	prayer('prTemp/advent/04.php');
 	space();
 
 	ordref('OrAdvent',0,31);
 	feria(2,2);
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',0,'L');
-	ant('PrTemp/advent/03/f2b.php','B');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php',0,'L');
+	ant('prTemp/advent/03/f2b.php','B');
 	rubp('Nisi dicenda sit, die 21 decembris:', 'But on December 21, the following is said:');
 	ant('prTemp/advent/21b.php','B');
 	rubp('vel, die 23 decembris:', 'or, on December 23rd:');
 	ant('prTemp/advent/23b.php','B');
 
 	rubp('Oratio <snr>Excita</s>, ut supra.','Prayer <snr>Show forth</s>, as above.');
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',0,'V');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',0,'V');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	space();
 
 	feria(3,2);
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
-	ant('PrTemp/advent/03/f3b.php','B');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('prTemp/advent/03/f3b.php','B');
 	rubp('Nisi dicenda sit, die 21 decembris, <snr>Nolíte timére</s>, vel die 23 decembris, <snr>Ecce compléta</s>, ut supra.', 'But on December 21, is said <snr>Fear not</s>, or on December 23, <snr>Lo! all things</s>, as above.');
 	rubp('vel, die 23 decembris:', 'or, on December 23rd:');
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	space();
 
 	feria(4,2);
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
-	ant('PrTemp/advent/03/f4b.php','B');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('prTemp/advent/03/f4b.php','B');
 	rubp('Nisi dicenda sit, die 21 decembris, <snr>Nolíte timére</s>, vel die 23 decembris, <snr>Ecce compléta</s>, ut supra.', 'But on December 21, is said <snr>Fear not</s>, or on December 23, <snr>Lo! all things</s>, as above.');
 	rubrics('et_dicuntur_preces.php');
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	rubrics('et_dicuntur_preces.php');
 	space();
 
 	feria(5,2);
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
-	ant('PrTemp/advent/03/f5b.php','B');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	ant('prTemp/advent/03/f5b.php','B');
 	rubp('Nisi dicenda sit, 23 decembris, <snr>Ecce compléta</s>, ut supra.', 'But on December 23, <snr>Lo! all things</s>, as above.');
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	space();
 
 	feria(6,12);
-	vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
+	vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php',3,'L');
 	ant('prTemp/advent/23b.php','B');
 	rubrics('et_dicuntur_preces.php');
-	vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
+	vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php',3,'V');
 	rubp('Ant. ad Magnif. una ex majoribus <snr>O, p. '.bkref('AdventOAnt').'</s>.', 'Magnif. Ant. from the Great Ant. <snr>O, p. '.bkref('AdventOAnt').'</s>.');
 	rubrics('et_dicuntur_preces.php');
 

@@ -9,7 +9,7 @@
 	lc('1cor11_19-20.php');
 	hymn('jam_sol_recedit_igneus.php',1);
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php');
-	ant('PrTemp/septuagesima/60m1.php','M');
+	ant('prTemp/septuagesima/60m1.php','M');
 	space();
 
 	hour('L');
@@ -18,10 +18,10 @@
 	ant('prTemp/septuagesima/60L.php','02222');	
 	lc('1cor11_19-20.php');
 	hymn('aeterne_rerum_conditor.php',1);
-	vrS('PrTemp/domine_refugium_factus_es_nobis.php');
-	ant('PrTemp/septuagesima/60b.php','B');
+	vrS('prTemp/domine_refugium_factus_es_nobis.php');
+	ant('prTemp/septuagesima/60b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/septuagesima/60.php');
+	prayer('prTemp/septuagesima/60.php');
 	space();
 
 	ordref(0,6.1,0);
@@ -50,21 +50,21 @@
 	lc('1cor11_19-20.php');
 	hymn('lucis_creator_optime.php',1);
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('PrTemp/septuagesima/60m2.php','M');
+	ant('prTemp/septuagesima/60m2.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/septuagesima/60.php');
+	prayer('prTemp/septuagesima/60.php');
 	space();
 
 	feria(2,4);
-	ant('PrTemp/septuagesima/60f2m.php','M');
+	ant('prTemp/septuagesima/60f2m.php','M');
 	space();
 
 	feria(3,4);
-	ant('PrTemp/septuagesima/60f3m.php','M');
+	ant('prTemp/septuagesima/60f3m.php','M');
 	space();
 
 	feria(4,4);
-	ant('PrTemp/septuagesima/60f4m.php','M');
+	ant('prTemp/septuagesima/60f4m.php','M');
 	space();
 
 	feria(5,4);

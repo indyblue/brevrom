@@ -23,20 +23,19 @@ if($matins) {
 	hidden('Matins',2);
 	hour('M');
 	bookmark('offDefM');
-	rubp('', 'Matins begins immediately with the invitatory.');
+	rubp('Absolute incipitur ab Invitatorio.', 'Matins begins immediately with the invitatory.');
 	ant('regem_cui_omnia_vivunt_venite_adoremus.php','I');
+	ant('regem_cui_omnia_vivunt_venite_adoremus.php','R');
 	if($long==0) {
 		rubrics('asIn.php','Ps94','Ordinary of Matins','The invitatory is said with Psalm 94,'); 
 		rubp('','But in place of the <snr>Glória Patri</s> at the end of the psalm is said:');
 		reading('vr/requiem_aeternam.php',0);
 	} else
-		psalm('94r.php');
+		psalm('94ri.php');
 	space();
 
-   rubp('','If only one Nocturn is said: On the day of burial, the First Nocturn is always said. Otherwise, the Nocturn is selected by day of week:');
-	rubp('','Sun., Mon. &amp; Thurs.:<snr> First Nocturn, as follows.</s>');
-	rubp('','Tue. &amp; Fri.:<snr> Second Nocturn, p. '.bkref('offDefMn2').'</s>');
-	rubp('','Wed. &amp; Sat.:<snr> Third Nocturn, p. '.bkref('offDefMn3').'</s>');
+   rubp('Nocturni enim inferius positi omnes dici possunt vel etiam unus tantum, ita tamen, ut extra diem depositionis, in qua semper dicitur primus Nocturnus: Dominica, Feria II et V dicatur primus, Feria III et VI secundus, <snr>p. '.bkref('offDefMn2').'</s>, et Feria IV et Sabbato tertius Nocturnus, <snr>p. '.bkref('offDefMn3').'</s>.',
+	'For the nocturns given below, all three can be said, or one only; in which case however, outside of the day of burial, on which is always said the first Nocturn: Sunday, Monday and Thursday, the first is said; Tuesday and Friday, the second, <snr>p. '.bkref('offDefMn2').'</s>, and Wednesday and Saturday the third Nocturn, <snr>p. '.bkref('offDefMn3').'</s>.');
 
 	bookmark('offDefMn1');
 	space();
@@ -137,9 +136,11 @@ if($matins) {
 		space('Spacer');
 		ant('offDefMatins.php','000000120');
 		psref(40);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000012');
 		psref(41,2);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000001');
 	} else {
@@ -149,9 +150,11 @@ if($matins) {
 		space('Spacer');
 		ant('offDefMatins.php','000000120');
 		psalm(40);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000012');
 		psalm(41);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000001');
 	}
@@ -169,14 +172,14 @@ if($matins) {
 
 	lc('job10_18-22.php',0,'L9d');
 	space();
-	rubp('','The following Respond is said when the Third Nocturn only is said:');
+	rubp('Sequens Responsorium tunc ponitur, quando dictus fuerit tertius tantum Nocturnus pro Defunctis.','The following Responsory is then used, when only the third Nocturn for the Dead has been said.');
 	rm('offDef/mr9n1.php',0,0,1);
 	space();
-   rubp('','The following Respond is said when all three Nocturns have been said:');
+   rubp('Sequens Responsorium ponitur loco præcedentis, quando tres Nocturni dicti fuerint pro Defunctis.','The following Responsory is said in place of the preceding, when three Nocturns for the Dead have been said.');
 	rm('offDef/mr9n3.php',0,2,1);
 	space();
 
-	rubp('','If Lauds is not said at all, the Prayers are said, as at Lauds <snr>p. '.bkref('offDefLpr').'</s>');
+	rubp('Si Matutinum, cum unico vel tribus Nocturnis, in privata recitatione a Laudibus separetur, post ultimum Responsorium subjungitur:','If Matins, with one or three Nocturns, in private recitation is separated from Lauds, after the final Responsory is said:');
 	rubp('','If Matins is separated from Lauds, the following is added after the last Responsory:');
 	rubrics('offDef/mConcl.php');
 }
@@ -293,7 +296,7 @@ if($old==1) {
 	space();
 
 	head('Item alia oratio','Or',-4);
-	prayer('offDef/Priest2.php');
+	prayer('offDef/priest2.php');
 	space();
 
 	head('Pro uno defuncto','For a deceased man',-4);

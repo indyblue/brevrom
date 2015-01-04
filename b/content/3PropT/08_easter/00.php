@@ -94,43 +94,43 @@
 
 	space();
 	feria(2,31);
-	ant('PrTemp/easter/02b.php','B');
+	ant('prTemp/easter/02b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/02.php');
-	ant('PrTemp/easter/02m.php','M');
+	prayer('prTemp/easter/02.php');
+	ant('prTemp/easter/02m.php','M');
 
 	space();
 	feria(3,31);
-	ant('PrTemp/easter/03b.php','B');
+	ant('prTemp/easter/03b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/03.php');
-	ant('PrTemp/easter/03m.php','M');
+	prayer('prTemp/easter/03.php');
+	ant('prTemp/easter/03m.php','M');
 
 	space();
 	feria(4,31);
-	ant('PrTemp/easter/04b.php','B');
+	ant('prTemp/easter/04b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/04.php');
-	ant('PrTemp/easter/04m.php','M');
+	prayer('prTemp/easter/04.php');
+	ant('prTemp/easter/04m.php','M');
 
 	space();
 	feria(5,31);
-	ant('PrTemp/easter/05b.php','B');
+	ant('prTemp/easter/05b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/05.php');
-	ant('PrTemp/easter/05m.php','M');
+	prayer('prTemp/easter/05.php');
+	ant('prTemp/easter/05m.php','M');
 
 	space();
 	feria(6,31);
-	ant('PrTemp/easter/06b.php','B');
+	ant('prTemp/easter/06b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/06.php');
-	ant('PrTemp/easter/06m.php','M');
+	prayer('prTemp/easter/06.php');
+	ant('prTemp/easter/06m.php','M');
 
 	space();
 	feria('7a',31);
-	ant('PrTemp/easter/07b.php','B');
+	ant('prTemp/easter/07b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/easter/07.php');
+	prayer('prTemp/easter/07.php');
 
 ?>

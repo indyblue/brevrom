@@ -1095,7 +1095,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('en_clara_vox_redarguit.php'); ?>
-<?php vrS('PrTemp/vox_clamantis_in_deserto_parate_viam_domini.php'); ?>
+<?php vrS('prTemp/vox_clamantis_in_deserto_parate_viam_domini.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -1113,8 +1113,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php'); ?>
-<?php vrS('PrTemp/timebunt_gentes_nomen_tuum_domine.php'); ?>
+<?php brS('prTemp/veni_ad_liberandum_nos_domine_deus_virtutum.php'); ?>
+<?php vrS('prTemp/timebunt_gentes_nomen_tuum_domine.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -1132,8 +1132,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/ostende_nobis_domine_misericordiam_tuam.php'); ?>
-<?php vrS('PrTemp/memento_nostri_domine_in_beneplacito_populi_tui.php'); ?>
+<?php brS('prTemp/ostende_nobis_domine_misericordiam_tuam.php'); ?>
+<?php vrS('prTemp/memento_nostri_domine_in_beneplacito_populi_tui.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1151,8 +1151,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/super_te_jerusalem_orietur_dominus.php'); ?>
-<?php vrS('PrTemp/veni_domine_et_noli_tardare.php'); ?>
+<?php brS('prTemp/super_te_jerusalem_orietur_dominus.php'); ?>
+<?php vrS('prTemp/veni_domine_et_noli_tardare.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -1171,7 +1171,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('creator_alme_siderum.php'); ?>
-<?php vrS('PrTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php'); ?>
+<?php vrS('prTemp/rorate_caeli_desuper_et_nubes_pluant_justum.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -1207,7 +1207,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('a_solis_ortus_cardine.php'); ?>
-<?php vrS('PrTemp/verbum_caro_factum_est.php',1); ?>
+<?php vrS('prTemp/verbum_caro_factum_est.php',1); ?>
    <p:Head3>Benedictus</p>
    <table>
     <tr>
@@ -1236,8 +1236,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/verbum_caro_factum_est.php',1); ?>
-<?php vrS('PrTemp/ipse_invocabit_me.php',1); ?>
+<?php brS('prTemp/verbum_caro_factum_est.php',1); ?>
+<?php vrS('prTemp/ipse_invocabit_me.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
@@ -1255,8 +1255,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/notum_fecit_dominus.php',1); ?>
-<?php vrS('PrTemp/viderunt_omnes_fines_terrae.php',1); ?>
+<?php brS('prTemp/notum_fecit_dominus.php',1); ?>
+<?php vrS('prTemp/viderunt_omnes_fines_terrae.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1274,8 +1274,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/viderunt_omnes_fines_terrae.php',1); ?>
-<?php vrS('PrTemp/verbum_caro_factum_est.php',1); ?>
+<?php brS('prTemp/viderunt_omnes_fines_terrae.php',1); ?>
+<?php vrS('prTemp/verbum_caro_factum_est.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -1294,7 +1294,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('jesu_redemptor_omnium_quem.php'); ?>
-<?php vrS('PrTemp/notum_fecit_dominus.php',1); ?>
+<?php vrS('prTemp/notum_fecit_dominus.php',1); ?>
    <p:Head3>Magnificat</p>
    <table>
     <tr>
@@ -1353,7 +1353,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_sola_magnarum_urbium.php'); ?>
-<?php vrS('PrTemp/adorate_deum.php',1); ?>
+<?php vrS('prTemp/adorate_deum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Tértiam</p>
    <p:Head3>Little Chapter</p>
@@ -1371,8 +1371,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php',1); ?>
-<?php vrS('PrTemp/omnes_de_saba_venient.php',1); ?>
+<?php brS('prTemp/reges_tharsis_et_insulae_munera_offerent.php',1); ?>
+<?php vrS('prTemp/omnes_de_saba_venient.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Sextam</p>
    <p:Head3>Little Chapter</p>
@@ -1390,8 +1390,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/omnes_de_saba_venient.php',1); ?>
-<?php vrS('PrTemp/adorate_dominum.php',1); ?>
+<?php brS('prTemp/omnes_de_saba_venient.php',1); ?>
+<?php vrS('prTemp/adorate_dominum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1409,8 +1409,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/adorate_dominum.php',1); ?>
-<?php vrS('PrTemp/adorate_deum.php',1); ?>
+<?php brS('prTemp/adorate_dominum.php',1); ?>
+<?php vrS('prTemp/adorate_deum.php',1); ?>
   <p:BodySm/>
    <p:Head2>ad II Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -1429,7 +1429,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('crudelis_herodes_deum.php'); ?>
-<?php vrS('PrTemp/reges_tharsis_et_insulae_munera_offerent.php'); ?>
+<?php vrS('prTemp/reges_tharsis_et_insulae_munera_offerent.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -1461,7 +1461,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('o_sol_salutis_intimis.php'); ?>
-<?php vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
+<?php vrS('prTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -1479,8 +1479,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/ipse_liberavit_me_de_laqueo_venantium.php'); ?>
-<?php vrS('PrTemp/scapulis_suis_obumbrabit_tibi.php'); ?>
+<?php brS('prTemp/ipse_liberavit_me_de_laqueo_venantium.php'); ?>
+<?php vrS('prTemp/scapulis_suis_obumbrabit_tibi.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -1498,8 +1498,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/scapulis_suis_obumbrabit_tibi.php'); ?>
-<?php vrS('PrTemp/scuto_circumdabit_te_veritas_ejus.php'); ?>
+<?php brS('prTemp/scapulis_suis_obumbrabit_tibi.php'); ?>
+<?php vrS('prTemp/scuto_circumdabit_te_veritas_ejus.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1517,8 +1517,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/scuto_circumdabit_te_veritas_ejus.php'); ?>
-<?php vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
+<?php brS('prTemp/scuto_circumdabit_te_veritas_ejus.php'); ?>
+<?php vrS('prTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -1537,7 +1537,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('audi_benigne_conditor.php'); ?>
-<?php vrS('PrTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
+<?php vrS('prTemp/angelis_suis_deus_mandavit_de_te.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -1563,7 +1563,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    <p:Head3>Hymn</p>
 <?php bookmark('lustra_sex_qui_jam_peregit'); ?>
 <?php hymn('lustra_sex_qui_jam_peregit.php'); ?>
-<?php vrS('PrTemp/eripe_me_de_inimicis_meis_deus_meus.php'); ?>
+<?php vrS('prTemp/eripe_me_de_inimicis_meis_deus_meus.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -1581,8 +1581,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/erue_a_framea_deus_animam_meam.php',0,1); ?>
-<?php vrS('PrTemp/de_ore_leonis_libera_me_domine.php'); ?>
+<?php brS('prTemp/erue_a_framea_deus_animam_meam.php',0,1); ?>
+<?php vrS('prTemp/de_ore_leonis_libera_me_domine.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -1600,8 +1600,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/de_ore_leonis_libera_me_domine.php',0,1); ?>
-<?php vrS('PrTemp/ne_perdas_cum_impiis_deus_animam_meam.php'); ?>
+<?php brS('prTemp/de_ore_leonis_libera_me_domine.php',0,1); ?>
+<?php vrS('prTemp/ne_perdas_cum_impiis_deus_animam_meam.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1619,8 +1619,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/ne_perdas_cum_impiis_deus_animam_meam.php',0,1); ?>
-<?php vrS('PrTemp/eripe_me_domine_ab_homine_malo.php'); ?>
+<?php brS('prTemp/ne_perdas_cum_impiis_deus_animam_meam.php',0,1); ?>
+<?php vrS('prTemp/eripe_me_domine_ab_homine_malo.php'); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -1640,7 +1640,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
 <?php bookmark('vexilla_regis_prodeunt'); ?>
 	<p:Head3>Hymn</p>
 <?php hymn('vexilla_regis_prodeunt.php'); ?>
-<?php vrS('PrTemp/eripe_me_domine_ab_homine_malo.php'); ?>
+<?php vrS('prTemp/eripe_me_domine_ab_homine_malo.php'); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -1687,7 +1687,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('aurora_caelum_purpurat.php'); ?>
-<?php vrS('PrTemp/in_resurrectione_tua_christe.php',1); ?>
+<?php vrS('prTemp/in_resurrectione_tua_christe.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Tertiam</p>
    <p:Head3>Little Chapter</p>
@@ -1705,8 +1705,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/surrexit_dominus_de_sepulcro.php',1); ?>
-<?php vrS('PrTemp/surrexit_dominus_vere.php',1); ?>
+<?php brS('prTemp/surrexit_dominus_de_sepulcro.php',1); ?>
+<?php vrS('prTemp/surrexit_dominus_vere.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -1724,8 +1724,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/surrexit_dominus_vere.php',1); ?>
-<?php vrS('PrTemp/gavisi_sunt_discipuli.php',1); ?>
+<?php brS('prTemp/surrexit_dominus_vere.php',1); ?>
+<?php vrS('prTemp/gavisi_sunt_discipuli.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1743,8 +1743,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/gavisi_sunt_discipuli.php',1); ?>
-<?php vrS('PrTemp/mane_nobiscum_domine.php',1); ?>
+<?php brS('prTemp/gavisi_sunt_discipuli.php',1); ?>
+<?php vrS('prTemp/mane_nobiscum_domine.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
@@ -1763,7 +1763,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('ad_regias_agni_dapes.php'); ?>
-<?php vrS('PrTemp/mane_nobiscum_domine.php',1); ?>
+<?php vrS('prTemp/mane_nobiscum_domine.php',1); ?>
    <p:BodySm/>
 <?php img(); ?>
    <p:Body/>
@@ -1799,7 +1799,7 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
    </table>
    <p:Head3>Hymn</p>
 <?php hymn('salutis_humanae_sator.php'); ?>
-<?php vrS('PrTemp/dominus_in_caelo.php',1); ?>
+<?php vrS('prTemp/dominus_in_caelo.php',1); ?>
    <p:Head3>Benedictus</p>
    <p:RubricHSm>in ferial Office:<t>Jn 20:17</p>
    <table>
@@ -1829,8 +1829,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/ascendit_deus_in_jubilatione.php',1); ?>
-<?php vrS('PrTemp/ascendens_christus_in_altum.php',1); ?>
+<?php brS('prTemp/ascendit_deus_in_jubilatione.php',1); ?>
+<?php vrS('prTemp/ascendens_christus_in_altum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Séxtam</p>
    <p:Head3>Little Chapter</p>
@@ -1848,8 +1848,8 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/ascendens_christus_in_altum.php',1); ?>
-<?php vrS('PrTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1); ?>
+<?php brS('prTemp/ascendens_christus_in_altum.php',1); ?>
+<?php vrS('prTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Nonam</p>
    <p:Head3>Little Chapter</p>
@@ -1867,15 +1867,15 @@ Saturday (</s><?php echo bkref('psSC'); ?><sr>)</s></p>
     </tr>
    </table>
    <p:Head3>Brief Response</p>
-<?php brS('PrTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1); ?>
-<?php vrS('PrTemp/dominus_in_caelo.php',1); ?>
+<?php brS('prTemp/ascendo_ad_patrem_meum_et_patrem_vestrum.php',1); ?>
+<?php vrS('prTemp/dominus_in_caelo.php',1); ?>
    <p:BodySm/>
    <p:Head2>ad Vésperas</p>
    <p:Head3>Little Chapter</p>
    <p:Rubric>As in Lauds.</p>
    <p:Head3>Hymn</p>
 	<p:RubricH>As in Lauds:</p>
-<?php vrS('PrTemp/ascendit_deus_in_jubilatione.php',1); ?>
+<?php vrS('prTemp/ascendit_deus_in_jubilatione.php',1); ?>
    <p:Head3>Magnificat</p>
    <p:RubricH>in ferial Office:</p>
    <table>

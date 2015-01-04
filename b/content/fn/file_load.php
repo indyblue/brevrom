@@ -7,7 +7,14 @@ function file_load($file) {
 	$txtContent = ob_get_contents(); // assign buffer contents to variable
 	ob_end_clean(); // end buffer and remove buffer contents
 	
-	$pieces = explode(chr(13).chr(10),$txtContent);
+	$cr = chr(13).chr(10);
+	if(strpos($txtContent,$cr)===false)
+		$cr = chr(13);
+	if(strpos($txtContent,$cr)===false)
+		$cr = chr(10);
+	//echo '<br/>crlf:' . strpos($txtContent,$cr) . '<br/>';
+	$pieces = explode($cr,$txtContent);
+	//echo '<pre>'.print_r($pieces,1).'</pre>';
 	$pieces = array_map('trim',$pieces);
 	return $pieces;
 }

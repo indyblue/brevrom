@@ -10,8 +10,8 @@
 	rubrics('ps/SuV116.php');
 	lc('rom11_33.php');
 	hymn('jam_sol_recedit_igneus_amorem.php',1);
-	vrS('PrTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
-	ant('PrTemp/post_pentecost/010m1.php','M');
+	vrS('prTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
+	ant('prTemp/post_pentecost/010m1.php','M');
 	rubrics('et_non_fit_com_dominicae.php');
 	rubrics('prSanct/ComplineSun.php');
 	space();
@@ -23,10 +23,10 @@
 	lc('rom11_33.php');
 	rubrics('head/HymnVerse.php');	
 	hymn('tu_trinitatis_unitas.php');
-	vrS('PrTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
-	ant('PrTemp/post_pentecost/010b.php','B');
+	vrS('prTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
+	ant('prTemp/post_pentecost/010b.php','B');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/post_pentecost/010t.php');
+	prayer('prTemp/post_pentecost/010t.php');
 	rubrics('et_non_fit_com_dominicae.php');
 	space();
 
@@ -44,22 +44,22 @@
 	hour('T');
 	ant('prTemp/post_pentecost/010L.php','0*000');
 	lc('rom11_33.php');
-	brS('PrTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
-	vrS('PrTemp/benedictus_es_domine_in_firmamento_caeli.php');
+	brS('prTemp/benedicamus_patrem_et_filium_cum_sancto_spiritu.php');
+	vrS('prTemp/benedictus_es_domine_in_firmamento_caeli.php');
 	space();
 
 	hour('S');
 	ant('prTemp/post_pentecost/010L.php','00*00');
 	lc('2cor13_13.php');
-	brS('PrTemp/benedictus_es_domine_in_firmamento_caeli.php');
-	vrS('PrTemp/verbo_domini_caeli_firmati_sunt.php');
+	brS('prTemp/benedictus_es_domine_in_firmamento_caeli.php');
+	vrS('prTemp/verbo_domini_caeli_firmati_sunt.php');
 	space();
 
 	hour('N');
 	ant('prTemp/post_pentecost/010L.php','0000*');
 	lc('1john5_7.php');
-	brS('PrTemp/verbo_domini_caeli_firmati_sunt.php');
-	vrS('PrTemp/sit_nomen_domini_benedictum.php');
+	brS('prTemp/verbo_domini_caeli_firmati_sunt.php');
+	vrS('prTemp/sit_nomen_domini_benedictum.php');
 	space();
 
 	hour('2V');
@@ -69,17 +69,17 @@
 	lc('rom11_33.php');
 	rubrics('head/HymnVerse.php');	
 	hymn('jam_sol_recedit_igneus_amorem.php',0);
-	vrS('PrTemp/benedictus_es_domine_in_firmamento_caeli.php');
-	ant('PrTemp/post_pentecost/010m2.php','M');
+	vrS('prTemp/benedictus_es_domine_in_firmamento_caeli.php');
+	ant('prTemp/post_pentecost/010m2.php','M');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/post_pentecost/010t.php');
+	prayer('prTemp/post_pentecost/010t.php');
 	rubrics('et_non_fit_com_dominicae.php');
 	rubrics('prSanct/ComplineSun.php');
 	space();
 	bookmark('1_post_pentecost');
 	rubp('In Officio feriæ:', 'In the ferial Office:');
 	rubrics('head/Prayer.php');
-	prayer('PrTemp/post_pentecost/010.php');
+	prayer('prTemp/post_pentecost/010.php');
 
 ?>
 
