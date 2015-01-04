@@ -7,20 +7,8 @@
 function hymn($file, $byref=-1, $posttxt=0) {
 	$dir = $_GET['root'] . "/00/Hymn/";
 
-
-	mb_internal_encoding("UTF-8");
-	
-	ob_start(); // start buffer
-	require ($dir.'L/'.$file);
-	$txtContent = ob_get_contents(); // assign buffer contents to variable
-	ob_end_clean(); // end buffer and remove buffer contents
-	$Lpieces = explode(chr(13).chr(10),$txtContent);
-	
-	ob_start(); // start buffer
-	require ($dir.'E/'.$file);
-	$txtContent = ob_get_contents(); // assign buffer contents to variable
-	ob_end_clean(); // end buffer and remove buffer contents
-	$Epieces = explode(chr(13).chr(10),$txtContent);
+	$Lpieces = file_load($dir.'L/'.$file);
+	$Epieces = file_load($dir.'E/'.$file);
 	
 	//print_r(array_count_values($Lpieces));
 	//print_r(array_count_values($Epieces));

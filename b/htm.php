@@ -46,7 +46,7 @@ require 'content/'.$url;
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
 
-	$Body = 12;
+	$Body = 14;
 	$BodySm = $Body - 2;
 	$RubricHSm = $Body - 3.5;
 	$HymnR = $Body + 2;
@@ -116,7 +116,7 @@ echo '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 		}
 	</script>
 	</head>
-	<body id=""><div>
+	<body id="night"><div>
 	<div class="Hidden2" onClick="name10()"><a href="'.$uri.
 		($v?'':'&amp;v=1').'">Toggle all tags</a></div>'. "\n";
 

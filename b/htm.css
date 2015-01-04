@@ -20,7 +20,11 @@
 }
 @font-face {
 	font-family: FreeSerifVR;
-	src: url(font/freeserifvr.woff);
+	src: url(font/freeserifvr2.woff);
+}
+@font-face {
+	font-family: TimesVR;
+	src: url(font/timesVR.ttf);
 }
 @font-face {
 	font-family: BlackLetter;
