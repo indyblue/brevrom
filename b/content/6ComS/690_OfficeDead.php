@@ -2,6 +2,7 @@
 	$long = $_GET['long'];
 	$matins = $_GET['matins'];
 	$old = $_GET['old'];
+	$htm = $_GET['htm'];
 
 	space('PgB');
 	space();
@@ -69,7 +70,7 @@ if($matins) {
 	rubrics('offDef/mPortaPater.php');
 
 	lc('job7_16-21.php',0,'L1d');
-	rubrics('offDef/mNoTuAutem.php');
+	rubrics('offDef/mLectionesTerminatur.php');
 	rm('offDef/mr1.php',0,1,1);
 	space();
 
@@ -114,7 +115,7 @@ if($matins) {
 	rubrics('offDef/mPortaPater.php');
 
 	lc('job13_22-28.php',0,'L4d');
-	rubrics('offDef/mNoTuAutem.php');
+	rubrics('offDef/mLectionesTerminatur.php');
 	rm('offDef/mr4.php',0,1,1);
 	space();
 
@@ -162,7 +163,7 @@ if($matins) {
 	rubrics('offDef/mPortaPater.php');
 
 	lc('job17_1-3_11-15.php',0,'L7d');
-	rubrics('offDef/mNoTuAutem.php');
+	rubrics('offDef/mLectionesTerminatur.php');
 	rm('offDef/mr7.php',0,1,1);
 	space();
 
@@ -182,6 +183,7 @@ if($matins) {
 	rubp('Si Matutinum, cum unico vel tribus Nocturnis, in privata recitatione a Laudibus separetur, post ultimum Responsorium subjungitur:','If Matins, with one or three Nocturns, in private recitation is separated from Lauds, after the final Responsory is said:');
 	rubp('','If Matins is separated from Lauds, the following is added after the last Responsory:');
 	rubrics('offDef/mConcl.php');
+	space();
 }
 
 	hidden('Lauds',2);
@@ -230,6 +232,7 @@ if($matins) {
 	bookmark('offDefLpr');
 	rubp('Preces infrascriptæ dicuntur flexis genibus:','The following prayers are said kneeling:');
 	vr('pater_silent_vr.php');
+	
 if($old==1) {
 	rubp('<snr>¶</s> Sequens Ps. <snr>De profúndis,</s> non dicitur in die obitus seu despositionis defuncti.','<snr>¶</s> The following Ps. <snr>Out of the depths,</s> is not said on the day of death or burial.');
 	psalm(129);

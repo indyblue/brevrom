@@ -29,8 +29,8 @@ if($matins) {
 	psalm('94ri.php');
 	space();
 
-	rubp('Nocturni enim inferius positi omnes dici possunt vel etiam unus tantum, ita tamen, ut extra diem depositionis, in qua semper dicitur primus Nocturnus: Dominica, Feria II et V dicatur primus, Feria III et VI secundus, <snr>p. '.bkref('offDefMn2').'</s>, et Feria IV et Sabbato tertius Nocturnus, <snr>p. '.bkref('offDefMn3').'</s>.',
-		'For the nocturns given below, all three can be said, or one only; in which case however, outside of the day of burial, on which is always said the first Nocturn: Sunday, Monday and Thursday, the first is said; Tuesday and Friday, the second,  <snr>p. '.bkref('offDefMn2').'</s>, and Wednesday and Saturday the third Nocturn, <snr>p. '.bkref('offDefMn3').'</s>.');
+   rubp('Nocturni enim inferius positi omnes dici possunt vel etiam unus tantum, ita tamen, ut extra diem depositionis, in qua semper dicitur primus Nocturnus: Dominica, Feria II et V dicatur primus, Feria III et VI secundus, <snr>p. '.bkref('offDefMn2').'</s>, et Feria IV et Sabbato tertius Nocturnus, <snr>p. '.bkref('offDefMn3').'</s>.',
+	'For the nocturns given below, all three can be said, or one only; in which case however, outside of the day of burial, on which is always said the first Nocturn: Sunday, Monday and Thursday, the first is said; Tuesday and Friday, the second, <snr>p. '.bkref('offDefMn2').'</s>, and Wednesday and Saturday the third Nocturn, <snr>p. '.bkref('offDefMn3').'</s>.');
 
 	bookmark('offDefMn1');
 	space();
@@ -62,6 +62,7 @@ if($matins) {
 	}
 		
 	rubrics('offDef/mPortaPater.php');
+
 	lc('job7_16-21.php',0,'L1d');
 	rubrics('offDef/mLectionesTerminatur.php');
 	rm('offDef/mr1.php',0,1,1);
@@ -106,6 +107,7 @@ if($matins) {
 	}
 
 	rubrics('offDef/mPortaPater.php');
+
 	lc('job13_22-28.php',0,'L4d');
 	rubrics('offDef/mLectionesTerminatur.php');
 	rm('offDef/mr4.php',0,1,1);
@@ -129,9 +131,11 @@ if($matins) {
 		space('Spacer');
 		ant('offDefMatins.php','000000120');
 		psref(40);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000012');
 		psref(41,2);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000001');
 	} else {
@@ -141,14 +145,17 @@ if($matins) {
 		space('Spacer');
 		ant('offDefMatins.php','000000120');
 		psalm(40);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000012');
 		psalm(41);
+		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
 		ant('offDefMatins.php','000000001');
 	}
 	
 	rubrics('offDef/mPortaPater.php');
+
 	lc('job17_1-3_11-15.php',0,'L7d');
 	rubrics('offDef/mLectionesTerminatur.php');
 	rm('offDef/mr7.php',0,1,1);

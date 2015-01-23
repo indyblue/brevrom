@@ -55,7 +55,7 @@ ob_end_clean(); // end buffer and remove buffer contents
 	$Head2 = $Body * 1.1;
 	$Head3 = $Body * 1.1;
 
-echo '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+$html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
 		"http://www.w3.org/TR/html4/loose.dtd">  
 		<html><head>
 	<title>Officium Divinum</title>
@@ -190,10 +190,18 @@ $txtContent = preg_replace_callback(
 	'/<div class="Hidden([12])">(.*)<\/div>/',
 	'hdiv',
 	$txtContent);
-	
 
-echo $txtContent;
-echo "\n</div></body></html>\n";
+$html2 = "\n</div></body></html>\n";
+
+$html = $html1 . $txtContent . $html2;
+// handle hyphenation
+//*
+require 'content/fn/hyph.php';
+$hyph = new hyph();
+$html = $hyph->html($html);
+// */
+
+echo $html;
 
 function hdiv($matches)
 {
@@ -204,4 +212,3 @@ function hdiv($matches)
 }
 
 ?>
-
