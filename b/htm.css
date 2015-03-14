@@ -83,6 +83,11 @@ div {
 	text-align:justify;
 	vertical-align:top; 
 }
+div.HymnL, div.HymnE {
+	text-align:left;
+	margin-left:1em;
+	text-indent:-1em;
+}
 div.BodyDrop:first-letter,
 div.BodyLDrop:first-letter,
 div.BodyEDrop:first-letter { 
@@ -146,7 +151,7 @@ span.RubricH {
 }
 span.NonRubric {font-style:normal; color:black;}
 span.Italic {font-style:italic;}
-span.Bold {font-weight:bold;}
+span.Bold {font-weight:bold; color:red;}
 span.BoldR {font-weight:bold; color:red;}
 span.BoldRC {
 	font-weight:bold; 

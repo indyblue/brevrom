@@ -1,4 +1,6 @@
 <?php 
+// error_reporting(E_ALL);
+ini_set('display_errors', 0);
 mb_internal_encoding('UTF-8');
 $_GET['htm'] = 1;
 $_GET['old'] = 1;
@@ -59,6 +61,7 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 		"http://www.w3.org/TR/html4/loose.dtd">  
 		<html><head>
 	<title>Officium Divinum</title>
+	<meta name="viewport" content="initial-scale=2"/>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<link href="htm.css" rel="stylesheet" type="text/css" />
 	<STYLE type="text/css">
@@ -115,8 +118,81 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 			}
 		}
 	</script>
+	<script type="text/javascript">
+		$(document).ready(function docReady() {
+			var $divh2 = $("div.h2");
+			$(window).scroll(function fnScroll() {
+				if(window.scrollY<window.innerHeight/2
+					|| (typeof document.scrollYb == "number"
+					&& Math.abs(document.scrollYb-window.scrollY)<100))
+					return;
+				document.scrollYb = window.scrollY
+				var arr = Array();
+				$divh2.each(function fnEach(i) {
+					var br = this.getBoundingClientRect(); 
+					var wh = window.innerHeight;
+
+					if(br.top<=window.innerHeight 
+						&& br.top+br.height>0
+						&& br.height>10) {
+						var obj = {
+							i:i,
+							y:br.y
+						};
+						arr.push(obj);
+						console.log(i, br.top, br.height, 
+							br.top + br.height);
+					}
+				});
+				lsWrite(arr);
+			});
+
+			$("#resume").click(function fnResume() {
+				var arr = lsRead();
+				if(arr!=null) for(var x=0;x<arr.length;x++) {
+					var obj = arr[x];
+					var $div = $divh2.eq(obj.i);
+					$div.show();
+					var hProc = 0;
+					var fn = function fnMover() {
+						var br = $div[0].getBoundingClientRect();
+						if(Math.abs(br.y-obj.y)>50) {
+							console.log("trying", br.y, obj.y);
+							window.scrollBy(0,br.y-obj.y);
+						} else {
+							console.log("done", br.y, obj.y);
+							clearInterval(hProc);
+						}
+					};
+					var hProc = setInterval(fn, 100);
+				}
+			});
+
+			$("#clear").click(function fnClear() {
+				window.localStorage.clear();
+			});
+		});
+
+		function lsWrite(obj) {
+			var sObj = JSON.stringify(obj);
+			var sUrl = document.URL;
+			window.localStorage.setItem(sUrl, sObj);
+		}
+		function lsRead(key) {
+			if(typeof key != "string" || key.length==0)
+				key = document.URL;
+			var obj = null;
+			try {
+				var sObj = window.localStorage.getItem(key);
+				var obj = JSON.parse(sObj);
+			} catch(e) { }
+			return obj;
+		}
+	</script>
 	</head>
 	<body id="night"><div>
+	<button id="resume">Resume</button> &nbsp; &nbsp; &nbsp;
+	<button id="clear">Clear</button>
 	<div class="Hidden2" onClick="name10()"><a href="'.$uri.
 		($v?'':'&amp;v=1').'">Toggle all tags</a></div>'. "\n";
 
@@ -127,6 +203,7 @@ $regex=array(
 	'/<text:bookmark-ref[^>]*text:ref-name="([^"]*)"[^>]*>/',
 	'/<\/text:bookmark-ref>/',
 	'/<text:bookmark.*text:name="([^"]*)"\/>/',
+	'/\*/',
 	'/<l>/',
 	'/<r>/',
 	'/<sr>/',
@@ -156,6 +233,7 @@ $repl=array(
 	'<a href="#\1">',
 	'</a>',
 	'<a class="anchor" id="\1" name="\1"></a>',
+	'<sr>*</s>',
 	'<s:L>',
 	'<s:Red>',
 	'<s:Rubric>',
