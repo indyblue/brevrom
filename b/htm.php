@@ -226,6 +226,7 @@ $regex=array(
 	'/pœnitens/',
 	'/(?<!\pL)Á/u', '/(?<!\pL)É/u', '/(?<!\pL)Í/u', 
 	'/(?<!\pL)Ó/u', '/(?<!\pL)Ú/u', '/(?<!\pL)Ý/u', '/(?<!\pL)Ǽ/u'
+	//,'/ff/', '/fi/', '/fl/', '/ffi/', '/ffl/', '/st/', '/ct/'
 );
 $repl=array(
 	'<img src="/b/\2 width=\1%>',
@@ -256,7 +257,9 @@ $repl=array(
 	'fœ́dere', 'fœ́deris', "fœ́tidum",
 	'pœnitens',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
+	//,'ﬀ', 'ﬁ', 'ﬂ', 'ﬃ', 'ﬄ', 'ﬆ', '﬇'
 );
+// fb00 = ff, fi, fl, ffi, ffl, x, st, ct
 
 //'/<p:BodyLDrop>([^<]*)<t><br\/>(.*)
 //	<p:BodyEDrop>([^<]*)<t><br\/>(.*)'

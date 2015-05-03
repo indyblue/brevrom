@@ -20,7 +20,7 @@
 }
 @font-face {
 	font-family: FreeSerifVR;
-	src: url(font/freeserifvr2.woff);
+	src: url(font/vr.woff);
 }
 @font-face {
 	font-family: TimesVR;
@@ -53,6 +53,9 @@ body {
 	margin:0 2% 0 4%; 
 	width:94%; 
 	max-width:600px;
+	text-rendering: optimizeLegibility;
+	-webkit-font-variant-ligatures: common-ligatures;
+	font-variant-ligatures: common-ligatures;
 }
 
 table { 
