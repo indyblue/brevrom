@@ -16643,13 +16643,23 @@ class TCPDF {
 						}
 						// font color
 						if (isset($dom[$key]['style']['color']) AND (!TCPDF_STATIC::empty_string($dom[$key]['style']['color']))) {
-							$dom[$key]['fgcolor'] = TCPDF_COLORS::convertHTMLColorToDec($dom[$key]['style']['color'], $this->spot_colors);
+							if(!K_TCPDF_SPOT_IN_CSS) $spotcolor = false;
+							else $spotcolor = TCPDF_COLORS::getSpotColor($dom[$key]['style']['color'], $this->spot_colors);
+							if ($spotcolor === false) 
+								$dom[$key]['fgcolor'] = TCPDF_COLORS::convertHTMLColorToDec($dom[$key]['style']['color'], $this->spot_colors);
+							else
+								$dom[$key]['fgcolor'] = $spotcolor;
 						} elseif ($dom[$key]['value'] == 'a') {
 							$dom[$key]['fgcolor'] = $this->htmlLinkColorArray;
 						}
 						// background color
 						if (isset($dom[$key]['style']['background-color']) AND (!TCPDF_STATIC::empty_string($dom[$key]['style']['background-color']))) {
-							$dom[$key]['bgcolor'] = TCPDF_COLORS::convertHTMLColorToDec($dom[$key]['style']['background-color'], $this->spot_colors);
+							if(!K_TCPDF_SPOT_IN_CSS) $spotcolor = false;
+							else $spotcolor = TCPDF_COLORS::getSpotColor($dom[$key]['style']['color'], $this->spot_colors);
+							if ($spotcolor === false) 
+								$dom[$key]['bgcolor'] = TCPDF_COLORS::convertHTMLColorToDec($dom[$key]['style']['background-color'], $this->spot_colors);
+							else
+								$dom[$key]['fgcolor'] = $spotcolor;
 						}
 						// text-decoration
 						if (isset($dom[$key]['style']['text-decoration'])) {

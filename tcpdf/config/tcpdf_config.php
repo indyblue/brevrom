@@ -213,6 +213,12 @@ define('K_THAI_TOPCHARS', true);
 define('K_TCPDF_CALLS_IN_HTML', false);
 
 /**
+ * If true allows spot colors in HTML css color and background-color 
+ * when active spot colors will supersede html colors with same name
+ */
+define('K_TCPDF_SPOT_IN_CSS', true);
+
+/**
  * If true and PHP version is greater than 5, then the Error() method throw new exception instead of terminating the execution.
  */
 define('K_TCPDF_THROW_EXCEPTION_ERROR', false);
