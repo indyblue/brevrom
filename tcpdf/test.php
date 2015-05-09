@@ -101,18 +101,19 @@ $css = '
 		color:spotRed;
 		font-size:300%;
 	}
-	span {
+	div {
 		font-family: freeserif;
-		text-align: bottom;
+		text-align: justify;
 		color: spotBlack;
 		background-color:white;
 	}
 </style>
 ';
 // create columns content
-$left_column = $css.'<span>PE­RI, Dó­mi­ne, os me­um ad be­ne­di­cén­dum no­men san­ctum tu­um: mun­da quo­que cor me­um ab óm­ni­bus va­nis, per­vér­sis et ali­é­nis co­gi­ta­tió­ni­bus; in­tel­léc­tum il­lú­mi­na, afféc­tum in­flám­ma, ut dig­ne, at­tén­te ac de­vó­te hoc Of­fí­ci­um re­ci­tá­re vá­le­am, et ex­au­dí­ri mé­re­ar an­te con­spéc­tum di­ví­næ Ma­jes­tá­tis tuæ. Per Ch­ris­tum, Dó­mi­num nos­trum. <span class="vr">R.</span> Amen.</span>';
+$left_column = $css.'<div>PE­RI, (Dó­mi­ne), os me­um ad be­ne­di­cén­dum no­men san­ctum tu­um: mun­da quo­que cor me­um ab óm­ni­bus va­nis, per­vér­sis et ali­é­nis co­gi­ta­tió­ni­bus;</div>
+<div>in­tel­léc­tum il­lú­mi­na, afféc­tum in­flám­ma, ut dig­ne, at­tén­te ac de­vó­te hoc Of­fí­ci­um re­ci­tá­re vá­le­am, et ex­au­dí­ri mé­re­ar an­te con­spéc­tum di­ví­næ Ma­jes­tá­tis tuæ. Per Ch­ris­tum, Dó­mi­num nos­trum. <span class="vr">R.</span> Amen.</div>';
 
-$right_column = $css.'<span>OPEN my mouth, O Lord, that I may bless thy holy name. Cleanse my heart from all vain, evil and wan­der­ing thoughts; en­light­en my un­der­stand­ing, enkin­dle my af­fec­tions, that I may worthi­ly re­cite this Office with at­ten­tion and de­vo­tion, and may worthi­ly be heard be­fore the pres­ence of thy Di­vine Majesty. Through Christ our Lord. <span class="vr">R.</span> Amen.</span>';
+$right_column = $css.'<div>AVAVAV OPEN my mouth, O Lord, that I may bless thy holy name. Cleanse my heart from all vain, evil and wan­der­ing thoughts; en­light­en my un­der­stand­ing, enkin­dle my af­fec­tions, that I may worthi­ly re­cite this Office with at­ten­tion and de­vo­tion, and may worthi­ly be heard be­fore the pres­ence of thy Di­vine Majesty. Through Christ our Lord. <span class="vr">R.</span> Amen.</div>';
 
 $regex=array(
 	'/ff/', '/fi/', '/fl/', '/ffi/', '/ffl/', 
