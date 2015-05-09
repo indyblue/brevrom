@@ -4059,11 +4059,13 @@ class TCPDF {
 		}
 		$w = 0; // total width
 		$wa = array(); // array of characters widths
+		$prevChar=0;
 		foreach ($sa as $ck => $char) {
 			// character width
-			$cw = $this->GetCharWidth($char, isset($sa[($ck + 1)]));
+			$cw = $this->GetCharWidth($char, $prevChar, isset($sa[($ck + 1)]));
 			$wa[] = $cw;
 			$w += $cw;
+			$prevChar=$char;
 		}
 		// restore previous values
 		if (!TCPDF_STATIC::empty_string($fontname)) {
@@ -4084,9 +4086,9 @@ class TCPDF {
 	 * @public
 	 * @since 2.4.000 (2008-03-06)
 	 */
-	public function GetCharWidth($char, $notlast=true) {
+	public function GetCharWidth($char, $prevChar=0, $notlast=true) {
 		// get raw width
-		$chw = $this->getRawCharWidth($char);
+		$chw = $this->getRawCharWidth($char, $prevChar);
 		if (($this->font_spacing < 0) OR (($this->font_spacing > 0) AND $notlast)) {
 			// increase/decrease font spacing
 			$chw += $this->font_spacing;
@@ -4106,7 +4108,7 @@ class TCPDF {
 	 * @public
 	 * @since 5.9.000 (2010-09-28)
 	 */
-	public function getRawCharWidth($char) {
+	public function getRawCharWidth($char, $prevChar=0) {
 		if ($char == 173) {
 			// SHY character will not be printed
 			return (0);
@@ -4121,6 +4123,9 @@ class TCPDF {
 			$w = $this->CurrentFont['cw'][32];
 		} else {
 			$w = 600;
+		}
+		if(isset($this->CurrentFont['kern'][$prevChar][$char])) {
+			$w += $this->CurrentFont['kern'][$prevChar][$char];
 		}
 		return $this->getAbsFontMeasure($w);
 	}
@@ -4304,6 +4309,9 @@ class TCPDF {
 		if (!isset($cw) OR TCPDF_STATIC::empty_string($cw)) {
 			$cw = array();
 		}
+		if (!isset($kern) OR TCPDF_STATIC::empty_string($kern)) {
+			$kern = array();
+		}
 		if (!isset($dw) OR TCPDF_STATIC::empty_string($dw)) {
 			// set default width
 			if (isset($desc['MissingWidth']) AND ($desc['MissingWidth'] > 0)) {
@@ -4368,7 +4376,7 @@ class TCPDF {
 		}
 		// initialize subsetchars
 		$subsetchars = array_fill(0, 255, true);
-		$this->setFontBuffer($fontkey, array('fontkey' => $fontkey, 'i' => $this->numfonts, 'type' => $type, 'name' => $name, 'desc' => $desc, 'up' => $up, 'ut' => $ut, 'cw' => $cw, 'cbbox' => $cbbox, 'dw' => $dw, 'enc' => $enc, 'cidinfo' => $cidinfo, 'file' => $file, 'ctg' => $ctg, 'subset' => $subset, 'subsetchars' => $subsetchars));
+		$this->setFontBuffer($fontkey, array('fontkey' => $fontkey, 'i' => $this->numfonts, 'type' => $type, 'name' => $name, 'desc' => $desc, 'up' => $up, 'ut' => $ut, 'cw' => $cw, 'kern'=> $kern, 'cbbox' => $cbbox, 'dw' => $dw, 'enc' => $enc, 'cidinfo' => $cidinfo, 'file' => $file, 'ctg' => $ctg, 'subset' => $subset, 'subsetchars' => $subsetchars));
 		if ($this->inxobj) {
 			// we are inside an XObject template
 			$this->xobjects[$this->xobjid]['fonts'][$fontkey] = $this->numfonts;
@@ -5224,12 +5232,12 @@ class TCPDF {
 		$s .= $this->getCellBorder($x, $y, $w, $h, $border);
 		if ($txt != '') {
 			$txt2 = $txt;
+			$unicode = TCPDF_FONTS::UTF8StringToArray($txt, $this->isunicode, $this->CurrentFont); // array of UTF-8 unicode values
+			$unicode = TCPDF_FONTS::utf8Bidi($unicode, '', $this->tmprtl, $this->isunicode, $this->CurrentFont);
 			if ($this->isunicode) {
 				if (($this->CurrentFont['type'] == 'core') OR ($this->CurrentFont['type'] == 'TrueType') OR ($this->CurrentFont['type'] == 'Type1')) {
 					$txt2 = TCPDF_FONTS::UTF8ToLatin1($txt2, $this->isunicode, $this->CurrentFont);
 				} else {
-					$unicode = TCPDF_FONTS::UTF8StringToArray($txt, $this->isunicode, $this->CurrentFont); // array of UTF-8 unicode values
-					$unicode = TCPDF_FONTS::utf8Bidi($unicode, '', $this->tmprtl, $this->isunicode, $this->CurrentFont);
 					// replace thai chars (if any)
 					if (defined('K_THAI_TOPCHARS') AND (K_THAI_TOPCHARS == true)) {
 						// number of chars
@@ -5322,9 +5330,31 @@ class TCPDF {
 						$this->setFontSubBuffer($this->CurrentFont['fontkey'], 'subsetchars', $this->CurrentFont['subsetchars']);
 					} // end of K_THAI_TOPCHARS
 					$txt2 = TCPDF_FONTS::arrUTF8ToUTF16BE($unicode, false);
+					$u16=true;
 				}
 			}
 			$txt2 = TCPDF_STATIC::_escape($txt2);
+
+			// kern text
+			if(isset($u16) && $u16) $txt3=TCPDF_STATIC::_escape(TCPDF_FONTS::arrUTF8ToUTF16BE([$unicode[0]], false));
+			else $txt3=mb_substr($txt2,0,1);
+			for($i=1;$i<count($unicode);++$i) {
+				$char = $unicode[$i];
+				$prevChar = $unicode[$i-1];
+				$width = 0;
+				if(isset($this->CurrentFont['kern'][$prevChar][$char])) {
+					$width = $this->CurrentFont['kern'][$prevChar][$char];
+					$width = $this->getAbsFontMeasure($width);
+					$width = -1000 * $width / ($this->FontSize?$this->FontSize:1);
+				}
+				if($width!=0) {
+					$txt3 .= ') '. sprintf('%d', $width) .' (';
+				}
+				if(isset($u16) && $u16) $txt3.=TCPDF_STATIC::_escape(TCPDF_FONTS::arrUTF8ToUTF16BE([$unicode[$i]], false));
+				else $txt3.=mb_substr($txt2,$i,1);
+			}
+			$txt2 = $txt3;
+			
 			// get current text width (considering general font stretching and spacing)
 			$txwidth = $this->GetStringWidth($txt);
 			$width = $txwidth;
@@ -6350,6 +6380,7 @@ class TCPDF {
 			}
 			//Get the current character
 			$c = $chars[$i];
+			$prevC = $i>0 ? $chars[$i-1] : 0;
 			if ($c == 10) { // 10 = "\n" = new line
 				//Explicit line break
 				if ($align == 'J') {
@@ -6452,7 +6483,7 @@ class TCPDF {
 					// *** very slow ***
 					$l = $this->GetArrStringWidth(TCPDF_FONTS::utf8Bidi(array_slice($chars, $j, ($i - $j)), '', $this->tmprtl, $this->isunicode, $this->CurrentFont));
 				} else {
-					$l += $this->GetCharWidth($c);
+					$l += $this->GetCharWidth($c, $prevC);
 				}
 				if (($l > $wmax) OR (($c == 173) AND (($l + $tmp_shy_replacement_width) >= $wmax))) {
 					if (($c == 173) AND (($l + $tmp_shy_replacement_width) > $wmax)) {
@@ -17675,6 +17706,7 @@ Putting 1 is equivalent to putting 0 and calling Ln() just after. Default value:
 							// escape special characters
 							$pmidtemp = preg_replace('/[\\\][\(]/x', '\\#!#OP#!#', $pmidtemp);
 							$pmidtemp = preg_replace('/[\\\][\)]/x', '\\#!#CP#!#', $pmidtemp);
+							$pmidtemp = preg_replace('/[\)]\s+(\d+)\s+[\(]/x', '#!#KERN<[{$1}]>#!#', $pmidtemp);
 							// search spaces
 							if (preg_match_all('/\[\(([^\)]*)\)\]/x', $pmidtemp, $lnstring, PREG_PATTERN_ORDER)) {
 								$spacestr = $this->getSpaceString();
@@ -17683,6 +17715,7 @@ Putting 1 is equivalent to putting 0 and calling Ln() just after. Default value:
 									// restore special characters
 									$lnstring[1][$kk] = str_replace('#!#OP#!#', '(', $lnstring[1][$kk]);
 									$lnstring[1][$kk] = str_replace('#!#CP#!#', ')', $lnstring[1][$kk]);
+									$lnstring[1][$kk] = preg_replace('/#!#KERN<\[\{(\d+)}]>#!#/', ') $1 (', $lnstring[1][$kk]);
 									// store number of spaces on the strings
 									$lnstring[2][$kk] = substr_count($lnstring[1][$kk], $spacestr);
 									// count total spaces on line
@@ -17890,11 +17923,13 @@ Putting 1 is equivalent to putting 0 and calling Ln() just after. Default value:
 									$pos = 0;
 									$pmid = preg_replace('/[\\\][\(]/x', '\\#!#OP#!#', $pmid);
 									$pmid = preg_replace('/[\\\][\)]/x', '\\#!#CP#!#', $pmid);
+									$pmid = preg_replace('/[\)]\s+(\d+)\s+[\(]/x', '#!#KERN<[{$1}]>#!#', $pmid);
 									if (preg_match_all('/\[\(([^\)]*)\)\]/x', $pmid, $pamatch) > 0) {
 										foreach($pamatch[0] as $pk => $pmatch) {
 											$replace = $pamatch[1][$pk];
 											$replace = str_replace('#!#OP#!#', '(', $replace);
 											$replace = str_replace('#!#CP#!#', ')', $replace);
+											$replace = preg_replace('/#!#KERN<\[\{(\d+)}]>#!#/', ') $1 (', $replace);
 											$newpmid = '[('.str_replace(chr(0).chr(32), ') '.sprintf('%F', $spacew).' (', $replace).')]';
 											$pos = strpos($pmid, $pmatch, $pos);
 											if ($pos !== FALSE) {

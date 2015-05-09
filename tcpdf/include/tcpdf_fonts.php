@@ -773,6 +773,15 @@ class TCPDF_FONTS {
 			if (!isset($ctg[0])) {
 				$ctg[0] = 0;
 			}
+
+			$gtc = array_flip($ctg);
+			// ---------- get GPOS Data ----------
+			if(isset($table['GPOS'])) {
+				$gpo = $table['GPOS']['offset'];
+				$length = $table['GPOS']['length'];
+				TCPDF_FONTS::parseTtfGposTable($font, $gpo, $length, $kern, $gtc, $int_len, $getUINT);
+			} else $kern = array();
+
 			// get xHeight (height of x)
 			$offset = ($table['glyf']['offset'] + $indexToLoc[$ctg[120]] + 4);
 			$yMin = TCPDF_STATIC::_getFWORD($font, $offset);
@@ -909,6 +918,7 @@ class TCPDF_FONTS {
 			$pfile .= '$cbbox=array('.substr($fmetric['cbbox'], 1).');'."\n";
 		}
 		$pfile .= '$cw=array('.substr($fmetric['cw'], 1).');'."\n";
+		$pfile .= '$kern= ' . preg_replace(['/[\s\n]+/',"/\),/"],['',"),\n"],var_export($kern,1)) .";\n";
 		$pfile .= '// --- EOF ---'."\n";
 		// store file
 		$fp = TCPDF_STATIC::fopenLocal($outpath.$font_name.'.php', 'w');
@@ -916,6 +926,222 @@ class TCPDF_FONTS {
 		fclose($fp);
 		// return TCPDF font name
 		return $font_name;
+	}
+
+	private static function parseTtfGposTable(&$font, $gpo, $length, &$kern, &$gtc, $int_len, $getUINT) {
+				$int_len = 2;
+				$getUINT =  '_getUSHORT';
+		$kern = array();
+		$e = false;
+		$offset = $gpo;
+		if($e) echo "$int_len $getUINT<br>\n";
+		$gp_ver = TCPDF_STATIC::_getULONG($font, $offset);
+		$offset+=4;
+		$gp_slo = TCPDF_STATIC::$getUINT($font, $offset);
+		$offset+=$int_len;
+		$gp_flo = TCPDF_STATIC::$getUINT($font, $offset);
+		$offset+=$int_len;
+		$gp_llo = TCPDF_STATIC::$getUINT($font, $offset);
+		$offset+=$int_len;
+		if($e) echo "GPOS $gpo ($length) Version $gp_ver ScriptList $gp_slo FeatureList $gp_flo LookupList $gp_llo<br>\n";
+		/* // script list - don't really need?
+		$gp_slc = TCPDF_STATIC::_getUSHORT($font, $gpo+$gp_slo);
+		if($e) echo " Scripts $gp_slc<br>\n";
+		for($i=0;$i<$gp_slc; ++$i) {
+			$offset = $gpo + $gp_slo + 2 + $i*6;
+			$slName = substr($font, $offset, 4);
+			$slNameO = TCPDF_STATIC::_getUSHORT($font, $offset+4);
+			if($e) echo "  $slName ($slNameO)<br>\n";
+		}
+		// Feature List - don't really need this either?
+		$gp_flc = TCPDF_STATIC::_getUSHORT($font, $gpo+$gp_flo);
+		$offset = $gpo + $gp_flo + 2;
+		if($e) echo " Features $gp_flc<br>\n";
+		for($i=0;$i<$gp_flc; ++$i) {
+			$frn = substr($font, $offset, 4);
+			$offset+=4;
+			$fro = TCPDF_STATIC::$getUINT($font, $offset);
+			$offset+=$int_len;
+			$offset2 = $gpo+$gp_flo+$fro;
+
+			$fparams = TCPDF_STATIC::$getUINT($font, $offset2);
+			$offset2+=$int_len;
+
+			$fc = TCPDF_STATIC::_getUSHORT($font, $offset2);
+			$offset2+=2;
+			if($e) echo "  $frn $fro ($fc) ";
+			for($j=0;$j<$fc;++$j){
+				$lli = TCPDF_STATIC::$getUINT($font, $offset2);
+				$offset2+=$int_len;
+				if($e) echo " [$lli]";
+			}
+			if($e) echo "<br>\n";
+		}
+		// */
+
+		$offset = $gpo + $gp_llo;
+		$gp_llc = TCPDF_STATIC::_getUSHORT($font, $offset);
+		$offset+=2;
+		if($e) echo " Lookups $gp_llc<br>\n";
+		for($i=0;$i<$gp_llc; ++$i) { // start lookup table section
+			$lo = TCPDF_STATIC::$getUINT($font, $offset);
+			$offset+=$int_len;
+			
+			$offset2 = $gpo+$gp_llo+$lo;
+			$ltype = TCPDF_STATIC::_getUSHORT($font, $offset2);
+			$offset2+=2;
+			$lflag = TCPDF_STATIC::_getUSHORT($font, $offset2);
+			/* 
+				0x0001 	RightToLeft 
+				0x0002 	IgnoreBaseGlyphs 
+				0x0004 	IgnoreLigatures 
+				0x0008 	IgnoreMarks 
+				0x00F0 	Reserved 
+				0xFF00 	MarkAttachmentType
+			*/
+			$offset2+=2;
+			$subcount = TCPDF_STATIC::_getUSHORT($font, $offset2);
+			$offset2+=2;
+			if($e) echo "  t$ltype f$lflag ($subcount)<br>\n";
+			for($j=0;$j<$subcount;++$j){ // start subtables
+				$suboffset = TCPDF_STATIC::$getUINT($font, $offset2);
+				$offset2+=$int_len;
+				if($e) echo "   sub[$suboffset]<br>\n";
+				$offset3 = $gpo+$gp_llo+$lo+$suboffset;
+				if($ltype==2) { // KERN - Pair Adjustment Positioning Subtable
+					$posFormat = TCPDF_STATIC::_getUSHORT($font, $offset3);
+					$offset3+=2;
+					$offCoverage = TCPDF_STATIC::$getUINT($font, $offset3);
+					$offset3+=$int_len;
+					$valFormat1 = TCPDF_STATIC::_getUSHORT($font, $offset3);
+					$offset3+=2;
+					$valFormat2 = TCPDF_STATIC::_getUSHORT($font, $offset3);
+					$offset3+=2;
+					if($e) echo "    posFormat $posFormat offCov $offCoverage valFmt($valFormat1, $valFormat2)";
+
+					/* coverage table - don't really need this
+					$offset4 = $gpo+$gp_llo+$lo+$suboffset+$offCoverage;
+					$covFmt = TCPDF_STATIC::_getUSHORT($font, $offset4);
+					$offset4+=2;
+					$covCnt = TCPDF_STATIC::_getUSHORT($font, $offset4);
+					$offset4+=2;
+					if($e) echo " cov($covFmt;$covCnt)";
+					// end coverage table stuff */
+
+					if($posFormat==1) { // format 1 - seems to be rarer than 2
+						$pairSetCount = TCPDF_STATIC::_getUSHORT($font, $offset3);
+						$offset3+=2;
+						if($e) echo " setCnt $pairSetCount<br>\n";
+						for($k=0;$k<$pairSetCount;++$k){ //Pair Sets
+							$pairSetOffset = TCPDF_STATIC::$getUINT($font, $offset3);
+							$offset3+=$int_len;
+							$offset4 = $gpo+$gp_llo+$lo+$suboffset + $pairSetOffset;
+							$pairValueCount = TCPDF_STATIC::_getUSHORT($font, $offset4);
+							$offset4+=2;
+							if($e) echo "     valCnt $pairValueCount -";
+							for($x=0;$x<$pairValueCount;++$x){ //PairValues
+								$glyph2 = TCPDF_STATIC::_getUSHORT($font, $offset4);
+								$offset4+=2;
+								$val1 = TCPDF_STATIC::_getSHORT($font, $offset4);
+								$offset4+=2;
+								if($valFormat2>0) {
+									$val2 = TCPDF_STATIC::_getSHORT($font, $offset4);
+									$offset4+=2;
+									if($e) echo " [$x] $glyph2($val1,$val2)";
+								}
+								else if($e) echo " [$x] $glyph2($val1)";
+							}
+							if($e) echo "<br>\n";
+						}
+					} else { // format 2
+						$offClassDef1 = TCPDF_STATIC::$getUINT($font, $offset3);
+						$offset3+=$int_len;
+						$offClassDef2 = TCPDF_STATIC::$getUINT($font, $offset3);
+						$offset3+=$int_len;
+						$class1cnt = TCPDF_STATIC::_getUSHORT($font, $offset3);
+						$offset3+=2;
+						$class2cnt = TCPDF_STATIC::_getUSHORT($font, $offset3);
+						$offset3+=2;
+						if($e) echo " clDef ($offClassDef1,$offClassDef2) clCnt ($class1cnt,$class2cnt)<br>\n";
+
+						if($e) echo "     cl1";
+						$offset4 = $gpo+$gp_llo+$lo+$suboffset + $offClassDef1;
+						$class1 = TCPDF_FONTS::parseTtfClassPairTable($font, $offset4);
+						if($e) echo "<br>\n";
+
+						if($e) echo "     cl2";
+						$offset4 = $gpo+$gp_llo+$lo+$suboffset + $offClassDef2;
+						$class2 = TCPDF_FONTS::parseTtfClassPairTable($font, $offset4);
+						if($e) echo "<br>\n";
+						
+						
+						if($e) echo "     clRec";
+						for($x=0;$x<$class1cnt;++$x){
+							for($y=0;$y<$class2cnt;++$y){
+								$val1 = TCPDF_STATIC::_getFWORD($font, $offset3);
+								$offset3+=2;
+								if($valFormat2>0) {
+								$val2 = TCPDF_STATIC::_getFWORD($font, $offset3);
+								$offset3+=2;
+								if(isset($class1[$x]) && isset($class2[$y]))
+									if($e) echo " [($x,$y)($val1,$val2)]";
+								}
+								else 
+								if(isset($class1[$x]) && isset($class2[$y]) && $val1!=0) {
+									foreach($class1[$x] as $g1) {
+										foreach($class2[$y] as $g2) {
+											$kern[$gtc[$g1]][$gtc[$g2]] = $val1;
+										}
+									}
+									if($e) echo " [($x,$y)($val1)]";
+								}
+							}
+						}
+						if($e) echo "<br>\n";
+					}
+					if($e) echo "<br>\n";
+				} // end KERN section
+			} // end subtables
+			if($e) echo "<br>\n";
+		} // end lookup table section
+	}
+
+	private static function parseTtfClassPairTable(&$font, $offset) {
+		$e = false;
+		$class = array();
+		$clFmt = TCPDF_STATIC::_getUSHORT($font, $offset);
+		$offset+=2;
+		if($clFmt==1) {
+			$glyph1 = TCPDF_STATIC::_getUSHORT($font, $offset);
+			$offset+=2;
+		}
+		$glyphCnt = TCPDF_STATIC::_getUSHORT($font, $offset);
+		$offset+=2;
+		if($e) echo " f$clFmt ($glyphCnt)";
+		for($x=0;$x<$glyphCnt;++$x){
+			if($clFmt==1) {
+				$glyphCV = TCPDF_STATIC::_getUSHORT($font, $offset);
+				$offset+=2;
+				if($e) echo " [$glyph1($glyphCV)]";
+				if(!isset($class[$glyphCV]) || !is_array($class[$glyphCV])) $class[$glyphCV] = array();
+				array_push($class[$glyphCV], $glyph1);
+				$glyph1++;
+			} else {
+				$glypha = TCPDF_STATIC::_getUSHORT($font, $offset);
+				$offset+=2;
+				$glyphb = TCPDF_STATIC::_getUSHORT($font, $offset);
+				$offset+=2;
+				$glyphCV = TCPDF_STATIC::_getUSHORT($font, $offset);
+				$offset+=2;
+				if($e) echo " [$glypha-$glyphb($glyphCV)]";
+				for($y=$glypha;$y<=$glyphb;$y++){
+					if(!isset($class[$glyphCV]) || !is_array($class[$glyphCV])) $class[$glyphCV] = array();
+					array_push($class[$glyphCV], $y);
+				}
+				// glyph is the value of the $ctg table, need to retrieve the key
+			}
+		}
+		return $class;
 	}
 
 	/**
