@@ -99,11 +99,15 @@ $css = '
 	span.d {
 		font-family:oldlondon;
 		color:spotRed;
-		font-size:300%;
+		font-size:68;
+		line-height:1;
+		margin:0;
+		padding:0;
 	}
 	div {
 		font-family: freeserif;
 		text-align: justify;
+		font-size:14;
 		color: spotBlack;
 		background-color:white;
 	}
@@ -113,7 +117,7 @@ $css = '
 $left_column = $css.'<div>PE­RI, (Dó­mi­ne), os me­um ad be­ne­di­cén­dum no­men san­ctum tu­um: mun­da quo­que cor me­um ab óm­ni­bus va­nis, per­vér­sis et ali­é­nis co­gi­ta­tió­ni­bus;</div>
 <div>in­tel­léc­tum il­lú­mi­na, afféc­tum in­flám­ma, ut dig­ne, at­tén­te ac de­vó­te hoc Of­fí­ci­um re­ci­tá­re vá­le­am, et ex­au­dí­ri mé­re­ar an­te con­spéc­tum di­ví­næ Ma­jes­tá­tis tuæ. Per Ch­ris­tum, Dó­mi­num nos­trum. <span class="vr">R.</span> Amen.</div>';
 
-$right_column = $css.'<div>AVAVAV OPEN my mouth, O Lord, that I may bless thy holy name. Cleanse my heart from all vain, evil and wan­der­ing thoughts; en­light­en my un­der­stand­ing, enkin­dle my af­fec­tions, that I may worthi­ly re­cite this Office with at­ten­tion and de­vo­tion, and may worthi­ly be heard be­fore the pres­ence of thy Di­vine Majesty. Through Christ our Lord. <span class="vr">R.</span> Amen.</div>';
+$right_column = $css.'<div>AWAY OPEN my mouth, O Lord, that I may bless thy holy name. Cleanse my heart from all vain, evil and wan­der­ing thoughts; en­light­en my un­der­stand­ing, enkin­dle my af­fec­tions, that I may worthi­ly re­cite this Office with at­ten­tion and de­vo­tion, and may worthi­ly be heard be­fore the pres­ence of thy Di­vine Majesty. Through Christ our Lord. <span class="vr">R.</span> Amen.</div>';
 
 $regex=array(
 	'/ff/', '/fi/', '/fl/', '/ffi/', '/ffl/', 
@@ -139,31 +143,37 @@ GetCharWidth
 GetStringWidth *
 
 */
+
 // get current vertical position
 $p = $pdf->getPage();
 $x = $pdf->getX();
 $y = $pdf->getY();
+//echo "<br>x,y ($x, $y) test.php<br>\n";
 $drop = $css.'<span class="d">A</span>';
 $ch = $pdf->getCellHeight($drop);
-$pdf->writeHTML($drop,$ln=false,$cell=true);
+$pdf->writeHTML($drop, false);
 $dh = $pdf->getLastH();
+$dh *= 4;
 $dw = $pdf->getX()-$x;
+$dw += .8;
 $regions = array(
-array('page' => $p, 'xt' => $x, 'yt' => $y, 'xb' => $x+$dw, 'yb' =>  $y+$dh, 'side' => 'L')
+array('page' => $p, 'xt' => $x+$dw, 'yt' => $y, 'xb' => $x+$dw, 'yb' =>  $y+$dh, 'side' => 'L')
 );
+//var_dump($regions);
 $pdf->setPageRegions($regions);
-//$pdf->SetXY($x,$y);
-
+$pdf->SetXY($x,$y);
+//echo "<br>x,y ($x, $y) test.php<br>\n";
+/*
 $pdf->Polygon(array(
 	$x,$y, $x+$dw,$y, $x+$dw,$y+$dh, $x,$y+$dh
 ), 'D');
-
+*/
 $pdf->SetFillColor(255,255,255);
 $pdf->SetTextColor(0,0,0);
 
 $h = "<br/> x: $x, y: $y, w: $dw, h: $dh";
 $h .= "<br>".print_r($regions,1)."";
-
+//echo "<br>test.php: x,y ({$pdf->getX()}, {$pdf->getY()}) <br>\n";
 // write the first column
 $pdf->writeHTMLCell(80, '', '', $y, $left_column,1);
 
