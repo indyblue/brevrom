@@ -99105,7 +99105,7 @@ SplineSet
  186 593 186 593 224.5 631.5 c 128,-1,104
  263 670 263 670 317 670 c 0,0,1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 7 per glyph data 0" c t
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 11 subtable" c t
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 8 subtable" c t
 EndChar
 EndChars

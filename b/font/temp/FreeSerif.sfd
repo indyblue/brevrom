@@ -2052,10 +2052,10 @@ LangName: 1066 "" "" "v+HusA-a"
 LangName: 1069 "" "" "Arrunta" 
 LangName: 1081 "" "" "+CTgJPgkuCT4JKAlNCS8A" 
 GaspTable: 3 9 2 21 1 65535 3 0
-OtfFeatName: 'ss04' 1033 "Nepali" 
-OtfFeatName: 'ss03' 1033 "Calcutta" 
-OtfFeatName: 'ss02' 1033 "Bombay" 
 OtfFeatName: 'ss01' 1033 "Bulgarian Alternate" 
+OtfFeatName: 'ss02' 1033 "Bombay" 
+OtfFeatName: 'ss03' 1033 "Calcutta" 
+OtfFeatName: 'ss04' 1033 "Nepali" 
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
@@ -72688,7 +72688,7 @@ SplineSet
  150 626 150 626 186.5 662.5 c 128,-1,90
  223 699 223 699 275 699 c 0,0,1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 59 per glyph data 0" c t
+Ligature2: "'hlig' Historic Ligatures in Latin lookup 66 subtable" c t
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 60 subtable" c t
 EndChar
 EndChars
