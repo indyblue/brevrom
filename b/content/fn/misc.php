@@ -99,7 +99,7 @@ function bklist($bk=0, $anchor=0) {
 // \v(echo.*)@<!bkref\(
 function bkref($link='') {
 	if(bklist(1)>0) bklist($link,0);
-	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">1</text:bookmark-ref>';
+	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">Link</text:bookmark-ref>';
 }
 
 /*
