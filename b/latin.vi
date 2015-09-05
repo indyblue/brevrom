@@ -1,5 +1,5 @@
 --- Convert to Latin only 2 column for printing ---
-%s///g | %s/^\s\+//g
+%s///ge | %s/^\s\+//ge
 %s/</\r\0/ig | g/^$/d | %s/\n\(<\/\{0,1}table\)\@!//ig
 g/TableParallel.B\d/d
 

@@ -190,7 +190,7 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 		}
 	</script>
 	</head>
-	<body id="night"><div>
+	<body id=""><div>
 	<button id="resume">Resume</button> &nbsp; &nbsp; &nbsp;
 	<button id="clear">Clear</button>
 	<div class="Hidden2" onClick="name10()"><a href="'.$uri.
@@ -255,7 +255,7 @@ $repl=array(
 	'<br/>',
 	'cœ́tui', 'cœ́tibus', 'fœ́dera', 
 	'fœ́dere', 'fœ́deris', "fœ́tidum",
-	'pœnitens',
+	'pœ́nitens',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
 	//,'ﬀ', 'ﬁ', 'ﬂ', 'ﬃ', 'ﬄ', 'ﬆ', '﬇'
 );

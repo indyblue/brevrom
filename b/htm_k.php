@@ -120,6 +120,10 @@ $regex=array(
 	'/(?<!\pL)Á/u', '/(?<!\pL)É/u', '/(?<!\pL)Í/u', 
 	'/(?<!\pL)Ó/u', '/(?<!\pL)Ú/u', '/(?<!\pL)Ý/u', '/(?<!\pL)Ǽ/u'
 	//,'/ff/', '/fi/', '/fl/', '/ffi/', '/ffl/', '/st/', '/ct/'
+	,'/(?m)^\s+/', '/(?<![\n\r])</'
+	,'/(?i)[\n\r]+(?!<\/{0,1}(td|table|tr))/'
+	,'/(?mi)^.*<td class="B\d".*$/'
+	,'/(?<![\n\r])</', '/(?i)<\/{0,1}(td|table|tr)[^>]*>/', '/[\n\r]+/'
 );
 $repl=array(
 	'<img src="/b/\2 width=\1%>',
@@ -148,9 +152,10 @@ $repl=array(
 	'<br/>',
 	'cœ́tui', 'cœ́tibus', 'fœ́dera', 
 	'fœ́dere', 'fœ́deris', "fœ́tidum",
-	'pœnitens',
+	'pœ́nitens',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
 	//,'ﬀ', 'ﬁ', 'ﬂ', 'ﬃ', 'ﬄ', 'ﬆ', '﬇'
+	,'', "\n<", '', '', "\n<", '', ''
 );
 // fb00 = ff, fi, fl, ffi, ffl, x, st, ct
 
@@ -162,7 +167,7 @@ $html2 = "\n</div></body></html>\n";
 
 $html = $html1 . $txtContent . $html2;
 // handle hyphenation
-/*
+//*
 require 'content/fn/hyph.php';
 $hyph = new hyph();
 $html = $hyph->html($html);
