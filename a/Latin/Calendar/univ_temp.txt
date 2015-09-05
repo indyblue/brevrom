@@ -1,0 +1,222 @@
+adv1-1=1=6=Dominica I Adventus
+adv1-2=3=25=
+adv1-3=3=25=
+adv1-4=3=25=
+adv1-5=3=25=
+adv1-6=3=25=
+adv1-7=3=25=
+adv2-1=1=6=Dominica II Adventus
+adv2-2=3=25=
+adv2-3=3=25=
+adv2-4=3=25=
+adv2-5=3=25=
+adv2-6=3=25=
+adv2-7=3=25=
+adv3-1=1=6=Dominica III Adventus
+adv3-2=3=25=
+adv3-3=3=25=
+adv3-4=2=18b=
+adv3-5=3=25=
+adv3-6=2=18b=
+adv3-7=2=18b=
+12-17=2=18a=
+12-18=2=18a=
+12-19=2=18a=
+12-20=2=18a=
+12-21=2=18a=
+12-22=2=18a=
+12-23=2=18a=
+adv4-1=1=6=Dominica IV Adventus
+adv4-2=2=18a=
+adv4-3=2=18a=
+adv4-4=2=18a=
+adv4-5=2=18a=
+adv4-6=2=18a=
+adv4-7=2=18a=
+12-24=1=5=in Vigilia Nativitatis Domini
+
+12-25=1=1=in Nativitate Domini
+nat1-1=2=17=Dominica infra Oct. Nativitatis
+12-26=2=16=Sancti Stephani Protomartyris
+12-27=2=16=Sancti Joannis Apostoli et Evangelistæ
+12-28=2=16=Ss. Innotentium Martyrum
+12-29=2=17=de V Die Infra Oct. Nativitatis
+12-30=2=17=de VI Die Infra Oct. Nativitatis
+12-31=2=17=de VII Die Infra Oct. Nativitatis
+01-01=1=5=in Octava Nativitatis Domini
+ssnom=2=14a=Sanctissimi Nominis Jesu
+01-05=c==S. Telesphori, Papæ, Mart.
+
+01-06=1=3=in Epiphania Domini
+epi1-1=1=11=Sanctæ Familiæ Jesu, Mariæ, Joseph
+01-07=4=28=
+01-08=4=28=
+01-09=4=28=
+01-10=4=28=
+01-11=4=28=
+01-12=4=28=
+01-13=2=14b=in Commemoratione Baptismatis D.N.J.C.
+epi1-1=2=15=Dominica I post Epiphaniam
+epi2-1=2=15=Dominica II post Epiphaniam
+epi3-1=2=15=Dominica III post Epiphaniam
+epi4-1=2=15=Dominica IV post Epiphaniam
+epi5-1=2=15=Dominica V post Epiphaniam
+epi6-1=2=15=Dominica VI post Epiphaniam
+
+sges1-1=2=15=Dominica in Septuagesima
+sges2-1=2=15=Dominica in Sexigesima
+sges3-1=2=15=Dominica in Quinquagesima
+sges3-4=1=7=Feria IV Cinerum
+sges3-5=3=22=
+sges3-6=3=22=
+sges3-7=3=22=
+
+qges1-1=1=6=Dominica I in Quadragesima
+qges1-2=3=22=
+qges1-3=3=22=
+qges1-4=2=18=
+qges1-5=3=22=
+qges1-6=2=18=
+qges1-7=2=18=
+qges2-1=1=6=Dominica II in Quadragesima
+qges2-2=3=22=
+qges2-3=3=22=
+qges2-4=3=22=
+qges2-5=3=22=
+qges2-6=3=22=
+qges2-7=3=22=
+qges3-1=1=6=Dominica III in Quadragesima
+qges3-2=3=22=
+qges3-3=3=22=
+qges3-4=3=22=
+qges3-5=3=22=
+qges3-6=3=22=
+qges3-7=3=22=
+qges4-1=1=6=Dominica IV in Quadragesima
+qges4-2=3=22=
+qges4-3=3=22=
+qges4-4=3=22=
+qges4-5=3=22=
+qges4-6=3=22=
+qges4-7=3=22=
+pass1-1=1=6=Dominica I Passionis
+pass1-2=3=22=
+pass1-3=3=22=
+pass1-4=3=22=
+pass1-5=3=22=
+pass1-6=3=22=
+pass1-7=3=22=
+pass2-1=1=6=Dominica II Passionis seu in Palmis
+pass2-2=1=7=
+pass2-3=1=7=
+pass2-4=1=7=
+pass2-5=1=2=Feria Quinta in Cena Domini
+pass2-6=3=2=Feria Sexta in Passione et Morte Domini
+pass2-7=3=2=Sabbato Sancto
+
+psch1-1=1=1=Dominica Resurrectionis
+psch1-2=1=10=Feria Secunda Infra Octavam Paschæ
+psch1-3=1=10=Feria Tertia Infra Octavam Paschæ
+psch1-4=1=10=Feria Quarta Infra Octavam Paschæ
+psch1-5=1=10=Feria Quinta Infra Octavam Paschæ
+psch1-6=1=10=Feria Sexta Infra Octavam Paschæ
+psch1-7=1=10=Sabbato in Albis in Octava Paschæ
+psch2-1=1=10=Dominica in Albis in Octava Paschæ
+psch2-2=4=28=
+psch2-3=4=28=
+psch2-4=4=28=
+psch2-5=4=28=
+psch2-6=4=28=
+psch2-7=4=28=
+psch2-1=2=15=Dominica II post Pascha
+psch2-2=4=28=
+psch2-3=4=28=
+psch2-4=4=28=
+psch2-5=4=28=
+psch2-6=4=28=
+psch2-7=4=28=
+psch3-1=2=15=Dominica III post Pascha
+psch3-2=4=28=
+psch3-3=4=28=
+psch3-4=4=28=
+psch3-5=4=28=
+psch3-6=4=28=
+psch3-7=4=28=
+psch4-1=2=15=Dominica IV post Pascha
+psch4-2=4=28=
+psch4-3=4=28=
+psch4-4=4=28=
+psch4-5=4=28=
+psch4-6=4=28=
+psch4-7=4=28=
+psch5-1=2=15=Dominica V post Pascha
+psch5-2=4=28=Feria Secunda ~(in Rogationibus)~
+psch5-3=4=28=Feria Tertia ~(in Rogationibus)~
+psch5-4=2=21=Vigilia Ascensionis ~Feria Tertia (in Rogationibus)~
+psch5-5=1=3=in Ascensione Domini
+psch6-1=2=15=Dominica Post Ascensionem
+psch6-7=1=9=Sabbato in Vigilia Pentecostes
+
+pent1-1=1=1=Dominica Pentecostes
+pent1-2=1=10=Feria Secunda Infra Octavam Pentecostes
+pent1-3=1=10=Feria Tertia Infra Octavam Pentecostes
+pent1-4=1=10=Feria Quarta Quatuor Temporum Pentecostes
+pent1-5=1=10=Feria Qunita Infra Octavam Pentecostes
+pent1-6=1=10=Feria Sexta Quatuor Temporum Pentecostes
+pent1-7=1=10=Sabbato Infra Quatuor Temporum Pentecostes
+
+pp1-1=1=3=in Festo Sanctissimæ Trinitatis
+pp1-1=2=15=Dominica I Post Pentecosten
+pp1-5=1=3=in Festo Sanctissimi Corporis Christi
+pp2-1=2=15=Dominica II Post Pentecosten
+pp2-6=1=3=in Festo Sacratissimi Cordis Jesu
+pp3-1=2=15=Dominica III Post Pentecosten
+pp4-1=2=15=Dominica IV Post Pentecosten
+pp5-1=2=15=Dominica V Post Pentecosten
+pp6-1=2=15=Dominica VI Post Pentecosten
+pp7-1=2=15=Dominica VII Post Pentecosten
+pp8-1=2=15=Dominica VIII Post Pentecosten
+pp9-1=2=15=Dominica IX Post Pentecosten
+pp10-1=2=15=Dominica X Post Pentecosten
+pp11-1=2=15=Dominica XI Post Pentecosten
+
+aug1-1=2=15=Dominica I Augusti
+aug2-1=2=15=Dominica II Augusti
+aug3-1=2=15=Dominica III Augusti
+aug4-1=2=15=Dominica IV Augusti
+aug5-1=2=15=Dominica V Augusti
+sep1-1=2=15=Dominica I Septembris
+sep2-1=2=15=Dominica II Septembris
+sep3-1=2=15=Dominica III Septembris
+sep4-1=2=15=Dominica IV Septembris
+sep5-1=2=15=Dominica V Septembris
+oct1-1=2=15=Dominica I Octobris
+oct2-1=2=15=Dominica II Octobris
+oct3-1=2=15=Dominica III Octobris
+oct4-1=2=15=Dominica IV Octobris
+oct5-1=2=15=Dominica V Octobris
+nov1-1=2=15=Dominica I Novembris
+nov2-1=2=15=Dominica II Novembris
+nov3-1=2=15=Dominica III Novembris
+nov4-1=2=15=Dominica IV Novembris
+nov5-1=2=15=Dominica V Novembris
+
+pp12-1=2=15=Dominica XII Post Pentecosten
+pp13-1=2=15=Dominica XIII Post Pentecosten
+pp14-1=2=15=Dominica XIV Post Pentecosten
+pp15-1=2=15=Dominica XV Post Pentecosten
+pp16-1=2=15=Dominica XVI Post Pentecosten
+pp17-1=2=15=Dominica XVII Post Pentecosten
+pp18-1=2=15=Dominica XVIII Post Pentecosten
+pp19-1=2=15=Dominica XIX Post Pentecosten
+pp20-1=2=15=Dominica XX Post Pentecosten
+pp21-1=2=15=Dominica XXI Post Pentecosten
+pp22-1=2=15=Dominica XXII Post Pentecosten
+pp23-1=2=15b=Dominica XXIII Post Pentecosten
+
+adv-5-1=2=15c=Dominica III quæ Superfuit
+adv-4-1=2=15c=Dominica IV quæ Superfuit
+adv-3-1=2=15c=Dominica V quæ Superfuit
+adv-2-1=2=15c=Dominica VI quæ Superfuit
+adv-1-1=2=15=Dominica XXIV et Ultima Post Pentecosten
+
