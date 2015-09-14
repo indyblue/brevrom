@@ -10,9 +10,16 @@ $c = file_load('Latin/Calendar/univ_temp.txt');
 $t = new tempora($year);
 echo "<h1>$year</h1>";
 foreach($c as $day) {
-	$t->hodie($day);
-	
+	$t->hodie($day);	
+	//break;
 }
+$c = file_load('Latin/Calendar/univ_sanct.txt');
+foreach($c as $day) {
+	$t->hodie($day);	
+	//break;
+}
+		$t->display();
+
 // http://localhost/a/index.php?XDEBUG_SESSION_START=1
 
 /*

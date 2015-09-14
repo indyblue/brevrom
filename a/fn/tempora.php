@@ -2,8 +2,11 @@
 
 class tempora {
 	var $year;
+	private $days;
+
 	function tempora($y) {
 		$this->year = $y;
+		$this->days = array();
 	}
 
 	function hodie($str) {
@@ -14,25 +17,81 @@ class tempora {
 			$prec = $arr[2];
 			$descr = $arr[3];
 		} else {
-			$day = $str;
+			//$day = $str;
+			return;
 		}
+		//echo "$str<br>";
+
 
 		// this will match moveable feasts
-		$r = preg_match("/(?P<fn>[a-z]+)(?P<wk>[-0-9]+)-(?P<day>[0-9]+)/i", $day, $m);
+		$r = preg_match("/^(?P<fn>[a-z]+)(?P<wk>[-0-9]+)-(?P<day>[0-9]+)/i", $day, $m);
 		if($r===1) {
 			$d = $this->$m['fn']($m['wk']);
 			if($d==null) return;
 			$this->feriaAdd($m['day'], $d);
-			if($d!=null) $df = $d->format('d M. l');
-			else $df = '';
-			echo "<b>$df</b> - <i>$descr</i><br>";
+			if($d->format('Y-m-d')=='2015-02-01') {
+				$x=1;
+			}
+			$this->addfeast($d, $class, $prec, $descr, $day);
+			//if($d!=null) $df = $d->format('d M. l');
+			//else $df = '';
+			//echo "<b>$df</b> - <i>$descr</i><br>";
+		}
+
+		// this will match mm-yy feasts
+		$r = preg_match("/^(?P<mm>[-0-9]+)-(?P<dd>[0-9]+)(?P<suffix>[a-z]*)/i", $day, $m);
+		if($r===1) {
+			$d = $this->getdate($m['mm'], $m['dd']);
+			if($d==null) return;
+			$this->addfeast($d, $class, $prec, $descr, $day);
 		}
 	}
 
-	function adv($i) {
-		$d = $this->nextsun(12,25);
+	function display() {
+		usort($this->days, "tempora::days_sort");
+		echo "day count: ".count($this->days)."<br>";
+		echo "year: ".$this->year."<br>";
+
+		foreach($this->days as $d) 
+			$d->display();
+	}
+
+	function addfeast($date, $class, $prec, $descr, $str='') {
+		$day = $this->getday($date);
+		$day->add($class, $prec, $descr, $str);
+	}
+
+	function getday($date) {
+		$x=0;
+		if($x) echo "<b>".$date->format('Y-m-d')."</b>: ";
+		foreach($this->days as $d) {
+			if($x) echo $d->date->format('Y-m-d').", ";
+			$diff = $d->date->diff($date)->days;
+			if($diff==0) {
+				if($x) echo "<br>";
+				return $d;
+			}
+		}
+		if($x) echo "<br>";
+		$d = new day($date);
+		array_push($this->days, $d);
+		usort($this->days, "tempora::days_sort");
+		return $d;
+	}
+
+	private static function days_sort($a, $b) {
+		if($a->date == $b->date) return 0;
+		else if($a->date > $b->date) return 1;
+		else if($a->date < $b->date) return -1;
+	}
+
+	function adv($i, $y=null) {
+		if($y===null) $y=$this->year;
+		$d = $this->nextsun(12,25, $y);
 		tempora::weekadd(-4, $d);
 		tempora::weekadd($i, $d);
+		$y_check = $d->format('Y');
+		if($i<0 && $y_check<$y) return $this->adv($i, $y+1);
 		return $d;
 	}
 
@@ -111,14 +170,16 @@ class tempora {
 		return $d;
 	}
 
-	private function getdate($month, $day) {
-		$y = $this->year;
+	private function getdate($month, $day, $y=null) {
+		if($y===null) $y = $this->year;
 		$d = new DateTime();
 		$d->setDate($y, $month, $day);
+		$d->setTime(0,0,0);
 		return $d;
 	}
-	private function nextsun($month, $day) {
-		$d = $this->getdate($month,$day);
+	private function nextsun($month, $day, $y=null) {
+		if($y===null) $y = $this->year;
+		$d = $this->getdate($month,$day, $y);
 		$dow = $d->format('N');
 		$d->add(new DateInterval('P'.(7-$dow).'D'));
 		return $d;
@@ -127,7 +188,7 @@ class tempora {
 		$d = $this->nextsun($month,1);
 		tempora::weekadd($i, $d);
 		$month_check = $d->format('n');
-		if($month-$month_check==0) return $d;
+		if($i<0 || $month-$month_check==0) return $d;
 		else return null;
 	}
 	private static function weekadd($i, $d) {
@@ -151,7 +212,7 @@ class tempora {
 				*precedence 6,15 are sundays, which get used on feriae of following week
 				exceptions: ssnom = holy name, Sunday between 2-5 Jan, or 2 Jan.
 		class: 1, 2, 3, 4, c(for comm)
-		precedence: sec numbers from below (e.g. 4, 12.1.c, 19.5, &c)
+		precedence: sec numbers from below (e.g. 4, 12.1c, 19.5, &c)
 		name: Name of saint(s), 
 			- minor text delimited by ~ (e.g. S. Joannis Chrysostomi ~Episcopi, Confessoris, Ecclesiae Doctoris~)
 			- should we have standard abbrevs which can be substituted, either to expand or contract? (e.g. Episcopi=Ep.)
@@ -218,4 +279,106 @@ class tempora {
 	*/
 
 }
+
+class day {
+	var $date;
+	var $feasts;
+	function day($date) {
+		$this->date = $date;
+		$this->feasts = array();
+	}
+	function add($class, $precedence, $title, $str='') {
+		$feast = new feast($class, $precedence, $title, $str);
+		// need to handle transferrence of feasts.
+		// all souls' - if on a Sunday, transfers
+		// 1st class - transfers to next day of lower than 2cl.
+		// might need to change the way we're doing the "year," since you could have local 1cl feasts in Christmas octave that would get transferred to after 1 Jan. If we go from 1 Advent, would this solve the problem?
+		array_push($this->feasts, $feast);
+		usort($this->feasts, 'day::f_cmp');
+	}
+
+	function display() {
+		$d = $this->date;
+		if($d!=null) $df = $d->format('d M. l');
+		//if($d!=null) $df = $d->format('Y-m-d');
+		else $df = '';
+		$f = $this->feast();
+		$descr = $f->title;
+		$str = $f->str;
+		$cl = $f->class;
+		if($cl>0) $cl .= ' cl.';
+		echo "<b>$df</b> - $descr <i>$cl</i> ($str)<br>";
+		$cs = $this->commems();
+		if(count($cs)>0) {
+			foreach($cs as $c) {
+				echo "<div style='margin-left:2em;'>";
+				$descr = $c->title;
+				$str = $c->str;
+				$cl = $c->class;
+				echo "* $descr <i>$cl</i> ($str)<br>";
+				echo "</div>";
+			}
+		}
+	}
+
+	function feast() {
+		usort($this->feasts, 'day::f_cmp');
+		if(count($this->feasts)>0) return $this-> feasts[0];
+		else return null;
+	}
+	function commems($i=null) {
+		usort($this->feasts, 'day::f_cmp');
+		if(count($this->feasts)>1) {
+			if($i!==null) return $this->feasts[$i];
+			else return array_slice($this->feasts, 1);
+		}
+		else return null;
+	}
+
+	private static function f_cmp($a, $b) {
+		$ap = $a->precedence;
+		$bp = $b->precedence;
+		preg_match_all("/[0-9]+|[a-z]+/i", $a->precedence, $ap);
+		preg_match_all("/[0-9]+|[a-z]+/i", $b->precedence, $bp);
+		$ac = count($ap[0]);
+		$bc = count($bp[0]);
+		for($i=0;$i<max($ac,$bc);$i++) {
+			$ai = $ac>$i ? $ap[0][$i] : null;
+			$bi = $bc>$i ? $bp[0][$i] : null;
+			if($ai === $bi) continue;
+			// if $a=9 and $b=9.1, this would reach the second iteration,
+			// and $ai=null, while $bi=1. So null trumps any value.
+			else if($ai === null && $bi !== null) return 1;
+			else if($ai !== null && $bi === null) return -1;
+
+			else if($ai > $bi) return 1;
+			else if($ai < $bi) return -1;
+		}
+		// if we get here they must be identical!
+		return 0;
+	}
+}
+
+class feast {
+	function feast($class, $precedence, $title, $str, $date = null) {
+		$this->class = $class;
+		$this->precedence = $precedence;
+		$this->title = $title;
+		$this->str = $str;
+		$this->trans = false;
+		if($date!=null) {
+			$this->trans = true;
+			$this->date = $date;
+		}
+	}
+	// in case of transferred feasts
+	var $trans;
+	var $date; 
+
+	var $class;
+	var $precedence;
+	var $title;
+	var $str;
+}
+
 ?>
