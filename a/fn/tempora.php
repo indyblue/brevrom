@@ -51,7 +51,9 @@ class tempora {
 		usort($this->days, "tempora::days_sort");
 		echo "day count: ".count($this->days)."<br>";
 		echo "year: ".$this->year."<br>";
-
+		echo "min: ".$this->min()->format('Y-m-d')."<br>";
+		echo "max: ".$this->max()->format('Y-m-d')."<br>";
+		flush();
 		foreach($this->days as $d) 
 			$d->display();
 	}
@@ -90,15 +92,42 @@ class tempora {
 		$d = $this->nextsun(12,25, $y);
 		tempora::weekadd(-4, $d);
 		tempora::weekadd($i, $d);
-		$y_check = $d->format('Y');
-		if($i<0 && $y_check<$y) return $this->adv($i, $y+1);
-		return $d;
+		if($i===0) return $d;
+		$x = $this->range($d);
+		if($x==0) return $d;
+		else return $this->adv($i, $y+$x);
+	}
+
+	function min($d=null) {
+		$min = $this->adv(0, $this->year-1);
+		if($d===null) return $min;
+		else return $diff = $d->diff($min)->days;
+	}
+
+	function max($d=null) {
+		$max = $this->adv(0, $this->year);
+		$this->feriaAdd(-1, $max);
+		if($d===null) return $max;
+		else return $diff = $d->diff($max)->days;
+	}
+	function range($d) {
+		$xmin = $this->min();
+		$xmax = $this->max();
+	
+		$min = $this->min($d);
+		$max = $this->max($d);
+		if($min<0) return -1;
+		else if($max>0) return 1;
+		else return 0;
 	}
 
 	function nat($i) {
 		$d = $this->nextsun(12,25);
 		tempora::weekadd($i, $d);
-		return $d;
+		//return $d;
+		$x = $this->range($d);
+		if($x==0) return $d;
+		else return $this->adv($i, $y+$x);
 	}
 
 	function epi($i) {
@@ -162,11 +191,12 @@ class tempora {
 	function oct($i) { return $this->month(10,$i); }
 	function nov($i) { return $this->month(11,$i); }
 
-	function ssnom() {
+	function ssnom($i) {
 		$d = $this->getdate(1,2);
 		$dow = $d->format('N');
 		if($dow>3)
 			$d->add(new DateInterval('P'.(7-$dow).'D'));
+		tempora::weekadd($i, $d);
 		return $d;
 	}
 
@@ -200,7 +230,12 @@ class tempora {
 		}
 	}
 	private static function feriaAdd($i, $d) {
-		$d->add(new DateInterval('P'.($i-1).'D'));
+		if($i>1)
+			$d->add(new DateInterval('P'.($i-1).'D'));
+		else if($i<0) {
+			$i = abs($i);
+			$d->sub(new DateInterval('P'.$i.'D'));
+		}
 	}
 	// 1cl transfer rules: If a 1cl feast is impeded by a superior feast, 
 	// it is transferred to the nearest following day which is not 1 or 2cl.

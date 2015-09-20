@@ -44,7 +44,7 @@ nat1-1=2=17=Dominica infra Oct. Nativitatis
 12-30=2=17=de VI Die Infra Oct. Nativitatis
 12-31=2=17=de VII Die Infra Oct. Nativitatis
 01-01=1=5=in Octava Nativitatis Domini
-ssnom=2=14a=Sanctissimi Nominis Jesu
+ssnom1-1=2=14a=Sanctissimi Nominis Jesu
 01-05=c==S. Telesphori, Papæ, Mart.
 
 01-06=1=3=in Epiphania Domini
