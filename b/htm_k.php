@@ -48,7 +48,7 @@ require 'content/'.$url;
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
 
-	$Body = 14;
+	$Body = 30;
 	$BodySm = $Body - 2;
 	$RubricHSm = $Body - 3.5;
 	$HymnR = $Body + 2;
@@ -63,7 +63,7 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	<title>Officium Divinum</title>
 	<meta name="viewport" content="initial-scale=2"/>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<link href="htm_k.css" rel="stylesheet" type="text/css" />
+	<link href="/b/htm_k.css" rel="stylesheet" type="text/css" />
 	<STYLE type="text/css">
 	div {font-size:'.$Body.'pt;}
 	div.Body, div.BodyL, div.BodyE {font-size:'.$Body.'pt;}
@@ -96,7 +96,6 @@ $regex=array(
 	'/<text:bookmark-ref[^>]*text:ref-name="([^"]*)"[^>]*>/',
 	'/<\/text:bookmark-ref>/',
 	'/<text:bookmark.*text:name="([^"]*)"\/>/',
-	'/\*/',
 	'/<l>/',
 	'/<r>/',
 	'/<sr>/',
@@ -124,6 +123,7 @@ $regex=array(
 	,'/(?i)[\n\r]+(?!<\/{0,1}(td|table|tr))/'
 	,'/(?mi)^.*<td class="B\d".*$/'
 	,'/(?<![\n\r])</', '/(?i)<\/{0,1}(td|table|tr)[^>]*>/', '/[\n\r]+/'
+	,'/(<div class="Head(?:1|1NI)">)(?:.(?!<\/div>))*.<\/div>[^<]*<div class="Head5">((?:.(?!<\/div>))*.<\/div>)/i'
 );
 $repl=array(
 	'<img src="/b/\2 width=\1%>',
@@ -131,7 +131,6 @@ $repl=array(
 	'<a href="#\1">',
 	'</a>',
 	'<a class="anchor" id="\1" name="\1"></a>',
-	'<sr>*</s>',
 	'<s:L>',
 	'<s:Red>',
 	'<s:Rubric>',
@@ -156,6 +155,7 @@ $repl=array(
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
 	//,'ﬀ', 'ﬁ', 'ﬂ', 'ﬃ', 'ﬄ', 'ﬆ', '﬇'
 	,'', "\n<", '', '', "\n<", '', ''
+	, '\1\2'
 );
 // fb00 = ff, fi, fl, ffi, ffl, x, st, ct
 
@@ -163,9 +163,51 @@ $repl=array(
 //	<p:BodyEDrop>([^<]*)<t><br\/>(.*)'
 $txtContent = preg_replace($regex,$repl,$txtContent);
 
+//	'/(<div class="Head1">)(?:.(?!<\/div>))*.</div>[^<]*.<div class="Head5">((?:.(?!<\/div>))*.</div>)/i',
+
+$idx = "<div class='Index'>\n";
+$idxc = 1;
+if(!isset($idxtype)) $idxtype = 'Head[12]';
+if(preg_match('/^5PropS.*/i',$_GET["url"])) $idxtype = 'Head1NI';
+$txtContent = preg_replace_callback(
+	'/(<div class="'.$idxtype.'">)((?:.(?!<\/div>))*.)(<\/div>(?:<div class="Head4">[^-<]*-(?:[^-<]*-)?\s*([^-<]*)<)?)/i',
+	"fn_index",
+	$txtContent);
+
+function fn_index($matches) {
+	global $idx, $idxc;
+	//echo "$matches[0]";
+	//var_dump($matches);
+	$saintdate = '';
+	if(count($matches)>4) $saintdate = $matches[4].' - ';
+	$idx .= "<a href='#index_loc_$idxc'>$saintdate$matches[2]</a><br/>\n";
+	$retval = "$matches[1]<a name='index_loc_$idxc'/>$matches[2]$matches[3]";
+	$idxc++;
+	return $retval;
+}
+$idx .= "</div>\n";
+
+
+// add files to anchor links. generate links file using this command, from the content folder:
+// grep "bookmark\(|hymn\(.*0\);" . -rP | sed -e "s/\.\/\([^:]*\):\s*[^']*'\([^.']*\).*/#\2=\1#\2/p" | sort -iu > htm_links.php
+$links = file_load('content/htm_links.php');
+function fn_links($m) {
+	global $links;
+	$retval = $m[0];
+	foreach($links as $l) {
+		$s = split('=',$l);
+		if($s[0]===$m[0]) {
+			$retval = '/b/kindle/'.$s[1];
+			break;
+		}
+	}
+	return $retval;
+}
+$txtContent = preg_replace_callback('/(?<=href=")[^"]*(?=")/i', 'fn_links', $txtContent);
+
 $html2 = "\n</div></body></html>\n";
 
-$html = $html1 . $txtContent . $html2;
+$html = $html1 . $idx . $txtContent . $html2;
 // handle hyphenation
 //*
 require 'content/fn/hyph.php';
@@ -173,16 +215,6 @@ $hyph = new hyph();
 $html = $hyph->html($html);
 // */
 
-// only latin, or only english
-//*
-		$dom = new DOMDocument();
-		libxml_use_internal_errors(true);
-		$dom->loadHTML($txt);
-		$dxp = new DOMXPath($dom);
-
-		
-
-// */
 
 echo $html;
 

@@ -1,0 +1,17 @@
+# in httpd.conf, the following needs to be done:
+# - in <directory> tag, need "AllowOverride All"
+# - LoadModule rewrite_module modules/mod_rewrite.so
+# on linux:
+# sudo a2enmod rewrite
+# sudo gvim /etc/apache2/apache2.conf
+# and change appropriate directory tag as above
+
+RewriteEngine  on
+RewriteBase /
+RewriteRule ^b\/kindle\/(.*.php)$ /b/htm_k.php?url=$1
+RewriteRule ^b\/kindle\/(.*).htm$ /b/htm_k.php?url=$1.php
+RewriteRule ^b\/kindle\/(.*)$ /b/htm_k.php?url=$1.php
+#RewriteRule ^(case.*)$ http://deploy.casepacer.com/$1 [P,NC,R=301]
+#RewriteRule ^((account|activitylog|email).*)$ http://deploy.casepacer.com/$1 [P,NC,R=301]
+#RewriteRule ^((css|js|images).*)$ http://127.0.0.1:2678/$1 [P,NC,R=301]
+
