@@ -32,7 +32,7 @@ Utríque Jesus mútuæ
 Dat caritátis prǽmia.
 
 Sic fiat, ut nos cáritas
-Jungat perénni fœdere,
+Jungat perénni fœ́dere,
 Pacémque alens domésticam
 Amára vitæ témperet!
 

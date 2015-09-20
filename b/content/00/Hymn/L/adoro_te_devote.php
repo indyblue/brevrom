@@ -14,7 +14,7 @@ Nil hoc verbo Veritátis vérius.
 In cruce latébat sola Déitas,
 At hic latet simul et humánitas:
 Ambo tamen credens atque cónfitens,
-Peto quod petívit latro pœnitens.
+Peto quod petívit latro pœ́nitens.
 
 Plagas, sicut Thomas, non intúeor:
 Deum tamen meum te confíteor:

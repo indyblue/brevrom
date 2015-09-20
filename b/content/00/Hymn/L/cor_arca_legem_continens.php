@@ -7,7 +7,7 @@ Sed grátiæ, sed véniæ,
 Sed et misericórdiæ.
 
 Cor, sanctuárium novi
-Intemerátum fœderis,
+Intemerátum fœ́deris,
 Templum vetústo sánctius,
 Velúmque scisso utílius.
 

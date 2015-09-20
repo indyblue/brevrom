@@ -1,4 +1,5 @@
-Psalmus 118 i (Aleph, Béth)
+Psalmus 118
+(Aleph)
 Beáti immaculáti in via: * qui ámbulant in lege Dómini.
 Beáti, qui scrutántur testimónia ejus: * in toto corde exquírunt eum.
 Non enim qui operántur iniquitátem, * in viis ejus ambulavérunt.
@@ -7,6 +8,7 @@ Tu mandásti * mandáta tua custodíri nimis.
 Tunc non confúndar, * cum perspéxero in ómnibus mandátis tuis.
 Confitébor tibi in directióne cordis: * in eo quod dídici judícia justítiæ tuæ.
 Justificatiónes tuas custódiam: * non me derelínquas usquequáque.
+(Béth)
 In quo córrigit adolescéntior viam suam? * in custodiéndo sermónes tuos.
 In toto corde meo exquisívi te: * ne repéllas me a mandátis tuis.
 In corde meo abscóndi elóquia tua: * ut non peccem tibi.
@@ -15,6 +17,7 @@ In lábiis meis, * pronuntiávi ómnia judícia oris tui.
 In via testimoniórum tuórum delectátus sum, * sicut in ómnibus divítiis.
 In mandátis tuis exercébor: * et considerábo vias tuas.
 In justificatiónibus tuis meditábor: * non oblivíscar sermónes tuos.
+(Ghimel)
 Retríbue servo tuo, vivífica me: * et custódiam sermónes tuos.
 Revéla óculos meos: * et considerábo mirabília de lege tua.
 Íncola ego sum in terra: * non abscóndas a me mandáta tua.
@@ -23,6 +26,7 @@ Increpásti supérbos: * maledícti qui declínant a mandátis tuis.
 Aufer a me oppróbrium, et contémptum: * quia testimónia tua exquisívi.
 Étenim sedérunt príncipes, et advérsum me loquebántur: * servus autem tuus exercebátur in justificatiónibus tuis.
 Nam et testimónia tua meditátio mea est: * et consílium meum justificatiónes tuæ.
+(Daleth)
 Adhǽsit paviménto ánima mea: * vivífica me secúndum verbum tuum.
 Vias meas enuntiávi, et exaudísti me: * doce me justificatiónes tuas.
 Viam justificatiónum tuárum ínstrue me: * et exercébor in mirabílibus tuis.
@@ -31,6 +35,7 @@ Viam iniquitátis ámove a me: * et de lege tua miserére mei.
 Viam veritátis elégi: * judícia tua non sum oblítus.
 Adhǽsi testimóniis tuis, Dómine: * noli me confúndere.
 Viam mandatórum tuórum cucúrri, * cum dilatásti cor meum.
+(He)
 Legem pone mihi, Dómine, viam justificatiónum tuárum: * et exquíram eam semper.
 Da mihi intelléctum, et scrutábor legem tuam: * et custódiam illam in toto corde meo.
 Deduc me in sémitam mandatórum tuórum: * quia ipsam vólui.
@@ -39,6 +44,7 @@ Avérte óculos meos ne vídeant vanitátem: * in via tua vivífica me.
 Státue servo tuo elóquium tuum, * in timóre tuo.
 Ámputa oppróbrium meum quod suspicátus sum: * quia judícia tua jucúnda.
 Ecce, concupívi mandáta tua: * in æquitáte tua vivífica me.
+(Vau)
 Et véniat super me misericórdia tua, Dómine: * salutáre tuum secúndum elóquium tuum.
 Et respondébo exprobrántibus mihi verbum: * quia sperávi in sermónibus tuis.
 Et ne áuferas de ore meo verbum veritátis usquequáque: * quia in judíciis tuis supersperávi.
@@ -47,6 +53,7 @@ Et ambulábam in latitúdine: * quia mandáta tua exquisívi.
 Et loquébar in testimóniis tuis in conspéctu regum: * et non confundébar.
 Et meditábar in mandátis tuis, * quæ diléxi.
 Et levávi manus meas ad mandáta tua, quæ diléxi: * et exercébar in justificatiónibus tuis.
+(Zain)
 Memor esto verbi tui servo tuo, * in quo mihi spem dedísti.
 Hæc me consoláta est in humilitáte mea: * quia elóquium tuum vivificávit me.
 Supérbi iníque agébant usquequáque: * a lege autem tua non declinávi.
@@ -55,6 +62,7 @@ Deféctio ténuit me, * pro peccatóribus derelinquéntibus legem tuam.
 Cantábiles mihi erant justificatiónes tuæ, * in loco peregrinatiónis meæ.
 Memor fui nocte nóminis tui, Dómine: * et custodívi legem tuam.
 Hæc facta est mihi: * quia justificatiónes tuas exquisívi.
+(Heth)
 Pórtio mea, Dómine, * dixi custodíre legem tuam.
 Deprecátus sum fáciem tuam in toto corde meo: * miserére mei secúndum elóquium tuum.
 Cogitávi vias meas: * et convérti pedes meos in testimónia tua.
@@ -63,6 +71,7 @@ Funes peccatórum circumpléxi sunt me: * et legem tuam non sum oblítus.
 Média nocte surgébam ad confiténdum tibi, * super judícia justificatiónis tuæ.
 Párticeps ego sum ómnium timéntium te: * et custodiéntium mandáta tua.
 Misericórdia tua, Dómine, plena est terra: * justificatiónes tuas doce me.
+(Teth)
 Bonitátem fecísti cum servo tuo, Dómine, * secúndum verbum tuum.
 Bonitátem, et disciplínam, et sciéntiam doce me: * quia mandátis tuis crédidi.
 Priúsquam humiliárer ego delíqui: * proptérea elóquium tuum custodívi.
@@ -71,6 +80,7 @@ Multiplicáta est super me iníquitas superbórum: * ego autem in toto corde meo
 Coagulátum est sicut lac cor eórum: * ego vero legem tuam meditátus sum.
 Bonum mihi quia humiliásti me: * ut discam justificatiónes tuas.
 Bonum mihi lex oris tui, * super míllia auri et argénti.
+(Jod)
 Manus tuæ fecérunt me, et plasmavérunt me: * da mihi intelléctum, et discam mandáta tua.
 Qui timent te vidébunt me, et lætabúntur: * quia in verba tua supersperávi.
 Cognóvi, Dómine, quia ǽquitas judícia tua: * et in veritáte tua humiliásti me.
@@ -79,6 +89,7 @@ Véniant mihi miseratiónes tuæ, et vivam: * quia lex tua meditátio mea est.
 Confundántur supérbi, quia injúste iniquitátem fecérunt in me: * ego autem exercébor in mandátis tuis.
 Convertántur mihi timéntes te: * et qui novérunt testimónia tua.
 Fiat cor meum immaculátum in justificatiónibus tuis, * ut non confúndar.
+(Caph)
 Defécit in salutáre tuum ánima mea: * et in verbum tuum supersperávi.
 Defecérunt óculi mei in elóquium tuum, * dicéntes: Quando consoláberis me?
 Quia factus sum sicut uter in pruína: * justificatiónes tuas non sum oblítus.
@@ -87,6 +98,7 @@ Narravérunt mihi iníqui fabulatiónes: * sed non ut lex tua.
 Ómnia mandáta tua véritas: * iníque persecúti sunt me, ádjuva me.
 Paulo minus consummavérunt me in terra: * ego autem non derelíqui mandáta tua.
 Secúndum misericórdiam tuam vivífica me: * et custódiam testimónia oris tui.
+(Laméd)
 In ætérnum, Dómine, * verbum tuum pérmanet in cælo.
 In generatiónem et generatiónem véritas tua: * fundásti terram, et pérmanet.
 Ordinatióne tua persevérat dies: * quóniam ómnia sérviunt tibi.
@@ -95,6 +107,7 @@ In ætérnum non oblivíscar justificatiónes tuas: * quia in ipsis vivificásti
 Tuus sum ego, salvum me fac: * quóniam justificatiónes tuas exquisívi.
 Me exspectavérunt peccatóres ut pérderent me: * testimónia tua intelléxi.
 Omnis consummatiónis vidi finem: * latum mandátum tuum nimis.
+(Mem)
 Quómodo diléxi legem tuam, Dómine? * tota die meditátio mea est.
 Super inimícos meos prudéntem me fecísti mandáto tuo: * quia in ætérnum mihi est.
 Super omnes docéntes me intelléxi: * quia testimónia tua meditátio mea est.
@@ -103,6 +116,7 @@ Ab omni via mala prohíbui pedes meos: * ut custódiam verba tua.
 A judíciis tuis non declinávi: * quia tu legem posuísti mihi.
 Quam dúlcia fáucibus meis elóquia tua, * super mel ori meo!
 A mandátis tuis intelléxi: * proptérea odívi omnem viam iniquitátis.
+(Nun)
 Lucérna pédibus meis verbum tuum, * et lumen sémitis meis.
 Jurávi, et státui * custodíre judícia justítiæ tuæ.
 Humiliátus sum usquequáque, Dómine: * vivífica me secúndum verbum tuum.
@@ -111,6 +125,7 @@ Voluntária oris mei beneplácita fac, Dómine: * et judícia tua doce me.
 Posuérunt peccatóres láqueum mihi: * et de mandátis tuis non errávi.
 Hereditáte acquisívi testimónia tua in ætérnum: * quia exsultátio cordis mei sunt.
 Inclinávi cor meum ad faciéndas justificatiónes tuas in ætérnum, * propter retributiónem.
+(Samech)
 Iníquos ódio hábui: * et legem tuam diléxi.
 Adjútor et suscéptor meus es tu: * et in verbum tuum supersperávi.
 Declináte a me, malígni: * et scrutábor mandáta Dei mei.
@@ -119,6 +134,7 @@ Súscipe me secúndum elóquium tuum, et vivam: * et non confúndas me ab exspec
 Sprevísti omnes discedéntes a judíciis tuis: * quia injústa cogitátio eórum.
 Prævaricántes reputávi omnes peccatóres terræ: * ídeo diléxi testimónia tua.
 Confíge timóre tuo carnes meas: * a judíciis enim tuis tímui.
+(Ain)
 Feci judícium et justítiam: * non tradas me calumniántibus me.
 Súscipe servum tuum in bonum: * non calumniéntur me supérbi.
 Óculi mei defecérunt in salutáre tuum: * et in elóquium justítiæ tuæ.
@@ -127,6 +143,7 @@ Servus tuus sum ego: * da mihi intelléctum, ut sciam testimónia tua.
 Tempus faciéndi, Dómine: * dissipavérunt legem tuam.
 Ídeo diléxi mandáta tua, * super aurum et topázion.
 Proptérea ad ómnia mandáta tua dirigébar: * omnem viam iníquam ódio hábui.
+(Phe)
 Mirabília testimónia tua: * ídeo scrutáta est ea ánima mea.
 Declarátio sermónum tuórum illúminat: * et intelléctum dat párvulis.
 Os meum apérui, et attráxi spíritum: * quia mandáta tua desiderábam.
@@ -135,6 +152,7 @@ Gressus meos dírige secúndum elóquium tuum: * et non dominétur mei omnis inj
 Rédime me a calúmniis hóminum: * ut custódiam mandáta tua.
 Fáciem tuam illúmina super servum tuum: * et doce me justificatiónes tuas.
 Éxitus aquárum deduxérunt óculi mei: * quia non custodiérunt legem tuam.
+(Sade)
 Justus es, Dómine: * et rectum judícium tuum.
 Mandásti justítiam testimónia tua: * et veritátem tuam nimis.
 Tabéscere me fecit zelus meus: * quia oblíti sunt verba tua inimíci mei.
@@ -143,6 +161,7 @@ Adolescéntulus sum ego et contémptus: * justificatiónes tuas non sum oblítus
 Justítia tua, justítia in ætérnum: * et lex tua véritas.
 Tribulátio, et angústia invenérunt me: * mandáta tua meditátio mea est.
 Ǽquitas testimónia tua in ætérnum: * intelléctum da mihi, et vivam.
+(Coph)
 Clamávi in toto corde meo, exáudi me, Dómine: * justificatiónes tuas requíram.
 Clamávi ad te, salvum me fac: * ut custódiam mandáta tua.
 Prævéni in maturitáte, et clamávi: * quia in verba tua supersperávi.
@@ -151,6 +170,7 @@ Vocem meam audi secúndum misericórdiam tuam, Dómine: * et secúndum judícium
 Appropinquavérunt persequéntes me iniquitáti: * a lege autem tua longe facti sunt.
 Prope es tu, Dómine: * et omnes viæ tuæ véritas.
 Inítio cognóvi de testimóniis tuis: * quia in ætérnum fundásti ea.
+(Res)
 Vide humilitátem meam, et éripe me: * quia legem tuam non sum oblítus.
 Júdica judícium meum, et rédime me: * propter elóquium tuum vivífica me.
 Longe a peccatóribus salus: * quia justificatiónes tuas non exquisiérunt.
@@ -159,6 +179,7 @@ Multi qui persequúntur me, et tríbulant me: * a testimóniis tuis non decliná
 Vidi prævaricántes, et tabescébam: * quia elóquia tua non custodiérunt.
 Vide quóniam mandáta tua diléxi, Dómine: * in misericórdia tua vivífica me.
 Princípium verbórum tuórum, véritas: * in ætérnum ómnia judícia justítiæ tuæ.
+(Sin)
 Príncipes persecúti sunt me gratis: * et a verbis tuis formidávit cor meum.
 Lætábor ego super elóquia tua: * sicut qui invénit spólia multa.
 Iniquitátem ódio hábui, et abominátus sum: * legem autem tuam diléxi.
@@ -167,6 +188,7 @@ Pax multa diligéntibus legem tuam: * et non est illis scándalum.
 Exspectábam salutáre tuum, Dómine: * et mandáta tua diléxi.
 Custodívit ánima mea testimónia tua: * et diléxit ea veheménter.
 Servávi mandáta tua, et testimónia tua: * quia omnes viæ meæ in conspéctu tuo.
+(Tau)
 Appropínquet deprecátio mea in conspéctu tuo, Dómine: * juxta elóquium tuum da mihi intelléctum.
 Intret postulátio mea in conspéctu tuo: * secúndum elóquium tuum éripe me.
 Eructábunt lábia mea hymnum, * cum docúeris me justificatiónes tuas.

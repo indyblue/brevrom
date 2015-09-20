@@ -4,7 +4,7 @@ St. Odo of Cluny
 Summi Paréntis Únice,
 Vultu pio nos réspice,
 Vocans ad arcem glóriæ
-Cor Magdalénæ pœnitens.
+Cor Magdalénæ pœ́nitens.
 
 Amíssa drachma régio
 Recóndita est ærário,

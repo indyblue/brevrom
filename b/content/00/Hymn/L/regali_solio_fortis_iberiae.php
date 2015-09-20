@@ -4,7 +4,7 @@ Pope Urban VIII
 Regáli sólio fortis Ibériæ,
 Hermenegílde, jubar, glória Mártyrum,
 Christi quos amor almis
-Cæli cœtibus ínserit.
+Cæli cœ́tibus ínserit.
 
 Ut perstas pátiens, pollícitum Deo
 Servans obséquium! quo pótius tibi

@@ -9,7 +9,7 @@ Te, Virgo, supplex ínvocat.
 Torrens nefástis flúctibus
 Cunctos trahens vorágine,
 Leni resídit ǽquore
-Cum transit Arca fœderis.
+Cum transit Arca fœ́deris.
 
 Dum torret aréscens humus,
 Tu rore sola spárgeris ;

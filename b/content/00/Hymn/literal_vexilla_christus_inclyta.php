@@ -29,7 +29,7 @@ which proceeds to carry out
 heavenly proclamations to the world
 
 Non arma flagrant ímpia,
-Pax usque firmat fœdera,
+Pax usque firmat fœ́dera,
 Arrídet et concórdia,
 Tutus stat ordo cívicus.
 

@@ -8,7 +8,7 @@ Ego autem constitútus sum Rex ab eo super Sion montem sanctum ejus, * prǽdican
 Dóminus dixit ad me: * Fílius meus es tu, ego hódie génui te.
 Póstula a me, et dabo tibi gentes hereditátem tuam, * et possessiónem tuam términos terræ.
 Reges eos in virga férrea, * et tamquam vas fíguli confrínges eos.
-Et nunc, reges, intellígite: * erudímini, qui judicátis terram.
+Et nunc, reges, intellégite: * erudímini, qui judicátis terram.
 Servíte Dómino in timóre: * et exsultáte ei cum tremóre.
 Apprehéndite disciplínam, nequándo irascátur Dóminus, * et pereátis de via justa.
 Cum exárserit in brevi ira ejus: * beáti omnes qui confídunt in eo.

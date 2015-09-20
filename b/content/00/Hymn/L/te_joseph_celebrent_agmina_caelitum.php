@@ -4,7 +4,7 @@ Unk. 16-18th c.
 Te, Joseph, célebrent ágmina cǽlitum,
 Te cuncti résonent christíadum chori,
 Qui clarus méritis, junctus est ínclytæ
-Casto fœdere Vírgini.
+Casto fœ́dere Vírgini.
 
 Almo cum túmidam gérmine cónjugem
 Admírans, dúbio tángeris ánxius,

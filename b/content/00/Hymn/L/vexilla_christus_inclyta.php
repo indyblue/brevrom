@@ -17,7 +17,7 @@ Quæ jussa pergit éxsequi
 Edícta mundo cǽlitus!
 
 Non arma flagrant ímpia,
-Pax usque firmat fœdera,
+Pax usque firmat fœ́dera,
 Arrídet et concórdia,
 Tutus stat ordo cívicus.
 

@@ -7,7 +7,7 @@ Magna creásti, nec regis
 Minóre providéntia:
 
 Adésto supplicántium
-Tibi reórum cœtui,
+Tibi reórum cœ́tui,
 Lucísque sub crepúsculum
 Lucem novam da méntibus.
 

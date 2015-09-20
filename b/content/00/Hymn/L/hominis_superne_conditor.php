@@ -19,7 +19,7 @@ Aut áctibus se intérserit.
 Da gaudiórum prǽmia:
 Da gratiárum múnera:
 Dissólve litis víncula:
-Astrínge pacis fœdera.
+Astrínge pacis fœ́dera.
 
 Præsta, Pater piíssime,
 Patríque compar Únice,
