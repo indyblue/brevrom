@@ -258,8 +258,8 @@ class hyph {
 			$ret[] = "3{$i}4{$j}";
 		}}
 
-		//special rules: super, con, ex
-		$ret = array_merge($ret,mb_split(' ',"_su5pe6r5 _co6n5 5e6x5"));
+		//special rules: super, con, quemad, ex
+		$ret = array_merge($ret,mb_split(' ',"_su5pe6r5 _co6n5 _que6m5 5e6x5"));
 
 		// special consonant triplets etc.
 		$ret = array_merge($ret,['b5f6l', 'b5f6r', 'b5p6r', 'b5s6c', 'b6s5q', 'b5s6t', 'b5t6r', 
