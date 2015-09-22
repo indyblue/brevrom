@@ -19,7 +19,7 @@
 	src: url(font/freeserifBold.ttf);
 }
 @font-face {
-	font-family: FreeSerifVR;
+	font-family: FancyVR;
 	src: url(font/FancyVR.ttf);
 }
 @font-face {
@@ -27,30 +27,8 @@
 	src: url(font/oldlondon.ttf);
 }
 
-body#night {
-	background-color:black;
-	color:white;
-}
-#night span.NonRubric {
-	color:white;
-}
-#night div.Hidden2 {
-	visibility:visible; 
-	padding:1px 20px; 
-	margin:0 0 1px 0; 
-	background-color:#222;
-	border:1px solid #666;
-	color:#666;
-}
-
 body {
 	font-family:FreeSerif, serif;
-	padding:0px; 
-	margin:0 2% 0 4%; 
-	width:94%; 
-	text-rendering: optimizeLegibility;
-	-webkit-font-variant-ligatures: common-ligatures;
-	font-variant-ligatures: common-ligatures;
 }
 
 table { 
@@ -165,7 +143,7 @@ span.DropCap {
 	font-weight:bold; 
 }
 span.VR {
-	font-family:FreeSerifVR, serif;	
+	font-family:FancyVR, serif;	
 	color:red; 
 	font-style:normal;
 }
