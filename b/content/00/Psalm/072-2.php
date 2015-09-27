@@ -6,4 +6,4 @@ Et dixi: Ergo sine causa justificávi cor meum, * et lavi inter innocéntes manu
 Et fui flagellátus tota die, * et castigátio mea in matutínis.
 Si dicébam: Narrábo sic: * ecce, natiónem filiórum tuórum reprobávi.
 Existimábam ut cognóscerem hoc, * labor est ante me:
-Donec intrem in Sanctuárium Dei: * et intélligam in novíssimis eórum.
+Donec intrem in Sanctuárium Dei: * et intéllegam in novíssimis eórum.

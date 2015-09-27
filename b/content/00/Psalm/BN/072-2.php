@@ -6,4 +6,4 @@ Psalmus 72. ii.  Ideo convertetur
 14  Et fui flagellátus tota die, * et castigátio mea in matutínis.
 15  Si dicébam: Narrábo sic: * ecce natiónem filiórum tuórum reprobávi.
 16  Existimábam ut cognóscerem hoc, * labor est ante me.
-17  Donec intrem in Sanctuárium Dei: * et intélligam in novíssimis eórum.
+17  Donec intrem in Sanctuárium Dei: * et intéllegam in novíssimis eórum.

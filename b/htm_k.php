@@ -1,4 +1,5 @@
 <?php 
+
 // error_reporting(E_ALL);
 ini_set('display_errors', 0);
 mb_internal_encoding('UTF-8');
@@ -14,6 +15,8 @@ if($pos>0)
 	$_GET['root'] = substr($_GET['root'],0,$pos+8);
 require $_GET['root'] . '/fn/0list.php';
 $root = $_GET['root'];
+$lang = 'la';
+if(isset($_REQUEST['lang'])) $lang=$_REQUEST['lang'];
 
 $uri = $_SERVER['REQUEST_URI'];
 
@@ -47,6 +50,8 @@ require 'content/'.$url;
 
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
+
+require 'htm_links.php';
 
 	$Body = 30;
 	$BodySm = $Body - 2;
@@ -89,7 +94,6 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	<body><div>
 '. "\n";
 
-
 $regex=array(
 	'/<draw:frame.*rel-width="(\d*)%".*href="\.\.\/([^"]*").*<\/draw:frame>/',
 	'/<text:note.*text:label="([^"]*)".*<p:Footnote>(.*)<\/p>.*<\/text:note>/',
@@ -119,9 +123,9 @@ $regex=array(
 	'/(?<!\pL)Ó/u', '/(?<!\pL)Ú/u', '/(?<!\pL)Ý/u', '/(?<!\pL)Ǽ/u'
 	,'/(?m)^\s+/', '/(?<![\n\r])</'
 	,'/(?i)[\n\r]+(?!<\/{0,1}(td|table|tr))/'
-	,'/(?mi)^.*<td class="B\d".*$/'
+	,'/(?mi)^.*<td class="'.(isset($lang) && $lang=='en'?'A':'B').'\d".*$/'
 	,'/(?<![\n\r])</', '/(?i)<\/{0,1}(td|table|tr)[^>]*>/', '/[\n\r]+/'
-	,'/(<div class="Head(?:1|1NI)">)(?:.(?!<\/div>))*.<\/div>[^<]*<div class="Head5">((?:.(?!<\/div>))*.<\/div>)/i'
+	,'/(<div class="Head(?:1|1NI)">)((?:.(?!<\/div>))*.<\/div>)[^<]*<div class="Head5">((?:.(?!<\/div>))*.<\/div>)/i'
 );
 $repl=array(
 	'<img src="/b/\2 width=\1%>',
@@ -150,7 +154,7 @@ $repl=array(
 	'œ',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
 	,'', "\n<", '', '', "\n<", '', ''
-	, '\1\2'
+	, '\1'.(isset($lang) && $lang=='en'?'\2':'\3')
 );
 // fb00 = ff, fi, fl, ffi, ffl, x, st, ct
 
@@ -182,17 +186,20 @@ function fn_index($matches) {
 }
 $idx .= "</div>\n";
 
-
+// 
+// grep "bookmark\(|hymn\(.*0\);" . -rP | sed -e "s/\.\/\([^:]*\):\s*[^']*'\([^.']*\).*/#\2=\1#\2/p" | sort -iu | sed `cat htm_k.htm | sed -ne "s/.*href=\"\([^\"]*\).*/\1/" -e "s/kindle.\(en.\)\?//p" | sort -u | sed -e 's/\//\\\//' -e 's/.*/-e "\/\0\/p"/p'`
 // add files to anchor links. generate links file using this command, from the content folder:
 // grep "bookmark\(|hymn\(.*0\);" . -rP | sed -e "s/\.\/\([^:]*\):\s*[^']*'\([^.']*\).*/#\2=\1#\2/p" | sort -iu > htm_links.php
 $links = file_load('content/htm_links.php');
 function fn_links($m) {
-	global $links;
+	global $links, $lang;
 	$retval = $m[0];
 	foreach($links as $l) {
 		$s = split('=',$l);
 		if($s[0]===$m[0]) {
-			$retval = '/b/kindle/'.$s[1];
+			$retval = '/b/kindle/'
+				.(isset($lang) && $lang=='en'?'en/':'')
+				.$s[1];
 			break;
 		}
 	}

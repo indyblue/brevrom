@@ -1,1 +1,1 @@
-Audíte et intellígite * traditiónes, quas Dóminus dedit nobis.
+Audíte et intellégite * traditiónes, quas Dóminus dedit nobis.

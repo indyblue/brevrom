@@ -1,5 +1,5 @@
 Psalmus 5
-Verba mea audi Dómine: * intéllige murmur meum.
+Verba mea audi Dómine: * intéllege murmur meum.
 Inténde voci clamóris mei Rex meus et Deus meus: * quóniam ad te déprecor.
 Dómine, mane exáudies vocem meam: * mane præparábor ad te et contemplábor.
 Quóniam non Deus volens iniquitátem tu: * nec habitábit juxta te malígnus.

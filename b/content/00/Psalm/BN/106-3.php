@@ -11,4 +11,4 @@ Psalmus 106. iii.  Confiteantur Domino
 40  Effúsa est contémptio super príncipes: * et erráre fecit eos in ínvio, et non in via.
 41  Et adjúvit páuperem de inópia: * et pósuit sicut oves famílias.
 42  Vidébunt recti, et lætabúntur: * et omnis iníquitas oppilábit os suum.
-43  Quis sápiens et custódiet hæc? * et intélliget misericórdias Dómini.
+43  Quis sápiens et custódiet hæc? * et intélleget misericórdias Dómini.

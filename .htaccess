@@ -8,6 +8,7 @@
 
 RewriteEngine  on
 RewriteBase /
+RewriteRule ^b\/kindle\/en\/(.*.php)$ /b/htm_k.php?url=$1&lang=en
 RewriteRule ^b\/kindle\/(.*.php)$ /b/htm_k.php?url=$1
 RewriteRule ^b\/kindle\/(.*).htm$ /b/htm_k.php?url=$1.php
 RewriteRule ^b\/kindle\/(.*)$ /b/htm_k.php?url=$1.php

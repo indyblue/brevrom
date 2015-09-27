@@ -2,7 +2,7 @@ Psalmus 32 ii
 Beáta gens, cujus est Dóminus, Deus ejus: * pópulus, quem elégit in hereditátem sibi.
 De cælo respéxit Dóminus: * vidit omnes fílios hóminum.
 De præparáto habitáculo suo * respéxit super omnes, qui hábitant terram.
-Qui finxit sigillátim corda eórum: * qui intélligit ómnia ópera eórum.
+Qui finxit sigillátim corda eórum: * qui intéllegit ómnia ópera eórum.
 Non salvátur rex per multam virtútem: * et gigas non salvábitur in multitúdine virtútis suæ.
 Fallax equus ad salútem: * in abundántia autem virtútis suæ non salvábitur.
 Ecce, óculi Dómini super metuéntes eum: * et in eis, qui sperant super misericórdia ejus:

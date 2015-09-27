@@ -6,4 +6,4 @@ Oblíti sunt Deum, * qui salvávit eos.
 Cum tribularéntur, * vidit Dóminus: et audívit oratiónem eórum.
 Clamavérunt ad Dóminum: * et de necessitátibus eórum liberávit eos.
 Ipsi vidérunt * ópera Dei, et mirabília ejus.
-Vidébunt recti, * et lætabúntur, et intélligent misericórdias Dómini.
+Vidébunt recti, * et lætabúntur, et intéllegent misericórdias Dómini.

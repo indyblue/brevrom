@@ -7,6 +7,6 @@ Si vere útique justítiam loquímini: * recta judicáte, fílii hóminum.
 6  Deus cónteret dentes eórum in ore ipsórum: * molas leónum confrínget Dóminus.
 7  Ad níhilum devénient tamquam aqua decúrrens: * inténdit arcum suum donec infirméntur.
 8  Sicut cera, quæ fluit, auferéntur: * supercécidit ignis, et non vidérunt solem.
-9  Priúsquam intellígerent spinæ vestræ rhamnum: * sicut vivéntes, sic in ira absórbet eos.
+9  Priúsquam intellégerent spinæ vestræ rhamnum: * sicut vivéntes, sic in ira absórbet eos.
 10  Lætábitur justus cum víderit vindíctam: * manus suas lavábit in sánguine peccatóris.
 11  Et dicet homo: Si útique est fructus justo: * útique est Deus júdicans eos in terra.

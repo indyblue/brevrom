@@ -5,5 +5,5 @@ Psalmus 49. ii.  Peccatori autem
 20  Os tuum abundávit malítia: * et lingua tua concinnábat dolos.
 21  Sedens advérsus fratrem tuum loquebáris, et advérsus fílium matris tuæ ponébas scándalum: * hæc fecísti, et tácui.
 22  Existimásti, iníque, quod ero tui símilis: * árguam te, et státuam contra fáciem tuam.
-23  Intellígite hæc, qui obliviscímini Deum: * nequándo rápiat, et non sit qui erípiat.
+23  Intellégite hæc, qui obliviscímini Deum: * nequándo rápiat, et non sit qui erípiat.
 24  Sacrifícium laudis honorificábit me: * et illic iter, quo osténdam illi salutáre Dei.

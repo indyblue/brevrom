@@ -1,7 +1,7 @@
 Psalmus 35
 Dixit injústus ut delínquat in semetípso: * non est timor Dei ante óculos ejus.
 Quóniam dolóse egit in conspéctu ejus: * ut inveniátur iníquitas ejus ad ódium.
-Verba oris ejus iníquitas, et dolus: * nóluit intellígere ut bene ágeret.
+Verba oris ejus iníquitas, et dolus: * nóluit intellégere ut bene ágeret.
 Iniquitátem meditátus est in cubíli suo: * ástitit omni viæ non bonæ, malítiam autem non odívit.
 Dómine, in cælo misericórdia tua: * et véritas tua usque ad nubes.
 Justítia tua sicut montes Dei: * judícia tua abýssus multa.

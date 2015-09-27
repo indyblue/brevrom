@@ -4,6 +4,7 @@
 	$long = $_GET['long'];
 	$weekly = $_GET['weekly'];
 	$old = $_GET['old'];
+	$old = 0;
 
 	space();
 	hidden('Aperi',2);

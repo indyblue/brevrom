@@ -3,7 +3,7 @@
 2~“<l>Exaltare.</s>” That is: Let Thy all-powerful justice be known. St. Augustine here remarks that the prophet, under the imperative form, is simply predicting. He says: <l>Prophetia est prædicentis, non audacia jubentis</s>—The prophecy of one that predicts, not the presumptuousness of one that commands.
 5~“<l>Humiliaverunt.</s>” According to the Hebrew: <l>Attriverunt.</s> That is: They have oppressed and tormented this people who are Thy inheritance.
 6~That is: They did not hesitate to put to death all those that they found before them: the widows, the orphans, and even strangers whom they did not know.
-7~“<l>Nec intelliget Deus Jacob.</s>” According to St. Augustine: <l>Deus nec advertit ut sciat</s>—God does not pay attention to know these things.
+7~“<l>Nec intelleget Deus Jacob.</s>” According to St. Augustine: <l>Deus nec advertit ut sciat</s>—God does not pay attention to know these things.
 9~“<l>Plantavit.</s>” That is: Has formed. “<l>Considerat.</s>” St. Jerome translates: <l>Videbit</s>—Shall he not see?
 10~“<l>Corripit.</s>” St. Jerome and St. Augustine translate: <l>Erudit</s>—Instructs. “<l>Qui docet hominem scientiam.</s>” St. Augustine says: <l>Ipse non scit, qui te fecit scire?</s>—Does he not know who made thee know?
 11~“<l>Vanæ.</s>” Vain: or, as Mattei prefers, Evil; he says that in the language of the Bible vanity means sin.

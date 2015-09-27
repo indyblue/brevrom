@@ -1,32 +1,27 @@
 <?php
 /*
 $test = "TÆDET ánimam meam vitæ meæ, dimíttam advérsum me elóquium meum, loquar in amaritúdine ánimæ meæ. Dicam Deo: Noli me condemnáre: índica mihi cur me ita júdices. Numquid bonum tibi vidétur, si calumniéris me, et ópprimas me, opus mánuum tuárum, et consílium impiórum ádjuves? Numquid óculi cárnei tibi sunt; aut, sicut videt homo, et tu vidébis? Numquid sicut dies hóminis dies tui, et anni tui sicut humána sunt témpora, ut quæras iniquitátem meam, et peccátum meum scrutéris? Et scias quia nihil ímpium fécerim, cum sit nemo qui de manu tua possit erúere. <br><span class='r'>R.</span> Qui Lázarum resuscitásti a monuménto fœ́tidum, * Tu eis, Dómine, dona réquiem, et locum indulgéntiæ. V. Qui ventúrus es judicáre vivos et mórtuos, et sǽculum per ignem. Tu eis, Dómine, dona réquiem, et locum indulgéntiæ.";
+$test = "V. Ora pro nobis, sancta Dei Génitrix.  R. Ut digni efficiámur promissiónibus Christi.";
+$test = "déspicis designare";
 
-ob_start(); // start buffer
-require 'temp.htm';
-$txtContent = ob_get_contents(); // assign buffer contents to variable
-ob_end_clean(); // end buffer and remove buffer contents
-
+//ob_start(); // start buffer
+//require 'temp.htm';
+//$txtContent = ob_get_contents(); // assign buffer contents to variable
+//ob_end_clean(); // end buffer and remove buffer contents
 //echo strlen($txtContent);
-//echo '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>';
-//echo "<div style='white-space:pre-wrap;'>";
+
+echo '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>';
+echo "<div style='white-space:pre-wrap;'>";
 
 $hyph = new hyph();
+$hyph->hyphen='-';
 $testh = $hyph->text($test, 'la');
-$testx = $hyph->html($txtContent);
+//$testx = $hyph->html($txtContent);
 
-echo $testx;
-
-//echo "</div>";
-
-
-
+echo $testh;
+echo "</div>";
 
 //print $dom->saveHTML();
-
-
-
-
 // */
 
 class hyph {
@@ -125,6 +120,7 @@ class hyph {
 
 	// Word hyphenation
 	private function word_hyphenation($word, $patterns) {
+		$d = 0;
 		$charmin = $this->charmin;
 		$charmax = $this->charmax;
 		$leftmin = $this->leftmin;
@@ -132,6 +128,7 @@ class hyph {
 		$hyphen = $this->hyphen;
 		$words = $this->words;
 
+		if($d) echo "$word - ";
 		if(mb_strlen($word) < $charmin) return $word;
 		if(mb_strpos($word, $hyphen) !== false) return $word;
 		if(isset($words[mb_strtolower($word)])) return $words[mb_strtolower($word)];
@@ -149,6 +146,7 @@ class hyph {
 
 			for($win = $charmin; $win <= $maxwins; $win++) {
 				if(isset($patterns[mb_substr($text_word, $position, $win)])) {
+					if($d) echo " {$patterns[mb_substr($text_word, $position, $win)]}, ";
 					$pattern = $patterns[mb_substr($text_word, $position, $win)];
 					$digits = 1;
 					$pattern_length = mb_strlen($pattern);
@@ -184,6 +182,7 @@ class hyph {
 		print_r($hyphenated_pats);
 		echo "</pre>";
 		// */
+		if($d) echo "-- $ret<br/>";
 		return $ret;
 	}
 
@@ -247,10 +246,22 @@ class hyph {
 		// no hpyhen between au
 		$ret = array_merge($ret,mb_split(' ',"a2u a2$u1 {$a1}2u {$a1}2$u1"));
 
+		// hyphen between consonant pairs
 		foreach($cons as $i) {
 		foreach($cons as $j) {
 			$ret[] = "2{$i}1{$j}";
 		}}
+
+		// no hyphen in consonant groups at beginning of word
+		foreach($cons as $i) {
+		foreach($cons as $j) {
+			$ret[] = "_{$i}8{$j}";
+		}}
+		foreach($cons as $i) {
+		foreach($cons as $j) {
+		foreach($cons as $k) {
+			$ret[] = "_{$i}8{$j}8{$k}";
+		}}}
 
 		// override certain consonant pairs
 		foreach(mb_split(' ','b c d g p t') as $i) {
@@ -259,7 +270,9 @@ class hyph {
 		}}
 
 		//special rules: super, con, quemad, ex
-		$ret = array_merge($ret,mb_split(' ',"_su5pe6r5 _co6n5 _que6m5 5e6x5"));
+		$ret = array_merge($ret,mb_split(' ',
+			"_su5pe6r5 _co6n5 _que6m5 5e6x5 _pe6r5ámb _pe6r5amb"
+			." _dé5s6 _de5s6 _lon6g5á6n _lon6g5a6n"));
 
 		// special consonant triplets etc.
 		$ret = array_merge($ret,['b5f6l', 'b5f6r', 'b5p6r', 'b5s6c', 'b6s5q', 'b5s6t', 'b5t6r', 

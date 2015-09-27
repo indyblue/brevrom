@@ -1,5 +1,5 @@
 Psalmus 5
-Verba mea áuribus pércipe, Dómine, * intéllige clamórem meum.
+Verba mea áuribus pércipe, Dómine, * intéllege clamórem meum.
 Inténde voci oratiónis meæ, * Rex meus et Deus meus.
 Quóniam ad te orábo: * Dómine, mane exáudies vocem meam.
 Mane astábo tibi et vidébo: * quóniam non Deus volens iniquitátem tu es.

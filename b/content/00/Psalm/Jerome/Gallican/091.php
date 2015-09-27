@@ -4,7 +4,7 @@ Ad annuntiándum mane misericórdiam tuam: * et veritátem tuam per noctem.
 In decachórdo, psaltério: * cum cántico, in cíthara.
 Quia delectásti me, Dómine, in factúra tua: * et in opéribus mánuum tuárum exsultábo.
 Quam magnificáta sunt ópera tua, Dómine! * nimis profúndæ factæ sunt cogitatiónes tuæ.
-Vir insípiens non cognóscet: * et stultus non intélliget hæc.
+Vir insípiens non cognóscet: * et stultus non intélleget hæc.
 Cum exórti fúerint peccatóres sicut fœnum: * et apparúerint omnes, qui operántur iniquitátem:
 Ut intéreant in sǽculum sǽculi: * tu autem Altíssimus in ætérnum, Dómine.
 Quóniam ecce inimíci tui, Dómine, quóniam ecce inimíci tui períbunt: * et dispergéntur omnes, qui operántur iniquitátem.

@@ -4,7 +4,7 @@ Bonum est confitéri Dómino: * et psállere nómini tuo, Altíssime.
 3  In decachórdo, psaltério: * cum cántico, in cíthara.
 4  Quia delectásti me, Dómine, in factúra tua: * et in opéribus mánuum tuárum exsultábo.
 5  Quam magnificáta sunt ópera tua, Dómine! * nimis profúndæ factæ sunt cogitatiónes tuæ.
-6  Vir insípiens non cognóscet: * et stultus non intélliget hæc.
+6  Vir insípiens non cognóscet: * et stultus non intélleget hæc.
 7  Cum exórti fúerint peccatóres sicut fœnum: * et apparúerint omnes, qui operántur iniquitátem.
 8  Ut intéreant in sæculum sæculi: * tu autem Altíssimus in ætérnum, Dómine.
 9  Quóniam ecce inimíci tui, Dómine, quóniam ecce inimíci tui períbunt: * et dispergéntur omnes, qui operántur iniquitátem.

@@ -1,5 +1,5 @@
-Psalmus 40.   Beatus qui intelligit
-Beátus qui intélligit super egénum, et páuperem: * in die mala liberábit eum Dóminus.
+Psalmus 40.   Beatus qui intellegit
+Beátus qui intéllegit super egénum, et páuperem: * in die mala liberábit eum Dóminus.
 2  Dóminus consérvet eum, et vivíficet eum, et beátum fáciat eum in terra: * et non tradat eum in ánimam inimicórum ejus.
 3  Dóminus opem ferat illi super lectum dolóris ejus: * univérsum stratum ejus versásti in infirmitáte ejus.
 4  Ego dixi : Dómine, miserére mei: * sana ánimam meam, quia peccávi tibi.

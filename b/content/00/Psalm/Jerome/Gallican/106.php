@@ -41,4 +41,4 @@ Et pauci facti sunt: * et vexáti sunt a tribulatióne malórum, et dolóre.
 Effúsa est contémptio super príncipes: * et erráre fecit eos in ínvio, et non in via.
 Et adjúvit páuperem de inópia: * et pósuit sicut oves famílias.
 Vidébunt recti, et lætabúntur: * et omnis iníquitas oppilábit os suum.
-Quis sápiens et custódiet hæc? * et intélliget misericórdias Dómini.
+Quis sápiens et custódiet hæc? * et intélleget misericórdias Dómini.

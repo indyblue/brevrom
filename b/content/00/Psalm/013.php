@@ -1,7 +1,7 @@
 Psalmus 13
 Dixit insípiens in corde suo: * Non est Deus.
 Corrúpti sunt, et abominábiles facti sunt in stúdiis suis: * non est qui fáciat bonum, non est usque ad unum.
-Dóminus de cælo prospéxit super fílios hóminum, * ut vídeat si est intélligens, aut requírens Deum.
+Dóminus de cælo prospéxit super fílios hóminum, * ut vídeat si est intéllegens, aut requírens Deum.
 Omnes declinavérunt, simul inútiles facti sunt: * non est qui fáciat bonum, non est usque ad unum.
 Sepúlcrum patens est guttur eórum: linguis suis dolóse agébant * venénum áspidum sub lábiis eórum.
 Quorum os maledictióne et amaritúdine plenum est: * velóces pedes eórum ad effundéndum sánguinem.

@@ -7,4 +7,4 @@
 9~Whatever God said, or wished, was done.
 11~All the thoughts of his mind, which are hidden to us, shall always have their fulfilment.
 12~Blessed is the nation that makes God, and not his creatures, its last end.
-15~It is he that created their hearts, or their souls. “<l>Singillatim.</s>” One by one, as Bellarmine, Menochius, and Tirinus explain it. “<l>Intelligit omnia opera eorum.</s>” He well understands and penetrates all the motives of their actions.
+15~It is he that created their hearts, or their souls. “<l>Singillatim.</s>” One by one, as Bellarmine, Menochius, and Tirinus explain it. “<l>Intellegit omnia opera eorum.</s>” He well understands and penetrates all the motives of their actions.

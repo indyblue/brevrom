@@ -5,5 +5,5 @@ Si vidébas furem, currébas cum eo: * et cum adúlteris portiónem tuam ponéba
 Os tuum abundávit malítia: * et lingua tua concinnábat dolos.
 Sedens advérsus fratrem tuum loquebáris, et advérsus fílium matris tuæ ponébas scándalum: * hæc fecísti, et tácui.
 Existimásti, iníque, quod ero tui símilis: * árguam te, et státuam contra fáciem tuam.
-Intellígite hæc, qui obliviscímini Deum: * nequándo rápiat, et non sit qui erípiat.
+Intellégite hæc, qui obliviscímini Deum: * nequándo rápiat, et non sit qui erípiat.
 Sacrifícium laudis honorificábit me: * et illic iter, quo osténdam illi salutáre Dei.

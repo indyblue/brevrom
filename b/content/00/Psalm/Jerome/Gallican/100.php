@@ -1,6 +1,6 @@
 Psalmus 100
 Misericórdiam, et judícium * cantábo tibi, Dómine:
-Psallam, et intélligam in via immaculáta, * quando vénies ad me.
+Psallam, et intéllegam in via immaculáta, * quando vénies ad me.
 Perambulábam in innocéntia cordis mei, * in médio domus meæ.
 Non proponébam ante óculos meos rem injústam: * faciéntes prævaricatiónes odívi.
 Non adhǽsit mihi cor pravum: * declinántem a me malígnum non cognoscébam.
