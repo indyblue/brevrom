@@ -1,0 +1,50 @@
+@deus_in_adjutorium
+@gloria_sicut
+@alleluja_laus_tibi
+
+hymnus{jam_lucis_orto_sidere.php}
+
+[psalmi]
+[/psalmi]
+
+capitulum{1 Tim. 1:17|Regi sæculórum immortáli et invisíbili, soli Deo honor et glória in sǽcula sæculórum. Amen.}
+
+[rbr]
+rbr{Christe Fili Dei vivi, * miserére nobis.|Qui sedes ad déxteram Patris.}
+vr{Exsúrge, Christe, ádjuva nos.|Et líbera nos propter nomen tuum.}
+[/rbr]
+
+@dv_de
+@oremus
+oratio{Dómine Deus omnípotens, qui ad princípium hujus diéi nos perveníre fecísti: tua nos hódie salva virtúte; ut in hac die ad nullum declinémus peccátum, sed semper ad tuam justítiam faciéndam nostra procédant elóquia, dirigántur cogitatiónes et ópera. per_dominum}
+@dv_de
+@benedicamus_domino
+
+rubrica{Deinde in Choro legitur Martyrologium, quod convenienter fit etiam extra chorum.}
+
+[martyrologium]
+[/martyrologium]
+
+vr{Pretiósa in conspéctu Dómini.|Mors Sanctórum ejus.}
+rubrica{Et absolute, sine <snr>Orémus</s>:}
+oratio{Sancta María, et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui_vivit_br}
+
+vr{Deus in adjutórium meum inténde.|Dómine ad adjuvándum me festína.}
+rubrica{Et dicitur ter; ultimo additur:}
+@gloria_sicut
+@kyrie3
+@pater_secreto
+vr{Réspice in servos tuos, Dómine, et in ópera tua, et dírige fílios eórum.|Et sit splendor Dómini Dei nostri super nos, et ópera mánuum nostrárum dírige super nos, et opus mánuum nostrárum dírige.}
+@vr_gloria
+@oremus
+oratio{Dirígere et sanctificáre, régere et gubernáre dignáre, Dómine Deus, Rex cæli et terræ, hódie corda et córpora nostra, sensus, sermónes et actus nostros in lege tua, et in opéribus mandatórum tuórum: ut hic, et in ætérnum, te auxiliánte, salvi et líberi esse mereámur, Salvátor mundi: qui_vivis_br}
+@jube_domne
+bened{Dies et actus nostros in sua pace dispónat Dóminus omnípotens.}
+
+[lectio_brevis]
+lectiobr{2 Thess. 3:5|Dóminus autem dírigat corda et córpora nostra in caritáte Dei, et patiéntia Christi.}
+[/lectio_brevis]
+
+@adjutorium_qui
+vr{Benedícite.|Deus.}
+bened{Dóminus nos benedícat, et ab omni malo deféndat, et ad vitam perdúcat ætérnam. Et fidélium ánimæ per misericórdiam Dei requiéscant in pace.}

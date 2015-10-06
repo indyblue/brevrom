@@ -1,0 +1,133 @@
+assuming this is to be done with links, and not all inline:
+
+Psalter (generic)
+	- day
+	- hour
+	- season
+	- type (saint/season)
+
+Season
+	- season/week/day
+	- dow of christmas (sometimes)
+	- bookmarks for commems
+
+Saints
+	- day/file
+	- season (don't think we need week/day normally?)
+	- (from file:
+		- class
+		- precedence)
+	- use links for feriae psalter
+	- bookmarks for seasonal commems
+
+---------------------------------------------------------------------
+
+Date ranges:
+	Easter: 22 Mar - 25 Apr
+	1adv: 27 Nov - 3 Dec
+	70ima: 18 Jan - 22 Feb
+	AshW: 11 Feb - 10 Mar
+	Pass: 8 Mar - 11 Apr
+
+Ranges where you don't need to know anything:
+	Easter octave
+	Pentecost octave
+
+	
+Range where you only need to know dow of Christmas:
+	24th PPent - 70ima
+	26 Nov - 17 Jan (52 days) - 7 options
+	364 files
+
+Range where you only need to know date of Easter:
+	Leap range+1 - Sat before 24th PPent
+	1 Mar - 26 Nov (270) - 34 options
+	9180 files
+
+Range where you need to know date of Easter and if leap:
+	18 Jan - 29 Feb (41.5 days) 68 options
+	2822 files
+
+Complete for all options:
+12,366 total files.
+
+---------------------------------------------------------------------
+Shortest simple advent/christmas option:
+	1 file per day for Adv 1,2
+	Separate files for all O ant days, depending on dow of Nat:
+		55 files, Adv3-1 to Dec 23
+	7 files for Sunday in octave
+	1 file for every other day
+	Total 88 files
+
+Epiphany
+	6th
+	HFam
+	Bapt
+	feriae - 1 file per day, links to Epiphany psalter
+	
+Post Epiphany
+	1 file per day, links to ferial psalter
+
+----------------------------------------------------------------------
+
+Seasons
+	- problem will be aug-nov. Need links for readings.
+	- absol/bened for day-related feasts (i.e. 6th day in octave of nativity)
+	- also commem - need bookmark(s), and need to have ready-made commem section for each saint
+
+Saints
+	- 3cl - problem will be readings. least links would be end of psalter
+	- 2/3 - problem will be prime. how to do season and weekday? links?
+Trouble areas:
+	(Easter: 22 March - 25 April)
+	(1Adv: 27 Nov - 3 Dec)
+	Prime:
+		Lent-Easter (min End of easter octave - max holy thurs)
+scenarios:
+	M:
+		-invit
+		-hymn
+		-1noct:
+			-psalms/antiphons (ferial)
+			-vr/absol (put with psalms?)
+			-lessons:
+				-saint:
+					-bened1: Ille nos.
+					-bened2: Divinum/Cujus/Quorum/Quarum??? how??? print with options?
+					-lessons1,2 (from seasons...links with psalms?)
+					-resp1,2 (from seasons, with lessons)
+					-bened3: Ad societatem.
+					-lesson3 (from saint)
+				-ferial:
+					-bened1-3: weekday
+					-lessons1-3: weekday (seasons)
+		-3noct: all proper
+	LV:
+		-psalter/antiphons (ferial/sunday/proper)
+		-capitulum/hymn/vr/ant-cant/prayer/commem
+	TSN:
+		-psalter/antiphons (ferial/sunday+proper ant)
+		-capitulum/rbr/prayer
+
+
+	P:
+		-psalter/antiphons (weekday/festal)
+		-season/feast:
+			ordinary
+			advent
+			christmas
+			epiphany
+			lent
+			passiontide
+			easter
+			ascension
+			pentecost
+		-feasts:
+	C:
+		-psalter/antiphons (weekday)
+		-seasons:
+			ordinary
+			passiontide
+			easter
+			Marian antiphons

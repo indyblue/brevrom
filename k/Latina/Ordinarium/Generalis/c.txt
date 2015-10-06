@@ -1,0 +1,50 @@
+@jube_domne;
+bened{Noctem quiétam et finem perféctum concédat nobis Dóminus omnípotens.};
+
+lectiobr{1 Petri 5:8|
+Fratres: Sóbrii estóte, et vigiláte: 
+quia adversárius vester diábolus tamquam leo rúgiens círcuit, 
+quærens quem dévoret: cui resístite fortes in fide.};
+
+@adjutorium_qui;
+
+rubrica{Examen conscientiæ vel <snr>Pater noster</s>, totum secreto.};
+@conf_mis_ind;
+
+vr{Convérte nos, Deus salutáris noster.|Et avérte iram tuam a nobis.};
+@deus_in_adjutorium;
+@gloria_sicut;
+@alleluja_laus_tibi;
+
+[psalmi];
+
+hymnus{te_lucis_ante_terminum.php};
+
+capitulum{
+Tu autem in nobis es, Dómine, 
+et nomen sanctum tuum invocátum est super nos: 
+ne derelínquas nos, Dómine, Deus noster.|Jer. 14:9};
+
+rbr{In manus tuas, Dómine, * Comméndo spíritum meum.
+|Redemísti nos, Dómine Deus veritátis.};
+vr{Custódi nos Dómine ut pupíllam óculi.
+|Sub umbra alárum tuárum prótege nos.};
+
+ant_ec{Salva nos, * Dómine, vigilántes, custódi nos dormiéntes; 
+ut vigilémus cum Christo, et requiescámus in pace.|N|simeonis.php};
+
+@dv_de;
+@oremus;
+oratio{Vísita, quǽsumus, Dómine, habitatiónem istam, 
+et omnes insídias inimíci ab ea longe repélle: 
+Angeli tui sancti hábitent in ea, qui nos in pace custódiant; 
+et benedíctio tua sit super nos semper. per_dominum};
+
+@dv_de;
+@benedicamus_domino;
+bened{Benedícat et custódiat nos omnípotens et miséricors Dóminus, 
+Pater, et Fílius, et Spíritus Sanctus.};
+
+[antiphona_finalis];
+
+vr{Divínum auxílium máneat semper nobíscum.|Amen.};

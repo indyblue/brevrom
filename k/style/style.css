@@ -1,0 +1,163 @@
+@font-face {
+	font-family: FancyVR;
+	src: url(FancyVR.ttf);
+}
+@font-face {
+	font-family: BlackLetter;
+	src: url(oldlondon.ttf);
+}
+
+body {
+	/*
+	font-size:1em;
+	*/
+	font-family:Bookerly, serif;
+}
+
+div {
+	margin:0px; 
+	padding:0px; 
+	text-align:justify;
+	vertical-align:baseline; 
+}
+
+.OremusL { 
+	Color:Black; 
+	float:left; 
+	text-indent: 1em; 
+}
+.OratioL { 
+	Color:Red; 
+	margin-left:-4em; 
+}
+
+.BodySm, .BodyLSm, .BodyESm {
+	font-size:90%;
+}
+.RubricHSm {
+	font-size:80%;
+}
+.Head0 {font-size:110%;}
+.Head1 {font-size:200%;}
+.Head1NI {font-size:200%;}
+.Head2 {font-size:120%;}
+.Head3 {font-size:110%;}
+
+.Head2Ps, .Head2Cant {font-size:100%;}
+.Head4 {font-size:100%;}
+.Head5 {font-size:80%;}
+
+.HymnL1, .HymnE1,
+.HymnL, .HymnE {
+	text-align:left;
+	margin-left:1em;
+	text-indent:-1em;
+}
+
+.HymnL1::first-letter,
+.HymnE1::first-letter,
+.HymnR { 
+	font-size:120%;
+	color:red; 
+	font-weight:bold;
+	vertical-align:baseline;
+}
+
+.BodyDrop:first-letter,
+.BodyLDrop:first-letter,
+.BodyEDrop:first-letter { 
+	font-family:BlackLetter;
+	font-size:150%;
+	vertical-align:baseline;
+}
+
+.Rubric, 
+.RubricH, 
+.RubricHSm {
+	font-style:italic; 
+	color:red;
+}
+
+.RubricHidden,
+.BkHidden 
+{ display:none; }
+
+.Index {
+	margin:0 1.5em;
+}
+
+.Head0,
+.Head1,
+.Head1NI,
+.Head2 {
+	text-align:center; 
+	font-variant:small-caps;
+}
+
+.Head2Ps,
+.Head2Cant,
+.Head4, 
+.Head5 {
+	text-align:center;
+	font-style:italic; 
+	color:red;
+}
+
+.Head3 {
+	text-align:center;
+	font-style:italic;
+}
+
+.Line {
+	font-size:2pt; 
+	border-width:0px 0px 1px 0px; 
+	border-color:red; 
+	border-style:solid;
+}
+
+.Red { color:red; font-size:60%; }
+.Rubric { font-style:italic; color:red; }
+.RubricH {
+	font-style:italic; 
+	color:red; 
+	font-size:58%; 
+	vertical-align:top;
+}
+.NonRubric {font-style:normal; color:black;}
+.Italic {font-style:italic;}
+.Bold {font-weight:bold;}
+.BoldR {font-weight:bold; color:red;}
+.BoldRC {
+	font-weight:bold; 
+	color:red; 
+	text-transform:uppercase;
+}
+.AllCaps {text-transform:uppercase;}
+.SmCaps {font-variant:small-caps;}
+.Super {font-size:58%; vertical-align:top;}
+.DropCap {
+	font-weight:bold; 
+}
+.VR {
+	font-family:FancyVR, serif;	
+	color:red; 
+	font-style:normal;
+}
+.NH {}
+.L {font-style:italic;}
+
+
+.Hidden1 {
+	display:none; 
+}
+.Hidden2 {
+	display:none; 
+}
+
+.h1 {
+	height:auto; 
+	visibility:visible; 
+	overflow:hidden;
+}
+
+

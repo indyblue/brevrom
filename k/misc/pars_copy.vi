@@ -1,0 +1,18 @@
+" find . | gvim -
+
+g/\/E\//d
+g!/\.php/d
+%s/\v(.*\/)([^\/]+$)/cp \1\2 \/home\/user\/www\/k\/Latina\/Partes\/Antiphonae\/ren\/\2/
+
+"copy/paste to terminal
+
+"in new dir:
+" cat * | gvim -
+
+sort u
+%s/‡//g
+%s/<sr>N\.<\/s>/{N.}/g
+%s/<sr>[^<]*<.s>//g
+
+"complete copy of file
+%s/.*/\=" | ".strlen(submatch(0)) . " | " . submatch(0)
