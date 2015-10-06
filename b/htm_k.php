@@ -1,5 +1,4 @@
 <?php 
-
 // error_reporting(E_ALL);
 ini_set('display_errors', 0);
 mb_internal_encoding('UTF-8');
@@ -47,9 +46,14 @@ require 'content/'.$url;
 ///////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////
 
+if(isset($_REQUEST['x'])) {
+	ob_end_flush();
+	exit;
+}
 
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
+
 
 require 'htm_links.php';
 
@@ -212,9 +216,11 @@ $html2 = "\n</div></body></html>\n";
 $html = $html1 . $idx . $txtContent . $html2;
 // handle hyphenation
 //*
-require 'content/fn/hyph.php';
-$hyph = new hyph();
-$html = $hyph->html($html);
+if(!isset($_REQUEST['h']) || $_REQUEST['h']!=0) {
+	require 'content/fn/hyph.php';
+	$hyph = new hyph();
+	$html = $hyph->html($html);
+}
 // */
 
 

@@ -1,22 +1,26 @@
 <?php 
-/*
-ob_start();
-require 'htm_k.htm';
-$htm = ob_get_contents();
-ob_end_clean();
+//ini_set('allow_url_fopen', 1);
 
-$x = preg_match_all('/<a [^>]*href="([^"]*)/i', $htm, $m);
-//var_dump($m);
-foreach($m[1] as $url) {
-	$url = preg_replace('/kindle\/(en\/)?(.*)/', '\2', $url);
-	echo "content/$url";
+/*
+if(!isset($_REQUEST['x'])) {
 	ob_start();
-	require "content/$url";
+	require 'htm_k.htm';
 	$htm = ob_get_contents();
 	ob_end_clean();
-	$x = preg_match_all('/<a [^>]*name="([^"]*)/i', $htm, $n);
-	var_dump($n[1]);
+
+	$x = preg_match_all('/<a [^>]*href="([^"]*)/i', $htm, $m);
+	//var_dump($m);
+	foreach($m[1] as $url) {
+		$url = "http://localhost/b/$url&x=1";
+		echo "<h1>$url</h1>";
+
+		
+		$htm = file_get_contents($url);
+		echo "size: ".strlen($htm);
+		$x = preg_match_all('/<text:bookmark.*text:name="([^"]*)"\/>/', $htm, $n);
+		var_dump($n[1]);
+	}
 }
-exit;
-*/
+//exit;
+// */
 ?>
