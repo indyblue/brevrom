@@ -24,7 +24,22 @@
 	vrS('benedicamus_domino.php');
 	vr('compline_bened.php');
 
-	rubp('Antiphona B. Mariæ Virg. <snr>p. '. bkref('BVMant') .'</s>', 'Antiphon of the Bl. Virgin Mary, <snr>p. '. bkref('BVMant') .'</s>');
+	global $kindle;
+	if($kindle==1) 
+		rubp('Antiphona B. Mariæ Virg. <snr>'
+			. bkref('BVMant1', "I Alma Redemptoris") .', '
+			. bkref('BVMant2', "II Ave Regina") .' '
+			. bkref('BVMant3', "III Regina Caeli") .', '
+			. bkref('BVMant4', "IV Salve Regina") 
+			.'</s>', 
+		'Antiphon of the Bl. Virgin Mary, <snr>p. '
+			. bkref('BVMant1', "I Alma Redemptoris") .', '
+			. bkref('BVMant2', "II Ave Regina") .' '
+			. bkref('BVMant3', "III Regina Caeli") .', '
+			. bkref('BVMant4', "IV Salve Regina") 
+			.'</s>');
+	else
+		rubp('Antiphona B. Mariæ Virg. <snr>p. '. bkref('BVMant') .'</s>', 'Antiphon of the Bl. Virgin Mary, <snr>p. '. bkref('BVMant') .'</s>');
 	vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php');
 
 ?>

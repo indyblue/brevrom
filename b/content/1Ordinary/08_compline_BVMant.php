@@ -3,6 +3,7 @@
 		'Final Antiphons of the Blessed Virgin Mary',2);
 
 	space();
+	bookmark('BVMant1');
 	reading('bvm/almaredemptoris.php');
 	space();
 	rubp('Usque ad diem 23 decembris:','Until 23 December, inclusive:',1);
@@ -16,18 +17,21 @@
 	prayer('Ord/compline03.php',1);
 
 	space();
+	bookmark('BVMant2');
 	reading('bvm/averegina.php');
 	vrS('Ord/dignare_me_laudare_te_virgo_sacrata.php');
 	vr('oremus.php');
 	prayer('Ord/compline04.php',1);
 
 	space();
+	bookmark('BVMant3');
 	reading('bvm/reginacaeli.php');
 	vrS('Ord/gaude_et_laetare_virgo_maria.php',1);
 	vr('oremus.php');
 	prayer('Ord/compline05.php',1);
 
 	space();
+	bookmark('BVMant4');
 	reading('bvm/salveregina.php');
 	vrS('Ord/ora_pro_nobis_sancta_dei_genitrix.php');
 	vr('oremus.php');

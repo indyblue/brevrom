@@ -26,6 +26,10 @@
 #benedictus=1Ordinary/02_lauds.php#benedictus
 Binary file ./1Ordinary/.08_compline.php.swp matches
 #BVMant=1Ordinary/08_compline.php#BVMant
+#BVMant1=1Ordinary/08_compline.php#BVMant1
+#BVMant2=1Ordinary/08_compline.php#BVMant2
+#BVMant3=1Ordinary/08_compline.php#BVMant3
+#BVMant4=1Ordinary/08_compline.php#BVMant4
 #BVMp1=6ComS/FSSR/bvm/bvm01.php#BVMp1
 #cant_ezechiel=2Psalter/3tuesday.php#cant_ezechiel
 #confiteor=1Ordinary/08_compline.php#confiteor

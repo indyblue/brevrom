@@ -97,9 +97,9 @@ function bklist($bk=0, $anchor=0) {
 
 // regex search to check for bkref not in echo
 // \v(echo.*)@<!bkref\(
-function bkref($link='') {
+function bkref($link='', $linktext='Link') {
 	if(bklist(1)>0) bklist($link,0);
-	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">Link</text:bookmark-ref>';
+	return '<text:bookmark-ref text:reference-format="page" text:ref-name="' . $link . '">'.$linktext.'</text:bookmark-ref>';
 }
 
 /*

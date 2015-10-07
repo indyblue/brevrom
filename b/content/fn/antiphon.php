@@ -89,13 +89,13 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 			} elseif($inc==2) {
 				$ast=1; $ant='<sr>Ant '. ($j) .'.</s> ';
 			} elseif($inc=='B') {
-				$ast=1; $ant='<sr>Ad Bened.Ant.</s> '; $ante = '<sr>Benedictus Ant.</s> ';
+				$ast=1; $ant='<sr>'.bkref('benedictus', 'Ad Bened.').'Ant.</s> '; $ante = '<sr>Benedictus Ant.</s> ';
 			} elseif($inc=='M') {
-				$ast=1; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
+				$ast=1; $ant='<sr>'.bkref('magnificat', 'Ad Magnif.').'Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
 			} elseif($inc=='C') {
 				$ast=1; $ant='<sr>Ad Nunc dimittis Ant.</s> '; $ante = '<sr>Nunc dimittis Ant.</s> ';
 			} elseif($inc=='m') {
-				$short=1; $ast=0; $ant='<sr>Ad Magnif.Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
+				$short=1; $ast=0; $ant='<sr>'.bkref('magnificat', 'Ad Magnif.').'Ant.</s> '; $ante = '<sr>Magnificat Ant.</s> ';
 			} elseif($inc=='P') {
 				$ast=1; $ant='<sr>T.P. Ant.</s> '; $ante = '<sr>P.T. Ant.</s> ';
 			} elseif($inc=='p') {
