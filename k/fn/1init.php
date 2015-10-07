@@ -1,7 +1,8 @@
 <?php
 namespace fssr;
-require_once 'const.php';
+require_once 'settings.php';
 require_once 'pars.php';
+require_once 'file.php';
 
 foreach($_REQUEST as $i=>$v) {
 	global $$i;

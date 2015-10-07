@@ -3,9 +3,21 @@ namespace fssr;
 
 class pars {
 	public $lang;
-	function pars() {
-		global $la;
-		$this->lang = $la; // LA, EN
+	public $varia;
+	public $varia_short;
+	function __construct($lang) {
+		$this->lang = $lang; // LA, EN
+		$file = $this->folder('varia');
+		include $file;
+		$this->varia = $varia;
+		$this->varia_short = $varia_short;
+	}
+
+	function folder($abbrev, $file='') {
+		$root = $_SERVER['DOCUMENT_ROOT'];
+		if(strlen($file)>0) $file = "/$file";
+		return "$root/k/".settings::${$this->lang}."/"
+			.settings::$$abbrev.$file;
 	}
 
 	function titulus($txt, $level) {

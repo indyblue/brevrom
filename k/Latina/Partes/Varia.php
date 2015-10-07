@@ -15,7 +15,7 @@ $varia = [
 		.' et in sǽcula sæculórum. Amen.}',
 	'dv_de' => [
 		'vr{Dóminus vobíscum.|Et cum spíritu tuo.}',
-		'rubrica|vel',
+		'rubrica{vel}',
 		'vr{Dómine, exáudi oratiónem meam.|Et clamor meus ad te véniat.}'],
 	'benedicamus_domino' => 
 		'vr{Benedicámus Dómino.|Deo grátias.}',
