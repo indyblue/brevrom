@@ -1,4 +1,4 @@
-Cant. Tobiæ (13:1)
+Cant. Tobiæ (13:1-10)
 Magnus es, Dómine, in ætérnum, * et in ómnia sǽcula regnum tuum:
 Quóniam tu flagéllas, et salvas: dedúcis ad ínferos, et redúcis: * et non est qui effúgiat manum tuam.
 Confitémini Dómino, fílii Israël, * et in conspéctu géntium laudáte eum:

@@ -6,6 +6,6 @@ Quis ascéndet in montem Dómini? * aut quis stabit in loco sancto ejus?
 Hic accípiet benedictiónem a Dómino: * et misericórdiam a Deo, salutári suo.
 Hæc est generátio quæréntium eum, * quæréntium fáciem Dei Jacob.
 Attóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.
-Quis est iste Rex glóriæ? * Dóminus fortis et potens: Dóminus potens in prǽlio.
+Quis est iste Rex glóriæ? * Dóminus fortis et potens: Dóminus potens in prœ́lio.
 Attóllite portas, príncipes, vestras, et elevámini, portæ æternáles: * et introíbit Rex glóriæ.
 Quis est iste Rex glóriæ? * Dóminus virtútum ipse est Rex glóriæ.

@@ -7,7 +7,7 @@ Confríngam illos, nec póterunt stare: * cadent subtus pedes meos.
 Et præcinxísti me virtúte ad bellum: * supplantásti insurgéntes in me subtus me.
 Et inimícos meos dedísti mihi dorsum, * et odiéntes me disperdidísti.
 Clamavérunt, nec erat qui salvos fáceret ad Dóminum: * nec exaudívit eos.
-Et commínuam illos, ut púlverem ante fáciem venti: * ut lutum plateárum delébo eos.
+Et commínuam eos, ut púlverem ante fáciem venti: * ut lutum plateárum delébo eos.
 Erípies me de contradictiónibus pópuli: * constítues me in caput géntium.
 Pópulus quem non cognóvi servívit mihi: * in audítu auris obedívit mihi.
 Fílii aliéni mentíti sunt mihi, * fílii aliéni inveteráti sunt, et claudicavérunt a sémitis suis.

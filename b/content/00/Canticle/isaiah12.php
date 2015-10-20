@@ -1,4 +1,4 @@
-Cant. Isaiæ (12:1)
+Cant. Isaiæ (12:1-6)
 Confitébor tibi, Dómine, quóniam irátus es mihi: * convérsus est furor tuus, et consolátus es me.
 Ecce Deus salvátor meus, * fiduciáliter agam, et non timébo:
 Quia fortitúdo mea, et laus mea Dóminus, * et factus est mihi in salútem.

@@ -1,4 +1,4 @@
-Cant. B. Mariæ Virg. (Luke 1:46-55)
+Cant. B. Mariæ Virg. (Luc. 1:46-55)
 Magníficat: †* ánima mea Dóminum.
 Et exsultávit spíritus meus: * in Deo, salutári meo.
 Quia respéxit humilitátem ancíllæ suæ: * ecce enim ex hoc beátam me dicent omnes generatiónes.

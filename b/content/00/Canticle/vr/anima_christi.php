@@ -1,4 +1,4 @@
-Aspirationes S. Ignatii ad Ssðum Redemptorem
+Aspirationes S. Ignatii ad Ssm̃um Redemptorem
 Ánima Christi, sanctífica me.
 Corpus Christi, salva me.
 Sanguis Christi, inébria me.

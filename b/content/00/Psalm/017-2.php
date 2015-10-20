@@ -6,7 +6,7 @@ Et edúxit me in latitúdinem: * salvum me fecit, quóniam vóluit me.
 Et retríbuet mihi Dóminus secúndum justítiam meam: * et secúndum puritátem mánuum meárum retríbuet mihi:
 Quia custodívi vias Dómini, * nec ímpie gessi a Deo meo.
 Quóniam ómnia judícia ejus in conspéctu meo: * et justítias ejus non répuli a me.
-Et ero immaculátus cum eo: * et observábo ab iniquitáte mea.
+Et ero immaculátus cum eo: * et observábo me ab iniquitáte mea.
 Et retríbuet mihi Dóminus secúndum justítiam meam: * et secúndum puritátem mánuum meárum in conspéctu oculórum ejus.
 Cum sancto sanctus eris, * et cum viro innocénte ínnocens eris:
 Et cum elécto eléctus eris: * et cum pervérso pervertéris.
@@ -17,4 +17,4 @@ Deus meus, impollúta via ejus: elóquia Dómini igne examináta: * protéctor e
 Quóniam quis Deus præter Dóminum? * aut quis Deus præter Deum nostrum?
 Deus, qui præcínxit me virtúte: * et pósuit immaculátam viam meam.
 Qui perfécit pedes meos tamquam cervórum, * et super excélsa státuens me.
-Qui docet manus meas ad prǽlium: * et posuísti, ut arcum ǽreum, bráchia mea.
+Qui docet manus meas ad prœ́lium: * et posuísti, ut arcum ǽreum, bráchia mea.

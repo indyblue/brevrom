@@ -4,7 +4,7 @@ Et qui juxta me erant, de longe stetérunt: * et vim faciébant qui quærébant 
 Et qui inquirébant mala mihi, locúti sunt vanitátes: * et dolos tota die meditabántur.
 Ego autem tamquam surdus non audiébam: * et sicut mutus non apériens os suum.
 Et factus sum sicut homo non áudiens: * et non habens in ore suo redargutiónes.
-Quóniam in te, Dómine, sperávi: * tu exáudies, Dómine, Deus meus.
+Quóniam in te, Dómine, sperávi: * tu exáudies me, Dómine, Deus meus.
 Quia dixi: Nequándo supergáudeant mihi inimíci mei: * et dum commovéntur pedes mei, super me magna locúti sunt.
 Quóniam ego in flagélla parátus sum: * et dolor meus in conspéctu meo semper.
 Quóniam iniquitátem meam annuntiábo: * et cogitábo pro peccáto meo.

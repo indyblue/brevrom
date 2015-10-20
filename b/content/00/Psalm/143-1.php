@@ -1,5 +1,5 @@
 Psalmus 143 i
-Benedíctus Dóminus, Deus meus, qui docet manus meas ad prǽlium, * et dígitos meos ad bellum.
+Benedíctus Dóminus, Deus meus, qui docet manus meas ad prœ́lium, * et dígitos meos ad bellum.
 Misericórdia mea, et refúgium meum: * suscéptor meus, et liberátor meus:
 Protéctor meus, et in ipso sperávi: * qui subdit pópulum meum sub me.
 Dómine, quid est homo, quia innotuísti ei? * aut fílius hóminis, quia réputas eum?
