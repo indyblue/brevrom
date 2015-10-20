@@ -10,7 +10,7 @@
 	rubrics('head/HymnVerse.php');
 	hymn('te_deprecante_corporum.php');
 	vrS('justum_deduxit_dominus_per_vias_rectas.php');
-	ant('euge_serve_bone_et_fidelis.php','B');
+	ant('euge_serve_bone_et_fidelis-tui.php','B');
 	rubrics('head/Prayer.php');
 	prayer('prSanct/1020.php');
 	space();

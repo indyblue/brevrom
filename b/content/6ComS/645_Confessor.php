@@ -18,6 +18,12 @@
 	rubrics('cs/1Compline.php');
 
 	space();
+	hour('M');
+	ant('regem_confessorum_dominum_venite_adoremus.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('iste_confessor_domini_colentes.php');
+
+	space();
 	hour('L');
 	ant('csCL.php','20000',2);
 	rubrics('ps/SuL1.php');

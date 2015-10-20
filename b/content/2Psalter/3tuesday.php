@@ -10,7 +10,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('consors_paterni_luminis.php');
 
-	ant('Psalter/3Tue/0M.php','N00000000');
+	ant('Psalter/3Tue/0M.php','200000000');
 	psalm(34,1);
 	space('Spacer');
 	ant('Psalter/3Tue/0M.php','120000000');
@@ -19,7 +19,7 @@ if($matins) {
 	ant('Psalter/3Tue/0M.php','012000000');
 	psalm(34,3);
 	space('Spacer');
-	ant('Psalter/3Tue/0M.php','001N00000');
+	ant('Psalter/3Tue/0M.php','001200000');
 	psalm(36,1);
 	space('Spacer');
 	ant('Psalter/3Tue/0M.php','000120000');
@@ -28,7 +28,7 @@ if($matins) {
 	ant('Psalter/3Tue/0M.php','000012000');
 	psalm(36,3);
 	space('Spacer');
-	ant('Psalter/3Tue/0M.php','000001N00');
+	ant('Psalter/3Tue/0M.php','000001200');
 	bookmark('Ps37');
 	psalm(37,1);
 	space('Spacer');
@@ -39,6 +39,9 @@ if($matins) {
 	psalm(38);
 	space('Spacer');
 	ant('Psalter/3Tue/0M.php','000000001');
+	space();
+	vrS('deus_ne_sileas_a_me_remitte_mihi.php');
+
 
 	space();
 	img();

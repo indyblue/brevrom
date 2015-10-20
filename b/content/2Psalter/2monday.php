@@ -10,7 +10,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('somno_refectis_artubus.php');
 
-	ant('Psalter/2Mon/0M.php','N00000000');
+	ant('Psalter/2Mon/0M.php','200000000');
 	psalm(13);
 	space('Spacer');
 	ant('Psalter/2Mon/0M.php','120000000');
@@ -19,7 +19,7 @@ if($matins) {
 	ant('Psalter/2Mon/0M.php','012000000');
 	psalm(16);
 	space('Spacer');
-	ant('Psalter/2Mon/0M.php','001N00000');
+	ant('Psalter/2Mon/0M.php','001200000');
 	psalm(17,1);
 	space('Spacer');
 	ant('Psalter/2Mon/0M.php','000120000');
@@ -28,7 +28,7 @@ if($matins) {
 	ant('Psalter/2Mon/0M.php','000012000');
 	psalm(17,3);
 	space('Spacer');
-	ant('Psalter/2Mon/0M.php','000001N00');
+	ant('Psalter/2Mon/0M.php','000001200');
 	psalm(19,0,1);
 	space('Spacer');
 	ant('Psalter/2Mon/0M.php','000000120');
@@ -38,6 +38,8 @@ if($matins) {
 	psalm(29,0,1);
 	space('Spacer');
 	ant('Psalter/2Mon/0M.php','000000001');
+	space();
+	vrS('psallite_domino_sancti_ejus.php');
 
 	space();
 	img();

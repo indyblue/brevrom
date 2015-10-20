@@ -10,7 +10,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('rerum_creator_optime.php');
 
-	ant('Psalter/4Wed/0M.php','N00000000');
+	ant('Psalter/4Wed/0M.php','200000000');
 	psalm(44,1);
 	space(2);
 	ant('Psalter/4Wed/0M.php','120000000');
@@ -19,7 +19,7 @@ if($matins) {
 	ant('Psalter/4Wed/0M.php','012000000');
 	psalm(45);
 	space(2);
-	ant('Psalter/4Wed/0M.php','001N00000');
+	ant('Psalter/4Wed/0M.php','001200000');
 	psalm(47,0,1);
 	space(2);
 	ant('Psalter/4Wed/0M.php','000120000');
@@ -28,7 +28,9 @@ if($matins) {
 	ant('Psalter/4Wed/0M.php','000012000');
 	psalm(48,2);
 	space(2);
-	ant('Psalter/4Wed/0M.php','000001N00');
+	ant('Psalter/4Wed/0M.php','000001000');
+	head('I','I',4);
+	ant('Psalter/4Wed/0M.php','000000200');
 	psalm('49a',1,1);
 	space(2);
 	ant('Psalter/4Wed/0M.php','000000120');
@@ -38,7 +40,13 @@ if($matins) {
 	psalm(50);
 	space(2);
 	ant('Psalter/4Wed/0M.php','000000001');
-	ant('Psalter/4Wed/0M2.php','N00');
+
+	space();
+	vrS('auditui_meo_dabis_gaudium_et_laetitiam.php');
+	space();
+
+	head('II','II',4);
+	ant('Psalter/4Wed/0M2.php','200');
 	psalm('49b',1,1);
 	space(2);
 	ant('Psalter/4Wed/0M2.php','120');
@@ -48,6 +56,9 @@ if($matins) {
 	psalm('49b',3);
 	space(2);
 	ant('Psalter/4Wed/0M2.php','001');
+	space();
+	vrS('sacrificium_laudis_honorificabit_me.php');
+
 
 	space();
 	img();

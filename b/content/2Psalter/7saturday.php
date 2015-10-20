@@ -10,7 +10,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('summae_parens_clementiae.php');
 
-	ant('Psalter/7Sat/0M.php','N00000000');
+	ant('Psalter/7Sat/0M.php','200000000');
 	psalm(104,1);
 	space(2);
 	ant('Psalter/7Sat/0M.php','120000000');
@@ -19,7 +19,7 @@ if($matins) {
 	ant('Psalter/7Sat/0M.php','012000000');
 	psalm(104,3);
 	space(2);
-	ant('Psalter/7Sat/0M.php','001N00000');
+	ant('Psalter/7Sat/0M.php','001200000');
 	psalm(105,1);
 	space(2);
 	ant('Psalter/7Sat/0M.php','000120000');
@@ -28,7 +28,7 @@ if($matins) {
 	ant('Psalter/7Sat/0M.php','000012000');
 	psalm(105,3);
 	space(2);
-	ant('Psalter/7Sat/0M.php','000001N00');
+	ant('Psalter/7Sat/0M.php','000001200');
 	psalm(106,1);
 	space(2);
 	ant('Psalter/7Sat/0M.php','000000120');
@@ -38,6 +38,8 @@ if($matins) {
 	psalm(106,3);
 	space(2);
 	ant('Psalter/7Sat/0M.php','000000001');
+	space();
+	vrS('exaltent_eum_in_ecclesia_plebis.php');
 
 	space();
 	img();

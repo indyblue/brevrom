@@ -146,8 +146,10 @@ function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $dr
 			$Lpieces[0] = str_replace(' i','',$Lpieces[0]);
 			$Epieces[0] = str_replace(' i','',$Epieces[0]);
 
-			$Lpieces[0] = preg_replace("/\s*\([^)]*\\)/",'',$Lpieces[0]);
-			$Epieces[0] = preg_replace("/\s*\([^)]*\\)/",'',$Epieces[0]);
+			if($num==118) {
+				$Lpieces[0] = preg_replace("/\s*\([^)]*\\)/",'',$Lpieces[0]);
+				$Epieces[0] = preg_replace("/\s*\([^)]*\\)/",'',$Epieces[0]);
+			}
 		}
 		head($Lpieces[0],$Epieces[0],$index);
 		//echo '<p:Head2'. $index .'>'. $Lpieces[0] . "</p>\n";

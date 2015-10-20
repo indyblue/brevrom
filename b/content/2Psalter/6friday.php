@@ -10,7 +10,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('tu_trinitatis_unitas2.php');
 
-	ant('Psalter/6Fri/0M.php','N00000000');
+	ant('Psalter/6Fri/0M.php','200000000');
 	psalm(77,1);
 	space(2);
 	ant('Psalter/6Fri/0M.php','120000000');
@@ -19,7 +19,7 @@ if($matins) {
 	ant('Psalter/6Fri/0M.php','012000000');
 	psalm(77,3);
 	space(2);
-	ant('Psalter/6Fri/0M.php','001N00000');
+	ant('Psalter/6Fri/0M.php','001200000');
 	psalm(77,4);
 	space(2);
 	ant('Psalter/6Fri/0M.php','000120000');
@@ -28,7 +28,7 @@ if($matins) {
 	ant('Psalter/6Fri/0M.php','000012000');
 	psalm(77,6);
 	space(2);
-	ant('Psalter/6Fri/0M.php','000001N00');
+	ant('Psalter/6Fri/0M.php','000001200');
 	psalm(78);
 	space(2);
 	ant('Psalter/6Fri/0M.php','000000120');
@@ -38,6 +38,8 @@ if($matins) {
 	psalm(82);
 	space(2);
 	ant('Psalter/6Fri/0M.php','000000001');
+	space();
+	vrS('cognoscant_quia_nomen_tibi_dominus.php');
 
 	space();
 	img();

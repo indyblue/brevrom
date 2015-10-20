@@ -15,7 +15,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('nocte_surgentes_vigilemus_omnes.php');
 
-	multiant(1,0,'N00000000');
+	multiant(1,0,'200000000');
 	psalm(1);
 	space('Spacer');
 	multiant(1,0,'120000000');
@@ -24,7 +24,7 @@ if($matins) {
 	multiant(1,0,'012000000');
 	psalm(3);
 	space('Spacer');
-	multiant(1,0,'001N00000');
+	multiant(1,0,'001200000');
 	psalm(8);
 	space('Spacer');
 	multiant(1,0,'000120000');
@@ -33,7 +33,7 @@ if($matins) {
 	multiant(1,0,'000012000');
 	psalm(9,2);
 	space('Spacer');
-	multiant(1,0,'000001N00');
+	multiant(1,0,'000001200');
 	psalm(9,3,1);
 	space('Spacer');
 	multiant(1,0,'000000120');
@@ -43,6 +43,8 @@ if($matins) {
 	psalm(10);
 	space('Spacer');
 	multiant(1,0,'000000001');
+	space();
+	vrS('praevenerunt_oculi_mei_ad_te_diluculo.php');
 
 	space();
 	img(); 

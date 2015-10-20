@@ -31,9 +31,16 @@
 	canticle('vr/anima_christi.php');
 
 	space();
-	img('crucifix.png',40);
-	head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',4);
-	prayer('App/mass_thanks_crucifix.php');
+	global $kindle;
+	if($kindle) {
+		head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',4);
+		echo '<img style="float: left; margin: 0 0.5em 0 0; width: 5em;" src="/b/Images/crucifix.png">';
+		prayer('App/mass_thanks_crucifix.php');
+	} else {
+		img('crucifix.png',40);
+		head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',4);
+		prayer('App/mass_thanks_crucifix.php');
+	}
 
 	space();
 	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',4);

@@ -19,6 +19,12 @@
 	rubrics('cs/1Compline.php');
 
 	space();
+	hour('M');
+	ant('regem_apostolorum_dominum_venite_adoremus.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('aeterna_christi_munera.php');
+
+	space();
 	hour('L');
 	ant('csApL.php','20000');
 	rubrics('ps/SuL1.php');

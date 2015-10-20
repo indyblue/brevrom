@@ -19,6 +19,12 @@
 	rubrics('cs/1Compline.php');
 
 	space();
+	hour('M');
+	ant('regem_martyrum_dominum_venite_adoremus.php','I');
+	rubrics('head/HymnVerse.php');
+	hymn('christo_profusum_sanguinem.php');
+
+	space();
 	hour('L');
 	ant('csMmL.php','20000');
 	rubrics('ps/SuL1.php');

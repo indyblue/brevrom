@@ -288,7 +288,7 @@ class hyph {
 			'n5s6p', 'n6s5q', 'n5s6t', 'n6s5v', 'n6t5c', 'n5t6h', 'n5t6l', 'n5t6r', 'n6t5v', 'p6h5n', 
 			'p6h5r', 'p5s6t', 'p6t5b', 'p5t6h', 'r5b6l', 'r6d5b', 'r5f6l', 'r5f6r', 'r6g5b', 'r5g6r', 
 			'r6m5b', 'r6n5t', 'r5p6h', 'r5p6l', 'r5p6r', 'r5r6h', 'r6s5b', 'r5s6c', 'r5s6p', 'r5s6t', 
-			's5c6h', 's5p6h', 't6h5r']);
+			's5c6h', 's5p6h', 't6h5r', 'x5s6p']);
 		
 		return $ret;
 	}

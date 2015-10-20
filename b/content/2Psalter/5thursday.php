@@ -10,7 +10,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('nox_atra_rerum_contegit.php');
 
-	ant('Psalter/5Thu/0M.php','N00000000');
+	ant('Psalter/5Thu/0M.php','200000000');
 	psalm(61);
 	space(2);
 	ant('Psalter/5Thu/0M.php','120000000');
@@ -19,7 +19,7 @@ if($matins) {
 	ant('Psalter/5Thu/0M.php','012000000');
 	psalm(65,2);
 	space(2);
-	ant('Psalter/5Thu/0M.php','001N00000');
+	ant('Psalter/5Thu/0M.php','001200000');
 	psalm(67,1,1);
 	space(2);
 	ant('Psalter/5Thu/0M.php','000120000');
@@ -28,7 +28,7 @@ if($matins) {
 	ant('Psalter/5Thu/0M.php','000012000');
 	psalm(67,3);
 	space(2);
-	ant('Psalter/5Thu/0M.php','000001N00');
+	ant('Psalter/5Thu/0M.php','000001200');
 	psalm(68,1,1);
 	space(2);
 	ant('Psalter/5Thu/0M.php','000000120');
@@ -38,6 +38,8 @@ if($matins) {
 	psalm(68,3);
 	space(2);
 	ant('Psalter/5Thu/0M.php','000000001');
+	space();
+	vrS('laudabo_nomen_dei_cum_cantico.php');
 
 	space();
 	img();

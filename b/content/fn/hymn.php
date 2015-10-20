@@ -54,8 +54,8 @@ function hymn($file, $byref=-1, $posttxt=0) {
 			$txtL = trim($Lpieces[$i]);
 			$txtE = trim($Epieces[$i]);
 		
-			$lenL = strlen($txtL);
-			$lenE = strlen($txtE);
+			$lenL = mb_strlen($txtL);
+			$lenE = mb_strlen($txtE);
 		//echo $i . ' ' . $strL;
 			if($lenL==0) {
 				if($lenL==0 && $lenE>0) trigger_error('File ' . $file . ': Stanza break is different for Latin and English, line ' . $i . '.', E_USER_ERROR);
@@ -65,13 +65,19 @@ function hymn($file, $byref=-1, $posttxt=0) {
 						if (substr($Lpieces[$i+1],0,1)!='>')
 							echo '<tr><td:A1><p:HymnS/></td><td:B1><p:HymnS/></td></tr>';
 					} else {
-						echo '<tr><td:A1>'
-							.'<p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . '</s></p>'
-							. '</td><td:B1>'
-							. '<p:BodySm><sr>Trans. ' . trim($Epieces[0]) . '</s></p>'
-							. '</td></tr></table>';
+						global $kindle;
+						if(!$kindle
+							&& mb_strlen(trim($Lpieces[0]))>0
+							&& mb_strlen(trim($Epieces[0]))>0) {
+							echo '<tr><td:A1>'
+								.'<p:BodySm><sr>Auct. ' . trim($Lpieces[0]) . '</s></p>'
+								. '</td><td:B1>'
+								. '<p:BodySm><sr>Trans. ' . trim($Epieces[0]) . '</s></p>';
 						//echo '	</table><p:BodySm><sr>Auth. ' . trim($Lpieces[0]) . 
 						//	'<t2>Trans. ' . trim($Epieces[0]) . '</s></p>';
+						}
+						echo '</td></tr></table>';
+
 					}
 				}
 				$new = 1;
