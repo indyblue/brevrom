@@ -1,3 +1,4 @@
+<?php bookmark('o_clementissime'); ?>
    <table> <tr> <td:A1>
       <p:BodyLDrop>O CLEMENTÍSSIME Jesu, grátias ago tibi ex toto corde meo. Propítius esto mihi vilíssimo peccatóri. Ego hanc actiónem óffero divíno Cordi tuo emendándam atque perficiéndam, ad laudem et glóriam sanctíssimi nóminis tui et beatíssimæ Matris tuæ, ad salútem ánimæ meæ totiúsque Ecclésiæ tuæ.</p>
       <p:BodyL><s:VR>R. </s>Amen.</p>

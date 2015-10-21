@@ -123,7 +123,7 @@ $regex=array(
 	'/<t2>([^<]*)/',
 	'/<t>/',
 	'/<br\/*>/',
-	'/œ́/',
+//	'/œ́/',
 	'/(?<!\pL)Á/u', '/(?<!\pL)É/u', '/(?<!\pL)Í/u', 
 	'/(?<!\pL)Ó/u', '/(?<!\pL)Ú/u', '/(?<!\pL)Ý/u', '/(?<!\pL)Ǽ/u'
 	,'/(?m)^\s+/', '/(?<![\n\r])</'
@@ -133,7 +133,7 @@ $regex=array(
 	,'/(<div class="Head(?:1|1NI)">)((?:.(?!<\/div>))*.<\/div>)[^<]*<div class="Head5">((?:.(?!<\/div>))*.<\/div>)/i'
 );
 $repl=array(
-	'<img src="/b/\2 width=\1%>',
+	'', //'<img src="/b/\2 width=\1%>',
 	'</td></tr><tr><td colspan=2><span style="font-size:100%;color:red">\1\2</span>',
 	'<a href="#\1">',
 	'</a>',
@@ -156,7 +156,7 @@ $repl=array(
 	'<span style="float:right;">\1</span>',
 	'&nbsp;',
 	'<br/>',
-	'œ',
+//	'œ',
 	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
 	,'', "\n<", '', '', "\n<", '', ''
 	, '\1'.(isset($lang) && $lang=='en'?'\2':'\3')
@@ -191,22 +191,14 @@ function fn_index($matches) {
 }
 $idx .= "</div>\n";
 
-// 
-// grep "bookmark\(|hymn\(.*0\);" . -rP | sed -e "s/\.\/\([^:]*\):\s*[^']*'\([^.']*\).*/#\2=\1#\2/p" | sort -iu | sed `cat htm_k.htm | sed -ne "s/.*href=\"\([^\"]*\).*/\1/" -e "s/kindle.\(en.\)\?//p" | sort -u | sed -e 's/\//\\\//' -e 's/.*/-e "\/\0\/p"/p'`
-// add files to anchor links. generate links file using this command, from the content folder:
-// grep "bookmark\(|hymn\(.*0\);" . -rP | sed -e "s/\.\/\([^:]*\):\s*[^']*'\([^.']*\).*/#\2=\1#\2/p" | sort -iu > htm_links.php
-$links = file_load('content/htm_links.php');
 function fn_links($m) {
 	global $links, $lang;
 	$retval = $m[0];
-	foreach($links as $l) {
-		$s = split('=',$l);
-		if($s[0]===$m[0]) {
+	$i = substr($retval,1);
+	if(isset($links[$i])) {
 			$retval = '/b/kindle/'
 				.(isset($lang) && $lang=='en'?'en/':'')
-				.$s[1];
-			break;
-		}
+				.$links[$i];
 	}
 	return $retval;
 }

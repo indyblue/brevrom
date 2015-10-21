@@ -34,7 +34,7 @@
 	global $kindle;
 	if($kindle) {
 		head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',4);
-		echo '<img style="float: left; margin: 0 0.5em 0 0; width: 5em;" src="/b/Images/crucifix.png">';
+		echo '<img style="float: left; margin: 0 0.5em 0 0; width: 10em;" src="/b/Images/crucifix.png">';
 		prayer('App/mass_thanks_crucifix.php');
 	} else {
 		img('crucifix.png',40);
