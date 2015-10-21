@@ -8,13 +8,22 @@ if(!isset($_REQUEST['x'])) {
 	// we will store the results in a file, and use this file
 	// for any additional requests in the next few minutes
 	$file = getcwd().'/content/htm_links.php';
+	$x = preg_match_all('/<text:bookmark.*text:name="([^"]*)"\/>/', $txtContent, $n0);
+	$file_good = false;
+
 	if(file_exists($file) && time()-filemtime($file)<300) {
 		require $file;
-		foreach($n0[1] as $i) {
-			unset($links[$i]);
+		if(isset($links) && is_array($links)) {
+			$file_good = true;
+			foreach($n0[1] as $i) {
+				unset($links[$i]);
+			}
+			//echo "good";
+			//echo "<pre>".var_export($links,1)."</pre>";
 		}
-		//echo "<pre>".var_export($links,1)."</pre>";
-	} else {
+	}
+	
+	if(!$file_good) {
 
 		ob_start();
 		require 'htm_k.htm';
@@ -24,7 +33,6 @@ if(!isset($_REQUEST['x'])) {
 		$links = [];
 		$x = preg_match_all('/<a [^>]*href="(?:kindle\/)?([^"]*)/i', $htm, $m);
 		//var_dump($m);
-		$x = preg_match_all('/<text:bookmark.*text:name="([^"]*)"\/>/', $txtContent, $n0);
 		foreach($m[1] as $url) {
 			if(strpos($_SERVER["REQUEST_URI"], $url)!==false
 				|| strpos($url, '#')!==false
