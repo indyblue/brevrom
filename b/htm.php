@@ -276,7 +276,7 @@ $html2 = "\n</div></body></html>\n";
 
 $html = $html1 . $txtContent . $html2;
 // handle hyphenation
-/*
+//*
 require 'content/fn/hyph.php';
 $hyph = new hyph();
 $html = $hyph->html($html);
