@@ -1,6 +1,6 @@
 Psalmus 36 i
 Noli æmulári in malignántibus: * neque zeláveris faciéntes iniquitátem.
-Quóniam tamquam fœnum velóciter aréscent: * et quemádmodum ólera herbárum cito décident.
+Quóniam tamquam fænum velóciter aréscent: * et quemádmodum ólera herbárum cito décident.
 Spera in Dómino, et fac bonitátem: * et inhábita terram, et pascéris in divítiis ejus.
 Delectáre in Dómino: * et dabit tibi petitiónes cordis tui.
 Revéla Dómino viam tuam, et spera in eo: * et ipse fáciet.

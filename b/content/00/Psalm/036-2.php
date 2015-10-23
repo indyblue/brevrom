@@ -7,7 +7,7 @@ Inimíci vero Dómini mox ut honorificáti fúerint et exaltáti: * deficiéntes
 Mutuábitur peccátor, et non solvet: * justus autem miserétur et tríbuet.
 Quia benedicéntes ei hereditábunt terram: * maledicéntes autem ei disperíbunt.
 Apud Dóminum gressus hóminis dirigéntur: * et viam ejus volet.
-Cum cecíderit non collidétur: * quia Dóminus suppónit manum suam.
+Cum cecíderit, non collidétur: * quia Dóminus suppónit manum suam.
 Júnior fui, étenim sénui: * et non vidi justum derelíctum, nec semen ejus quærens panem.
 Tota die miserétur et cómmodat: * et semen illíus in benedictióne erit.
 Declína a malo, et fac bonum: * et inhábita in sǽculum sǽculi.

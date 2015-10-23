@@ -9,5 +9,5 @@ Júdica me secúndum justítiam tuam, Dómine, Deus meus, * et non supergáudean
 Non dicant in córdibus suis: Euge, euge, ánimæ nostræ: * nec dicant: Devorávimus eum.
 Erubéscant et revereántur simul, * qui gratulántur malis meis.
 Induántur confusióne et reveréntia * qui magna loquúntur super me.
-Exsúltent et læténtur qui volunt justítiam meam: * et dicant semper: Magnificétur Dóminus qui volunt pacem servi ejus.
+Exsúltent et læténtur qui volunt justítiam meam: * et dicant semper: Magnificétur Dóminus, qui volunt pacem servi ejus.
 Et lingua mea meditábitur justítiam tuam, * tota die laudem tuam.

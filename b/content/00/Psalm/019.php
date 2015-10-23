@@ -6,6 +6,6 @@ Tríbuat tibi secúndum cor tuum: * et omne consílium tuum confírmet.
 Lætábimur in salutári tuo: * et in nómine Dei nostri magnificábimur.
 Ímpleat Dóminus omnes petitiónes tuas: * nunc cognóvi quóniam salvum fecit Dóminus Christum suum.
 Exáudiet illum de cælo sancto suo: * in potentátibus salus déxteræ ejus.
-Hi in cúrribus, et hi in equis: * nos autem in nómine Dómini, Dei nostri invocábimus.
+Hi in cúrribus, et hi in equis: * nos autem in nómine Dómini, Dei nostri, invocábimus.
 Ipsi obligáti sunt, et cecidérunt: * nos autem surréximus et erécti sumus.
 Dómine salvum fac regem: * et exáudi nos in die, qua invocavérimus te.
