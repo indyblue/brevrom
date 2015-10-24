@@ -6,7 +6,7 @@ Exáudi me, Dómine, quóniam benígna est misericórdia tua: * secúndum multit
 Et ne avértas fáciem tuam a púero tuo: * quóniam tríbulor, velóciter exáudi me.
 Inténde ánimæ meæ, et líbera eam: * propter inimícos meos éripe me.
 Tu scis impropérium meum, et confusiónem meam, * et reveréntiam meam.
-In conspéctu tuo sunt omnes qui tríbulant me: * impropérium exspectávit cor meum, et misériam.
+In conspéctu tuo sunt omnes qui tríbulant me, * impropérium exspectávit cor meum, et misériam.
 Et sustínui qui simul contristarétur, et non fuit: * et qui consolarétur, et non invéni.
 Et dedérunt in escam meam fel: * et in siti mea potavérunt me acéto.
 Fiat mensa eórum coram ipsis in láqueum, * et in retributiónes, et in scándalum.

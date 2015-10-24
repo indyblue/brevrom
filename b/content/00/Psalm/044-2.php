@@ -1,6 +1,6 @@
 Psalmus 44 ii
 Audi, fília, et vide, et inclína aurem tuam: * et oblivíscere pópulum tuum, et domum patris tui.
-Et concupíscet Rex decórem tuum: * quóniam ipse est Dóminus Deus tuus, et adorábunt eum.
+Et concupíscet Rex decórem tuum: * quóniam ipse est Dóminus, Deus tuus, et adorábunt eum.
 Et fíliæ Tyri in munéribus * vultum tuum deprecabúntur: omnes dívites plebis.
 Omnis glória ejus fíliæ Regis ab intus, * in fímbriis áureis circumamícta varietátibus.
 Adducéntur Regi vírgines post eam: * próximæ ejus afferéntur tibi.

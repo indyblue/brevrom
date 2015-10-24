@@ -1,5 +1,5 @@
 Psalmus 48 i
-Audíte hæc, omnes Gentes: * áuribus percípite omnes, qui habitátis orbem:
+Audíte hæc, omnes gentes: * áuribus percípite omnes, qui habitátis orbem:
 Quique terrígenæ, et fílii hóminum: * simul in unum dives et pauper.
 Os meum loquétur sapiéntiam: * et meditátio cordis mei prudéntiam.
 Inclinábo in parábolam aurem meam: * apériam in psaltério propositiónem meam.

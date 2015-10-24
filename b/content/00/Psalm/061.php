@@ -6,7 +6,7 @@ Verúmtamen prétium meum cogitavérunt repéllere, cucúrri in siti: * ore suo 
 Verúmtamen Deo subjécta esto, ánima mea: * quóniam ab ipso patiéntia mea.
 Quia ipse Deus meus, et salvátor meus: * adjútor meus, non emigrábo.
 In Deo salutáre meum, et glória mea: * Deus auxílii mei, et spes mea in Deo est.
-Speráte in eo omnis congregátio pópuli, effúndite coram illo corda vestra: * Deus adjútor noster in ætérnum.
+Speráte in eo, omnis congregátio pópuli, effúndite coram illo corda vestra: * Deus adjútor noster in ætérnum.
 Verúmtamen vani fílii hóminum, mendáces fílii hóminum in statéris: * ut decípiant ipsi de vanitáte in idípsum.
 Nolíte speráre in iniquitáte, et rapínas nolíte concupíscere: * divítiæ si áffluant, nolíte cor appónere.
 Semel locútus est Deus, duo hæc audívi, quia potéstas Dei est, et tibi, Dómine, misericórdia: * quia tu reddes unicuíque juxta ópera sua.
