@@ -15,7 +15,7 @@ require 'psalm.php';
 require 'hymn.php';
 require 'lc.php';
 require 'feast_saints.php';
-
+require 'lectio.php';
 
 ?>
 

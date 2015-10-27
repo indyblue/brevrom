@@ -131,6 +131,9 @@ div.Head3 {
 	text-align:center;
 	font-style:italic;
 }
+div.Head3ni {
+	text-align:center;
+}
 div.Spacer {font-size:2pt;}
 div.Line {
 	font-size:2pt; 

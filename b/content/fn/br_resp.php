@@ -116,13 +116,18 @@ function brS($file,$PT=0,$style=0,$requiem=0) {
 function rm($file,$PT=0,$short=0,$requiem=0) {
 	$dir = $_GET['root'] . "/00/VR/";
 
-	$Lpieces = file_load($dir.$file);
-	$Epieces = file_load($dir.E($file));
+	if(is_array($file)) {
+		$Lpieces = $file[0];
+		$Epieces = $file[1];
+	} else {
+		$Lpieces = file_load($dir.$file);
+		$Epieces = file_load($dir.E($file));
+	}
 	
 	$iLfile = (int)(count($Lpieces));
 	$iEfile = (int)(count($Epieces));
 	if($iLfile<2 || $iEfile<$iLfile)
-		trigger_error('VR line count problem (' . $file . '). Latin: ' . $iLfile . ', English: ' . $iEfile, E_USER_ERROR);
+		trigger_error('<pre>VR line count problem (' . var_dump($file,1) . '). Latin: ' . $iLfile . ', English: ' . $iEfile .'</pre>', E_USER_ERROR);
 
 	if($requiem) {
 		$Lre = file_load($dir.'requiem_aeternam.php');

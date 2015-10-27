@@ -70,8 +70,8 @@ function feria($d, $class=3, $size=2) {
 		$class -= 10;
 		head('Quatuor Temporum','Ember Day',4);
 	}
-
-	head($clnameL[$class],$clnameE[$class], 5);
+	if($class>0)
+		head($clnameL[$class],$clnameE[$class], 5);
 }
 
 function head_sect($date, $class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {

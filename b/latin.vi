@@ -50,7 +50,7 @@ g/\v\c<[^aeëiouyæœáéíóúýǽ]{-}((au|[qg]u[aeëiouyæœáéíóúýǽ]|[a
 
 
 --- Accent Check ---
-\v\c<[^aeiouyæœ]{-}((au|[qg]u[aeiouyæœ]|[aeiouyæœ])[^aeiouyæœ]{-}){,2}>|<\k*[áéíóúýǽ]\k*>
+\v<[^aeiouyæœëAEIOUYÆŒ]{-}(([Aa][Uu]|[qgQG][Uu][aeiouyæœëAEIOUYÆŒ]|[aeiouyæœëAEIOUYÆŒ])[^aeiouyæœëAEIOUYÆŒ]{-}){,2}>|<\k*[áéíóúýǽœ́ǼÁÉÍÓÚÝ]\k*>
 
 --- Accent Check 2 ---
 %s/qu/q/ig | %s/gu/g/ig | %s/au/a/ig | %s/áu/á/ig | %s/iii/jjj/ig | /[aeiouyæœ][^ ,;:!?)aeëiouyæœáéíóúýǽ]*[aeiouyæœ][^ ,;:!?)aeëiouyæœáéíóúýǽ]*[aeiouyæœ][^ ,;:!?)aeëiouyæœáéíóúýǽ]*\>
