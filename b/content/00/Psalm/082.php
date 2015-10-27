@@ -1,6 +1,6 @@
 Psalmus 82
 Deus, quis símilis erit tibi? * Ne táceas, neque compescáris, Deus.
-Quóniam ecce inimíci tui sonuérunt: * et qui odérunt te extulérunt caput.
+Quóniam ecce inimíci tui sonuérunt: * et qui odérunt te, extulérunt caput.
 Super pópulum tuum malignavérunt consílium: * et cogitavérunt advérsus sanctos tuos.
 Dixérunt: Veníte, et disperdámus eos de gente: * et non memorétur nomen Israël ultra.
 Quóniam cogitavérunt unanímiter: * simul advérsum te testaméntum disposuérunt, tabernácula Idumæórum et Ismahelítæ:

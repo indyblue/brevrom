@@ -2,12 +2,12 @@ Psalmus 77 iii
 Et apposuérunt adhuc peccáre ei: * in iram excitavérunt Excélsum in inaquóso.
 Et tentavérunt Deum in córdibus suis, * ut péterent escas animábus suis.
 Et male locúti sunt de Deo: * dixérunt: Numquid póterit Deus paráre mensam in desérto?
-Quóniam percússit petram, et fluxérunt aquæ: * et torréntes inundavérunt.
+Quóniam percússit petram, et fluxérunt aquæ, * et torréntes inundavérunt.
 Numquid et panem póterit dare, * aut paráre mensam pópulo suo?
-Ídeo audívit Dóminus, et dístulit: * et ignis accénsus est in Jacob, et ira ascéndit in Israël.
-Quia non credidérunt in Deo: * nec speravérunt in salutári ejus:
-Et mandávit núbibus désuper: * et jánuas cæli apéruit.
-Et pluit illis manna ad manducándum: * et panem cæli dedit eis.
+Ídeo audívit Dóminus, et dístulit: * et ignis accénsus est in Jacob, et ira ascéndit in Israël:
+Quia non credidérunt in Deo, * nec speravérunt in salutári ejus:
+Et mandávit núbibus désuper, * et jánuas cæli apéruit.
+Et pluit illis manna ad manducándum, * et panem cæli dedit eis.
 Panem Angelórum manducávit homo, * cibária misit eis in abundántia.
 Tránstulit Austrum de cælo: * et indúxit in virtúte sua Áfricum.
 Et pluit super eos sicut púlverem carnes: * et sicut arénam maris volatília pennáta.
