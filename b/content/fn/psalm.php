@@ -6,7 +6,7 @@ function canticle($num, $part=0, $cross=0) {
 }
 
 function reading($num, $drop=1, $style2=1) {
-	psalm($num, 0, 0, $_GET['root'] . "/00/Canticle/",2,0,$drop,$style2);
+	psalm($num, 0, 0, $_GET['root'] . "/00/Canticle/",'2Cant',0,$drop,$style2);
 }
 
 function psref($num, $parts=0, $dir = false) {

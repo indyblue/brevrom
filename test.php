@@ -1,5 +1,11 @@
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<pre>
 <?php
 
+$t = 'c|De libro secúndo Machabæórum';
+$x = mb_split('\|',$t);
+var_export($x);
+exit;
 $file = './test.php';
 if(file_exists($file)) {
 	echo "$file<br/>";

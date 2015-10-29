@@ -1,6 +1,8 @@
 <?php 
 // error_reporting(E_ALL);
-ini_set('display_errors', 0);
+error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED);
+//ini_set('display_errors', 0);
+
 mb_internal_encoding('UTF-8');
 $_GET['htm'] = 1;
 $_GET['old'] = 1;

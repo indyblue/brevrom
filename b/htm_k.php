@@ -1,6 +1,8 @@
 <?php 
 // error_reporting(E_ALL);
-ini_set('display_errors', 0);
+error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED);
+//ini_set('display_errors', 0);
+
 mb_internal_encoding('UTF-8');
 $kindle=1;
 $_GET['htm'] = 1;
@@ -169,10 +171,10 @@ $txtContent = preg_replace($regex,$repl,$txtContent);
 
 //	'/(<div class="Head1">)(?:.(?!<\/div>))*.</div>[^<]*.<div class="Head5">((?:.(?!<\/div>))*.</div>)/i',
 
-$idx = "<div class='Index'>\n";
+$idx = "<div style='text-align:left;' class='Index'>\n";
 $idxc = 1;
 if(!isset($idxtype)) $idxtype = 'Head[12]';
-if(preg_match('/^5PropS.*/i',$_GET["url"])) $idxtype = 'Head1NI';
+if(preg_match('/^5PropS.*/i',$_GET["url"])) $idxtype = 'Head(?:1NI|2)';
 $txtContent = preg_replace_callback(
 	'/(<div class="'.$idxtype.'">)((?:.(?!<\/div>))*.)(<\/div>(?:<div class="Head4">[^-<]*-(?:[^-<]*-)?\s*([^-<]*)<)?)/i',
 	"fn_index",
@@ -184,7 +186,26 @@ function fn_index($matches) {
 	//var_dump($matches);
 	$saintdate = '';
 	if(count($matches)>4) $saintdate = $matches[4].' - ';
-	$idx .= "<a href='#index_loc_$idxc'>$saintdate$matches[2]</a><br/>\n";
+	$shorts = [ "Feria Secunda"=>'II', "Feria Tertia"=>'III', 
+		"Feria Quarta"=>'IV', "Feria Quinta"=>'V', 
+		"Feria Sexta"=>'VI', "Sabbato"=>'Sab.',
+		"ad I Vésperas"=>"1V",
+		"ad Laudes"=>"L",
+		"ad Primam"=>"P",
+		"ad Tértiam"=>"T",
+		"ad Sextam"=>"S",
+		"ad Nonam"=>"N",
+		"ad II Vésperas"=>"2V",
+		"ad Vésperas"=>"V",
+		];
+	
+	if(isset($shorts[$matches[2]])) {
+			$idx = preg_replace('/<br.?>$/i', ' - ', $idx);
+			$repl = $shorts[$matches[2]];
+			$idx .= " <a href='#index_loc_$idxc'>$repl</a><br/>";
+	} else {
+		$idx .= "<a href='#index_loc_$idxc'>$saintdate$matches[2]</a><br/>\n";
+	}
 	$retval = "$matches[1]<a name='index_loc_$idxc'/>$matches[2]$matches[3]";
 	$idxc++;
 	return $retval;
