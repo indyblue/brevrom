@@ -1,8 +1,8 @@
 <?php
+  	bookmark('csCB');
 	space();
 	img('separator3.png',100);
 	space('RubricH');
-  	bookmark('csCB');
 	head('Commune Confessoris Pontificis',
 		'Common of Bishop Confessor',1,
 		'Common of Saints','Bishop Confessors');

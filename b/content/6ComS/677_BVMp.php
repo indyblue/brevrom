@@ -3,10 +3,10 @@
 	$weekly = $_GET['weekly'];
 	$old = $_GET['old'];
 
+	bookmark('csBVMp');
 	space();
 	img('Saints/0908_nativity_of_bvm.png',100);
 	space('RubricH');
-	bookmark('csBVMp');
 	head('Officium parvum B. Mariæ Virginis',
 		'Little Office of the Bl. Virgin Mary',1,
 		'Little Office BVM');

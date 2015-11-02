@@ -2,8 +2,10 @@
 <pre>
 <?php
 
-$t = 'c|De libro secúndo Machabæórum';
-$x = mb_split('\|',$t);
+$t = '  
+asdf|De libro asdf secúndo Machabæórum';
+$x = preg_split('/^\s*(asdf)/',$t,2, PREG_SPLIT_DELIM_CAPTURE);
+//$x = mb_split('\|',$t);
 var_export($x);
 exit;
 $file = './test.php';

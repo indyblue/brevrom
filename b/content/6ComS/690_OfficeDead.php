@@ -3,12 +3,12 @@
 	$matins = $_GET['matins'];
 	$old = $_GET['old'];
 	$htm = $_GET['htm'];
+	bookmark('offDef');
 
 	space('PgB');
 	space();
 	img('sanctus.png',100);
 	space('RubricH');
-	bookmark('offDef');
 	head('Officium Defunctorum',
 		'Office of the Dead',1,
 		'Office of the Dead');

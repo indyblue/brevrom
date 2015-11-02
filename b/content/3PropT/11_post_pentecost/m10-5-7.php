@@ -97,9 +97,8 @@ lectio($l1, $e1);
 rm([$l1r,$e1r],0,1);
 
 lectio($l2, $e2);
-rm([$l2r,$e2r],0,1);
+rm([$l2r,$e2r],0,0);
 
-rubp('Lectio iii de Officio festi aut S. Mariæ in sabbato',
-	'Lesson iii of the Office of the feast, or of the Saturday of Bl. Mary');
+rubrics('de_officio_festi_vel_bvm_sat_lectio3.php');
 
 ?>

@@ -92,7 +92,7 @@ $e2 = ['lr|2|Chap. 7, 28-33',
       tormentor, but, being worthy of thy brethren, take thy death that I may 
       receive thee again in mercy with thy brethren.  Whiles she was yet 
       speaking these words, the young man said, Whom wait ye for? I will not 
-      obey the king\'s commandment: but I will obey the commandment of the law 
+      obey the king’s commandment: but I will obey the commandment of the law 
       that was given unto our fathers by Moses.  And thou, that hast been 
       the author of all mischief against the Hebrews, shalt not escape the hands 
       of God.  For we suffer because of our sins.  And though the 
@@ -109,7 +109,7 @@ $e3 = ['lr|3|Chap. 7, 34-41',
       be not lifted up without a cause, nor puffed up with uncertain hopes, 
       lifting up thy hand against the servants of God: for thou hast not yet 
       escaped the judgment of Almighty God, who seeth all things.  For our 
-      brethren, who now have suffered a short pain, are dead under God\'s 
+      brethren, who now have suffered a short pain, are dead under God’s 
       covenant of everlasting life: but thou, through the judgment of God, shalt 
       receive just punishment for thy pride.  But I, as my brethren, offer 
       up my body and life for the laws of our fathers, beseeching God that he 
@@ -130,6 +130,7 @@ $e3r = ['They praised the Lord with Psalms and
 /******************************* CODE **************************************/
 lectio($l1, $e1);
 rm([$l1r,$e1r],0,1);
+rubrics('lectio_2_3.php');
 
 lectio($l2, $e2);
 rm([$l2r,$e2r],0,1);

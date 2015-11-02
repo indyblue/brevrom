@@ -72,7 +72,7 @@ $e1 = ['c|From the Latter Book of Maccabees',
       holding forth his hands manfully.  And said courageously, These I had 
       from heaven; and for his laws I despise them; and from him I hope to 
       receive them again.  Insomuch that the king, and they that were with 
-      him, marvelled at the young man\'s courage, for that he nothing regarded 
+      him, marvelled at the young man’s courage, for that he nothing regarded 
       the pains.'];
 $e1r = ['This is a lover of the brethren, and of the 
       people of Israel: *  This is one who 
@@ -112,7 +112,7 @@ $e3 = ['lr|3|Chap. 7, 20-23',
       I that formed the members of every one of you; but doubtless the Creator 
       of the world, who formed the generation of man, and found out the 
       beginning of all things, will also of his own mercy give you breath and 
-      life again, as ye now regard not your own selves for his laws\' sake.'];
+      life again, as ye now regard not your own selves for his laws’ sake.'];
 $e3r = ['Open thine eyes, O Lord, and behold our 
       affliction: for the heathen are come round about us to punish us:
       * But thou, O Lord, stretch forth thine arm, 
@@ -123,6 +123,7 @@ $e3r = ['Open thine eyes, O Lord, and behold our
 /******************************* CODE **************************************/
 lectio($l1, $e1);
 rm([$l1r,$e1r],0,1);
+rubrics('lectio_2_3.php');
 
 lectio($l2, $e2);
 rm([$l2r,$e2r],0,1);

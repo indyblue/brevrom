@@ -1,0 +1,107 @@
+<html>
+<head>
+<title>Latin Diff</title>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<style type="text/css">
+h1,h3 { text-align:center; }
+body{
+	background-color:#ffffff;
+	padding:2em;
+}
+#left {
+	width:50%;
+	height:10em;
+}
+#right {
+	float:right;
+	width:50%;
+	height:10em;
+}
+.rb {
+	background-color: red;
+	font-weight:bold;
+}
+</style>
+</head>
+<body>
+<button onclick='convert("htmlbox")'>convert</button><br/><br/>
+<div>
+<textarea id='left'></textarea>
+<textarea id='right'></textarea>
+</div>
+<br/><br/><hr/><br/>
+<div class='html' id='diffout'>asdf</div>
+
+<script type='text/javascript'>
+
+var l = document.getElementById('left');
+var r = document.getElementById('right');
+var o = document.getElementById('diffout');
+
+var repl = function(s) {
+	t = s.toLowerCase()
+		.replace(/æ/gi,'ae')
+		.replace(/ǽ/gi,'ae')
+		.replace(/œ́/gi,'oe')
+		.replace(/œ/gi,'oe')
+		.replace(/ë/gi,'e')
+		.replace(/á/gi,'a')
+		.replace(/é/gi,'e')
+		.replace(/í/gi,'i')
+		.replace(/ó/gi,'o')
+		.replace(/ú/gi,'u')
+		.replace(/ý/gi,'y');
+	t = t.replace(/­/g, '');
+	t = t.replace(/[0-9]/gi,'');
+	t = t.replace(/[^a-zA-Z0-9]+/gi,' ');
+	t = t.replace(/^[^a-zA-Z]+/gi,'');
+	return t;
+};
+var fnch = function() {
+	outi = [];
+	outj = [];
+	lt = repl(l.value);
+	rt = repl(r.value);
+	lta = lt.split(' ');
+	rta = rt.split(' ');
+	var j = 0;
+	for(var i=0;i<Math.max(lta.length, rta.length); i++) {
+		var it = "";
+		var jt = "";
+		if(lta.length>i) it = lta[i];
+		if(rta.length>i) jt = rta[i];
+		if(it==jt) {
+			outi.push(it);
+			outj.push(jt);
+		}
+		else {
+			outi.push("<span class='rb'>"+it+"</span>");
+			outj.push("<span class='rb'>"+jt+"</span>");
+		}
+	}
+	o.innerHTML = outi.join(' ') + "<hr>" + outj.join(' ');
+};
+l.onchange = fnch;
+r.onchange = fnch;
+
+/*
+	function convert(t) {
+		var input = 'textile';
+		if(typeof(t)=="string") input = t;
+		console.log('start ' + input);
+		var tt = document.getElementById(input);
+		var ttText = tt.innerHTML;
+		if(tt.tagName.toUpperCase()=="TEXTAREA") ttText = tt.value;
+		var outh = document.getElementById('htmlout');
+		var outb = document.getElementById('outbox');
+		outh.innerHTML = textileToHtml(ttText);
+		outb.value = textileToHtml(ttText);
+		console.log('done');
+	}
+	window.onload = convert;
+*/
+</script>
+
+</body>
+</html>
+

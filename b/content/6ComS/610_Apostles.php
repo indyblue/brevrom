@@ -1,9 +1,9 @@
 <?php
+	bookmark('csAp');
 	space('P181');
 	space();
 	img('separator3.png',100);
 	space('RubricH');
-	bookmark('csAp');
 	head('Commune Apostolorum',
 		'Common of Apostles',1,
 		'Common of Saints','Apostles');

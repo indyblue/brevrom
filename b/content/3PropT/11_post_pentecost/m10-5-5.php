@@ -7,7 +7,7 @@ $l1 = ['c|De libro secúndo Machabæórum',
 		'lr|1|Cap. 9, 1-4',
 		'Eódem témpore Antíochus 
       inhonéste revertebátur de Pérside.  Intráverat enim in eam quæ 
-      dícitur Persépolis, et tantávit exspoliáre templum et civitátem opprímere; 
+      dícitur Persépolis, et tentávit exspoliáre templum et civitátem opprímere; 
 		sed, multitúdine ad arma concurrénte, in fugam versi sunt, et ita 
       cóntigit ut Antíochus post fugam túrpiter redíret.  Et, cum venísset 
       circa Ecbátanam, recognóvit quæ erga Nicánorem et Timótheum gesta sunt.  
@@ -78,7 +78,7 @@ $e2 = ['lr|2|Chap. 9, 5-7',
       with an incurable and invisible plague: or as soon as he had spoken these 
       words, a pain of the bowels that was remediless came upon him, and sore 
       torments of the inner parts; and that most justly: for he had tormented 
-      other men\'s bowels with many and strange torments.  Howbeit he 
+      other men’s bowels with many and strange torments.  Howbeit he 
       nothing at all ceased from his bragging, but still was filled with pride, 
       breathing out fire in his rage against the Jews, and commanding to haste 
       the journey: but it came to pass that he fell down from his chariot, 
@@ -111,6 +111,7 @@ $e3r = ['Our enemies are gathered together, and make
 /******************************* CODE **************************************/
 lectio($l1, $e1);
 rm([$l1r,$e1r],0,1);
+rubrics('lectio_2_3.php');
 
 lectio($l2, $e2);
 rm([$l2r,$e2r],0,1);

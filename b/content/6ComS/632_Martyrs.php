@@ -1,9 +1,9 @@
 <?php 
+	bookmark('csMm');
 
 	space('Body');
 	img('separator3.png',100);
 	space('RubricH');
-	bookmark('csMm');
 	head('Commune Plurimorum Martyrum',
 		'Common of Several Martyrs',1,
 		'Common of Saints','Several Martyrs');

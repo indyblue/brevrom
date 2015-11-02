@@ -41,6 +41,10 @@ if($matins) {
 	ant('Psalter/3Tue/0M.php','000000001');
 	space();
 	vrS('deus_ne_sileas_a_me_remitte_mihi.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n2a_ipsius_pietas.php','A');
 
 
 	space();
@@ -178,7 +182,7 @@ if($matins) {
 	rubrics('head/HymnVerse.php');
 	hymn('telluris_alme_conditor.php');
 	vrS('Ord/dirigatur_domine_oratio_mea.php');
-	ant('Psalter/3Tue/6m.php','B');
+	ant('Psalter/3Tue/6m.php','M');
 	dayhourE(3,'V');
 
 	space();

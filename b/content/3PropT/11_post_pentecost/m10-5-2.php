@@ -62,7 +62,7 @@ $e1 = ['c|From the Latter Book of Maccabees',
 		'lr|1|Chap. 6, 18-22',
 		'Eleazar, one of the principal scribes, an aged man, and 
       of a well favoured countenance, was constrained to open his mouth, and to 
-      eat swine\'s flesh.  But he, choosing rather to die gloriously, than 
+      eat swine’s flesh.  But he, choosing rather to die gloriously, than 
       to live stained with such an abomination, spit it forth, and came of his 
       own accord to the torment, as it behoved them to come, that are resolute 
       to stand out against such things, as are not lawful for love of life to be 
@@ -104,7 +104,7 @@ $e2r = ['They decked the forefront of the temple with crowns of gold, and dedica
 $e3 = ['lr|3|Chap. 7, 1-5',
 	'It came to pass also, that seven brethren with their 
       mother were taken, and compelled by the king against the law to taste 
-      swine\'s flesh, and were tormented with scourges and whips.  But one 
+      swine’s flesh, and were tormented with scourges and whips.  But one 
       of them that spake first said thus, What wouldest thou ask or learn of us? 
       we are ready to die, rather than to transgress the laws of our fathers.  
       Then the king, being in a rage, commanded pans and caldrons to be made 
@@ -122,7 +122,7 @@ $e3r = ['They praised the Lord with Psalms and thanksgiving, * Who had done so g
 /******************************* CODE **************************************/
 lectio($l1, $e1);
 rm([$l1r,$e1r],0,1);
-
+rubrics('lectio_2_3.php');
 lectio($l2, $e2);
 rm([$l2r,$e2r],0,1);
 

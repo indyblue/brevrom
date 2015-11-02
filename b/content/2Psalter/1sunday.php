@@ -45,6 +45,10 @@ if($matins) {
 	multiant(1,0,'000000001');
 	space();
 	vrS('praevenerunt_oculi_mei_ad_te_diluculo.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n1a_exaudi_domine.php','A');
 
 	space();
 	img(); 

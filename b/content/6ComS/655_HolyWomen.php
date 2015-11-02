@@ -1,9 +1,9 @@
 <?php
+	bookmark('csHW');
 
 	space('Body');
 	img('separator3.png',100);
 	space('RubricH');
-	bookmark('csHW');
 	head('Commune non Virginum',
 		'Common of Holy Women',1,
 		'Common of Saints','Holy Women');

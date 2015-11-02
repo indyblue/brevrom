@@ -40,6 +40,10 @@ if($matins) {
 	ant('Psalter/5Thu/0M.php','000000001');
 	space();
 	vrS('laudabo_nomen_dei_cum_cantico.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n1a_exaudi_domine.php','A');
 
 	space();
 	img();

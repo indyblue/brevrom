@@ -41,6 +41,25 @@ if($matins) {
 	space();
 	vrS('exaltent_eum_in_ecclesia_plebis.php');
 
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n3a_a_vinculis.php','A');
+/*
+	rubp('In festis Sanctorum', 'On feasts of Saints');
+	ant('Matins/sb1_ille_nos_benedicat.php','b');
+	ant('Matins/sb2_cujus.php','b');
+	ant('Matins/n3b3_ad_societatem.php','b');
+*/
+	space();
+	rubp('In Officio S. Mariae in sabbato', 'In the Saturday office of Our Lady');
+	ant('Matins/bvm_n1a_precibus.php','A');
+/*
+	ant('Matins/bvm_n1b1_nos_cum_prole.php','b');
+	ant('Matins/bvm_n1b2_ipsa_virgo.php','b');
+	ant('Matins/bvm_n1b3_per_virginem_matrem.php','b');
+*/
+
 	space();
 	img();
 }

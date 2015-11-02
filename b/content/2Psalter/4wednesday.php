@@ -43,6 +43,10 @@ if($matins) {
 
 	space();
 	vrS('auditui_meo_dabis_gaudium_et_laetitiam.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n3a_a_vinculis.php','A');
 	space();
 
 	head('II','II',4);
@@ -58,6 +62,10 @@ if($matins) {
 	ant('Psalter/4Wed/0M2.php','001');
 	space();
 	vrS('sacrificium_laudis_honorificabit_me.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n3a_a_vinculis.php','A');
 
 
 	space();

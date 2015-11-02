@@ -27,9 +27,14 @@
 function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 	$dir = $_GET['root'] . "/00/Antiphon/";
 
-	$Lpieces = file_load($dir.$file);
-	$Epieces = file_load($dir.E($file));
-	
+	if(is_array($file)) {
+		$Lpieces = $file[0];
+		$Epieces = $file[1];
+	} else {
+		$Lpieces = file_load($dir.$file);
+		$Epieces = file_load($dir.E($file));
+	}
+
 	$iLfile = (int)(count($Lpieces));
 	$iEfile = (int)(count($Epieces));
 	$iSpec = (int)(strlen($incs));
@@ -118,7 +123,7 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 					head('In II Nocturno','II Nocturn',-2);
 					$ast=1; $ant='<sr>Ant '. ($j) .'.</s> ';
 				} elseif($j==7) {
-					if(strpos($file,'4Wed')>0) {
+					if(is_string($file) && strpos($file,'4Wed')>0) {
 						if(strpos($file,'0M2')>0) 
 							head('In III Nocturno (II)','III Nocturn (II)',-2);
 						else
@@ -128,6 +133,10 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 					$ast=1; $ant='<sr>Ant '. ($j) .'.</s> ';
 				} else
 					trigger_error('Misplaced nocturn: ' . $file, E_USER_ERROR);
+			} elseif($inc=='b') {
+				$ast=0; $ant='<sr>Bened.</s> '; $ante = '<sr>Bened.</s> ';
+			} elseif($inc=='A') {
+				$ast=0; $ant='<sr>Absol.</s> '; $ante = '<sr>Absol.</s> ';
 			}
 					
 			if(!$ast) {
@@ -156,6 +165,60 @@ function ant($file, $incs='*', $PT=0, $nameL='', $nameE='',$sm=0) {
 		}
 	}
 	echo "</table>\n";
+}
+
+function antV($file, $ps=[109,110,111,112,116]) {
+	if(is_numeric($ps))
+		$ps = [109,110,111,112,$ps];
+	ant($file,'20000');
+	psalm($ps[0]);
+	space('Spacer');
+	ant($file,'12000');
+	psalm($ps[1]);
+	space('Spacer');
+	ant($file,'01200');
+	psalm($ps[2]);
+	space('Spacer');
+	ant($file,'00120');
+	psalm($ps[3]);
+	space('Spacer');
+	ant($file,'00012');
+	psalm($ps[4]);
+	space('Spacer');
+	ant($file,'00001');
+}
+
+function antL($file) {
+	$ps = [92,99,62,'threechildren.php',148];
+	ant($file,'20000');
+	psalm($ps[0]);
+	space('Spacer');
+	ant($file,'12000');
+	psalm($ps[1]);
+	space('Spacer');
+	ant($file,'01200');
+	psalm($ps[2]);
+	space('Spacer');
+	ant($file,'00120');
+	canticle($ps[3]);
+	space('Spacer');
+	ant($file,'00012');
+	psalm($ps[4]);
+	space('Spacer');
+	ant($file,'00001');
+}
+
+function antM($n, $file, $ps) {
+	$pre= str_repeat('0',($n-1)*3);
+	$post= str_repeat('0',(3-$n)*3);
+	ant($file,$pre.'N00'.$post);
+	psalm($ps[0]);
+	ant($file,$pre.'120'.$post);
+	psalm($ps[1]);
+	ant($file,$pre.'012'.$post);
+	psalm($ps[2]);
+	ant($file,$pre.'001'.$post);
+
 }
 
 function multiant($day, $hour, $incs='*') {

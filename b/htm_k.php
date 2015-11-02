@@ -171,25 +171,38 @@ $txtContent = preg_replace($regex,$repl,$txtContent);
 
 //	'/(<div class="Head1">)(?:.(?!<\/div>))*.</div>[^<]*.<div class="Head5">((?:.(?!<\/div>))*.</div>)/i',
 
+/************** ADD INDEX ********************************/
 $idx = "<div style='text-align:left;' class='Index'>\n";
 $idxc = 1;
 if(!isset($idxtype)) $idxtype = 'Head[12]';
 if(preg_match('/^5PropS.*/i',$_GET["url"])) $idxtype = 'Head(?:1NI|2)';
+$show2 = true;
+if(preg_match('/^1Ordinary.*/i',$_GET["url"])) $show2 = false;
+
+$shortb = false;
+if(preg_match('/^(?:3PropT|5PropS).*/i',$_GET["url"])) $shortb=true;
+
+$divloc = mb_strlen($idx);
+$psloc = -1;
 $txtContent = preg_replace_callback(
-	'/(<div class="'.$idxtype.'">)((?:.(?!<\/div>))*.)(<\/div>(?:<div class="Head4">[^-<]*-(?:[^-<]*-)?\s*([^-<]*)<)?)/i',
+	'/(?<ot><div class="(?<cl>'.$idxtype.')">)(?<txt>(?:.(?!<\/div>))*.)(?<ct><\/div>(?:<div class="Head4">[^-<]*-(?:[^-<]*-)?\s*(?<t2>[^-<]*)<)?)/i',
 	"fn_index",
 	$txtContent);
 
 function fn_index($matches) {
-	global $idx, $idxc;
+	global $idx, $idxc, $shortb, $show2, $psloc;
 	//echo "$matches[0]";
 	//var_dump($matches);
 	$saintdate = '';
-	if(count($matches)>4) $saintdate = $matches[4].' - ';
+	if(isset($matches['t2'])) $saintdate = $matches['t2'].' - ';
 	$shorts = [ "Feria Secunda"=>'II', "Feria Tertia"=>'III', 
 		"Feria Quarta"=>'IV', "Feria Quinta"=>'V', 
 		"Feria Sexta"=>'VI', "Sabbato"=>'Sab.',
 		"ad I Vésperas"=>"1V",
+		"ad Matutínum"=>"M",
+		"In I Nocturno"=>"N1",
+		"In II Nocturno"=>"N2",
+		"In III Nocturno"=>"N3",
 		"ad Laudes"=>"L",
 		"ad Primam"=>"P",
 		"ad Tértiam"=>"T",
@@ -198,20 +211,37 @@ function fn_index($matches) {
 		"ad II Vésperas"=>"2V",
 		"ad Vésperas"=>"V",
 		];
-	
-	if(isset($shorts[$matches[2]])) {
-			$idx = preg_replace('/<br.?>$/i', ' - ', $idx);
-			$repl = $shorts[$matches[2]];
-			$idx .= " <a href='#index_loc_$idxc'>$repl</a><br/>";
-	} else {
-		$idx .= "<a href='#index_loc_$idxc'>$saintdate$matches[2]</a><br/>\n";
+	if($matches['txt']=='Pars Specialis') {
+		$show2 = true;
+		$shortb = true;
+		$psloc = mb_strlen($idx);
 	}
-	$retval = "$matches[1]<a name='index_loc_$idxc'/>$matches[2]$matches[3]";
-	$idxc++;
-	return $retval;
+
+	if($matches['cl']!='Head2' || $show2) {
+		if($shortb && isset($shorts[$matches['txt']])) {
+				$idx = preg_replace('/<br.?>$/i', ' - ', $idx);
+				$repl = $shorts[$matches['txt']];
+				$idx .= " <a href='#index_loc_$idxc'>$repl</a><br/>";
+		} else {
+			$idx .= "<a href='#index_loc_$idxc'>$saintdate{$matches['txt']}</a><br/>\n";
+		}
+		$retval = "{$matches['ot']}<a name='index_loc_$idxc'/>{$matches['txt']}{$matches['ct']}";
+		$idxc++;
+		return $retval;
+	}
+	else return;
 }
 $idx .= "</div>\n";
+//echo $divloc, $psloc;
 
+if($psloc>0) {
+	$txtContent = preg_replace('/(<a[^>]*name="orSeason".*?<.div>)/i', 
+	'\1' . mb_substr($idx, 0, $divloc) . mb_substr($idx, $psloc), $txtContent);
+}
+
+
+
+/************** FIX CROSS-PAGE LINKS ********************************/
 function fn_links($m) {
 	global $links, $lang;
 	$retval = $m[0];
@@ -225,9 +255,16 @@ function fn_links($m) {
 }
 $txtContent = preg_replace_callback('/(?<=href=")[^"]*(?=")/i', 'fn_links', $txtContent);
 
+/************** HYPHENATION AND ECHO PAGE TEXT **************************/
 $html2 = "\n</div></body></html>\n";
 
-$html = $html1 . $idx . $txtContent . $html2;
+$txta = preg_split('/^\s*(<div[^>]*>\s*<a[^>]*>\s*<.a>\s*<.div>)/',$txtContent,2, PREG_SPLIT_DELIM_CAPTURE);
+//var_dump($x);
+
+if(count($txta)==3) 
+	$html = $html1 . $txta[1] . $idx . $txta[2] . $html2;
+else
+	$html = $html1 . $idx . $txtContent . $html2;
 // handle hyphenation
 //*
 if(!isset($_REQUEST['h']) || $_REQUEST['h']!=0) {

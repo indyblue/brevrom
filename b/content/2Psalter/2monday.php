@@ -40,6 +40,10 @@ if($matins) {
 	ant('Psalter/2Mon/0M.php','000000001');
 	space();
 	vrS('psallite_domino_sancti_ejus.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n1a_exaudi_domine.php','A');
 
 	space();
 	img();

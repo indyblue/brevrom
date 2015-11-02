@@ -1,8 +1,8 @@
 <?php
+	bookmark('csApPT');
 	space();
 	img('separator3.png',100);
 	space('RubricH');
-	bookmark('csApPT');
 	head('Commune Apostolorum aut Martyrum PT',
 		'Common of Apostles or Martyrs PT',1,
 		'Common of Saints','Apostles/Martyrs PT');

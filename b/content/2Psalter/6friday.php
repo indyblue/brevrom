@@ -40,6 +40,10 @@ if($matins) {
 	ant('Psalter/6Fri/0M.php','000000001');
 	space();
 	vrS('cognoscant_quia_nomen_tibi_dominus.php');
+	vr('pater_silent_vr.php');
+
+	space();
+	ant('Matins/n2a_ipsius_pietas.php','A');
 
 	space();
 	img();

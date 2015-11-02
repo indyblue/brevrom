@@ -1,9 +1,9 @@
 <?php
+	bookmark('csChurch');
 
 	space('Body');
 	img('CS/01_dedication_of_church.png',100);
 	space('RubricH');
-	bookmark('csChurch');
 	head('Commune Dedicationis Ecclesiæ',
 		'Common of the Dedication of a Church',1,
 		'Common of Saints','Dedication of a Church');

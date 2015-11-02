@@ -10,6 +10,9 @@
 	rubp('Hoc in casu, de Scriptura occurrenti omittitur illa pars quæ primæ et secundæ hebdomadæ assignata est.', 'In that case, that part of the occuring Scripture is omitted which is assigned to the first and and second week.');
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',0,'1V');
 	ant('prTemp/post_pentecost/m11w10.php','M');
+
+	include 'm11-1-1.php';
+	include 'm11-1-2.php';
 	space();
 
 	head('Dominica II Novembris', 'Second Sunday of November',2);

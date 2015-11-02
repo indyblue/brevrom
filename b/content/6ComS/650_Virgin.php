@@ -1,9 +1,9 @@
 <?php
+	bookmark('csV');
 
 	space();
 	img('separator3.png',100);
 	space('RubricH');
-	bookmark('csV');
 	head('Commune Virginum',
 		'Common of Virgins',1,
 		'Common of Saints','Virgins');

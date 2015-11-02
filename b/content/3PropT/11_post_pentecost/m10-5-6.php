@@ -28,7 +28,8 @@ $l2 = ['lr|2|Cap. 10, 24-27',
       congregáto equitátu Asiáno, advénit quasi armis Judǽam captúrus.  
       Machabǽus autem et qui cum ipso erant, appropinquánte illo, deprecabántur 
       Dóminum caput terra aspergéntes lumbósque cilíciis præcíncti, ad altáris 
-      crepídinem provolúti, ut sibi propítius, inimícis et adversáriis 
+      crepídinem provolúti, ut sibi propítius, inimícis 
+		autem eórum esset inimícus et adversáriis 
       adversarétur sicut lex dicit.  Et ita post oratiónem, sumptis armis, 
       lóngius de civitáte procedéntes et próximi hóstibus effécti resedérunt.'];
 $l2r = ['Congregátæ sunt Gentes in multitúdine, ut 
@@ -43,7 +44,7 @@ $l3 = ['lr|3|Cap. 10, 28-32',
       virtúte Dóminum habéntes, illi autem ducem belli ánimum habébant.  
       Sed, cum véhemens pugna esset, apparuérunt adversáriis de cælo viri 
       quinque in equis, frenis áureis decóri, ducátum Judǽis præstántes; ex 
-      quibus duo Machabǽum médium habéntes armis suis circumséptum incólumen 
+      quibus duo Machabǽum médium habéntes armis suis circumséptum incólumem 
       conservábant, in adversários autem tela et fúlmina jaciébant, ex quo et 
       cæcitáte confúsi et repléti perturbatióne cadébant.  Interfécti sunt 
       autem vigínti míllia quingénti et équites sexcénti.  Timótheus vero 
@@ -116,6 +117,7 @@ $e3r = ['Thine, O Lord, is the power, thine is the
 /******************************* CODE **************************************/
 lectio($l1, $e1);
 rm([$l1r,$e1r],0,1);
+rubrics('lectio_2_3.php');
 
 lectio($l2, $e2);
 rm([$l2r,$e2r],0,1);

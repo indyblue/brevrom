@@ -1,8 +1,8 @@
 <?php
+	bookmark('csPope');
 	space('Body');
 	img('separator3.png',100);
 	space('RubricH');
-	bookmark('csPope');
 	head('Commune Unius aut Plurium Summorum Pontificum',
 		'Common of One or Many Supreme Pontiffs',1,
 		'Common of Saints','Pope(s)');

@@ -1,9 +1,9 @@
 <?php
+	bookmark('csBVM');
 
 	space('Body');
 	img('Saints/0908_nativity_of_bvm.png',100);
 	space('RubricH');
-	bookmark('csBVM');
 	head('Commune Festorum Beatæ Mariæ Virginis',
 		'Common of Feasts of the Bl. Virgin Mary',1,
 		'Common of Saints','Bl. Virgin Mary');
