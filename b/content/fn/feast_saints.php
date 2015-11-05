@@ -392,6 +392,11 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		if($class>0 && $lent!=1)
 			csref($cs, $psF, $csOpt);
 	
+		// if matins file exists...
+		$mfile = "content/5PropS/{$date}m.php";
+		if(file_exists($mfile))
+			include "$mfile";
+		
 		// lauds v/r & ant
 		if($class==0 || $lent==1) {
 			if($pta==2 && strlen($LantP)>0) {

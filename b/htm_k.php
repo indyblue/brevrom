@@ -210,6 +210,7 @@ function fn_index($matches) {
 		"ad Nonam"=>"N",
 		"ad II Vésperas"=>"2V",
 		"ad Vésperas"=>"V",
+		"ad Completórium"=>"C"
 		];
 	if($matches['txt']=='Pars Specialis') {
 		$show2 = true;

@@ -13,6 +13,11 @@
 
 	include 'm11-1-1.php';
 	include 'm11-1-2.php';
+	include 'm11-1-3.php';
+	include 'm11-1-4.php';
+	include 'm11-1-5.php';
+	include 'm11-1-6.php';
+	include 'm11-1-7.php';
 	space();
 
 	head('Dominica II Novembris', 'Second Sunday of November',2);
@@ -24,6 +29,14 @@
 	head('II classis', 'II class',5);
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',3,'1V');
 	ant('prTemp/post_pentecost/m11w30.php','M');
+
+	include 'm11-3-1.php';
+	include 'm11-3-2.php';
+	include 'm11-3-3.php';
+	include 'm11-3-4.php';
+	include 'm11-3-5.php';
+	include 'm11-3-6.php';
+	include 'm11-3-7.php';
 	space();
 
 	head('Dominica IV Novembris', 'Fourth Sunday of November',2);

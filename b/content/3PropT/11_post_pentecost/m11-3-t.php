@@ -1,6 +1,6 @@
 <?php
 space();
-feria(2,4);
+feria(4,4);
 
 /*
 %s/<\_[^>]*>//eig | %s/&nbsp;/ /eig
@@ -12,31 +12,34 @@ feria(2,4);
 lions’
 */
 
+$cap1 = '9, 1-5';
+$cap2 = '9, 21-27';
+$cap3 = '9, 21-27';
 /******************************* LATINA **************************************/
-$l1 = ['c|Incipit liber Ezechiélis Prophétæ',
-		'lr|1|Cap. 1, 1-4',
+$l1 = ['c|De Daniéle Prophéta',
+		"lr|1|Cap. $cap1",
 		''];
 $l1r = [''];
 
-$l2 = ['lr|2|Cap. 1, 5-12',
+$l2 = ["lr|2|Cap. $cap2",
 		''];
 $l2r = [''];
 
-$l3 = ['lr|3|Cap. 7, 20-23',
+$l3 = ["lr|3|Cap. $cap3",
 		''];
 $l3r = [''];
 
 /******************************* ENGLISH **************************************/
-$e1 = ['c|From the Book of Ezekiel the Prophet',
-		'lr|1|Chap. 1, 1-4',
+$e1 = ['c|From Daniel the Prophet',
+		"lr|1|Chap. $cap1",
 		''];
 $e1r = [''];
 
-$e2 = ['lr|2|Chap. 1, 5-12',
+$e2 = ["lr|2|Chap. $cap2",
 		''];
 $e2r = [''];
 
-$e3 = ['lr|3|Chap. 7, 20-23',
+$e3 = ["lr|3|Chap. $cap3",
 		''];
 $e3r = [''];
 
