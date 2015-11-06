@@ -30,6 +30,9 @@ body{
 .gh {
 	background-color:#afa;
 }
+.hilight {
+	border:3px solid black;
+}
 </style>
 </head>
 <body>
@@ -50,6 +53,7 @@ var oplain = document.getElementById('out2');
 var kinput = document.getElementById('kchoose');
 
 kinput.onkeyup = fnkeychooser;
+kinput.onclick = fnBoxHilight;
 /*
 æǽ œœ́ áéíóúý m̃
 ÆǼ ŒŒ́ ÁÉÍÓÚÝ
@@ -66,7 +70,9 @@ var va = '(?:[áéíóúýǽ]|œ́)';
 var rx = new RegExp('('+n+'|^)('+na+'+)'+'(?='+n+')','ig');
 function acchk() {
 	var itxt = i.value;
-	itxt = itxt.replace(/ ([;:?!])/g,'$1');
+	itxt = itxt.replace(/ ([;:?!])/g,'$1')
+		.replace(/\\ae/g, 'æ').replace(/\\AE/g, 'Æ')
+		.replace(/\\oe/g, 'œ').replace(/\\OE/g, 'Œ');
 	otxt = itxt.replace(rx, function($0, $1, $2, i, str) {
 		// get rid of words with less than 2 syllables
 		var rx2 = new RegExp(
@@ -186,7 +192,16 @@ function fnclickchooser(e) {
 	}
 }
 
+function fnBoxHilight() {
+	var pos = Math.min(kinput.selectionStart, kinput.selectionEnd);
+	for(var j=0;j<o.children.length;j++) {
+		var jobj = o.children[j];
+		if(j==pos) jobj.classList.add('hilight');
+		else jobj.classList.remove('hilight');
+	}
+}
 function fnkeychooser(e) {
+	fnBoxHilight();
 	if(e!=null && ["0","1","2","-","Delete","Backspace",].indexOf(e.key)<0) return;
 	if(e==null) e = {target:kinput};
 	if(o.innerHTML.length==0) acchk();

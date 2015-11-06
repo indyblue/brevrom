@@ -18,7 +18,7 @@ $l1 = ['c|Léctio sancti Evangélii secúndum Matthǽum',
 		'In illo témpore: Dixit Jesus discípulis suis: Cum víderit abominatiónem desolatiónis, quæ dicta est a Daniéle prophéta, stantem in loco sancto: qui legit, intélligat. Et réliqua.',
 		'c|Homilía sancti Hierónymi Presbýteri',
 		'cr|Liber 4 Comment. in cap. 24 Matthæi',
-		'Quando ad intelligéntiam provocámur, mýsticum monstrátur esse quod dictum est. Légimus autem in Daniéle hoc modo: Et in dimídio hebdómadis auferétur sacrifícium et libámina; et in templo abominátio desolatiónum erit, usque ad consummatiónem témporis, et consummátio dábitur super solitúdinem. De hoc et Apóstolus lóquitur, quod homo iniquitátis, et adversárius elevándus sit contra omne quod dícitur Deus et cólitur; ita ut áudeat stare in templo Dei, et osténdere quod ipse sit Deus: cujus advéntus secúndum operatiónem sátanæ déstruat eos, et ad Dei solitutúdinem rédigat, qui se suscéperint.'];
+		'Quando ad intelligéntiam provocámur, mýsticum monstrátur esse quod dictum est. Légimus autem in Daniéle hoc modo: Et in dimídio hebdómadis auferétur sacrifícium et libámina; et in templo abominátio desolatiónum erit, usque ad consummatiónem témporis, et consummátio dábitur super solitúdinem. De hoc et Apóstolus lóquitur, quod homo iniquitátis, et adversárius elevándus sit contra omne quod dícitur Deus et cólitur; ita ut áudeat stare in templo Dei, et osténdere quod ipse sit Deus: cujus advéntus secúndum operatiónem sátanæ déstruat eos, et ad Dei solitúdinem rédigat, qui se suscéperint.'];
 
 /******************************* ENGLISH **************************************/
 $e1 = ['c|From the Holy Gospel according to Matthew',
