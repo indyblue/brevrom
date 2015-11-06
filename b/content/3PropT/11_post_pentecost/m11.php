@@ -43,6 +43,10 @@
 	head('II classis', 'II class',5);
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',3,'1V');
 	ant('prTemp/post_pentecost/m11w40.php','M');
+
+	include 'm11-4-1.php';
+	include 'm11-4-2.php';
+
 	space();
 
 	head('Dominica V Novembris', 'Fifth Sunday of November',2);

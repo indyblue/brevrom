@@ -23,5 +23,5 @@ Omne per ævum.
 
 Sit salus illi, decus atque virtus,
 Qui, super cæli sólio corúscans,
-Totíus mundi sériem gubérnat,
+Tótius mundi sériem gubérnat,
 Trinus et unus. Amen.

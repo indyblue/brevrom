@@ -3,7 +3,7 @@
 echo 'toc<br>';
 $fname = 'toc.ncx';
 $fin = 'toc_orig.ncx';
-//rename($fname, $fin);
+rename($fname, $fin);
 $sxml = file_get_contents($fin);
 
 /************** LOAD XML FILE **************************************/

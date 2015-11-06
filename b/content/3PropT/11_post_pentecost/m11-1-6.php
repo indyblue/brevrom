@@ -3,7 +3,7 @@ space();
 feria(6,4);
 
 /******************************* LATINA **************************************/
-$l1 = ['c|Incipit liber Ezechiélis Prophétæ',
+$l1 = ['c|De Ezechiéle Prophéta',
 		'lr|1|Cap. 15, 1-5',
 		'Et factus est sermo Dómini ad me dicens:  Fili hóminis, quid fiet de ligno vitis ex ómnibus lignis némorum, quæ sunt inter ligna silvárum?  Numquid tollétur de ea lignum, ut fiat opus, aut fabricábitur de ea paxíllus, ut depéndeat in eo quodcúmque vas?  Ecce igni datum est in escam, utrámque partem ejus consúmpsit ignis, et medíetas ejus redácta est in favíllam.  Numquid útile erit ad opus?  Étiam cum esset íntegrum non erat aptum ad opus, quanto magis cum illud ignis devoráverit et combússerit: nihil ex eo fiet óperis.'];
 $l1r = ['Super muros tuos, Jerúsalem, constítui custódes; * Tota die et nocte non tacébunt laudáre nomen Dómini.',

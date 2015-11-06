@@ -13,7 +13,7 @@ lions’
 */
 
 /******************************* LATINA **************************************/
-$l1 = ['c|Incipit liber Ezechiélis Prophétæ',
+$l1 = ['c|De Ezechiéle Prophéta',
 		'lr|1|Cap. 19, 1-7',
 		'Et tu assúme planctum super príncipes Ísraël et dices: Quare mater tua leǽna inter leónes cubávit, in médio leunculórum enutrívit cátulos suos?  Et edúxit unum de leúnculis suis, et leo factus est et dídicit cápere prædam hominémque comédere.  Et audiérunt de eo Gentes et non absque vulnéribus suis cepérunt eum et adduxérunt eum in caténis in terram Ægýpti.  Quæ cum vidísset quóniam infirmáta est et périit exspectátio ejus, tulit unum de leúnculis suis, leónem constítuit eum, qui incedébat inter leónes et factus est leo et dídicit prædam cápere et hómines devoráre, dídicit víduas fácere et civitátes eórum in desértum addúcere, et desoláta est terra et plenitúdo ejus a voce rugítus illíus.'];
 $l1r = ['Laudábilis pópulus, * Quem Dóminus exercítuum benedíxit dicens: Opus mánuum meárum tu es, heréditas mea Ísraël.',

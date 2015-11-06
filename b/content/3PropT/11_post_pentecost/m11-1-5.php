@@ -3,7 +3,7 @@ space();
 feria(5,4);
 
 /******************************* LATINA **************************************/
-$l1 = ['c|Incipit liber Ezechiélis Prophétæ',
+$l1 = ['c|De Ezechiéle Prophéta',
 		'lr|1|Cap. 13, 1-6',
 		'Et factus est sermo Dómini ad me dicens: Fili hóminis, vaticináre ad prophétas Ísraël, qui prophétant, et dices prophetántibus de corde suo: Audíte verbum Dómini: Hæc dicit Dóminus Deus: Væ prophétis insipiéntibus, qui sequúntur spíritum suum, et nihil vident!  Quasi vulpes in desértis prophétæ tui, Ísraël, erant.  Non ascendístis ex advérso neque opposuístis murum pro domo Ísraël, ut starétis in prœ́lio in die Dómini.  Vident vana et divínant mendácium dicéntes: Ait Dóminus, cum Dóminus non míserit eos, et perseveravérunt confirmáre sermónem.'];
 $l1r = ['Vidi Dóminum sedéntem super sólium excélsum et elevátum: et plena erat omnis terra majestáte ejus:  * Et ea, quæ sub ipso erant, replébant templum.',

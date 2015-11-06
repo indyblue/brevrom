@@ -66,6 +66,7 @@ var va = '(?:[áéíóúýǽ]|œ́)';
 var rx = new RegExp('('+n+'|^)('+na+'+)'+'(?='+n+')','ig');
 function acchk() {
 	var itxt = i.value;
+	itxt = itxt.replace(/ ([;:?!])/g,'$1');
 	otxt = itxt.replace(rx, function($0, $1, $2, i, str) {
 		// get rid of words with less than 2 syllables
 		var rx2 = new RegExp(

@@ -12,11 +12,11 @@ feria(4,4);
 lions’
 */
 
-$cap1 = '9, 1-5';
-$cap2 = '9, 21-27';
-$cap3 = '9, 21-27';
+$cap1 = '1, 1-3';
+$cap2 = '1, 4-7';
+$cap3 = '1, 8-11';
 /******************************* LATINA **************************************/
-$l1 = ['c|De Daniéle Prophéta',
+$l1 = ['c|De Osée Prophéta',
 		"lr|1|Cap. $cap1",
 		''];
 $l1r = [''];
@@ -30,7 +30,7 @@ $l3 = ["lr|3|Cap. $cap3",
 $l3r = [''];
 
 /******************************* ENGLISH **************************************/
-$e1 = ['c|From Daniel the Prophet',
+$e1 = ['c|From the Book of Hosea the Prophet',
 		"lr|1|Chap. $cap1",
 		''];
 $e1r = [''];
