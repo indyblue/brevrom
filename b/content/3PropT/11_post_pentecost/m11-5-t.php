@@ -1,6 +1,6 @@
 <?php
 space();
-feria(4,4);
+feria(2,4);
 
 /*
 %s/<\_[^>]*>//eig | %s/&nbsp;/ /eig
@@ -12,11 +12,11 @@ feria(4,4);
 lions’
 */
 
-$cap1 = '1, 1-3';
-$cap2 = '1, 4-7';
-$cap3 = '1, 8-11';
+$cap1 = '1, 1-2';
+$cap2 = '1, 3-5';
+$cap3 = '1, 6-8';
 /******************************* LATINA **************************************/
-$l1 = ['c|De Osée Prophéta',
+$l1 = ['c|Íncipit Amos Prophéta',
 		"lr|1|Cap. $cap1",
 		''];
 $l1r = [''];
@@ -30,7 +30,7 @@ $l3 = ["lr|3|Cap. $cap3",
 $l3r = [''];
 
 /******************************* ENGLISH **************************************/
-$e1 = ['c|From the Book of Hosea the Prophet',
+$e1 = ['c|From the Book of Amos the Prophet',
 		"lr|1|Chap. $cap1",
 		''];
 $e1r = [''];

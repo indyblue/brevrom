@@ -46,6 +46,11 @@
 
 	include 'm11-4-1.php';
 	include 'm11-4-2.php';
+	include 'm11-4-3.php';
+	include 'm11-4-4.php';
+	include 'm11-4-5.php';
+	include 'm11-4-6.php';
+	include 'm11-4-7.php';
 
 	space();
 
@@ -53,6 +58,14 @@
 	head('II classis', 'II class',5);
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',3,'1V');
 	ant('prTemp/post_pentecost/m11w50.php','M');
+
+	include 'm11-5-1.php';
+	include 'm11-5-2.php';
+	include 'm11-5-3.php';
+	include 'm11-5-4.php';
+	include 'm11-5-5.php';
+	include 'm11-5-6.php';
+	include 'm11-5-7.php';
 	space();
  
 ?>
