@@ -1,6 +1,34 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <pre>
 <?php
+	echo "\n---123456789\n";
+	for($i=0;$i<10;$i++) {
+		$am = '000000000';
+		$am = substr($am,0,$i-1) . '12' . substr($am,$i+1);
+		if($i==0) $am = '2' . substr($am,$i);
+		$am = substr($am,0,9);
+		echo "$i  $am\n";
+	}
+
+exit;
+$t = ['a'=>'fred', 'joe', 's'=>'smith'];
+var_dump($t);
+$t2 = var_export($t,1);
+echo "$t2\n";
+$t2 = json_encode($t);
+echo "$t2\n";
+$t2 = json_decode($t2);
+var_export((array)$t2);
+
+$t = "{a:'fred', r1:{a:'joe',b:'fred'}, s:'smith'}";
+echo "$t\n";
+
+$t2 = preg_replace(['/([^"])([a-z0-9]+)\s*:/i',"|'|"], ['$1"$2":','"'], $t);
+echo "$t2\n";
+$td = (array)json_decode($t2);
+//echo $td['r1']['a'], "\n";
+var_dump($td);
+exit;
 
 $t = '  
 asdf|De libro asdf secúndo Machabæórum';

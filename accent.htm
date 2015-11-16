@@ -33,6 +33,9 @@ body{
 .hilight {
 	border:3px solid black;
 }
+.html {
+	white-space: pre-wrap;
+}
 </style>
 </head>
 <body>
@@ -63,31 +66,43 @@ var n = '[^a-záéíóúýǽœ́æë]';
 
 var na = '[a-zæœë]';
 var all = '[a-záéíóúýǽœ́æë]';
-var c = '(?:[bcdfhjklmnprstvwxz]|[gq]u|[gq](?!u))';
-var v = '[aeiouyæœë]';
+var v = '(?:au|[eiouyæœë]|a(?!u))';
 var va = '(?:[áéíóúýǽ]|œ́)';
 
-var rx = new RegExp('('+n+'|^)('+na+'+)'+'(?='+n+')','ig');
+	// gu rules are getting complicated: 
+	// - rgu, u seems to be a vowel
+	// - ngu[vowel], u seems to be a pseudo-consonant
+	// - gu[non-vowel], u seems to be a vowel
+	// - gu[vowel], seems ambiguous
+var c = '(?:[bcdfhjklmpstvwxz]|r(?!g)|qu|q(?!u)|rg|n(?!gu)|ngu'
+//	+'|gu(?='+v+'|'+va+')'
+	+'|g(?!u(?:'+v+'|'+va+'))'
+	+'|g(?!u)'
+	+'|g)';
+
+var rx = new RegExp('('+n+'|^)('+na+'+)'+'(?='+n+'|$)','ig');
 function acchk() {
 	var itxt = i.value;
 	itxt = itxt.replace(/ ([;:?!])/g,'$1')
+		.replace(/[ \t]+/g,' ').replace(/\n[ \t]+/g,'\n').replace(/^[ \t]+/m,'')
 		.replace(/\\ae/g, 'æ').replace(/\\AE/g, 'Æ')
-		.replace(/\\oe/g, 'œ').replace(/\\OE/g, 'Œ');
+		.replace(/\\oe/g, 'œ').replace(/\\OE/g, 'Œ')
+		.replace(/\\"e/g,'ë').replace(/\\"E/g,'Ë');
 	otxt = itxt.replace(rx, function($0, $1, $2, i, str) {
 		// get rid of words with less than 2 syllables
-		var rx2 = new RegExp(
-			'^'+c+'*?((au|[qg]u'+v+'|'+v+')'+c+'*?){1,2}$','i');
+		var syll = '(('+v+')('+c+'*?))';
+		var rx2 = new RegExp('^('+c+'*?)'+syll+syll+'$','i');
 		if(rx2.test($2)) return $0;
 		
 		// need to find penult and antepenult and give accent options
-		var syll = '((au)|([qg]u)('+v+')|('+v+')('+c+'*?))';
-		var rx23 = new RegExp('((?:'+c+'|'+v+')*)'+syll+syll+syll+'$','i');
+		var rx23 = new RegExp('^((?:'+c+'|'+v+')*)'+syll+syll+syll+'$','i');
 		var o2 = $2.replace(rx23, function() {
 			var a = arguments;
 			var x3 = '', x2 = '';
 			var fnrepl = function(x) {
 				return x.replace('a','á').replace('A','Á')
 					.replace('e','é').replace('E','É')
+					.replace('ë','é').replace('Ë','É')
 					.replace('i','í').replace('I','Í')
 					.replace('o','ó').replace('O','Ó')
 					.replace('u','ú').replace('U','Ú')
@@ -97,23 +112,26 @@ function acchk() {
 			};
 			var bo = '';//"<button class='rb'>";
 			var bc = '';//"</button>";
-			if(a[3]!=null) x3 += bo+a[3].replace('a','á').replace('A','Á')+bc;
+			if(a[3]!=null) {
+				if(/au/i.test(a[3])) x3+= a[3].replace('a','á').replace('A','Á');
+				else x3+= fnrepl(a[3]);
+			}
 			if(a[4]!=null) x3 += a[4];
-			if(a[5]!=null) x3 += bo+fnrepl(a[5])+bc;
-			if(a[6]!=null) x3 += bo+fnrepl(a[6])+bc;
-			if(a[7]!=null) x3 += a[7];
-				
-			if(a[9]!=null) x2 += bo+a[9].replace('a','á').replace('A','Á')+bc;
-			if(a[10]!=null) x2 += a[10];
-			if(a[11]!=null) x2 += bo+fnrepl(a[11])+bc;
-			if(a[12]!=null) x2 += bo+fnrepl(a[12])+bc;
-			if(a[13]!=null) x2 += a[13];
+
+			if(a[6]!=null) {
+				if(/au/i.test(a[6])) x2+= a[6].replace('a','á').replace('A','Á');
+				else x2+= fnrepl(a[6]);
+			}
+			if(a[7]!=null) x2 += a[7];
+
 			var po = "<div class='po rh'>";
 			var pc = "</div>";
 			bo = "<div class='po' onclick='fnclickchooser(this)'>";
 			bc = "</div>";
-			return po+bo+a[1]+x3+a[8]+a[14]+bc+"<br>"
-				+bo+a[1]+a[2]+x2+a[14]+bc+pc;
+			return po
+				+bo+a[1]+a[2]+a[5]+a[8]+bc+"<br>"
+				+bo+a[1]+x3+a[5]+a[8]+bc+"<br>"
+				+bo+a[1]+a[2]+x2+a[8]+bc+pc;
 		});
 
 		return $1 + o2;
@@ -135,6 +153,7 @@ function fnoplain() {
 			}
 		}
 	}
+	retval = retval.replace(/\n/g, '<br>');
 	oplain.innerHTML = retval;
 }
 
@@ -148,24 +167,38 @@ function objindex(e) {
 
 function fnchooser(p, choice) {
 	var d = '';
-	if(choice==0) {
+	if(choice==-1) {
 		p.classList.remove('gh');
 		p.classList.add('rh');
 		p.children[0].style.display = "";
 		p.children[1].style.display = "";
 		p.children[2].style.display = "";
-	} else if(choice==1) {
+		p.children[3].style.display = "";
+		p.children[4].style.display = "";
+	} else if(choice==0) {
 		p.classList.remove('rh');
 		p.classList.add('gh');
 		p.children[0].style.display = "";
 		p.children[1].style.display = "none";
 		p.children[2].style.display = "none";
-	} else if(choice==2) {
+		p.children[3].style.display = "none";
+		p.children[4].style.display = "none";
+	} else if(choice==1) {
 		p.classList.remove('rh');
 		p.classList.add('gh');
 		p.children[0].style.display = "none";
 		p.children[1].style.display = "none";
 		p.children[2].style.display = "";
+		p.children[3].style.display = "none";
+		p.children[4].style.display = "none";
+	} else if(choice==2) {
+		p.classList.remove('rh');
+		p.classList.add('gh');
+		p.children[0].style.display = "none";
+		p.children[1].style.display = "none";
+		p.children[2].style.display = "none";
+		p.children[3].style.display = "none";
+		p.children[4].style.display = "";
 	}
 	/*
 	var j = objindex(p);
@@ -185,10 +218,11 @@ function fnchooser(p, choice) {
 function fnclickchooser(e) {
 	var p = e.parentElement;
 	if(p.classList.contains('rh')) {
-		if(p.children[0] == e) fnchooser(p, 1);
-		else if(p.children[2] == e) fnchooser(p, 2);
+		if(p.children[0] == e) fnchooser(p, 0);
+		else if(p.children[2] == e) fnchooser(p, 1);
+		else if(p.children[4] == e) fnchooser(p, 2);
 	} else {
-		fnchooser(p, 0);
+		fnchooser(p, -1);
 	}
 }
 
@@ -207,12 +241,13 @@ function fnkeychooser(e) {
 	if(o.innerHTML.length==0) acchk();
 	var nums = e.target.value;
 	for(var j=0;j<o.children.length;j++) {
-		var jnum = 0;
+		var jnum = '-';
 		if(nums.length>j) jnum = nums.substr(j,1);
 		var jobj = o.children[j];
-		if(jnum==1) fnchooser(jobj,1);
+		if(jnum==0) fnchooser(jobj,0);
+		else if(jnum==1) fnchooser(jobj,1);
 		else if(jnum==2) fnchooser(jobj,2);
-		else fnchooser(jobj,0);
+		else fnchooser(jobj,-1);
 	}
 }
 
