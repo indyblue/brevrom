@@ -19,13 +19,27 @@
 	src: url(font/freeserifBold.woff);
 }
 @font-face {
-	font-family: FreeSerifVR;
+	font-family: FancyVR;
 	src: url(font/FancyVR.woff);
 }
 @font-face {
 	font-family: BlackLetter;
 	src: url(font/oldlondon.woff);
 }
+
+body { font-size:1.37em; }
+.Body, .BodyL, .BodyE { font-size:100% }
+.BodySm, .BodyLSm, .BodyESm {font-size:94%;}
+.BodyIndent, .BodyLIndent, .BodyEIndent 
+	{text-indent:1em;}
+	.Head0 {font-size:160%;}
+	.Head1, .Head1NI {font-size:140%;}
+	.Head2 {font-size:110%;}
+	.Head2Ps, .Head2Cant {font-size:100%;}
+	.Head3 {font-size:110%;}
+	.Head4 {font-size:100%;}
+	.Head5 {font-size:94%;}
+.RubricHSm { font-size:93%; }
 
 body#night {
 	background-color:black;
@@ -49,7 +63,6 @@ body {
 	margin:0 2% 0 4%; 
 	width:94%; 
 	max-width:600px;
-	text-rendering: optimizeLegibility;
 	-webkit-font-variant-ligatures: common-ligatures;
 	font-variant-ligatures: common-ligatures;
 }
@@ -168,7 +181,7 @@ span.DropCap {
 	color:red;
 }
 span.VR {
-	font-family:FreeSerifVR, serif;	
+	font-family:FancyVR, serif;	
 	color:red; 
 	font-style:normal;
 }

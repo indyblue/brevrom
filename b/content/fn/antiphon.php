@@ -218,7 +218,16 @@ function antM($n, $file, $ps) {
 	ant($file,$pre.'012'.$post);
 	psalm($ps[2]);
 	ant($file,$pre.'001'.$post);
+}
 
+function antM1($file, $ps) {
+	for($i=0;$i<10;$i++) {
+		$am = '000000000';
+		$am = substr($am,0,$i-1) . '12' . substr($am,$i+1);
+		if($i==0) $am = '2' . substr($am,$i);
+		$am = substr($am,0,9);
+		echo "$i  $am\n";
+	}
 }
 
 function multiant($day, $hour, $incs='*') {

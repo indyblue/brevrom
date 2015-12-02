@@ -73,28 +73,10 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 		"http://www.w3.org/TR/html4/loose.dtd">  
 		<html><head>
 	<title>Officium Divinum</title>
-	<meta name="viewport" content="initial-scale=2"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<link href="/b/htm_k.css" rel="stylesheet" type="text/css" />
 	<STYLE type="text/css">
-	div {font-size:'.$Body.'pt;}
-	div.Body, div.BodyL, div.BodyE {font-size:'.$Body.'pt;}
-	div.BodySm, div.BodyLSm, div.BodyESm {font-size:'.$BodySm.'pt}
-	div.BodyIndent, div.BodyLIndent, div.BodyEIndent 
-		{text-indent:'.$BodySm.'px;}
-	div.RubricHSm {font-size:'.$RubricHSm.'pt;}
-	div.Hymn {margin-left:'.$BodySm.'px; text-indent:-'.$BodySm.'px;}
-	div.Hymn1 {margin-left:'.$BodySm.'px; text-indent:-'.$BodySm.'px;}
-	div.Head0 {font-size:'.$Head0.'pt;}
-	div.Head1 {font-size:'.$Head1.'pt;}
-	div.Head1NI {font-size:'.$Head1.'pt;}
-	div.Head2 {font-size:'.$Head2.'pt;}
-	div.Head2Ps {font-size:'.$Body.'pt;}
-	div.Head2Cant {font-size:'.$Body.'pt;}
-	div.Head3 {font-size:'.$Head3.'pt;}
-	div.Head4 {font-size:'.$Body.'pt;}
-	div.Head5 {font-size:'.$RubricHSm.'pt;}
-	span.HymnR {font-size:'.$HymnR.'pt;}
 	div.h2 {display:'.($v?'auto':'none').';}
 	</STYLE>
 	</head>

@@ -1,6 +1,6 @@
 <?php
 space();
-hour('M',4);
+hour('M');
 
 /*
 %s/<\_[^>]*>//eig | %s/&nbsp;/ /eig

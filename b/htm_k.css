@@ -6,10 +6,43 @@
 	font-family: BlackLetter;
 	src: url(font/oldlondon.ttf);
 }
+/*
+span.NonRubric {font-style:normal; color:white;}
+a:active { color:#AFA; }
+a:visited { color:#FAA; }
+a:link {color:#AAF;}
+a:hover {color:#FFF;}
+div.BodyEDrop:first-letter { color:red; }
+span.Bold { color:red; }
+
+body {
+	background-color:black;
+	color:white;
+	font-family:FreeSerif, serif;
+	-webkit-font-variant-ligatures: common-ligatures;
+	font-variant-ligatures: none;
+}
+*/
+
+span.NonRubric {font-style:normal; color:black;}
 
 body {
 	font-family:Bookerly, serif;
+	font-size:1.8em;
 }
+.Body, .BodyL, .BodyE { font-size:100% }
+.BodySm, .BodyLSm, .BodyESm {font-size:94%;}
+.BodyIndent, .BodyLIndent, .BodyEIndent 
+	{text-indent:1em;}
+	.Head0 {font-size:130%;}
+	.Head1, .Head1NI {font-size:120%;}
+	.Head2 {font-size:110%;}
+	.Head2Ps, .Head2Cant {font-size:100%;}
+	.Head3 {font-size:110%;}
+	.Head4 {font-size:100%;}
+	.Head5 {font-size:94%;}
+.RubricHSm { font-size:93%; }
+
 
 table { 
 	width:100%; 
@@ -101,6 +134,7 @@ div.Line {
 
 span.HymnR { color:red; font-weight:bold;
 	vertical-align:bottom;
+	font-size:106%;
 }
 span.Red { color:red; font-size:60%; }
 span.Rubric { font-style:italic; color:red; }
@@ -110,7 +144,6 @@ span.RubricH {
 	font-size:58%; 
 	vertical-align:top;
 }
-span.NonRubric {font-style:normal; color:black;}
 span.Italic {font-style:italic;}
 span.Bold {font-weight:bold;}
 span.BoldR {font-weight:bold; color:red;}

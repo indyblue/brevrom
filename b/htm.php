@@ -67,24 +67,6 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<link href="htm.css" rel="stylesheet" type="text/css" />
 	<STYLE type="text/css">
-	div {font-size:'.$Body.'pt;}
-	div.Body, div.BodyL, div.BodyE {font-size:'.$Body.'pt;}
-	div.BodySm, div.BodyLSm, div.BodyESm {font-size:'.$BodySm.'pt}
-	div.BodyIndent, div.BodyLIndent, div.BodyEIndent 
-		{text-indent:'.$BodySm.'px;}
-	div.RubricHSm {font-size:'.$RubricHSm.'pt;}
-	div.Hymn {margin-left:'.$BodySm.'px; text-indent:-'.$BodySm.'px;}
-	div.Hymn1 {margin-left:'.$BodySm.'px; text-indent:-'.$BodySm.'px;}
-	div.Head0 {font-size:'.$Head0.'pt;}
-	div.Head1 {font-size:'.$Head1.'pt;}
-	div.Head1NI {font-size:'.$Head1.'pt;}
-	div.Head2 {font-size:'.$Head2.'pt;}
-	div.Head2Ps {font-size:'.$Body.'pt;}
-	div.Head2Cant {font-size:'.$Body.'pt;}
-	div.Head3 {font-size:'.$Head3.'pt;}
-	div.Head4 {font-size:'.$Body.'pt;}
-	div.Head5 {font-size:'.$RubricHSm.'pt;}
-	span.HymnR {font-size:'.$HymnR.'pt;}
 	div.h2 {display:'.($v?'auto':'none').';}
 	</STYLE>
 	<script type="text/javascript" src="jquery-1.7.2.min.js"></script>

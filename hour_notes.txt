@@ -1,0 +1,62 @@
+o,m,l,p,t,s,n,v,c
+
+hymnus
+antiphona
+psalmi
+l1,2,3
+capitulum
+rbr
+
+
+matins3
+inv+94
+hymn
+ant+ps (links if feria)
+absol
+beneds
+lectio (1,2 probably from temp)
+resp, te deum
+
+matins9
+inv+94
+hymn
+nocturns {
+	ant+ps (always proper?)
+	absol
+	beneds
+	lectio
+	resp, te deum
+}
+
+lauds
+ant+ps (links if feria)
+capit
+hymn
+vr
+ant+bened
+oratio
+commems
+
+LHs
+hymn
+ant+ps (links if feria)
+capit
+rbr (seasonal vars for prime)
+oratio
+(mart+addl stuff for prime)
+
+prime varies: (adv, nativ, epiph, quad, pass, psch, asc, pent, all else)
+
+vespers
+(see lauds)
+
+compline (varies: sept/quad, pass, psch, all else)
+init stuff
+ant+ps
+hymn
+capit
+rbr
+ant+nunc
+oratio
+bvm_ant
+

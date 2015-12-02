@@ -22,6 +22,9 @@
 		rubp('Feria IV et Sabbato: De III Nocturno <snr>['.bkref('csBVMMn3').']</s>.', 'Wednesday and Saturday: from III Nocturn <snr>['.bkref('csBVMMn3').']</s>.',1);
 	} else {
 		
+	rubp('Dominica, Feria II et V dicatur primus Nocturnus, De I Nocturno <snr>['.bkref('csBVMpMn1').']</s>; Feria III et VI secundus, <snr>['.bkref('csBVMpMn2').']</s>; Feria IV et Sabbato tertius <snr>['.bkref('csBVMpMn3').']</s>.', 
+		'Sunday, Monday, and Thursday the first Nocturn is said <snr>['.bkref('csBVMpMn1').']</s>; Tuesday and Friday: from II Nocturn <snr>['.bkref('csBVMpMn2').']</s>; Wednesday and Saturday: from III Nocturn <snr>['.bkref('csBVMpMn3').']</s>.' ,1);
+
 if($weekly) rubp('','Full Psalter: 
 		Sunday (<snr>p. '. bkref('psDM') .'</s>) 
 		Monday (<snr>'. bkref('ps2M') .'</s>) 
@@ -33,6 +36,7 @@ if($weekly) rubp('','Full Psalter:
 
 
 	hidden('Matins 1st Nocturn',2);
+	bookmark('csBVMpMn1');
 		head('Dominica, Feria II et V:',
 			'Sunday, Monday, and Thursday:',-4);
 		ant('opBVMm.php','N00000000');
@@ -45,9 +49,13 @@ if($weekly) rubp('','Full Psalter:
 		psalm(23);
 		space('Spacer');
 		ant('opBVMm.php','001000000');
+
+rubp('Postea dicitur Versus <snr>Diffúsa est</s> et sequens, ut infra <snr>p. '.bkref('csBVMpML1').'</s>.', 
+'After which is said the Verse <snr>Grace is poured</s> and following, as below on <snr>p. '.bkref('csBVMpML1').'</s>, when only one Nocturn is said.');
 	
 	hidden('Matins 2nd Nocturn',2);
 		space();
+	bookmark('csBVMpMn2');
 		head('Feria III et VI:',
 			'Tuesday and Friday:',-4);
 		ant('opBVMm.php','000N00000');
@@ -61,8 +69,12 @@ if($weekly) rubp('','Full Psalter:
 		space('Spacer');
 		ant('opBVMm.php','000001000');
 
+rubp('Postea dicitur Versus <snr>Diffúsa est</s> et sequens, ut infra <snr>p. '.bkref('csBVMpML1').'</s>.', 
+'After which is said the Verse <snr>Grace is poured</s> and following, as below on <snr>p. '.bkref('csBVMpML1').'</s>, when only one Nocturn is said.');
+
 	hidden('Matins 3rd Nocturn',2);
 		space();
+	bookmark('csBVMpMn3');
 		head('Feria IV et Sabbato:',
 			'Wednesday and Saturday:',-4);
 		ant('opBVMm.php','000000N00');
@@ -79,6 +91,7 @@ if($weekly) rubp('','Full Psalter:
 
 	space();
 	hidden('Matins Lessons',2);
+	bookmark('csBVMpML1');
 	vrS('diffusa_est_gratia_in_labiis_tuis.php');
 	vr('pater_silent_vr.php');
 

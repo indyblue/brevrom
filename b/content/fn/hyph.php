@@ -57,22 +57,16 @@ class hyph {
 
 		// for each language
 		foreach($this->xpClasses as $la=>$cl) {
-			$xs = "//*[@class='". implode("'] | //*[@class='",$cl) . "']";
-			//echo "$xs\n";
+			$xs = "//*[@class='". implode("']//text() | //*[@class='",$cl) . "']//text()";
+
 			$clns = $dxp->query($xs);
 
 			// for each html element matching the class list for the language
 			foreach($clns as $cln) {
-				$clntxts = $dxp->query('.//text()', $cln);
-
-				// for each text element within the html element
-				foreach($clntxts as $clntxt) {
-
-					if(!in_array($clntxt->parentNode->getAttribute('class'), $this->xpExClasses)) {
-						$val = $clntxt->nodeValue;
-						$hyphtxt = $this->text($val, $la);
-						$clntxt->nodeValue = $hyphtxt;
-					}
+				if(!in_array($cln->parentNode->getAttribute('class'), $this->xpExClasses)) {
+					$val = $cln->nodeValue;
+					$hyphtxt = $this->text($val, $la);
+					$cln->nodeValue = $hyphtxt;
 				}
 			}
 		}
