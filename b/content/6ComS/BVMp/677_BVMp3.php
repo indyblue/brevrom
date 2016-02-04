@@ -4,7 +4,7 @@
 	$long = $_GET['long'];
 	$weekly = $_GET['weekly'];
 	$old = $_GET['old'];
-	$old = 0;
+	//$old = 0;
 
 	space();
 	hidden('Aperi',2);
@@ -28,6 +28,7 @@
 
 	// ************************************************************
 	hidden('Lauds',2);
+	bookmark('csBVMpL');
 	hour('L');
 	//vr('deus_in_adjutorium.php');
 	vr('deus_in_adjutorium.php');
@@ -442,7 +443,7 @@ if($weekly) rubp('','Full Psalter:
 		vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php');
 	} else {
 		space();
-		require '08_compline_BVMant1b.php';
+		require '08_compline_BVMant.php';
 	}
 
 if($old==2) {

@@ -23,6 +23,7 @@
 
 	// ************************************************************
 	hidden('Lauds',2);
+	bookmark('csBVMpL');
 	hour('L');
 	vr('deus_in_adjutorium.php');
 	space();
@@ -64,10 +65,7 @@ if($weekly) rubp('','Full Psalter:
 	bvm_multiant('00001');
 	space();	
 
-	bvm_head(13);
 	lc('cant6_8.php');
-	bvm_head(2);
-	lc('is11_1-2.php');
 	space();	
 
 	rubrics('head/HymnVerse.php');
@@ -75,14 +73,7 @@ if($weekly) rubp('','Full Psalter:
 	vrS('benedicta_tu_in_mulieribus.php');
 	space();	
 
-	bvm_head(1);
-	ant('beata_dei_genitrix_maria_virgo_perpetua.php','B');
-	bvm_head(4);
-	ant('regina_caeli_laetare_alleluia.php','B',1,'','',1);
-	bvm_head(2);
-	ant('spiritus_sanctus_in_te_descendet.php','B',0,'','',1);
-	bvm_head(3);
-	ant('mirabile_mysterium_delcaratur_hodie.php','B',0,'','',1);
+	ant('beata_dei_genitrix_maria_virgo_perpetua.php','*');
 	if($long==0) {
 		rubp('Canticum <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>', 'The Canticle <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>',1);
 	} else {
@@ -90,14 +81,7 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/gloria_patri-s.php',0);
 		space();
 
-		bvm_head(1);
 		ant('beata_dei_genitrix_maria_virgo_perpetua.php','1');
-		bvm_head(4);
-		ant('regina_caeli_laetare_alleluia.php','1',1,'','',1);
-		bvm_head(2);
-		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
-		bvm_head(3);
-		ant('mirabile_mysterium_delcaratur_hodie.php','1',0,'','',1);
 	}
 	space();	
 	if($old==1) {
@@ -106,25 +90,15 @@ if($weekly) rubp('','Full Psalter:
 	}
 	vr('dv_de.php');
 	vr('oremus.php');
-	bvm_head(12);
 	prayer('prSanct/0325.php');
-	bvm_head(3);
-	prayer('csBVMSat1.php');
 
 	if($old==1) {
 		space();	
-		bvm_head(13);
 		ant('sancti_dei_omnes_intercedere.php');
 		vrS('laetamini_in_domino_et_exultate_justi.php');
 		vr('oremus.php');
 		prayer('BVMp_c1.php');
 		prayer('BVMp_c2.php',1);
-		space();
-		bvm_head(2);
-		ant('ecce_dominus_veniet.php');
-		vrS('ecce_apparebit_dominus.php');
-		vr('oremus.php');
-		prayer('BVMp_c1a.php',1);
 		space();
 	}
 
@@ -162,10 +136,7 @@ if($weekly) rubp('','Full Psalter:
 	bvm_multiant('10000');
 	space();
 
-	bvm_head(13);
 	lc('cant6_9.php');
-	bvm_head(2);
-	lc('is7_14-15.php');
 	space();	
 
 	vrS('dignare_me_laudare_te_virgo_sacrata.php');
@@ -177,12 +148,7 @@ if($weekly) rubp('','Full Psalter:
 	}
 	vr('dv_de.php');
 	vr('oremus.php');
-	bvm_head(1);
 	prayer('BVMp_P.php');
-	bvm_head(2);
-	prayer('prSanct/0325.php');
-	bvm_head(3);
-	prayer('csBVMSat1.php');
 	vr('dv_de_short.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
@@ -221,10 +187,7 @@ if($weekly) rubp('','Full Psalter:
 	bvm_multiant('01000');
 	space();
 
-	bvm_head(13);
 	lc('ecclus24_15.php');
-	bvm_head(2);
-	lc('is11_1-2.php');
 	space();	
 
 	vrS('diffusa_est_gratia_in_labiis_tuis.php');
@@ -236,10 +199,7 @@ if($weekly) rubp('','Full Psalter:
 	}
 	vr('dv_de.php');
 	vr('oremus.php');
-	bvm_head(13);
 	prayer('csBVMSat1.php');
-	bvm_head(2);
-	prayer('prSanct/0325.php');
 	vr('dv_de_short.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
@@ -278,10 +238,7 @@ if($weekly) rubp('','Full Psalter:
 	bvm_multiant('00100');
 	space();
 
-	bvm_head(13);
 	lc('ecclus24_16.php');
-	bvm_head(2);
-	lc('luke1_32-33.php');
 	space();	
 
 	vrS('benedicta_tu_in_mulieribus.php');
@@ -293,12 +250,7 @@ if($weekly) rubp('','Full Psalter:
 	}
 	vr('dv_de.php');
 	vr('oremus.php');
-	bvm_head(1);
 	prayer('BVMp_S.php');
-	bvm_head(2);
-	prayer('prSanct/0325.php');
-	bvm_head(3);
-	prayer('csBVMSat1.php');
 	vr('dv_de_short.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
@@ -337,13 +289,8 @@ if($weekly) rubp('','Full Psalter:
 	bvm_multiant('00001');
 	space();
 
-	bvm_head(13);
 	lc('ecclus24_19.php');
 	vrS('prSanct/post_partum_virgo_inviolata_permansisti.php');
-	space();
-	bvm_head(2);
-	lc('is7_14-15.php');
-	vrS('Ord/angelus_domini_nuntiavit_mariae.php');
 	space();
 
 	if($old==1) {
@@ -352,12 +299,7 @@ if($weekly) rubp('','Full Psalter:
 	}
 	vr('dv_de.php');
 	vr('oremus.php');
-	bvm_head(1);
 	prayer('BVMp_N.php');
-	bvm_head(2);
-	prayer('prSanct/0325.php');
-	bvm_head(3);
-	prayer('csBVMSat1.php');
 	vr('dv_de_short.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
@@ -398,25 +340,16 @@ if($weekly) rubp('','Full Psalter:
 	bvm_multiant('00001',1);
 	space();	
 
-	bvm_head(13);
 	lc('ecclus24_14.php');
-	bvm_head(2);
-	lc('is11_1-2.php');
 	space();	
 
 	rubrics('head/HymnVerse.php');
 	hymn('ave_maris_stella.php');
+	space();	
 	vrS('diffusa_est_gratia_in_labiis_tuis.php');
 	space();	
 
-	bvm_head(1);
-	ant('opBVMVm.php','M');
-	bvm_head(4);
-	ant('regina_caeli_laetare_alleluia.php','M',1,'','',1);
-	bvm_head(2);
-	ant('spiritus_sanctus_in_te_descendet.php','M',0,'','',1);
-	bvm_head(3);
-	ant('prTemp/nativity/0101m2.php','M',0,'','',1);
+	ant('opBVMVm.php','*');
 	if($long==0) {
 		rubp('Canticum <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>', 'The Canticle <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>',1);
 	} else {
@@ -424,14 +357,7 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/gloria_patri-s.php',0);
 		space();
 
-		bvm_head(1);
 		ant('opBVMVm.php','1');
-		bvm_head(4);
-		ant('regina_caeli_laetare_alleluia.php','1',1,'','',1);
-		bvm_head(2);
-		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
-		bvm_head(3);
-		ant('prTemp/nativity/0101m2.php','1',0,'','',1);
 	}
 	space();	
 	if($old==1) {
@@ -440,27 +366,15 @@ if($weekly) rubp('','Full Psalter:
 	}
 	vr('dv_de.php');
 	vr('oremus.php');
-	bvm_head(1);
 	prayer('csBVM1.php');
-	bvm_head(2);
-	prayer('prSanct/0325.php');
-	bvm_head(3);
-	prayer('csBVMSat1.php');
 
 	if($old==1) {
 		space();	
-		bvm_head(13);
 		ant('sancti_dei_omnes_intercedere.php');
 		vrS('laetamini_in_domino_et_exultate_justi.php');
 		vr('oremus.php');
 		prayer('BVMp_c1.php');
 		prayer('BVMp_c2.php',1);
-		space();
-		bvm_head(2);
-		ant('ecce_dominus_veniet.php');
-		vrS('ecce_apparebit_dominus.php');
-		vr('oremus.php');
-		prayer('BVMp_c1a.php',1);
 		space();
 	}
 
@@ -502,23 +416,11 @@ if($weekly) rubp('','Full Psalter:
 	}
 	space();
 
-	bvm_head(13);
 	lc('ecclus24_24.php');
 	vrS('Ord/ora_pro_nobis_sancta_dei_genitrix.php');
 	space();
-	bvm_head(2);
-	lc('is7_14-15.php');
-	vrS('Ord/angelus_domini_nuntiavit_mariae.php');
-	space();
 
-	bvm_head(1);
 	ant('sub_tuum_praesidium.php','*');
-	bvm_head(4);
-	ant('regina_caeli_laetare_alleluia.php','*',1,'','',1);
-	bvm_head(2);
-	ant('spiritus_sanctus_in_te_descendet.php','*',0,'','',1);
-	bvm_head(3);
-	ant('prTemp/nativity/0101m2.php','*',0,'','',1);
 	if($long==0) {
 		rubp('Canticum <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>', 'The Canticle <snr>Nunc dimíttis</s>, p. <snr>'.bkref('simeon').'</s>',1);
 	} else {
@@ -526,14 +428,7 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/gloria_patri-s.php',0);
 		space();
 
-		bvm_head(1);
 		ant('sub_tuum_praesidium.php','1');
-		bvm_head(4);
-		ant('regina_caeli_laetare_alleluia.php','1',1,'','',1);
-		bvm_head(2);
-		ant('spiritus_sanctus_in_te_descendet.php','1',0,'','',1);
-		bvm_head(3);
-		ant('prTemp/nativity/0101m2.php','1',0,'','',1);
 	}
 	space();	
 
@@ -543,12 +438,7 @@ if($weekly) rubp('','Full Psalter:
 	}
 	vr('dv_de.php');
 	vr('oremus.php');
-	bvm_head(1);
 	prayer('BVMp_C.php');
-	bvm_head(2);
-	prayer('prSanct/0325.php');
-	bvm_head(3);
-	prayer('csBVMSat1.php');
 	vr('dv_de_short.php');
 	vrS('benedicamus_domino.php');
 	vr('compline_bened.php');
@@ -558,7 +448,7 @@ if($weekly) rubp('','Full Psalter:
 		vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php');
 	} else {
 		space();
-		require $_GET['root'] . '/1Ordinary/08_compline_BVMant.php';
+		require '08_compline_BVMant.php';
 	}
 
 if($old==2) {

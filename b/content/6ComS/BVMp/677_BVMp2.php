@@ -27,6 +27,7 @@
 
 	// ************************************************************
 	hidden('Lauds',2);
+	bookmark('csBVMpL');
 	hour('L');
 	//vr('deus_in_adjutorium.php');
 	vr('deus_in_adjutorium.php');
@@ -68,7 +69,7 @@
 	vrS('benedicta_tu_in_mulieribus.php');
 	space();	
 
-	ant('spiritus_sanctus_in_te_descendet.php','B');
+	ant('spiritus_sanctus_in_te_descendet.php','*');
 	if($long==0) {
 		rubp('Canticum <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>', 'The Canticle <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>',1);
 	} else {
@@ -439,7 +440,7 @@ if($weekly) rubp('','Full Psalter:
 		vrS('Ord/divinum_auxilium_maneat_semper_nobiscum.php');
 	} else {
 		space();
-		require '08_compline_BVMant1.php';
+		require '08_compline_BVMant.php';
 	}
 
 if($old==2) {

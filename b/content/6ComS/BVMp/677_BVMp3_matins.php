@@ -9,8 +9,10 @@
 	ant('ave_maria.php','I');
 	if($long==0)
 		psref(94);
-	else
-		psalm('094.php');
+	else {
+		ant('ave_maria.php','R');
+		psalm('094bi.php');
+	}
 	space();
 	rubrics('head/HymnVerse.php');
 	hymn('quem_terra_pontus_sidera.php');
@@ -117,6 +119,8 @@ rubp('Postea dicitur Versus <snr>Diffúsa est</s> et sequens, ut infra <snr>p. '
 	space();
 	rubp('Sequens Responsorium omittitur quando dicitur <snr>Te Deum</s>.', 'When the <snr>Te Deum</s> is said, the following Responsory is omitted.',1);
 	rm('BVMp/mr3.php',0,0);
+	rubp('Postea dicitur ad Laudes, ut infra <snr>p. '.bkref('csBVMpL').'</s>',
+		'After which is said Lauds, as below on <snr>p. '.bkref('csBVMpL').'</s>');
 	space();
 	hidden('Te Deum',2);
 	rubp('Sequens Hymnus <snr>Te Deum</s> dic. a Nativ. Domini usque ad Septuag., et a Dom. Resurrectionis usque ad Advent., et quando dicitur, omittitur III Responsorium, et in II Responsorio dicitur <snr>Glória Patri</s>, ut dictum est supra: in Adventu autem et a Septuag. usque ad Pascha non dic. nisi in Festis B. Mariæ.', 'The following Hymn, <snr>Te Deum</s>, is said from Christmas until Septuagesima, and from Easter Sunday until Advent. When it is said, the third Responsory is omitted, and the <snr>Glória Patri</s> is said in the second Responsory, as noted above. In Advent and from Septuagesima until Easter it is not said except on feasts of the Bl. Virgin Mary.',1);
