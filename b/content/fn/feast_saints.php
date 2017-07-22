@@ -183,13 +183,13 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	if($pt==-1) $pta = 2;
 	else $pta = $pt;
 
-	if(ereg('[HVWQ]',$type)!==false) $fem = 1;
+	if(preg_match('[HVWQ]',$type)!==false) $fem = 1;
 	if(strpos($type,'M')!==false) $mart = 1;
 	if(strpos($type,'a')!==false) $abb = 1;
 	if(strpos($type,'D')!==false) $doct = 1;
 	if(strpos($type,'s')!==false) $vseq = 1;
 	
-	if(ereg('[AG]',$type)!==false) {
+	if(preg_match('[AG]',$type)!==false) {
 		if($pt==2 || $pt==-1) {
 			$csP = 'csApPT';
 			$LvrP = 'pretiosa_in_conspectu_domini.php';
@@ -243,18 +243,18 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 			$Vant = 'qui_vult_venire_post_me_abneget_semetipsum.php';
 		}
 	}
-	elseif(ereg('[EP]',$type)!==false) {
+	elseif(preg_match('[EP]',$type)!==false) {
 		$cs = 'csCB';
 		$Lvr = 'justum_deduxit_dominus_per_vias_rectas.php';
 		$Lant = 'euge_serve_bone_et_fidelis.php';
 		$Vvr = 'justum_deduxit_dominus_per_vias_rectas.php';
 		$Vant = 'amavit_eum_dominus_et_ornavit_eum.php';
-		if(ereg('[P]',$type)!==false && !$pl)
+		if(preg_match('[P]',$type)!==false && !$pl)
 			$Vant = 'dum_esset_summus_pontifex.php';
 		if($doct)
 			$Vant = 'csConfessorDoctorAnt.php';
 	}
-	elseif(ereg('[aC]',$type)!==false) {
+	elseif(preg_match('[aC]',$type)!==false) {
 		$cs = 'csC';
 		$Lvr = 'justum_deduxit_dominus_per_vias_rectas.php';
 		$Lant = 'euge_serve_bone_et_fidelis-tui.php';

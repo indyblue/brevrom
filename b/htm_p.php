@@ -1,0 +1,350 @@
+<?php 
+// error_reporting(E_ALL);
+error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED);
+//ini_set('display_errors', 0);
+
+mb_internal_encoding('UTF-8');
+$_GET['htm'] = 1;
+$_GET['old'] = 1;
+$_GET['abbrev'] = 1;
+$_GET['L'] = 0;
+$_GET['par'] = 1;
+$_GET['long'] = 1;
+$_GET['root'] = dirname(__FILE__) . '/content';
+$pos = strpos($_GET['root'],'\\content');
+if($pos>0)
+	$_GET['root'] = substr($_GET['root'],0,$pos+8);
+require $_GET['root'] . '/fn/0list.php';
+$root = $_GET['root'];
+
+$uri = $_SERVER['REQUEST_URI'];
+
+if(array_key_exists('v',$_GET)) {
+	$v = $_GET['v'];
+	$uri = substr($uri,0,strpos($uri,'&'));
+}
+else $v = false;
+
+ob_start(); // start buffer
+
+$kindle=1;
+///////////////////////////////////////////////////////////
+// Content goes here: /////////////////////////////////////
+///////////////////////////////////////////////////////////
+
+//*
+$_GET['old'] = 1;
+$_GET['long'] = 1;
+$_GET['weekly'] = 0;
+$_GET['matins'] = 1;
+	
+$url = $_GET['url'];
+require 'content/'.$url;
+// */
+
+///////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////
+
+
+$txtContent = ob_get_contents(); // assign buffer contents to variable
+ob_end_clean(); // end buffer and remove buffer contents
+
+	$Body = 14;
+	$BodySm = $Body - 2;
+	$RubricHSm = $Body - 3.5;
+	$HymnR = $Body + 2;
+	$Head1 = $Body * 1.9;
+	$Head0 = $Head1 + 3;
+	$Head2 = $Body * 1.1;
+	$Head3 = $Body * 1.1;
+
+$html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+		"http://www.w3.org/TR/html4/loose.dtd">  
+		<html><head>
+	<title>Officium Divinum</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<link href="/b/htm_p.css?v=2" rel="stylesheet" type="text/css" />
+	<!-- position:fixed;left:0;background-color:gray; -->
+	<STYLE type="text/css">
+	#controls { font-size:20px; }
+	</STYLE>
+	<script type="text/javascript" src="/b/jquery-1.7.2.min.js"></script>
+	<!-- <script type="text/javascript" src="https://getfirebug.com/firebug-lite.js">
+	{ startOpened:true }
+	</script> -->
+	</head>
+	<body class="" id=""><div id="body-center">
+	<div id="controls">
+		<button id="nd">Toggle Theme</button>
+		&nbsp; <button id="par">Parallel</button> 
+		<button id="la">Latin</button>
+		<button id="en">English</button><br/>
+		Font size: <button id="fadd"> + </button> 
+		&nbsp; <button id="fsub"> - </button>
+		&nbsp; <button id="freset">Reset</button> <span id="fsize"></span><br/>
+	</div><br/>
+	<script>
+		function cookieSave(name, val) {
+			document.cookie = name+"="+val
+				+";domain="+window.location.hostname+";path=/";
+		}
+		function cookieGet(name) {
+			var rx = RegExp("\\\\b"+name+"=(\\\\w*)","i");
+			var match = document.cookie.match(rx);
+			if(Array.isArray(match) && match.length>1)
+				return match[1];
+			return "";
+		}
+
+		$("#nd").click(function() { 
+			$("body").toggleClass("night");
+			cookieSave("night", $("body").is(".night"));
+		});
+		$("#fadd, #fsub, #freset").click(function() {
+			var type = $(this).attr("id");
+			if(type=="freset") {
+				$("body").css("font-size","");
+				cookieSave("font","");
+				$("#fsize").html("");
+				return;
+			}
+
+			var size = $("body").css("font-size");
+			var iSize = Math.round(size.replace(/[^0-9.]/g,""))
+			var uSize = size.replace(/[0-9.]/g,"");
+			if(type=="fadd") iSize++;
+			else iSize--;
+			size = iSize+uSize;
+			cookieSave("font",size);
+			$("body").css("font-size", size);
+			$("#fsize").html(size);
+		});
+		$("#par, #la, #en").click(function() {
+			var type = $(this).attr("id");
+			setcoltype(type);
+			cookieSave("col", type);
+		});
+		function setcoltype(type){
+			if(type=="en") $("body").addClass("en");
+			else $("body").removeClass("en");
+			if(type=="par") $("body").removeClass("onecol");
+			else $("body").addClass("onecol");
+		}
+		var coltype = cookieGet("col");
+		setcoltype(coltype);
+
+		var fontSize = cookieGet("font");
+		$("#fsize").html(fontSize);
+		$("body").css("font-size", fontSize);
+		var bodyNight = cookieGet("night");
+		if(bodyNight=="true") 
+			$("body").addClass("night");
+	</script>
+	';
+
+$regex=array(
+	'/<draw:frame.*rel-width="(\d*)%".*href="\.\.\/([^"]*").*<\/draw:frame>/',
+	'/<text:note.*text:label="([^"]*)".*<p:Footnote>(.*)<\/p>.*<\/text:note>/',
+	'/<text:bookmark-ref[^>]*text:ref-name="([^"]*)"[^>]*>/',
+	'/<\/text:bookmark-ref>/',
+	'/<text:bookmark.*text:name="([^"]*)"\/>/',
+	'/\*/',
+	'/<l>/',
+	'/<r>/',
+	'/<sr>/',
+	'/<srh>/',
+	'/<snr>/',
+	'/<sb>/',
+	'/<si>/',
+	'/<[ph]:([^\/>]*)>/',
+	'/<[ph]:([^\/>]*)\/>/',
+	'/<\/[ph]>/',
+	'/<s:([^\/>]*)>/',
+	'/<s:([^\/>]*)\/>/',
+	'/<\/s>/',
+	'/<table([^:>]*)>/',
+	'/<td:([^\/>]*)/',
+	'/<t2>([^<]*)/',
+	'/<t>/',
+	'/<br\/*>/',
+	'/cœtui/', '/cœtibus/', '/fœdera/', '/fœdere/', '/fœderis/', '/fœtidum/',
+	'/pœnitens/',
+	'/(?<!\pL)Á/u', '/(?<!\pL)É/u', '/(?<!\pL)Í/u', 
+	'/(?<!\pL)Ó/u', '/(?<!\pL)Ú/u', '/(?<!\pL)Ý/u', '/(?<!\pL)Ǽ/u'
+	//,'/ff/', '/fi/', '/fl/', '/ffi/', '/ffl/', '/st/', '/ct/'
+);
+$repl=array(
+	'<img src="/b/\2 width=\1%>',
+	'</td></tr><tr><td colspan=2><span style="font-size:100%;color:red">\1\2</span>',
+	'<a href="#\1">',
+	'</a>',
+	'<a class="anchor" id="\1" name="\1"></a>',
+	'<sr>*</s>',
+	'<s:L>',
+	'<s:Red>',
+	'<s:Rubric>',
+	'<s:RubricH>',
+	'<s:NonRubric>',
+	'<s:Bold>',
+	'<s:Italic>',
+	'<div class="\1">',
+	'<div class="\1">&nbsp;</div>',
+	'</div>',
+	'<span class="\1">',
+	'<span class="\1"/>',
+	'</span>',
+	'<table>',
+	'<td class="\1"',
+	'<span style="float:right;">\1</span>',
+	'&nbsp;',
+	'<br/>',
+	'cœ́tui', 'cœ́tibus', 'fœ́dera', 
+	'fœ́dere', 'fœ́deris', "fœ́tidum",
+	'pœ́nitens',
+	'A', 'E', 'I', 'O', 'U', 'Y', 'Æ'
+	//,'ﬀ', 'ﬁ', 'ﬂ', 'ﬃ', 'ﬄ', 'ﬆ', '﬇'
+);
+// fb00 = ff, fi, fl, ffi, ffl, x, st, ct
+
+//'/<p:BodyLDrop>([^<]*)<t><br\/>(.*)
+//	<p:BodyEDrop>([^<]*)<t><br\/>(.*)'
+$txtContent = preg_replace($regex,$repl,$txtContent);
+
+/************** ADD INDEX ********************************/
+$idx = "<div style='text-align:left;' class='Index'>\n";
+$idxc = 1;
+if(!isset($idxtype)) $idxtype = 'Head[12]';
+if(preg_match('/^5PropS.*/i',$_GET["url"])) $idxtype = 'Head(?:1NI|2)';
+$show2 = true;
+if(preg_match('/^1Ordinary.*/i',$_GET["url"])) $show2 = false;
+
+$shortb = false;
+if(preg_match('/^(?:3PropT|5PropS).*/i',$_GET["url"])) $shortb=true;
+
+$divloc = mb_strlen($idx);
+$psloc = -1;
+$txtContent = preg_replace_callback(
+	'/(?<td><td[^>"]*"(?<tdc>[^"]*)"[^>]*>[^<]*)?(?<ot><div class="(?<cl>'.$idxtype.')">)(?<txt>(?:.(?!<\/div>))*.)(?<ct><\/div>(?:<div class="Head4">[^-<]*-(?:[^-<]*-)?\s*(?<t2>[^-<]*)<)?)/is',
+	"fn_index",
+	$txtContent);
+
+function fn_index($matches) {
+	global $idx, $idxc, $shortb, $show2, $psloc;
+	//echo "$matches[0]";
+	//echo "<pre style='text-align:left;background-color:white;'>". htmlspecialchars(var_export($matches,1)) ."</pre>";
+	$saintdate = '';
+	if(isset($matches['t2'])) $saintdate = $matches['t2'].' - ';
+	$shorts = [ "Feria Secunda"=>'II', "Feria Tertia"=>'III', 
+		"Feria Quarta"=>'IV', "Feria Quinta"=>'V', 
+		"Feria Sexta"=>'VI', "Sabbato"=>'Sab.',
+		"ad I Vésperas"=>"1V",
+		"ad Matutínum"=>"M",
+		"In I Nocturno"=>"N1",
+		"In II Nocturno"=>"N2",
+		"In III Nocturno"=>"N3",
+		"ad Laudes"=>"L",
+		"ad Primam"=>"P",
+		"ad Tértiam"=>"T",
+		"ad Sextam"=>"S",
+		"ad Nonam"=>"N",
+		"ad II Vésperas"=>"2V",
+		"ad Vésperas"=>"V",
+		"ad Completórium"=>"C"
+		];
+	if($matches['txt']=='Pars Specialis') {
+		$show2 = true;
+		$shortb = true;
+		$psloc = mb_strlen($idx);
+	}
+	
+	$lClass = '';
+	if(isset($matches['tdc']) && strlen($matches['tdc'])>0) $lClass='a-'.$matches['tdc'];
+	if($matches['cl']!='Head2' || $show2) {
+		if($shortb && isset($shorts[$matches['txt']])) {
+				/*
+				$idx = preg_replace('/<br.?>$/i', ' - ', $idx);
+				*/
+				$idx = preg_replace("/\ba-toc\b(.*?)$/i", '$1 - ', $idx);
+				$repl = $shorts[$matches['txt']];
+				$idx .= " <a class='$lClass' href='#index_loc_$idxc'>$repl</a>";
+		} else {
+			$idx .= "<a class='a-toc $lClass' href='#index_loc_$idxc'>$saintdate{$matches['txt']}</a>\n";
+		}
+		$retval = "{$matches['td']}{$matches['ot']}<a name='index_loc_$idxc'/>{$matches['txt']}{$matches['ct']}";
+		$idxc++;
+		return $retval;
+	}
+	else return;
+}
+$idx .= "</div>\n";
+//echo $divloc, $psloc;
+
+if($psloc>0) {
+	$txtContent = preg_replace('/(<a[^>]*name="orSeason".*?<.div>)/i', 
+	'\1' . mb_substr($idx, 0, $divloc) . mb_substr($idx, $psloc), $txtContent);
+}
+
+// special function to wrap various sections in a div
+// this gives the ability to show/hide sections
+/*
+$txtContent = preg_replace_callback(
+	'/<div class="Hidden([12])">(.*)<\/div>/',
+	'hdiv',
+	$txtContent);
+*/
+
+$html2 = '</div>
+<script type="text/javascript">
+	var $tr = $("tr");
+	$tr.click(function(){
+		// no toggle if text is selected, to allow for copy/paste
+		var sel = document.getSelection().toString();
+		if(typeof sel=="string" && sel.length>0) return;
+		$(this).toggleClass("visible");
+		$tr.not(this).removeClass("visible");
+	});
+	var $doc = $(document);
+	$doc.keydown(function(e) {
+		//console.log(e);
+		if(!/android/i.test(navigator.userAgent)) return;
+		if(e.keyCode==40 || e.keyCode==74) { //down, j
+			var y = $doc.scrollTop();
+			$doc.scrollTop(y+50);
+			return false;
+		} else if(e.keyCode==38 || e.keyCode==75) { //up, k
+			var y = $doc.scrollTop();
+			$doc.scrollTop(y-50);
+			return false;
+		} else if(e.keyCode==84) { //t = top
+			$doc.scrollTop(0);
+			return false;
+		} else if(e.keyCode==66) { //b = bottom
+			$doc.scrollTop($doc.height());
+			return false;
+		} else return;
+	});
+</script>
+</body>
+</html>';
+
+$html = $html1 . $idx . $txtContent . $html2;
+// handle hyphenation
+//*
+require 'content/fn/hyph.php';
+$hyph = new hyph();
+$html = $hyph->html($html);
+// */
+
+echo $html;
+
+function hdiv($matches)
+{
+	$x=uniqid("t"); 
+	return '</div><div class="Hidden'.$matches[1].
+		'" onClick="h10(\''.$x.'\');">'.$matches[2].
+		'</div><div id="'.$x.'" class="h'.$matches[1].'">';
+}
+
+?>

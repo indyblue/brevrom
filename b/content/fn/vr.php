@@ -14,8 +14,13 @@ function vr($file, $option=0) {
 function vrS($file, $option=0, $option2=0) {
 	$dir = $_GET['root'] . "/00/VR/";
 
-	$Lpieces = file_load($dir.$file);
-	$Epieces = file_load($dir.E($file));
+	if(is_array($file)) {
+		$Lpieces = $file[0];
+		$Epieces = $file[1];
+	} else {
+		$Lpieces = file_load($dir.$file);
+		$Epieces = file_load($dir.E($file));
+	}
 	
 	$iLfile = (int)(count($Lpieces));
 	$iEfile = (int)(count($Epieces));

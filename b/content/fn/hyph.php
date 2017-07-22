@@ -249,12 +249,12 @@ class hyph {
 		// no hyphen in consonant groups at beginning of word
 		foreach($cons as $i) {
 		foreach($cons as $j) {
-			$ret[] = "_{$i}8{$j}";
+			$ret[] = "_{$i}8{$j}8";
 		}}
 		foreach($cons as $i) {
 		foreach($cons as $j) {
 		foreach($cons as $k) {
-			$ret[] = "_{$i}8{$j}8{$k}";
+			$ret[] = "_{$i}8{$j}8{$k}8";
 		}}}
 
 		// override certain consonant pairs

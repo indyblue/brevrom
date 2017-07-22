@@ -46,6 +46,34 @@ function rubp($Ltxt, $Etxt, $par=0, $sm=0) {
 ';
 }
 
+function txtp($Ltxt, $Etxt, $type='') {
+	if($_GET['par']) $par=1;
+	if($par==0 && strlen($Ltxt)>0 && strlen($Etxt)>0) {
+		if($_GET['L']==1) {
+			if(strlen($Ltxt . $Etxt)<50 && strlen($Etxt)>0);
+			// else $Etxt = '';
+		} else { 
+			if(strlen($Ltxt . $Etxt)<50 && strlen($Ltxt)>0) $Ltxt='';
+			else $Ltxt = '';
+		}
+	}
+	
+	if($sm) $sm='Sm';
+	else $sm='';
+
+	if(strlen($Ltxt)==0) echo "<p:BodyE$type>$Etxt</p>";
+	elseif(strlen($Etxt)==0) echo "<p:BodyL$type>$Ltxt</p>";
+	else echo "
+  <table>
+   <tr><td:A1>
+   <p:BodyL$type>$Ltxt</p>
+   </td><td:B1>
+   <p:BodyE$type>$Etxt</p>
+  </td></tr></table>
+";
+}
+
+
 // reference to common of saints
 // $cs - bookmark for common of saints
 //       (if 0, only psalm text inserted)

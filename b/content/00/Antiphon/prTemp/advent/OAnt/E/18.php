@@ -1,1 +1,1 @@
-O Adonái, * et Dux domus Israël, qui Móysi in igne flammæ rubi apparuísti, et ei in Sina legem dedísti: veni ad rediméndum nos in bráchio exténto.
+O Adonai, * and leader of the house of Israel, who appearedst to Moses in the fire of the flaming bush, and on Sinai gavest him the law: come and redeem us by thy outstretched arm.
