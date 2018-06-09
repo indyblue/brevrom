@@ -216,12 +216,13 @@ if($matins) {
 	vrS('audivi_vocem_de_caelo_dicentem_mihi.php');
 
 	space();
-	ant('offDefb.php','B');	
 	if($long==0) {
+		ant('offDefb.php','B');	
 		rubp('Canticum <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>', 'The Canticle <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>',1);
 		rubp('In fine dicitur <snr>Réquiem ætérnam</s>, deinde repetitur antiphona.', 'At the end, in place of the <snr>Glória Patri</s>, is said <snr>Réquiem ætérnam</s>, then the antiphon is repeated.',1);
 		reading('vr/requiem_aeternam.php',0);
 	} else {
+		ant('offDefb.php','*');	
 		canticle('benedictus.php');
 		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');
@@ -370,12 +371,13 @@ if($old==1) {
 	vrS('audivi_vocem_de_caelo_dicentem_mihi.php');
 
 	space();
-	ant('offDefm.php','M');
 	if($long==0) {
+		ant('offDefm.php','M');
 		rubp('Canticum <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>', 'The Canticle <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>',1);
 		rubp('In fine dicitur <snr>Réquiem ætérnam</s>, deinde repetitur antiphona.', 'At the end, in place of the <snr>Glória Patri</s>, is said <snr>Réquiem ætérnam</s>, then the antiphon is repeated.',1);
 		reading('vr/requiem_aeternam.php',0);
 	} else {
+		ant('offDefm.php','*');
 		canticle('magnificat.php');
 		reading('vr/requiem_aeternam.php',0);
 		space('Spacer');

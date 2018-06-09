@@ -88,7 +88,7 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/kyrie.php');
 		space();
 	}
-	vr('dv_de.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vr('oremus.php');
 	prayer('prSanct/0325.php');
 
@@ -102,7 +102,7 @@ if($weekly) rubp('','Full Psalter:
 		space();
 	}
 
-	vr('dv_de_short.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
 	space();
@@ -146,10 +146,10 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/kyrie.php');
 		space();
 	}
-	vr('dv_de.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vr('oremus.php');
 	prayer('BVMp_P.php');
-	vr('dv_de_short.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
 	space();
@@ -197,10 +197,10 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/kyrie.php');
 		space();
 	}
-	vr('dv_de.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vr('oremus.php');
 	prayer('csBVMSat1.php');
-	vr('dv_de_short.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
 	space();
@@ -248,10 +248,10 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/kyrie.php');
 		space();
 	}
-	vr('dv_de.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vr('oremus.php');
 	prayer('BVMp_S.php');
-	vr('dv_de_short.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
 	space();
@@ -297,10 +297,10 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/kyrie.php');
 		space();
 	}
-	vr('dv_de.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vr('oremus.php');
 	prayer('BVMp_N.php');
-	vr('dv_de_short.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
 	space();
@@ -364,7 +364,7 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/kyrie.php');
 		space();
 	}
-	vr('dv_de.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vr('oremus.php');
 	prayer('csBVM1.php');
 
@@ -378,7 +378,7 @@ if($weekly) rubp('','Full Psalter:
 		space();
 	}
 
-	vr('dv_de_short.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
 	vrS('fidelium_animae.php');
 	space();
@@ -436,10 +436,10 @@ if($weekly) rubp('','Full Psalter:
 		reading('vr/kyrie.php');
 		space();
 	}
-	vr('dv_de.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vr('oremus.php');
 	prayer('BVMp_C.php');
-	vr('dv_de_short.php');
+	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
 	vr('compline_bened.php');
 
