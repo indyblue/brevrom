@@ -1,2 +1,2 @@
-Requiéscat <sr>(vel</s> Requiéscant<sr>)</s> in pace.
+Requiésca<sr>(</s>n<sr>)</s>t  in pace.
 Amen.

@@ -210,7 +210,7 @@ if($matins) {
 	vrS('audivi_vocem_de_caelo_dicentem_mihi.php');
 
 	space();
-	ant('offDefb.php','B');	
+	ant('offDefb.php','*');	
 	canticle('benedictus.php');
 	reading('vr/requiem_aeternam.php',0);
 	space('Spacer');
@@ -229,10 +229,9 @@ if($old==1) {
 }
 
 	bookmark('offDefPreces');
-	vrS('a_porta_inferi_sing.php');
-	vrS('requiescant_in_pace_sing.php');
+	vrS('a_porta_inferi.php');
+	vrS('requiescant_in_pace.php');
 	vrS('domine_exaudi_orationem_meam.php'); 
-	vrS('dominus_vobiscum_non.php'); 
 	vr('oremus.php'); 
 	bookmark('offDefPrayer');
 	if($old==1) {
@@ -359,17 +358,11 @@ if($htm==1) {
 	vrS('audivi_vocem_de_caelo_dicentem_mihi.php');
 
 	space();
-	ant('offDefm.php','M');
-	if($long==0) {
-		rubp('Canticum <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>', 'The Canticle <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>',1);
-		rubp('In fine dicitur <snr>Réquiem ætérnam</s>, deinde repetitur antiphona.', 'At the end, in place of the <snr>Glória Patri</s>, is said <snr>Réquiem ætérnam</s>, then the antiphon is repeated.',1);
-		reading('vr/requiem_aeternam.php',0);
-	} else {
-		canticle('magnificat.php');
-		reading('vr/requiem_aeternam.php',0);
-		space('Spacer');
-		ant('offDefm.php','1');
-	}
+	ant('offDefm.php','*');
+	canticle('magnificat.php');
+	reading('vr/requiem_aeternam.php',0);
+	space('Spacer');
+	ant('offDefm.php','1');
 	space();
 
 	rubp('Preces infrascriptæ dicuntur flexis genibus:','The following prayers are said kneeling:');
@@ -385,16 +378,14 @@ if($old==1) {
 		rubp('Preces, <snr>A porta ínferi</s>, cum reliquis, ut ad Laudes, p. <snr>'.bkref('offDefPreces').'</s>.','Prayers, <snr>From the gates of hell</s>, with the rest, as in Lauds, p. <snr>'.bkref('offDefPreces').'</s>.');
 	} else {
 		bookmark('offDefPreces');
-		vrS('a_porta_inferi_sing.php');
-		vrS('requiescant_in_pace_sing.php');
+		vrS('a_porta_inferi.php');
+		vrS('requiescant_in_pace.php');
 		vrS('domine_exaudi_orationem_meam.php'); 
-		vrS('dominus_vobiscum_non.php'); 
 		vr('oremus.php'); 
-		//rubp('Dicitur oratio conveniens ex iis, p. <snr>'.bkref('offDefPrayer').'</s>; deinde versus <snr>Réquiem ætérnam,</s> cum reliquis, ut infra.','Then the proper Prayer(s) are said, p. <snr>'.bkref('offDefPrayer').'</s>; then the verse <snr>Eternal rest,</s> with the rest, as below.');
 		if($old==1) {
-		prayer('offDef/bishop2.php',0);
-		prayer('offDef/brethren2.php',0);
-		prayer('offDef/offDef.php',0);
+			prayer('offDef/bishop2.php',0);
+			prayer('offDef/brethren2.php',0);
+			prayer('offDef/offDef.php',0);
 		} else {
 			prayer('offDef/brethren2.php',0);
 			prayer('offDef/offDef.php');
