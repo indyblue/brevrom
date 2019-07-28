@@ -30,7 +30,7 @@
 body { font-size:1.37em; }
 .Body, .BodyL, .BodyE { font-size:100% }
 .BodySm, .BodyLSm, .BodyESm {font-size:94%;}
-.BodyIndent, .BodyLIndent, .BodyEIndent 
+.BodyIndent, .BodyLIndent, .BodyEIndent
 	{text-indent:1em;}
 	.Head0 {font-size:160%;}
 	.Head1, .Head1NI {font-size:140%;}
@@ -54,9 +54,9 @@ body.night span.NonRubric {
 	color:white;
 }
 body.night div.Hidden2 {
-	visibility:visible; 
-	padding:1px 20px; 
-	margin:0 0 1px 0; 
+	visibility:visible;
+	padding:1px 20px;
+	margin:0 0 1px 0;
 	background-color:#222;
 	border:1px solid #666;
 	color:#666;
@@ -64,7 +64,7 @@ body.night div.Hidden2 {
 
 body {
 	font-family:FreeSerif, serif;
-	padding:0px; 
+	padding:0px;
 	text-align:center;
 	-webkit-font-variant-ligatures: common-ligatures;
 	font-variant-ligatures: common-ligatures;
@@ -78,33 +78,33 @@ body {
 	background-color:#ffd;
 }
 
-table { 
-	width:100%; 
+table {
+	width:100%;
 	border-collapse:collapse;
 }
 table, td, tr {
-	border-width:0px; 
+	border-width:0px;
 	border-style:solid;
-	margin:0px; 
+	margin:0px;
 	padding:0px;
-	border-color:red; 
-	vertical-align:top; 
+	border-color:red;
+	vertical-align:top;
 }
-td.A1 { 
-	padding:0 6px 0 0; 
+td.A1 {
+	padding:0 6px 0 0;
 	width:48%;
 }
-td.B1 { 
-	padding:0 0 0 6px; 
-	width:52%; 
-	border-width:0 0 0 1px; 
+td.B1 {
+	padding:0 0 0 6px;
+	width:52%;
+	border-width:0 0 0 1px;
 }
 
 div {
-	margin:0px; 
-	padding:0px; 
+	margin:0px;
+	padding:0px;
 	text-align:justify;
-	vertical-align:top; 
+	vertical-align:top;
 }
 div.HymnL, div.HymnE {
 	text-align:left;
@@ -119,27 +119,41 @@ div.HymnL, div.HymnE {
 }
 
 
+.night div.BodyDrop::first-letter,
+.night div.BodyLDrop::first-letter,
+.night div.BodyEDrop::first-letter {
+		background-color:#444;
+}
+
 div.BodyDrop::first-letter,
 div.BodyLDrop::first-letter,
-div.BodyEDrop::first-letter { 
-	font-family:BlackLetter;
-	font-size:400%; 
+div.BodyEDrop::first-letter {
+	/*font-family:BlackLetter;*/
+	/*font-size:400%;*/
 	/*font-weight:bold;*/
-	float:left; 
-	width:1em; 
+	float:left;
+	width:1em;
 	color:red;
+  font-size: 2.1em;
+  border: 3px double;
+	background-color:#ddb;
+  line-height: 1;
+  padding: 0em .1em;
+  margin-right: 2px;
+  /*background: url(/b/Images/print_bkg.svg);
+  background-size: 200%;*/
 }
-div.Rubric, 
-div.RubricH, 
+div.Rubric,
+div.RubricH,
 div.RubricHSm {
-	font-style:italic; 
+	font-style:italic;
 	color:red;
 }
 div.RubricHidden {
 	display:none;
-	visibility:hidden; 
-	height:0px; 
-	font-style:italic; 
+	visibility:hidden;
+	height:0px;
+	font-style:italic;
 	color:red;
 }
 div.BkHidden {visibility:hidden; height:0px}
@@ -148,15 +162,15 @@ div.Head0,
 div.Head1,
 div.Head1NI,
 div.Head2 {
-	text-align:center; 
+	text-align:center;
 	font-variant:small-caps;
 }
 div.Head2Ps,
 div.Head2Cant,
-div.Head4, 
+div.Head4,
 div.Head5 {
 	text-align:center;
-	font-style:italic; 
+	font-style:italic;
 	color:red;
 }
 div.Head3 {
@@ -168,9 +182,9 @@ div.Head3ni {
 }
 div.Spacer {font-size:2pt;}
 div.Line {
-	font-size:2pt; 
-	border-width:0px 0px 1px 0px; 
-	border-color:red; 
+	font-size:2pt;
+	border-width:0px 0px 1px 0px;
+	border-color:red;
 	border-style:solid;
 }
 span.BRed { color:red; font-size:110%; font-weight:bold; }
@@ -179,9 +193,9 @@ span.HymnR { color:red; font-weight:bold; }
 span.Red { color:red; font-size:60%; }
 span.Rubric { font-style:italic; color:red; }
 span.RubricH {
-	font-style:italic; 
-	color:red; 
-	font-size:58%; 
+	font-style:italic;
+	color:red;
+	font-size:58%;
 	vertical-align:top;
 }
 span.NonRubric {font-style:normal; color:black;}
@@ -189,41 +203,41 @@ span.Italic {font-style:italic;}
 span.Bold {font-weight:bold; color:red;}
 span.BoldR {font-weight:bold; color:red;}
 span.BoldRC {
-	font-weight:bold; 
-	color:red; 
+	font-weight:bold;
+	color:red;
 	text-transform:uppercase;
 }
 span.AllCaps {text-transform:uppercase;}
 span.SmCaps {font-variant:small-caps;}
 span.Super {font-size:58%; vertical-align:top;}
 span.DropCap {
-	font-weight:bold; 
+	font-weight:bold;
 	color:red;
 }
 span.VR {
-	font-family:FancyVR, serif;	
-	color:red; 
+	font-family:FancyVR, serif;
+	color:red;
 	font-style:normal;
 }
 span.NH {}
 span.L {font-style:italic;}
 
 div.Hidden1 {
-	display:none; 
-	padding:1px 20px; 
+	display:none;
+	padding:1px 20px;
 	background-color:gray;
 }
 div.Hidden2 {
-	display:none; 
-	visibility:visible; 
-	padding:1px 20px; 
-	margin:0 0 1px 0; 
+	display:none;
+	visibility:visible;
+	padding:1px 20px;
+	margin:0 0 1px 0;
 	background-color:gray;
 }
 
 div.h1 {
-	height:auto; 
-	visibility:visible; 
+	height:auto;
+	visibility:visible;
 	overflow:hidden;
 }
 
@@ -231,47 +245,47 @@ a.a-toc {display:block;}
 a.a-B1, a.a-B2 { display:none; }
 
 	body.onecol td.A1,
-	body.onecol.en a.a-B1, 
+	body.onecol.en a.a-B1,
 	body.onecol.en a.a-B2
 	{ display:block; width:auto; }
-	
-	body.onecol td.B1, 
+
+	body.onecol td.B1,
 	body.onecol td.B2,
 	body.onecol.en td.A1,
 	body.onecol.en a.a-A1
 	{ display:none; }
 
-	body.onecol tr.visible td.B1, 
+	body.onecol tr.visible td.B1,
 	body.onecol tr.visible td.B2,
-	body.onecol.en tr.visible td.A1 { 
-		display:block; 
+	body.onecol.en tr.visible td.A1 {
+		display:block;
 		width:auto;
 		padding:3px;
-		margin-left:1em; 
+		margin-left:1em;
 		border:1px solid red;
 		border-radius:5px 0 0 5px;
 		background-color:#dc8;
 	}
-	body.night.onecol tr.visible td.B1, 
+	body.night.onecol tr.visible td.B1,
 	body.night.onecol tr.visible td.B2,
-	body.night.onecol.en tr.visible td.A1 { 
+	body.night.onecol.en tr.visible td.A1 {
 		border-color:#700;
 		background-color:#120;
 	}
-	
+
 	body.onecol.en tr {
 		display:flex;
 		flex-direction:column;
 		flex-flow: column-reverse wrap;
 	}
-	body.onecol.en td.B1, body.en td.B2 { 
-		display:block; 
-		width:auto; 
-		border:0px; 
+	body.onecol.en td.B1, body.en td.B2 {
+		display:block;
+		width:auto;
+		border:0px;
 	}
 
-	body.onecol.en tr.visible td.B1, 
-	body.onecol.en tr.visible td.B2 { 
+	body.onecol.en tr.visible td.B1,
+	body.onecol.en tr.visible td.B2 {
 		margin-left:auto;
 		border:0px;
 		background-color:transparent;
