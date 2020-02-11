@@ -211,11 +211,8 @@ class hyph {
 	private function lahyph() {
 		$path = __DIR__ . "/../../hyph/curr/";
 		$txt = file_get_contents($path."hyph.la.liturgical.txt");
-		error_log(substr($txt, 0, 200));
-		$txt = preg_replace("/^\.|\.$/m", "_", $txt);
-		error_log(substr($txt, 0, 200));
+		$txt = preg_replace("/^\\.|\\.$/m", "_", $txt);
 		$ret = preg_split("/[\\r\\n]+/", $txt);
-		error_log(substr(json_encode($ret), 0, 200));
 		return $ret;
 	}
 	private function h2u($code) {
