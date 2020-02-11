@@ -4,6 +4,17 @@
 	<meta name="viewport" content="width=device-width"/>
 		<title>Breviarium Romanum</title>
 	<link href="/b/htm_k.css" rel="stylesheet" type="text/css" />
+	<script>
+			if ('serviceWorker' in navigator) {
+				navigator.serviceWorker.register('/b/htm_k_sw.js')
+					.then(function(registration) {
+						console.log('Registration successful, scope is:', registration.scope);
+					})
+					.catch(function(error) {
+						console.log('Service worker registration failed, error:', error);
+					});
+			}
+	</script>
 	</head>
 	<body>
 
