@@ -24,7 +24,8 @@ function first_word($sline,$minlen=2,$retarr=0) {
 	elseif($retarr<0)
 		return $split[0];
 	else
-		return mb_strtoupper($split[0]) . ' ' . $split[2];
+		return ($split[0]) . ' ' . $split[2];
+		//return mb_strtoupper($split[0]) . ' ' . $split[2];
 	//	return '<s:AllCaps>' . $split[0] . '</s> ' . $split[2];
 	//	<s:SmCaps></s>
 	//	<s:AllCaps></s>

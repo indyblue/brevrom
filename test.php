@@ -1,6 +1,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <pre>
 <?php
+phpinfo();
+exit;
 /*
 echo "\n---123456789\n";
 	for($i=0;$i<10;$i++) {

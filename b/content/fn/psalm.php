@@ -273,7 +273,7 @@ function line_count($num, $part, $dir) {
 		trigger_error('File for Ps '. $fname .' does not exist.', E_USER_ERROR);
 
 	$callback = create_function('$args',
-		'return preg_match("^[~<]|^$",$args)===False;');
+		'return preg_match("/^[~<]|^$/",$args)===False;');
 	$pieces = array();
 	foreach($ls as $i) {
 		if(strpos($i,$fpart)!==false) break;
