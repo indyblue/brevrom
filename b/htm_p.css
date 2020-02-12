@@ -27,6 +27,8 @@
 	src: url(font/oldlondon.woff);
 }
 
+body { padding-bottom: 30em !important; }
+
 body { font-size:1.37em; }
 .Body, .BodyL, .BodyE { font-size:100% }
 .BodySm, .BodyLSm, .BodyESm {font-size:94%;}
@@ -291,4 +293,3 @@ a.a-B1, a.a-B2 { display:none; }
 		background-color:transparent;
 		border-radius:0;
 	}
-
