@@ -7,10 +7,15 @@
 	divOut.style.maxHeight = '10em';
 	divOut.style.overflowY = 'auto';
 	divOut.style.fontSize = '10pt';
-	divOut.style.border = '1px solid black';
-	document.body.appendChild(btnInst);
-	document.body.appendChild(btnUninst);
-	document.body.appendChild(divOut);
+	divOut.style.border = '1px solid #888';
+	const divTools = document.createElement('div');
+	divTools.style.paddingTop = '4em';
+	divTools.appendChild(btnInst);
+	divTools.appendChild(btnUninst);
+	divTools.appendChild(divOut);
+
+	const divBody = document.querySelector('#body') || document.body;
+	divBody.appendChild(divTools);
 
 	const cbout = (...o) => {
 		console.log(...o);
@@ -23,16 +28,16 @@
 	let sendMessage = n => { };
 	let swReg = n => { };
 	if ('serviceWorker' in navigator) {
-
+		const cacheName = 'pages-cache-v1' + location.pathname.replace(/[^\w]+/g, '_').trim('_');
 		swReg = function(unreg) {
 			if (unreg === undefined) unreg = localStorage.getItem('unreg');
 			if (unreg < 0) return;
-			navigator.serviceWorker.register('/b/htm_sw.js', { scope: '/' })
+			navigator.serviceWorker.register('/b/htm_sw.js#' + cacheName)
 				.then(function(registration) {
-					navigator.serviceWorker.addEventListener('message', event => {
+					navigator.serviceWorker.onmessage = event => {
 						cbout(event.data);
 						if (event.data === 'unreg') registration.unregister();
-					});
+					};
 					cbout('Registration successful, scope is:', registration.scope);
 					if (unreg === 1) {
 						sendMessage('del');
@@ -56,9 +61,10 @@
 			.filter((x, i, a) => a.indexOf(x) === i);
 		const strHrefs = JSON.stringify(hrefs);
 		sendMessage = function(n) {
-			if (navigator.serviceWorker.controller)
+			if (navigator.serviceWorker.controller) {
+				cbout('message');
 				navigator.serviceWorker.controller.postMessage(n || strHrefs);
-			else setTimeout(sendMessage, 500);
+			} else if (!n) setTimeout(sendMessage, 500);
 		}
 
 	}
