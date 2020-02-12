@@ -33,7 +33,7 @@
 			if (unreg === undefined) unreg = localStorage.getItem('unreg');
 			if (unreg < 0) return;
 			navigator.serviceWorker.register('/b/htm_sw.js#' + cacheName)
-				.then(function(registration) {
+				.then(async function(registration) {
 					navigator.serviceWorker.onmessage = event => {
 						cbout(event.data);
 						if (event.data === 'unreg') registration.unregister();
@@ -48,6 +48,10 @@
 						sendMessage();
 						registration.update();
 						localStorage.setItem('unreg', 0);
+						if (navigator.storage && navigator.storage.persist) {
+							const isp = await navigator.storage.persist();
+							cbout('Persistant storage? ' + isp);
+						}
 					}
 				})
 				.catch(function(error) {
