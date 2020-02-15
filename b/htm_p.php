@@ -65,7 +65,7 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	<title>Officium Divinum</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<link href="/b/htm_p.css?v=2" rel="stylesheet" type="text/css" />
+	<link href="/b/htm_p.css" rel="stylesheet" type="text/css" />
 	<!-- position:fixed;left:0;background-color:gray; -->
 	<STYLE type="text/css">
 	#controls { font-size:20px; }
@@ -85,7 +85,7 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 		&nbsp; <button id="fsub"> - </button>
 		&nbsp; <button id="freset">Reset</button> <span id="fsize"></span><br/>
 	</div><br/>
-	<script src="htm_p.js"></script>
+	<script src="/b/htm_p.js"></script>
 	';
 
 $regex=array(

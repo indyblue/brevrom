@@ -8,5 +8,5 @@ For he is my God and my saviour: * he is my helper, I shall not be moved.
 In God is my salvation and my glory: * he is the God of my help, and my hope is in God.
 Trust in him, all ye congregation of people: pour out your hearts before him. * God is our helper for ever.
 But vain are the sons of men, the sons of men are liars in the balances: * that by vanity they may together deceive.
-Trust not in iniquity, and cover not robberies: * if riches abound, set not your heart upon them.
+Trust not in iniquity, and covet not robberies: * if riches abound, set not your heart upon them.
 God hath spoken once, these two things have I heard, that power belongeth to God, and mercy to thee, O Lord; * for thou wilt render to every man according to his works.

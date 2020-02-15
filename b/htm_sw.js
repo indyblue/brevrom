@@ -3,17 +3,16 @@ let staticCacheName = 'pages-cache-v1';
 self.addEventListener('install', event => {
 	staticCacheName = self.location.hash.trim('#');
 	logger('Service worker installing...cache ' + staticCacheName);
+	self.skipWaiting();
 
 	event.waitUntil((async () => {
 		var hrefs = preCache.trim().split(/[\r\n]+/g);
 		for (var href of hrefs) await cacheFile(href);
-		self.skipWaiting();
 	})());
 });
 
 self.addEventListener('activate', function(event) {
 	logger('Service worker activating...');
-	// Perform some task
 });
 
 self.addEventListener('fetch', event => {
@@ -29,9 +28,11 @@ const responder = async request => {
 	}
 	logger('Network request for ', request.url);
 	const fres = await fetch(request);
-	const cache = await caches.open(staticCacheName);
-	logger('caching ' + request.url);
-	cache.put(request, fres.clone());
+	if (fres.ok) {
+		const cache = await caches.open(staticCacheName);
+		logger('caching ' + request.url);
+		cache.put(request, fres.clone());
+	}
 	return fres;
 };
 
@@ -74,6 +75,7 @@ self.addEventListener('message', async event => {
 
 const preCache = `
 /b/htm_p.css
+/b/htm_p.js
 /b/jquery-1.7.2.min.js
 /b/font/freeserif.woff
 /b/font/freeserifItalic.woff
