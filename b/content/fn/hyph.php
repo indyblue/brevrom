@@ -26,7 +26,7 @@ echo "</div>";
 
 class hyph {
 	public $charmin = 1;
-	public $charmax = 7;
+	public $charmax = 20;
 	public $leftmin = 2;
 	public $rightmin = 2;
 	public $hyphen = '&shy;';
