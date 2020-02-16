@@ -179,6 +179,7 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 		$size = $size - 10;
 		$interl = true;
 	}
+	if($size<2 && !$_GET['interl-off']) $interl = true;
 	if(strlen($L)==0) {
 		$par = 0;
 		$Llang = 0;
@@ -199,7 +200,7 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 	}
 	if(!$par) {
 		echo '  <p:Head'. $size .'>' . ($Llang==1?$L:$E) ."</p>\n";
-	} 	elseif($size<2 || $interl) { 
+	} 	elseif($interl) { 
 		echo '  <p:Head'. $size .'>' . ($Llang==1?$L:$E) ."</p>\n".
 			'  <p:Head5>' . preg_replace('/<[^>]*>/','',($Llang==1?$E:$L)) ."</p>\n";
 	} 	else { 

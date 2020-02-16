@@ -1,5 +1,5 @@
 Cant. Zachariæ (Luc. 1:68-79)
-Benedíctus † Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:
+Benedíctus Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:
 Et eréxit cornu salútis nobis: * in domo David, púeri sui.
 Sicut locútus est per os sanctórum, * qui a sǽculo sunt, prophetárum ejus:
 Salútem ex inimícis nostris, * et de manu ómnium, qui odérunt nos.

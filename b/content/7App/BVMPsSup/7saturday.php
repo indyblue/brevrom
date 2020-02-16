@@ -50,7 +50,7 @@ include 'dayhour.php';
 	psalm(143,2);
 	psalm(144,1);
 	psalm(144,2);
-	psalm(144,3,1);
+	psalm(144,3);
 
 	dayhoursup(7,'C');
 	psalm(87);

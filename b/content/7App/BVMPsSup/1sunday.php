@@ -7,8 +7,8 @@ include 'dayhour.php';
 	//psalm(8);
 	psalm(9,1);
 	psalm(9,2);
-	psalm(9,3,1);
-	psalm(9,4,1);
+	psalm(9,3);
+	psalm(9,4);
 	psalm(10);
 
 	dayhoursup(1,'L1');
@@ -30,6 +30,7 @@ include 'dayhour.php';
 	head('Psalmus 53','Psalm 53','2Ps'); //psalm(53);
 	psalm(118,1);
 	psalm(118,2);
+	reading('athanasian.php');
 
 	dayhoursup(1,'T');
 	psalm(118,3);

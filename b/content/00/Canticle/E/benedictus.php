@@ -1,5 +1,5 @@
 Cant. Zacharias (Luke 1:68-79)
-Blessed † be the Lord God of Israel; * because he hath visited and wrought the redemption of his people: 
+Blessed be the Lord God of Israel; * because he hath visited and wrought the redemption of his people: 
 And hath raised up an horn of salvation to us, * in the house of David his servant: 
 As he spoke by the mouth of his holy Prophets, * who are from the beginning:
 Salvation from our enemies, * and from the hand of all that hate us: 

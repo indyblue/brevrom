@@ -7,19 +7,19 @@ include 'dayhour.php';
 	psalm(17,1);
 	psalm(17,2);
 	psalm(17,3);
-	psalm(19,0,1);
-	psalm(20,0,1);
-	psalm(29,0,1);
+	psalm(19);
+	psalm(20);
+	psalm(29);
 
 	dayhoursup(2,'L1');
 	psalm(46);
 	head('Psalmus 5 (OD Mat)','Psalm 5','2Ps'); //psalm(5);
 	psalm(28);
 	canticle('david.php');
-	head('Psalmus 116','Psalm 116','2Ps'); //psalm(116,0,1);
+	head('Psalmus 116','Psalm 116','2Ps'); //psalm(116);
 
 	dayhoursup(2,'L2');
-	//psalm(50,0,1);
+	//psalm(50);
 	//psalm(5);
 	//psalm(28);
 	canticle('isaiah12.php');
@@ -51,7 +51,7 @@ include 'dayhour.php';
 	psalm(115);
 	head('Psalmus 119','Psalm 119','2Ps'); //psalm(119);
 	head('Psalmus 120','Psalm 120','2Ps'); //psalm(120);
-	head('Psalmus 121','Psalm 121','2Ps'); //psalm(121,0,1);
+	head('Psalmus 121','Psalm 121','2Ps'); //psalm(121);
 
 	dayhoursup(2,'C');
 	head('Psalmus 6 (OD Mat)','Psalm 6','2Ps'); //psalm(6);

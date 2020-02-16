@@ -1,2 +1,2 @@
-Adjutórium † nostrum in nómine Dómini. 
+Adjutórium nostrum in nómine Dómini. 
 Qui fecit cælum et terram.

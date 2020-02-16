@@ -21,7 +21,7 @@ include 'dayhour.php';
 	dayhoursup(3,'L2');
 	//psalm(50);
 	//psalm(42);
-	//psalm(66,0,1);
+	//psalm(66);
 	canticle('ezechiel.php');
 	//psalm(134);
 

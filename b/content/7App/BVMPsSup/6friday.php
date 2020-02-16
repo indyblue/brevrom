@@ -16,7 +16,7 @@ include 'dayhour.php';
 	psalm(142);
 	head('Psalmus 84','Psalm 84','2Ps'); //psalm(84);
 	canticle('isaiah45.php');
-	head('Psalmus 147','Psalm 147','2Ps'); //psalm(147,0,1);
+	head('Psalmus 147','Psalm 147','2Ps'); //psalm(147);
 
 	dayhoursup(6,'L2');
 	//psalm(50);
@@ -46,10 +46,10 @@ include 'dayhour.php';
 	psalm(88,3);
 
 	dayhoursup(6,'V');
-	psalm(138,1,1);
+	psalm(138,1);
 	psalm(138,2);
 	psalm(139);
-	psalm(140,0,1);
+	psalm(140);
 	psalm(141);
 
 	dayhoursup(6,'C');
