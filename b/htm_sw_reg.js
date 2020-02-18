@@ -1,6 +1,12 @@
 (function setup() {
+	const eMeta = document.createElement('meta');
+	eMeta.setAttribute('name', 'viewport');
+	eMeta.setAttribute('content', 'width=device-width, initial-scale=1.0');
+	document.head.appendChild(eMeta);
 	const btnInst = document.createElement('button');
 	btnInst.innerText = 'Install';
+	const btnUpd = document.createElement('button');
+	btnUpd.innerText = 'Update';
 	const btnUninst = document.createElement('button');
 	btnUninst.innerText = 'Uninstall';
 	const divOut = document.createElement('div');
@@ -11,6 +17,7 @@
 	const divTools = document.createElement('div');
 	divTools.style.paddingTop = '4em';
 	divTools.appendChild(btnInst);
+	divTools.appendChild(btnUpd);
 	divTools.appendChild(btnUninst);
 	divTools.appendChild(divOut);
 
@@ -23,6 +30,7 @@
 		divOut.scrollTop = divOut.scrollHeight;
 	}
 	btnInst.onclick = e => swReg(0);
+	btnUpd.onclick = e => swReg(2);
 	btnUninst.onclick = e => swReg(1);
 
 	let sendMessage = n => { };
@@ -44,6 +52,8 @@
 						//registration.unregister();
 						cbout('cache cleared!');
 						localStorage.setItem('unreg', -1);
+					} else if (unreg === 2) {
+						sendMessage('upd');
 					} else {
 						sendMessage();
 						registration.update();
@@ -63,12 +73,14 @@
 		const hrefs = [...document.querySelectorAll('a[href]')]
 			.map(x => x.href.replace(/^.*\/b/g, '/b').replace(/#.*/, ''))
 			.filter((x, i, a) => a.indexOf(x) === i);
+		hrefs.unshift(window.location.pathname);
 		const strHrefs = JSON.stringify(hrefs);
 		sendMessage = function(n) {
 			if (navigator.serviceWorker.controller) {
 				cbout('message');
 				navigator.serviceWorker.controller.postMessage(n || strHrefs);
 			} else if (!n) setTimeout(sendMessage, 500);
+			else cbout('message not sent', n);
 		}
 
 	}

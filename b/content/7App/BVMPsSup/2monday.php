@@ -47,7 +47,7 @@ include 'dayhour.php';
 	psalm(32,2);
 
 	dayhoursup(2,'V');
-	psalm(114);
+	head('Psalmus 114','Psalm 114','2Ps'); //psalm(114);
 	psalm(115);
 	head('Psalmus 119','Psalm 119','2Ps'); //psalm(119);
 	head('Psalmus 120','Psalm 120','2Ps'); //psalm(120);

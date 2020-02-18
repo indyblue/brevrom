@@ -13,6 +13,7 @@ self.addEventListener('install', event => {
 
 self.addEventListener('activate', function(event) {
 	logger('Service worker activating...');
+	//updateCache();
 });
 
 self.addEventListener('fetch', event => {
@@ -35,6 +36,24 @@ const responder = async request => {
 	}
 	return fres;
 };
+
+const updateCache = async keys => {
+	logger('attempting to update cache ' + staticCacheName);
+	const cache = await caches.open(staticCacheName);
+	if (!keys || !Array.isArray(keys)) keys = await cache.keys();
+	let i = 0; const len = keys.length;
+	for (const key of keys) {
+		i++;
+		const fres = await fetch(key);
+		if (fres.ok) {
+			await cache.put(key, fres);
+			logger(`key ${key.url}, ${i}/${len}: updated.`);
+		} else {
+			logger(`key ${key.url}, ${i}/${len}: failed. aborting.`);
+			break;
+		}
+	}
+}
 
 const cacheFile = async (href, suf = '') => {
 	const resp = await caches.match(href);
@@ -60,6 +79,9 @@ self.addEventListener('message', async event => {
 		var success = await caches.delete(staticCacheName);
 		if (success) event.source.postMessage('unreg');
 		logger('cache cleared?', success);
+		return;
+	} else if (event.data === 'upd') {
+		await updateCache();
 		return;
 	}
 	msgAbort = false;
