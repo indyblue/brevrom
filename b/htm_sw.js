@@ -1,7 +1,7 @@
 let staticCacheName = 'pages-cache-v1';
 
 self.addEventListener('install', event => {
-	staticCacheName = self.location.hash.trim('#');
+	// staticCacheName = self.location.hash.trim('#');
 	logger('Service worker installing...cache ' + staticCacheName);
 	self.skipWaiting();
 
