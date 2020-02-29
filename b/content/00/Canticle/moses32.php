@@ -18,7 +18,7 @@ Expándit alas suas, et assúmpsit eum, * atque portávit in húmeris suis.
 Dóminus solus dux ejus fuit: * et non erat cum eo deus aliénus.
 Constítuit eum super excélsam terram: * ut coméderet fructus agrórum,
 Ut súgeret mel de petra, * oleúmque de saxo duríssimo.
-Bútyrum de arménto, et lac de óvibus * cum ádipe agnórum, et aríetum filiórum Basan:
+Butýrum de arménto, et lac de óvibus * cum ádipe agnórum, et aríetum filiórum Basan:
 Et hircos cum medúlla trítici, * et sánguinem uvæ bíberet meracíssimum.
 Incrassátus est diléctus, et recalcitrávit: * incrassátus, impinguátus, dilatátus,
 Derelíquit Deum, factórem suum, * et recéssit a Deo, salutári suo.
