@@ -47,17 +47,25 @@ document.addEventListener('selectionchange', function(e) {
 });
 
 var $doc = $(document);
+$doc.on('click', 'a', function(e) {
+	e.stopImmediatePropagation();
+});
 $doc.on('click', 'tr', function() {
 	// no toggle if text is selected, to allow for copy/paste
 	var sel = document.getSelection().toString();
 	if (typeof sel == "string" && sel.length > 0) return;
+	var $trs = $('tr');
+	var $this = $(this);
+	$trs.find('.A1 div').each(function(i, x) {
+		x.innerHTML = x.innerHTML.replace(/(\xad)-/g, '$1');
+	});
+	if (!$this.hasClass('visible')) {
+		$this.find('.A1 div').each(function(i, x) {
+			this.innerHTML = this.innerHTML.replace(/(\xad)/g, '$1-');
+		});
+	}
 	$(this).toggleClass("visible");
-	if ($(this).hasClass('visible')) {
-		this.innerHTML = this.innerHTML.replace(/(\xad)/g, '$1-')
-	} else {
-		this.innerHTML = this.innerHTML.replace(/(\xad)-/g, '$1')
-	};
-	$('tr').not(this).removeClass("visible");
+	$trs.not(this).removeClass("visible");
 });
 $doc.keydown(function(e) {
 	//console.log(e);
