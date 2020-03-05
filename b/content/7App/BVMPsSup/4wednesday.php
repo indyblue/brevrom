@@ -25,7 +25,7 @@ include 'dayhour.php';
 	//psalm(50);
 	//psalm(64);
 	//psalm(100);
-	head('Cant. Annæ (I Reg. 2:1-10)','Cant Anna [Hannah] (I Kings [I Sam.] 2:1)','2Ps'); //canticle('hannah.php');
+	canticle('hannah.php');
 	//psalm(145);
 
 	dayhoursup(4,'P');

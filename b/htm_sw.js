@@ -1,101 +1,5 @@
-let staticCacheName = 'pages-cache-v1';
-
-self.addEventListener('install', event => {
-	// staticCacheName = self.location.hash.trim('#');
-	logger('Service worker installing...cache ' + staticCacheName);
-	self.skipWaiting();
-
-	event.waitUntil((async () => {
-		var hrefs = preCache.trim().split(/[\r\n]+/g);
-		for (var href of hrefs) await cacheFile(href);
-	})());
-});
-
-self.addEventListener('activate', function(event) {
-	logger('Service worker activating...');
-	//updateCache();
-});
-
-self.addEventListener('fetch', event => {
-	// logger('Fetch ', event.request.url);
-	event.respondWith(responder(event.request));
-});
-
-const responder = async request => {
-	const response = await caches.match(request);
-	if (response) {
-		logger('Found ', request.url, ' in cache');
-		return response;
-	}
-	logger('Network request for ', request.url);
-	const fres = await fetch(request);
-	if (fres.ok) {
-		const cache = await caches.open(staticCacheName);
-		logger('caching ' + request.url);
-		cache.put(request, fres.clone());
-	}
-	return fres;
-};
-
-const updateCache = async keys => {
-	logger('attempting to update cache ' + staticCacheName);
-	const cache = await caches.open(staticCacheName);
-	if (!keys || !Array.isArray(keys)) keys = await cache.keys();
-	let i = 0; const len = keys.length;
-	for (const key of keys) {
-		i++;
-		const fres = await fetch(key);
-		if (fres.ok) {
-			await cache.put(key, fres);
-			logger(`key ${key.url}, ${i}/${len}: updated.`);
-		} else {
-			logger(`key ${key.url}, ${i}/${len}: failed. aborting.`);
-			break;
-		}
-	}
-}
-
-const cacheFile = async (href, suf = '') => {
-	const resp = await caches.match(href);
-	if (!resp) {
-		logger('caching ' + href + suf);
-		const cache = await caches.open(staticCacheName);
-		const add = await cache.add(href);
-	}
-	// else logger('cached ' + href + suf);
-};
-
-let msgAbort = false;
-let msgSource = null;
-let logger = (...m) => {
-	if (msgSource && msgSource.postMessage) msgSource.postMessage(m.join(' '));
-	else console.log('*SW', ...m);
-};
-self.addEventListener('message', async event => {
-	msgSource = event.source;
-	logger('message: ' + event.data.substr(0, 50));
-	if (event.data === 'del') {
-		msgAbort = true;
-		var success = await caches.delete(staticCacheName);
-		if (success) event.source.postMessage('unreg');
-		logger('cache cleared?', success);
-		return;
-	} else if (event.data === 'upd') {
-		await updateCache();
-		return;
-	}
-	msgAbort = false;
-	const hrefs = JSON.parse(event.data);
-	let i = 0;
-	for (const href of hrefs) {
-		const suf = ' ' + (++i) + '/' + hrefs.length;
-		if (msgAbort) break;
-		await cacheFile(href, suf);
-	}
-	msgAbort = false;
-});
-
-const preCache = `
+// exec 'g!/href/d' | %s/.*="//eig | %s/".*//eig
+const strCache = `
 /b/htm_p.css
 /b/htm_p.js
 /b/jquery-1.7.2.min.js
@@ -105,21 +9,8 @@ const preCache = `
 /b/font/freeserifBold.woff
 /b/font/FancyVR.woff
 /b/font/oldlondon.woff
-/b/Images/FSSR/10_TR_Coat_of_Arms.png
-/b/Images/FSSR/10_TR_Coat_of_Arms.jpg
-/b/Images/FSSR/10_TR_Coat_of_Arms.jpg.svg
-/b/Images/FSSR/omps_003.jpg
-/b/Images/FSSR/omps_003_bw.jpg
-/b/Images/FSSR/omps_003_edge.png
-/b/Images/FSSR/omps_003.png
 /b/Images/separator1.png
 /b/Images/crucifix.png
-/b/Images/svg/sanctus.svg
-/b/Images/svg/amen.svg
-/b/Images/svg/FreeSerif.ttf
-/b/Images/svg/Separators.sfd
-/b/Images/svg/dove.svg
-/b/Images/svg/separator4.svg
 /b/Images/01_sunday_vespers.png
 /b/Images/benedicamus_domino.png
 /b/Images/Saints/0815_assumption_bvm.png
@@ -159,4 +50,76 @@ const preCache = `
 /b/Images/00_ordinary.png
 /b/Images/separator2.png
 /b/Images/separator4.png
+/b/w/6ComS/BVMp/677_BVMp1.php
+/b/w/6ComS/BVMp/677_BVMp2.php
+/b/w/6ComS/BVMp/677_BVMp3.php
+/b/w/6ComS/FSSR/prayers.php
+/b/w/7App/7_dolours.php
+/b/w/7App/chaplet_infant.php
+/b/w/7App/rosary.php
+/b/w/6ComS/FSSR/690_OfficeDead.php
+/b/w/7App/index.php
+/b/w/100_intro.php
+/b/w/1Ordinary/index.php
+/b/w/2Psalter/1sunday.php
+/b/w/2Psalter/2monday.php
+/b/w/2Psalter/3tuesday.php
+/b/w/2Psalter/4wednesday.php
+/b/w/2Psalter/5thursday.php
+/b/w/2Psalter/6friday.php
+/b/w/2Psalter/7saturday.php
+/b/w/3PropT/01_advent/index.php
+/b/w/3PropT/02_nativity/index.php
+/b/w/3PropT/03_epiphany/index.php
+/b/w/3PropT/04_post_epiphany/index.php
+/b/w/3PropT/05_septuagesima/index.php
+/b/w/3PropT/06_lent/index.php
+/b/w/3PropT/07_passiontide/index.php
+/b/w/3PropT/08_easter/index.php
+/b/w/3PropT/09_ascension/index.php
+/b/w/3PropT/10_pentecost.php
+/b/w/3PropT/11_post_pentecost/index.php
+/b/w/5PropS/01_January.php
+/b/w/5PropS/02_February.php
+/b/w/5PropS/03_March.php
+/b/w/5PropS/04_April.php
+/b/w/5PropS/05_May.php
+/b/w/5PropS/06_June.php
+/b/w/5PropS/07_July.php
+/b/w/5PropS/08_August.php
+/b/w/5PropS/09_September.php
+/b/w/5PropS/10_October.php
+/b/w/5PropS/11_November_all.php
+/b/w/5PropS/12_December.php
+/b/w/6ComS/610_Apostles.php
+/b/w/6ComS/612_ApostlesPT.php
+/b/w/6ComS/620_Pope.php
+/b/w/6ComS/630_Martyr.php
+/b/w/6ComS/632_Martyrs.php
+/b/w/6ComS/640_ConfBishop.php
+/b/w/6ComS/645_Confessor.php
+/b/w/6ComS/650_Virgin.php
+/b/w/6ComS/655_HolyWomen.php
+/b/w/6ComS/660_DedicationChurch.php
+/b/w/6ComS/670_BVM.php
+/b/w/6ComS/675_BVMSat.php
+/b/w/7App/BVMPsSup/1sunday.php
+/b/w/7App/BVMPsSup/2monday.php
+/b/w/7App/BVMPsSup/3tuesday.php
+/b/w/7App/BVMPsSup/4wednesday.php
+/b/w/7App/BVMPsSup/5thursday.php
+/b/w/7App/BVMPsSup/6friday.php
+/b/w/7App/BVMPsSup/7saturday.php
 `;
+const preCache = strCache.trim().split(/[\r\n]+/);
+
+const options = {
+	cacheName: 'brevrom-cache-v1',
+	hrefs: preCache
+}
+
+self.importScripts(
+	'/latindb/etc/service-worker-constructor.js',
+);
+
+makeWorker(options);

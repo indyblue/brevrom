@@ -22,7 +22,7 @@ include 'dayhour.php';
 	//psalm(50);
 	//psalm(42);
 	//psalm(66);
-	canticle('ezechiel.php');
+	head('Cant. Ezechiæ (Is. 38:10-20)','Cant. Exechiel (Is. 38:10)','2Ps'); // canticle('ezechiel.php');
 	//psalm(134);
 
 	dayhoursup(3,'P');

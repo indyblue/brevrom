@@ -241,36 +241,6 @@ $txtContent = preg_replace_callback(
 */
 
 $html2 = '</div>
-<script type="text/javascript">
-	var $tr = $("tr");
-	$tr.click(function(){
-		// no toggle if text is selected, to allow for copy/paste
-		var sel = document.getSelection().toString();
-		if(typeof sel=="string" && sel.length>0) return;
-		$(this).toggleClass("visible");
-		$tr.not(this).removeClass("visible");
-	});
-	var $doc = $(document);
-	$doc.keydown(function(e) {
-		//console.log(e);
-		if(!/android/i.test(navigator.userAgent)) return;
-		if(e.keyCode==40 || e.keyCode==74) { //down, j
-			var y = $doc.scrollTop();
-			$doc.scrollTop(y+50);
-			return false;
-		} else if(e.keyCode==38 || e.keyCode==75) { //up, k
-			var y = $doc.scrollTop();
-			$doc.scrollTop(y-50);
-			return false;
-		} else if(e.keyCode==84) { //t = top
-			$doc.scrollTop(0);
-			return false;
-		} else if(e.keyCode==66) { //b = bottom
-			$doc.scrollTop($doc.height());
-			return false;
-		} else return;
-	});
-</script>
 </body>
 </html>';
 

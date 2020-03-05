@@ -1,5 +1,5 @@
 <style>
-  #bvm-sup a,
+	#bvm-sup a,
 	#pr-links a {
 		display: block;
 		font-size: 1.5rem;
@@ -25,12 +25,17 @@
 		color: #cb8;
 	}
 
-  #bvm-sup { display:none; }
-  body>#body>#bvm-sup { display:block; }
+	#bvm-sup {
+		display: none;
+	}
+
+	body>#body>#bvm-sup {
+		display: block;
+	}
 </style>
 <div id='body'>
 	<div id="pr-links">
-		<a href='/b/w/6ComS/BVMp/677_BVMp1.php'>Little Office Bl. V. Mary
+		<a href="/b/w/6ComS/BVMp/677_BVMp1.php">Little Office Bl. V. Mary
 			-
 			I</a>
 		<a href="/b/w/6ComS/BVMp/677_BVMp2.php">L.O. BVM II - Advent</a>
@@ -110,8 +115,8 @@
 
 	</div>
 	<div id="bvm-sup">
-    <h4>Supplemental Psalter<br/>
-    Off. BVM Parv. &amp; Off. Def.</h4>
+		<h4>Supplemental Psalter<br />
+			Off. BVM Parv. &amp; Off. Def.</h4>
 		<a href="/b/w/7App/BVMPsSup/1sunday.php">Sunday</a>
 		<a href="/b/w/7App/BVMPsSup/2monday.php">Monday</a>
 		<a href="/b/w/7App/BVMPsSup/3tuesday.php">Tuesday</a>
@@ -120,7 +125,11 @@
 		<a href="/b/w/7App/BVMPsSup/6friday.php">Friday</a>
 		<a href="/b/w/7App/BVMPsSup/7saturday.php">Saturday</a>
 
-  </div>
+	</div>
 
-	<script src="htm_sw_reg.js"></script>
+	<script src="/latindb/etc/service-worker-register.js"></script>
+	<script>
+		_sw.url = '/b/htm_sw.js';
+		_sw.createUI();
+	</script>
 </div>
