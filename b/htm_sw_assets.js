@@ -1,5 +1,6 @@
-// exec 'g!/href/d' | %s/.*="//eig | %s/".*//eig
-const strCache = `
+const swBrevrom = {};
+(() => {
+  const strCache = `
 /b/htm_p.css
 /b/htm_p.js
 /b/jquery-1.7.2.min.js
@@ -111,15 +112,7 @@ const strCache = `
 /b/w/7App/BVMPsSup/6friday.php
 /b/w/7App/BVMPsSup/7saturday.php
 `;
-const preCache = strCache.trim().split(/[\r\n]+/);
+  const preCache = strCache.trim().split(/[\r\n]+/);
 
-const options = {
-	cacheName: 'brevrom-cache-v1',
-	hrefs: preCache
-}
-
-self.importScripts(
-	'/etc/service-worker-constructor.js',
-);
-
-makeWorker(options);
+  swBrevrom.hrefs = preCache;
+})();

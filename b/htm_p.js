@@ -56,7 +56,7 @@ $doc.on('click', 'tr', function() {
 	if (typeof sel == "string" && sel.length > 0) return;
 	var $trs = $('tr');
 	var $this = $(this);
-	$trs.find('.A1 div').each(function(i, x) {
+	$('tr.visible').each(function(i, x) {
 		x.innerHTML = x.innerHTML.replace(/(\xad)-/g, '$1');
 	});
 	if (!$this.hasClass('visible')) {
