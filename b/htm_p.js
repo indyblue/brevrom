@@ -42,9 +42,34 @@ var bodyNight = localStorage.getItem("night");
 if (bodyNight == "true")
 	$("body").addClass("night");
 
+var timeout;
 document.addEventListener('selectionchange', function(e) {
-	console.log(document.getSelection());
+	if (timeout) clearTimeout(timeout);
+	timeout = setTimeout(showHyph.bind(null, e), 250);
 });
+function showHyph(ev) {
+	var sel = document.getSelection();
+	var el = sel.anchorNode ? sel.anchorNode.parentElement : null;
+	var txt = sel.toString().trim().replace(/(\xad)/g, '-');
+	var fel = document.querySelector('#float-hyph');
+	if ((!el || !txt) && fel) return fel.style.display = 'none';
+
+	if (!fel) {
+		fel = document.createElement('div');
+		fel.id = 'float-hyph';
+		Object.assign(fel.style, {
+			display: 'block',
+			position: 'fixed',
+			backgroundColor: 'gray',
+			bottom: '0px',
+			color: 'yellow',
+			maxHeight: '3em'
+		});
+		document.body.append(fel);
+	}
+	fel.textContent = txt;
+	fel.style.display = 'block';
+}
 
 var $doc = $(document);
 $doc.on('click', 'a', function(e) {
@@ -54,21 +79,14 @@ $doc.on('click', 'tr', function() {
 	// no toggle if text is selected, to allow for copy/paste
 	var sel = document.getSelection().toString();
 	if (typeof sel == "string" && sel.length > 0) return;
+	var hyphEl = document.querySelector('#float-hyph');
+	if(hyphEl && hyphEl.innerHTML) return;
 	var $trs = $('tr');
 	var $this = $(this);
-	$('tr.visible').each(function(i, x) {
-		x.innerHTML = x.innerHTML.replace(/(\xad)-/g, '$1');
-	});
-	if (!$this.hasClass('visible')) {
-		$this.find('.A1 div').each(function(i, x) {
-			this.innerHTML = this.innerHTML.replace(/(\xad)/g, '$1-');
-		});
-	}
 	$(this).toggleClass("visible");
 	$trs.not(this).removeClass("visible");
 });
 $doc.keydown(function(e) {
-	//console.log(e);
 	if (!/android/i.test(navigator.userAgent)) return;
 	if (e.keyCode == 40 || e.keyCode == 74) { //down, j
 		var y = $doc.scrollTop();
