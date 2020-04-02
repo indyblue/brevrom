@@ -80,7 +80,7 @@ $doc.on('click', 'tr', function() {
 	var sel = document.getSelection().toString();
 	if (typeof sel == "string" && sel.length > 0) return;
 	var hyphEl = document.querySelector('#float-hyph');
-	if(hyphEl && hyphEl.innerHTML) return;
+	if (hyphEl && hyphEl.style.display !== 'none') return;
 	var $trs = $('tr');
 	var $this = $(this);
 	$(this).toggleClass("visible");
