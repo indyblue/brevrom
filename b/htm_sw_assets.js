@@ -54,6 +54,10 @@ const swBrevrom = {};
 /b/w/6ComS/BVMp/677_BVMp1.php
 /b/w/6ComS/BVMp/677_BVMp2.php
 /b/w/6ComS/BVMp/677_BVMp3.php
+/b/w/6ComS/BVMp/677_BVMp4.php
+/b/w/6ComS/BVMp/triduum/25.php
+/b/w/6ComS/BVMp/triduum/26.php
+/b/w/6ComS/BVMp/triduum/27.php
 /b/w/6ComS/FSSR/prayers.php
 /b/w/7App/7_dolours.php
 /b/w/7App/chaplet_infant.php
