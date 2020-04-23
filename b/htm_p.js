@@ -52,7 +52,10 @@ function showHyph(ev) {
 	var el = sel.anchorNode ? sel.anchorNode.parentElement : null;
 	var txt = sel.toString().trim().replace(/(\xad)/g, '-');
 	var fel = document.querySelector('#float-hyph');
-	if ((!el || !txt) && fel) return fel.style.display = 'none';
+	if ((!el || !txt)) {
+		if (fel) fel.style.display = 'none';
+		return;
+	}
 
 	if (!fel) {
 		fel = document.createElement('div');
