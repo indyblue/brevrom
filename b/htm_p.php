@@ -71,20 +71,14 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	<STYLE type="text/css">
 	#controls { font-size:20px; }
 	</STYLE>
-	<script type="text/javascript" src="/b/jquery-1.7.2.min.js"></script>
+	<script src="/dist/my-preact.js"></script>
+  <script src="/etc/dom-tools.js"></script>
 	<!-- <script type="text/javascript" src="https://getfirebug.com/firebug-lite.js">
 	{ startOpened:true }
 	</script> -->
 	</head>
 	<body class="" id=""><div id="body-center">
 	<div id="controls">
-		<button id="nd">Toggle Theme</button>
-		&nbsp; <button id="par">Parallel</button> 
-		<button id="la">Latin</button>
-		<button id="en">English</button><br/>
-		Font size: <button id="fadd"> + </button> 
-		&nbsp; <button id="fsub"> - </button>
-		&nbsp; <button id="freset">Reset</button> <span id="fsize"></span><br/>
 	</div><br/>
 	<script src="/b/htm_p.js"></script>
 	';

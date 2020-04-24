@@ -1,46 +1,35 @@
-$("#nd").click(function() {
-	$("body").toggleClass("night");
-	localStorage.setItem("night", $("body").is(".night"));
-});
-$("#fadd, #fsub, #freset").click(function() {
-	var type = $(this).attr("id");
-	if (type == "freset") {
-		$("body").css("font-size", "");
-		localStorage.setItem("font", "");
-		$("#fsize").html("");
-		return;
-	}
+var ctlEl = document.querySelector('#controls');
+var h = preact.h;
+preact.render(h(preact.c.menu, null,
+	h(preact.c.fontSize, {lsName:'brev-font-size'}),
+	h(preact.c.themeToggle, {lsName:'brev-night-theme'}),
+	h(parTxt),
+	h(preact.c.menuNav, { sel: '.A1 .Head1, .A1 .Head2 ', asel: '.A1 .Head2Ps, .A1 .Head2Cant, .A1 .Head4' })
+), ctlEl);
 
-	var size = $("body").css("font-size");
-	var iSize = Math.round(size.replace(/[^0-9.]/g, ""))
-	var uSize = size.replace(/[0-9.]/g, "");
-	if (type == "fadd") iSize++;
-	else iSize--;
-	size = iSize + uSize;
-	localStorage.setItem("font", size);
-	$("body").css("font-size", size);
-	$("#fsize").html(size);
-});
-$("#par, #la, #en").click(function() {
-	var type = $(this).attr("id");
-	setcoltype(type);
-	localStorage.setItem("col", type);
-});
-function setcoltype(type) {
-	if (type == "en") $("body").addClass("en");
-	else $("body").removeClass("en");
-	if (type == "par") $("body").removeClass("onecol");
-	else $("body").addClass("onecol");
+function parTxt(p) {
+	return h('div', null,
+		h('button', { type: 'par', onClick: setcoltype }, 'Parallel'),
+		h('button', { type: 'la', onClick: setcoltype }, 'Latin'),
+		h('button', { type: 'en', onClick: setcoltype }, 'English')
+	);
 }
+
+function setcoltype(type) {
+	if (type instanceof Event) {
+		type = type.target.attributes.type.value;
+	}
+	var body = document.body
+	if (type == "en") body.classList.add("en");
+	else body.classList.remove("en");
+	if (type == "par") body.classList.remove("onecol");
+	else body.classList.add("onecol");
+	localStorage.setItem("col", type);
+}
+
 var coltype = localStorage.getItem("col");
 setcoltype(coltype);
 
-var fontSize = localStorage.getItem("font");
-$("#fsize").html(fontSize);
-$("body").css("font-size", fontSize);
-var bodyNight = localStorage.getItem("night");
-if (bodyNight == "true")
-	$("body").addClass("night");
 
 var timeout;
 document.addEventListener('selectionchange', function(e) {
@@ -74,36 +63,18 @@ function showHyph(ev) {
 	fel.style.display = 'block';
 }
 
-var $doc = $(document);
-$doc.on('click', 'a', function(e) {
+addEvent(document.body, 'click', 'a', function(e) {
 	e.stopImmediatePropagation();
 });
-$doc.on('click', 'tr', function() {
-	// no toggle if text is selected, to allow for copy/paste
+addEvent(document.body, 'click', 'tr', function(e) {
 	var sel = document.getSelection().toString();
 	if (typeof sel == "string" && sel.length > 0) return;
 	var hyphEl = document.querySelector('#float-hyph');
 	if (hyphEl && hyphEl.style.display !== 'none') return;
-	var $trs = $('tr');
-	var $this = $(this);
-	$(this).toggleClass("visible");
-	$trs.not(this).removeClass("visible");
-});
-$doc.keydown(function(e) {
-	if (!/android/i.test(navigator.userAgent)) return;
-	if (e.keyCode == 40 || e.keyCode == 74) { //down, j
-		var y = $doc.scrollTop();
-		$doc.scrollTop(y + 50);
-		return false;
-	} else if (e.keyCode == 38 || e.keyCode == 75) { //up, k
-		var y = $doc.scrollTop();
-		$doc.scrollTop(y - 50);
-		return false;
-	} else if (e.keyCode == 84) { //t = top
-		$doc.scrollTop(0);
-		return false;
-	} else if (e.keyCode == 66) { //b = bottom
-		$doc.scrollTop($doc.height());
-		return false;
-	} else return;
-});
+	this.classList.toggle('visible');
+	var visibles = document.querySelectorAll('tr.visible');
+	for (var i = 0; i < visibles.length; i++) {
+		var vel = visibles[i];
+		if (vel !== this) vel.classList.remove('visible');
+	}
+})
