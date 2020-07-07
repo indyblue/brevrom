@@ -4,6 +4,7 @@ preact.render(h(preact.c.menu, null,
 	h(preact.c.fontSize, { lsName: 'brev-font-size' }),
 	h(preact.c.themeToggle, { lsName: 'brev-night-theme' }),
 	h(parTxt),
+  h(preact.c.fullScreen),
 	h(preact.c.menuNav, { sel: '.A1 .Head1, .A1 .Head2 ', asel: '.A1 .Head2Ps, .A1 .Head2Cant, .A1 .Head4' })
 ), ctlEl);
 
