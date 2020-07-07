@@ -3,6 +3,8 @@ const swBrevrom = {};
   const strCache = `
 /b/htm_p.css
 /b/htm_p.js
+/dist/my-preact.js
+/etc/dom-tools.js
 /b/jquery-1.7.2.min.js
 /b/font/freeserif.woff
 /b/font/freeserifItalic.woff

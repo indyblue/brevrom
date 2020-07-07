@@ -1,8 +1,8 @@
 var ctlEl = document.querySelector('#controls');
 var h = preact.h;
 preact.render(h(preact.c.menu, null,
-	h(preact.c.fontSize, {lsName:'brev-font-size'}),
-	h(preact.c.themeToggle, {lsName:'brev-night-theme'}),
+	h(preact.c.fontSize, { lsName: 'brev-font-size' }),
+	h(preact.c.themeToggle, { lsName: 'brev-night-theme' }),
 	h(parTxt),
 	h(preact.c.menuNav, { sel: '.A1 .Head1, .A1 .Head2 ', asel: '.A1 .Head2Ps, .A1 .Head2Cant, .A1 .Head4' })
 ), ctlEl);
@@ -66,15 +66,15 @@ function showHyph(ev) {
 addEvent(document.body, 'click', 'a', function(e) {
 	e.stopImmediatePropagation();
 });
-addEvent(document.body, 'click', 'tr', function(e) {
+addEvent(document.body, 'click', 'tr', function(e, trEl) {
 	var sel = document.getSelection().toString();
 	if (typeof sel == "string" && sel.length > 0) return;
 	var hyphEl = document.querySelector('#float-hyph');
 	if (hyphEl && hyphEl.style.display !== 'none') return;
-	this.classList.toggle('visible');
+	trEl.classList.toggle('visible');
 	var visibles = document.querySelectorAll('tr.visible');
 	for (var i = 0; i < visibles.length; i++) {
 		var vel = visibles[i];
-		if (vel !== this) vel.classList.remove('visible');
+		if (vel !== trEl) vel.classList.remove('visible');
 	}
 })

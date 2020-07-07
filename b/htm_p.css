@@ -27,7 +27,13 @@
 	src: url(font/oldlondon.woff);
 }
 
-body { padding-bottom: 30em !important; }
+
+body {
+  padding-bottom: 30em !important;
+  --main-color: #000;
+  --rub-color: #b00;
+  color:var(--main-color);
+}
 
 body { font-size:1.37em; }
 .Body, .BodyL, .BodyE { font-size:100% }
@@ -45,7 +51,17 @@ body { font-size:1.37em; }
 
 body.night {
 	background-color:black;
-	color:white;
+  --main-color: #ffc;
+  --rub-color: #f66;
+  /* this needs to be on html element to work in firefox */
+  /* scrollbar-color:#555 black; */
+}
+body.night::-webkit-scrollbar {
+  background-color:black;
+}
+body.night::-webkit-scrollbar-thumb {
+  background-color:#555;
+  border-radius:5px 0 0 5px;
 }
 body.night #body-center {
 	background-color:black; padding:0; margin:0;
@@ -53,7 +69,7 @@ body.night #body-center {
 body.night a { color:#77f; }
 body.night a:visited { color:#f7f; }
 body.night span.NonRubric {
-	color:white;
+	  color:var(--main-color);
 }
 body.night div.Hidden2 {
 	visibility:visible;
@@ -116,11 +132,17 @@ div.HymnL, div.HymnE {
 .BodyFRed::first-letter,
 .BodyLFRed::first-letter,
 .BodyEFRed::first-letter {
-	color:red;
+	color:var(--rub-color);
 	font-weight:bold;
 }
 
-
+@-moz-document url-prefix() {
+  .night div.BodyDrop::first-letter,
+  .night div.BodyLDrop::first-letter,
+  .night div.BodyEDrop::first-letter {
+      padding: .15em .1em;
+  }
+}
 .night div.BodyDrop::first-letter,
 .night div.BodyLDrop::first-letter,
 .night div.BodyEDrop::first-letter {
@@ -135,7 +157,7 @@ div.BodyEDrop::first-letter {
 	/*font-weight:bold;*/
 	float:left;
 	width:1em;
-	color:red;
+	color:var(--rub-color);
   font-size: 2.1em;
   border: 3px double;
 	background-color:#ddb;
@@ -149,14 +171,14 @@ div.Rubric,
 div.RubricH,
 div.RubricHSm {
 	font-style:italic;
-	color:red;
+	color:var(--rub-color);
 }
 div.RubricHidden {
 	display:none;
 	visibility:hidden;
 	height:0px;
 	font-style:italic;
-	color:red;
+	color:var(--rub-color);
 }
 div.BkHidden {visibility:hidden; height:0px}
 
@@ -173,7 +195,7 @@ div.Head4,
 div.Head5 {
 	text-align:center;
 	font-style:italic;
-	color:red;
+	color:var(--rub-color);
 }
 div.Head3 {
 	text-align:center;
@@ -186,27 +208,27 @@ div.Spacer {font-size:2pt;}
 div.Line {
 	font-size:2pt;
 	border-width:0px 0px 1px 0px;
-	border-color:red;
+	color:var(--rub-color);
 	border-style:solid;
 }
-span.BRed { color:red; font-size:110%; font-weight:bold; }
+span.BRed { color:var(--rub-color); font-size:110%; font-weight:bold; }
 
-span.HymnR { color:red; font-weight:bold; }
-span.Red { color:red; font-size:60%; }
-span.Rubric { font-style:italic; color:red; }
+span.HymnR { color:var(--rub-color); font-weight:bold; }
+span.Red { color:var(--rub-color); font-size:60%; }
+span.Rubric { font-style:italic; color:var(--rub-color); }
 span.RubricH {
 	font-style:italic;
-	color:red;
+	color:var(--rub-color);
 	font-size:58%;
 	vertical-align:top;
 }
-span.NonRubric {font-style:normal; color:black;}
+span.NonRubric {font-style:normal; color:var(--main-color);}
 span.Italic {font-style:italic;}
-span.Bold {font-weight:bold; color:red;}
-span.BoldR {font-weight:bold; color:red;}
+span.Bold {font-weight:bold; color:var(--rub-color);}
+span.BoldR {font-weight:bold; color:var(--rub-color);}
 span.BoldRC {
 	font-weight:bold;
-	color:red;
+	color:var(--rub-color);
 	text-transform:uppercase;
 }
 span.AllCaps {text-transform:uppercase;}
@@ -214,11 +236,11 @@ span.SmCaps {font-variant:small-caps;}
 span.Super {font-size:58%; vertical-align:top;}
 span.DropCap {
 	font-weight:bold;
-	color:red;
+	color:var(--rub-color);
 }
 span.VR {
 	font-family:FancyVR, serif;
-	color:red;
+	color:var(--rub-color);
 	font-style:normal;
 }
 span.NH {}
