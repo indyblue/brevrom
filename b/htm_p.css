@@ -53,9 +53,14 @@ body.night {
 	background-color:black;
   --main-color: #ffc;
   --rub-color: #f66;
-  /* this needs to be on html element to work in firefox */
-  /* scrollbar-color:#555 black; */
 }
+
+/* firefox */
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #555 black;
+}
+
 body.night::-webkit-scrollbar {
   background-color:black;
 }
@@ -315,3 +320,5 @@ a.a-B1, a.a-B2 { display:none; }
 		background-color:transparent;
 		border-radius:0;
 	}
+
+#controls { font-size:0.9em; }

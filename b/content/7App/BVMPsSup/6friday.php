@@ -15,15 +15,7 @@ include 'dayhour.php';
 	psalm(98);
 	psalm(142);
 	head('Psalmus 84','Psalm 84','2Ps'); //psalm(84);
-	canticle('isaiah45.php');
 	head('Psalmus 147','Psalm 147','2Ps'); //psalm(147);
-
-	dayhoursup(6,'L2');
-	//psalm(50);
-	//psalm(142);
-	//psalm(84);
-	canticle('habacuc.php');
-	//psalm(147);
 
 	dayhoursup(6,'P');
 	psalm(21,1);
@@ -56,4 +48,9 @@ include 'dayhour.php';
 	psalm(76,1);
 	psalm(76,2);
 	psalm(85);
+
+  for($i=0;$i<15;$i++) space();
+  canticle('isaiah45.php');
+	canticle('habacuc.php');
+
 ?>

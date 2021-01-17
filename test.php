@@ -2,6 +2,15 @@
 <pre>
 <?php
 phpinfo();
+$t_records = ['a'=>'fred', 'joe', 's'=>'smith'];
+?>
+
+<script>
+var variableName = <?= json_encode($t_records) ?>;
+console.log(variableName);
+</script>
+<?php
+
 exit;
 /*
 echo "\n---123456789\n";

@@ -15,15 +15,7 @@ include 'dayhour.php';
   head('Psalmus 92','Psalm 92','2Ps'); //psalm(92);
 	head('Psalmus 99','Psalm 99','2Ps'); //psalm(99);
 	head('Psalmus 62','Psalm 62','2Ps'); //psalm(62);
-	//canticle('threechildren.php');
 	head('Psalmus 148','Psalm 148','2Ps'); //psalm(148);
-
-	dayhoursup(1,'L2');
-	//psalm(50);
-	//psalm(117);
-	//psalm(62);
-	canticle('threechildren2.php');
-	//psalm(148);
 
 	dayhoursup(1,'P');
 	psalm(117);
@@ -59,4 +51,8 @@ include 'dayhour.php';
 	psalm(4);
 	psalm(90);
 	psalm(133);
+
+  for($i=0;$i<15;$i++) space();
+	//canticle('threechildren.php');
+	canticle('threechildren2.php');
 ?>

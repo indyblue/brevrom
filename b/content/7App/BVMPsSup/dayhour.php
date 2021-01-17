@@ -30,6 +30,7 @@ function dayhoursup($d, $h, $size=1) {
 	$h1 = 'Psalter';
 	$h2 = 2;
 
+  space();
 	//prints the heading for the hour
 	head($dayL[$d] .' '. $hourL[$h], 
 		$dayE[$d] .' '. $hourE[$h], 

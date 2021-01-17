@@ -67,15 +67,8 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<link href="/b/htm_p.css" rel="stylesheet" type="text/css" />
-	<!-- position:fixed;left:0;background-color:gray; -->
-	<STYLE type="text/css">
-	#controls { font-size:20px; }
-	</STYLE>
 	<script src="/dist/my-preact.js"></script>
   <script src="/etc/dom-tools.js"></script>
-	<!-- <script type="text/javascript" src="https://getfirebug.com/firebug-lite.js">
-	{ startOpened:true }
-	</script> -->
 	</head>
 	<body class="" id=""><div id="body-center">
 	<div id="controls">
