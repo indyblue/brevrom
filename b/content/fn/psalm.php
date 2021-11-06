@@ -61,8 +61,9 @@ function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $dr
 		$fname = $num;
 	else
 		$fname = sprintf("%03s",$num) . ($part>0?'-'.dechex($part):'');
-	$callback = create_function('$args',
-		'return strpos($args,"'.$fname.'")!==false;');
+	$callback = function($args) use ($fname){
+		return strpos($args,$fname)!==false;
+	};
 	$ls = array_values(array_filter($ls,$callback));
 
 	// error if there are no matching files based on psalm & part
@@ -91,8 +92,9 @@ function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $dr
 
 	// this creates a dynamic "callback" function
 	// to remove the ‡ character from lines
-	$callback = create_function('$args',
-		'return preg_replace("/‡/u","",$args);');
+	$callback = function($args){
+		return preg_replace("/‡/u","",$args);
+	};
 	// if there are more parts of the psalm that need
 	// to be loaded, this iterates through them. for every
 	// section which is loaded, ‡ characters are eliminated,
@@ -128,15 +130,15 @@ function psalm($num, $part=0, $cross=0, $dir = false, $index='2Ps', $comm=0, $dr
 	//   1 - bolded first letter
 	//   2 - indent
 	if($style2==0)
-		$line_style = create_function('$txt', 'return $txt;');
+		$line_style = function($txt){ return $txt;};
 	elseif($style2==1)
-		$line_style = create_function('$txt', 'return style_first_letter($txt,"sb");');
+		$line_style = function($txt){ return style_first_letter($txt,"sb");};
 	elseif($style2==2)
 		// this prepends 3 non-breaking space chars (ascii 160)
 		// to act as the first-line indent
-		$line_style = create_function('$txt', 'return "   ".$txt;'); 
+		$line_style = function($txt){ return "   ".$txt;};
 	elseif($style2==10)
-		$line_style = create_function('$txt', 'return vr_replace($txt);');
+		$line_style = function($txt){ return vr_replace($txt); };
 
 
 	// this actually starts generating the xml text,
@@ -264,16 +266,18 @@ function line_count($num, $part, $dir) {
 	$ls = scandir($dir);
 	$fname = sprintf("%03s",$num);
 	$fpart = '-'.dechex($part);
-	$callback = create_function('$args',
-		'return strpos($args,"'.$fname.'")!==false;');
+	$callback = function($args) use($fname){
+		return strpos($args,$fname)!==false;
+	};
 	$ls = array_values(array_filter($ls,$callback));
 
 	// error if there are no matching files based on psalm & part
 	if(count($ls)==0) 
 		trigger_error('File for Ps '. $fname .' does not exist.', E_USER_ERROR);
 
-	$callback = create_function('$args',
-		'return preg_match("/^[~<]|^$/",$args)===False;');
+	$callback = function($args){
+		return preg_match("/^[~<]|^$/",$args)===False;
+	};
 	$pieces = array();
 	foreach($ls as $i) {
 		if(strpos($i,$fpart)!==false) break;
@@ -297,8 +301,9 @@ function numComm($comm, $verse_count, $Cpieces=0, $line_num=2) {
 		return $ret;
 	else {
 		if(!is_array($Cpieces) || $comm==3) return '';
-		$callback = create_function('$args',
-			'return findlnum('.$verse_count.',$args);');
+		$callback = function($args){
+			return findlnum('.$verse_count.',$args);
+		};
 		$cLine = array_values(array_filter($Cpieces,$callback));
 
 		// if no comment and it's not the initial comment 

@@ -32,8 +32,9 @@ function psalm($num, $part=0, $cross=0, $dir = $_GET['root'] . "/00/Psalm/",$ind
 		$fname = $num;
 	else
 		$fname = sprintf("%03s",$num) . ($part>0?'-'.dechex($part):'');
-	$callback = create_function('$args',
-		'return strpos($args,"'.$fname.'")!==false;');
+	$callback = function($args) use($fname){
+		return strpos($args,$fname)!==false;
+	};
 	$ls = array_values(array_filter($ls,$callback));
 
 	// error if there are no matching files based on psalm & part
@@ -49,8 +50,9 @@ function psalm($num, $part=0, $cross=0, $dir = $_GET['root'] . "/00/Psalm/",$ind
 
 	// this creates a dynamic "callback" function
 	// to remove the ‡ character from lines
-	$callback = create_function('$args',
-		'return mb_ereg_replace("‡","",$args);');
+	$callback = function($args){
+		return mb_ereg_replace("‡","",$args);
+	};
 	// if there are more parts of the psalm that need
 	// to be loaded, this iterates through them. for every
 	// section which is loaded, ‡ characters are eliminated,
