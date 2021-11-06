@@ -208,7 +208,7 @@ function fn_index($matches) {
 		$idxc++;
 		return $retval;
 	}
-	else return;
+	else return $matches[0];
 }
 $idx .= "</div>\n";
 //echo $divloc, $psloc;

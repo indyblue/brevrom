@@ -343,14 +343,14 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 	$nameL = preg_replace('/ (ac|et|atque) /',' <r>\1</s> ',$nameL);
 	$nameE = preg_replace('/ (with|and|also) /',' <r>\1</s> ',$nameE);
 	$nameL = preg_replace_callback('/\[[^\]]*\]/',
-		create_function('$matches','
-			return "<r>".constr_type($matches[0],1)."</s>";'),$nameL);
+		function($matches){
+			return "<r>".constr_type($matches[0],1)."</s>";} ,$nameL);
 	$nameE = preg_replace_callback('/\[[^\]]*\]/',
-		create_function('$matches','
-			return "<r>".constr_type($matches[0],2)."</s>";'),$nameE);
+		function($matches) {
+			return "<r>".constr_type($matches[0],2)."</s>";},$nameE);
 /*
 	$nameE = preg_replace_callback('/\[[^\]]*\]/',
-		create_function('$matches','
+		function($matches'){
 			global $Ecl; $repl = "";
 			trigger_error("first: ".$Ecl[0]." length:".count($Ecl));
 			for($i=0;$i<strlen($matches[0]);$i++) {
@@ -358,7 +358,7 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 				if(array_key_exists($tmp,$Ecl))
 					$repl .= (strlen($repl)?", ":"") . $Ecl[$tmp];
 			}
-			return $repl;'),$nameE);
+			return $repl;},$nameE);
  */
 
 	// var_dump($Ldate,$Ltype,$Etype,$cs);

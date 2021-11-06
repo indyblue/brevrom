@@ -205,9 +205,9 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 			'  <p:Head5>' . preg_replace('/<[^>]*>/','',($Llang==1?$E:$L)) ."</p>\n";
 	} 	else { 
 		echo "\n  <tableH><tr><td:A1>\n".
-			'   <p:Head'. $size .'>'. $L ."</p>\n".
+			"   <p:Head$size>$L</p>\n".
 			"   </td><td:B2>\n".
-			'   <p:Head'. $size .'>'. $E ."</p>\n".
+			"   <p:Head$size>$E</p>\n".
 			"  </td></tr></table>\n";
 	}
 
