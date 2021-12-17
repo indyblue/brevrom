@@ -1,22 +1,22 @@
-/* global preact, Event, localStorage, addEvent */
-/* eslint-disable no-var */
-var ctlEl = document.querySelector('#controls');
-var h = preact.h;
-preact.render(h(preact.c.stdMenu, {
-  lsPrefix: 'brev',
-  ctlChildren: [h(parTxt)]
-},
+/* global preact, Event, localStorage, addEvent, location, history */
+const ctlEl = document.querySelector('#controls');
+const h = preact.h;
+preact.render(h(preact.c.stdMenu,
+  {
+    lsPrefix: 'brev',
+    ctlChildren: [h(parTxt)],
+  },
   h(preact.c.menuNav, {
     sel: '.A1 .Head1, .A1 .Head2 ',
-    asel: '.A1 .Head2Ps, .A1 .Head2Cant, .A1 .Head4'
-  })
+    asel: '.A1 .Head2Ps, .A1 .Head2Cant, .A1 .Head4',
+  }),
 ), ctlEl);
 
 function parTxt(p) {
   return h('div', null,
     h('button', { type: 'par', onClick: setcoltype }, 'Par'),
     h('button', { type: 'la', onClick: setcoltype }, 'Lt'),
-    h('button', { type: 'en', onClick: setcoltype }, 'En')
+    h('button', { type: 'en', onClick: setcoltype }, 'En'),
   );
 }
 
@@ -24,7 +24,7 @@ function setcoltype(type) {
   if (type instanceof Event) {
     type = type.target.attributes.type.value;
   }
-  var body = document.body;
+  const body = document.body;
   if (type === 'en') body.classList.add('en');
   else body.classList.remove('en');
   if (type === 'par') body.classList.remove('onecol');
@@ -32,19 +32,19 @@ function setcoltype(type) {
   localStorage.setItem('col', type);
 }
 
-var coltype = localStorage.getItem('col');
+const coltype = localStorage.getItem('col');
 setcoltype(coltype);
 
-var timeout;
+let timeout;
 document.addEventListener('selectionchange', function(e) {
   if (timeout) clearTimeout(timeout);
   timeout = setTimeout(showHyph.bind(null, e), 250);
 });
 function showHyph(ev) {
-  var sel = document.getSelection();
-  var el = sel.anchorNode ? sel.anchorNode.parentElement : null;
-  var txt = sel.toString().trim().replace(/(\xad)/g, '-');
-  var fel = document.querySelector('#float-hyph');
+  const sel = document.getSelection();
+  const el = sel.anchorNode ? sel.anchorNode.parentElement : null;
+  const txt = sel.toString().trim().replace(/(\xad)/g, '-');
+  let fel = document.querySelector('#float-hyph');
   if ((!el || !txt)) {
     if (fel) fel.style.display = 'none';
     return;
@@ -59,7 +59,7 @@ function showHyph(ev) {
       backgroundColor: 'gray',
       bottom: '0px',
       color: 'yellow',
-      maxHeight: '3em'
+      maxHeight: '3em',
     });
     document.body.append(fel);
   }
@@ -71,19 +71,19 @@ addEvent(document.body, 'click', 'a', function(e) {
   e.stopImmediatePropagation();
 });
 addEvent(document.body, 'click', 'tr', function(e, trEl) {
-  var sel = document.getSelection().toString();
+  const sel = document.getSelection().toString();
   if (typeof sel === 'string' && sel.length > 0) return;
-  var hyphEl = document.querySelector('#float-hyph');
+  const hyphEl = document.querySelector('#float-hyph');
   if (hyphEl && hyphEl.style.display !== 'none') return;
   trEl.classList.toggle('visible');
-  var visibles = document.querySelectorAll('tr.visible');
-  for (var i = 0; i < visibles.length; i++) {
-    var vel = visibles[i];
+  const visibles = document.querySelectorAll('tr.visible');
+  for (let i = 0; i < visibles.length; i++) {
+    const vel = visibles[i];
     if (vel !== trEl) vel.classList.remove('visible');
   }
 });
 
-var stoCursor = null;
+let stoCursor = null;
 function clearCursor() {
   console.log('cursor auto');
   document.body.style.cursor = '';
@@ -102,3 +102,13 @@ function setCursor() {
 document.body.addEventListener('mousemove', clearCursor);
 document.body.addEventListener('touchstart', clearCursor);
 document.body.addEventListener('touchend', setCursor);
+window.addEventListener('load', e => {
+  const hash = location.hash?.replace(/^#/, '');
+  if (!hash) return;
+  const el = document.querySelector('#' + hash)
+    || document.querySelector(`[name="${hash}"]`);
+  if (!el) return;
+  el.scrollIntoView();
+  const newLoc = location.toString().replace(/#.*/, '');
+  history.replaceState(null, null, newLoc);
+});

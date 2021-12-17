@@ -1,6 +1,22 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <pre>
 <?php
+$arrayOne = array('a', 'b', 'c', 'd');
+$arrayTwo = array('w', 'x', 'y', 'z');
+$arrayThree = array('m', 'n', 'o', 'p');
+
+foreach ($arrayOne as $key => $valueOne) {
+  $valueTwo = $arrayTwo[$key];
+  $valueThree = $arrayThree[$key];
+  echo "key: $key one: $valueOne two: $valueTwo three: $valueThree<br/>";
+}
+
+require 'b/content/fn/head.php';
+head('asdf-la','asdf-en', '2Ps');
+exit;
+$x='2Ps';
+echo $x;
+if($x<2) echo "x lt 2";
 phpinfo();
 $t_records = ['a'=>'fred', 'joe', 's'=>'smith'];
 ?>

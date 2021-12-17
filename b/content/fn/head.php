@@ -164,10 +164,12 @@ function head_temp($class, $nameL, $nameE, $descr='', $head1=0, $head2=0) {
 }
 
 function head($L, $E, $size=3, $h1=0, $h2=0) {
+	// echo json_encode($_GET);
+	$isize= (int)$size;
 	$Llang = $_GET['L'];
 	$par=0;
 
-	if($size<0 || $_GET['par']) {
+	if($isize<0 || $_GET['par']) {
 		$par=1;
 		if(!is_string($size))
 			$size = abs($size);
@@ -175,7 +177,7 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 
 	//inter-linear option
 	$interl = false;
-	if($size>=10) {
+	if($isize>=10) {
 		$size = $size - 10;
 		$interl = true;
 	}
