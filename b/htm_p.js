@@ -103,12 +103,40 @@ document.body.addEventListener('mousemove', clearCursor);
 document.body.addEventListener('touchstart', clearCursor);
 document.body.addEventListener('touchend', setCursor);
 window.addEventListener('load', e => {
+  hashLoad();
+  nameLoad();
+});
+
+function hashLoad() {
   const hash = location.hash?.replace(/^#/, '');
   if (!hash) return;
   const el = document.querySelector('#' + hash)
     || document.querySelector(`[name="${hash}"]`);
   if (!el) return;
   el.scrollIntoView();
+  setTimeout(() => el.scrollIntoView(), 100);
   const newLoc = location.toString().replace(/#.*/, '');
   history.replaceState(null, null, newLoc);
-});
+}
+
+function nameLoad() {
+  const hdrs = [...document.querySelectorAll('div[class^=Head')];
+  const pre = Date.now().toString(36) + '-';
+  hdrs.forEach((el, i) => {
+    el.insertAdjacentText('beforeend', ' ');
+    const a = document.createElement('a');
+    a.textContent = '#';
+    a.name = pre + i;
+    a.href = '#' + a.name;
+    a.style.textDecoration = 'none';
+    el.append(a);
+  });
+  return;
+  const anames = [...document.querySelectorAll('a[name]')];
+  console.log('anames', anames.length);
+  anames.forEach(el => {
+    el.href = '#' + el.name;
+    el.textContent = '\xa7';
+    el.insertAdjacentText('afterend', ' ');
+  });
+}
