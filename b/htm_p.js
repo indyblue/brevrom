@@ -131,12 +131,4 @@ function nameLoad() {
     a.style.textDecoration = 'none';
     el.append(a);
   });
-  return;
-  const anames = [...document.querySelectorAll('a[name]')];
-  console.log('anames', anames.length);
-  anames.forEach(el => {
-    el.href = '#' + el.name;
-    el.textContent = '\xa7';
-    el.insertAdjacentText('afterend', ' ');
-  });
 }
