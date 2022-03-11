@@ -120,15 +120,24 @@ function hashLoad() {
 }
 
 function nameLoad() {
+  const css = document.createElement('style');
+  css.innerHTML = `
+    a.hfs { text-decoration: none; }
+    body.fs a.hfs { display: none; }
+  `;
+  document.addEventListener('fullscreenchange', e => {
+    const ar = document.fullscreenElement ? 'add' : 'remove';
+    document.body.classList[ar]('fs');
+  });
+  document.head.append(css);
   const hdrs = [...document.querySelectorAll('div[class^=Head')];
   const pre = Date.now().toString(36) + '-';
   hdrs.forEach((el, i) => {
-    el.insertAdjacentText('beforeend', ' ');
     const a = document.createElement('a');
-    a.textContent = '#';
+    a.textContent = ' #';
+    a.className = 'hfs';
     a.name = pre + i;
     a.href = '#' + a.name;
-    a.style.textDecoration = 'none';
     el.append(a);
   });
 }
