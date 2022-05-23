@@ -16,12 +16,8 @@ include 'dayhour.php';
 	psalm(91);
 	psalm(63);
 	head('Psalmus 150','Psalm 150','2Ps'); //psalm(150);
-
-	dayhoursup(7,'L2');
-	//psalm(50);
-	//psalm(91);
-	//psalm(63);
-	//psalm(150);
+  canticle('ecclesiasticus.php');
+	canticle('moses32.php');
 
 	dayhoursup(7,'P');
 	psalm(93,1);
@@ -54,8 +50,4 @@ include 'dayhour.php';
 	psalm(87);
 	psalm(102,1);
 	psalm(102,2);
-
-  for($i=0;$i<15;$i++) space();
-  canticle('ecclesiasticus.php');
-	canticle('moses32.php');
 ?>

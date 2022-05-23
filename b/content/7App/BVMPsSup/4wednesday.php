@@ -19,6 +19,8 @@ include 'dayhour.php';
 	head('Psalmus 64','Psalm 64','2Ps'); //psalm(64);
 	psalm(100);
 	head('Psalmus 145','Psalm 145','2Ps'); //psalm(145);
+	canticle('judith.php');
+	canticle('hannah.php');
 
 	dayhoursup(4,'P');
 	psalm(25);
@@ -51,8 +53,4 @@ include 'dayhour.php';
 	psalm(33,1);
 	psalm(33,2);
 	psalm(60);
-
-  for($i=0;$i<15;$i++) space();
-	canticle('judith.php');
-	canticle('hannah.php');
 ?>

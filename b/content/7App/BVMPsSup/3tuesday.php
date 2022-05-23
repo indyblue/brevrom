@@ -16,6 +16,8 @@ include 'dayhour.php';
 	psalm(42);
 	head('Psalmus 66','Psalm 66','2Ps'); //psalm(66);
 	psalm(134);
+  canticle('tobias.php');
+  head('Cant. Ezechiæ (Is. 38:10-20)','Cant. Exechiel (Is. 38:10)','2Ps'); // canticle('ezechiel.php');
 
 	dayhoursup(3,'P');
   head('Psalmus 24 OD Mat N2','','2Ps'); 
@@ -51,9 +53,5 @@ include 'dayhour.php';
 	psalm(11);
 	psalm(12);
 	psalm(15);
-
-  for($i=0;$i<15;$i++) space();
-  canticle('tobias.php');
-  head('Cant. Ezechiæ (Is. 38:10-20)','Cant. Exechiel (Is. 38:10)','2Ps'); // canticle('ezechiel.php');
 
 ?>

@@ -16,6 +16,8 @@ include 'dayhour.php';
 	psalm(89);
 	psalm(35);
 	psalm(146);
+  canticle('jeremiah.php');
+	canticle('moses15.php');
 
 	dayhoursup(5,'P');
   head('Psalmus 22 OD Mat N2','','2Ps'); 
@@ -49,8 +51,4 @@ include 'dayhour.php';
 	psalm(69);
 	psalm(70,1);
 	psalm(70,2);
-
-  for($i=0;$i<15;$i++) space();
-  canticle('jeremiah.php');
-	canticle('moses15.php');
 ?>

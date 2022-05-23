@@ -1,4 +1,5 @@
 <?php
+  $htm =  $_GET['htm'];
 	$long = $_GET['long'];
 	$long = 1;
 
@@ -106,12 +107,15 @@ rubp('Postea dicitur Versus <snr>Diffúsa est</s> et sequens, ut infra <snr>p. '
 	vr('jube_domine.php');
 	reading('bvm/per_virginem_matrem.php',0,10);
 	lc('luke1_34-38.php',0,'L3');
+  if($htm) rubp('<snr>Te Deum</s>, si dicitur, ut infra <snr>p. '.bkref('csBVMpTD').'</s>',
+		'<snr>Te Deum</s>, if said, as below on <snr>p. '.bkref('csBVMpTD').'</s>');
 	rm('BVMp/mra3.php',0,0);
 	rubp('Postea dicitur ad Laudes, ut infra <snr>p. '.bkref('csBVMpL').'</s>',
 		'After which is said Lauds, as below on <snr>p. '.bkref('csBVMpL').'</s>');	
 	space();
 	hidden('Te Deum',2);
 	rubp('Sequens Hymnus <snr>Te Deum</s> dic. a Nativ. Domini usque ad Septuag., et a Dom. Resurrectionis usque ad Advent., et quando dicitur, omittitur III Responsorium, et in II Responsorio dicitur <snr>Glória Patri</s>, ut dictum est supra: in Adventu autem et a Septuag. usque ad Pascha non dic. nisi in Festis B. Mariæ.', 'The following Hymn, <snr>Te Deum</s>, is said from Christmas until Septuagesima, and from Easter Sunday until Advent. When it is said, the third Responsory is omitted, and the <snr>Glória Patri</s> is said in the second Responsory, as noted above. In Advent and from Septuagesima until Easter it is not said except on feasts of the Bl. Virgin Mary.',1);
+  bookmark('csBVMpTD');
 	reading('tedeum.php');
 
 ?>

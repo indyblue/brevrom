@@ -1,4 +1,5 @@
 <?php
+  $htm =  $_GET['htm'];
 	$long = $_GET['long'];
 	$long = 1;
 
