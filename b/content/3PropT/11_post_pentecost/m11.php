@@ -11,6 +11,8 @@
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',0,'1V');
 	ant('prTemp/post_pentecost/m11w10.php','M');
 
+$matinsl = $_GET['matins-l'];
+if($matinsl) {
 	include 'm11-1-1.php';
 	include 'm11-1-2.php';
 	include 'm11-1-3.php';
@@ -18,6 +20,7 @@
 	include 'm11-1-5.php';
 	include 'm11-1-6.php';
 	include 'm11-1-7.php';
+}
 	space();
 
 	head('Dominica II Novembris', 'Second Sunday of November',2);
@@ -30,6 +33,7 @@
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',3,'1V');
 	ant('prTemp/post_pentecost/m11w30.php','M');
 
+if($matinsl) {
 	include 'm11-3-1.php';
 	include 'm11-3-2.php';
 	include 'm11-3-3.php';
@@ -37,6 +41,7 @@
 	include 'm11-3-5.php';
 	include 'm11-3-6.php';
 	include 'm11-3-7.php';
+}
 	space();
 
 	head('Dominica IV Novembris', 'Fourth Sunday of November',2);
@@ -44,6 +49,7 @@
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',3,'1V');
 	ant('prTemp/post_pentecost/m11w40.php','M');
 
+if($matinsl) {
 	include 'm11-4-1.php';
 	include 'm11-4-2.php';
 	include 'm11-4-3.php';
@@ -51,7 +57,7 @@
 	include 'm11-4-5.php';
 	include 'm11-4-6.php';
 	include 'm11-4-7.php';
-
+}
 	space();
 
 	head('Dominica V Novembris', 'Fifth Sunday of November',2);
@@ -59,6 +65,7 @@
 	vrS('Ord/vespertina_oratio_ascendat_ad_te_domine.php',3,'1V');
 	ant('prTemp/post_pentecost/m11w50.php','M');
 
+if($matinsl) {
 	include 'm11-5-1.php';
 	include 'm11-5-2.php';
 	include 'm11-5-3.php';
@@ -66,6 +73,7 @@
 	include 'm11-5-5.php';
 	include 'm11-5-6.php';
 	include 'm11-5-7.php';
-	space();
+}
+  space();
  
 ?>

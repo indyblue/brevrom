@@ -70,7 +70,7 @@
 	vrS('benedicta_tu_in_mulieribus.php');
 	space();	
 
-	ant('mirabile_mysterium_delcaratur_hodie.php','B');
+	ant('mirabile_mysterium_delcaratur_hodie.php','*');
 	if($long==0) {
 		rubp('Canticum <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>', 'The Canticle <snr>Benedíctus</s>, p. <snr>'.bkref('benedictus').'</s>',1);
 	} else {
@@ -344,7 +344,7 @@ if($weekly) rubp('','Full Psalter:
 	vrS('diffusa_est_gratia_in_labiis_tuis.php');
 	space();	
 
-	ant('prTemp/nativity/0101m2.php','M');
+	ant('prTemp/nativity/0101m2.php','*');
 	if($long==0) {
 		rubp('Canticum <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>', 'The Canticle <snr>Magníficat</s>, p. <snr>'.bkref('magnificat').'</s>',1);
 	} else {

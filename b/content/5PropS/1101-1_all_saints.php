@@ -25,7 +25,9 @@ if($kindle) {
 	rubrics('prSanct/ComplineSun.php');
 	space();
 
-if($kindle) {
+
+$matinsl = $_GET['matins-l'];
+if($matinsl && $kindle) {
 	include '1101-1_all_saints_m.php';
 }
 

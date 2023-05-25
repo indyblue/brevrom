@@ -5,6 +5,7 @@ error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED);
 
 mb_internal_encoding('UTF-8');
 $kindle=1;
+$_GET['kindle'] = 1;
 $_GET['htm'] = 1;
 $_GET['old'] = 1;
 $_GET['abbrev'] = 1;
@@ -12,6 +13,7 @@ $_GET['L'] = 0;
 $_GET['par'] = 1;
 $_GET['long'] = 1;
 $_GET['root'] = dirname(__FILE__) . '/content';
+$_GET['matins-l'] = 0;
 $pos = strpos($_GET['root'],'\\content');
 if($pos>0)
 	$_GET['root'] = substr($_GET['root'],0,$pos+8);
@@ -75,7 +77,7 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 	<title>Officium Divinum</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<link href="/b/htm_k.css" rel="stylesheet" type="text/css" />
+	<link href="/brevrom/b/htm_k.css" rel="stylesheet" type="text/css" />
 	<STYLE type="text/css">
 	div.h2 {display:'.($v?'auto':'none').';}
 	</STYLE>
@@ -230,7 +232,7 @@ function fn_links($m) {
 	$retval = $m[0];
 	$i = substr($retval,1);
 	if(isset($links[$i])) {
-			$retval = '/b/kindle/'
+			$retval = '/brevrom/b/kindle/'
 				.(isset($lang) && $lang=='en'?'en/':'')
 				.$links[$i];
 	}

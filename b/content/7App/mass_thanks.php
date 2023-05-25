@@ -1,8 +1,10 @@
 <?php
+	global $kindle;
+	$h = $kindle == 1 ? 2 : 1;
 
 	space();
 	hidden('Thanksgiving after Mass',2);
-	head('Gratiarum actio post Missam','Act of Thanksgiving after Mass',1);
+	head('Gratiarum actio post Missam','Act of Thanksgiving after Mass',$h);
 
 	ant('trium_puerorum_cantemus.php','*',2);
 	canticle('threechildren.php');
@@ -31,9 +33,8 @@
 	canticle('vr/anima_christi.php');
 
 	space();
-	global $kindle;
 	if($kindle) {
-		head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',4);
+		head('Oratio ad D.N.J.C. Crucifixum','Prayer before Christ Crucified',2);
 		echo '<img style="float: left; margin: 0 0.5em 0 0; width: 10em;" src="/b/Images/crucifix.png">';
 		prayer('App/mass_thanks_crucifix.php');
 	} else {
@@ -43,7 +44,7 @@
 	}
 
 	space();
-	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',4);
+	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',$kindle == 1 ? 2 : 4);
 	prayer('App/mass_thanks_thomas.php');
 
 	space();

@@ -1,9 +1,11 @@
 <?php
 	$long = $_GET['long'];
+	global $kindle;
+	$h = $kindle == 1 ? 2 : 1;
 
 	space();
 	hidden('Preparation for Mass',2);
-	head('Præparatio ad Missam','Preparation for Mass',1);
+	head('Præparatio ad Missam','Preparation for Mass',$h);
 	ant('ne_reminiscaris.php','*',2);
 	if($long==0) {
 		psref(83,2);
@@ -46,7 +48,7 @@
 	hidden('Preparation for Mass',2);
 
 	space();
-	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',4);
+	head('Oratio sancti Thomæ Aquinatis','Prayer of Saint Thomas Aquinas',$kindle == 1 ? 2 : 4);
 	prayer('App/mass_prep_thomas.php');
 
 ?>

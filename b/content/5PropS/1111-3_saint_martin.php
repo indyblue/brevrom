@@ -4,9 +4,12 @@
 	// img();
 	feast_saint(1111,13,'Sancti Martini','Saint Martin','EC');
 
+$matinsl = $_GET['matins-l'];
+if($matinsl) {
 	hour('M');
 	require '1111m.php';
 	space();
+}
 
 	hour('L');
 	ant('prSanct/1111L.php','20000');

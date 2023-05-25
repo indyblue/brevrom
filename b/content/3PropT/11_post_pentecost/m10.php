@@ -37,13 +37,15 @@
 	head('II classis', 'II class',5);
 	rubp('In dominica occurrente a die 25 ad diem 31 octobris inclusive, recolitur festum Domini nostri Jesu Christi Regis, ut in Proprio Sanctorum notatur, <snr>p. '. bkref('10CTK') .'</s>; in quo nulla fit commemoratio dominicæ occurrentis.', 'On the Sunday which occurs from October 25 to 31 October, inclusive, the feast of our Lord Jesus Christ the King is said, as noted in the Proper of Saints, <snr>p. '. bkref('10CTK') .'</s>; in which no commemoration of the Sunday occurs.');
 
+$matinsl = $_GET['matins-l'];
+if($matinsl) {
 	include 'm10-5-2.php';
 	include 'm10-5-3.php';
 	include 'm10-5-4.php';
 	include 'm10-5-5.php';
 	include 'm10-5-6.php';
 	include 'm10-5-7.php';
-
+}
 	space();
 
 ?>

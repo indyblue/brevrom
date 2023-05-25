@@ -11,45 +11,36 @@ include 'dayhour.php';
 	psalm(37,2);
 	psalm(38);
 
-	dayhoursup(3,'L1');
-	head('Psalmus 95','Psalm 95','2Ps'); //psalm(95);
+	dayhoursup(3,'L1',2);
+	head('Pss 95, 66, Cant. Ezechiæ (Is. 38:10-20)','','2Ps');
 	psalm(42);
-	head('Psalmus 66','Psalm 66','2Ps'); //psalm(66);
 	psalm(134);
   canticle('tobias.php');
-  head('Cant. Ezechiæ (Is. 38:10-20)','Cant. Exechiel (Is. 38:10)','2Ps'); // canticle('ezechiel.php');
 
-	dayhoursup(3,'P');
-  head('Psalmus 24 OD Mat N2','','2Ps'); 
+	dayhoursup(3,'P',2);
   psalm(24,1);
 	psalm(24,2);
 	psalm(24,3);
 
-	dayhoursup(3,'T');
-  head('Psalmus 39 OD Mat N3','','2Ps'); 
+	dayhoursup(3,'T',2);
 	psalm(39,1);
 	psalm(39,2);
 	psalm(39,3);
 
-	dayhoursup(3,'S');
-  head('Psalmi 40,41 OD Mat N3','','2Ps'); 
+	dayhoursup(3,'S',2);
 	psalm(40);
 	psalm(41,1);
 	psalm(41,2);
 
-	dayhoursup(3,'N');
+	dayhoursup(3,'N',2);
 	psalm(43,1);
 	psalm(43,2);
 	psalm(43,3);
 
-	dayhoursup(3,'V');
-	head('Psalmus 122','Psalm 122','2Ps'); //psalm(122);
-	head('Psalmus 123','Psalm 123','2Ps'); //psalm(123);
-	head('Psalmus 124','Psalm 124','2Ps'); //psalm(124);
-	head('Psalmus 125','Psalm 125','2Ps'); //psalm(125);
-	head('Psalmus 126','Psalm 126','2Ps'); //psalm(126);
+	dayhoursup(3,'V','2Ps');
+	head('Pss 122 - 126','','2Ps');
 
-	dayhoursup(3,'C');
+	dayhoursup(3,'C',2);
 	psalm(11);
 	psalm(12);
 	psalm(15);

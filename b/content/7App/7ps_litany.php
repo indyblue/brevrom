@@ -1,9 +1,11 @@
 <?php
 	$long = $_GET['long'];
+	global $kindle;
+	$h = $kindle == 1 ? 2 : 1;
 
 	space();
 	hidden('Penitential Psalms',2);
-	head('Septem Psalmi Pœnitentiales','Seven Penitential Psalms',1);
+	head('Septem Psalmi Pœnitentiales','Seven Penitential Psalms',$h);
 	head('cum Litaniis Sanctorum ac suis Precibus','with the Litany of the Saints and its Prayers',14);
 	space();
 	rubp('Sicubi recitentur in choro, congrue dicuntur post Matutinum et Laudes diei flexis genibus, dicto <snr>Benedicámus Dómino</s> et <snr>Deo grátias</s>; extra chorum pro temporis opportunitate.',
@@ -41,7 +43,7 @@
 	space();
 
 	hidden('Litany of the Saints',2);
-	head('Litaniæ Sanctorum cum suis Precibus','Litany of the Saints with its Prayers',1);
+	head('Litaniæ Sanctorum cum suis Precibus','Litany of the Saints with its Prayers',$h);
 	reading('vr/litany_saints.php',1,10);
 	vr('pater_silent_vr.php');
 	space();

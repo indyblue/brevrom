@@ -1,8 +1,10 @@
 <?php
 	$long = $_GET['long'];
+	global $kindle;
+	$h = $kindle == 1 ? 2 : 1;
 	space();
 	hidden('Gradual Psalms',2);
-	head('Psalmi Graduales','Gradual Psalms',1);
+	head('Psalmi Graduales','Gradual Psalms',$h);
 	rubp('Sicubi recitentur in choro, congrue dicuntur ante Matutinum diei; extra chorum vero pro temporis opportunitate.',
 		'Whenever they are recited in choir, they are said before Matins of the day; outside of choir they may be said at any opportune time.');
 	rubp('Primi quinque psalmi dicuntur sine <snr>Gloria Pátri</s>; sed in fine ultimi dicitur <snr>Réquiem ætérnam</s>.',

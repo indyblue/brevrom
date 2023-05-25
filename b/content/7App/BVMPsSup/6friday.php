@@ -11,42 +11,41 @@ include 'dayhour.php';
 	psalm(80);
 	psalm(82);
 
-	dayhoursup(6,'L1');
+	dayhoursup(6,'L1',2);
 	psalm(98);
 	psalm(142);
-	head('Psalmus 84','Psalm 84','2Ps'); //psalm(84);
-	head('Psalmus 147','Psalm 147','2Ps'); //psalm(147);
+	head('Pss 84, 147','','2Ps');
   canticle('isaiah45.php');
 	canticle('habacuc.php');
 
-	dayhoursup(6,'P');
+	dayhoursup(6,'P',2);
 	psalm(21,1);
 	psalm(21,2);
 	psalm(21,3);
 
-	dayhoursup(6,'T');
+	dayhoursup(6,'T',2);
 	psalm(79,1);
 	psalm(79,2);
 	psalm(81);
 
-	dayhoursup(6,'S');
+	dayhoursup(6,'S',2);
 	psalm(83,1);
 	psalm(83,2);
-	head('Psalmus 86','Psalm 86','2Ps'); //psalm(86);
+	head('Ps 86','','2Ps');
 
-	dayhoursup(6,'N');
+	dayhoursup(6,'N',2);
 	psalm(88,1);
 	psalm(88,2);
 	psalm(88,3);
 
-	dayhoursup(6,'V');
+	dayhoursup(6,'V',2);
 	psalm(138,1);
 	psalm(138,2);
 	psalm(139);
 	psalm(140);
 	psalm(141);
 
-	dayhoursup(6,'C');
+	dayhoursup(6,'C',2);
 	psalm(76,1);
 	psalm(76,2);
 	psalm(85);

@@ -1,10 +1,11 @@
 <?php
 	$long = $_GET['long'];
+	global $kindle;
 
 	space('Pg');
 	space();
 	hidden('',1);
-	head('Appendix','',0);
+	head('Appendix','',$kindle == 1 ? 1 : 0);
 	space();
 
 //	require 'hymns.php';

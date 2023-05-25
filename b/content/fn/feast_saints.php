@@ -86,7 +86,7 @@ function headSt($date, $class, $nameL, $nameE, $descr='') {
 	if(is_array($date)) {
 		$Ldate = $date[0];
 		$Edate = $date[1];
-	} elseif($date>100) {
+	} elseif(is_numeric($date) && $date>100) {
 		$date = convert_date($date);
 		$Ldate = $date[0];
 		$Edate = $date[1];
@@ -392,13 +392,16 @@ function feast_saint($date, $class, $nameL, $nameE, $type, $prayer=0, $commem=0,
 		if($class>0 && $lent!=1)
 			csref($cs, $psF, $csOpt);
 	
+$matinsl = $_GET['matins-l'];
+if($matinsl) {
 		// if matins file exists...
 		$mfile = "content/5PropS/{$date}m.php";
 		if(file_exists($mfile)) {
 			include "$mfile";
 			hour('L');
 		}
-		
+}
+
 		// lauds v/r & ant
 		if($class==0 || $lent==1) {
 			if($pta==2 && strlen($LantP)>0) {

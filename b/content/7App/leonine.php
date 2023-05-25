@@ -1,8 +1,10 @@
 <?php
+	global $kindle;
+	$h = $kindle == 1 ? 2 : 1;
 
 	space();
 	hidden('Leonine Prayers',2);
-	head('Orationes post Missam Lectam','Prayers after Low Mass',1);
+	head('Orationes post Missam Lectam','Prayers after Low Mass',$h);
 	prayer('App/leonine01.php');
 	rubp('Et dicitur ter','Which is said thrice');
 	space();

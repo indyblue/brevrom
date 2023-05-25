@@ -1,55 +1,44 @@
 <?php
 include 'dayhour.php';
 	dayhoursup(4,'M');
-	head('Psalmus 44','Psalm 44','2Ps'); //psalm(44,1);
-	//psalm(44,2);
-	head('Psalmus 45','Psalm 45','2Ps'); //psalm(45);
+	head('Pss 44, 45, 50','','2Ps');
 	psalm(47);
 	psalm(48,1);
 	psalm(48,2);
 	psalm('49a',1);
 	psalm('49a',2);
-	head('Psalmus 50','Psalm 50','2Ps'); //psalm(50);
-	//psalm('49b',1);
-	//psalm('49b',2);
-	//psalm('49b',3);
 
-	dayhoursup(4,'L1');
-	head('Psalmus 96','Psalm 96','2Ps'); //psalm(96);
-	head('Psalmus 64','Psalm 64','2Ps'); //psalm(64);
+	dayhoursup(4,'L1',2);
+	head('Pss 96, 64, 145','','2Ps');
 	psalm(100);
-	head('Psalmus 145','Psalm 145','2Ps'); //psalm(145);
 	canticle('judith.php');
 	canticle('hannah.php');
 
-	dayhoursup(4,'P');
+	dayhoursup(4,'P',2);
 	psalm(25);
 	psalm(51);
 	psalm(52);
 
-	dayhoursup(4,'T');
-	head('Psalmus 53','Psalm 53','2Ps'); //psalm(53);
+	dayhoursup(4,'T',2);
+	head('Ps 53','','2Ps');
 	psalm(54,1);
 	psalm(54,2);
 
-	dayhoursup(4,'S');
+	dayhoursup(4,'S',2);
 	psalm(55);
 	psalm(56);
 	psalm(57);
 
-	dayhoursup(4,'N');
+	dayhoursup(4,'N',2);
 	psalm(58,1);
 	psalm(58,2);
 	psalm(59);
 
-	dayhoursup(4,'V');
-	head('Psalmus 127','Psalm 127','2Ps'); //psalm(127);
-	head('Psalmus 128','Psalm 128','2Ps'); //psalm(128);
-	head('Psalmus 129','Psalm 129','2Ps'); //psalm(129);
-	head('Psalmus 130','Psalm 130','2Ps'); //psalm(130);
+	dayhoursup(4,'V',2);
+	head('Pss 127 - 130','','2Ps');
 	psalm(131);
 
-	dayhoursup(4,'C');
+	dayhoursup(4,'C',2);
 	psalm(33,1);
 	psalm(33,2);
 	psalm(60);
