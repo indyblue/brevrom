@@ -1,13 +1,10 @@
-   <p:P182/>
-<?php img('Tempore/t00_proprium_tempore.png',100); ?>
-   <p:Head1NI/>
-	<p:Head0><?php 
-echo ($_GET['L']==1?'Proprium de Tempore':'Proper of Seasons')
-?></p>
-   <p:Spacer/>
    <p:P181/>
-   <p:Body/>
-<?php 
+<?php img('Tempore/t00_proprium_tempore.png',100); 
+   space();
+   head('Proprium de Tempore', 'Proper of Seasons',0);
+   space();
+
+   echo '<!--sec 2col -->';
 require '01_advent/index.php';
 require '02_nativity/index.php';
 require '03_epiphany/index.php';
@@ -20,5 +17,6 @@ require '09_ascension/index.php';
 require '10_pentecost.php';
 require '11_post_pentecost/index.php';
 
+echo '<!--sec 2col end -->';
 
 ?>

@@ -190,6 +190,10 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 		$Llang = 1;
 	}
 
+	if($_GET['par']) {
+		$par = 1;
+		$interl = 0;
+	}
 	if($h1) {
 		if($h1==1) $h1 = $L;
 		elseif($h1==2) $h1 = $E;

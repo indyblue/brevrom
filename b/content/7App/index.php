@@ -7,6 +7,7 @@
 	hidden('',1);
 	head('Appendix','',$kindle == 1 ? 1 : 0);
 	space();
+	echo '<!--sec 2col -->';
 
 //	require 'hymns.php';
 
@@ -26,5 +27,6 @@
 
 	require 'guardian_angel.php';
 
+	echo '<!--sec 2col end -->';
 
 ?>

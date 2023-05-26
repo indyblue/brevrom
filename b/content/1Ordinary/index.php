@@ -6,6 +6,8 @@
 	head('Ordinarium Divini Officii','Ordinary of the Divine Office',0);
 	space();
 	space('PgB');
+	echo '<!--sec 2col -->';
+
 	rubp('<snr>1</s> Officium divinum, nisi aliter suo loco indicetur, per totum annum et ad omnes Horas, absolvitur juxta formam, quæ in rubricis hujus Ordinarii exhibetur.', '<snr>1</s> The divine Office is carried out, through the whole year and at all Hours, according to the form, which is presented in the rubrics of this Ordinary, unless presented otherwise in its proper place.');
 	space();
 
@@ -35,4 +37,5 @@ require '17_easter.php';
 require '18_ascension.php';
 require '19_per_annum.php';
 
+	echo '<!--sec 2col end -->';
 ?>

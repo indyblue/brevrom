@@ -14,7 +14,7 @@ function lectio($la, $en) {
 		$enh1 = $en[0];
 		$ennum = $en[1];
 		$encap = $en[2];
-		$entxt = caps_first_word($en[3]);
+		$entxt = sizeof($en)>3 ? caps_first_word($en[3]) : '';
 	}
 	
 	$latxt = ''; $entxt = '';
@@ -30,13 +30,14 @@ function lectio($la, $en) {
 			$txt = mb_split('\|',$itxt);
 			$cl = "Body{$LE[$i]}Drop";
 			$s = ''; $sc = '';
-			$tb = $txt[1];
-			if(count($txt)>1) switch($txt[0]) {
-				case "c": $cl = 'Head3ni'; break;
-				case "cr": $cl = 'Head4'; break;
-				case "lr": $cl = "Body{$LE[$i]}"; $s = '<sr>'; $sc = '</s>'; break;
-			}
-			else $tb = $txt[0] . $tu[$i];
+			if(count($txt)>1) {
+					$tb = $txt[1];
+					switch($txt[0]) {
+					case "c": $cl = 'Head3ni'; break;
+					case "cr": $cl = 'Head4'; break;
+					case "lr": $cl = "Body{$LE[$i]}"; $s = '<sr>'; $sc = '</s>'; break;
+				}
+			}	else $tb = $txt[0] . $tu[$i];
 			if(is_numeric($tb)) $tb = $lec[$i] . ' ' . $rn[$txt[1]];
 			if(count($txt)>2) $tb .= "<t2>" . $txt[2];
 

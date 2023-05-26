@@ -1,76 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?php
-if($_GET['Style']=='7') {
-	$PgW = 4.25;
-	$PgH = 7;
-	$PgMar = .25;
-	$PgGMar = .25;
-	$Body = 9;
-} elseif($_GET['Style']=='6') {
-	$PgW = 4.5;
-	$PgH = 6.0;
-	$PgMar = .25;
-	$PgGMar = .25;
-	$Body = 9;
-} elseif($_GET['Style']=='4') {
-	$PgW = 3;
-	$PgH = 5;
-	$PgMar = .25;
-	$PgGMar = .25;
-	$Body = 7;
-} elseif($_GET['Style']=='L5') {
-	$PgW = 5.5 + .25;
-	$PgH = 8.5 + .25;
-	$PgMar = .25 + .125;
-	$PgGMar = .75;
-	$Body = 9;
-	$Body = 8.9;
-} elseif($_GET['Style']=='L8') {
-	$PgW = 8.5 + .25;
-	$PgH = 11 + .25;
-	$PgMar = .4 + .125;
-	$PgGMar = .75;
-	$Body = 12;
-} elseif($_GET['Style']=='S5') {
-	$PgW = 5;
-	$PgH = 8;
-	$PgMar = .4;
-	$PgGMar = .6;
-	$Body = 9;
-	$Body = 8.9;
-} elseif($_GET['Style']=='A4') {
-	$PgW = 8.27/2;
-	$PgH = 11.69/2;
-	$PgMar = .25;
-	$PgGMar = .25;
-	$Body = 9;
-} else {
-	$PgW = $_GET['PgW'];
-	$PgH = $_GET['PgH'];
-	$PgMar = $_GET['PgMar'];
-	$PgGMar = $_GET['PgGMar'];
-	$Body = $_GET['BodyFont'];
-}
+include(dirname(__FILE__) . '/../content/styles.php');
 
-	if($Body<8.5) $BodySm = $Body;
-	else $BodySm = $Body - 1;
-	$RubricHSm = $Body - 1.5;
-	$HymnR = $Body + 1;
-	$Head1 = $Body * 1.9;
-	$Head0 = $Head1 + 2;
-	$Head2 = $Body * 1.1;
-	$Head3 = $Body * 1.1;
-/*	
-RubricHSm		$BodySm
-HymnS				4
-Spacer			2
- */
 ?><office:document-styles xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" office:version="1.0">
  <office:font-face-decls>
   <style:font-face style:name="Old London" svg:font-family="&apos;Old London&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="Times VR" svg:font-family="&apos;Times VR&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="TimesLT" svg:font-family="TimesLT" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times VR" svg:font-family="&apos;FancyVR&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="TimesLT" svg:font-family="FreeSerif" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;FreeSerif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:style style:name="Standard" style:family="paragraph" style:class="text">

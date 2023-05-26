@@ -6,6 +6,8 @@ echo ($_GET['L']==1?'Commune Sanctorum':'Common of Saints')
 ?></p>
    <p:Spacer/>
 <?php
+echo '<!--sec 2col -->';
+
 require '610_Apostles.php';
 require '612_ApostlesPT.php';
 require '620_Pope.php';
@@ -18,4 +20,6 @@ require '655_HolyWomen.php';
 require '660_DedicationChurch.php';
 require '670_BVM.php';
 require '675_BVMSat.php';
+echo '<!--sec 2col end -->';
+
 ?>

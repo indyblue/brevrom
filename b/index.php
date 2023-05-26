@@ -1,63 +1,94 @@
 <?php
+function exception_handler(Throwable $exception) {
+	ob_end_clean();
+  echo "Uncaught exception: <pre>$exception</pre><br>";
+}
+set_exception_handler('exception_handler');
+
+$errs = "Error list:\n";
+function myErrorHandler($errno, $errstr, $errfile, $errline)
+{
+		global $errs;
+		$e = "$errno | $errstr | $errfile | $errline\n";
+		if(!str_contains($errs, $e))		
+			$errs .= $e . var_export( debug_backtrace(), true) . "\n";
+    return false;
+}
+$old_error_handler = set_error_handler("myErrorHandler");
 
 $zip = new ZipArchive();
-$filename = "./b.odt";
+$filename = "./output/b.odt";
 
-if ($zip->open($filename, ZIPARCHIVE::OVERWRITE)!==TRUE) {
-    exit("cannot open <$filename>\n");
+if ($zip->open($filename, ZIPARCHIVE::OVERWRITE)!==TRUE
+ && $zip->open($filename, ZIPARCHIVE::CREATE)!==TRUE) {
+    exit("cannot open '$filename'\n");
 }
 
 //$zip->addFile("./OOo/content.xml","content.xml");
+
+
+$isx = isset($_GET['x']) && $_GET['x']==='1';
 
 ob_start(); // start buffer
 include ("content/content.php");
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
 
-if(isset($_GET['x']) && $_GET['x']==='1') {
+if(0 && $isx) {
 	ob_start(); // start buffer
-	readfile('b.xml');
+	readfile('./output/b.xml');
 	$txtContent = ob_get_contents(); // assign buffer contents to variable
 	ob_end_clean(); // end buffer and remove buffer contents
 }
 
 //echo $txtContent;
 //$txtContent = file_get_contents("content/content.xml");
-if(isset($_GET['x']) && $_GET['x']==='1') {
-	$temp = "
-			<table> <tr> <td:A1>
-      <p:BodyLDrop>APERI, Domine, os meum ad benedicendum nomen sanctum tuum: munda quoque cor meum ab omnibus vanis, perversis et alienis cogitationibus; intellectum illumina, affectum inflamma, ut digne, attente ac devote hoc Officium recitare valeam, et exaudiri merear ante conspectum divinae Majestatis tuae. Per Christum, Dominum nostrum. </p>
-      <p:BodyL><s:VR>R. </s>Amen.</p>
-     </td> <td:B1>
-      <p:BodyEDrop>OPEN my mouth, O Lord, that I may bless thy holy name. Cleanse my heart from all vain, evil and wandering thoughts; enlighten my understanding, enkindle my affections, that I may worthily recite this Office with attention and devotion, and may worthily be heard before the presence of thy Divine Majesty. Through Christ our Lord. </p>
-      <p:BodyE><s:VR>R. </s>Amen.</p>
-     </td> </tr> <tr> <td:A1>
-      <p:BodyLIndent>Domine, in unione illius divinae intentionis, qua ipse in terris laudes Deo persolvisti, has tibi Horas <sr>(vel </s>hanc tibi Horam<sr>)</s> persolvo.</p>
-     </td> <td:B1>
-      <p:BodyEIndent>O Lord, in union with that Divine Intention wherewith thou didst thyself praise God, while as thou wast on earth, I offer these Hours <sr>(or </s>this Hour<sr>)</s> unto thee.</p>
-		</td> </tr> </table>
+if($isx) {
+	echo "x=1 found<br>";
 
-		";
-	echo 'x=1 found';
-	$regex=array(
-		'/<\/{0,1}table([^:>]*)>/',
-		'/<tr>.*?<td:A[0-9]>(.*?)<\/td>.*?<td:B[0-9]>(.*?)<\/td>.*?<\/tr>/s'
+	$kal = '';
+	$txtContent = preg_replace_callback_array(
+    [
+        '/<!--sec calendar -->.*?<!--sec calendar end -->/s' => function ($match) {
+            global $kal;
+						$kal = $match[0];
+						// $kal = var_dump($match, true);
+						return '<!--sec calendar -->';
+        }
+		],
+    $txtContent
 	);
-	$repl=array(
+
+	$txtContent = preg_replace(array(
+		'/<tr>\s*<td:A[0-9]>(.*?)<\/td>\s*<td:B[0-9]>(.*?)<\/td>\s*<\/tr>/s',
+		'/<table[^:>]*>(?!\s*<tr[^>]*>)/s',
+		'/(?!<\/tr[^>]*>\s*)<\/table[^:>]*>/s',
+	),array(
+		'\1',
 		'',
-		'\1'
-	);
+		'',
+	),$txtContent);
 
-	$txtContent = preg_replace($regex,$repl,$txtContent);
-	$temp2 = preg_replace($regex,$repl,$temp);
-	$temp2 = preg_replace(array('/</','/>/'),array('&lt;','&gt;'),$temp2);
-	//echo "<br><pre>$temp2</pre><br><br>";
-	$fh = fopen("b_lo.xml", 'w');
+	$txtContent = str_replace(array(
+		'<!--sec calendar -->',
+	), array(
+		$kal,
+	), $txtContent);
+
+	$txtContent = preg_replace(array(
+		'/<!--sec 2col -->/s',
+		'/<!--sec 2col end -->/s'
+	),array(
+		'<text:section text:style-name="Sect1" text:name="Section1">',
+		'</text:section>',
+	),$txtContent);
+
+	$fh = fopen("./output/b_lo.xml", 'w');
 	fwrite($fh, $txtContent);
 	fclose($fh);
 	//exit;
 } else {
-	$fh = fopen("b.xml", 'w');
+	$fh = fopen("./output/b.xml", 'w');
 	fwrite($fh, $txtContent);
 	fclose($fh);
 }
@@ -140,7 +171,7 @@ $txtContent = preg_replace($regex,$repl,$txtContent);
 
 $zip->addFromString("content.xml", $txtContent);
 
-$fh = fopen("content.xml", 'w');
+$fh = fopen("./output/content.xml", 'w');
 fwrite($fh, $txtContent);
 fclose($fh);
 
@@ -156,27 +187,14 @@ include ("OOo/styles.php");
 $txtContent = ob_get_contents(); // assign buffer contents to variable
 ob_end_clean(); // end buffer and remove buffer contents
 
+$fh = fopen("./output/styles.xml", 'w');
+fwrite($fh, $txtContent);
+fclose($fh);
+
 // adding styles file!
 $zip->addFromString("styles.xml", $txtContent);
 
 
-// old styles.xml code
-/*
-if($_GET['Style']=='7')
-	$zip->addFile("./OOo/styles_7.xml","styles.xml");
-elseif($_GET['Style']=='ds')
-	$zip->addFile("./OOo/styles_7ds.xml","styles.xml");
-elseif($_GET['Style']=='L4')
-	$zip->addFile("./OOo/styles_Lulu4x6.xml","styles.xml");
-elseif($_GET['Style']=='L5')
-	$zip->addFile("./OOo/styles_Lulu5x8.xml","styles.xml");
-elseif($_GET['Style']=='L6')
-	$i = $zip->addFile("./OOo/styles_Lulu6x9.xml","styles.xml");
-elseif($_GET['Style']=='L8')
-	$i = $zip->addFile("./OOo/styles_Lulu8x11.xml","styles.xml");
-else
-	$zip->addFile("./OOo/styles.xml","styles.xml");
-*/
 $zip->addFile("./OOo/settings.xml","settings.xml");
 $zip->addFile("./OOo/META-INF/manifest.xml","META-INF/manifest.xml");
 $zip->addFile("./OOo/Object 1/content.xml","Object 1/content.xml");
@@ -204,5 +222,6 @@ if(isset($_GET['x']) && $_GET['x']==='1') {
 //echo "numfiles: " . $zip->numFiles . "\n";
 //echo "status:" . $zip->status . "\n";
 $zip->close();
+echo "<pre>$errs</pre>";
 ?>
 

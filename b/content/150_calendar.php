@@ -4,6 +4,8 @@
     </draw:frame></text:p>
 
 	<p:P1/>
+   <!--sec 2col -->
+   <!--sec calendar -->
    <p:Head1NI>Calendar</p>
    <p:Rubric>Abbreviations used:</p>
    <table>
@@ -2462,6 +2464,7 @@
    <p:Body>Feast of the secondary Patron of an Order of Congregation, </p>
    <p:BodyEIndent>and for religious provinces.</p>
    <p:Body>Other feasts of the second class, proper and by indult, movable or fixed.</p>
+   <!--sec 2col end -->
    <p:P1/>
    <p:Head1NI>Table of Occurrence</p>
    <table:table table:name="TableOccurrence" table:style-name="TableOccurrence">
@@ -3151,6 +3154,7 @@
      </td>
     </tr>
    </table>
+   <!--sec 2col -->
    <p:BodySm/>
    <p:Head2>NOTES ON THE TABLES OF <text:line-break/>OCCURRENCE AND CONCURRENCE</p>
    <p:BodyEIndent>1. A feast of our Lord of the 1st or 2nd class, occurring on a Sunday, takes the place of that Sunday with all rights and privileges: hence no commemoration is made of the Sunday.</p>
@@ -3193,3 +3197,5 @@
    <p:BodyEIndent>b) at the lessons with their responsories at Matins, except while the text of the gospel is being read before the homily;</p>
    <p:BodyEIndent>c) while the Martyrology is being read at Prime, unless another posture is prescribed.</p>
 	<p:Spacer/>
+   <!--sec 2col end -->
+   <!--sec calendar end -->

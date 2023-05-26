@@ -36,18 +36,14 @@ require 'fn/0list.php';
 
 
 
+$_GET['htm'] = 0;
 
 //
-// Switch to change page settings for Lulu &c:
-// Settings can be:
-//     '6' (Blank) for 4.25x6.75
-//     '7' for 4.25x7
-//     'L5' for Lulu 5.5 x 8.5
-//     'L8' for Lulu 8.5 x 11
-//     'A4' for 1/4 of A4
+// Switch to change page settings:
+// see content/styles.php for options
 //
-$_GET['Style'] = '7';
-
+$_GET['Style'] = 'Az6';
+include('styles.php');
 // 
 // these are only used if 'Style' is not a valid preset
 //
@@ -69,18 +65,44 @@ $_GET['O'] = 0;
 $_GET['comm'] = 0;
 
 // Switch to determine if headings are in English or Latin
-$_GET['L'] = 0;
+$_GET['L'] = 1;
+$_GET['interl-off'] = 0;
 // Forces parallel headings
 $_GET['par'] = 1;
 
 // Short/Long form
 //  0 = short form
 //  1 = long form
-$_GET['long'] = 1;
+$_GET['long'] = 0;
 $_GET['weekly'] = 0;
 // matins option 
 $_GET['matins'] = 1;
+$_GET['matins-l'] = 0; // lessons
 
+
+// ************************************************************
+// * working copy...
+// ************************************************************
+//*
+bklist('test');
+
+$_GET['old'] = 0;
+
+require '100_intro.php';
+require '110_toc.php';
+require '150_calendar.php';
+require '3PropT/index.php';
+require '1Ordinary/index.php';
+//*
+
+require '2Psalter/index.php';
+
+require '5PropS/index.php';
+require '6ComS/index.php';
+require '6ComS/677_BVMp.php';
+require '6ComS/690_OfficeDead.php';
+require '7App/index.php';
+// */
 
 // ************************************************************
 // space('PgB');
@@ -252,7 +274,7 @@ hymn('veni_creator_spiritus.php',0);
 // ************************************************************
 // * 4.25x7 Master copy
 // ************************************************************
-//*
+/*
 $_GET['Style'] = '7';
 bklist('test');
 

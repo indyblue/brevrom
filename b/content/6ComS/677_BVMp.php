@@ -10,7 +10,8 @@
 	head('Officium parvum B. Mariæ Virginis',
 		'Little Office of the Bl. Virgin Mary',1,
 		'Little Office BVM');
-	
+		echo '<!--sec 2col -->';
+
 	space();
 	bvm_head(1);
 	rubp('Quod dicitur a Matutino diei 3 februarii usque ad Nonam Sabbati sancti inclusive, præterquam in festo Annuntiationis; et a Vesperis sabbati post octavam Pentecostes usque ad Nonam sabbati ante dominicam I Adventus inclusive.', 'Which is said from Matins of February 3 until None of Holy Saturday inclusive, except in the feast of the Annuntiation; and from Saturday Vespers after the octave of Pentecost until Saturday None before the first Sunday of Advent inclusive.');
@@ -648,4 +649,6 @@ function bvm_multiant($part, $vespers=0, $option=1) {
 	}
 	space('Line');
 }
+echo '<!--sec 2col end -->';
+
 ?>

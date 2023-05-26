@@ -14,6 +14,7 @@ space('PgH');
 img('Saints/00_proper_of_saints.png',100);
 head('Proprium Sanctorum','Proper of Saints',0,2);
 space('PgB');
+echo '<!--sec 2col -->';
 
 
 require '11b_November.php';
@@ -29,5 +30,6 @@ require '08_August.php';
 require '09_September.php';
 require '10_October.php';
 require '11_November.php';
+echo '<!--sec 2col end -->';
 
 ?>

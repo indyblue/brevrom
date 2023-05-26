@@ -12,6 +12,7 @@
 	head('Officium Defunctorum',
 		'Office of the Dead',1,
 		'Office of the Dead');
+		echo '<!--sec 2col -->';
 
 	rubp('Dicitur in choro in die depositionis et aliis diebus pro temporis opportunitate et ecclesiarum consuetudine: Matutinum cum Laudibus post Laudes diei; Vesperæ post Vesperas diei, immediate post versum <snr>Benedicámus Dómino,</s> et <snr>Deo grátias</s>.',
 		'This Office is said in choir on the day of burial and at other times when convenient and according to custom. Matins and Lauds are said after Lauds of the day, and Vespers after Vespers of the day, immediately after the versicle: <snr>Benedicámus Dómino,</s> and <snr>Deo grátias</s>.',1);
@@ -418,5 +419,6 @@ if($old==1) {
 		space();
 	}
 
+	echo '<!--sec 2col end -->';
 
 ?>

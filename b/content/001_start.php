@@ -4,7 +4,7 @@
  <office:scripts/>
  <office:font-face-decls>
   <style:font-face style:name="Cloister Black" svg:font-family="&apos;Cloister Black&apos;" style:font-adornments="Light" style:font-pitch="variable"/>
-  <style:font-face style:name="Times VR" svg:font-family="&apos;Times VR&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Times VR" svg:font-family="&apos;FancyVR&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:automatic-styles>
