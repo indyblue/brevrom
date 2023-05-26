@@ -67,7 +67,7 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
       <p:P201>(et al.)</p>
       <p:P159/>
       <p:P159>This volume was published on</p>
-      <p:P159><draw:frame draw:style-name="fr10" draw:name="Object1" text:anchor-type="as-char" svg:width="2.3902in" svg:height="0.178in" draw:z-index="43"><draw:object xlink:href="./Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/><draw:image xlink:href="./ObjectReplacements/Object 1" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+      <p:P159><draw:frame draw:style-name="fr10" draw:name="Object1" text:anchor-type="as-char" svg:width="2.3902in" svg:height="0.178in" draw:z-index="43"><draw:object xlink:href="./pubon" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/><draw:image xlink:href="./ObjectReplacements/pubon" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
        </draw:frame></p>
      </draw:text-box>
     </draw:frame></p>

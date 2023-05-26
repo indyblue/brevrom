@@ -10,3 +10,8 @@ in libreoffice, manually:
 // this would be great, except it doesn't do the update-all
 // libreoffice --headless --convert-to pdf b.odt
 
+
+movable feasts: in OOo/movable/
+the xml files 'content, settings, styles' are used
+these are extracted directly from the movable.ods file
+if the ods file is updated, just unzip and copy needed files

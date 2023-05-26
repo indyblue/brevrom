@@ -102,13 +102,13 @@ else
 
 $zip->addFile("./OOo/settings.xml","settings.xml");
 $zip->addFile("./OOo/META-INF/manifest.xml","META-INF/manifest.xml");
-// $zip->addFile("./OOo/Object 1/content.xml","Object 1/content.xml");
-// $zip->addFile("./OOo/Object 1/settings.xml","Object 1/settings.xml");
-// $zip->addFile("./OOo/Object 1/styles.xml","Object 1/styles.xml");
+// $zip->addFile("./OOo/pubon/content.xml","pubon/content.xml");
+// $zip->addFile("./OOo/pubon/settings.xml","pubon/settings.xml");
+// $zip->addFile("./OOo/pubon/styles.xml","pubon/styles.xml");
 // 
-// $zip->addFile("./OOo/Object 2/content.xml","Object 2/content.xml");
-// $zip->addFile("./OOo/Object 2/settings.xml","Object 2/settings.xml");
-// $zip->addFile("./OOo/Object 2/styles.xml","Object 2/styles.xml");
+// $zip->addFile("./OOo/movable/content.xml","movable/content.xml");
+// $zip->addFile("./OOo/movable/settings.xml","movable/settings.xml");
+// $zip->addFile("./OOo/movable/styles.xml","movable/styles.xml");
 
 echo $_GET['Style'];
 echo $i;
