@@ -10,6 +10,7 @@ in libreoffice, manually:
 // this would be great, except it doesn't do the update-all
 // libreoffice --headless --convert-to pdf b.odt
 
+- in latin-only two column mode, the TableKalendar column widths needed to be adjusted. I left it at the wider setting, as it makes a small difference in 1 column mode. Original width 3832 -> 5832.
 
 movable feasts: in OOo/movable/
 the xml files 'content, settings, styles' are used

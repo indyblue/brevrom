@@ -39,7 +39,7 @@
    <style:table-properties table:align="margins"/>
   </style:style>
   <style:style style:name="TableKalendar.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="3832*"/>
+   <style:table-column-properties style:rel-column-width="5832*"/>
   </style:style>
   <style:style style:name="TableKalendar.B" style:family="table-column">
    <style:table-column-properties style:rel-column-width="61703*"/>
