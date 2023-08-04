@@ -208,7 +208,7 @@ function fn_index($matches) {
 				$repl = $shorts[$matches['txt']];
 				$idx .= " <a href='#index_loc_$idxc'>$repl</a><br/>";
 		} else {
-			$idx .= "<a href='#index_loc_$idxc'>$saintdate{$matches['txt']}</a><br/>\n";
+			$idx .= "<div><a href='#index_loc_$idxc'>$saintdate{$matches['txt']}</a></div>\n";
 		}
 		$retval = "{$matches['ot']}<a name='index_loc_$idxc'/>{$matches['txt']}{$matches['ct']}";
 		$idxc++;
@@ -241,7 +241,12 @@ function fn_links($m) {
 $txtContent = preg_replace_callback('/(?<=href=")[^"]*(?=")/i', 'fn_links', $txtContent);
 
 /************** HYPHENATION AND ECHO PAGE TEXT **************************/
-$html2 = "\n</div></body></html>\n";
+$html2 = '
+</div>
+<div style="height:100vh">&nbsp;</div>
+</body>
+</html>
+';
 
 $txta = preg_split('/^\s*(<div[^>]*>\s*<a[^>]*>\s*<.a>\s*<.div>)/',$txtContent,2, PREG_SPLIT_DELIM_CAPTURE);
 //var_dump($x);

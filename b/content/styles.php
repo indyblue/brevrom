@@ -7,10 +7,10 @@ if($_GET['Style']=='7') {
 	$Body = 9;
 } elseif($_GET['Style']=='Az6') {
 	$om = 0.25;
-	$PgW = 6 + $om;
-	$PgH = 9 + $om;
-	$PgMar = $om * 2; // + .125;
-	$PgGMar = 0.875;
+	$PgW = 6;
+	$PgH = 9;
+	$PgMar = 0.3; // + .125;
+	$PgGMar = 0.75;
 	$Body = 9;
 } elseif($_GET['Style']=='6') {
 	$PgW = 4.5;

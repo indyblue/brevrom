@@ -3,6 +3,11 @@
 - http://localhost/brevrom/b/index.php
 - add ?x=1 for latin-only 2 column
 
+- to check which margins are being used, look in content/content.php
+- look for something like:
+- $_GET['Style'] = 'Az6';
+- then check content/styles.php to see "options"
+
 in libreoffice, manually:
 - tools -> update -> all
 - file -> export as -> pdf
