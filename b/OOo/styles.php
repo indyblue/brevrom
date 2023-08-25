@@ -266,7 +266,7 @@ include(dirname(__FILE__) . '/../content/styles.php');
    </style:header-style>
    <style:footer-style/>
   </style:page-layout>
-  <style:page-layout style:name="pm4" style:page-usage="right">
+  <style:page-layout style:name="pm4" style:page-usage="mirrored">
    <style:page-layout-properties fo:page-width=<?php echo '"'. $PgW .'in"' ?> fo:page-height=<?php echo '"'. $PgH .'in"' ?> style:num-format="1" style:print-orientation="portrait" fo:margin-top=<?php echo '"'. $PgMar .'in"' ?> fo:margin-bottom=<?php echo '"'. $PgMar .'in"' ?> fo:margin-left=<?php echo '"'. $PgGMar .'in"' ?> fo:margin-right=<?php echo '"'. $PgMar .'in"' ?> style:shadow="none" fo:background-color="transparent" style:writing-mode="lr-tb" style:footnote-max-height="0in">
     <style:background-image/>
     <style:columns fo:column-count="1" fo:column-gap="0in"/>
