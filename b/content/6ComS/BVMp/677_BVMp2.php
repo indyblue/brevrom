@@ -6,10 +6,6 @@
 	$old = $_GET['old'];
 
 	space();
-	hidden('Aperi',2);
-	require 'content/0Intro/101_aperi.php'; 
-
-	space();
 	img('Saints/0908_nativity_of_bvm.png',100);
 	space('RubricH');
 	bookmark('csBVMp');
@@ -484,9 +480,6 @@ if($old==2) {
 }
 
 space();
-hidden('Sacrosanctæ',2);
-require 'content/0Intro/105_sacrosancte.php'; 
-
 
 // option:
 //  0 - normal size, centered headings

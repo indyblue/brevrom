@@ -1,4 +1,15 @@
 <?php
+	dayhour(1,'C');
+	ant('Psalter/alleluia.php','P');
+	ant('Psalter/1Sun/7C.php');
+	psalm(4);
+	psalm(90);
+	bookmark('Ps133');
+	psalm(133);
+	ant('Psalter/1Sun/7C.php',1);
+	ant('Psalter/alleluia.php','p');
+	dayhourE(1,'C');
+
 include 'dayhour.php';
 	dayhoursup(1,'M');
 	psalm(1);
