@@ -26,6 +26,7 @@
 		psalm(129);
 		reading('vr/gloria_patri-s.php',0);
 	}
+  bookmark('ne_reminiscaris2');
 	ant('ne_reminiscaris.php','1',2);
 	space();
 	reading('vr/kyrie.php',0);

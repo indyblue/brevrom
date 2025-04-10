@@ -10,6 +10,7 @@
 	canticle('threechildren.php');
 	psalm(150);
 	reading('vr/gloria_patri-s.php',0);
+  bookmark('trium_puerorum_cantemus2');
 	ant('trium_puerorum_cantemus.php','1',2);
 	space();
 

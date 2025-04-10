@@ -21,8 +21,8 @@
 
 if($matins) {
 	hidden('Matins',2);
-	hour('M');
 	bookmark('offDefM');
+	hour('M');
 	rubp('Absolute incipitur ab Invitatorio.', 'Matins begins immediately with the invitatory.');
 	ant('regem_cui_omnia_vivunt_venite_adoremus.php','I');
 	ant('regem_cui_omnia_vivunt_venite_adoremus.php','R');
@@ -181,8 +181,8 @@ if($matins) {
 }
 
 	hidden('Lauds',2);
-	hour('L');
 	bookmark('offDefL');
+	hour('L');
 	rubp('Absolute incipiuntur ab', 'Begins at once with',1);
 	ant('offDefL.php','20000');
 	psalm('050.php');
@@ -223,6 +223,7 @@ if($matins) {
 	
 if($old==1) {
 	rubp('<snr>¶</s> Sequens Ps. <snr>De profúndis,</s> non dicitur in die obitus seu despositionis defuncti.','<snr>¶</s> The following Ps. <snr>Out of the depths,</s> is not said on the day of death or burial.');
+	bookmark('off-def-de-profundis');
 	psalm(129);
 	reading('vr/requiem_aeternam.php',0);
 	space('Spacer');
@@ -329,8 +330,8 @@ if($htm==1) {
 }
 
 	hidden('Vespers',2);
-	hour('V');
 	bookmark('offDefV');
+	hour('V');
 	rubp('Absolute incipiuntur ab', 'Begins at once with',1);
 	ant('offDefV.php','20000');
 	psalm('114.php');

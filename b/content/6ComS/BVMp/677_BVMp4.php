@@ -1,6 +1,7 @@
 <?php
 	$_GET['season'] = 0;
 	$season = $_GET['season'];
+  $htm =  $_GET['htm'];
 	$long = $_GET['long'];
 	$weekly = $_GET['weekly'];
 	$old = $_GET['old'];
@@ -104,6 +105,13 @@ if($weekly) rubp('','Full Psalter:
 
 	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
+  if($htm) {
+    $odl= fn($h,$l) => "<snr><a href="
+      ."'../FSSR/690_OfficeDead.php#offDef$h'"
+      .">$l</a></s>";
+    rubp("Off Def, {$odl('M', 'Matutinum')} aut {$odl('L', 'Laudes')}, ut infra",
+		"Off Dead, {$odl('M', 'Matins')} or {$odl('L', 'Lauds')}, as below");
+  }
 	vrS('fidelium_animae.php');
 	space();
 
@@ -380,6 +388,10 @@ if($weekly) rubp('','Full Psalter:
 
 	vrS('domine_exaudi_orationem_meam.php');
 	vrS('benedicamus_domino.php');
+  if($htm) {
+    rubp("Off Def, {$odl('V', 'Vesperas')}, ut infra",
+		"Off Dead, {$odl('V', 'Vespers')}, as below");
+  }
 	vrS('fidelium_animae.php');
 	space();
 

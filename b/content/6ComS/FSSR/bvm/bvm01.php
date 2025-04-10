@@ -1,4 +1,5 @@
 <?php
+  $htm =  $_GET['htm'];
 require_once 'bvm_fns.php';
 $_GET['solo'] = 1;
 $_GET['prayer_ending'] = 1;
