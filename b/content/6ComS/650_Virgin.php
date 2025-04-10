@@ -22,7 +22,9 @@
 	space('Line');
 	rubrics('cs/1Compline.php');
 
-	space();
+		$matins = $_GET['matins'];
+if($matins) {
+space();
 	hour('M');
 	ant('regem_virginum_dominum_venite_adoremus.php','I');
 	rubrics('head/HymnVerse.php');
@@ -30,7 +32,7 @@
 	hymn('virginis_proles_opifexque_matris_morte.php');
 	head('Pro Virgine non Martyre','For a Virgin, not a Martyr',-4);
 	hymn('virginis_proles_opifexque_matris_accipe.php');
-
+}
 	space();
 	hour('L');
 	ant('csVL.php','20000');

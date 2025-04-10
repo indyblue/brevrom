@@ -1,4 +1,7 @@
 <?php
+	$matins = $_GET['matins-l'];
+if($matins) {
+
 /******************************* LATINA **************************************/
 	$invL = ['Regem regum Dóminum, veníte adorémus: * Quia ipse est coróna Sanctórum ómnium.'];
 	$mantL = [
@@ -96,5 +99,5 @@ $l9 = ['cr|9',
 	antM(3, [$mantL,$mantE], [33,60,96]);
 	vrS('prSanct/justi_autem_in_perpetuum_vivent.php');
 	lectioN(3, [$l7, $l7r, $l8, $l8r, $l9], null, 'quorum');
-
+}
 ?>

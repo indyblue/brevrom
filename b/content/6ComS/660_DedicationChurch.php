@@ -17,12 +17,14 @@
 	ant('sanctificavit_dominus_tabernaculum_suum.php','M',2);
 	rubrics('cs/1Compline.php');
 
-	space();
+		$matins = $_GET['matins'];
+if($matins) {
+space();
 	hour('M');
 	ant('domum_dei_decet_sanctitudo_sponsum_ejus_christum_adoremus_in_ea.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('caelestis_urbs_jerusalem.php');
-
+}
 	space();
 	hour('L');
 	ant('csChurchL.php','20000',2);

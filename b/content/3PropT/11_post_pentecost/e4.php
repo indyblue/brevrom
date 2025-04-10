@@ -8,6 +8,8 @@
 	prayer('prTemp/post_epiphany/04.php');
 	space();
 
+	$matins = $_GET['matins-l'];
+if($matins) {
 	hour('M');
 $cap1 = '8, 23-27';
 /******************************* LATINA **************************************/
@@ -32,7 +34,7 @@ space();
 lectio($l1, $e1);
 rubrics('te_deum.php');
 space();
-
+}
 	hour('L');
 	vrS('Ord/dominus_regnavit_decorem_induit.php',0);
 	ant('prTemp/post_epiphany/04b.php','B');

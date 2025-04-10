@@ -1,5 +1,8 @@
 <?php
 space();
+	$matins = $_GET['matins-l'];
+if($matins) {
+
 hour('M');
 
 $cap1 = '1, 1-3';
@@ -35,5 +38,5 @@ rm([$l1r,$e1r],0,1);
 
 lectio($l2, $e2);
 rm([$l2r,$e2r],0,0);
-
+}
 ?>

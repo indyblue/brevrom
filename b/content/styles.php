@@ -5,6 +5,13 @@ if($_GET['Style']=='7') {
 	$PgMar = .25;
 	$PgGMar = .25;
 	$Body = 9;
+} elseif($_GET['Style']=='clp') {
+	$om = 0.25;
+	$PgW = 5.5;
+	$PgH = 8.5;
+	$PgMar = 0.3; // + .125;
+	$PgGMar = 0.75;
+	$Body = 9;
 } elseif($_GET['Style']=='Az6') {
 	$om = 0.25;
 	$PgW = 6;

@@ -42,7 +42,7 @@ $_GET['htm'] = 0;
 // Switch to change page settings:
 // see content/styles.php for options
 //
-$_GET['Style'] = 'Az6';
+$_GET['Style'] = 'clp';
 include('styles.php');
 // 
 // these are only used if 'Style' is not a valid preset
@@ -65,10 +65,10 @@ $_GET['O'] = 0;
 $_GET['comm'] = 0;
 
 // Switch to determine if headings are in English or Latin
-$_GET['L'] = 1;
+$_GET['L'] = 0;
 $_GET['interl-off'] = 0;
 // Forces parallel headings
-$_GET['par'] = 1;
+$_GET['par'] = 0;
 
 // Short/Long form
 //  0 = short form
@@ -76,7 +76,7 @@ $_GET['par'] = 1;
 $_GET['long'] = 0;
 $_GET['weekly'] = 0;
 // matins option 
-$_GET['matins'] = 1;
+$_GET['matins'] = 0;
 $_GET['matins-l'] = 0; // lessons
 
 

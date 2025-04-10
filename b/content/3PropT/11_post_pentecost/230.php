@@ -11,6 +11,9 @@
 	prayer('prTemp/post_pentecost/230.php');
 	space();
 
+	$matins = $_GET['matins-l'];
+if($matins) {
+
 	hour('M');
 $cap1 = '9, 18-26';
 /******************************* LATINA **************************************/
@@ -35,6 +38,7 @@ space();
 lectio($l1, $e1);
 rubrics('te_deum.php');
 space();
+}
 
 	hour('L');
 	vrS('Ord/dominus_regnavit_decorem_induit.php',0);

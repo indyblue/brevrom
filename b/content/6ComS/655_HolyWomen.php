@@ -23,14 +23,16 @@
   	space('Line');
 	rubrics('cs/1Compline.php');
 
-	space();
+		$matins = $_GET['matins'];
+if($matins) {
+space();
 	hour('M');
 	ant('laudemus_deum_nostrum_in_confessione_beatae.php','I');
 	head('Si fuerint plures non Virgines','If there are several Holy Women',-4);
 	ant('laudemus_deum_nostrum_in_confessione_beatarum.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('hujus_oratu_deus_alme_nobis.php');
-
+}
 	space();
 	hour('L');
 	ant('csHWL.php','20000');

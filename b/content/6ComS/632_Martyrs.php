@@ -18,12 +18,14 @@
 	ant('istorum_est_enim_regnum_caelorum.php','M');
 	rubrics('cs/1Compline.php');
 
-	space();
+		$matins = $_GET['matins'];
+if($matins) {
+space();
 	hour('M');
 	ant('regem_martyrum_dominum_venite_adoremus.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('christo_profusum_sanguinem.php');
-
+}
 	space();
 	hour('L');
 	ant('csMmL.php','20000');

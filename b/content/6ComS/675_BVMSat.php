@@ -11,12 +11,14 @@
 	rubp('Omnibus sabbatis IV classis, fit Officium de sancta Maria, in quo, sumptis antiphonis et psalmis de sabbato, reliqua dicuntur ut infra.', 'On all IV class Saturdays, the Office of Holy Mary takes place, in which the antiphons and psalms of Saturday are used, the rest being said as follows.');
 	space();
 
-	hour('M');
+		$matins = $_GET['matins'];
+if($matins) {
+hour('M');
 	ant('ave_maria.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('quem_terra_pontus_sidera.php');
 	space();
-
+}
 
 	hour('L');
 	rubrics('ps/SaL1.php');
@@ -76,6 +78,8 @@
 	space();
 	img();
 
+	$matins = $_GET['matins'];
+if($matins) {
 	include '675_BVMSat_matins/lectio_01.php';
 	include '675_BVMSat_matins/lectio_02.php';
 	include '675_BVMSat_matins/lectio_03.php';
@@ -84,4 +88,5 @@
 	include '675_BVMSat_matins/lectio_10.php';
 	include '675_BVMSat_matins/lectio_11.php';
 	include '675_BVMSat_matins/lectio_12.php';
+}
 ?>

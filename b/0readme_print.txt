@@ -8,6 +8,14 @@
 - $_GET['Style'] = 'Az6';
 - then check content/styles.php to see "options"
 
+- for parallel, to get the TOC to look correct generally need to tell it to use
+  english headers and non-parallel
+$_GET['L'] = 0;
+$_GET['interl-off'] = 0;
+// Forces parallel headings
+$_GET['par'] = 0;
+- for latin only, set par = 1 and L = 1
+
 in libreoffice, manually:
 - tools -> update -> all
 - file -> export as -> pdf

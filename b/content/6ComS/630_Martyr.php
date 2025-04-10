@@ -18,12 +18,14 @@
 	ant('iste_sanctus_pro_lege_dei_sui.php','M');
 	rubrics('cs/1Compline.php');
 
-	space();
+		$matins = $_GET['matins'];
+if($matins) {
+space();
 	hour('M');
 	ant('regem_martyrum_dominum_venite_adoremus.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('deus_tuorum_militum.php');
-
+}
 	space();
 	hour('L');
 	ant('csML.php','20000');

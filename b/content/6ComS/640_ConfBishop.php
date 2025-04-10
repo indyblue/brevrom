@@ -19,12 +19,14 @@
 	ant('csConfessorDoctorAnt.php','M',2);
 	rubrics('cs/1Compline.php');
 
-	space();
+		$matins = $_GET['matins'];
+if($matins) {
+space();
 	hour('M');
 	ant('regem_confessorum_dominum_venite_adoremus.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('iste_confessor_domini_colentes.php');
-
+}
 	space();
 	bookmark('csCBL');
 	hour('L');

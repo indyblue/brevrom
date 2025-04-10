@@ -15,12 +15,14 @@
 	ant('sancta_maria_succurre_miseris.php','M',2);
 	rubrics('cs/1Compline.php');
 
-	space();
+		$matins = $_GET['matins'];
+if($matins) {
+space();
 	hour('M');
 	ant('sancta_maria_dei_genetrix.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('quem_terra_pontus_sidera.php');
-
+}
 	hour('L');
 	ant('csBVML.php','20000',2);
 	rubrics('ps/SuL1.php');

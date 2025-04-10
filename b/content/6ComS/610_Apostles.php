@@ -18,11 +18,14 @@
 	ant('tradent_enim_vos_in_conciliis.php','M');
 	rubrics('cs/1Compline.php');
 
+	$matins = $_GET['matins'];
+if($matins) {
 	space();
 	hour('M');
 	ant('regem_apostolorum_dominum_venite_adoremus.php','I');
 	rubrics('head/HymnVerse.php');
 	hymn('aeterna_christi_munera.php');
+}
 
 	space();
 	hour('L');

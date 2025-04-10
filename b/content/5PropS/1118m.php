@@ -1,4 +1,7 @@
 <?php
+	$matins = $_GET['matins-l'];
+if($matins) {
+
 space();
 hour('M',2);
 
@@ -25,4 +28,5 @@ ant('Matins/n3b3_ad_societatem.php','b');
 lectio($l1, $e1);
 rubrics('te_deum.php');
 space();
+}
 ?>
