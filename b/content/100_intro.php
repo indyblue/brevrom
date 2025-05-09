@@ -52,11 +52,6 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
       <p:P159/>
 <?php img('Title_JR.png',35); ?>
       <p:P159/>
-		<p:P160>***PROOF COPY***</p>
-		<p:P201>This copy is intended for proof-reading
-<text:line-break/>purposes only. It has not yet received
-<text:line-break/>ecclesiastical approbation under Can. 826.</p>
-      <p:P159/>
 		<p:P161>Gallican Latin Psalter of St. Jerome
       <text:line-break/>Douay-Rheims (Challoner) English Psalter</p>
       <p:P159/>
