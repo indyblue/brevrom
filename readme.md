@@ -17,4 +17,6 @@ You will also need the images, which are in the repository under `b/Images`. The
 - Open the document
 - If it tells you it's opened as "read only," click the "edit" button.
 - In the menu choose `Tools -> Update -> Update All`. This will update pagination, the Table of Contents, etc.
+- Make any desired manual edits, such as inserting additional page breaks etc.
+- If manual edits were made, repeat the `Update All` step above to be sure all references are updated.
 - In the menu choose `File -> Export as ... -> Export as PDF`, and follow the prompts.
