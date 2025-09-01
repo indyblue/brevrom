@@ -266,7 +266,7 @@ include(dirname(__FILE__) . '/../content/styles.php');
    </style:header-style>
    <style:footer-style/>
   </style:page-layout>
-  <style:page-layout style:name="pm4" style:page-usage="mirrored">
+  <style:page-layout style:name="pm4" style:page-usage="right">
    <style:page-layout-properties fo:page-width=<?php echo '"'. $PgW .'in"' ?> fo:page-height=<?php echo '"'. $PgH .'in"' ?> style:num-format="1" style:print-orientation="portrait" fo:margin-top=<?php echo '"'. $PgMar .'in"' ?> fo:margin-bottom=<?php echo '"'. $PgMar .'in"' ?> fo:margin-left=<?php echo '"'. $PgGMar .'in"' ?> fo:margin-right=<?php echo '"'. $PgMar .'in"' ?> style:shadow="none" fo:background-color="transparent" style:writing-mode="lr-tb" style:footnote-max-height="0in">
     <style:background-image/>
     <style:columns fo:column-count="1" fo:column-gap="0in"/>
@@ -275,7 +275,15 @@ include(dirname(__FILE__) . '/../content/styles.php');
    <style:header-style/>
    <style:footer-style/>
   </style:page-layout>
- </office:automatic-styles>
+  <style:page-layout style:name="pm5" style:page-usage="left">
+   <style:page-layout-properties fo:page-width=<?php echo '"'. $PgW .'in"' ?> fo:page-height=<?php echo '"'. $PgH .'in"' ?> style:num-format="1" style:print-orientation="portrait" fo:margin-top=<?php echo '"'. $PgMar .'in"' ?> fo:margin-bottom=<?php echo '"'. $PgMar .'in"' ?> fo:margin-left=<?php echo '"'. $PgGMar .'in"' ?> fo:margin-right=<?php echo '"'. $PgMar .'in"' ?> style:shadow="none" fo:background-color="transparent" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:background-image/>
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0402in" style:distance-after-sep="0.0402in" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout> </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
   <style:master-page style:name="Standard2" style:page-layout-name="pm2"/>
@@ -319,5 +327,6 @@ include(dirname(__FILE__) . '/../content/styles.php');
    </style:header-left>
   </style:master-page>
   <style:master-page style:name="Header_20_Page" style:display-name="Header Page" style:page-layout-name="pm4"/>
+  <style:master-page style:name="Header_20_Left" style:display-name="Header Page Left" style:page-layout-name="pm5"/>
  </office:master-styles>
 </office:document-styles>

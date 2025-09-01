@@ -26,3 +26,4 @@ You will also need the images, which are in the repository under `b/Images`. The
 - Make any desired manual edits, such as inserting additional page breaks etc.
 - If manual edits were made, repeat the `Update All` step above to be sure all references are updated.
 - In the menu choose `File -> Export as ... -> Export as PDF`, and follow the prompts.
+- In the export as PDF dialog, select "Export automatically inserted blank pages"

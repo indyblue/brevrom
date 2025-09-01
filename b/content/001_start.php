@@ -160,6 +160,9 @@
   <style:style style:name="P182" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Header_20_Page">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
+  <style:style style:name="P182L" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Header_20_Left">
+   <style:paragraph-properties style:page-number="auto"/>
+  </style:style>
   <style:style style:name="P183" style:family="paragraph" style:parent-style-name="Spacer" style:master-page-name="Standard2">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>

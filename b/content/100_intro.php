@@ -42,9 +42,9 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 	}
 ?>
 	<p:Spacer/>
-	<p:P1><draw:frame draw:style-name="fr6" draw:name="graphics2" text:anchor-type="paragraph" svg:width="7.24in" style:rel-width="<?= $wid ?>" svg:height="11.15in" style:rel-height="<?= $hei ?>" draw:z-index="0"><draw:image xlink:href="../Images/FP_Trinity_Saints.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+	<p:P182L><draw:frame draw:style-name="fr6" draw:name="graphics2" text:anchor-type="paragraph" svg:width="7.24in" style:rel-width="<?= $wid ?>" svg:height="11.15in" style:rel-height="<?= $hei ?>" draw:z-index="0"><draw:image xlink:href="../Images/FP_Trinity_Saints.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
     </draw:frame></p>
-   <p:P1><draw:frame draw:style-name="fr6" draw:name="graphics1" text:anchor-type="paragraph" svg:width="16.56in" style:rel-width="<?= $wid ?>" svg:height="26.26in" style:rel-height="<?= $hei ?>" draw:z-index="0"><draw:image xlink:href="../Images/border.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+   <p:P181><draw:frame draw:style-name="fr6" draw:name="graphics1" text:anchor-type="paragraph" svg:width="16.56in" style:rel-width="<?= $wid ?>" svg:height="26.26in" style:rel-height="<?= $hei ?>" draw:z-index="0"><draw:image xlink:href="../Images/border.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
     </draw:frame><draw:frame draw:style-name="fr3" draw:name="Frame3" text:anchor-type="paragraph" svg:width="3in" draw:z-index="1">
      <draw:text-box fo:min-height="2in">
       <p:Head1NI>Diurnale Romanum</p>
