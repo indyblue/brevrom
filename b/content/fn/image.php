@@ -1,6 +1,8 @@
 <?php
 
 function img($fname='separator4.png', $pct='33') {
+	global $no_image;
+	if (isset($no_image) && $no_image) return;
 	$dir = $_GET['root'] . "/../Images/";
 	$tmp = getimagesize($dir . $fname);
 	if($tmp[0]==0)

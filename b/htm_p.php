@@ -5,6 +5,7 @@ error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED);
 $_GET['interl-off'] = 1;
 
 mb_internal_encoding('UTF-8');
+$no_image=1;
 $_GET['htm'] = 1;
 $_GET['old'] = 1;
 $_GET['abbrev'] = 1;
