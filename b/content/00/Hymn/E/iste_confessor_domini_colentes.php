@@ -7,7 +7,7 @@ Erst on this feast-day merited to enter
 Into his glory.
 
 Saintly and prudent, modest in behaviour,
-Peaceful and sober, chase was he, and lowly,
+Peaceful and sober, chaste was he, and lowly,
 While that life’s vigour, coursing through his members,
 Quicken’d his being.
 
