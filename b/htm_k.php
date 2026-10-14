@@ -87,6 +87,7 @@ $html1 = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 
 $regex=array(
 	'/<draw:frame.*rel-width="(\d*)%".*href="\.\.\/([^"]*").*<\/draw:frame>/',
+	'/<draw:(?:object|image)\b[^>]*\/>/',
 	'/<text:note.*text:label="([^"]*)".*<p:Footnote>(.*)<\/p>.*<\/text:note>/',
 	'/<text:bookmark-ref[^>]*text:ref-name="([^"]*)"[^>]*>/',
 	'/<\/text:bookmark-ref>/',
@@ -120,6 +121,7 @@ $regex=array(
 );
 $repl=array(
 	'', //'<img src="/b/\2 width=\1%>',
+	'',
 	'</td></tr><tr><td colspan=2><span style="font-size:100%;color:red">\1\2</span>',
 	'<a href="#\1">',
 	'</a>',

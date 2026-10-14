@@ -33,7 +33,7 @@ Compline (</s><?php echo bkref('orCompline'); ?><sr>)</s></p>
 	psalm(147); 
 	echo '<!--sec 2col end -->';
 	
-	if($_GET['Style'] == '6') {
+	if(($_GET['Style'] ?? '') == '6') {
 		$wid = 'scale';
 		$hei = '100%';
 	} else {

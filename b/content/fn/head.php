@@ -181,7 +181,7 @@ function head($L, $E, $size=3, $h1=0, $h2=0) {
 		$size = $size - 10;
 		$interl = true;
 	}
-	if($size<2 && !$_GET['interl-off']) $interl = true;
+	if($size<2 && empty($_GET['interl-off'])) $interl = true;
 	if(strlen($L)==0) {
 		$par = 0;
 		$Llang = 0;

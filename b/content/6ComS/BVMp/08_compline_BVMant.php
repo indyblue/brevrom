@@ -1,6 +1,6 @@
 <?php
 	head('Antiphonæ Finales B. Mariæ Virg.',
-		'Final Antiphons of the Blessed Virgin Mary',$h1?1:2);
+		'Final Antiphons of the Blessed Virgin Mary',!empty($h1)?1:2);
 	
 	global $kindle;
 	if($kindle==1) 

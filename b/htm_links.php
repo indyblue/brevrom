@@ -1,4 +1,11 @@
 <?php 
+if (PHP_SAPI === 'cli' && isset($argv[1])) {
+	$_GET['url'] = $argv[1];
+	$_REQUEST['x'] = 1;
+	$_SERVER['REQUEST_URI'] = '/brevrom/b/kindle/' . $argv[1] . '?x=1';
+	chdir(__DIR__);
+	require 'htm_k.php';
+}
 //ini_set('allow_url_fopen', 1);
 
 //*
@@ -7,7 +14,7 @@ if(!isset($_REQUEST['x'])) {
 	// because this routine takes several seconds to run,
 	// we will store the results in a file, and use this file
 	// for any additional requests in the next few minutes
-	$file = getcwd().'/content/htm_links.php';
+	$file = sys_get_temp_dir().'/brevrom_htm_links.php';
 	$x = preg_match_all('/<text:bookmark.*text:name="([^"]*)"\/>/', $txtContent, $n0);
 	$file_good = false;
 
@@ -29,18 +36,21 @@ if(!isset($_REQUEST['x'])) {
 		require 'htm_k.htm';
 		$htm = ob_get_contents();
 		ob_end_clean();
+		$htm = preg_replace('/<!--.*?-->/s', '', $htm);
 
 		$links = [];
 		$x = preg_match_all('/<a [^>]*href="(?:kindle\/)?([^"]*)/i', $htm, $m);
 		//var_dump($m);
 		foreach($m[1] as $url) {
-			if(strpos($_SERVER["REQUEST_URI"], $url)!==false
-				|| strpos($url, '#')!==false
-				|| strpos($url, '/en/')!==false) {
+			if(strpos($url, '#')!==false
+				|| strpos($url, 'en/')===0) {
 				continue;
 			}
 
-			$htm = file_get_contents("http://localhost/b/kindle/$url&x=1");
+			$output = [];
+			exec(escapeshellarg(PHP_BINDIR.'/php').' '.escapeshellarg(__DIR__.'/htm_links.php').' '.escapeshellarg($url), $output, $status);
+			if($status!==0) { http_response_code(503); exit; }
+			$htm = implode("\n", $output);
 			$x = preg_match_all('/<text:bookmark.*text:name="([^"]*)"\/>/', $htm, $n);
 			foreach($n[1] as $i) {
 				if(!isset($links[$i]))
